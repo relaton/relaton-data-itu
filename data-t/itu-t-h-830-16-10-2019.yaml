@@ -1,0 +1,29 @@
+---
+id: ITUTH83016102019
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 'Conformance of ITU-T H.810 personal health system: Services interface
+    Part 16: FHIR Observation Upload: Health & Fitness Service receiver'
+  type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-H.830.16-201910-I
+docidentifier:
+- content: ITU-T H.830.16 (10/2019)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2019-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

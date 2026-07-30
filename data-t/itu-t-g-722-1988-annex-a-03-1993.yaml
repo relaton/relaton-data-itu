@@ -1,0 +1,29 @@
+---
+id: ITUTG7221988AnnexA031993
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Testing signal-to-total distortion ratio for 7 kHz audio-codecs at 64 kbit/s
+    Recommendation G.722 connected back-to-back
+  type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-G.722-199303-S!AnnA
+docidentifier:
+- content: ITU-T G.722 (1988) Annex A (03/1993)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1993-03
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation-annex
+  flavor: itu

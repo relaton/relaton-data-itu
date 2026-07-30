@@ -1,0 +1,60 @@
+= ITU publications bibliographic data for Relaton-ITU
+
+This repository holds the *combined* bibliographic data for both ITU sectors —
+ITU-R (Radiocommunication) and ITU-T (Telecommunication Standardization) — used
+by Relaton-ITU. It supersedes the ITU-R-only
+https://github.com/relaton/relaton-data-itu-r[relaton-data-itu-r] repository.
+
+Data is stored in Relaton YAML format, split by sector:
+
+* `data-r/` — ITU-R publications. Migrated once from `relaton-data-itu-r`. ITU
+  removed / WAF-blocked the bulk-enumeration endpoint that harvested this corpus
+  (the old `RunSearch` search) and there is no known replacement "list all ITU-R
+  publications" source yet, so this folder is *preserved as-is* and is not
+  re-crawled. It will be refreshed again once an ITU-R enumeration source is
+  restored (see the hand-off notes in `crawler.rb`).
+* `data-t/` — ITU-T Recommendations (and supplements/amendments/corrigenda).
+  Harvested from the ITU-T recommendation index
+  (`mws/api/recommendations/searchRecs`, issue relaton-itu#80) and *wiped and
+  recreated* on every crawl.
+
+== Crawler
+
+`crawler.rb` runs daily via `.github/workflows/crawler.yml`. Each run:
+
+1. wipes `data-t/` and re-derives the ITU-R index rows from the preserved
+   `data-r/`;
+2. harvests the full ITU-T corpus into `data-t/`, merging its rows into the
+   index (`Relaton::Itu::DataFetcher.fetch("itu-t")`);
+3. writes the combined `index-v2.yaml` and rebuilds `index-v2.zip`.
+
+`data-r/` is never wiped, so the un-re-harvestable ITU-R corpus is retained.
+
+NOTE: the ITU-T harvest needs the ITU-T producer (issue relaton-itu#80) merged to
+`relaton` `main`, which the `Gemfile` pins. Until then, a crawl only re-derives
+the ITU-R index; `data-t/` stays empty.
+
+== Index
+
+Both sectors serialize to the same `pubid:itu` structured `index-v2`, so one
+index holds ITU-R and ITU-T rows together:
+
+* `index-v2.yaml`/`.zip` — pubid-structured index (rows carry
+  `_type: pubid:itu:*`), consumed by the `Relaton::Itu` flavor.
+
+Each row's id is kept only if it round-trips
+(`from_hash(to_hash).to_hash == to_hash`) through `::Pubid::Itu`, the same guard
+`Relaton::Itu::DataFetcher#pubid` and the index loader's
+`Relaton::Index::FileIO#id_supported?` apply, so producer and consumer stay
+aligned. A handful of malformed/series-level ids that pubid does not model are
+written as data files but left unindexed.
+
+Verify the published index with:
+
+[source,sh]
+----
+bundle exec rspec
+----
+
+NOTE: `index-v2` must be produced by the same relaton/pubid the flavor consumes —
+see the pins and comments in `Gemfile`.

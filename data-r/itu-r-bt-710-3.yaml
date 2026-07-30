@@ -1,0 +1,28 @@
+---
+id: ITURBT7103
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Subjective assessment for image quality in high-definition television
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/bt/R-REC-BT.710-3-199710-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R BT.710-3
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1998-07
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

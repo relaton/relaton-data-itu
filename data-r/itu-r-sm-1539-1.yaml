@@ -1,0 +1,29 @@
+---
+id: ITURSM15391
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Variation of the boundary between the out-of-band and spurious domains
+    required for the application of Recommendations ITU-R SM.1541 and ITU-R SM.329
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/sm/R-REC-SM.1539-1-200211-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R SM.1539-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2020-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

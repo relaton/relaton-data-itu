@@ -1,0 +1,29 @@
+---
+id: ITURP3138
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Exchange of information for short-term forecasts and transmission of ionospheric
+    disturbance warnings
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.313-8-199510-S!!PDF-E.pdf
+docidentifier:
+- content: ITU-R P.313-8
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

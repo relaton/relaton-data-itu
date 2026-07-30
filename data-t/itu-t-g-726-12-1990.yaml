@@ -1,0 +1,28 @@
+---
+id: ITUTG726121990
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 40, 32, 24, 16 kbit/s Adaptive Differential Pulse Code Modulation (ADPCM)
+  type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-G.726-199012-I
+docidentifier:
+- content: ITU-T G.726 (12/1990)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1990-12
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

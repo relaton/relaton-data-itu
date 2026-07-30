@@ -1,0 +1,29 @@
+---
+id: ITUTX35111993
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Interface between a PSPDN and a private PSDN which is based on X.25 procedures
+    and enhancements to define a gateway function that is provided in the PSPDN
+  type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-X.35-199311-I
+docidentifier:
+- content: ITU-T X.35 (11/1993)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1993-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

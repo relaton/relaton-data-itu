@@ -1,0 +1,28 @@
+---
+id: ITUTZ105102001
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: SDL combined with ASN.1 modules (SDL/ASN.1)
+  type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-Z.105-200110-S
+docidentifier:
+- content: ITU-T Z.105 (10/2001)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2001-10
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

@@ -1,0 +1,29 @@
+---
+id: ITUTG711AppII022000
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: A comfort noise payload definition for ITU-T G.711 use in packet-based
+    multimedia communication systems
+  type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-G.711-200002-I!AppII
+docidentifier:
+- content: ITU-T G.711 App. II (02/2000)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2000-02
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

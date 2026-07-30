@@ -1,0 +1,29 @@
+---
+id: ITURF3920
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Hypothetical reference circuit for radio-relay systems for telephony using
+    frequency-division multiplex with a capacity of more than 60 telephone channels
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/f/R-REC-F.392-0-196307-W!!PDF-E.pdf
+docidentifier:
+- content: ITU-R F.392-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1995-05
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

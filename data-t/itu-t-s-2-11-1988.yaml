@@ -1,0 +1,29 @@
+---
+id: ITUTS2111988
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Coding scheme using International Telegraph Alphabet No. 2 (ITA2) to allow
+    the transmission of capital and small letters
+  type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-S.2-198811-I
+docidentifier:
+- content: ITU-T S.2 (11/1988)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1988-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu

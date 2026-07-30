@@ -1,0 +1,29 @@
+---
+id: ITUTI525081996
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Interworking between networks operating at bit rates less than 64 kbit/s
+    with 64 kbit/s-based ISDN and B-ISDN
+  type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-I.525-199608-I
+docidentifier:
+- content: ITU-T I.525 (08/1996)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1996-08
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: recommendation
+  flavor: itu
