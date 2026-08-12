@@ -16,11 +16,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2023-11
+  at: '2023-11-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1095 defines an entity authentication infrastructure
+    for pet animals using telebiometrics. It specifies multimodal telebiometrics,
+    which uses nose patterns and faces of pet animals. This Recommendation is applicable
+    in various pet animal services such as registration, insurance and e-health care
+    for pet animals. Entity authentication for pet animals is always performed in
+    a non-cooperative environment, therefore it is necessary to define criteria for
+    acquiring suitable multimodal telebiometrics for pet entity authentication. There
+    are also requirements for devices that acquire multimodal telebiometrics, and
+    architecture in the operating platform for stable multimodal telebiometric applications
+    for pet animals.\r\nThis Recommendation specifies functional requirements for
+    biometric capture devices and data acquisition of biometrics for pet entity authentication.
+    A platform architecture, performance testing methodology and privacy issues are
+    also defined.\r\nThe following topics are addressed in the scope of this Recommendation:\r\n–Pet
+    animals cover dogs and cats;\r\n–Multimodal telebiometrics cover nose patterns
+    and faces;\r\n–Biometric capture devices cover digital cameras, mobile cameras,
+    specific cameras such as infrared cameras, high-speed cameras and optical scanners.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

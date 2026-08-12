@@ -16,11 +16,73 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2000-10
+  at: '2000-10-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies the network capabilities to support the registration
+    and communication of information required for charging and accounting of ATM connections
+    in order to support the charging and accounting principles as defined in Recommendation
+    D.224. It specifies the events to be registered, for each event the parameters
+    to be registered and the requirements related to the communication of this information
+    to an external system.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
+    docidentifier:
+    - content: I Suppl. 1 (03/1998)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

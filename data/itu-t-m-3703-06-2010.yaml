@@ -17,11 +17,62 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2010-06
+  at: '2010-06-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T M.3703 provides the requirements and analysis for
+    one of the common management services - alarm management. The functional requirements
+    for the alarm management interface include the management functions for alarm
+    forwarding and filtering, clearing of alarms, storage and retrieval of alarms
+    in/from the agent, configuration of alarms, alarm acknowledgement and alarm notification
+    failure. In the analysis part, the detailed information model supporting the above
+    functions across the management interface is provided.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

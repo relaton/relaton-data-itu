@@ -16,11 +16,98 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2009-01
+  at: '2009-01-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 15
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2.3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Amendment 2 to Recommendation ITU-T X.85/Y.1321 adds a set of new SAPI
+    values for LAPS to Table A.1, to identify the encapsulated protocols. Most of
+    the values contained in the new table come from IETF-assigned PPP DLL Protocol
+    Numbers due to the LAPS compatibility with PPP/HDLC.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.85/Y.1321 (2001) Cor. 1 (06/2005)
+    docidentifier:
+    - content: X.85/Y.1321 (2001) Cor. 1 (06/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Bit-oriented method for LAPS
+    docidentifier:
+    - content: X.85/Y.1321 (2001) Amd. 1 (04/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: IP over SDH using LAPS
+    docidentifier:
+    - content: X.85/Y.1321 (03/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: IP over SDH using LAPS
+    docidentifier:
+    - content: X.85/Y.1321 (03/2000)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

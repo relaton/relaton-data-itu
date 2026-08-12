@@ -16,11 +16,121 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2008-04
+  at: '2008-04-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'Recommendation ITU-T X.1205 provides a definition for cybersecurity. This
+    Recommendation provides a taxonomy of the security threats from an organization
+    point of view. Cybersecurity threats and vulnerabilities including the most common
+    hacker''s tools of the trade are presented. Threats are discussed at various network
+    layers.Various cybersecurity technologies that are available to remedy the threats
+    are discussed, including: routers, firewalls, antivirus protection, intrusion
+    detection systems, intrusion protection systems, secure computing and audit and
+    monitoring. Network protection principles, such as defence in depth, access management
+    with application to cybersecurity are discussed. Risk management strategies and
+    techniques are discussed including the value of training and education in protecting
+    the network. Examples for securing various networks, based on the discussed technologies,
+    are also discussed.'
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1205 – Supplement on best practices against botnet threats
+    docidentifier:
+    - content: X Suppl. 8 (12/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1205 – Supplement on guidelines for reducing malware in ICT
+        networks
+    docidentifier:
+    - content: X Suppl. 9 (09/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1205 – Supplement on usability of network traceback
+    docidentifier:
+    - content: X Suppl. 10 (01/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1205 - Supplement on guidelines for abnormal traffic detection
+        and control on IP-based telecommunication networks
+    docidentifier:
+    - content: X Suppl. 18 (04/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T X.1205 - Supplement on framework of security information sharing
+        negotiation '
+    docidentifier:
+    - content: X Suppl. 20 (04/2013)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

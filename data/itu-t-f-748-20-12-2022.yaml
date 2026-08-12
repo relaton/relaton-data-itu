@@ -17,11 +17,130 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-12
+  at: '2022-12-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: The deep neural network (DNN) model inference process usually requires
+    a large amount of computing resources and memory. Therefore, it is difficult for
+    end devices to perform DNN models independently. An effective way to implement
+    end-edge collaborative DNN execution is through DNN model partition, which can
+    reduce latency and improve resource utilization at the same time. Recommendation
+    ITU-T F.748.20 aims to specify the technical framework of DNN model partition
+    and collaborative execution. First, it is necessary to predict the overall inference
+    latency under the current system state according to different DNN partition strategies
+    in advance. Then, it is necessary to choose the appropriate partition locations
+    and collaborative execution strategy based on the equipment computation capabilities,
+    network status and DNN model properties. Finally, the model collaborative execution
+    is implemented and the resource allocation optimized in the meantime.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
+    docidentifier:
+    - content: F Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terms and definitions for telex
+    docidentifier:
+    - content: F Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of Telecom Finance (Finance2.0)
+    docidentifier:
+    - content: F Suppl. 3 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of convergence of artificial intelligence and blockchain
+    docidentifier:
+    - content: F Suppl. 4 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
+    docidentifier:
+    - content: F Suppl. 5 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of ICT-enabled flying car service platform
+    docidentifier:
+    - content: F Suppl. 6 (07/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

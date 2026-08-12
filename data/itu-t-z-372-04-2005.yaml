@@ -16,11 +16,62 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2005-04
+  at: '2005-04-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides a specification for the design of the Human-Machine
+    Interface (HMI) for object browsers. An object browser allows a user to select
+    an object from a group of objects and perform some required functions on that
+    object. This specification is called a pattern. A software pattern is used by
+    designers to generate templates and specific instantiations for products. Object
+    browsing is one of a few generic tasks performed by operators of telecommunications
+    networks across a wide range of network and service management applications.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

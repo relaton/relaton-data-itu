@@ -11,11 +11,119 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-03
+  at: '2003-03-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 15
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This amendment includes changes to the fixed measurement error, adds a
+    high-pass jitter measurement filter, specifies jitter transfer measurement accuracy,
+    and revises the accuracy specification for TDEV wander noise generation.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Alternative clock and jitter generation and a new verification method
+        for STM-256 reference transmitter intrinsic jitter
+    docidentifier:
+    - content: O.172 (2005) Amd. 2 (07/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: O.172 (2005) Amd. 1 (06/2008)
+    docidentifier:
+    - content: O.172 (2005) Amd. 1 (06/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Jitter and wander measuring equipment for digital systems which are
+        based on the synchronous digital hierarchy (SDH)
+    docidentifier:
+    - content: O.172 (04/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: O.172 (2005) Err. 1 (10/2005)
+    docidentifier:
+    - content: O.172 (2005) Err. 1 (10/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Jitter and wander measuring equipment for digital systems which are
+        based on the synchronous digital hierarchy (SDH)
+    docidentifier:
+    - content: O.172 (03/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Jitter and wander measuring equipment for digital systems which are
+        based on the synchronous digital hierarchy (SDH)
+    docidentifier:
+    - content: O.172 (03/1999)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

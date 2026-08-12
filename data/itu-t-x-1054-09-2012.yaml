@@ -15,13 +15,99 @@ docidentifier:
 - content: ITU-T X.1054 (09/2012)
   type: ITU
   primary: true
+- content: ISO/IEC 27014
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2012-09
+  at: '2012-09-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1054 | International Standard ISO/IEC 27014 provides
+    guidance on the governance of information security.\r\nInformation security has
+    become a key issue for organizations. Not only are there increasing regulatory
+    requirements, but also the failure of an organization's information security measures
+    can have a direct impact on an organization's reputation.\r\nTherefore, the governing
+    body, as part of its governance responsibilities, is increasingly required to
+    oversee information security to ensure that the objectives of the organization
+    are achieved.\r\nIn addition, governance of information security provides a powerful
+    link between an organization's governing body, executive management and those
+    responsible for implementing and operating an information security management
+    system.\r\nIt provides the mandate essential for driving information security
+    initiatives throughout the organization.\r\nFurthermore, an effective governance
+    of information security ensures that the governing body receives relevant reporting
+    – framed in a business context – about information security-related activities.
+    This enables pertinent and timely decisions about information security issues
+    in support of the strategic objectives of the organization.\r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information security, cybersecurity and privacy protection - Governance
+        of information security
+    docidentifier:
+    - content: X.1054 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1054 - Supplement on best practice for governance of information
+        security - Case of Burkina Faso
+    docidentifier:
+    - content: X Suppl. 27 (09/2016)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

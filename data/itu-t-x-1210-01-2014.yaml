@@ -17,11 +17,62 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2014-01
+  at: '2014-01-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1210 provides source-based security troubleshooting
+    mechanisms for security issues, as well as selection criteria and basic security
+    guidelines of troubleshooting mechanisms.\r\nSource-based troubleshooting security
+    issues in Internet protocol-based networks involve techniques used to discover
+    technical information concerning the ingress points, paths, partial paths or sources
+    of a packet or packets causing a problematic network event, generally for the
+    purposes of applying mitigation measures.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

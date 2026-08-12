@@ -17,11 +17,64 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2012-09
+  at: '2012-09-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Botnets are a major source of e-mail spam. Botnet related devices, including
+    master, command and control (C&C) servers and infected computers, are decentralized
+    on the Internet, which greatly challenges any party to identify botnets and discover
+    specific botnet-related information. Therefore, information sharing becomes a
+    crucial factor to counter e-mail spam sent by a botnet. This Supplement provides
+    a reference model which can be applied to the interactive gateway system for countering
+    spam, in accordance with Recommendation ITU-T X.1243. In this reference model,
+    spam-countering gateways can share botnet-related information with each other.
+    This Supplement mainly focuses on countering e-mail spam sent by a botnet.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,58 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-05
+  at: '2003-05-30'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Supplement is based on the Full-Service VDSL Focus Group Technical
+    Specification (FGTS) - Part 1 "FS-VDSL Operators Requirements" and complements
+    the specifications found in ITU-T Recs H.610 and H.611.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

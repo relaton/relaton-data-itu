@@ -17,11 +17,125 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1991-10
+  at: '1991-10-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines the basic requirements which should be observed
+    when defining interworking relations between the international telex service and
+    other services. The aim of this Recommendation is to ensure that by implementing
+    such interworking relations no negative influences arise for subscribers of the
+    international telex service.Only the perspective of a telex subscriber communicating
+    with terminals of another service [via an interworking function (IWF)] is considered
+    in this Recommendation
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
+    docidentifier:
+    - content: F Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terms and definitions for telex
+    docidentifier:
+    - content: F Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of Telecom Finance (Finance2.0)
+    docidentifier:
+    - content: F Suppl. 3 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of convergence of artificial intelligence and blockchain
+    docidentifier:
+    - content: F Suppl. 4 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
+    docidentifier:
+    - content: F Suppl. 5 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of ICT-enabled flying car service platform
+    docidentifier:
+    - content: F Suppl. 6 (07/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

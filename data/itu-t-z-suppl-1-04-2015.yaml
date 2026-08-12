@@ -17,11 +17,96 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2015-04
+  at: '2015-04-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Supplement is published as a Supplement to the ITU-T Z.100 Series
+    for ITU System Design Languages (that is, Recommendations ITU-T Z.100 to Z.107,
+    Z.109, Z.110, Z.120, Z.121, Z.150, Z.151 and Z.160 to Z.170). This Supplement
+    1 to the ITU-T Z.100 series of Recommendations outlines a methodology (called
+    SDL+) for the use of these languages in combination, in particular where the ITU
+    Specification and Description Language is used.\r\nThis Supplement covers the
+    following topics:\r\n1)\tterminology definitions and background material on the
+    use and application of the ITU Specification and Description Language and related
+    ITU System Design Languages;\r\n2)\tan overview of the methodology (clause 4);\r\n3)\tmore
+    detailed descriptions of:\r\na)\tanalysis of the requirements (clause 5)\r\nb)\tdraft
+    design and investigation of the application (clause 6)\r\nc)\tformalization of
+    the application into a model of how an application behaves (clause 7)\r\nd)\timplementation
+    issues (clause 8)\r\ne)\tvalidation (clause 9).\r\n4)\trelationship with other
+    languages and techniques;\r\n5)\tan elaboration of the methodology for service
+    specification.\r\nThis Supplement is not exhaustive. The intention is that users
+    of SDL+ incorporate it in their overall methodologies, and tailor it for their
+    application systems and specific needs. In particular, this Supplement does not
+    cover the issues of derivation of an implementation from the specification, or
+    the testing of systems in detail. In the case of testing, it is expected that
+    this will be covered by a methodology dealing with the generation of tests for
+    standards or products based on SDL+.\r\nThe methodology is a framework to be elaborated
+    for the context of actual use. This Supplement has two parts. In Part I the framework
+    is explained as an overview in clause 4, and with a more detailed description
+    of the main parts in clauses 5, 6 and 7. The general framework is then specialized
+    for the case of services specification in Part II, starting at clause 12. The
+    parts from clauses 5, 6 and 7 are elaborated in clauses 13, 14 and 15. In this
+    specialization some choices of approach have been made. Many of the details given
+    in clauses 13, 14 and 15 can be used when the general framework is elaborated
+    for other contexts and other choices.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100 series – Supplement on SDL+ methodology: use of MSC and
+        SDL (with ASN.1)'
+    docidentifier:
+    - content: Z Suppl. 1 (05/1997)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

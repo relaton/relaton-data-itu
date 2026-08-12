@@ -16,11 +16,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2020-02
+  at: '2020-02-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T M.3041 introduces a framework of smart operation,
+    management and maintenance (SOMM). In this Recommendation, characteristics, scenarios
+    and the functional architecture of SOMM are provided to support service operation,
+    network management and infrastructure maintenance for both traditional non software-defined
+    networking/network function virtualization (non-SDN/VFN), and SDN/NFV aware networks.
+    This Recommendation also describes the relationship of the functional architecture
+    of SOMM with the logical layered architecture (LLA) of a telecommunications management
+    network (TMN).
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

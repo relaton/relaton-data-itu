@@ -14,13 +14,187 @@ docidentifier:
 - content: ITU-T X.693 (2001) Amd. 1 (10/2003)
   type: ITU
   primary: true
+- content: ISO/IEC 8825-4
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2003-10
+  at: '2003-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "An Amendment 1 is provided for ITU-T Rec. X.680 | ISO/IEC 8824-1, ITU-T
+    Rec. X.681 | ISO/IEC 8824-2, ITU-T Rec. 690 | ISO/IEC 8825-1, ITU-T Rec. X.691
+    | ISO/IEC 8825-2 and ITU-T Rec. X.693 | ISO/IEC 8825-4. These amendments provide
+    the following:\r\n–\tCorrection of a bug in CXER resulting from allowing white-space
+    between a minus sign and a following INTEGER or REAL value (CXER was not canonical).
+    This is no longer permitted, in value notation, XML Value Notation or in XER and
+    CXER. This is a change (introduced by text in Amendment 1 to Rec. X.680 | ISO/IEC
+    8824-1) and not an addition.\r\n–\tAddition of encoding instructions in an ASN.1
+    module, using either a type prefix or within an encoding control section, in order
+    to specify variations of the BASIC-XER encodings. These encoding instructions
+    are designed to support mappings from an XSD specification to an ASN.1 specification.
+    This provision has meant a change of terminology, where a type with \"[…]\" in
+    front of it is a prefixed type, and the \"[…]\" notation may or may not be a tag.
+    This change of terminology results in changes to the text (but not the substance)
+    of the BER and PER specifications, so there is also an Amendment 1 to these specifications.\r\n–\tThe
+    addition of NaN (Not-a-Number) and minus zero as new values for REAL (support
+    for encoding these new values is provided in Amendment 1 to ITU-T Rec. X.690 |
+    ISO/IEC 8825-1 and to ITU-T Rec. X.691 | ISO/IEC 8825-2, as well as in Amendment
+    1 to ITU-T Rec. X.693 | ISO/IEC 8825-4). \r\n–\tThe addition of new XML Value
+    Notations for REAL, BOOLEAN, ENUMERATED, and INTEGER that use text rather than
+    empty-element tags for the values. These are available in XML Value Notation and
+    in EXTENDED-XER, but not in BASIC-XER (for reasons of backwards-compatibility).\r\n–\tChanges
+    to the XML Value Notation for sequence-of (and the XER encodings) to provide delimitation
+    of values where they are not XML elements (this occurs with the additional XML
+    Value Notations, and only affects use of those additional XML Value Notations).
+    This change is only concerned with use of XML Value Notations that have been added
+    by this amendment, and these are not allowed in BASIC-XER, which is not affected.\r\nThis
+    provides the necessary basic support for EXTENDED-XER.\r\nThis amendment depends
+    on ITU-T Rec. X.680 (2002)/Amd.1 (2003) | ISO/IEC 8824-1:2002/Amd.1:2003 and on
+    ITU-T Rec. X.681 (2002)/Amd.1 (2003) | ISO/IEC 8824-2:2002/Amd.1:2003 for the
+    provision of alternative encodings for some types and for syntax for the insertion
+    of XER encoding instructions in an ASN.1 specification. Many references from this
+    amendment to clauses in these Recommendations | International Standards are to
+    clauses introduced by those amendments.\r\nThe bulk of this amendment is concerned
+    with the specification of the syntax and semantics of (new) XER encoding instructions
+    that can be used to require EXTENDED-XER encoders to provide specialized encodings
+    for ASN.1 types. These specialized encodings are largely designed to support ITU-T
+    Rec. X.694 | ISO/IEC 8825-5 (Mapping XSD into ASN.1).\r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology - ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
+    docidentifier:
+    - content: X.693 (02/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.693 (2015) Cor. 1 (10/2017)
+    docidentifier:
+    - content: X.693 (2015) Cor. 1 (10/2017)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
+    docidentifier:
+    - content: X.693 (08/2015)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.693 (2008) Cor. 2 (03/2014)
+    docidentifier:
+    - content: X.693 (2008) Cor. 2 (03/2014)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.693 (2008) Cor. 1 (10/2011)
+    docidentifier:
+    - content: X.693 (2008) Cor. 1 (10/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
+    docidentifier:
+    - content: X.693 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: PER encoding instructions
+    docidentifier:
+    - content: X.693 (2001) Amd. 3 (05/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Time type support
+    docidentifier:
+    - content: X.693 (2001) Amd. 2 (06/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
+    docidentifier:
+    - content: X.693 (12/2001)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

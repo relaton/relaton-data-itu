@@ -16,11 +16,293 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-08
+  at: '2025-08-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T Y.2500 provides the basic terms and definitions of
+    computing power network (CPN), including computing power, computing power network,
+    computing power network resource node, computing power network consumer, computing
+    power network provider and computing power network resource.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000 series – Supplement on NGN release 1 scope
+    docidentifier:
+    - content: Y Suppl. 1 (07/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000 series – Supplement on service scenarios for convergence
+        services in a multiple network and application service provider environment
+    docidentifier:
+    - content: Y Suppl. 3 (01/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in
+        next generation networks
+    docidentifier:
+    - content: Y Suppl. 6 (09/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on NGN release 2 scope
+    docidentifier:
+    - content: Y Suppl. 7 (09/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and
+        consortia
+    docidentifier:
+    - content: Y Suppl. 8 (01/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on multi-connection scenarios
+    docidentifier:
+    - content: Y Suppl. 9 (01/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on distributed service network (DSN)
+        use cases
+    docidentifier:
+    - content: Y Suppl. 10 (01/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series - Supplement on scenarios for the evolution of
+        NGN network capabilities to include information storage, processing and delivery
+    docidentifier:
+    - content: Y Suppl. 13 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile
+        convergence
+    docidentifier:
+    - content: Y Suppl. 14 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Profile-based application adaptation service
+        using next generation networks
+    docidentifier:
+    - content: Y Suppl. 15 (10/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series - Supplement on N-screen service scenarios for
+        fixed mobile convergence
+    docidentifier:
+    - content: Y Suppl. 24 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Device independent screen-free service models
+        and scenarios
+    docidentifier:
+    - content: Y Suppl. 51 (11/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y-series – Supplement on use cases of smart cities and communities
+    docidentifier:
+    - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for Internet of things ecosystem master plan
+    docidentifier:
+    - content: Y Suppl. 68 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
+    docidentifier:
+    - content: Y Suppl. 69 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
+    docidentifier:
+    - content: Y Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
+    docidentifier:
+    - content: Y Suppl. 83 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2500-series – Computing power networks standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 90 (07/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Service model of risk mitigation on livestock pandemic based on networks
+    docidentifier:
+    - content: Y Suppl. 91 (07/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Machine learning standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 96 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Glossary of terms and definitions for machine learning
+    docidentifier:
+    - content: Y Suppl. 97 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2500 series – Supplement on expectations and information flows
+        of resource awareness and service orchestration in computing power networks
+    docidentifier:
+    - content: Y Suppl. 109 (07/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

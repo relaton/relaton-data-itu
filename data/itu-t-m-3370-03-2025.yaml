@@ -16,11 +16,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-03
+  at: '2025-03-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T M.3370 describes the procedure, requirements and
+    classification for entities of preventive maintenance task. Traditional operation
+    and maintenance are mainly based on passive response and lack the ability to predict
+    and prevent failures in advance. By introducing preventive maintenance, potential
+    service quality degradation can be avoided, ensuring a good user experience. \r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Revision of one definition
+    docidentifier:
+    - content: M.3370 (2025) Amd. 1 (03/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

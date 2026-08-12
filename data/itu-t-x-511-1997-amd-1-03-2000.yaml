@@ -14,13 +14,276 @@ docidentifier:
 - content: ITU-T X.511 (1997) Amd. 1 (03/2000)
   type: ITU
   primary: true
+- content: ISO/IEC 9594-3
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2000-03
+  at: '2000-03-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3.2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Amendment to ITU-T Rec. X.511 | ISO/IEC 9594-3 provides extensions
+    to the abstract service definition of the Directory to support requirements expressed
+    in ITU-T Rec. F.510.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Miscellaneous enhancements
+    docidentifier:
+    - content: X.511 (2019) Amd. 1 (10/2024)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Abstract service definition'
+    docidentifier:
+    - content: X.511 (10/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Abstract service definition'
+    docidentifier:
+    - content: X.511 (10/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Abstract service definition'
+    docidentifier:
+    - content: X.511 (10/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2008) Cor. 3 (10/2012)
+    docidentifier:
+    - content: X.511 (2008) Cor. 3 (10/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2008) Cor. 2 (04/2012)
+    docidentifier:
+    - content: X.511 (2008) Cor. 2 (04/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2008) Cor. 1 (02/2011)
+    docidentifier:
+    - content: X.511 (2008) Cor. 1 (02/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Abstract service definition'
+    docidentifier:
+    - content: X.511 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2005) Cor. 4 (04/2012)
+    docidentifier:
+    - content: X.511 (2005) Cor. 4 (04/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2005) Cor. 3 (02/2011)
+    docidentifier:
+    - content: X.511 (2005) Cor. 3 (02/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2005) Cor. 2 (11/2008)
+    docidentifier:
+    - content: X.511 (2005) Cor. 2 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2005) Cor. 1 (05/2008)
+    docidentifier:
+    - content: X.511 (2005) Cor. 1 (05/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Abstract service definition'
+    docidentifier:
+    - content: X.511 (08/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2001) Cor. 3 (05/2008)
+    docidentifier:
+    - content: X.511 (2001) Cor. 3 (05/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2001) Technical Cor. 2 (11/2005)
+    docidentifier:
+    - content: X.511 (2001) Technical Cor. 2 (11/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (2001) Technical Cor. 1 (05/2005)
+    docidentifier:
+    - content: X.511 (2001) Technical Cor. 1 (05/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Abstract service definition'
+    docidentifier:
+    - content: X.511 (02/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (1997) Technical Cor. 3 (05/2005)
+    docidentifier:
+    - content: X.511 (1997) Technical Cor. 3 (05/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (1997) Technical Cor. 2 (02/2001)
+    docidentifier:
+    - content: X.511 (1997) Technical Cor. 2 (02/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.511 (1997) Technical Cor. 1 (03/2000)
+    docidentifier:
+    - content: X.511 (1997) Technical Cor. 1 (03/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Abstract service definition'
+    docidentifier:
+    - content: X.511 (08/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The directory:
+        Abstract service definition'
+    docidentifier:
+    - content: X.511 (11/1993)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The Directory – Abstract service definition
+    docidentifier:
+    - content: X.511 (11/1988)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,79 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2001-08
+  at: '2001-08-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines extensions to the set of TMN CORBA managed
+    object modelling guidelines required to support coarse-grained interfaces. It
+    specifies how coarse-grained CORBA TMN interfaces are to be defined. It also provides
+    guidelines on converting fine-grained interfaces to coarse-grained. A CORBA IDL
+    module defining the base interface types to be extended is provided.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: System façades and user guide for bulk attribute retrieval
+    docidentifier:
+    - content: X.780.1 (2001) Amd. 1 (05/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.780.1 (2001) Cor. 1 (05/2002)
+    docidentifier:
+    - content: X.780.1 (2001) Cor. 1 (05/2002)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,67 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2018-12
+  at: '2018-12-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T X.609.6 specifies signalling requirements for content
+    distribution services over a managed peer-to-peer (P2P) overlay network that is
+    specified in Recommendation ITU-T X.609. Content distribution over a managed P2P
+    network provides flexible content management over existing overlay networks and
+    also enables contents providers to control accessing of the overlay network. That
+    is, the content provider can update the content to be distributed over an overlay
+    network anytime and every update will be applied to all peers in the overlay network.
+    This Recommendation lists requirements for the related reference points that are
+    defined in Recommendation ITU-T X.609 for providing content distribution services
+    and it also describes high-level procedures for a content distribution service
+    over managed P2P architecture and roles of the managed P2P components for the
+    service.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

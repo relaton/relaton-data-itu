@@ -16,11 +16,74 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1995-04
+  at: '1995-04-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides definition of the address translation service,
+    the service provided to its customers, the functions at the network interface
+    and functions within the network when providing this service. The address translation
+    service provides customers the ability to use addresses in formats other than
+    X.121 or E.164 (e.g. user friends addresses like mnemonic addresses, etc.). The
+    addresses can be any of the alternative addresses defined in Recommendation X.25.
+    The network will translate the address in the Call Request packet to the desired
+    address to complete the call.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Refinements
+    docidentifier:
+    - content: X.115 (1995) Amd. 1 (10/1996)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

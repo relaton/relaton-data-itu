@@ -17,11 +17,76 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-01
+  at: '2025-01-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 20
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "As global food demands rise, challenges such as climate change, water
+    scarcity, and overfishing are increasingly impacting the aquaculture industry.
+    Smart aquaculture addresses these issues by employing advanced technologies to
+    manage aquatic ecosystems sustainably. Using precise data on water quality, fish
+    health and environmental conditions, smart aquaculture systems enable real-time
+    monitoring and adjustments to ensure optimal growth conditions, thereby reducing
+    resource use and minimizing environmental impact.\r\nThrough technologies such
+    as Internet of things (IoT), artificial intelligence (AI) and robotics, smart
+    aquaculture enhances productivity and fish welfare across various environments,
+    including offshore cages, inland ponds, and more. The complexity of device interactions
+    within these systems highlights the importance of interoperability, making it
+    essential to assess existing and emerging technologies in the field. For this
+    reason, it is necessary to survey existing and forthcoming smart aquaculture technologies,
+    after which, based on the survey results, meaningful standardization work items
+    may be developed.\r\nSupplement 85 to the ITU-T Y-series Recommendations surveys
+    use cases related to smart aquaculture, from the perspective of, but not limited
+    to:\r\n1)IoT-based and AI-based monitoring and automation for fish farming, \r\n2)IoT-based
+    water quality management for fish farming, \r\n3)IoT-based and AI-based water
+    quality optimization for sustainable aquaculture, \r\n4)IoT-based growth management
+    of fish, \r\n5)Autonomous feeding control based on IoT and AI technologies, and
+    \r\n6)IoT-based and AI-based smart energy management for fish farming.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

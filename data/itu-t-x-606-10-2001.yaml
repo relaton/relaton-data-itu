@@ -15,13 +15,83 @@ docidentifier:
 - content: ITU-T X.606 (10/2001)
   type: ITU
   primary: true
+- content: ISO/IEC 14476-1
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2001-10
+  at: '2001-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: The Enhanced Communications Transport Protocol (ECTP) is a transport protocol
+    designed to support Internet multicast applications running over multicast-capable
+    networks. ECTP operates over IPv4/IPv6 networks that have the IP multicast forwarding
+    capability with the help of IGMP and IP multicast routing protocols. ECTP could
+    possibly be provisioned over UDP. ECTP is targeted to support tightly controlled
+    multicast connections. This Recommendation | International Standard defines the
+    protocol which provides reliability control in the simplex multicast case, adopting
+    a tree-based approach. Other Recommendations | International Standards in the
+    ECTP family will define the QoS management functions for the simplex case and
+    will define reliability control and corresponding QoS management functions for
+    the duplex case and the N-plex case.The sender is at the heart of multicast group
+    communications. A single sender in the simplex multicast connection is assigned
+    the role of the connection owner. The connection owner is responsible for overall
+    connection management by governing connection creation and termination, connection
+    pause and resumption, and join and leave operations.For tree-based reliability
+    control, a hierarchical tree is configured during connection creation. The sender
+    is the root of the control tree. The control tree can define a parent-child relationship
+    between any pair of tree nodes. This tree-based structure can result in local
+    owners occurring at lower levels in the tree hierarchy as the control structure
+    extends. Each local owner created becomes the root of its own local control tree.
+    The connection owner will then be the root of the overall control tree. Error
+    control is performed for each local group defined by a control tree. Each parent
+    retransmits lost data, in response to retransmission requests from its children.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

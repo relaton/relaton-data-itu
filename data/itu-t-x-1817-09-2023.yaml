@@ -16,11 +16,60 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2023-09
+  at: '2023-09-08'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'Recommendation ITU-T X.1817 provides the security requirements for 5G
+    message service, including access security requirements, management security requirements
+    and control security requirements for 5G message service.
+
+    '
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

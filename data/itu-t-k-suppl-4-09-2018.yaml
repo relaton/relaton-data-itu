@@ -17,11 +17,83 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2018-09
+  at: '2018-09-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The content of this Supplement 2 to Recommendation ITU-T K.91 was prepared
+    by the Focus Group on Smart Sustainable Cities (FG‑SSC) and updated within Q3/5
+    sessions during SG5 meeting.\r\n\r\nWireless networks provide vital infrastructure
+    and connection of information and communication technology (ICT) elements that
+    underpin smart sustainable cities. The effective design and careful deployment
+    of wireless networks and short range devices (SRDs) are vital to ensuring electromagnetic
+    field (EMF) compliance and maximum efficiency for ICTs.\r\n\r\nKey features of
+    this Supplement are:\r\n\r\na)          It details the EMF considerations in smart
+    sustainable cities.\r\n\r\nb)          It provides guidance on implementation
+    and promotes efficient deployment of wireless networks in smart sustainable cities.\r\n\r\nc)
+    \         It features a 'Smart sustainability city EMF check-list' designed to
+    provide an easy to use reference for city officials and planners to ensure smart
+    city policies operate most efficiently and comply with EMF exposure standards.\r\n\r\nd)
+    \         It references World Health Organization (WHO) materials, International
+    Commission on Non-Ionizing Radiation Protection (ICNIRP) guidelines, ITU-T Recommendations
+    and IEC Standards. It is not intended to replicate the material in all references.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.91 - Electromagnetic field considerations in smart sustainable
+        cities
+    docidentifier:
+    - content: K Suppl. 4 (10/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,68 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-07
+  at: '2022-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "In the near future, the electric vehicle may become the means of transport
+    used most frequently by the general public. Electromagnetic field (EMF) exposure
+    levels from electric vehicles causes some concern to the general public so they
+    should be assessed for the various types of vehicles.\r\nSupplement 29 to ITU-T
+    K series Recommendations considers a particular electric vehicle using dynamic
+    wireless power transfer (WPT) technology to charge its battery with the power
+    delivered from the coils installed underground. In this case, passengers and drivers
+    may be exposed to an EMF inside and outside the vehicle when it is stationary
+    or moving. In each case, two different EMF measurement protocols need to be applied
+    to evaluate human exposure levels to EMF. This Supplement includes the evaluation
+    results of EMF exposure levels based on exposure limits inside and outside the
+    electric vehicles known by the commercial name of OLEV (on-line electric vehicles)
+    developed in the Republic of Korea."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -15,13 +15,104 @@ docidentifier:
 - content: ITU-T X.720 (01/1992)
   type: ITU
   primary: true
+- content: ISO/IEC 10165-1
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1992-01
+  at: '1992-01-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Recommendation | International Standard is one of the set of Recommendations
+    | International Standards for the OSI Management Information Service (MIS). It
+    defines the Information Model of managed objects and their attributes that corresponds
+    to the Information aspects of the systems management model introduced in the Systems
+    Management Overview Rec. ITU-T X.701 | ISO/IEC 10040, thus providing the modelling
+    concepts necessary for the development of the other systems management Recommendations
+    | International Standards. It also defines the principles of naming managed objects
+    and attributes.\r\nThis Recommendation | International Standard defines the logical
+    structure of systems management information. In accordance with Rec. ITU-T X.700
+    | ISO 7498-4 and ITU-T X.701 | ISO/IEC 10040 management information is structured
+    in terms of managed objects, their attributes, the management operations that
+    can be performed upon them, and the notifications that they can emit. The set
+    of managed objects in an open system, together with their attributes, constitutes
+    that open system’s management information base (MIB).\r\nThis Recommendation |
+    International Standard defines the concepts of managed objects in the Information
+    Model, and prescribes the principles for naming the managed objects and their
+    attributes so that they may be identified in and accessed by management protocols.
+    This Recommendation | International Standard also describes the concept of managed
+    object classes and the relationships into which managed objects and managed object
+    classes can enter, including: inheritance, specialization, allomorphism and containment.\r\nThis
+    Recommendation | International Standard applies to all definitions of managed
+    objects and their attributes for the purposes of systems management. \r\nNOTE
+    – Although this Recommendation | International Standard applies to systems management,
+    layer management, when defined, can also use this Recommendation | International
+    Standard\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Generalization of terms
+    docidentifier:
+    - content: X.720 (1992) Amd. 1 (11/1995)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.720 (1992) Technical Cor. 1 (02/1994)
+    docidentifier:
+    - content: X.720 (1992) Technical Cor. 1 (02/1994)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -13,11 +13,228 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1972-12
+  at: '1972-12-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 3
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1972'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement on guidelines for fraud mitigation
+    docidentifier:
+    - content: D.170 Suppl. 5 (05/2013)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T D.170 - Supplement on guidelines for net settlement generic templates
+    docidentifier:
+    - content: D.170 Suppl. 4 (01/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T D.170 - Supplement on guidelines for contents of an international
+        interconnection agreement
+    docidentifier:
+    - content: D.170 Suppl. 3 (01/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Dispute process guidelines
+    docidentifier:
+    - content: D.170 Suppl. 2 (05/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Dispute management guidelines
+    docidentifier:
+    - content: D.170 Suppl. 1 (05/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Monthly telephone and telex accounts
+    docidentifier:
+    - content: D.170 (05/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Monthly telephone and telex accounts
+    docidentifier:
+    - content: D.170 (06/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Monthly telephone and telex accounts
+    docidentifier:
+    - content: D.170 (06/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Monthly telephone and telex accounts
+    docidentifier:
+    - content: D.170 (03/1995)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Monthly telephone and telex accounts
+    docidentifier:
+    - content: D.170 (03/1993)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Monthly telephone and telex accounts
+    docidentifier:
+    - content: D.170/E.270 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Monthly telephone accounts
+    docidentifier:
+    - content: D.170/E.270 (10/1984)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Monthly telephone accounts
+    docidentifier:
+    - content: D.170/E.270 (11/1980)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Monthly telephone accounts
+    docidentifier:
+    - content: E.270 (10/1976)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Cost and tariff study method
+    docidentifier:
+    - content: D Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Method for carrying out a cost price study by regional tariff groups
+    docidentifier:
+    - content: D Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Handbook on the methodology for determining costs and establishing
+        national tariffs
+    docidentifier:
+    - content: D Suppl. 3 (03/1993)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,69 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2023-09
+  at: '2023-09-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "When testing digital financial services (DFS), a variety of specific aspects
+    have to be considered. First, these services are an unprecedented combination
+    of efforts in both the telecommunication and the financial sector. Secon, and
+    most important, each test carried out sends real money (which might be retrieved
+    in many cases), and is being charged real fees (which typically cannot be retrieved
+    and add to the cost of testing).\r\nOnce attempts are made towards automation
+    in DFS testing, many more aspects and requirements need to be considered.\r\nSupplement
+    30 to ITU-T P-series Recommendations provides guidance on aspects of automation
+    in DFS testing that need to be included in the test conditions as well as specific
+    instructions that experimenters should consider.\r\nThis Supplement also provides
+    examples of automation that are suitable for DFS testing. It is meant to be a
+    starting point and basis for industry vendors and other stakeholders in the DFS
+    ecosystem to develop robust environments for automated testing.\r\nIn all cases,
+    it is assumed that automation is technology neutral and technology agnostic.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -15,13 +15,129 @@ docidentifier:
 - content: ITU-T T.815 (V3) (03/2025)
   type: ITU
   primary: true
+- content: ISO/IEC 15444-16
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2025-03
+  at: '2025-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "ISO/IEC 14496-12 specifies the ISO base media file format, which is widely
+    used for the interchange of multimedia content, including image-based media. Many
+    derivatives of the ISO base media file format have been developed, including ISO/IEC
+    23008-12, which are specifically designed for individual images, image collections
+    and image sequences. While the JPEG 2000 family (Rec. ITU-T T.8xx series | ISO/IEC
+    15444) specifies several file formats (JP2, JPX and JPH) that use the same box
+    structure as ISO/IEC 14496-12, these file formats are not compatible with ISO/IEC
+    14496-12 and its derivatives. \r\nTo simplify interchange, Rec. ITU-T T.815 |
+    ISO/IEC 15444-16 specifies the encapsulation of individual images, image collections,
+    image sequences and video tracks encoded using JPEG 2000 (Rec. ITU-T T.8xx series
+    | ISO/IEC 15444) into the ISO base media file format and its derivatives.  It
+    improves over Rec. ITU-T T.802 (2005) | ISO/IEC 154443:2007, which, at the time
+    of this writing, has several limitations, including: it is limited to video tracks;
+    it does not support signalling of capabilities and profiles using the Rsiz, CAP
+    and PRF marker segments specified in Rec. ITU-T T.800 | ISO/IEC 15444-1; it is
+    based on ISO/IEC 15444-12, which is a withdrawn derivative of ISO/IEC 1449612;
+    and it does not include advanced features introduced in the JPX file format. \r\nAn
+    image encoded according to the JPEG 2000 family of image formats is called a JPEG
+    2000 codestream and its structure is specified in Rec. ITU-T T.800 | ISO/IEC 15444-1.
+    The processing of JPEG 2000 codestream can require capabilities defined beyond
+    those in Rec. ITU-T T.800 | ISO/IEC 15444-1. The capabilities required to process
+    a JPEG 2000 codestream – including the presence of high-throughput (HT) code blocks
+    that conform to Rec. ITU-T T.814 | ISO/IEC 15444-15 or extensions defined in Rec.
+    ITU-T T.801 | ISO/IEC 15444-2 – are signalled in the Rsiz field and CAP marker
+    segment within the JPEG 2000 codestream. To avoid inconsistencies, the information
+    contained in the Rsiz field and CAP marker segment is not duplicated at the ISO
+    base media file format level – either as metadata or through file brands. This
+    Recommendation | International Standard does not specify requirements on the capabilities
+    required to process a JPEG 2000 codestream, e.g., profiles and levels, and the
+    definition of such requirements is left to individual applications.\r\nRecommendation
+    ITU-T T.815 (2025) is a common text with ISO/IEC 15444-16:2025.\r\nThis third
+    edition cancels and replaces the second edition, which has been technically revised.\r\nThe
+    main changes compared to the previous edition are as follows:\r\n–adds more flexible
+    signalling of colour information;\r\n–explicitly specifies the encapsulation of
+    JPEG 2000 images into ISO/IEC 14496-12;\r\n–defines the structures necessary to
+    implement JPEG 2000 video tracks.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology - JPEG 2000 image coding system - Encapsulation
+        of JPEG 2000 images into ISO/IEC 23008-12
+    docidentifier:
+    - content: T.815 (V2) (06/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology - JPEG 2000 image coding system: Encapsulation
+        of JPEG 2000 images into ISO/IEC 23008-12'
+    docidentifier:
+    - content: T.815 (06/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

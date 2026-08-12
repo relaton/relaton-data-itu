@@ -17,11 +17,129 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2019-05
+  at: '2019-05-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T F.743.8 specifies the requirements for a cloud computing
+    platform supporting visual surveillance. Cloud computing is an emerging technology
+    aimed at providing various computing services over the Internet. Using virtualization
+    technology, a cloud computing platform realizes a ubiquitous and flexible shared
+    resources pool that can be rapidly provisioned and released with minimal management
+    effort or service-provider interaction based on the needs of users. By using the
+    cloud computing technology, the visual surveillance system can conveniently manage
+    various functional components and services, such as video distribution, video
+    transcoding and intelligent video processing. This Recommendation provides the
+    application scenarios and requirements for a cloud computing platform supporting
+    a visual surveillance system.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
+    docidentifier:
+    - content: F Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terms and definitions for telex
+    docidentifier:
+    - content: F Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of Telecom Finance (Finance2.0)
+    docidentifier:
+    - content: F Suppl. 3 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of convergence of artificial intelligence and blockchain
+    docidentifier:
+    - content: F Suppl. 4 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
+    docidentifier:
+    - content: F Suppl. 5 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of ICT-enabled flying car service platform
+    docidentifier:
+    - content: F Suppl. 6 (07/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

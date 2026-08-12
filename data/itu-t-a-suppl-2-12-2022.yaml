@@ -16,11 +16,70 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-12
+  at: '2022-12-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: Telecommunication Standardization Advisory Group
+      type: technical-committee
+      subtype: tsag
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: These guidelines relate to interoperability experiments and proof-of-concept
+    events to be performed outside of ITU-T. The guidelines have been prepared in
+    order to encourage such experiments and events to be performed, and to facilitate
+    information exchange between ITU-T and parties participating in such experiments.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines on interoperability experiments
+    docidentifier:
+    - content: A Suppl. 2 (06/2000)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

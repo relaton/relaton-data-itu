@@ -17,11 +17,68 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2018-09
+  at: '2018-09-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: ITU-T Recommendation K.44 defines DC power interface ports, which are connected
+    by cables that are internal to the building. There are two types of DC powering
+    system considered; floating and earth bonded. Floating DC supplies will inherently
+    develop a common-mode surge on both conductors. Earth bonded DC supplies will
+    inherently develop differential-mode surges on the unbonded polarity connection.
+    Earth bonding can be single point at either the supply powering source or the
+    powered equipment or multipoint. If the internal cable connecting the power source
+    and the powered load runs for any distance the series inductance of the cable
+    needs to be considered. Ports with electronic control could either go high or
+    low impedance during a surge producing either a voltage stress test or a current
+    stress test. The interaction of these factors is considered in this Supplement
+    to make K.20 and K.21 equipment designers and testers aware of the surge stress
+    levels.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

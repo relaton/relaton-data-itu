@@ -16,11 +16,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-11
+  at: '2003-11-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: ITU-T Rec. P.862 provides raw scores in the range -0.5 to 4.5. It is desired
+    to provide a MOS-LQO (P.800.1) score from P.862 to allow a linear comparison with
+    MOS. This Recommendation presents the mapping function and its performance for
+    a single mapping from raw P.862 scores to the MOS-LQO (P.800.1).This will allow
+    MOS-LQO scores from ITU-T Rec. P.862 to be comparable independent of the implementation
+    of ITU-T Rec. P.862. The given function for transformation presented in this Recommendation
+    has been optimized on a large corpus of subjective data representing different
+    applications and languages.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

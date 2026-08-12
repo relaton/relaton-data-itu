@@ -14,13 +14,147 @@ docidentifier:
 - content: ITU-T T.803 (V3) (02/2024)
   type: ITU
   primary: true
+- content: ISO/IEC 15444-4
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2024-02
+  at: '2024-02-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Rec. ITU-T T.800 | ISO/IEC 15444-1 describes an image compression system
+    that allows great flexibility, not only for the compression of images but also
+    for access into the codestream. The codestream provides a number of mechanisms
+    for locating and extracting portions of the compressed image data for the purpose
+    of retransmission, storage, display, or editing. This access allows storage and
+    retrieval of compressed image data appropriate for a given application without
+    decoding.\r\nThis Recommendation | International Standard provides the framework,
+    concepts, and methodology for testing and the criteria to be achieved to claim
+    compliance to Rec. ITU-T T.800 | ISO/IEC 15444-1 or Rec. ITU-T T.814 | ISO/IEC 1544415.
+    The objective of standardization in this field is to promote interoperability
+    between JPEG 2000 encoders and decoders and to test these systems for compliance
+    to this Recommendation | International Standard. Compliance testing is the testing
+    of a candidate product for the existence of specific characteristics required
+    by a standard. It involves testing the capabilities of an implementation against
+    both the compliance requirements in the relevant standard and the statement of
+    the implementation's capability.\r\nThe purpose of this Recommendation | International
+    Standard is to define a common test methodology, to provide a framework for specifying
+    abstract test suites (ATSs), and to define the procedures to be followed during
+    compliance testing.\r\nAny organization contemplating the use of test methods
+    defined in this Recommendation | International Standard should carefully consider
+    the constraints on their applicability. Compliance testing does not include robustness
+    testing, acceptance testing, and performance testing.\r\nNOTE – This Recommendation
+    | International Standard is in its third edition from the International Telecommunication
+    Union (ITU) and in its fourth edition from the International Organization for
+    Standardization /International Electrotechnical Commission (ISO/IEC).\r\nThis
+    edition cancels and replaces the previous edition which has been technically revised.\r\nThe
+    main changes compared to the previous edition are as follows:\r\n‒the maximum
+    allowable errors associated with compliance Class 1, for both Rec. ITU-T T.800
+    | ISO/IEC 15444-1 and Rec. ITU-T T.814 | ISO/IEC 15444-15 codestreams, have been
+    relaxed in a few cases to ensure that well designed 16-bit fixed-point implementations
+    of the inverse discrete wavelet transform should be able to pass all compliance
+    tests for Class 1;\r\n‒two additional test codestreams have been added along with
+    conformance bounds, to facilitate testing of inverse wavelet and component decorrelating
+    transform accuracy;\r\n‒a number of codestreams and files conforming to Rec. ITU-T
+    T.801 | ISO/IEC 15444-2 have been included for informative purposes only, to facilitate
+    the development of decoders and file format readers that are able to support features
+    beyond the core capabilities found in Rec. ITU-T T.800 | ISO/IEC 15444-1 and Rec. ITU-T
+    T.814 | ISO/IEC 15444-15.\r\nThis Recommendation | International Standard contains
+    a normative electronic attachment with the codestreams used in the application
+    of the procedures described herein that is available from ITU at  or from ISO
+    at .\r\nSource\r\nThis document was prepared by Technical Committee ISO/IEC JTC
+    1, Information technology, Subcommittee SC 29, Coding of audio, picture, multimedia
+    and hypermedia information, in collaboration with ITU-T Study Group 16. An identical
+    text is published as ISO/IEC 15444-4:2021.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology-JPEG 2000 image coding system: Conformance
+        testing'
+    docidentifier:
+    - content: T.803 (V2) (06/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Correction to clause G.4.4
+    docidentifier:
+    - content: T.803 (2002) Cor. 1 (03/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – JPEG 2000 image coding system: Conformance
+        testing'
+    docidentifier:
+    - content: T.803 (11/2002)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,303 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2012-05
+  at: '2012-05-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "There are many possible methods of exposure assessment and each of them
+    has its own advantages and disadvantages. Recommendation ITU-T K.91 gives guidance
+    on how to assess and monitor human exposure to radio frequency (RF) electromagnetic
+    fields (EMF) in areas with surrounding radiocommunication installations based
+    on existing exposure and compliance standards in the frequency range of 9 kHz
+    to 300 GHz. This includes procedures of evaluating exposure and how to show compliance
+    with exposure limits with reference to existing standards. Recommendation ITU
+    T K.91 is oriented to the examination of the area accessible to people in the
+    real environment of currently operated services with many different sources of
+    RF EMF, but also gives references to standards and Recommendations related to
+    EMF compliance of products.\r\nThis Recommendation includes an electronic attachment
+    containing an uncertainty calculator and the Watt Guard modules.\r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for assessment, evaluation and monitoring of human exposure
+        to radio frequency electromagnetic fields
+    docidentifier:
+    - content: K.91 (01/2024)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for assessment, evaluation and monitoring of human exposure
+        to radio frequency electromagnetic fields
+    docidentifier:
+    - content: K.91 (01/2022)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for assessment, evaluation and monitoring of human exposure
+        to radio frequency electromagnetic fields
+    docidentifier:
+    - content: K.91 (12/2020)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for assessment, evaluation and monitoring of human exposure
+        to radio frequency electromagnetic fields
+    docidentifier:
+    - content: K.91 (06/2020)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for assessment, evaluation and monitoring of human exposure
+        to radio frequency electromagnetic fields
+    docidentifier:
+    - content: K.91 (11/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Appendix IX – Manhole type base station
+    docidentifier:
+    - content: K.91 (2018) Amd. 3 (05/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Appendix X - EMF monitoring and information platform
+    docidentifier:
+    - content: K.91 (2018) Amd. 2 (09/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Appendix IX - Manhole type base station
+    docidentifier:
+    - content: K.91 (2018) Amd. 1 (09/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for assessment, evaluation and monitoring of human exposure
+        to radio frequency electromagnetic fields
+    docidentifier:
+    - content: K.91 (01/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for assessment, evaluation and monitoring of human exposure
+        to radio frequency electromagnetic fields
+    docidentifier:
+    - content: K.91 (07/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T K.91 – Guide on electromagnetic fields and health '
+    docidentifier:
+    - content: K Suppl. 1 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
+        cabling during a power cross event
+    docidentifier:
+    - content: K Suppl. 3 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.91 - Electromagnetic field considerations in smart sustainable
+        cities
+    docidentifier:
+    - content: K Suppl. 4 (09/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility analysis of 5G systems
+    docidentifier:
+    - content: K Suppl. 8 (11/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 5G technology and human exposure to radiofrequency electromagnetic
+        fields
+    docidentifier:
+    - content: K Suppl. 9 (05/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of electromagnetic compatibility aspects and definition of
+        requirements for 5G mobile systems
+    docidentifier:
+    - content: K Suppl. 10 (11/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
+        mobile and portable devices during different conditions of use
+    docidentifier:
+    - content: K Suppl. 13 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
+        guidelines on 4G and 5G mobile network deployment
+    docidentifier:
+    - content: K Suppl. 14 (09/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field compliance assessments for 5G wireless networks
+    docidentifier:
+    - content: K Suppl. 16 (10/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field (EMF) strength inside underground railway trains
+    docidentifier:
+    - content: K Suppl. 19 (09/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.91 – Supplement on radiofrequency exposure evaluation around
+        underground base stations
+    docidentifier:
+    - content: K Suppl. 20 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field strength inside and outside of electric vehicles
+        using wireless power transfer technology
+    docidentifier:
+    - content: K Suppl. 29 (07/2022)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

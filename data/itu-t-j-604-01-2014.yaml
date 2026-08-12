@@ -16,11 +16,205 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2014-01
+  at: '2014-01-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T J.604 describes requirements for a scalable video
+    transmission system over cable networks, which is one of the transmission methods
+    for providing additional high resolution video services. \r\nHigh resolution video
+    formats such as 4K are expected to be one of the ultra-realistic video formats
+    that will be applied to future video services over cable network infrastructures.
+    In the beginning of 4K video (ITU-R BT.1769/ITU-R BT.2020) services, both high
+    definition television (HDTV) and 4K video services will be simultaneously provided.
+    \r\nConsidering the cost of constructing the infrastructure, the current and new
+    services will be provided over the same cable network infrastructure. Furthermore,
+    in the case where the 4K video service will be additionally provided over the
+    existing cable network infrastructure, the signal receiver (e.g., the set top
+    box (STB) device) should be replaced with one that supports the 4K service. However,
+    it is difficult to change all STB devices in the existing service at the same
+    time, and therefore the 4K service will coexist with the current HDTV service.
+    \r\nDistribution systems using scalable video coding technology are one of the
+    effective methods for providing simultaneous services. Within a general scalable
+    video coding method, the smallest resolution video is coded as the low layer,
+    and then the higher resolution video is coded as the higher layer by encoding
+    the difference information from the lower resolution video. \r\nFrom the viewpoint
+    of compatibility to the current cable services which employs radio frequency (RF)-based
+    broadcasting, one solution is that the existing HDTV service over RF is also used
+    as the low layer, and then the difference information between 4K video and HDTV
+    may be transmitted as the higher layer over the IP interface (data over cable
+    service interface specification (DOCSIS) ITU\x1ET J.222.0). \r\nThis Recommendation
+    includes requirements regarding general issues, scalability of video service,
+    and system performance."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Example of linking options between annexes of ITU-T Recommendation
+        J.112 and annexes of ITU-T Recommendation J.83
+    docidentifier:
+    - content: J Suppl. 1 (11/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for the implementation of annex A of Recommendation J.112,
+        "Transmission systems for interactive cable television services" – Example
+        of digital video broadcasting (DVB) interaction channel for cable television
+        distribution
+    docidentifier:
+    - content: J Suppl. 2 (11/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for the implementation of Recommendation J.111 "Network
+        independent protocols" – Example of digital video broadcasting (DVB) systems
+        for interactive services
+    docidentifier:
+    - content: J Suppl. 3 (11/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines on the use of some ITU-T Recommendations in the J series
+    docidentifier:
+    - content: J Suppl. 5 (09/1999)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Ultra high definition television cable transmission with functions
+        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+    docidentifier:
+    - content: J Suppl. 6 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
+        Guidelines for the implementation of ECI
+    docidentifier:
+    - content: J Suppl. 7 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
+        Trust environment
+    docidentifier:
+    - content: J Suppl. 8 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Embedded common interface for exchangeable CA/DRM solutions; System
+        validation
+    docidentifier:
+    - content: J Suppl. 9 (04/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
+        Recommendations
+    docidentifier:
+    - content: J Suppl. 10 (09/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for installing a digital television service for cable networks
+        based on ITU-T Recommendations
+    docidentifier:
+    - content: J Suppl. 11 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases of microservices architecture for audiovisual media in the
+        converged media cloud
+    docidentifier:
+    - content: J Suppl. 14 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

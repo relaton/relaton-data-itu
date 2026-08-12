@@ -17,11 +17,133 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-02
+  at: '2003-02-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines TFT, the Tabular Format for TTCN-3. TFT is
+    the tabular presentation format for TTCN-3 (Testing and Test Control Notation
+    3) Core Language defined in ITU-T Rec. Z.140. It is similar in appearance and
+    functionality to TTCN-2 defined in ITU-T Rec. X.292 for conformance testing. The
+    tabular format provides an alternative way of displaying the core language as
+    well as emphasizing those aspects that are particular to the requirements of a
+    standardized conformance test suite.While the core language may be used independently
+    of the tabular presentation format, the tabular format cannot be used without
+    the core language. Use and implementation of the tabular presentation format shall
+    be done on the basis of the core language.This Recommendation defines proformas,
+    syntax mappings, additional static semantics, operational semantic restrictions,
+    display and other attributes. Together these characteristics form the tabular
+    presentation format.TFT inherits all the essential properties of the Core Language
+    and is intended for specification of test suites that are independent of platforms,
+    test methods, protocol layers and protocols. TTCN-3 can be used for specification
+    of all types of reactive system tests over a variety of communication ports. Typical
+    areas of application are protocol testing (including mobile and Internet protocols),
+    service testing (including supplementary services), module testing, testing of
+    CORBA-based platforms and APIs. The specification of test suites for physical
+    layer protocols is outside the scope of this Recommendation.Since the first publication
+    of ITU-T Recs Z.140 and Z.141 in July of 2001, several major updates to TTCN-3
+    Core Language have been made that are reflected in the TFT. The following changes
+    are included in this Recommendation:1) corrections to examples and other editorials;2)
+    restructuring of the document for easier understandability;3) Annex B, Operational
+    Semantics, has been moved into a separate document;4) user-defined functions have
+    been extended;5) bugs in the BNF has been corrected and the changes caused by
+    the updates have been incorporated into the BNF; 6) pattern matching mechanisms
+    have been added;7) the type system has been improved (including a better definition
+    of type equivalence) and the new char type added;8) the import mechanism has been
+    improved; and9) named alts have been removed and replaced by altsteps, with an
+    improved semantics.SourceITU-T Recommendation Z.141 was prepared by ITU-T Study
+    Group 17 (2001-2004) and approved under the WTSA Resolution 1 procedure on 13
+    February 2003.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 tabular presentation
+        format (TFT)'
+    docidentifier:
+    - content: Z.162 (11/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3 (TTCN-3): Tabular presentation
+        format (TFT)'
+    docidentifier:
+    - content: Z.141 (03/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'The Tree and Tabular Combined Notation version 3 (TTCN-3): Tabular
+        presentation format'
+    docidentifier:
+    - content: Z.141 (07/2001)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

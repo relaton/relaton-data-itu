@@ -16,11 +16,154 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2004-03
+  at: '2004-03-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: With the rapid growth of IP-based networks and applications in both private
+    and public networks, it is necessary to consider arrangements to transport IP
+    services over ATM in the public network environment.For the private network environment,
+    the ATM Forum has specified Multi-Protocol Over ATM (MPOA) [ATM_MPOA]. The Internet
+    Engineering Task Force (IETF) has specified Classical IP Over ATM (C-IPOA) [CIP_ATM]
+    and Next Hop Resolution Protocol (NHRP) [NHRP] and Multi-Protocol Label Switching
+    (MPLS) [MPLS_ARCH]. To ensure that public networks will interwork with each other
+    supporting a set of services defined in this Recommendation, and to ensure the
+    interworking of public and private networks, it is necessary to recommend the
+    preferred approach for transporting IP over ATM in public networks.The approach
+    adopted in this Recommendation is to identify generic requirements, key IP services
+    and determine which IP over ATM approach is preferred for each service. It is
+    preferable that the same approach is used for all services considered. This approach
+    is recommended for all identified services using IP over ATM transport in public
+    networks.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2004'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Transport of IP over ATM in public networks
+    docidentifier:
+    - content: Y.1310 (03/2000)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y-series – Supplement on use cases of smart cities and communities
+    docidentifier:
+    - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for Internet of things ecosystem master plan
+    docidentifier:
+    - content: Y Suppl. 68 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
+    docidentifier:
+    - content: Y Suppl. 69 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
+    docidentifier:
+    - content: Y Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
+    docidentifier:
+    - content: Y Suppl. 83 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Machine learning standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 96 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Glossary of terms and definitions for machine learning
+    docidentifier:
+    - content: Y Suppl. 97 (11/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

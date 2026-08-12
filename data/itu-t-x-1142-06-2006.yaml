@@ -16,11 +16,66 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2006-06
+  at: '2006-06-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: XACML is an XML vocabulary for expressing access control policies. Access
+    control consists of deciding if a requested resource access should be allowed
+    and enforcing that decision. This Recommendation defines core XACML including
+    syntax of the language, models, context with policy language model, syntax and
+    processing rules. This Recommendation specifies XACML core and hierarchical role
+    based access control profile. A multiple resource profile of XACML and a SAML
+    2.0 profile of XACML are specified. To improve on the security of exchanging XACML
+    based policies, this Recommendation also specifies an XACML XML digital signature
+    profile for securing data. A privacy profile is specified in order to provide
+    guidelines for implementers.This Recommendation is technically equivalent and
+    compatible with the OASIS XACML 2.0 standard.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

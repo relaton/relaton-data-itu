@@ -16,11 +16,173 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1999-11
+  at: '1999-11-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: ObjectiveThis Recommendation defines how Abstract Syntax Notation One (ASN.1)
+    modules can be used in combination with Specification and Description Language
+    (SDL). The intention is that the structure and the behaviour of systems are described
+    with SDL, while parameters of exchanged messages are described with ASN.1. This
+    Recommendation defines a mapping of ASN.1 constructs to already existing SDL constructs
+    and contains only a small extension to Recommendation Z.100 to allow ASN.1 modules
+    to be used.CoverageThis Recommendation presents a semantic definition for the
+    combination of SDL and ASN.1 modules. A mapping of the ASN.1 data defined in a
+    module to the corresponding SDL constructs defined in Recommendation Z.100 [1]
+    is given, including the operators that can be applied to the ASN.1 data. The ASN.1
+    data items can then be used within SDL (using SDL notation).The use of ASN.1 notation
+    embedded in SDL is defined in Recommendation Z.107 [2].ApplicationThe main area
+    of application of this Recommendation is the specification of telecommunication
+    systems. The combined use of SDL and ASN.1 permits a coherent way to specify the
+    structure and behaviour of telecommunication systems, together with data, messages
+    and encoding of messages that these systems use.NOTE - "Specification" in this
+    Recommendation includes definition of requirements in a standard, Recommendation,
+    or procurement document, and description of an implementation.A specification
+    conforms to this Recommendation if and only if it conforms to the syntactic and
+    semantic grammar rules for the formal technical language defined by the Recommendation
+    (which includes the referenced ASN.1 and SDL languages). Conformance implies that
+    every possibly dynamic interpretation of the specification conforms to the language
+    rules. A specification that uses extensions of the language does not conform.A
+    tool does not fully support the language if it rejects some constructs of the
+    language or that has a static or dynamic interpretation of a specification in
+    the language that does not conform to language semantics.Status/stabilityThis
+    Recommendation replaces the semantic mappings from ASN.1 to SDL defined in Recommendation
+    Z.105 (1995). The use of ASN.1 notation embedded in SDL previously defined in
+    Recommendation Z.105 (1995) is not defined by this Recommendation.Changes to Recommendations
+    X.680 [3], X.681 [4], X.682 [5] and X.683 [6] or Z.100 [1] may require modifications
+    to this Recommendation.This Recommendation is the complete reference manual describing
+    the combination of SDL and ASN.1 modules.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
+    docidentifier:
+    - content: Z.105 (06/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
+    docidentifier:
+    - content: Z.105 (10/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
+    docidentifier:
+    - content: Z.105 (04/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
+    docidentifier:
+    - content: Z.105 (12/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: SDL combined with ASN.1 modules (SDL/ASN.1)
+    docidentifier:
+    - content: Z.105 (07/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: SDL combined with ASN.1 modules (SDL/ASN.1)
+    docidentifier:
+    - content: Z.105 (10/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: SDL combined with ASN.1 (SDL/ASN.1)
+    docidentifier:
+    - content: Z.105 (03/1995)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,136 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2000-03
+  at: '2000-03-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '9'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Network management requires real-time monitoring of current network status
+    and performance and the ability to take prompt action to control the flow of traffic
+    when necessary (see Recommendation E.410). Operational guidance to meet these
+    requirements, including a description of status and performance parameters, traffic
+    controls and the criteria for their application are included in this Recommendation.
+    It should be noted that the complete range of parameters and traffic controls
+    are not necessary for the introduction of a limited network management capability;
+    however, a comprehensive selection will bring substantial benefit (see clause
+    5/E.410). In addition, some guidance on beginning network management is provided,
+    along with information on developing a network management centre and the use of
+    common channel signalling for network management purposes.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: E.411 (2000) Amd. 1 (03/2001)
+    docidentifier:
+    - content: E.411 (2000) Amd. 1 (03/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International network management – Operational guidance
+    docidentifier:
+    - content: E.411 (03/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International network management – Operational guidance
+    docidentifier:
+    - content: E.411 (10/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International network management – Operational guidance
+    docidentifier:
+    - content: E.411 (10/1992)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International network management – Operational guidance
+    docidentifier:
+    - content: E.411 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International network management – Operational guidance
+    docidentifier:
+    - content: E.411 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

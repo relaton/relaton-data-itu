@@ -17,11 +17,70 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2015-05
+  at: '2015-05-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Because of the obvious merits of peer-to-peer (P2P) networks (such as
+    lower cost, scalability and fault tolerance), some operators began to consider
+    the possibility of constructing the next-generation kernel network based on P2P.
+    In order to implement an operable and manageable P2P-based telecommunication network,
+    the security solution must be a critical part of it.\r\nThe distributed service
+    network (DSN) defined in Recommendations ITU-T Y.2206 and ITU-T Y.2080 is designed
+    as a telecommunication network based on P2P. The capability requirements and the
+    functional architecture are defined in Recommendations ITU-T Y.2206 and ITU-T
+    Y.2080, respectively; however, the security aspects are not addressed in either
+    of these two Recommendations. The security requirements and mechanisms defined
+    in Recommendation ITU-T X.1163 complement the DSN-related work.\r\nRecommendation
+    ITU-T X.1163 provides a security guideline for a telecommunication network based
+    on P2P technology. It briefly introduces the characteristics of the network, it
+    also analyses the security requirements of the network and the services, and it
+    specifies the security mechanisms to fulfil these requirements.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

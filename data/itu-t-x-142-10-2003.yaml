@@ -17,11 +17,66 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-10
+  at: '2003-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines quality of service metrics for characterizing
+    performance in the case of FR/ATM service interworking. The specified metrics
+    can be used to quantify the performance of either the FR/ATM interworking function/unit
+    or the quality of the end-to-end data connection. This Recommendation is complementary
+    to ITU-T Rec. X.140 as it is a specific case of the general techniques described
+    therein for assessing performance.The specified metrics allow users and network
+    operators to assess the performance from a user perspective. The metrics provide
+    a simple manner by which either users or network operators could characterize
+    the end-to-end performance.The defined metrics are not intended to be a replacement
+    for the frame layer or ATM layer primary performance parameters but can be used
+    to provide a user-oriented perspective of end-to-end performance.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

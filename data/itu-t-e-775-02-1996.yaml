@@ -16,11 +16,58 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1996-02
+  at: '1996-02-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation outlines the general considerations for selecting UPT
+    (Universal Personal Telecommunication) traffic GOS parameters based on the service
+    provisioning and operational environment for UPT and the associated network considerations.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

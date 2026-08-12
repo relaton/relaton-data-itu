@@ -15,13 +15,108 @@ docidentifier:
 - content: ITU-T X.216 (07/1994)
   type: ITU
   primary: true
+- content: ISO/IEC 8822
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1994-07
+  at: '1994-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This ITU-T Recommendation | International Standard specifies the services
+    which are provided by the presentation layer to the application layer at the boundary
+    between the application layer and the presentation layer of the OSI reference
+    model. This includesa) the primitive actions and events of the service;b) the
+    parameters associated with each primitive action and event; andc) the relationship
+    between the valid sequence of these actions and events.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Nested connections functional unit
+    docidentifier:
+    - content: X.216 (1994) Amd. 2 (12/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Efficiency enhancements
+    docidentifier:
+    - content: X.216 (1994) Amd. 1 (08/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Service definition for Presentation Layer efficiency enhancement
+    docidentifier:
+    - content: X.216 (1994) Add. 1 (11/1995)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Presentation service definition for Open Systems Interconnection for
+        CCITT applications
+    docidentifier:
+    - content: X.216 (11/1988)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

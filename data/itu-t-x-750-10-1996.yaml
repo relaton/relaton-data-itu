@@ -15,13 +15,99 @@ docidentifier:
 - content: ITU-T X.750 (10/1996)
   type: ITU
   primary: true
+- content: ISO/IEC 10164-16
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1996-10
+  at: '1996-10-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'An Operations Systems (OS) can only interwork with another OS or Network
+    Element (NE) if it has knowledge about the precise management information and
+    management message types the other OS or NE is capable of supporting for management
+    interactions. There are many ways this knowledge can be obtained and inserted
+    into an OS or NE product''s software. This Recommendation provides the means to
+    specify knowledge management information and messages, that allow for the "on
+    line" transfer from one system to another the specific details of this information.
+    The administration of a management network will be made more efficient by the
+    use of systems that have this management knowledge capability because for example:
+    transfer of this knowledge is provided using standard X.700 knowledge management
+    messages thus precluding the need for vendors, who require their products to interwork,
+    to come to some local agreement for OSI systems management based messages, during
+    operational service checks can be made about the capability of an OS or NE; and
+    there is a standard way to augment the management information and messages that
+    an OS or NE; and there is a standard way to augment the management information
+    and messages that an OS or NE can support. An alternative to the use of X.700
+    messages is the use of X.500 Directory services and in support of this, this Recommendation
+    | International Standard defines Directory entries to hold this information.'
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Revision to include ASN.1:1997
+    docidentifier:
+    - content: X.750 (1996) Technical Cor. 1 (02/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Extension for General Relationship model
+    docidentifier:
+    - content: X.750 (1996) Amd. 1 (10/1997)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,90 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-10
+  at: '2022-10-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 32 to ITU-T K-series Recommendations presents results of case
+    studies of fifth generation (5G) radio frequency-electromagnetic field (RF-EMF)
+    exposure levels taken in different conditions and areas. All results of assessment
+    were delivered by ITU-T members and include calculations and measurements of the
+    5G RF-EMF exposure levels in vicinity of different radio communication systems.
+    RF-EMF exposure levels vary depending on the environment in which they are taken
+    and type of radio communication systems that are in operation.\r\nThe results
+    included in Supplement 32 to ITU-T K-series Recommendations provide information
+    about 5G RF-EMF exposure levels in real situations. The EMF exposure assessments
+    are included in appendices.\r\nSupplement 32 to ITU-T K-series Recommendations
+    aims mainly to solve the problem of EMF compliance assessments of 5G base station
+    systems through typical case studies including computation evaluation and measurement
+    evaluation, and also provides the case support on implementation of \r\nITU-T
+    K-Suppl.16 and IEC 62232. \r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Case studies of radio frequency-electromagnetic field (RF-EMF) assessment
+    docidentifier:
+    - content: K Suppl. 32 (06/2024)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Case studies of radio frequency- electromagnetic field (RF-EMF) assessment
+    docidentifier:
+    - content: K Suppl. 32 (06/2023)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

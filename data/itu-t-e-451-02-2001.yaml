@@ -16,11 +16,81 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2001-02
+  at: '2001-02-02'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: The metrics defined in this Recommendation are intended for use when data
+    is collected using the intrusive test call based method defined in ITU E.457.
+    Metrics representing call cut-off performance for high speed facsimile, i.e. facsimile
+    using V.34 modulation in accordance with Annex F/T.30, can be found in ITU-T E.460.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Facsimile call cut-off performance
+    docidentifier:
+    - content: E.451 (03/1993)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

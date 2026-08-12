@@ -17,11 +17,78 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1998-06
+  at: '1998-06-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies network requirements for one type of multimedia
+    retrieval services, namely the Video-on-demand service. The Network capabilities
+    to support the service are described by means of reference configurations and
+    corresponding network architectures. Functional blocks in the architecture are
+    identified and the physical and logical relationships among these blocks are described.
+    Although assumptions must necessarily be made regarding the functionality of Customer
+    Premises Equipment (CPE), specific requirements for CPE are outside the scope
+    of this Recommendation.This Recommendation focuses on IN-based solutions. Non-IN-based
+    solutions are also included, but in much less detail.General aspects of network
+    capabilities to support multimedia services covering all service classes are provided
+    in a separate Recommendation, I.375.1.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
+    docidentifier:
+    - content: I Suppl. 1 (03/1998)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

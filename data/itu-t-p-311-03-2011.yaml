@@ -16,11 +16,200 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2011-03
+  at: '2011-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '4'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T P.311 provides audio performance requirements for
+    wideband (8000 Hz) handset and headset telephones.\r\nRequirements and test methods
+    are specified for the major audio transmission parameters affecting wideband audio,
+    including sending and receiving levels, frequency response, noise, distortion,
+    sidetone, stability, echo path and delay. Wideband audio represents a considerable
+    departure from traditional narrow-band telephony, offering significantly improved
+    quality.\r\nMajor changes over the previous version of this Recommendation (2005)
+    are as follows:\r\n– The structure of the Recommendation is modified, the objective
+    measurement methods originally in Annex A have been transferred into the main
+    body. \r\n– In addition to sinusoidal and noise signals, speech-like stimulus
+    signals as described in Recommendation ITU-T P.50 and Recommendation ITU-T P.501
+    are also recommended for the measurements.\r\n– HATS method is used for better
+    simulation of real telephone communication.\r\n– Specific headset requirements
+    are incorporated.\r\n– Some technical requirements and related test methods have
+    been modified based on the latest research, e.g., frequency response, distortion,
+    STMR, D-factor, and delay."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Transmission characteristics for wideband (150-7000 Hz) digital handset
+        telephones
+    docidentifier:
+    - content: P.311 (06/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Transmission characteristics for wideband (150-7000 Hz) digital handset
+        telephones
+    docidentifier:
+    - content: P.311 (02/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Transmission characteristics for wideband handset telephones
+    docidentifier:
+    - content: P.311 (04/1995)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations relating to transmission characteristics for analogue
+        handset telephones
+    docidentifier:
+    - content: P Suppl. 10 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for placement of microphones and loudspeakers in telephone
+        conference rooms and for group audio terminals (GATs)
+    docidentifier:
+    - content: P Suppl. 16 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Examples of measurements of handset receive-frequency responses: dependence
+        on earcap leakage losses'
+    docidentifier:
+    - content: P Suppl. 20 (03/1993)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T coded-speech database
+    docidentifier:
+    - content: P Suppl. 23 (02/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with spoken dialogue systems
+    docidentifier:
+    - content: P Suppl. 24 (10/2005)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with multimodal dialogue systems
+    docidentifier:
+    - content: P Suppl. 25 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
+        telemeeting quality
+    docidentifier:
+    - content: P Suppl. 26 (09/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations for the development of new QoS and QoE related objective
+        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+    docidentifier:
+    - content: P Suppl. 28 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Subjective quality evaluation of audiovisual communication in videotelephony
+        services
+    docidentifier:
+    - content: P Suppl. 31 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

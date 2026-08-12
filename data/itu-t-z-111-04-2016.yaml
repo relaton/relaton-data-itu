@@ -16,11 +16,87 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-04
+  at: '2016-04-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T Z.111 provides meta-grammars for ITU-T Recommendations
+    that define ITU-T languages in the X.680 series and the Z series of ITU-T Recommendations
+    on languages for specification, implementation, modelling and testing. This allows
+    the description of these meta-grammars that define the abstract or concrete grammar
+    (syntax, constraints and semantics) of languages without having to repeat the
+    meta-grammar (such as lexical naming rules, or the description of Backus-Naur
+    Form syntax) as a preamble or annex to each language definition.\r\n\r\nThis Recommendation
+    draws common elements from the meta-grammars of various languages, covering issues
+    such as common lexical rules, the use of a universal character set, and syntax
+    and constraint description for languages at both the abstract and concrete level."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Notations and guidelines for the definition of ITU-T languages
+    docidentifier:
+    - content: Z.111 (11/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

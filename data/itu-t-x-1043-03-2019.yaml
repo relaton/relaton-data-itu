@@ -17,11 +17,73 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2019-03
+  at: '2019-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T X.1043 analyses security threats to and defines security
+    requirements for software-defined networking (SDN) based service function chaining.
+    The corresponding security countermeasures are also given. This Recommendation
+    aims to help understanding of security risks encountered when using the SDN-based
+    service function chaining and implementation of secured SDN-based service function
+    chains.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1403 – Supplement on rationale and initial approach of a decentralized
+        identity system (DIS) based on verifiable data
+    docidentifier:
+    - content: X Suppl. 45 (12/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

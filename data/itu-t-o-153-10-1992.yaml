@@ -17,11 +17,79 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1992-10
+  at: '1992-10-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 15
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Defines the requirements for equipment to measure error performance at
+    bit rates between 0.050 and 168 kbit/s Keywords - digital error detector; - digital
+    pattern generator; - error performance measurement; - measurement; - tester.PREAMBLE
+    The requirements for the characteristics of error measuring equipment which are
+    described below must be adhered to in order to ensure compatibility between equipment
+    produced by different manufacturers. While requirements are given for the equipment,
+    the realization of the equipment configuration is not covered and should be given
+    careful consideration by the designer and user. In particular, it is not required
+    that all features listed below shall be provided in one piece of equipment. Administrations
+    may select those functions which correspond best to their applications. When selecting
+    functions, administrations may also consider other Recommendations dealing with
+    error measuring equipment, e.g. Recommendations O.151 [17] and O.152 [18].
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Basic parameters for the measurement of error performance at bit rates
+        below the primary rate
+    docidentifier:
+    - content: O.153 (11/1988)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -9,13 +9,353 @@ docidentifier:
 - content: ITU-T X.509 (2005) Cor. 3 (02/2011)
   type: ITU
   primary: true
+- content: ISO/IEC 9594-8
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2011-02
+  at: '2011-02-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '5.3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2019) Cor. 3 (07/2026)
+    docidentifier:
+    - content: X.509 (2019) Cor. 3 (07/2026)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Miscellaneous enhancements
+    docidentifier:
+    - content: X.509 (2019) Amd. 1 (10/2024)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2019) Cor. 2 (10/2023)
+    docidentifier:
+    - content: X.509 (2019) Cor. 2 (10/2023)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2019) Cor. 1 (10/2021)
+    docidentifier:
+    - content: X.509 (2019) Cor. 1 (10/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Public-key and attribute certificate frameworks'
+    docidentifier:
+    - content: X.509 (10/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Public-key and attribute certificate frameworks'
+    docidentifier:
+    - content: X.509 (10/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2012) Cor. 3 (10/2016)
+    docidentifier:
+    - content: X.509 (2012) Cor. 3 (10/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2012) Cor. 2 (04/2016)
+    docidentifier:
+    - content: X.509 (2012) Cor. 2 (04/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2012) Cor. 1 (05/2015)
+    docidentifier:
+    - content: X.509 (2012) Cor. 1 (05/2015)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Public-key and attribute certificate frameworks'
+    docidentifier:
+    - content: X.509 (10/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2008) Cor. 3 (10/2012)
+    docidentifier:
+    - content: X.509 (2008) Cor. 3 (10/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2008) Cor. 2 (04/2012)
+    docidentifier:
+    - content: X.509 (2008) Cor. 2 (04/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2008) Cor. 1 (02/2011)
+    docidentifier:
+    - content: X.509 (2008) Cor. 1 (02/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open systems interconnection – The Directory:
+        Public-key and attribute certificate frameworks'
+    docidentifier:
+    - content: X.509 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2005) Cor. 4 (04/2012)
+    docidentifier:
+    - content: X.509 (2005) Cor. 4 (04/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2005) Cor. 2 (11/2008)
+    docidentifier:
+    - content: X.509 (2005) Cor. 2 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2005) Cor. 1 (01/2007)
+    docidentifier:
+    - content: X.509 (2005) Cor. 1 (01/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Public-key and attribute certificate frameworks'
+    docidentifier:
+    - content: X.509 (08/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2000) Technical Cor. 4 (01/2007)
+    docidentifier:
+    - content: X.509 (2000) Technical Cor. 4 (01/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2000) Technical Cor. 3 (04/2004)
+    docidentifier:
+    - content: X.509 (2000) Technical Cor. 3 (04/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2000) Technical Cor. 3 (02/2003)
+    docidentifier:
+    - content: X.509 (2000) Technical Cor. 3 (02/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2000) Technical Cor. 2 (04/2002)
+    docidentifier:
+    - content: X.509 (2000) Technical Cor. 2 (04/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (2000) Technical Cor. 1 (10/2001)
+    docidentifier:
+    - content: X.509 (2000) Technical Cor. 1 (10/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Public-key and attribute certificate frameworks'
+    docidentifier:
+    - content: X.509 (03/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (1997) Technical Cor. 6 (04/2004)
+    docidentifier:
+    - content: X.509 (1997) Technical Cor. 6 (04/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (1997) Technical Cor. 5 (02/2003)
+    docidentifier:
+    - content: X.509 (1997) Technical Cor. 5 (02/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (1997) Technical Cor. 4 (04/2002)
+    docidentifier:
+    - content: X.509 (1997) Technical Cor. 4 (04/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (1997) Technical Cor. 3 (10/2001)
+    docidentifier:
+    - content: X.509 (1997) Technical Cor. 3 (10/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (1997) Technical Cor. 2 (02/2001)
+    docidentifier:
+    - content: X.509 (1997) Technical Cor. 2 (02/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.509 (1997) Technical Cor. 1 (03/2000)
+    docidentifier:
+    - content: X.509 (1997) Technical Cor. 1 (03/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The Directory:
+        Authentication framework'
+    docidentifier:
+    - content: X.509 (08/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Open Systems Interconnection – The directory:
+        authentication framework'
+    docidentifier:
+    - content: X.509 (11/1993)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The Directory – Authentication framework
+    docidentifier:
+    - content: X.509 (11/1988)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,272 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-04
+  at: '2003-04-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines TTCN-3 (Testing and Test Control Notation 3)
+    intended for specification of test suites that are independent of platforms, test
+    methods, protocol layers and protocols. TTCN-3 can be used for specification of
+    all types of reactive system tests over a variety of communication ports. Typical
+    areas of application are protocol testing (including mobile and Internet protocols),
+    service testing (including supplementary services), module testing, testing of
+    CORBA-based platforms and APIs. The specification of test suites for physical
+    layer protocols is outside the scope of this Recommendation.TTCN-3 has evolved
+    form TTCN-2 (Tree and Tabular Combined Notation, Edition 2) defined in ITU-T Rec.
+    X.292, but, is syntactically very different. Unlike TTCN-2, TTCN-3 is not restricted
+    to conformance testing and can be used for many other kinds of testing including
+    interoperability, robustness, regression, system and integration testing.TTCN-3
+    retains much of the well-proven basic functionality of TTCN-2 but has been enhanced
+    to include features such as:- the ability to specify dynamic concurrent testing
+    configurations;- operations for procedure-based and message-based communication;
+    - the ability to specify encoding information and other attributes (including
+    user extensibility);- the ability to specify data and signature templates with
+    powerful matching mechanisms;- type and value parameterization;- the assignment
+    and handling of test verdicts;- test suite parameterization and test case selection
+    mechanisms;- combined use of TTCN-3 with ASN.1 and potentially with other languages;-
+    well-defined syntax, interchange format and static semantics.The core language
+    of TTCN-3 can be expressed in a variety of presentation formats. While ITU-T Rec.
+    Z.140 defines the Core Language, ITU-T Rec. Z.141 defines the Tabular Format for
+    TTCN (TFT) and ITU-T Rec. Z.142 defines its Graphical Format for TTCN (GFT). The
+    specification of these formats is outside the scope of this Recommendation. The
+    core language serves three purposes:1) as a generalized text-based test language;2)
+    as a standardized interchange format of TTCN test suites between TTCN tools;3)
+    as the semantic basis (and where relevant, the syntactical basis) for the various
+    presentation formats.The core language may be used independently of the presentation
+    formats. However, neither the tabular format nor the graphical format can be used
+    without the core language. Use and implementation of these presentation formats
+    shall be done on the basis of the core language.Since the first publication of
+    ITU-T Recs Z.140 and Z.141 in July 2001, several major updates to TTCN-3 Core
+    Language have been made and included in this Recommendation:1) corrections to
+    examples and other editorials;2) restructuring of the Recommendation for easier
+    understandability;3) Annex B, Operational Semantics, has been moved into a separate
+    specification;
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (10/2023)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (10/2022)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (10/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (10/2020)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (10/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (10/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (10/2017)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (10/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (10/2015)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (11/2014)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (07/2013)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (05/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (03/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 core language'
+    docidentifier:
+    - content: Z.161 (11/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3 (TTCN-3): Core language'
+    docidentifier:
+    - content: Z.140 (03/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: Z.140 (2003) Err. 1 (10/2005)
+    docidentifier:
+    - content: Z.140 (2003) Err. 1 (10/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'The Tree and Tabular Combined Notation version 3 (TTCN-3): Core language'
+    docidentifier:
+    - content: Z.140 (07/2001)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,60 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1997-04
+  at: '1997-04-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'This Recommendation describes how the test of the B-ISDN ATM layer is
+    managed through the TMN. This Recommendation identifies two types of ATM layer
+    tests: non-intrusive loopback test and ATM layer performance test. For these test
+    types, the required management functions and the architecture are clarified, and
+    then management information is specified based on the X.745 model.'
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

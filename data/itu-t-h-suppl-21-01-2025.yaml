@@ -16,11 +16,73 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-01
+  at: '2025-01-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 21 to ITU-T H-series Recommendations provides information on
+    the use of film grain synthesis technology for video applications. Film grain
+    synthesis technology offers subjective quality benefits for certain video applications
+    and can effectively improve video compression. The use of such technology can
+    involve pre-processing to reduce film grain and sensor noise present in a video
+    or image signal prior to compression. Metadata can then be conveyed to a decoder
+    and used to synthesize noise with similar characteristics, as in the original
+    content as a post-processing stage that follows the compression decoding process.
+    This metadata may be signalled using appropriate mechanisms, such as the supplemental
+    enhancement information messages that are supported by several video coding standards.\r\nThis
+    Supplement provides a referenceable overview of the end-to-end processing steps
+    for film grain and sensor noise removal, estimation, parameterization, synthesis,
+    and blending for consumer distribution applications. The Supplement includes examples
+    of encoder-side and post-decoding processing steps for grain blending with some
+    of the currently defined technologies.\r\nThis H-series Supplement was developed
+    collaboratively with ISO/IEC JTC 1, Information technology, Subcommittee SC 29,
+    Coding of audio, picture, multimedia and hypermedia information, and corresponds
+    with ISO/IEC TR 23002-9:2024 as technically aligned twin text.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

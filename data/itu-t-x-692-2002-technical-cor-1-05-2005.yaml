@@ -9,13 +9,172 @@ docidentifier:
 - content: ITU-T X.692 (2002) Technical Cor. 1 (05/2005)
   type: ITU
   primary: true
+- content: ISO/IEC 8825-3
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2005-05
+  at: '2005-05-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Technical Corrigendum solves identified defects in ITU-T Rec. X.692
+    | ISO/IEC 8825-3 which prevented its use in support of ITU-T Rec. X.891 | ISO/IEC
+    24824-1 \"Fast Infoset\". The changes introduced in this Corrigendum are summarized
+    as follows:\r\n–\tRemoval of the restriction that prohibited recursive definition
+    of encoding objects. This restriction was an undesirable (and probably unintended)
+    limitation of the previous edition of the Recommendation | International Standard,
+    because encoding objects are the natural means by which new \"encoding rules\"
+    can be defined by using ECN, and the ASN.1 type definition notation is naturally
+    recursive (as are all the standard encoding rules).\r\n–\tRemoval of ambiguity
+    around the concept and the terminology of \"exhibiting an identification handle\".
+    This is now clearly specified as a property of an encoding object (rather than
+    as a property of the encodings produced by an encoding object).\r\n–\tClarification
+    of the mechanism by which an encoding object (not based on a defined syntax) inherits
+    an identification handle from another encoding object. The previous text was often
+    imprecise or incomplete in this area.\r\n–\tRemoval of the restriction that prohibited
+    multiple bit patterns (handle values) for the identification handle exhibited
+    by an encoding object. This restriction prevented the use of a common and convenient
+    technique whereby, given (for example) two alternatives, the first alternative
+    always produces a well-known bit pattern and the second alternative never produces
+    that same bit pattern.\r\n–\tRemoval of the restriction that prohibited an encoding
+    object applied to the constructor in an \"EncodeStructure\" to specify structure
+    replacement. This restriction was an undesirable (and probably unintended) limitation
+    of the previous edition of the Recommendation | International Standard, because
+    there is no other way of specifying structure replacement for an encoding structure.\r\n–\tResolution
+    of an inconsistency between the declaration of an identification handle (EXHIBITS
+    HANDLE &exhibited-handle) having an OPTIONAL handle name, and the use of an identification
+    handle (DETERMINED BY handle HANDLE &handle-id) having a DEFAULT handle name (=
+    \"default-handle\") with no relationship between these two things.\r\n–\tCorrection
+    of typographical errors.\r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology - ASN.1 encoding rules: Specification of Encoding
+        Control Notation (ECN)'
+    docidentifier:
+    - content: X.692 (02/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – ASN.1 encoding rules: Specification of Encoding
+        Control Notation (ECN)'
+    docidentifier:
+    - content: X.692 (08/2015)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.692 (2008) Cor. 1 (10/2011)
+    docidentifier:
+    - content: X.692 (2008) Cor. 1 (10/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – ASN.1 encoding rules: Specification of Encoding
+        Control Notation (ECN)'
+    docidentifier:
+    - content: X.692 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Time type support
+    docidentifier:
+    - content: X.692 (2002) Amd. 2 (06/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Extensibility support
+    docidentifier:
+    - content: X.692 (2002) Amd. 1 (08/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Support for Huffman encodings
+    docidentifier:
+    - content: X.692 (2002) Annex E (03/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – ASN.1 encoding rules: Specification of Encoding
+        Control Notation (ECN)'
+    docidentifier:
+    - content: X.692 (03/2002)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

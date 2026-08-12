@@ -16,11 +16,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-10
+  at: '2016-10-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Supplement sheds light on e-waste management success stories in different
+    countries. The Supplement covers different policies, legislation, initiatives,
+    and different stakeholders' involvement (government, private sector, non-governmental
+    organizations (NGOs), and informal sector). \r\nIt has been developed in response
+    to WTSA Resolution 79 (Dubai, 2012), which instructed ITU-T Study Group 5 to develop
+    and document examples of success stories in countries and regions in handling
+    and managing e-waste generated from telecommunications and ICT equipment. It is
+    complementary to the Supplement guidelines for developing a sustainable e-waste
+    management system, currently being discussed by Q13/5. However, the guidelines
+    introduced in this Supplement apply to all categories of Waste Electrical and
+    Electronic Equipment (WEE). The Supplement presents some countries' and regions'
+    success stories of e-waste management that could be used as best practice guidance.
+    They may be adopted by countries or regions working on developing adequate e-waste
+    management systems to improve their processes and procedures. Finally, the Supplement
+    strongly encourages ITU membership to adopt ITU-T standards and internationally
+    recognized indicators.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

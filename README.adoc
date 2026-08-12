@@ -23,22 +23,35 @@ every other `relaton-data-*` repository:
 
 == Crawler
 
-`crawler.rb` runs daily via `.github/workflows/crawler.yml`. Each run:
+`crawler.rb` runs via `.github/workflows/crawler.yml` (on push and manual
+dispatch; the daily schedule is currently commented out). Each run:
 
-1. wipes the `data/itu-t-*` files and re-derives the ITU-R index rows from the
-   preserved `data/itu-r-*` files;
-2. harvests the full ITU-T corpus into `data/`, merging its rows into the
-   index (`Relaton::Itu::DataFetcher.fetch("itu-t")`);
-3. writes the combined `index-v2.yaml` and rebuilds `index-v2.zip`.
+1. wipes the `data/itu-t-*` files and the index;
+2. re-derives the ITU-R index rows from the preserved `data/itu-r-*` files
+   (`Relaton::Itu::DataFetcher#index_files`);
+3. harvests the full ITU-T corpus into `data/`, merging its rows into the same
+   index (`Relaton::Itu::DataFetcher#fetch("itu-t")`);
+4. writes the combined `index-v2.yaml` and rebuilds `index-v2.zip`.
+
+Steps 2 and 3 share one fetcher, so both sectors go through the same identifier
+guard and the same unparseable-id report — ids that cannot be indexed are named
+in the log, and raised as an "Error fetching documents" GitHub issue when
+`GITHUB_REPOSITORY` and `GITHUB_TOKEN` are set.
 
 The `data/itu-r-*` files are never wiped, so the un-re-harvestable ITU-R corpus
 is retained.
 
-NOTE: refreshing the ITU-T half needs the ITU-T producer (issue relaton-itu#80)
-merged to `relaton` `main`, which the `Gemfile` pins. Without it a crawl
-re-derives the ITU-R index but cannot re-harvest ITU-T (the fetch hits the dead
-RunSearch endpoint and fails); the already-published `data/itu-t-*` files are
-left as-is — the collapse guard refuses to republish a wipe.
+Each ITU-T record is enriched (abstract, ISO/IEC co-identifier, status, edition,
+publisher + editorial-group contributors, relations) so a harvested record
+matches what a live lookup returns. That costs ~4 `www.itu.int` requests per
+record over ~16k records, so the fetcher spreads them over a worker pool —
+`RELATON_ITU_CONCURRENCY` (default 8) tunes it; lower it if ITU starts
+throttling.
+
+Two guards refuse to publish a bad crawl: one blocks a collapse in the ITU-T
+file count, the other blocks a corpus where enrichment largely failed (fewer
+than 90% of records carrying `contributor:`), which is what a mid-crawl block by
+ITU's WAF looks like.
 
 == Index
 

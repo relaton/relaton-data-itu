@@ -17,11 +17,84 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2002-12
+  at: '2002-12-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides a general description as well as objectives
+    and procedures for AAL type 2 traffic control and congestion control. It introduces
+    the concept of AAL type 2 transfer capability. For each AAL type 2 transfer capability,
+    it specifies AAL type 2 traffic parameters, an AAL type 2 conformance definition
+    and defines AAL type 2 QoS commitments. Additionally, it describes the concepts
+    of the AAL type 2 traffic contract.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'New Appendix IV: Deriving AAL 2 traffic parameters from AAL 2 link
+        characteristics'
+    docidentifier:
+    - content: I.378 (2002) Amd. 1 (08/2003)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
+    docidentifier:
+    - content: I Suppl. 1 (03/1998)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

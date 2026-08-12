@@ -17,11 +17,129 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2011-04
+  at: '2011-04-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 3
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This supplement provides considerations and options for traffic measurement
+    in support of the provisions of Recommendation D.50. It identifies different approaches
+    for measuring IP traffic flow at the interconnect (at the Border Gateway Protocol
+    interconnect or other interconnect point) between networks operated by administrations
+    and operating agencies authorized by Member States. IP traffic flows can be measured
+    at different points, including at the Border Gateway Protocol (BGP) interconnect
+    point (for example by hardware or software within or external to BGP routers or
+    related equipment). This Supplement is not intended to imply the need for any
+    changes in the IETF Border Gateway Protocol (BGP). Options for traffic measurement
+    that are not addressed in this Supplement are for further study.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for reducing the costs of international Internet connectivity
+        for the Central African Backbone (CAB) project
+    docidentifier:
+    - content: D.50 Suppl. 3 (04/2025)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Supplement 2: Guidelines for reducing the costs of international Internet
+        connectivity'
+    docidentifier:
+    - content: D.50 Suppl. 2 (05/2013)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International Internet connection
+    docidentifier:
+    - content: D.50 (04/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International Internet connection
+    docidentifier:
+    - content: D.50 (10/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Appendix I – General considerations for charging criteria and options
+        for international Internet connectivity
+    docidentifier:
+    - content: D.50 (2000) Amd. 1 (06/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International Internet connection
+    docidentifier:
+    - content: D.50 (10/2000)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

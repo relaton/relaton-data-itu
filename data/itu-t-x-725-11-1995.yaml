@@ -15,13 +15,67 @@ docidentifier:
 - content: ITU-T X.725 (11/1995)
   type: ITU
   primary: true
+- content: ISO/IEC 10165-7
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1995-11
+  at: '1995-11-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation | International Standard provides a model for the definition,
+    representation and management of relationships between resources and the notational
+    "tools" for specifying these. In addition, the definitions of general management
+    information that may be used in the representation of relationships are specified.
+    Finally guidelines for the development of conformance statement proformas are
+    provided. The capability afforded by this Recommendation | International Standard
+    is important for those concerned with specifying a management information model.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

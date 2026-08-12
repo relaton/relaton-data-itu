@@ -17,11 +17,137 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2011-12
+  at: '2011-12-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Scope/Objective\r\nRecommendation ITU-T Z.103 defines the shorthand and
+    annotation features of the Specification and Description Language. Together with
+    Recommendations ITU-T Z.100, ITU-T Z.101, ITU-T Z.102, ITU-T Z.104, ITU-T Z.105
+    and ITU-T Z.106, this Recommendation is part of a reference manual for the language.
+    The language defined in this document covers features of the language not included
+    in Basic SDL 2010 in Recommendation ITU-T Z.101 or Comprehensive SDL 2010 in Recommendation
+    ITU-T Z.102. Features defined in this Recommendation either do not have their
+    own abstract grammar and are transformed to concrete grammar defined by Recommendations
+    ITU T Z.101, ITU-T Z.102 and ITU-T Z.104, or are annotations with no formal meaning.\r\nCoverage\r\nThe
+    Specification and Description Language has concepts for behaviour, data description
+    and (particularly for larger systems) structuring. The basis of behaviour description
+    is extended finite state machines communicating by messages. Data description
+    is based on data types for values and objects. The basis for structuring is hierarchical
+    decomposition and type hierarchies. A distinctive feature of the Specification
+    and Description Language is the graphical representation. This Recommendation
+    covers the features of the language such as shorthand and alternative graphical
+    concrete syntax and macros that make SDL 2010 easier and more practical to use.
+    The concrete grammar given is the graphical representation. The alternative textual
+    programming representation is given in Recommendation ITU-T Z.106. This Recommendation
+    does not provide a canonical syntax, but by applying the Model descriptions given
+    a specification can be transformed to Comprehensive SDL 2010 defined in ITU-T
+    Z.102, or (if no Comprehensive SDL 2010 features are used) to Basic SDL 2010 as
+    defined in SDL 2010. It should be noted that in both Basic and Comprehensive SDL
+    2010 the details of expressions, data definitions and action language, are defined
+    in Recommendation ITU-T Z.104.\r\nApplications\r\nThe Specification and Description
+    Language is applicable within standard bodies and industry. The main application
+    areas for which the Specification and Description Language has been designed are
+    stated in ITU-T Z.100, but the language is generally suitable for describing reactive
+    systems. The range of application is from requirement description to implementation.
+    The features of the language defined in Recommendation ITU-T Z.103 are cumulative
+    with, and rely on, the features defined in Recommendations ITU-T Z.101, ITU-T
+    Z.102 and ITU-T Z.104. Therefore the language defined in Recommendation ITU-T
+    Z.103 is practical for application to all kinds of real time systems (except if
+    ASN.1 is also required in which case features defined in Recommendation ITU-T
+    Z.105 should also be used, or if the specification needs to be in text only or
+    interchange format in which case features defined in Recommendation ITU-T Z.106
+    should also be used).\r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - Shorthand notation and annotation
+        in SDL-2010
+    docidentifier:
+    - content: Z.103 (06/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - Shorthand notation and annotation
+        in SDL-2010
+    docidentifier:
+    - content: Z.103 (10/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - Shorthand notation and annotation
+        in SDL-2010
+    docidentifier:
+    - content: Z.103 (04/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

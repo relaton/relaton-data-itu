@@ -17,11 +17,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1998-09
+  at: '1998-09-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines the reference model, national/international
+    apportion model, frame relay service classes and their associated delay and loss
+    objectives, applicable to networks providing frame relay PVC or SVC service and
+    supporting frame relay service classes.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Performance objectives and quality of service classes applicable to
+        frame relay
+    docidentifier:
+    - content: X.146 (10/2000)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

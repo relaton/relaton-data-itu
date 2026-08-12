@@ -17,11 +17,128 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-03
+  at: '2025-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T F.747.16 provides the requirements for 3D machine
+    vision-based surface defect detection service of industrial products. Three-dimensional
+    (3D) machine vision can obtain the complete geometric information of the real
+    3D scene, and the images with depth information can be used to achieve high-precision
+    measurement, detection, positioning, reconstruction, and scene understanding.
+    It can process various types of industrial products that cannot be processed by
+    two-dimensional (2D) machine vision (e.g., highly reflective surfaces and low-contrast
+    surfaces), such as electronic products and printed circuit board (PCB) surface
+    detection, free-form surface optical mirror measurement, and measurement and detection
+    of steel product surfaces or curved surfaces, etc.\r\n\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
+    docidentifier:
+    - content: F Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terms and definitions for telex
+    docidentifier:
+    - content: F Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of Telecom Finance (Finance2.0)
+    docidentifier:
+    - content: F Suppl. 3 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of convergence of artificial intelligence and blockchain
+    docidentifier:
+    - content: F Suppl. 4 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
+    docidentifier:
+    - content: F Suppl. 5 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of ICT-enabled flying car service platform
+    docidentifier:
+    - content: F Suppl. 6 (07/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

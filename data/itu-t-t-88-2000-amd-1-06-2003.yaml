@@ -14,13 +14,135 @@ docidentifier:
 - content: ITU-T T.88 (2000) Amd. 1 (06/2003)
   type: ITU
   primary: true
+- content: ISO/IEC 14492
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2003-06
+  at: '2003-06-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'The objective of this amendment is to extend the ITU-T Rec. T.88 | ISO/IEC
+    14492 (''JBIG2'') standard for compression of bi-level images, currently specified
+    in terms of compliant data streams and decoding, to also cover compliant encoding.
+    In particular, this amendment: 1) specifies a compliant architecture for JBIG2
+    encoding; and 2) illustrates example encoding methods for each optional architecture
+    component. Specification of the compliant architecture facilitates applications
+    needing the benefits of a combined encoding/decoding standard, while still permitting
+    competition in the encoding method chosen for any component. The compliant encoding
+    method(s) chosen as examples for each architectural component were selected to
+    target expired (or expiring) patents, openly published methods or royalty-free
+    patents.Selection of a representative method for each optional component should
+    result in reasonable encoder performance in both compression and quality. Using
+    the full combination of components, together with their example encoding methods,
+    provides new users with a default encoder design and a benchmark for JBIG2 encoding
+    that illustrates reasonable near-lossless quality for documents with 300 dpi,
+    or higher, resolution.'
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology – Lossy/lossless coding of bi-level images
+    docidentifier:
+    - content: T.88 (08/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Extension to colour coding
+    docidentifier:
+    - content: T.88 (2000) Amd. 3 (05/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Extension of adaptive templates for halftone coding
+    docidentifier:
+    - content: T.88 (2000) Amd. 2 (06/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: T.88 (2000) Amd. 1 Err. 1 (12/2004)
+    docidentifier:
+    - content: T.88 (2000) Amd. 1 Err. 1 (12/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology – Lossy/lossless coding of bi-level images
+    docidentifier:
+    - content: T.88 (02/2000)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

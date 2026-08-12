@@ -16,11 +16,102 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2012-10
+  at: '2012-10-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T Z.151 defines the User Requirements Notation (URN)
+    intended for the elicitation, analysis, specification and validation of requirements.
+    URN combines modelling concepts and notations for goals (mainly for non-functional
+    requirements and quality attributes) and scenarios (mainly for operational requirements,
+    functional requirements and performance and architectural reasoning). The goal
+    sub-notation is called goal-oriented requirements language (GRL) and the scenario
+    sub notation is called use case map (UCM).
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: User Requirements Notation (URN) - Language definition
+    docidentifier:
+    - content: Z.151 (10/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: Z.151 (2008) Cor. 1 (04/2012)
+    docidentifier:
+    - content: Z.151 (2008) Cor. 1 (04/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: User requirements notation (URN) - Language definition
+    docidentifier:
+    - content: Z.151 (11/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

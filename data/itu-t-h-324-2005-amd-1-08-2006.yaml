@@ -17,11 +17,326 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2006-08
+  at: '2006-08-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '4.2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: The new Annex K describes a procedure comprising complementary methods
+    for significantly reducing delay in H.324 call setup. It provides a fast channel
+    setup mechanism which does not wait for capability exchange but requires a fallback
+    if the initial media transmission attempts do not succeed. It provides a flexible
+    accelerated channel setup method that depends on an initial exchange of preferences
+    and the execution of a common inference algorithm. It provides an accelerated
+    H.245 setup method as a simple and reasonably fast technique in cases where the
+    other methods are not suitable. Interoperation with legacy terminals is also preserved
+    across the procedures. Some changes needed in Annex J, due to the new Annex K,
+    are also addressed. This edition includes the clarifications and corrections introduced
+    in Annex K by H.324 Corrigendum 2 approved on 1 January 2007. The corrections
+    are made to prevent a possible problem with the transition from MONA encapsulated
+    media to regular (H.223 framed) media, allow the use of corrupted encapsulated
+    media if desirable by a MONA device and to use the MONA preference message multiplexer
+    level (MONA-ML) to negotiate the initial multiplex level for all MONA-to-MONA
+    sessions.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terminal for low bit-rate multimedia communication
+    docidentifier:
+    - content: H.324 (04/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Annex L on text conversation and associated changes; corrections
+        and clarifications to Annex K
+    docidentifier:
+    - content: H.324 (2005) Amd. 2 (08/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Corrections to Annex K "Media Oriented Negotiation Acceleration Procedure"
+    docidentifier:
+    - content: H.324 (2005) Cor. 2 (01/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Clarification in Annex A: Protocol stack for control channel'
+    docidentifier:
+    - content: H.324 (2005) Cor. 1 (05/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terminal for low bit-rate multimedia communication
+    docidentifier:
+    - content: H.324 (09/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.324 (2002) Amd. 1 (01/2005)
+    docidentifier:
+    - content: H.324 (2002) Amd. 1 (01/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.324 (2002) Cor. 1 (11/2002)
+    docidentifier:
+    - content: H.324 (2002) Cor. 1 (11/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terminal for low bit-rate multimedia communication
+    docidentifier:
+    - content: H.324 (03/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of HTTP generic capability in H.324 terminals
+    docidentifier:
+    - content: H.324 Annex I (07/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Mobile multilink operation
+    docidentifier:
+    - content: H.324 Annex H (11/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of ISO/IEC 14496-1 generic capabilities in H.324 terminals
+    docidentifier:
+    - content: H.324 Annex G (02/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Multilink operation
+    docidentifier:
+    - content: H.324 Annex F (09/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terminal for low bit-rate multimedia communication
+    docidentifier:
+    - content: H.324 (02/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terminal for low bit rate multimedia communication
+    docidentifier:
+    - content: H.324 (03/1996)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Control load quantum for decomposed gateways
+    docidentifier:
+    - content: H Suppl. 6 (04/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
+    docidentifier:
+    - content: H Suppl. 9 (05/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of class-based home network QoS solutions
+    docidentifier:
+    - content: H Suppl. 11 (02/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
+    docidentifier:
+    - content: H Suppl. 12 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 13 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 14 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
+    docidentifier:
+    - content: H Suppl. 15 (01/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide for addressing accessibility in standards
+    docidentifier:
+    - content: H Suppl. 17 (11/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
+    docidentifier:
+    - content: H Suppl. 18 (10/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of video signal type code points
+    docidentifier:
+    - content: H Suppl. 19 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Film grain synthesis technology for video applications
+    docidentifier:
+    - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

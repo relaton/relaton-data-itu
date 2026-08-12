@@ -14,13 +14,181 @@ docidentifier:
 - content: ITU-T T.808 (2005) Amd. 1 (05/2006)
   type: ITU
   primary: true
+- content: ISO/IEC 15444-9
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2006-05
+  at: '2006-05-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Amendment 1 to ITU-T Rec. T.808 (01/2005) | ISO/IEC 15444-9:2005 adds support
+    for JPIP over secure HTTP protocol (HTTPS), for serving JPM (15444-6) files over
+    JPIP, and for serving Motion JPEG 2000 (15444-3) over JPIP. Using JPIP over HTTPS
+    was a requirement for the DICOM medical imaging community. They are in the process
+    of adopting JPIP for image data transfers but often require transfers to be done
+    over a secure channel, so HTTPS was a requirement for the inclusion of JPIP in
+    the DICOM standard. The other two items simply define additional JPIP syntax and
+    parameters for the efficient browsing of Motion JPEG 2000 and JPM files over a
+    networked connection.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity
+        tools, APIs and protocols'
+    docidentifier:
+    - content: T.808 (V3) (06/2026)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity
+        tools, APIs and protocols'
+    docidentifier:
+    - content: T.808 (V2) (12/2022)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: UDP transport and additional enhancements to JPIP
+    docidentifier:
+    - content: T.808 (2005) Amd. 5 (03/2013)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Corrections to clause J.4.3.4
+    docidentifier:
+    - content: T.808 (2005) Cor. 3 (05/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: JPIP server and client profiles
+    docidentifier:
+    - content: T.808 (2005) Amd. 4 (05/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: JPIP extensions to 3D data
+    docidentifier:
+    - content: T.808 (2005) Amd. 3 (06/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Clarifications to the metadata transfers between server and client
+    docidentifier:
+    - content: T.808 (2005) Cor. 2 (06/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: JPIP extensions
+    docidentifier:
+    - content: T.808 (2005) Amd. 2 (08/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: T.808 (2005) Cor. 1 (01/2007)
+    docidentifier:
+    - content: T.808 (2005) Cor. 1 (01/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity
+        tools, APIs and protocols'
+    docidentifier:
+    - content: T.808 (01/2005)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,96 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-02
+  at: '2003-02-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Scope-objectiveThis Recommendation with other Recommendations in the Z.150
+    series defines URN (User Requirements Notation) for describing user requirement
+    as goals and scenarios in a formal way without any reference to implementation
+    mechanisms and with optional dependency on component specification. Such a notation
+    is needed to capture user requirements prior to any design.CoverageURN has concepts
+    for the specification of behaviour, structuring, goals, and non-functional requirements.
+    This Recommendation focuses on language requirements for URN and on providing
+    the context for a requirements engineering framework. Other Recommendations in
+    the Z.150 series define the notation for URN.ApplicationsURN is applicable within
+    standards bodies and industry. URN helps to describe and communicate requirements,
+    and to develop reasoning about them. The main applications areas include telecommunications
+    systems and services, but URN is generally suitable for describing most types
+    of reactive systems. The range of applications is from goal modelling and requirements
+    description to high-level design.Status/StabilityThis Recommendation provides
+    the scope and requirements for URN.The main body of the Recommendation has following
+    attachments:\r• Annex A Compliance to this Recommendation;\r• Appendix I Requirements
+    engineering activities;\r• Appendix II Guidelines for the maintenance of URN;\r•
+    Bibliography.Associated workThis work is associated with languages, notations,
+    and methodological aspects related to other ITU-T Study Group 17 languages."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: User Requirements Notation (URN) – Language requirements and framework
+    docidentifier:
+    - content: Z.150 (02/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

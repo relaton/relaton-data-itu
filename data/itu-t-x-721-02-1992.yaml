@@ -15,13 +15,115 @@ docidentifier:
 - content: ITU-T X.721 (02/1992)
   type: ITU
   primary: true
+- content: ISO/IEC 10165-2
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1992-02
+  at: '1992-02-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Recommendation | International Standard\r\n–\tdefines the managed
+    object classes, attribute types, name bindings, packages, specific attributes,
+    action types, parameter types and notification types docu¬mented in accordance
+    with CCITT Rec. X.722 | ISO/IEC 10165-4;\r\n–\tspecifies compliance require¬ments
+    placed on other CCITT Recommendations | International Standards that make use
+    of these definitions.\r\nThis Recommendation | International Standard is applicable
+    to the development of OSI managed object class specifications and provides generic
+    definitions that support OSI systems management functions. These definitions may
+    also be used in other Recommendations | International Standards specifying object
+    classes, attributes, notifications and action types.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: States to support Lifecycle
+    docidentifier:
+    - content: X.721 (1992) Amd. 1 (08/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use of ASN.1 1997
+    docidentifier:
+    - content: X.721 (1992) Technical Cor. 4 (02/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.721 (1992) Technical Cor. 3 (06/1998)
+    docidentifier:
+    - content: X.721 (1992) Technical Cor. 3 (06/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.721 (1992) Technical Cor. 2 (10/1996)
+    docidentifier:
+    - content: X.721 (1992) Technical Cor. 2 (10/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.721 (1992) Technical Cor. 1 (02/1994)
+    docidentifier:
+    - content: X.721 (1992) Technical Cor. 1 (02/1994)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

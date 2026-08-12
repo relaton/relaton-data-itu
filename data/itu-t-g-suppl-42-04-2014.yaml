@@ -17,11 +17,104 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2014-04
+  at: '2014-04-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 15
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 42 to ITU-T G-series Recommendations contains a functional
+    grouping of the ITU-T Recommendations on optical fibres and systems technology
+    (e.g., optical fibres and cables, physical optical interfaces and optical fibre
+    submarine cable systems).\r\nAn introduction to each category with more than one
+    Recommendation outlines the subjects which are common to the category.\r\nFor
+    each Recommendation, there is a short description of the purpose, content and,
+    in many cases, the evolution of the content in the subsequent versions. There
+    are also cross-references to the other Recommendations dealing with related issues.\r\nThe
+    main purpose of this guide is to give to developing countries an improved capability
+    in the application of standards, while the telecommunication industry, particularly
+    manufacturers and operators, could benefit from the greater involvement of developing
+    countries in the making and application of standards.\r\nThe guide could also
+    have a wider use among manufacturers and operators who are not directly involved
+    in the preparation of this group of Recommendations and they could find the guide
+    to be a useful tool both for rapidly focusing on the Recommendation(s) of specific
+    interest and for better understanding the meaning and the objectives of each Recommendation."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres
+        and systems technology
+    docidentifier:
+    - content: G Suppl. 42 (10/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres
+        and systems technology
+    docidentifier:
+    - content: G Suppl. 42 (02/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide on the use of the ITU-T Recommendations related to optical technology
+    docidentifier:
+    - content: G Suppl. 42 (02/2008)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

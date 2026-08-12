@@ -16,11 +16,290 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2008-05
+  at: '2008-05-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '5.3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Supplement 5 to Recommendation ITU-T E.164 reviews and examines the idea
+    of harmonizing an approach to the selection of national numbers on a global basis.
+    National Administrations are invited to consider such global harmonization of
+    numbers associated with helplines, specifically those helplines that are aimed
+    at providing assistance for children.Statement by Nigeria:Nigeria stated that
+    there is a need for Administrations to note that, while it is feasible that if
+    a user were to dial 116 111 the system would be capable of accepting this as a
+    call to 116, the reverse is not applicable since it is not feasible that if a
+    user dials 116, the system would be capable of accepting this as a call to 116
+    111 and therefore will not direct the call accordingly as desired. Based on the
+    above, the ITU should call for a better harmonizable global number, for the Study
+    Period 2009-2012.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The international public telecommunication numbering plan
+    docidentifier:
+    - content: E.164 (02/2026)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for identifying and selecting globally harmonized numbers
+    docidentifier:
+    - content: E.164 Suppl. 6 (03/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance with regard to the selection of numbers for helplines for
+        children
+    docidentifier:
+    - content: E.164 Suppl. 5 (11/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Revised Annex A: Clarification and explanation of the structure and
+        function of international ITU-T E.164-numbers'
+    docidentifier:
+    - content: E.164 (2010) Amd. 1 (06/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: E.164 Suppl. 4 (2004) Amd. 1 (11/2009)
+    docidentifier:
+    - content: E.164 Suppl. 4 (2004) Amd. 1 (11/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Operational and administrative issues associated with the implementation
+        of ENUM for non-geographic country codes
+    docidentifier:
+    - content: E.164 Suppl. 4 (05/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: E.164 Suppl. 3 (2004) Amd. 1 (11/2009)
+    docidentifier:
+    - content: E.164 Suppl. 3 (2004) Amd. 1 (11/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Operational and administrative issues associated with national implementations
+        of the ENUM functions
+    docidentifier:
+    - content: E.164 Suppl. 3 (05/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Number portability
+    docidentifier:
+    - content: E.164 Suppl. 2 (06/2020)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Alternatives for carrier selection and network identification
+    docidentifier:
+    - content: E.164 Suppl. 1 (03/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The international public telecommunication numbering plan
+    docidentifier:
+    - content: E.164 (11/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Number portability
+    docidentifier:
+    - content: E.164 Suppl. 2 (06/2014)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Number portability
+    docidentifier:
+    - content: E.164 Suppl. 2 (03/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Number portability
+    docidentifier:
+    - content: E.164 Suppl. 2 (11/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The international public telecommunication numbering plan
+    docidentifier:
+    - content: E.164 (02/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Operational and administrative issues associated with the implementation
+        of ENUM for non-geographic country codes
+    docidentifier:
+    - content: E.164 Suppl. 4 (05/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Operational and administrative issues associated with national implementations
+        of the ENUM functions
+    docidentifier:
+    - content: E.164 Suppl. 3 (05/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Number Portability
+    docidentifier:
+    - content: E.164 Suppl. 2 (11/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The international public telecommunication numbering plan
+    docidentifier:
+    - content: E.164 (05/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Numbering plan for the ISDN era
+    docidentifier:
+    - content: E.164/I.331 (08/1991)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Numbering plan for the ISDN era
+    docidentifier:
+    - content: E.164/I.331/Q.11 bis (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Numbering plan for the ISDN era
+    docidentifier:
+    - content: E.164/I.331 (10/1984)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

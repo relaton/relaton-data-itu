@@ -16,11 +16,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2015-10
+  at: '2015-10-23'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 14 to the ITU-T L-series Recommendations identifies gaps on
+    standardization for smart water management (SWM), taking into consideration related
+    information and communication technology (ICT) standardization activities currently
+    undertaken by the various standards development organizations (SDOs) and forums.\r\nThe
+    final objective of this Supplement is to suggest potential strategic SWM related
+    standardization activities based on the investigation of the gaps, and to encourage
+    other ITU Study Groups and other SDOs to get involved in the work for a wider
+    standardization roadmap."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

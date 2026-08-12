@@ -16,11 +16,65 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2007-11
+  at: '2007-11-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Some environments necessitate the authentication of the human user rather
+    than a process or a device. In authenticating human users, the authentication
+    system requires human users to prove their uniqueness. Such uniqueness is generally
+    based on various authentication means such as something known, something possessed
+    or some immutable characteristics for each human user. In this Recommendation,
+    a guideline on user authentication mechanism for home network services is provided.
+    It also considers various security issues according to ITU-T Recommendation X.1111,
+    which specifies the framework of security technologies for home network. Finally,
+    the security assurance level and authentication model are defined according to
+    authentication service scenarios.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

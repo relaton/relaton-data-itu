@@ -17,11 +17,85 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-03
+  at: '2016-03-23'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "With the surge of mobile devices and applications accessing the Internet,
+    the network and the service environment are becoming increasingly complicated.
+    As a result, there is a pressing need to simplify the user authentication mechanism
+    to improve user experience and service quality.\r\n\r\nMany standardization organizations
+    including ITU-T have conducted a lot of research work on the unified authentication
+    mechanism (i.e., single sign-on). However, all the current work is basically focused
+    on unified authentication among the service applications, without considering
+    the relationship with the network authentication.\r\n\r\nFrom the network operator's
+    perspective, users undergo some forms of network authentication when they access
+    the network, however, when they log in again to request access to a service their
+    initial network authentication is not reused anymore. When adopting an authentication
+    results sharing mechanism between the service and the network, the service applications
+    can identify a user by using the authentication results from the network. Such
+    mechanism allows a user to be authenticated only once by the network and directly
+    gain access to the service.\r\n\r\nRecommendation ITU-T X.1256 develops guidelines
+    for network operators and service providers to share network authentication results,
+    and provides a framework for sharing minimum attributes across multiple services
+    within an established trust relationship."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1250 series – Supplement on overview of identity management
+        in the context of cybersecurity
+    docidentifier:
+    - content: X Suppl. 7 (02/2009)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

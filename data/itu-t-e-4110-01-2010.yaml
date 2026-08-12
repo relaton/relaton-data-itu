@@ -16,11 +16,83 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2010-01
+  at: '2010-01-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T E.4110 provides the framework for supporting and defining
+    the role of operations for the next generation networks and services. This Recommendation
+    provides guidance in the development of processes and systems supporting operations,
+    including fulfilment, provisioning, configuration and activation of NGN&S. In
+    the NGN&S domain, billing and online charging is moving from the traditional back-office
+    to the front office.Operations are the backbone of service providers in ensuring
+    that services are provided to meet customer expectations, while supporting the
+    key business objectives of the corporation. Operations organizations take into
+    account, but are not limited to, the entire value chain across an operator from
+    strategy to service introduction, maintenance, management, and administration.
+    Operations require real-time access to all information about the services and
+    networks that are supported or being introduced. Having a real-time information
+    view of all the systems implicitly implies an integrated and automated back end
+    but also a shared information model. A definition of real time is necessary considering
+    that real time can be milliseconds or even hours. This should relate directly
+    to the customers' experience.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

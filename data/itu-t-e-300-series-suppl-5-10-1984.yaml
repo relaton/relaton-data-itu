@@ -18,11 +18,84 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1984-10
+  at: '1984-10-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: The objects of the tests are to obtain information on inexperienced user
+    difficulties and to test the efficacy of different forms of instruction available
+    for use in any country by observing, in a controlled laboratory environment, ordinary
+    telephone users dialling live international calls.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Modelling of an experimental test design for the determination of inexperienced
+        user difficulties in setting up international calls using nationally available
+        instructions, or to compare different sets of instructions
+    docidentifier:
+    - content: E-300 Suppl. 5 (11/1980)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: An experimental test design for the determination of inexperienced
+        user difficulties in setting up international calls using nationally available
+        instructions
+    docidentifier:
+    - content: E Suppl.9 (10/1976)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

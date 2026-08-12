@@ -16,11 +16,72 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2018-12
+  at: '2018-12-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T X.609.7 specifies a content distribution peer protocol
+    (CDPP) that runs on the interface among entities of managed peer-to-peer (P2P)
+    communications. CDPP is used to distribute one or more contents to a number of
+    peers. Content distribution over traditional P2P communications has incurred various
+    issues such as distribution of illegal content, uncontrollable participation and
+    synchronized distribution of the updated contents. Different from the content
+    distribution over the traditional P2P communications which is not capable of providing
+    manageability, the content distribution over managed P2P communications can be
+    managed by a content provider or service provider. In the content distribution
+    over managed P2P communications, as an example, participation in an overlay network
+    can be controlled so that only predefined peers can join the overlay network and
+    distribute contents to each other. In addition, content to be distributed over
+    an overlay network can be updated anytime and every update will be applied to
+    all peers in the overlay network. The protocol is capable of managing content
+    distribution under the control of a content provider or service provider. This
+    Recommendation provides protocol operations and message formats for content distribution
+    over a managed P2P network.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

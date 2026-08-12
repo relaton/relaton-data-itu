@@ -17,11 +17,76 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1995-08
+  at: '1995-08-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines the communication protocol for document remote
+    access, presentation, editing and transfer. It defines the protocol of two new
+    applications service elements for interactive confirmed document manipulation,
+    aligned with, and provided for, the integrated use with applications defined under
+    the Distributed Office Application Model (DOAM). The two application service elements
+    are the DTAM-TM and DTAM-TK. The use of the DTAM-DM application service element
+    is mandatory for document manipulation applications and is used in conjunction
+    with the ACSE and ROSE services elements. Optionally, it may be combined with
+    the DFR-SE (for filing and retrieval purposes) and with the DTAM-TK service element
+    for exchange of an application token in multi-user conferences.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

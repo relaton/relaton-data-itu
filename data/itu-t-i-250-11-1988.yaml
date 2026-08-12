@@ -16,11 +16,79 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1988-11
+  at: '1988-11-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation I.210 describes the principles for defining telecommunication
+    services supported by an ISDN including the concept of bearer services, teleservices
+    and supplementary services. It also provides the means for the definition and
+    description of such services.The purpose of this Recommendation is to define a
+    recommended set of supplementary services to be used in association with basic
+    bearer services and with basic teleservices. These definitions form the basis
+    for detailed descriptions as given in Recommendations I.251 to I.257, which are
+    used to define the network capabilities required.Supplementary services are described
+    by prose definitions and descriptions and by dynamic descriptions following the
+    description method given in Recommendation I.130. The application for supplementary
+    services of the attribute technique described in Recommendation I.140 is for further
+    study
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
+    docidentifier:
+    - content: I Suppl. 1 (03/1998)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

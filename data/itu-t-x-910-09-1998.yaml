@@ -14,13 +14,66 @@ docidentifier:
 - content: ITU-T X.910 (09/1998)
   type: ITU
   primary: true
+- content: ISO/IEC 14771
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1998-09
+  at: '1998-09-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation | International Standard expands the naming concepts
+    introduced in the Reference Model for Open Distributed Processing. It provides
+    a general framework for naming in heterogeneous distributed systems, giving concepts
+    and procedures which support fully general context-relative naming. These concepts
+    can be applied in any ODP viewpoint. They can be applied to any function which
+    uses naming and is subject to distribution and federation.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

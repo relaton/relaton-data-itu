@@ -17,11 +17,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2013-04
+  at: '2013-04-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recently, many application services, especially financial services, require
+    more reliable or combined authentication methods such as multifactor authentication
+    due to the increase in identity (ID) theft. For example, one-time password authentication
+    and other new authentication methods are used instead of traditional password-based
+    authentication.\r\nThe combinations of authentication methods provide multiple
+    identity service providers (IdSPs) the ability to enhance the assurance of authentication.
+    Recommendation ITU-T X.1154 provides the general framework of combined authentication
+    in multiple IdSP environments for a service provider. In this Recommendation,
+    three types of combined authentication methods are considered: multifactor authentication,
+    multi-method authentication and multiple authentications.\r\nThe framework in
+    this Recommendation describes models, basic operations and security requirements
+    for each model component and each message between the model components to maintain
+    an overall level of authentication assurance in situations of a combination of
+    multiple IdSPs.\r\nIn addition, the framework also describes models, basic operations
+    and security requirements to support the authentication service that manages a
+    combination of multiple IdSPs.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

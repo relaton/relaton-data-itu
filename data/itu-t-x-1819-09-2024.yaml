@@ -16,11 +16,69 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2024-09
+  at: '2024-09-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1819 describes the necessary security capabilities
+    of the network layer for edge computing for the IMT-2020/5G network. Edge computing
+    for international mobile telecommunications (IMT-2020)/5G networks (IMT-2020/5G
+    EC) will play a key role in low latency services and traffic offload services
+    in next generations of international mobile telecommunication (IMT) networks.
+    Several prominent factors could increase the complexity and enlarge the security
+    risks to the network layer that supports IMT-2020/5G EC and even bring new security
+    challenges to network security operation. These factors include the flexible network
+    architectures of IMT-2020/5G, the variable deployment positions of EC, various
+    application scenarios, different types of customers' private networks and access
+    networks, etc. The boundaries between the telecommunication networks and the private
+    networks would be more ambiguous, and the exposure surface would be expanded.
+    Therefore, security requirements and measures of the network layer including telecommunication
+    networks and private networks should be specified.\r\n\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,73 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-10
+  at: '2022-10-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 30 to ITU-T K-series Recommendations provides the subsequent
+    informative references and materials that have appeared since the publication
+    of Recommendation ITU-T K.118.\r\nAs telephone lines are constantly being repurposed
+    for digital use, this Supplement looks at the lightning threats that repurposing
+    for digital G.fast (fast access to subscriber terminals) may bring.\r\nSince the
+    publication of Recommendation ITU-T K.118, Requirements for lightning protection
+    of fibre to the distribution point equipment, the system, often called G.fast
+    (fast access to subscriber terminals) with reverse power feed (RPF), has had extensive
+    deployment. This Supplement provides the subsequent informative references and
+    materials that have appeared since the publication of Recommendation ITU-T K.118.\r\nThe
+    conventional telephone twisted pair connecting wire, termed the link (transmission
+    path between two cabling system interfaces, including the connections at each
+    end), between the distribution point unit (DPU) and the customer premises equipment
+    (CPE) usually has a maximum length of up to 300 m. \r\nElectrical lightning stresses
+    on the connected equipment at the link ends are considered to arise from the lightning
+    disturbances on the CPE powering source, differential earth potential rise (EPR)
+    of the link ends, and possibly magnetic induction to the link cable. This Supplement
+    mainly concerns itself with the differential EPR values between the link ends.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,64 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1996-10
+  at: '1996-10-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines a protocol for the exchange of alternative
+    address related information between a DTE and an address resolution entity as
+    defined in Recommendation X.115. This Recommendation complements Recommendation
+    X.115 which defines the address translation capability in public data networks.
+    The protocol defined in this Recommendation enables DTEs to register alternative
+    addresses (e.g. addresses in formats other than X.121 or E.164). The ARE stores
+    the registered information along with the addresses where DTEs are reachable and
+    provides this information when queried by a DTE or a switching system to enable
+    call establishment.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

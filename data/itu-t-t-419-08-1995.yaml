@@ -15,13 +15,77 @@ docidentifier:
 - content: ITU-T T.419 (08/1995)
   type: ITU
   primary: true
+- content: ISO/IEC 8613-9
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1995-08
+  at: '1995-08-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation | International Standard describes an additional content
+    architecture to support the addition of audio content to documents conforming
+    to the Recommendation T.410-Series (ODA). The audio content may be processable
+    or formatted and consist of speech as well as other types of audio. Provision
+    is made for the support of all ITU-standardized audio and speech coding formats
+    as well as those standardized by other international organizations.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,185 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2015-11
+  at: '2015-11-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Recommendation specifies the electromagnetic compatibility common
+    requirements and the test methods for digital cellular mobile communication base
+    station equipment, repeaters and associated ancillary equipment which are independent
+    of any kind of wireless access technologies, such as 2G, 3G ,4G or others.\r\n\r\nTest
+    conditions for base stations used in variety modality are described, e.g. macro-base
+    station, distributed-base station, micro-base station, pico base station, integral
+    antenna base station and active antenna base station; performance criteria for
+    immunity tests are also specified.\r\n\r\nThis Recommendation describes the specific
+    testing levels to be applied to radio communication base stations in different
+    environments, such as telecommunication centres, customer premises and outside
+    plants.\r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic compatibility requirements and measurement methods
+        for digital cellular mobile communication base station equipment
+    docidentifier:
+    - content: K.114 (08/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
+        cabling during a power cross event
+    docidentifier:
+    - content: K Suppl. 3 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility analysis of 5G systems
+    docidentifier:
+    - content: K Suppl. 8 (11/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 5G technology and human exposure to radiofrequency electromagnetic
+        fields
+    docidentifier:
+    - content: K Suppl. 9 (05/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of electromagnetic compatibility aspects and definition of
+        requirements for 5G mobile systems
+    docidentifier:
+    - content: K Suppl. 10 (11/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
+        mobile and portable devices during different conditions of use
+    docidentifier:
+    - content: K Suppl. 13 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
+        guidelines on 4G and 5G mobile network deployment
+    docidentifier:
+    - content: K Suppl. 14 (09/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field compliance assessments for 5G wireless networks
+    docidentifier:
+    - content: K Suppl. 16 (10/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field (EMF) strength inside underground railway trains
+    docidentifier:
+    - content: K Suppl. 19 (09/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.114 - Analysis of electromagnetic compatibility requirements
+        and test methods of 5G active antenna system base stations
+    docidentifier:
+    - content: K Suppl. 26 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field strength inside and outside of electric vehicles
+        using wireless power transfer technology
+    docidentifier:
+    - content: K Suppl. 29 (07/2022)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

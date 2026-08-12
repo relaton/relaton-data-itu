@@ -15,13 +15,78 @@ docidentifier:
 - content: ITU-T X.960 (06/1999)
   type: ITU
   primary: true
+- content: ISO/IEC 14769
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1999-06
+  at: '1999-06-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation | International Standard defines a framework for describing
+    and managing types of interest in ODP systems. Specifically:· it determines what
+    entities need to be typed and what needs to be defined about the identified types;·
+    it identifies and characterizes type languages sufficient to describe the types
+    of interest;· it specifies a generic type repository function which can be specialized
+    to a specific type system or type notation, and which provides for storage, retrieval
+    and management of type descriptions and relationships between types, for naming
+    of types in a manner consistent with the ODP naming framework, and for interworking
+    and federation of different type repositories.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.960 (1999) Err. 1 (10/2002)
+    docidentifier:
+    - content: X.960 (1999) Err. 1 (10/2002)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

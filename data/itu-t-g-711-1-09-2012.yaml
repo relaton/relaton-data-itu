@@ -16,11 +16,928 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2012-09
+  at: '2012-09-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T G.711.1 describes an ITU-T G.711 embedded wideband
+    speech and audio coding algorithm operating at 64, 80 and 96 kbit/s.\r\nThe encoder
+    input and decoder outputs are sampled at 16 kHz by default, but 8 kHz sampling
+    is also supported. When sampled at 16 kHz, the output of the ITU-T G.711.1 coder
+    can encode signals with a bandwidth of 50 7000 Hz at 80 and 96 kbit/s, and for
+    8 kHz sampling the output may produce signals with a bandwidth ranging from 50
+    up to 4000 Hz, operating at 64 and 80 kbit/s (the bandwidth of the narrowband
+    signal output from the decoder is characterized by the built in split band filterbank
+    which has a frequency cut offs at 4000 Hz). At 64 kbit/s, Recommendation ITU T
+    G.711.1 is compatible with Recommendation ITU-T G.711; hence an efficient deployment
+    in existing ITU T G.711-based voice over IP (VoIP) infrastructures is foreseen.
+    The coder operates on 5 ms frames, has a maximum algorithmic delay of 11.875 ms,
+    and has a worst case computational complexity of 8.70 weighted million operations
+    per second (WMOPS).\r\nThe encoder produces an embedded bitstream structured in
+    three layers corresponding to three available bit rates: 64, 80 and 96 kbit/s.
+    The bitstream can be truncated at the decoder side or by any component of the
+    communication system to adjust the bit rate to the desired value, but since it
+    does not contain any information on which layers are contained, an implementation
+    would require outband signalling on which layers are available.\r\nThe underlying
+    algorithm has a three layer coding structure: log companded pulse code modulation
+    (PCM) of the lower band including noise feedback, embedded PCM extension with
+    adaptive bit allocation for enhancing the quality of the base layer in the lower
+    band, and weighted vector quantization coding of the higher band based on modified
+    discrete cosine transformation (MDCT).\r\nAnnex A defines an alternative implementation
+    of the ITU-T G.711.1 algorithm using floating-point arithmetic to facilitate its
+    use on hardware optimized for floating-point operations. The accompanying floating-point
+    C-code is fully interoperable with the fixed-point C-code and provides equivalent
+    quality.\r\nAnnex B contains the RTP payload format, capability identifiers and
+    parameters for signalling of ITU T G.711.1 capabilities using Recommendation ITU
+    T H.245. The packet format is fully compatible with the corresponding ITU T G.711.1
+    RTP definitions to allow seamless interoperability.\r\nAnnex C describes an algorithm
+    applying ITU-T G.711.0 lossless compression algorithm to ITU T G.711.1. As Recommendation
+    ITU-T G.711.0 is more efficient when applied to large frame sizes, to achieve
+    efficient compression rate as many ITU-T G.711.1 frames as possibly supported
+    by ITU-T G.711.0 are encoded together. The use of this extension introduces no
+    quality degradation when compared to Recommendation ITU T G.711.1, as it is a
+    lossless encoding of the ITU T G.711 portion of the ITU T G.711.1 bitstream. Furthermore,
+    there is no additional algorithmic delay; the delay will be the same as the one
+    of ITU T G.711.1, plus the selected size of the packet minus five milliseconds.
+    It keeps the same robustness against packet losses as Recommendation ITU T G.711.1
+    and no error propagation in case of frame errors. The proposed scheme can easily
+    be transcoded to ITU T G.711.1 or ITU T G.711.0 at minimum complexity.\r\n\r\nAnnex
+    D describes a scalable superwideband (SWB, 50 14000 Hz) speech and audio coding
+    algorithm operating from 96 to 112 kbit/s for ITU-T G.711.1 80 kbit/s core, and
+    operating from 112 to 128 kbit/s for ITU-T G.711.1 96 kbit/s core. The ITU-T G.711.1
+    superwideband extension codec is interoperable with both ITU-T G.711 and ITU-T
+    G.711.1. The output of the ITU-T G.711.1 SWB coder has a bandwidth of 50-14000
+    Hz. The coder operates with 5 ms frames, has an algorithmic delay of 12.8125 ms
+    and a worst case complexity of 21.498 MOPS. By default, the encoder input and
+    decoder output are sampled at 32 kHz. The superwideband encoder produces an embedded
+    bitstream structured in two layers corresponding to two available bit rates from
+    96 to 112 kbit/s or from 112 to 128 kbit/s with a step size of 16 kbit/s depending
+    on the chosen ITU-T G.711.1 core. The bitstream can be truncated at the decoder
+    side or by any component of the communication system to instantaneously adjust
+    the bit rate to the desired value with no need for out-of-band signalling. At
+    ITU-T G.711.1 80 kbit/s mode or 96 kbit/s mode, ITU T G.711.1 SWB is fully interoperable
+    with ITU-T G.711.1. The underlying algorithm includes three main parts: higher
+    band enhancements, bandwidth extension (BWE) and transform coding in modified
+    discrete cosine transform (MDCT) domain based on algebraic vector quantization
+    (AVQ).\r\nAnnex E describes a proposed draft of an alternative implementation
+    of ITU-T G.711.1 Annex D based on floating-point arithmetic. While Annex D provides
+    a bit-exact, fixed-point specification with the fixed-point C-source code available
+    from the ITU-T, alternative floating implementation is useful for platforms equipped
+    with floating-point processors. This alternative floating-point arithmetic was
+    found to be fully interoperable with Annex D in all configurations including the
+    cross configurations.\r\nAnnex F describes a stereo extension of the wideband
+    codec ITU-T G.711.1 and its superwideband extension, ITU-T G.711.1 Annex D. It
+    is optimized for the transmission of stereo signals with limited additional bitrate,
+    while keeping full compatibility with both codecs. Annex F operates from 96 to
+    160 kbit/s: five superwideband stereo bitrates from 112 to 160 kbit/s and two
+    wideband stereo bitrates at 96 and 128 kbit/s. The wideband stereo modes are backward
+    compatible with legacy ITU T G.711 and ITU-T G.711.1, while the superwideband
+    modes offer the backward compatibility with mono narrowband ITU-T G.711, mono
+    wideband ITU-T G.711.1 and superwideband ITU T G.711.1 Annex D. The stereo codec
+    operates on 5 ms frames with an algorithmic delay of 18.125 ms for wideband stereo
+    and 19.0625 ms for superwideband stereo. The encoder input and decoder output
+    are sampled at 16 kHz and 32 kHz for wideband and superwideband operating modes
+    respectively. The underlying algorithm includes three main parts: stereo parameter
+    analysis and down-mix at the encoder and stereo synthesis at the decoder. The
+    first stereo extension layer is a 16 kbit/s layer comprising the basic stereo
+    parameters, the whole wideband inter-channel time difference/inter-channel phase
+    difference/inter-channel coherence, sub-band inter-channel level differences and
+    the low frequency sub-band inter-channel phase differences. The second stereo
+    layer is a 16 kbit/s layer. In this last layer, the inter-channel phase differences
+    of a larger bandwidth are transmitted, which allow to further improve the stereo
+    image. The bitstream can be truncated by the decoder, or by any components of
+    the communication system, to instantaneously adjust the bitrate to the desired
+    value, including narrowband ITU-T G.711, wideband ITU-T G.711.1 and superwideband
+    ITU-T G.711.1 Annex D bitrates, with no need for out-of-band signalling.\r\nAppendix
+    I describes a supplementary postfilter for use in the decoder. This postfilter
+    enhances the quality of the decoded signal when a legacy ITU-T G.711 or only the
+    basic log companded PCM part of the ITU-T G.711.1 bitstream are available. It
+    is intended for end user terminals and usage in tandem scenarios should be avoided
+    (such as in a signal mixer or bitstream translators).\r\nAppendices II and III
+    provide information on frame size selection and on decoding of the ITU T G.711.0
+    bitstream part of ITU-T G.711.1 LLC bitstreams, respectively.\r\n\r\nAppendix
+    IV to ITU-T G.711.1 defines a coding scheme for mid-side (MS) stereo using ITU
+    T G.711.1 Annex D (ITU-T G.711.1-SWB). By introducing the mid-side stereo coding
+    into stereo terminals, interoperability with the monaural devices could be obtained
+    in very low complexity. The basic coding scheme is as follows: two channels of
+    the left-right (LR) stereo are converted to those of the MS stereo and then the
+    signals of each channel are independently encoded using ITU-T G.711.1-SWB; and
+    at the decoder side, the MS channels of the bitstream from the encoder are decoded
+    respectively and then the decoded signals of the MS channels are reversed to those
+    of the LR channels. The LR-MS conversion and its inverse are conducted in a conventional
+    way. On the encoder side, additional two arithmetic operations per sample are
+    required for the LR-MS conversion and one operator for the MS-LR conversion in
+    the decoder. In an STL2009, see Recommendation ITU-T G.191 (2010) basic operator
+    implementation, the conversion complexity amounts to about 0.2 WMOPS in total.
+    The coding algorithm for each channel is identical to the one in ITU-T G.711.1
+    Annex D.\r\nANSI C source code is provided for the algorithms specified in the
+    main body of this Recommendation and in Annexes A, C, D, E and F. These ANSI C
+    source codes are an integral part of this Recommendation. \r\nA non-exhaustive
+    set of test signals for use with these ANSI C source codes is also provided as
+    an electronic attachment to this Recommendation. It should be noted that some
+    of the text vectors are too voluminous for distribution with the source code,
+    in particular for Annex F. The test vectors can be downloaded for free from the
+    ITU web site at: http://itu.int/net/itu-t/sigdb/speaudio/Gseries.htm#G.711.1."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Annex G – An alternative implementation of stereo superwideband
+        extension using floating-point
+    docidentifier:
+    - content: G.711.1 (2012) Amd. 1 (10/2014)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Wideband embedded extension for G.711 PCM: New Appendix IV extending
+        Annex D superwideband for mid-side stereo'
+    docidentifier:
+    - content: G.711.1 (2008) Amd. 5 (03/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Annex D with superwideband extension
+    docidentifier:
+    - content: G.711.1 (2008) Amd. 4 (11/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Lossless compression of G.711 bitstreams in G.711.1
+    docidentifier:
+    - content: G.711.1 (2008) Amd. 3 (10/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Annex B on G.711.1 usage in H.245 and editorial corrections to
+        the main body text
+    docidentifier:
+    - content: G.711.1 (2008) Amd. 2 (03/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Annex A on a reference floating-point implementation for G.711.1
+        and editorial corrections to the main body text
+    docidentifier:
+    - content: G.711.1 (2008) Amd. 1 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Wideband embedded extension for G.711 pulse code modulation
+    docidentifier:
+    - content: G.711.1 (03/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Certain methods of avoiding the transmission of excessive noise between
+        interconnected systems
+    docidentifier:
+    - content: G Suppl. 4 (12/1972)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Measurement of the load of telephone circuits under field conditions
+    docidentifier:
+    - content: G Suppl. 5 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Loss-frequency response of channel-translating equipment used in some
+        countries for international circuits
+    docidentifier:
+    - content: G Suppl. 7 (12/1972)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Method proposed by the Belgian telephone administration for interconnection
+        between coaxial and symmetric pair systems
+    docidentifier:
+    - content: G Suppl. 8 (12/1972)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Group-delay distortion performance of terminal equipment
+    docidentifier:
+    - content: G Suppl. 17 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Digital crosstalk measurement (method used by the Administrations of
+        France, the Netherlands and Spain)
+    docidentifier:
+    - content: G Suppl. 19 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Mathematical models of multiplex signals
+    docidentifier:
+    - content: G Suppl. 22 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Estimating the signal load margin of FDM wideband amplifier equipment
+        and transmission systems
+    docidentifier:
+    - content: G Suppl. 26 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Interference from external sources
+    docidentifier:
+    - content: G Suppl. 27 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems
+        and data-over-voice (DOV) systems during the transition from an analogue to
+        a digital network
+    docidentifier:
+    - content: G Suppl. 28 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Transfer of alarm information on 60-channel transmultiplexing equipment
+    docidentifier:
+    - content: G Suppl. 32 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Temperature in underground containers for the installation of repeaters
+    docidentifier:
+    - content: G Suppl. 34 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines concerning the measurement of wander
+    docidentifier:
+    - content: G Suppl. 35 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Jitter and wander accumulation in digital networks
+    docidentifier:
+    - content: G Suppl. 36 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical system design and engineering considerations
+    docidentifier:
+    - content: G Suppl. 39 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical fibre and cable Recommendations and standards guideline
+    docidentifier:
+    - content: G Suppl. 40 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Design guidelines for optical fibre submarine cable systems
+    docidentifier:
+    - content: G Suppl. 41 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres
+        and systems technology
+    docidentifier:
+    - content: G Suppl. 42 (10/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Transport of IEEE 10GBASE-R in optical transport networks (OTN)
+    docidentifier:
+    - content: G Suppl. 43 (02/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Test plan to verify B-PON interoperability
+    docidentifier:
+    - content: G Suppl. 44 (06/2007)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Power conservation in optical access systems
+    docidentifier:
+    - content: G Suppl. 45 (09/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: G-PON interoperability test plan between optical line terminations
+        and optical network units
+    docidentifier:
+    - content: G Suppl. 46 (05/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: General aspects of optical fibres and cables
+    docidentifier:
+    - content: G Suppl. 47 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: '10-Gigabit-capable passive optical networks: Interface between media
+        access control with serializer/deserializer and physical medium dependent
+        sublayers'
+    docidentifier:
+    - content: G Suppl. 48 (06/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Rogue optical network unit (ONU) considerations
+    docidentifier:
+    - content: G Suppl. 49 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of digital subscriber line Recommendations
+    docidentifier:
+    - content: G Suppl. 50 (09/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Passive optical network protection considerations
+    docidentifier:
+    - content: G Suppl. 51 (06/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Ethernet ring protection switching
+    docidentifier:
+    - content: G Suppl. 52 (09/2012)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for Ethernet OAM performance monitoring
+    docidentifier:
+    - content: G Suppl. 53 (12/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Ethernet linear protection switching
+    docidentifier:
+    - content: G Suppl. 54 (07/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Radio-over-fibre (RoF) technologies and their applications
+    docidentifier:
+    - content: G Suppl. 55 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: OTN transport of CPRI signals
+    docidentifier:
+    - content: G Suppl. 56 (02/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Smart home profiles for 6LoWPAN devices
+    docidentifier:
+    - content: G Suppl. 57 (07/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical transport network module framer interfaces
+    docidentifier:
+    - content: G Suppl. 58 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance on optical fibre and cable reliability
+    docidentifier:
+    - content: G Suppl. 59 (02/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Ethernet linear protection switching with dual node interconnection
+    docidentifier:
+    - content: G Suppl. 60 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Gfast certification
+    docidentifier:
+    - content: G Suppl. 62 (02/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: PON transmission technologies above 10 Gb/s per wavelength
+    docidentifier:
+    - content: G Suppl. 64 (02/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Simulations of transport of time over packet networks
+    docidentifier:
+    - content: G Suppl. 65 (10/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 5G wireless fronthaul requirements in a passive optical network context
+    docidentifier:
+    - content: G Suppl. 66 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application of optical transport network Recommendations to 5G transport
+    docidentifier:
+    - content: G Suppl. 67 (07/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Synchronization operations, administration and maintenance requirements
+    docidentifier:
+    - content: G Suppl. 68 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Migration of a pre-standard network to a metro transport network
+    docidentifier:
+    - content: G Suppl. 69 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement on sub 1 Gbit/s services transport over optical transport
+        network
+    docidentifier:
+    - content: G Suppl. 70 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical line termination capabilities for supporting cooperative dynamic
+        bandwidth assignment
+    docidentifier:
+    - content: G Suppl. 71 (12/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Modelling consideration for optical media networks
+    docidentifier:
+    - content: G Suppl. 72 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Influencing factors on quality of experience for multiview video (MVV)
+        services
+    docidentifier:
+    - content: G Suppl. 73 (10/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Network slicing in a passive optical network context
+    docidentifier:
+    - content: G Suppl. 74 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 5G small cell backhaul/midhaul over TDM-PON
+    docidentifier:
+    - content: G Suppl. 75 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical transport network security
+    docidentifier:
+    - content: G Suppl. 76 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors
+        on quality of experience (QoE) for video customized alerting tone (CAT) and
+        video customized ringing signal (CRS) services
+    docidentifier:
+    - content: G Suppl. 77 (06/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use case and requirements of fibre-to-the-room for small business applications
+    docidentifier:
+    - content: G Suppl. 78 (09/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Latency control and deterministic capability over a PON system
+    docidentifier:
+    - content: G Suppl. 79 (12/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use case and requirements of fibre-based in-premises networking for
+        home application (FIP4H)
+    docidentifier:
+    - content: G Suppl. 80 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Practical aspects of PON security - Revision 1
+    docidentifier:
+    - content: G Suppl. 81 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Enhanced optical line termination with information technology functions
+    docidentifier:
+    - content: G Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement on the use of options in the precision time protocol profile
+        with full timing support from the network
+    docidentifier:
+    - content: G Suppl. 83 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Operational aspects of optical access
+    docidentifier:
+    - content: G Suppl. 84 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: FgODUflex over point-to-multipoint networks
+    docidentifier:
+    - content: G Suppl. 85 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Fibre to the power grid (FTTGrid) use cases and network requirements
+    docidentifier:
+    - content: G Suppl. 86 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization framework for optical fibres for space division multiplexing
+    docidentifier:
+    - content: G Suppl. 87 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Point to multipoint passive optical access system requirements and
+        transmission technologies above 50 Gbit/s per wavelength
+    docidentifier:
+    - content: G Suppl. 88 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Coordinated management of access and fibre in premises networks
+    docidentifier:
+    - content: G Suppl. 89 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Coexistence between G.fin and G.Xfin systems
+    docidentifier:
+    - content: G Suppl. 90 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases and requirements of fibre-in-premises for small and medium
+        enterprise applications
+    docidentifier:
+    - content: G Suppl. 91 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Synchronization for data centres
+    docidentifier:
+    - content: G Suppl. 92 (10/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

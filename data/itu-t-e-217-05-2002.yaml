@@ -16,11 +16,83 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2002-05
+  at: '2002-05-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: For the purposes of International Public Correspondence Telecommunication,
+    the ship station identity is now only relevant for those existing systems that
+    have the ship station identity embedded in the numbering scheme as illustrated
+    in Annexes A and B. For future systems that will not embed the ship station identity
+    in their numbering scheme the ship station identity ceases to have any relevance
+    for public correspondence telecommunication purposes.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Maritime communications – Ship station identity
+    docidentifier:
+    - content: E.217 (02/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,183 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2014-08
+  at: '2014-08-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T K.98 provides information which can help protect telecommunication
+    equipment installed in the customer premises against damage due to the lightning
+    strikes to the power and telecommunication lines/cables. It shows that, it is
+    possible to protect equipment against a direct strike to power or telecommunication
+    lines provided that the strike point is at a distance of more than a couple hundred
+    metres from the customer premises in an urban area. The information provided takes
+    into consideration the impact of different types of power distribution systems.
+    It determines the impact of both the length of the telecommunication surge protection
+    device (SPD) bonding conductor and the resistance to earth at the customer premises.
+    The necessary isolation level for the protection of equipment without the use
+    of primary protection is also calculated. It recommends the installation of a
+    multiservice surge protective device (MSPD) or equivalent protection as the first
+    level of protection. When necessary, primary protection is required to protect
+    the MSPD or equivalent protection devices. For strikes to the services closer
+    to the customer premises, an engineering solution is required.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: K.98 (2014) Cor. 2 (06/2020)
+    docidentifier:
+    - content: K.98 (2014) Cor. 2 (06/2020)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: K.98 (2014) Cor. 1 (03/2015)
+    docidentifier:
+    - content: K.98 (2014) Cor. 1 (03/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
+        cabling during a power cross event
+    docidentifier:
+    - content: K Suppl. 3 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility analysis of 5G systems
+    docidentifier:
+    - content: K Suppl. 8 (11/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 5G technology and human exposure to radiofrequency electromagnetic
+        fields
+    docidentifier:
+    - content: K Suppl. 9 (05/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of electromagnetic compatibility aspects and definition of
+        requirements for 5G mobile systems
+    docidentifier:
+    - content: K Suppl. 10 (11/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
+        mobile and portable devices during different conditions of use
+    docidentifier:
+    - content: K Suppl. 13 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
+        guidelines on 4G and 5G mobile network deployment
+    docidentifier:
+    - content: K Suppl. 14 (09/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field compliance assessments for 5G wireless networks
+    docidentifier:
+    - content: K Suppl. 16 (10/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field (EMF) strength inside underground railway trains
+    docidentifier:
+    - content: K Suppl. 19 (09/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field strength inside and outside of electric vehicles
+        using wireless power transfer technology
+    docidentifier:
+    - content: K Suppl. 29 (07/2022)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

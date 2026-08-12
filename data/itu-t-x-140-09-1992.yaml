@@ -17,11 +17,99 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1992-09
+  at: '1992-09-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Recommendation defines a set of general quality of service (QOS)
+    parameters for public data networks (PDNs). The parameters have two essential
+    characteristics:\r\n1)\tthey focus on performance effects which are observable
+    at the network interfaces, rather than their causes within the network; and\r\n2)\ttheir
+    definitions are based on protocol-independent events (e.g. access request) rather
+    than protocol-specific interface events (e.g. issuance of an X.21 call request
+    signal).\r\n\tThese characteristics make the parameters independent of application,
+    network, and service. With proper specialization, they may be used to specify
+    or measure the quality of any data communication service, irrespective of network
+    internal design or network access protocol. Examples of data communication services
+    to which the parameters may be applied are circuit-switched services, packet-switched
+    services, and leased circuit services. The parameters are applicable to both connection-oriented
+    and connectionless services.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.140 (1988) Cor. 1 (02/1990)
+    docidentifier:
+    - content: X.140 (1988) Cor. 1 (02/1990)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: General quality of service parameters for communication via public
+        data networks
+    docidentifier:
+    - content: X.140 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: General quality of service parameters for communication via public
+        data networks
+    docidentifier:
+    - content: X.140 (10/1984)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

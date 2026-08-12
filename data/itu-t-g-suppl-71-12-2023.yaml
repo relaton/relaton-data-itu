@@ -17,11 +17,77 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2023-12
+  at: '2023-12-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 15
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 71 to ITU-T G-series Recommendations describes the passive
+    optical network optical line termination or passive optical network (PON) OLT
+    capabilities needed for applying cooperative dynamic bandwidth assignment (CO
+    DBA) both in a generic sense and for specific use cases. It explains the interactions
+    of the optical line termination (OLT) with the external entity sending information
+    for CO DBA, the way to interpret such information, and the needs for coordination
+    on choosing values for configurable parameters. The specific use case described
+    in this version of the Supplement is mobile fronthaul (MFH) over PON by using
+    O-RAN's cooperative transport interface (CTI) for the interaction between the
+    PON OLT and mobile distributed units (DUs).\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical line termination capabilities for supporting cooperative dynamic
+        bandwidth assignment
+    docidentifier:
+    - content: G Suppl. 71 (04/2021)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,258 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2017-11
+  at: '2017-11-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The Continua Design Guidelines (CDG) defines a framework of underlying
+    standards and criteria that ensure the interoperability of devices and data used
+    for personal connected health services. It also contains design guidelines (DGs)
+    that further clarify the underlying standards or specifications by reducing options
+    or by adding missing features to improve interoperability.\r\n\r\nRecommendation
+    ITU-T H.812.3 defines the additional design guidelines for the Capability Exchange-enabled
+    PHG and health and fitness services certified capability class (CCC). The purpose
+    of the Capability Exchange is to reduce the amount of information that must be
+    pre-configured on a device in order to obtain plug and play interoperability.
+    Specifically, Capability Exchange enables application hosting devices, such as
+    a personal health gateway (PHG) to know what types of messages it can send to
+    the health and fitness services, by identifying its Continua CCCs. Likewise, Capability
+    Exchange provides a mechanism for the PHG to inform the health and fitness services
+    of its capabilities. This enables the health and fitness services to tailor its
+    communication with the PHG. Capability Exchange is mandatory for all health and
+    fitness services while it is optional for PHGs.\r\n\r\nIt is assumed that the
+    PHG is pre-provisioned with a URL, or a set of URLs, denoting the service endpoint
+    of one or more health and fitness services. The Capability Exchange process takes
+    place when the PHG first contacts the health and fitness services. It may also
+    take place intermittently, to update the information received in the first Capability
+    Exchange. In most cases, the set of Continua CCCs implemented at the health and
+    fitness services changes slowly, if at all. Therefore, it is expected that the
+    PHG can store the information about services capabilities and optionally, implement
+    a policy for periodically updating that cache. A PHG might identify several health
+    and fitness services in this way and communicate with one or more of these for
+    different purposes.\r\n\r\nThe health and fitness service describes the information
+    about its supported CCCs in a file called \"root file\". The root file is a special
+    resource that describes the properties of CCCs and how a PHG can start information
+    exchange with these CCCs. The root file and other features of the exchange come
+    from an HL7 standard called hData. hDatas not only defines the root file format,
+    but also defines the operations for exchanging root files, using HTTP using GET
+    and POST operations, often referred to as \"REST\" (for representational state
+    transfer).\r\n\r\nEach Continua CCC (in addition to Capability Exchange) will
+    use the root file to document information relevant to that capability, including
+    the capability name, the information that can be exchanged under the capability
+    and its format and URLs for REST operations, if supported by that capability.
+    Details are given in the documentation for the respective Continua CCCs.\r\n\r\nRecommendation
+    ITU-T H.812.3 is part of the \"ITU-T H.810 interoperability design guidelines
+    for personal connected health systems\" subseries that covers the following areas:\r\n\r\n–
+    \              ITU-T H.810 – Interoperability design guidelines for personal connected
+    health systems: System overview\r\n\r\n–               ITU-T H.811 – Interoperability
+    design guidelines for personal connected health systems: Personal health devices
+    interface design guidelines\r\n\r\n–               ITU-T H.812 – Interoperability
+    design guidelines for personal connected health systems: Services interface design
+    guidelines\r\n\r\n–               ITU-T H.812.1 – Interoperability design guidelines
+    for personal connected health systems: Services interface: Observation upload
+    capability\r\n\r\n–               ITU-T H.812.2 – Interoperability design guidelines
+    for personal connected health systems: Services interface: Questionnaires capability\r\n\r\n–
+    \              ITU-T H.812.3 – Interoperability design guidelines for personal
+    connected health systems: Services interface: Capability Exchange capability\r\n\r\n–
+    \              ITU-T H.812.4 – Interoperability design guidelines for personal
+    connected health systems: Services interface: Authenticated persistent session
+    capability\r\n\r\n–               ITU-T H.813 – Interoperability design guidelines
+    for personal connected health systems: Healthcare information system interface
+    design guidelines\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Interoperability design guidelines for personal health systems: Services
+        interface: Capability exchange certified capability class'
+    docidentifier:
+    - content: H.812.3 (07/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.812.3 (2015) Err. 1 (07/2016)
+    docidentifier:
+    - content: H.812.3 (2015) Err. 1 (07/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Interoperability design guidelines for personal health systems: WAN
+        interface: Capability exchange certified device class'
+    docidentifier:
+    - content: H.812.3 (11/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Control load quantum for decomposed gateways
+    docidentifier:
+    - content: H Suppl. 6 (04/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
+    docidentifier:
+    - content: H Suppl. 9 (05/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of class-based home network QoS solutions
+    docidentifier:
+    - content: H Suppl. 11 (02/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
+    docidentifier:
+    - content: H Suppl. 12 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 13 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 14 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
+    docidentifier:
+    - content: H Suppl. 15 (01/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide for addressing accessibility in standards
+    docidentifier:
+    - content: H Suppl. 17 (11/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
+    docidentifier:
+    - content: H Suppl. 18 (10/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of video signal type code points
+    docidentifier:
+    - content: H Suppl. 19 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Film grain synthesis technology for video applications
+    docidentifier:
+    - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

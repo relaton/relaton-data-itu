@@ -16,11 +16,245 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2018-03
+  at: '2018-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T P.863 describes an objective method for predicting
+    overall listening speech quality from narrowband (NB) (300 to 3 400 Hz) to fullband
+    (FB) (20 to 20 000 Hz) telecommunication scenarios as perceived by the user in
+    an ITU-T P.800 or ITU-T P.830 absolute category rating (ACR) listening-only test.
+    Recommendation ITU-T P.863 supports two operational modes, one for narrowband
+    and one for fullband. Super-wideband (50 to 14 000 Hz) experiments can be simulated
+    by band limiting the reference and accordingly the degraded signal. This Recommendation
+    presents a high-level description of the method, advice on how to use it. All
+    essential parts of the model are described in detail, and are provided in separate
+    pdf-files (see Annex B). These files form an integral part of this Recommendation
+    and shall take precedence in case of conflicts between the high-level descriptions
+    included in the main body of this Recommendation and the corresponding detailed
+    description parts. A conformance testing procedure is also specified in Annex
+    A to allow a user to validate that an alternative implementation of the model
+    is correct. \r\n\r\nThis Recommendation includes an electronic attachment containing
+    detailed descriptions in pdf format (see Annex B) and conformance testing data
+    (see Annex A).\r\n\r\n \r\n\r\nEd. 3 of P.863 does not apply an initial 14 kHz
+    low-pass filter anymore and it is therefore able to consider spectral components
+    above 14 kHz in its analysis now. This expands the scope of application to fullband
+    speech codecs such as OPUS or EVS. Additionally, the ‘shift-jitter’ which could
+    be observed by repeated measurements with slightly differing delay, is decreased.
+    The gain variation introduced by automatic gain control as well as slowly time-varying
+    linear frequency distortions are now adequately considered.\r\n\r\nFurthermore,
+    the problems of P.863 Ed. 2 documented in the following implementer’s guides were
+    addressed and are resolved now:\r\n\r\n·       Former Implementer’s Guide on assessment
+    of EVS coded speech with Recommendation ITU-T P.863 (2016)\r\n\r\n·       Former
+    Implementer’s Guide on non-validated test conditions with inserted gaps in speech
+    by Recommendation ITU-T P.863 (2016)\r\n\r\n·       Former Implementer’s Guide
+    on discrimination of wideband and super-wideband speech by Recommendation ITU-T
+    P.863 (2016)\r\n•Former Implementer’s Guide on correction of Recommendation ITU-T
+    P.863 regarding reverb (2016)\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Revised Appendix III – Prediction of acoustically recorded narrowband
+        speech
+    docidentifier:
+    - content: P.863 (2018) Amd. 1 (04/2020)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Perceptual objective listening quality assessment
+    docidentifier:
+    - content: P.863 (09/2014)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Appendix III - Prediction of acoustically recorded narrowband speech
+    docidentifier:
+    - content: P.863 (2011) Amd. 1 (11/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Perceptual objective listening quality assessment
+    docidentifier:
+    - content: P.863 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations relating to transmission characteristics for analogue
+        handset telephones
+    docidentifier:
+    - content: P Suppl. 10 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for placement of microphones and loudspeakers in telephone
+        conference rooms and for group audio terminals (GATs)
+    docidentifier:
+    - content: P Suppl. 16 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Examples of measurements of handset receive-frequency responses: dependence
+        on earcap leakage losses'
+    docidentifier:
+    - content: P Suppl. 20 (03/1993)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T coded-speech database
+    docidentifier:
+    - content: P Suppl. 23 (02/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with spoken dialogue systems
+    docidentifier:
+    - content: P Suppl. 24 (10/2005)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with multimodal dialogue systems
+    docidentifier:
+    - content: P Suppl. 25 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
+        telemeeting quality
+    docidentifier:
+    - content: P Suppl. 26 (09/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application of ITU-T P.863 and ITU-T P.863.1 for speech processed by
+        blind bandwidth extension approaches
+    docidentifier:
+    - content: P Suppl. 27 (01/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations for the development of new QoS and QoE related objective
+        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+    docidentifier:
+    - content: P Suppl. 28 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T P.800 – Use cases
+    docidentifier:
+    - content: P Suppl. 29 (01/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Subjective quality evaluation of audiovisual communication in videotelephony
+        services
+    docidentifier:
+    - content: P Suppl. 31 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

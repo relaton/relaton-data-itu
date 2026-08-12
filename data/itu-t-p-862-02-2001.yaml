@@ -18,11 +18,106 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2001-02
+  at: '2001-02-23'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation describes an objective method for predicting the subjective
+    quality of 3.1 kHz (narrow-band) handset telephony and narrow-band speech codecs.
+    This Recommendation presents a high-level description of the method, advice on
+    how to use it, and part of the results from a Study Group 12 benchmark carried
+    out in the period 1999-2000. An ANSI-C reference implementation, described in
+    Annex A, is provided in separate files and form an integral part of this Recommendation.
+    A conformance testing procedure is also specified in Annex A to allow a user to
+    validate that an alternative implementation of the model is correct. This ANSI-C
+    reference implementation shall take precedence in case of conflicts between the
+    high-level description as given in this Recommendation and the ANSI-C reference
+    implementaion. This Recommendation includes an electornic attachment containing
+    an ANSI-C reference implementation of PESQ and conformance testing data.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: P.862 (2001) Cor. 2 (03/2018)
+    docidentifier:
+    - content: P.862 (2001) Cor. 2 (03/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: P.862 (2001) Cor. 1 (10/2007)
+    docidentifier:
+    - content: P.862 (2001) Cor. 1 (10/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Revised Annex A – Reference implementations and conformance testing
+        for ITU-T Recs P.862, P.862.1 and P.862.2
+    docidentifier:
+    - content: P.862 (2001) Amd. 2 (11/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Revised Annex A: Source code for reference implementation and conformance
+        tests'
+    docidentifier:
+    - content: P.862 (2001) Amd. 1 (03/2003)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

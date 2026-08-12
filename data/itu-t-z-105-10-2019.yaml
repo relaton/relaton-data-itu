@@ -16,11 +16,156 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2019-10
+  at: '2019-10-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '7'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T Z.105 defines how Abstract Syntax Notation One (ASN.1)
+    modules are usable in combination with Specification and Description Language
+    2010 (SDL-2010). This text replaces Recommendation ITU-T Z.105 (2003) to align
+    with Recommendations ITU-T Z.100, ITU‑T Z.101, ITU-T Z.102, ITU-T Z.103, ITU-T
+    Z.104, ITU‑T Z.106 and ITU‑T Z.107 for SDL‑2010. Recommendation ITU-T Z.105 (2003)
+    replaced the semantic mappings from ASN.1 to SDL‑2000 defined in Recommendation
+    ITU-T Z.105 (1999). The use of ASN.1 notation embedded in the Specification and
+    Description Language previously defined in Recommendation ITU-T Z.107 (1999) is
+    not defined by this Recommendation.\r\n\r\nThe main area of application of this
+    Recommendation is the specification of telecommunication systems. The combined
+    use of SDL-2010 and ASN.1 permits a coherent way to specify the structure and
+    behaviour of telecommunication systems, together with data, messages and encoding
+    of messages that these systems use.\r\n\r\nThis version of Recommendation ITU-T
+    Z.105 includes necessary alignments with ASN.1:2002 Recommendations, mapping of
+    XML values, improved mapping of bit string values and mapping of relevant ASN.1
+    constructs for extensions."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
+    docidentifier:
+    - content: Z.105 (06/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
+    docidentifier:
+    - content: Z.105 (04/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
+    docidentifier:
+    - content: Z.105 (12/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: SDL combined with ASN.1 modules (SDL/ASN.1)
+    docidentifier:
+    - content: Z.105 (07/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: SDL combined with ASN.1 modules (SDL/ASN.1)
+    docidentifier:
+    - content: Z.105 (10/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: SDL combined with ASN.1 modules (SDL/ASN.1)
+    docidentifier:
+    - content: Z.105 (11/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: SDL combined with ASN.1 (SDL/ASN.1)
+    docidentifier:
+    - content: Z.105 (03/1995)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

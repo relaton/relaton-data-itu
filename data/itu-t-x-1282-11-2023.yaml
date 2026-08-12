@@ -16,11 +16,70 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2023-11
+  at: '2023-11-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1282 analyses security risks of password-related
+    online attacks in service systems and provides security measures to mitigate security
+    threats and challenges.\r\nBased on features of password-related online attacks,
+    security measures include the completely automated public Turing test to tell
+    computers and humans apart (CAPTCHA), multi-factor certification, session control,
+    log audit, security design of registration interface, security design of retrieving
+    password interface, security design of login interface, security policy of login
+    password, anomaly pattern analysis, data analysis, policy optimization, hierarchical
+    services, risk early warning, user reminders and other related technical requirements.\r\nRecommendation
+    ITU-T X.1282 provides security risks analysis and security considerations to mitigate
+    password-related security risks into each phase of the service life cycle, thus
+    advancing the business application and security requirements together to ensure
+    a balanced approach during the life cycle of service systems. It provides a baseline
+    to all service systems that use password login mechanisms, and additional filters
+    for critical applications.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

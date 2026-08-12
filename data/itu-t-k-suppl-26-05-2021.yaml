@@ -17,11 +17,65 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2021-05
+  at: '2021-05-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The use of the active antenna system (AAS) is widespread within communication
+    systems and vertical industries. Its main benefit is higher beam-forming gain,
+    which can overcome the high path loss of higher carrier frequency. For the introduction
+    of AAS, especially the integrated antenna array, special attention should be paid
+    to corresponding electromagnetic compatibility test configuration and measurement
+    methods. Radiated immunity, as an example, will increase dramatically as the antenna
+    array gain cannot be distinguished. Supplement 26 to K-series Recommendations
+    also discusses other technical issues such as the radiated immunity test, communication
+    link establishment, performance assessment, and the electromagnetic field exposure
+    problem for test personnel. \r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

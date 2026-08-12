@@ -17,11 +17,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2026-03
+  at: '2026-03-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T M.3375 specifies a framework for the management of
+    cross-domain network slices in IMT-2020 network and beyond to efficiently implement
+    management and coordination of cross-domain network slices, including cross-domain
+    network slices interworking.\r\nNetwork slicing has emerged as a crucial feature
+    and enabler for the IMT-2020 networks. The increasing demand for network slices
+    renders cross-domain network slice interworking a challenging task. Therefore,
+    it is highly imperative to ensure coordination among the three network slice subnet
+    management systems for the access network, transport network and core network.\r\n\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

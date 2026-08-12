@@ -16,11 +16,119 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2000-03
+  at: '2000-03-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '6'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation describes the functions performed by, and operational
+    characteristics of, the PAD for the start-stop mode DTE. It provides the operation
+    of the PAD depending on the possible values of PAD parameters. This revision includes
+    a new parameter for the selection of the default packet size and additional PAD
+    service and command signals for Chinese extended dialogue mode.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet Assembly/Disassembly facility (PAD) in a public data network
+    docidentifier:
+    - content: X.3 (03/1993)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.3 (1988) Cor. 1 (07/1989)
+    docidentifier:
+    - content: X.3 (1988) Cor. 1 (07/1989)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet assembly/disassembly facility (PAD) in a public data network
+    docidentifier:
+    - content: X.3 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet assembly/disassembly facility (PAD) in a public data network
+    docidentifier:
+    - content: X.3 (10/1984)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet assembly/disassembly facility (PAD) in a public data network
+    docidentifier:
+    - content: X.3 (11/1980)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet assembly/disassembly facility (PAD) in a public data network
+    docidentifier:
+    - content: X.3 (10/1977)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

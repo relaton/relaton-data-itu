@@ -16,11 +16,94 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-07
+  at: '2022-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Supplement 16 to the ITU-T K-series Recommendations provides guidance on
+    the radio frequency electromagnetic field (RF-EMF) compliance assessment considerations
+    for the International Mobile Telecommunication system (IMT-2020) wireless networks
+    also known as the fifth Generation of wireless networks (5G). Given that the 5G
+    technical standards have just been finalized and commercial 5G networks are not
+    due to be launched before 2019-2020, the first version of this Supplement is to
+    mainly address the computational assessment options and the assessments of trial
+    networks.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field compliance assessments for 5G wireless networks
+    docidentifier:
+    - content: K Suppl. 16 (10/2022)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field compliance assessments for 5G wireless networks
+    docidentifier:
+    - content: K Suppl. 16 (05/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field compliance assessments for 5G wireless networks
+    docidentifier:
+    - content: K Suppl. 16 (09/2018)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

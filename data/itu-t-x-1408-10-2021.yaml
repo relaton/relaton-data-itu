@@ -17,11 +17,79 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2021-10
+  at: '2021-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "A distributed ledger technology (DLT) is defined as a shared digital ledger,
+    or a continually updated list of all transactions.\r\nData is accessed by a data
+    controller (organization) and is possibly transferred to a data processor (organization)
+    that will be responsible for processing the data on behalf of the data controller.
+    A data controller should determine the purpose for which and the manner in which
+    the data will be processed according to the constraints imposed by the data usage
+    policy set by organizations.\r\nIn this context, there is a necessity for a trusted
+    and transparent solution to enhance:\r\n1)\ttraceability of the data being accessed
+    by data controllers and data processors directly or indirectly;\r\n2)\tverifiability
+    that if the data was accessed, used, and transferred without violating the data
+    policy set by organizations; and,\r\n3)\tchangeability of data status in case
+    of modification of data policy or any other cases.\r\nAn important aspect of this
+    solution is to enable trust and transparency on accountability of data processing
+    e.g., data provenance and usage tracking. It should offer transparent and controlled
+    access, sharing and processing of data, so that unauthorized users or untrusted
+    servers cannot process data without the authorization.\r\nRecommendation ITU-T
+    X.1408 focuses on the solution which is suitable for implementation using private-chain
+    distributed ledger technology where data is accessed and shared less frequently.
+    It specifies security requirements to improve traceability of data, verifiability
+    of data, and changeability of data status.\r\nRecommendation ITU-T X.1408 also
+    specifies a reference model to describe data access and sharing based on the distributed
+    ledger technology (DLT). It identifies entities and their roles and security threats
+    for data access and sharing based on DLT. In addition, security requirements are
+    specified to address these identified security threats.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

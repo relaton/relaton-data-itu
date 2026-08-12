@@ -17,11 +17,88 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2021-03
+  at: '2021-03-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "There are two alternative types of mechanisms and technology platforms
+    available to address the issues related to counterfeit, illegal and stolen mobile
+    devices in a country. There are inherent pros and cons to each approach. Supplement
+    73 to ITU-T Q-series Recommendations provides a detailed and comprehensive understanding
+    of the underlying matters that should be clearly recognized, understood and addressed
+    in order to have a successful system implementation.\r\nOver the last few years
+    many governments and countries have realized the importance and necessity of implementing
+    technical solutions to combat the issues associated with the influx of counterfeit
+    mobile devices, the illegal importation of mobile phones and mobile theft.\r\nGiven
+    the complexities and the impact associated with the system implementation due
+    to the requirements to handle these enormous issues, it is no wonder that governments
+    are inundated with many difficult questions that are challenging to answer. Governments
+    are generally not equipped with the technical expertise, especially in countries
+    where the above-mentioned problems are most prevalent.\r\nFor the governments
+    with the prime responsibility of developing the regulatory framework required
+    for ensuring a smooth system deployment without causing any inconveniences to
+    consumers, operators or importers, this creates a dependency on vendors and solution
+    providers who offer technical solutions to address the above-mentioned issues.\r\nThere
+    are two types of mechanisms that are available and can be deployed, permissive
+    mechanisms and restrictive mechanisms. However, it is rather difficult for governments
+    to find accurate and balanced information that covers all aspects for a complex
+    deployment as well as the impact on various elements including the government,
+    device manufacturers, local assembly, operators, importers, and most importantly
+    the consumers.\r\nThis has resulted in a need to provide comprehensive information
+    to governments so that they fully understand all relevant aspects and issues of
+    system implementation and its impact on all stakeholders in the country. Equipped
+    only with this knowledge, governments could determine and decide the best course
+    of action and the right technical solution that suits their countries' needs and
+    caters to local dynamics of the society.\r\nThis Supplement provides detailed
+    information on the two mechanisms and highlights the strengths and weaknesses
+    of each approach. Additionally, it provides guidelines to ensure a successful
+    system implementation with a broad range of comprehensive measures to be adopted
+    to combat the said issues."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,268 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-01
+  at: '2025-01-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 20
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T Y.4233 specifies the information and communication
+    technology (ICT) implementation framework of smart public health management in
+    smart and sustainable cities (SSCs).\r\nSSCs are capable of fostering data-driven
+    smart applications to manage limited resources and implement them to thwart the
+    advent of future pandemics of a similar magnitude to the COVID-19 pandemic. Linking
+    SSCs with public health frameworks to manage future pandemics and epidemics and
+    to the attainment of the Sustainable Development Goals (SDGs) (SDG 3: Global health,
+    SDG 1: Poverty eradication and SDG 11: Make cities inclusive, safe, resilient,
+    and sustainable), and to the Sendai Framework for Disaster Risk Reduction is a
+    challenge and serves a dual purpose. With the utilization of appropriate emergency
+    communication and public health frameworks, it will become easier to develop models
+    to predict the spread of diseases, ascertain the source of illnesses, coordinate
+    lockdowns, detect and report symptoms, identify viral strains and provide remote
+    assistance as required with limited human interaction, through an infrastructure
+    based on the Internet of things.\r\nThis Recommendation is based on the U4SSC
+    report entitled \"Smart public health emergency management and ICT implementations\"
+    (listed as U4SSC-2 in the bibliography) and its structure is as follows: it starts
+    with an analysis of the public health context and of corresponding frameworks
+    and returns a generic public health framework, which specifies a pandemic's lifecycle.
+    This generic framework is then interconnected with the SSC and with city resilience.
+    Further, it depicts with unified modelling language (UML) diagrams how this framework
+    can be executed within the SSC environment and highlights the SSC components that
+    play a role in this execution.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+    docidentifier:
+    - content: Y Suppl. 32 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Smart sustainable cities - Master plan
+    docidentifier:
+    - content: Y Suppl. 33 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Smart sustainable cities - Setting the stage
+        for stakeholders' engagement
+    docidentifier:
+    - content: Y Suppl. 34 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series - An overview of smart cities and communities and
+        the role of information and communication technologies
+    docidentifier:
+    - content: Y Suppl. 45 (09/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Methodology for building digital capabilities during enterprises' digital
+        transformation
+    docidentifier:
+    - content: Y Suppl. 52 (12/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series – Internet of Things use cases
+    docidentifier:
+    - content: Y Suppl. 53 (12/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
+        of IoT systems
+    docidentifier:
+    - content: Y Suppl. 54 (04/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y-series – Supplement on use cases of smart cities and communities
+    docidentifier:
+    - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of blockchain for supporting Internet of things and smart
+        cities and communities in data processing and management aspects
+    docidentifier:
+    - content: Y Suppl. 62 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Unlocking Internet of things with artificial intelligence
+    docidentifier:
+    - content: Y Suppl. 63 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for Internet of things ecosystem master plan
+    docidentifier:
+    - content: Y Suppl. 68 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
+    docidentifier:
+    - content: Y Suppl. 69 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+    docidentifier:
+    - content: Y Suppl. 76 (09/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
+    docidentifier:
+    - content: Y Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
+    docidentifier:
+    - content: Y Suppl. 83 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
+        aquaculture
+    docidentifier:
+    - content: Y Suppl. 85 (01/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Machine learning standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 96 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Glossary of terms and definitions for machine learning
+    docidentifier:
+    - content: Y Suppl. 97 (11/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

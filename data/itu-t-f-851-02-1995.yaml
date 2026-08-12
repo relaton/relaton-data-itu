@@ -17,11 +17,66 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1995-02
+  at: '1995-02-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation "Universal Personal Telecommunication (UPT) - Service
+    Description (Service Set 1)" provides the service description and operational
+    provisions for Universal Personal Telecommunication (UPT).It describes the main
+    principles of UPT, for example personal mobility, authentication and service profile
+    management. It defines the UPT service aspects from the user's perspective (e.g.
+    numbering and charging aspects). It also describes the essential features necessary
+    to provide the UPT service, and the optional features which may be used to support
+    additional enhancements.UPT Service Set 1 is a restricted scenario that provides
+    UPT service that supports provision of telephone service over PSTN, ISDN and PLMN
+    networks. UPT Service Set 2 is currently under discussion, and represents a more
+    enhanced scenario with more features and capabilities (e.g. support of data services).
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

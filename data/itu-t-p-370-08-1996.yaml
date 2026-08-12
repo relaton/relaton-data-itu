@@ -16,11 +16,201 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1996-08
+  at: '1996-08-30'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '4'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation has been updated from Recommendation P.37, Coupling
+    Hearing Aids to Telephone sets.Clause 4 covers inductive coupling and is technically
+    similar to the original Recommendation P.37. Clause 4 however now includes the
+    relevant figures that were previously referred out to other Recommendations. It
+    presents recommended levels and frequency characteristics for the inductive field
+    at the telephone earphone relative to a sound level presented at the same earphone.Clause
+    5 covers additional amplification that may be provided for the benefit of hearing
+    impaired users, and only editorial changes have been made to the text originally
+    contained in Recommendation P.37. Limits for the additional amplification and
+    range of volume control are given. Frequency response is also covered.Clause 6
+    introduces the possibility of electrical coupling of a telephone set to a hearing
+    aid. It is compatible with IEC Publication 118 Part 6, which covers the characteristics
+    of hearing aid electrical input circuits. The electrical output level relative
+    to the sound level in the same telephone's earphone is given in this Recommendation,
+    together with frequency response, source impedance and maximum output level.Technically
+    this Recommendation is compatible with similar documents recently drafted within
+    ETSI covering the same subjects.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Coupling hearing aids to telephone sets
+    docidentifier:
+    - content: P.37 (03/1993)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Magnetic field strength around the earcap of telephone handsets which
+        provide for coupling to hearing aids
+    docidentifier:
+    - content: P.37 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Magnetic field strength around the earcap of telephone handsets which
+        provide for coupling to hearing aids
+    docidentifier:
+    - content: P.37 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations relating to transmission characteristics for analogue
+        handset telephones
+    docidentifier:
+    - content: P Suppl. 10 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for placement of microphones and loudspeakers in telephone
+        conference rooms and for group audio terminals (GATs)
+    docidentifier:
+    - content: P Suppl. 16 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Examples of measurements of handset receive-frequency responses: dependence
+        on earcap leakage losses'
+    docidentifier:
+    - content: P Suppl. 20 (03/1993)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T coded-speech database
+    docidentifier:
+    - content: P Suppl. 23 (02/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with spoken dialogue systems
+    docidentifier:
+    - content: P Suppl. 24 (10/2005)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with multimodal dialogue systems
+    docidentifier:
+    - content: P Suppl. 25 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
+        telemeeting quality
+    docidentifier:
+    - content: P Suppl. 26 (09/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations for the development of new QoS and QoE related objective
+        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+    docidentifier:
+    - content: P Suppl. 28 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Subjective quality evaluation of audiovisual communication in videotelephony
+        services
+    docidentifier:
+    - content: P Suppl. 31 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

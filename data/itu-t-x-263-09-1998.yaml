@@ -16,11 +16,70 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1998-09
+  at: '1998-09-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation | Technical Report describes a means to permit protocols
+    at the Network Layer to be identified. In addition, this Recommendation | Technical
+    Report provides a record of the values of protocol identifiers which have been
+    allocated.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology – Protocol identification in the Network Layer
+    docidentifier:
+    - content: X.263 (11/1995)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,165 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2006-03
+  at: '2006-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides the specification of the runtime interface
+    for TTCN-3 (Testing and Test Control Notation 3) test system implementations.
+    The TTCN-3 Runtime Interface provides the recommended adaptation for timing and
+    communication of a test system to a particular processing platform and the system
+    under test, respectively. This Recommendation defines the interface as a set of
+    operations independent of target language.The interface is defined to be compatible
+    with ITU-T Rec. Z.140. This Recommendation uses the CORBA Interface Definition
+    Language (IDL) to specify the TRI completely. Clauses 6 and 7 specify language
+    mappings of the abstract specification to the target languages Java and ANSI-C.
+    A summary of the IDL-based interface specification is provided in Annex A.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
+        (TRI)'
+    docidentifier:
+    - content: Z.165 (10/2022)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
+        (TRI)'
+    docidentifier:
+    - content: Z.165 (10/2017)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
+        (TRI)'
+    docidentifier:
+    - content: Z.165 (10/2015)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
+        (TRI)'
+    docidentifier:
+    - content: Z.165 (11/2014)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
+        (TRI)'
+    docidentifier:
+    - content: Z.165 (07/2013)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
+        (TRI)'
+    docidentifier:
+    - content: Z.165 (05/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
+        (TRI)'
+    docidentifier:
+    - content: Z.165 (03/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
+        (TRI)'
+    docidentifier:
+    - content: Z.165 (11/2007)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

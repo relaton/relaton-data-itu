@@ -15,13 +15,101 @@ docidentifier:
 - content: ITU-T X.293 (04/1995)
   type: ITU
   primary: true
+- content: ISO/IEC 9646-4
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1995-04
+  at: '1995-04-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies requirements and gives guidance concerning
+    the realization of Means of Testing (MOT) for Implementation under Test (IUTs),
+    in conformance with a reference Abstract Test Suite (ATS) specified in compliance
+    with Recommendation X.291. Test realization involves a protocol, multiple protocols
+    or profile. The text was developed jointly with ISO/IEC JTC 1 and the main intent
+    of this revision is to reflect the changes as a result of the work on Protocol
+    Profile Testing Methodology (PPTM) and on Multi-Party Testing Methodology (MPyTM).
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: OSI conformance testing methodology and framework for protocol Recommendations
+        for CCITT applications – Test realization
+    docidentifier:
+    - content: X.293 (01/1992)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.290-series – Supplement on generic approach to interoperability
+        testing
+    docidentifier:
+    - content: X Suppl. 4 (09/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.290 series – Supplement on interoperability testing framework
+        and methodology
+    docidentifier:
+    - content: X Suppl. 5 (09/2008)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

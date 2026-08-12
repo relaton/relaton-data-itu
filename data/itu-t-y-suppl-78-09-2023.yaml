@@ -17,11 +17,66 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2023-09
+  at: '2023-09-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 20
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 78 to ITU-T Y-series Recommendations aims to collect use cases
+    from ITU members that have implemented or evaluated smart sustainable cities (SSCs)
+    based on the ITU-T Y.4900 Recommendations series.\r\nThe aim of this Supplement
+    is to provide information and identify challenges and opportunities on the implementation
+    and evaluation of SSC solutions, based on the ITU-T Y.4900 Recommendations series,
+    across a wide spectrum of real scenarios (such as varied infrastructure maturity,
+    city size, financial conditions, etc.).\r\nIt is expected that the use cases collected
+    in this Supplement will allow ITU members to evaluate scenarios similar to their
+    own and, therefore, have a higher probability of success by avoiding improper
+    practices, enriching their experience, optimizing investments and improving the
+    scope and complexity of the solutions adopted.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

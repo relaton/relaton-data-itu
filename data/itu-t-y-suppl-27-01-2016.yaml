@@ -17,11 +17,60 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-01
+  at: '2016-01-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Supplement describes the architecture terminology and the ICT architectural
+    framework of a smart sustainable city. From the views of software engineering,
+    communication and modular ICT architecture, it presents and concludes on corresponding
+    architecture views and guides. \r\n\r\nIt is applicable to ICT architecture for
+    Smart Sustainable Cities.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -15,13 +15,65 @@ docidentifier:
 - content: ITU-T X.404 (06/1999)
   type: ITU
   primary: true
+- content: ISO/IEC 10021-11
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1999-06
+  at: '1999-06-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This ITU-T Rec. X.404 | ISO/IEC TR10021-11 provides guidance for configuring
+    MTS routing using the directory, and suggests the characteristics of a directory
+    user agent for managing that process. It allows OR-address plans, MTA interconnection
+    topology and the management structures applied to MHS to be dealt with independently
+    of each other whilst remaining within a coordinated framework.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

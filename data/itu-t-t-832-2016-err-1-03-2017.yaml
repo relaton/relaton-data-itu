@@ -11,11 +11,141 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2017-03
+  at: '2017-03-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3.0'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology - JPEG XR image coding system - Image coding
+        specification
+    docidentifier:
+    - content: T.832 (V4) (06/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology - JPEG XR image coding system - Image coding
+        specification
+    docidentifier:
+    - content: T.832 (08/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology - JPEG XR image coding system - Image coding
+        specification
+    docidentifier:
+    - content: T.832 (01/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Corrections and clarifications
+    docidentifier:
+    - content: T.832 (2009) Cor. 2 (05/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Corrections and clarifications
+    docidentifier:
+    - content: T.832 (2009) Cor. 1 (12/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology – JPEG XR image coding system – Image coding
+        specification
+    docidentifier:
+    - content: T.832 (03/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T T.83x-series – Supplement on information technology – JPEG XR
+        image coding system – System architecture
+    docidentifier:
+    - content: T Suppl. 2 (03/2011)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

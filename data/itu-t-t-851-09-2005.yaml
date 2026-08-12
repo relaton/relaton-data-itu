@@ -17,11 +17,84 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2005-09
+  at: '2005-09-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines a format for digital compression and coding
+    of still images supporting the use of an alternative arithmetic coder called the
+    "Q15-coder" and an alternative baseline compared to ITU-T Rec. T.81 | ISO/IEC
+    10918-1 (JPEG-1). Support of the Huffman entropy coding method specified in ITU-T
+    Rec. T.81 (JPEG-1) is not required in this Recommendation.The Q15-coder resolves
+    the carry in the decoder instead of in the encoder, and so has a low latency compared
+    to the QM-coder arithmetic coder incorporated in T.81, which has a potential latency
+    of the rest of the entire entropy-coded segment.This Recommendation also specifies
+    a DCT with input precision of 16 bits, which is greater than the precision of
+    the T.81 (JPEG-1) DCT.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: T.851 (2005) Cor. 1 (05/2006)
+    docidentifier:
+    - content: T.851 (2005) Cor. 1 (05/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

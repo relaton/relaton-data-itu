@@ -17,11 +17,98 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2000-02
+  at: '2000-02-04'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides procedures for fault detection and localization
+    with and without in-service monitoring for PDH paths, sections, and transmission
+    systems and for SDH paths and multiplex sections. Filtering and thresholding of
+    performance information are described for reporting to the TMN. Returning into
+    service and long-term trend analysis are considered.SDH systems designed according
+    to Recommendation G.826 (i.e. prior to the approval of Recommendation G.828) are
+    not required to support the BBE and SEP event counters.Maintenance of systems
+    designed to Recommendation G.826 should use the limits given in Recommendation
+    M.2101.1.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International multi-operator paths, sections and transmission systems
+        fault detection and localization procedures
+    docidentifier:
+    - content: M.2120 (07/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: PDH path, section and transmission system and SDH path and multiplex
+        section fault detection and localization procedures
+    docidentifier:
+    - content: M.2120 (04/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Digital path, section and transmission system fault detection and localization
+        procedures
+    docidentifier:
+    - content: M.2120 (10/1992)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

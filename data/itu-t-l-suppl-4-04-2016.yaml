@@ -16,11 +16,75 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-04
+  at: '2016-04-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 4 to the L series of Recommendations provides a set of guidelines
+    that countries can refer to when designing or adjusting their e-waste management
+    systems. It provides guidance on policy/legal framework, collection mechanisms,
+    financial mechanisms and engagement with all relevant stakeholders.\r\nIt has
+    been developed in response to WTSA Resolution 79 (Dubai, 2012), which instructs
+    ITU-T Study Group 5 to develop guidelines for developing an adequate e-waste management
+    system for telecommunications and ICT equipment as well as to respond to Plenipotentiary
+    Resolutions 182 and 200 (Busan, 2014).\r\nEdition 2 introduces minor editorial
+    updates to the Supplement."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for developing a sustainable e-waste management system
+    docidentifier:
+    - content: L Suppl. 4 (12/2014)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

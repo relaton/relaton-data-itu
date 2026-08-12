@@ -16,11 +16,401 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2001-07
+  at: '2001-07-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '4.4'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This annex specifies methods that can be used by H.323 entities to implement
+    robustness or tolerance to a specified set of faults. Methods for recovery of
+    call signalling (ITU-T H.225.0) and call control signalling (ITU-T H.245) channels
+    are specified. RAS (ITU-T H.225.0) does not involve a connection and recovery,
+    involving registering with an alternate gatekeeper, is covered elsewhere and so
+    not specified in this annex. Recovery of Annex G service relationships is for
+    further study.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet-based multimedia communications systems
+    docidentifier:
+    - content: H.323 (V8) (03/2022)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use of Facility message to enable call transfer
+    docidentifier:
+    - content: H.323 (2009) Amd. 1 (03/2013)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet-based multimedia communications systems
+    docidentifier:
+    - content: H.323 (12/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet-based multimedia communications systems
+    docidentifier:
+    - content: H.323 (06/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Annex M4 – Tunnelling of narrowband signalling syntax (NSS) for
+        H.323
+    docidentifier:
+    - content: H.323 (2003) Amd. 2 (01/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Revised Annex D – Real-time facsimile over H.323 systems: Transport
+        of facsimile signals using RTP'
+    docidentifier:
+    - content: H.323 (2003) Amd. 1 (01/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.323 (2003) Err. 1 (03/2006)
+    docidentifier:
+    - content: H.323 (2003) Err. 1 (03/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet-based multimedia communications systems
+    docidentifier:
+    - content: H.323 (07/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of URLs and DNS
+    docidentifier:
+    - content: H.323 Annex O (07/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Transfer of modem signals over H.323
+    docidentifier:
+    - content: H.323 Annex P (01/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Far-end camera control and H.281/H.224
+    docidentifier:
+    - content: H.323 Annex Q (07/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Tunneling of DSS1 through H.323
+    docidentifier:
+    - content: H.323 Annex M3 (07/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Stimulus control protocol
+    docidentifier:
+    - content: H.323 Annex L (03/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet-based multimedia communications systems
+    docidentifier:
+    - content: H.323 (11/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Text conversation and Text SET
+    docidentifier:
+    - content: H.323 Annex G (02/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet-based multimedia communications systems
+    docidentifier:
+    - content: H.323 (09/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Simple endpoint types
+    docidentifier:
+    - content: H.323 Annex F (05/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework and wire-protocol for multiplexed call signalling transport
+    docidentifier:
+    - content: H.323 Annex E (05/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Real-time facsimile over H.323 systems
+    docidentifier:
+    - content: H.323 Annex D (09/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Packet-based multimedia communications systems
+    docidentifier:
+    - content: H.323 (02/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Visual telephone systems and equipment for local area networks which
+        provide a non-guaranteed quality of service
+    docidentifier:
+    - content: H.323 (11/1996)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Control load quantum for decomposed gateways
+    docidentifier:
+    - content: H Suppl. 6 (04/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
+    docidentifier:
+    - content: H Suppl. 9 (05/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Proxy-aided NAT/FW traversal scheme for ITU-T H.323 multimedia systems
+    docidentifier:
+    - content: H Suppl. 10 (05/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of class-based home network QoS solutions
+    docidentifier:
+    - content: H Suppl. 11 (02/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
+    docidentifier:
+    - content: H Suppl. 12 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 13 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 14 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
+    docidentifier:
+    - content: H Suppl. 15 (01/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide for addressing accessibility in standards
+    docidentifier:
+    - content: H Suppl. 17 (11/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
+    docidentifier:
+    - content: H Suppl. 18 (10/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of video signal type code points
+    docidentifier:
+    - content: H Suppl. 19 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Film grain synthesis technology for video applications
+    docidentifier:
+    - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

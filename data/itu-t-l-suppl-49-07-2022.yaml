@@ -17,11 +17,64 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-07
+  at: '2022-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 49 to ITU-T L-series Recommendations provides an updated overview
+    of existing Recommendations and Technical Standards on the topic of adaptation
+    to climate change for ICT networks.\r\nIn this context, adaptation has to be understood
+    to have a double meaning:\r\n1)\tHow ICT can help other areas (e.g., transport,
+    buildings) to adapt to climate change challenges and effects;\r\n2)\tHow ICT networks
+    themselves have to be designed and implemented in an ever more resilient way,
+    in order to face climate change's effects (e.g., flooding, stronger winds).\r\nThis
+    Supplement takes into account also the work already done on the topic of adaptation
+    to climate change for ICT networks at other Workshops and in academia.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

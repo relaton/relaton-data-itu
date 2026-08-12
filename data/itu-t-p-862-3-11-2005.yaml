@@ -17,11 +17,85 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2005-11
+  at: '2005-11-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides some important remarks that should be taken
+    into account in the objective quality evaluation of speech conforming to ITU-T
+    Recs P.862, P.862.1 and P.862.2. Users of ITU-T Rec. P.862 should understand and
+    follow the guidance given in this Recommendation. This Recommendation forms a
+    supplementary guide for users of ITU-T Rec. P.862, which recommends a means of
+    estimating listening speech quality by using reference and degraded speech samples.
+    The scope of ITU-T Rec. P.862 is clearly defined in itself. This Recommendation
+    does not extend or narrow the scope, but provides necessary and important information
+    for obtaining stable, reliable, and meaningful objective measurement results in
+    practice.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: P.862.3 (2007) Cor. 1 (11/2011)
+    docidentifier:
+    - content: P.862.3 (2007) Cor. 1 (11/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application guide for objective quality measurement based on Recommendations
+        P.862, P.862.1 and P.862.2
+    docidentifier:
+    - content: P.862.3 (11/2007)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

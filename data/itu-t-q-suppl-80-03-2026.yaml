@@ -17,11 +17,61 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2026-03
+  at: '2026-03-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Following the architecture and signalling requirements for the broadband
+    network gateway (BNG) pool defined in Recommendation ITU-T Q.3713, Supplement
+    80 to the ITU-T Q-series Recommendations provides the architecture and scenarios
+    of the BNG pool based on function decoupling, demonstrates the signalling requirements
+    for life cycle management and service configuration and describes signalling procedures
+    for service creation, service update and service deletion.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

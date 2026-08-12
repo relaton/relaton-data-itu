@@ -16,11 +16,74 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-03
+  at: '2025-03-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 15
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 72 to ITU-T G-series Recommendations provides supplemental
+    information to Recommendation ITU-T G.876, Management requirements and information
+    model for the optical media network and Recommendation ITU-T G.7711/Y.1702, Generic
+    protocol-neutral information model for transport resources. It provides various
+    examples of the use of the core information model, defined in Recommendation ITU-T
+    G.7711/Y.1702 to model optical media structures.\r\nThe revision (2025) to Supplement
+    72 updates the descriptions of point-to-point media channels, adds tree-topology
+    and mesh-topology implemented with couplers cases for multi-pointed media channels.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Modelling consideration for optical media networks
+    docidentifier:
+    - content: G Suppl. 72 (04/2021)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

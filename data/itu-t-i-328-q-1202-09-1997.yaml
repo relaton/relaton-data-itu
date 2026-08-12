@@ -16,11 +16,86 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1997-09
+  at: '1997-09-12'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation has been updated to include new capabilities and functionalities
+    included in the IN CS-2 series (Q.122x) of Recommendations. It provides a general
+    architecture of the IN service plane in a way that specific functionalities and
+    their interactions can be identified and described in other Recommendations which
+    make reference to the service plane. The service plane illustrates that IN-supported
+    services can be described to the end user or subscriber by means of a set of generic
+    building blocks called "service features". This Recommendation describes this
+    process of supporting services in an IN-structured network and the service plane's
+    relationship to the other planes in the IN Conceptual Model.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Intelligent network – Service plane architecture
+    docidentifier:
+    - content: I.328/Q.1202 (10/1992)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
+    docidentifier:
+    - content: I Suppl. 1 (03/1998)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,203 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2008-06
+  at: '2008-06-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Amendment 1 to Recommendation ITU-T H.361 introduces three new annexes.Annex
+    A describes the procedures of H.323 quality of service (QoS) signalling when RSVP-based
+    QoS signalling is used in the transport plane. Resource reservation protocol (RSVP)
+    is the QoS signalling protocol used in the integrated services (IntServ) architecture.
+    RSVP is a path-based QoS mechanism which is used to reserve resources for both
+    individual flows and flow aggregates. RSVP can be used in a pure IntServ architecture
+    or can be coupled with differentiated services architecture (DiffServ) to provide
+    IntServ operation over DiffServ network. Annex A describes the procedures for
+    H.323 QoS to allow the use of RSVP in the transport plane.Annex B describes the
+    procedures of H.323 QoS signalling under the differentiated services (DiffServ)
+    architecture in the transport plane. DiffServ is a class-based QoS architecture
+    which supports in-band signalling. The signalling occurs via a value defined in
+    the differentiated services (DS) field of the IP header. This value is referred
+    to as the differentiated services code point (DSCP). The packet forwarding treatment
+    given to a packet in a network device is based on the DSCP value.Annex C describes
+    the QoS service priority support signalling used for H.323 systems. The service
+    priority mechanism defines procedures and constructs within the signalling plane
+    that are used to prioritize bearer traffic during periods of resource contention.
+    This allows traffic of higher priority to receive preferred QoS treatment.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: End-to-end quality of service (QoS) and service priority signalling
+        in H.323 systems
+    docidentifier:
+    - content: H.361 (05/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Control load quantum for decomposed gateways
+    docidentifier:
+    - content: H Suppl. 6 (04/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
+    docidentifier:
+    - content: H Suppl. 9 (05/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of class-based home network QoS solutions
+    docidentifier:
+    - content: H Suppl. 11 (02/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
+    docidentifier:
+    - content: H Suppl. 12 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 13 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 14 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
+    docidentifier:
+    - content: H Suppl. 15 (01/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide for addressing accessibility in standards
+    docidentifier:
+    - content: H Suppl. 17 (11/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
+    docidentifier:
+    - content: H Suppl. 18 (10/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of video signal type code points
+    docidentifier:
+    - content: H Suppl. 19 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Film grain synthesis technology for video applications
+    docidentifier:
+    - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

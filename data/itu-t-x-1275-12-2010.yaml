@@ -17,11 +17,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2010-12
+  at: '2010-12-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T X.1275 recognizes that radio frequency identification
+    (RFID) technology renders information pertaining specifically to the merchandise
+    worn or carried by individuals open to abuse even as it greatly facilitates access
+    to and distribution of such information for useful purpose. The abuse can manifest
+    as tracking the location of the individual or invasion of his or her privacy in
+    another malfeasant manner. For this reason, this Recommendation provides guidelines
+    regarding the RFID procedures that can be used to enjoy the benefits of RFID while
+    attempting to protect personally identifiable information.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

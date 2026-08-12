@@ -16,11 +16,65 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-05
+  at: '2016-05-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Supplement to ITU-T Recommendation Y.3033 presents a set of service
+    scenarios and use cases supported by data aware networking including 1) content
+    dissemination, 2) sensor networking, 3) vehicular networking, 4) automated driving,
+    5) networking in a disaster area, 6) advanced metering infrastructure in smart
+    grid, 7) proactive video caching, 8) in-network data processing, 9) multihoming,
+    and 10) traffic engineering. It provides informative illustrations and descriptions
+    of how data aware networking can be designed, deployed, and operated to support
+    the data aware networking services. In addition, the benefits of data aware networks
+    to the scenarios and use cases, and several migration paths from current networks
+    to data aware networks are elaborated.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

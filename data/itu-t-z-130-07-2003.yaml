@@ -18,11 +18,117 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-07
+  at: '2003-07-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Recommendation is intended for designers, implementers and managers
+    of distributed systems, and tool developers that provide tools to support distributed
+    systems.This Recommendation specifies the ITU Extended Object Definition Language
+    (ITU-eODL). ITU-eODL is used for a component-oriented development of distributed
+    systems from the perspectives of four different but related views: the computational,
+    implementation, deployment, and target environment view. Each view is connected
+    with a specific modelling goal expressed by dedicated abstraction concepts. Computational
+    object types with (operational, stream, signal) interfaces and ports are the main
+    computational view concepts which describe distributed software components abstractly
+    in terms of their potential interfaces. Artefacts as abstractions of concrete
+    programming language contexts and their relations to interfaces form the implementation
+    view. The deployment view describes software entities (software components) in
+    binary representation and the computational entities realized by them. The target
+    environment view provides modelling concepts of a physical network onto which
+    the deployment of the software components shall be made. All concepts of the views
+    are related to each other. These relations form an essential base for techniques
+    and tools that support the software development process from design via implementation
+    and integration to deployment. The test phase is not yet captured by this Recommendation.
+    ITU-eODL is an extension of the ITU Object Definition Language ITU-ODL [1] and
+    supersedes it. Originally ITU-ODL was designed as an extension of ODP-IDL [9]
+    and defined computational concepts based on ODP [2], [3] terminology. eODL follows
+    this principle. However, definitions are based on a metamodel rather than the
+    traditional abstract syntax approach. One advantage of the metamodel approach
+    is to allow use of MOF [4] related tools to support the automation of model transitions
+    between the different software development phases. Another benefit is the ability
+    to instantiate concrete models from the metamodel, which can be represented by
+    existing languages, so an integration of different design approaches can be achieved.
+    The readers of this Recommendation are expected to be familiar with IDL [5], UML
+    [11], MOF.The definition of eODL is supported by the following annexes and appendices:\r\n•
+    Annex A introduces a textual syntax for eODL, intended to be used for the representation
+    of eODL specifications. The syntax is defined using the EBNF style.\r\n• Annex
+    B defines the mapping between the eODL metamodel and the textual syntax defined
+    in Annex A.\r\n• Annex C provides a mapping from eODL to ITU SDL-2000 that allows
+    an eODL model to be automatically transformed to a SDL-2000 model. \r\n• Annex
+    D contains a software reference to the XML representation [12] of the eODL metamodel
+    according to the XML meta interchange format (XMI) [6]. It is provided in a separate
+    file in order to allow import and processing of the eODL metamodel by UML tools.\r\n•
+    Clause 1 provides an overview of how eODL is used by designers, implementers and
+    managers of a distributed system. A concrete example of the use is given in Appendix
+    I.\r\n• Appendix II describes the overall development process when using eODL
+    and possible tool support."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Annex E – eODL to CIDL mapping
+    docidentifier:
+    - content: Z.130 (2003) Amd. 1 (06/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU object definition language
+    docidentifier:
+    - content: Z.130 (02/1999)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

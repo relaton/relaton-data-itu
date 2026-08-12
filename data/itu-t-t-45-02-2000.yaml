@@ -16,11 +16,83 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2000-02
+  at: '2000-02-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation, "Run-length colour encoding", specifies a run-length
+    encoding procedure which has been optimised for the encoding of lists of colour
+    values. Use of T.45 to encode the colour values of the T.88 (JBIG2) related colour
+    tag procedure is one targeted application. Recommendation T.88 has been shown
+    to be particularly effective in the coding of coloured text when the colours of
+    the foreground layer associated with a T.88 encoded MRC mask layer (i.e. text
+    shapes) are represented by colour tags (i.e. colour values). Use of the Recommendation
+    T.88 together with the colour tag provision can realise more than twice the compression
+    gains associated with conventional bitmap image encoding of text colours. The
+    colour tag provision takes advantage of the fact that T.88 codes text regions
+    by generating discrete symbols (i.e. symbols are used to represent text characters)
+    and the text characters are usually a single flat colour. Colour tagging uses
+    a single colour value (i.e. a colour tag) to represent the colour of each T.88
+    symbol occurrence, one colour value for each corresponding mask layer (X, Y, ID)
+    symbol triplet. The colour values are ordered identically to the symbol occurrences.
+    The ordered list of foreground layer colour tags (i.e. colour values) are compressed
+    using T.45 "Run-length colour encoding".
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

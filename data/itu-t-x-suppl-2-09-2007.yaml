@@ -17,11 +17,61 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2007-09
+  at: '2007-09-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Supplement 2 to ITU-T X.800 series of Recommendations defines a security
+    baseline against which network operators can assess their network and information
+    security status in terms of readiness and ability to collaborate with other entities
+    (operators, users and law enforcement authorities) to counteract information security
+    threats. This supplement can be used by network operators to provide meaningful
+    criteria against which each network operator can be assessed if required.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

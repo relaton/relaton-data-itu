@@ -17,11 +17,64 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1999-12
+  at: '1999-12-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Supplement contains objectives, scope, requirements, approaches, and
+    introductory overview of Signalling and Protocol Framework for an Evolving Environment
+    (SPFEE). It provides a signalling and protocol framework for an evolving environment
+    [and related specification(s) where applicable] for those telecommunications-related
+    systems in the coming broadband and information era.Primary area of SPFEE is Session
+    related framework and specifications (e.g. interfaces provided for "clients" of
+    Session related components and those required from them to the underlying components).
+    SPFEE covers the control plane (signalling) aspects, with management plane aspects
+    also included as a part of the problem domain.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

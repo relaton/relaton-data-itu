@@ -15,13 +15,110 @@ docidentifier:
 - content: ITU-T T.815 (V2) (06/2021)
   type: ITU
   primary: true
+- content: ISO/IEC 15444-16
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2021-06
+  at: '2021-06-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'ISO/IEC 23008-12 specifies a framework for the interchange of images and
+    image sequences using tools defined in the ISO base media file format (ISO/IEC
+    14496-12), which is in wide use worldwide. This framework is defined independently
+    of the formats of the images and image sequences, allowing a wide range of such
+    formats to be used in combination with ISO/IEC 23008-12. To simplify the use of
+    the JPEG 2000 family of image formats (Rec. ITU-T T.8xx series | ISO/IEC 15444)
+    in applications that use the ISO base media file format, Rec. ITU-T T.815 | ISO/IEC
+    15444-16 specifies the encapsulation of these image formats in the framework defined
+    in ISO/IEC 23008-12 and related applications such as ISO/IEC 23000-22. Recommendation
+    ITU-T T.815 (2021) is a common text with ISO/IEC 15444-16:2021. This second edition
+    cancels and replaces the first edition, which has been technically revised. The
+    main changes compared to the previous edition are as follows: – the encapsulation
+    of Rec. ITU-T T.802 | ISO/IEC 15444-3 image sequences is deprecated, and replaced
+    by the encapsulation of Rec. ITU-T T.800 | ISO/IEC 15444-1 image sequences; –
+    adds support for quality and resolution layers; – the syntax and semantics of
+    the JPEG 2000 header item property are clarified; and reader conformance requirements
+    are removed.'
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – JPEG 2000 image coding system: Enhanced encapsulation
+        of JPEG 2000 images into ISO/IEC 14496-12'
+    docidentifier:
+    - content: T.815 (V3) (03/2025)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology - JPEG 2000 image coding system: Encapsulation
+        of JPEG 2000 images into ISO/IEC 23008-12'
+    docidentifier:
+    - content: T.815 (06/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

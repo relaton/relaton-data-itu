@@ -14,13 +14,361 @@ docidentifier:
 - content: ITU-T X.680 (1997) Amd. 3 (10/2001)
   type: ITU
   primary: true
+- content: ISO/IEC 8824-1
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2001-10
+  at: '2001-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2.7'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'This Amendment to ITU-T Rec. X.680 (1997) | ISO/IEC 8824-1:1998 adds the
+    capability to use XML to specify ASN.1 values. This is part of an effort to allow
+    users of ASN.1 to take advantage of the flexibility of XML in displaying ASN.1
+    values. NOTE: All new or changed text in this document is highlighted in yellow
+    in clause/subclauses being replaced or modified. When merging all such text into
+    the base document the highlighting is to be removed.In the Introduction replace
+    the paragraph:Clauses 10 to 31 (inclusive) define the simple types supported by
+    ASN.1, and specify the notation to be used for referencing simple types and for
+    defining new types using them. Clauses 10 to 31 also specify the notation to be
+    used for specifying values of types defined using ASN.1.with the following paragraph
+    and note:Clauses 10 to 31 (inclusive) define the simple types supported by ASN.1,
+    and specify the notation to be used for referencing simple types and for defining
+    new types using them. Clauses 10 to 31 also specify notations to be used for specifying
+    values of types defined using ASN.1. Two value notations are provided. The first
+    is called the basic ASN.1 value notation, and has been part of the ASN.1 notation
+    since its first introduction. The second is called the XML-based ASN.1 value notation,
+    and provides a value notation using eXtensible Markup Language (XML).NOTE - NOTE
+    - The XML-based value notation provides a means of representing ASN.1 values using
+    XML with the ASN.1 type definition as the schema. In clause 2.3, add the following
+    reference at the end of the list:- World Wide Web Consortium (W3C), eXtensible
+    Markup Language (XML) 1.0, W3C Recommendation. Add a new clause 3.8.74bis and
+    note as follows:3.8.74bis XML value notation category: A categorization of ASN.1
+    types based on whether their XML value notation may be self-delimiting, may be
+    empty, or may contain spaces.NOTE - NOTE - The XML value notation category of
+    a type is used in determining the XML value notation representation used for sequence-of
+    and for set-of types with that type as the component. In clause 4, add the following
+    abbreviation to the end of the list:XML eXtensible Markup LanguageAdd a new clause
+    5.3bis as follows:'
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (02/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Relaxing IMPORTS clause to allow importation of definitions from new
+        versions of a given module
+    docidentifier:
+    - content: X.680 (2015) Amd. 1 (05/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2015) Cor. 3 (05/2018)
+    docidentifier:
+    - content: X.680 (2015) Cor. 3 (05/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2015) Cor. 2 (10/2017)
+    docidentifier:
+    - content: X.680 (2015) Cor. 2 (10/2017)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2015) Cor. 1 (05/2017)
+    docidentifier:
+    - content: X.680 (2015) Cor. 1 (05/2017)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (08/2015)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2008) Cor. 2 (03/2014)
+    docidentifier:
+    - content: X.680 (2008) Cor. 2 (03/2014)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2008) Cor. 1 (10/2011)
+    docidentifier:
+    - content: X.680 (2008) Cor. 1 (10/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: PER encoding instructions
+    docidentifier:
+    - content: X.680 (2002) Amd. 4 (05/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Time type support
+    docidentifier:
+    - content: X.680 (2002) Amd. 3 (06/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2002) Technical Cor. 1 (05/2005)
+    docidentifier:
+    - content: X.680 (2002) Technical Cor. 1 (05/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Alignment with changes made to ITU-T Rec. X.660 | ISO/IEC 9834-1 for
+        identifiers in object identifier value notation
+    docidentifier:
+    - content: X.680 (2002) Amd. 2 (08/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Support for EXTENDED-XER
+    docidentifier:
+    - content: X.680 (2002) Amd. 1 (10/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (07/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Version number support
+    docidentifier:
+    - content: X.680 (1997) Amd. 4 (10/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1997) Technical Cor. 4 (03/2001)
+    docidentifier:
+    - content: X.680 (1997) Technical Cor. 4 (03/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1997) Technical Cor. 3 (02/2001)
+    docidentifier:
+    - content: X.680 (1997) Technical Cor. 3 (02/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1997) Technical Cor. 2 (03/2000)
+    docidentifier:
+    - content: X.680 (1997) Technical Cor. 2 (03/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ASN.1 Semantic model
+    docidentifier:
+    - content: X.680 (1997) Amd. 2 (06/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Relative object identifiers
+    docidentifier:
+    - content: X.680 (1997) Amd. 1 (06/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1997) Technical Cor. 1 (06/1999)
+    docidentifier:
+    - content: X.680 (1997) Technical Cor. 1 (06/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (12/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Remove definition of root arcs of object identifier tree
+    docidentifier:
+    - content: X.680 (1994) Amd. 2 (12/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1994) Amd. 1/Technical Cor. 1 (12/1997)
+    docidentifier:
+    - content: X.680 (1994) Amd. 1/Technical Cor. 1 (12/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1994) Technical Cor. 2 (12/1997)
+    docidentifier:
+    - content: X.680 (1994) Technical Cor. 2 (12/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1994) Technical Cor. 1 (11/1995)
+    docidentifier:
+    - content: X.680 (1994) Technical Cor. 1 (11/1995)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Rules of extensibility
+    docidentifier:
+    - content: X.680 (1994) Amd. 1 (04/1995)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (07/1994)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

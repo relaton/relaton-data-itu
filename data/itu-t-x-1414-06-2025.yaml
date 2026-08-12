@@ -17,11 +17,70 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-06
+  at: '2025-06-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1414 introduces the concept of cross-chain service
+    to achieve interoperability of distributed ledger technology (DLT) systems. It
+    also specifies security risks, requirements, framework and capabilities, as well
+    as general procedures to ensure security of cross-chain services for DLT systems
+    interoperability.\r\nDLT is well-suited for decentralized environments and can
+    improve collaboration and coordination among multiple stakeholders. There are
+    many DLT systems offering a variety of decentralized services, powered by different
+    or similar DLT solutions. However, these DLT systems are often isolated from one
+    another, making it valuable to connect them through cross-chain services. \r\nThe
+    cross-chain services enable data and transactions to move between different DLT
+    systems and allow them to interact seamlessly. Since these services jointly handle
+    user data and transactions in a decentralized environment, they face significant
+    security and privacy risks. Therefore, it is essential to study and establish
+    security requirements and a robust framework to strengthen the security of cross-chain
+    service for DLT systems.\r\n\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,69 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2020-07
+  at: '2020-07-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 20
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: A growing number of smart cities and administrations are inclined to collaborate
+    and mutualize their efforts and resources for Internet of things (IoT) deployments
+    and open data sharing. This Supplement 61 to ITU-T Y-series Recommendations studies
+    the concept and potential of developing secured open and interoperable application
+    programming interfaces (APIs) in the context of IoT deployment and open data management
+    in smart cities. Supplement 61 to ITU-T Y-series Recommendations analyses current
+    solutions implemented by administrations around the world, where applicable, including
+    those adopted by smart cities, to share their data through open and interoperable
+    interfaces. Supplement 61 to ITU-T Y-series Recommendations subsequently specifies
+    open and interoperable APIs for secured open data architecture and to support
+    IoT data interoperability for smart cities. Supplement 61 to ITU-T Y-series Recommendations
+    concludes by mapping the specified APIs with relevant work performed by other
+    international standards development organizations (SDOs) and alliances, to help
+    consolidate the standards developed on the topic.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -18,16 +18,19 @@
 # never linger and the ITU-R rows are always present. Both sectors serialize to
 # the same `_type: pubid:itu:*` shape, so one index holds them together.
 #
-# NOTE: the ITU-T harvest needs the ITU-T producer (issue relaton-itu#80, branch
-# feat/itu-t-index-harvester) merged to relaton `main`, which the Gemfile pins.
-# On a relaton `main` without it, `DataFetcher.fetch("itu-t")` ignores the source
-# argument and attempts the (dead) ITU-R RunSearch endpoint, which fails — but
-# the ITU-R index derivation below has already run and saved, so the ITU-R index
-# is intact. Add a real ITU-R re-harvest into data/itu-r-* here once an enumeration
-# source is restored — see the hand-offs relaton__relaton__itu-runsearch-fix.md
-# (Part 2) and relaton__relaton-itu__itu-t-dataset-migration.md.
+# Both passes are driven off a single Relaton::Itu::DataFetcher, so the identifier
+# guard, the index and the unparseable-id report are shared rather than duplicated
+# here — see #harvest. Add a real ITU-R re-harvest into data/itu-r-* once an
+# enumeration source is restored — see the hand-offs
+# relaton__relaton__itu-runsearch-fix.md (Part 2) and
+# relaton__relaton-itu__itu-t-dataset-migration.md.
+#
+# The ITU-T half is the expensive part: ~16k records × ~4 www.itu.int requests for
+# the enrichment that makes a harvested record match a live lookup. The fetcher
+# spreads those over a worker pool (RELATON_ITU_CONCURRENCY, default 8).
 
 require "fileutils"
+require "time"
 require "relaton/itu/data_fetcher" # pulls in Relaton::Index + ::Pubid::Itu
 require "relaton/index"
 require "pubid"
@@ -45,57 +48,27 @@ module ItuCrawler
   DATA_R_GLOB = "data/itu-r-*.yaml"
   DATA_T_GLOB = "data/itu-t-*.yaml"
 
-  # Parse an ITU docid into a Pubid::Itu identifier, or nil when it can't be
-  # parsed or does not round-trip losslessly. This is the identical guard
-  # Relaton::Itu::DataFetcher#pubid and the index loader's
-  # Relaton::Index::FileIO#id_supported? apply, so an id that would make
-  # Relaton::Index reject the whole index is dropped here instead. The pinned
-  # pubid models recommendations, handbooks and questions; the guard only skips
-  # the residual forms it can't parse (e.g. "ITU-R RR", malformed dashed ids).
-  def pubid(id)
-    pid = ::Pubid::Itu.parse id
-    hash = pid.to_hash
-    return nil unless ::Pubid::Itu::Identifier.from_hash(hash).to_hash == hash
-
-    pid
-  rescue StandardError
-    nil
-  end
-
-  # Rebuild index-v2.yaml with the ITU-R rows derived from the preserved data-r/.
-  # Mirrors how relaton-data-nist / relaton-data-iec index their static/ folders:
-  # parse each file's primary docid into a pubid object (never a raw String, which
-  # Relaton::Index can't sort) and add_or_update it. Skipped ids are left
-  # unindexed but their data files stay in data/itu-r-* (graceful degradation).
-  def rebuild_itur_index
-    FileUtils.rm_f INDEX_YAML
-    index = Relaton::Index.find_or_create(
-      :itu, file: INDEX_YAML, pubid_class: ::Pubid::Itu::Identifier
-    )
-    added = 0
-    skipped = []
-    Dir[DATA_R_GLOB].sort.each do |file|
-      item = Relaton::Itu::Item.from_yaml(File.read(file, encoding: "UTF-8"))
-      id = (item.docidentifier.find(&:primary) || item.docidentifier.first)&.content
-      if id && (pid = pubid(id))
-        index.add_or_update pid, file
-        added += 1
-      else
-        skipped << (id || file)
-      end
-    end
-    index.save
-    warn "index-v2: #{added} ITU-R rows indexed, #{skipped.size} skipped"
-    index
-  end
-
-  # Harvest the ITU-T corpus into data-t/, merging its rows into index-v2.yaml
-  # (DataFetcher#index re-opens the file rebuild_itur_index just wrote and
-  # add_or_updates the ITU-T rows into it, then saves).
-  def harvest_itut
-    FileUtils.rm_f Dir[DATA_T_GLOB] # wipe only the ITU-T half; preserve data/itu-r-*
+  # Rebuild index-v2 from scratch and refresh the ITU-T half of data/.
+  #
+  # Both sectors run off ONE DataFetcher, which is what keeps them consistent:
+  # `index_files` re-derives the ITU-R rows from the preserved data/itu-r-*
+  # records and `fetch("itu-t")` harvests the ITU-T corpus, both through the same
+  # pubid guard (parse + lossless round-trip, matching what Relaton::Index's own
+  # loader will accept), into the same index, with one `index.save` and one
+  # unparseable-id report at the end — so an id that cannot be indexed is *named*
+  # (and raised as the "Error fetching documents" GitHub issue when
+  # GITHUB_REPOSITORY and GITHUB_TOKEN are set) rather than silently dropped.
+  def harvest
+    FileUtils.rm_f INDEX_YAML         # rebuild the index from scratch
+    FileUtils.rm_f Dir[DATA_T_GLOB]   # wipe only the ITU-T half; preserve data/itu-r-*
     FileUtils.mkdir_p DATA
-    Relaton::Itu::DataFetcher.fetch("itu-t", output: DATA)
+
+    started = Time.now
+    warn "crawler: started at #{started.utc.iso8601}"
+    fetcher = Relaton::Itu::DataFetcher.new(DATA, "yaml")
+    fetcher.index_files DATA_R_GLOB   # ITU-R: re-index the preserved records
+    fetcher.fetch "itu-t"             # ITU-T: harvest, then save the index + report
+    warn "crawler: done in #{(Time.now - started).round} sec."
   end
 
   # Guard against silently republishing a truncated index. The searchRecs
@@ -126,6 +99,26 @@ module ItuCrawler
     `git ls-files -- '#{DATA_T_GLOB}'`.each_line.count
   end
 
+  # Guard against republishing a metadata-thin corpus. ITU-T enrichment (abstract,
+  # ISO co-id, status, edition, contributors, relations) costs ~4 www.itu.int
+  # requests per record and is best-effort: DataParserT#enrichment rescues any
+  # failure and returns the thin searchRecs shape instead, so a WAF block part-way
+  # through degrades records silently while the crawl still "succeeds" with the
+  # full file count — invisible to guard_itut_harvest, which counts files.
+  # The ITU publisher contributor is added unconditionally whenever enrichment
+  # succeeds, so `contributor:` is exactly the marker for "this record kept its
+  # enrichment".
+  def guard_enrichment
+    files = Dir[DATA_T_GLOB]
+    return if files.empty?
+
+    enriched = files.count { |f| File.foreach(f).any? { |l| l.start_with?("contributor:") } }
+    return if enriched * 10 >= files.size * 9 # allow a 10% tail of genuinely failed records
+
+    abort "ITU-T enrichment collapsed: only #{enriched}/#{files.size} records carry " \
+          "contributors. Likely www.itu.int throttling — investigate before republishing."
+  end
+
   # Rebuild index-v2.zip in process (rubyzip is a relaton/index dependency), so a
   # standalone `ruby crawler.rb` run produces a complete, committable state.
   def write_zip
@@ -143,11 +136,14 @@ module ItuCrawler
       warn("warning: `git add` failed (not a git repo?); files were still written")
   end
 
+  # write_zip runs before the guards so index-v2.yaml (saved by the fetcher) and
+  # index-v2.zip can never be left out of sync by an abort. The guards still block
+  # publication: they abort before `stage`, and before the CI workflow's commit.
   def run
-    rebuild_itur_index
-    harvest_itut
-    guard_itut_harvest
+    harvest
     write_zip
+    guard_itut_harvest
+    guard_enrichment
     stage
   end
 end

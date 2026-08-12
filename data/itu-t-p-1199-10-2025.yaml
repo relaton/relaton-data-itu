@@ -17,11 +17,179 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-10
+  at: '2025-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T P.1199 provides a parametric object-recognition-ratio-estimation
+    model to check whether an observer in a monitoring centre can recognize an object
+    (e.g., a person who jumps out onto the road or debris on the road) while viewing
+    the video taken by an autonomous vehicle's surveillance camera and delivered to
+    the monitoring centre. This object-recognition ratio can be used as an indicator
+    to check whether the surveillance video delivered to the remote monitoring centre
+    is of sufficient quality for remote monitoring around the autonomous vehicle.\r\nThe
+    input used by the model consists of information obtained from video streams and
+    vehicle information. Four different modes, which are called modes of operation,
+    can be used for estimating the object-recognition ratio in this Recommendation:\r\n–Mode
+    0: Information obtained from the video stream, such as the video resolution, video
+    bitrate and video frame rate, in addition to packet loss information.\r\n–Mode
+    1: Information obtained from the video stream and frozen video frame information
+    based on frame inspection.\r\n–Mode 2: The same information as Mode 0, with the
+    addition of vehicle velocity.\r\n–Mode 3: The same information as Mode 1, with
+    the addition of vehicle velocity.\r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parametric object-recognition-ratio-estimation model for remote monitoring
+        of surveillance video delivered from autonomous vehicles
+    docidentifier:
+    - content: P.1199 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations relating to transmission characteristics for analogue
+        handset telephones
+    docidentifier:
+    - content: P Suppl. 10 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for placement of microphones and loudspeakers in telephone
+        conference rooms and for group audio terminals (GATs)
+    docidentifier:
+    - content: P Suppl. 16 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Examples of measurements of handset receive-frequency responses: dependence
+        on earcap leakage losses'
+    docidentifier:
+    - content: P Suppl. 20 (03/1993)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T coded-speech database
+    docidentifier:
+    - content: P Suppl. 23 (02/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with spoken dialogue systems
+    docidentifier:
+    - content: P Suppl. 24 (10/2005)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with multimodal dialogue systems
+    docidentifier:
+    - content: P Suppl. 25 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
+        telemeeting quality
+    docidentifier:
+    - content: P Suppl. 26 (09/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations for the development of new QoS and QoE related objective
+        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+    docidentifier:
+    - content: P Suppl. 28 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Subjective quality evaluation of audiovisual communication in videotelephony
+        services
+    docidentifier:
+    - content: P Suppl. 31 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

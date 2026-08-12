@@ -17,11 +17,249 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2017-11
+  at: '2017-11-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '4'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The Continua Design Guidelines (CDG) defines a framework of underlying
+    standards and criteria required to ensure the interoperability of devices and
+    data used for personal connected health. It also contains design guidelines (DGs)
+    that further clarify the underlying standards or specifications by reducing options
+    or by adding a missing feature to improve interoperability. These guidelines focus
+    on the following interfaces:\r\n\r\n–           Personal Health Devices (PHD)
+    interface – Interface between a Personal Health Device (PHD) and a Personal Health
+    Gateway (PHG). \r\n\r\n–           Services interface – Interface between a Personal
+    Health Gateway (PHG) and the Health & Fitness Service (HFS).\r\n\r\n–           Healthcare
+    Information System (HIS) interface – Interface between the HFS and the Healthcare
+    Information System (HIS).\r\n\r\nThe CDG is organized in eight parts that cover
+    the following areas:\r\n\r\n–           ITU-T H.810 – Interoperability design
+    guidelines for personal connected health systems: System overview (this design
+    guidelines document)\r\n\r\n–           ITU-T H.811 – Interoperability design
+    guidelines for personal connected health systems: Personal Health Devices interface
+    design guidelines\r\n\r\n–           ITU-T H.812 – Interoperability design guidelines
+    for personal connected health systems: Services interface design guidelines\r\n\r\n–
+    \          ITU-T H.812.1 – Interoperability design guidelines for personal connected
+    health systems: Services interface: Observation upload capability\r\n\r\n–           ITU-T
+    H.812.2 – Interoperability design guidelines for personal connected health systems:
+    Services interface: Questionnaires capability\r\n\r\n–           ITU-T H.812.3
+    – Interoperability design guidelines for personal connected health systems: Services
+    interface: Capability exchange capability\r\n\r\n–           ITU-T H.812.4 – Interoperability
+    design guidelines for personal connected health systems: Services interface: Authenticated
+    persistent session capability\r\n\r\n–           ITU-T H.813 – Interoperability
+    design guidelines for personal connected health systems: Healthcare Information
+    System interface design guidelines\r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Interoperability design guidelines for personal connected health systems:
+        Introduction'
+    docidentifier:
+    - content: H.810 (V5) (11/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Interoperability design guidelines for personal health systems
+    docidentifier:
+    - content: H.810 (07/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Interoperability design guidelines for personal health systems
+    docidentifier:
+    - content: H.810 (11/2015)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Interoperability design guidelines for personal health systems
+    docidentifier:
+    - content: H.810 (12/2013)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.810 (2013) Err. 1 (02/2014)
+    docidentifier:
+    - content: H.810 (2013) Err. 1 (02/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Control load quantum for decomposed gateways
+    docidentifier:
+    - content: H Suppl. 6 (04/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
+    docidentifier:
+    - content: H Suppl. 9 (05/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of class-based home network QoS solutions
+    docidentifier:
+    - content: H Suppl. 11 (02/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
+    docidentifier:
+    - content: H Suppl. 12 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 13 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 14 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
+    docidentifier:
+    - content: H Suppl. 15 (01/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide for addressing accessibility in standards
+    docidentifier:
+    - content: H Suppl. 17 (11/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
+    docidentifier:
+    - content: H Suppl. 18 (10/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of video signal type code points
+    docidentifier:
+    - content: H Suppl. 19 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Film grain synthesis technology for video applications
+    docidentifier:
+    - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

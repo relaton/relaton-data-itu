@@ -16,11 +16,82 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2000-11
+  at: '2000-11-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Recommendation describes the Distributed Processing Environment (DPE)
+    Architecture, which represents the run-time environment for telecommunication
+    and information services and applications.The purpose of the DPE Architecture
+    is to provide detailed technical requirements leading to specifications, both
+    to help the DPE vendors to develop their products and the application developer
+    to understand the infrastructure support that the DPE provides. The material herein
+    is based on work done in the TINA Consortium by the TINA core team and several
+    auxiliary projects in the member companies of TINA-C, supporting the core team.This
+    Recommendation contains:\r• an explanation of the relationship between modelling
+    concepts so far as such a relationship needs to be concerned in the computing
+    architecture;\r• a description of the Kernel Transport Network (KTN) which is
+    the DPE analogue of the telecommunications signalling system;\r• an interoperability
+    framework for the DPE;\r• requirements for the DPE kernel services.A number of
+    DPE engineering object services can be identified, that support the execution
+    of telecommunication services. These DPE object services are identified and associated
+    to the functions and transparencies of the Reference Model for Open Distributed
+    Processing (RM-ODP). Detailed requirements on the DPE object services and their
+    specifications are for further study.The DPE, the DPE object services and the
+    applications deployed on a DPE need to be managed. What are the requirements on
+    management, and how can management of these entities be accomplished is also for
+    further study.Not all DPE kernel services identified in this Recommendation are
+    required for all applications. DPE profiles that support different kinds of services
+    and applications need to be defined. These profiles need to specify which kernel
+    services are mandatory for a given profile. The definition of DPE profiles and
+    their use are for further study. The DPE must support quality of service (QoS)
+    as needed by the services and applications. How this is accomplished by the DPE
+    is for further study."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,85 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-04
+  at: '2016-04-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "In light of the historic agreement to combat climate change and unleash
+    actions and investment towards a low carbon, resilient and sustainable future
+    was agreed by 195 nations in Paris on 12 December 2015.  The Paris Agreement for
+    the first time brings all nations into a common cause based on their historic,
+    current and future responsibilities.  The universal agreement’s main aim is to
+    keep a global temperature rise this century well below 2 degrees Celsius and to
+    drive efforts to limit the temperature increase even further to 1.5 degrees Celsius
+    above pre-industrial levels. Additionally, the agreement aims to strengthen the
+    ability to deal with the impacts of climate change.   The Paris Agreement and
+    the outcomes of the UN climate conference (COP21) cover all the crucial areas
+    identified as essential for a landmark conclusion:\r\n\r\n·                      Mitigation
+    – reducing emissions fast enough to achieve the temperature goal\r\n\r\n·                      A
+    transparency system and global stock-take – accounting for climate action\r\n\r\n·
+    \                     Adaptation – strengthening ability of countries to deal
+    with climate impacts\r\n\r\n·                      Loss and damage – strengthening
+    ability to recover from climate impacts\r\n\r\n·                      Support
+    – including finance, for nations to build clean, resilient futures\r\n\r\nCountries
+    will submit updated climate plans – called nationally determined contributions
+    (NDCs) – every five years, thereby steadily increasing their ambition in the long-term.
+    \  Climate action will also be taken forward in the period before 2020. Countries
+    will continue to engage in a process on mitigation opportunities and will put
+    added focus on adaptation opportunities. \r\n\r\nIn view of such important international
+    developments, this supplement acquires a special relevance, as it aims at offering
+    a better understanding of climate change effects that could assist in the development
+    of national reports and recommendations related to adaptation, as well as be used
+    as a reference to relevant decision makers and other recommendations. \r\n\r\nThis
+    document includes identifying and describing climate change effects that can affect
+    the ICT sector and other sectors. It also provides general introduction to the
+    identified climate change effects and describes possible impacts of climate change
+    effects to the ICT sector, human behaviors, human health and the energy sector.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

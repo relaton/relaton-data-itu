@@ -14,11 +14,90 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1984-10
+  at: '1984-10-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use on public data networks of Data Terminal Equipment (DTE) which
+        is designed for interfacing to asynchronous duplex V-Series modems
+    docidentifier:
+    - content: X.20 bis (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use on public data networks of data terminal equipment (DTE) which
+        is designed for interfacing to asynchronous duplex V-Series modems
+    docidentifier:
+    - content: X.20 bis (11/1980)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: V.21-compatible interface between data terminal equipment (DTE) and
+        data circuit-terminating equipment (DCE) for start-stop transmission services
+        on public data networks
+    docidentifier:
+    - content: X.20 bis (10/1976)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

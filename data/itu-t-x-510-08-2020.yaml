@@ -15,13 +15,98 @@ docidentifier:
 - content: ITU-T X.510 (08/2020)
   type: ITU
   primary: true
+- content: ISO/IEC 9594-11
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2020-08
+  at: '2020-08-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.510 | ISO/IEC 9594-11 specifies a general protocol,
+    called the wrapper protocol, that provides cybersecurity for protocols designed
+    for its protection. The wrapper protocol provides authentication, integrity and
+    optionally confidentiality (encryption). The wrapper protocol allows cybersecurity
+    to be provided independently of the protected protocols, which means that security
+    may be enhanced without affecting protected protocol specifications. \r\n\r\nThe
+    wrapper protocol is specified without specifying specific cryptographic algorithms,
+    but is designed for plucking-in cryptographic algorithms as required. \r\n\r\nThe
+    wrapper protocol is designed for easy migration of cryptographic algorithms, as
+    stronger cryptographic algorithms become necessary. \r\n\r\nRecommendation ITU-T
+    X.510 | ISO/IEC 9594-11 contains recommendations for how other Recommendations
+    and International Standards may include features for migration of cryptographic
+    algorithms, and it includes ASN.1 specifications to be applied for that purpose.
+    \r\n\r\nRecommendation ITU-T X.510 | ISO/IEC 9594-11 also specifies three protocols
+    that make use of the wrapper protocol protection. This includes a protocol for
+    maintenance of authorization and validation lists (AVLs), a protocol for subscribing
+    of public-key certificate status and a protocol for accessing a trust broker.
+    \r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.510 (2023) Amd. 1 (07/2026)
+    docidentifier:
+    - content: X.510 (2023) Amd. 1 (07/2026)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information Technology - Open systems Interconnection - The Directory
+        - Protocol specifications for secure operations
+    docidentifier:
+    - content: X.510 (10/2023)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

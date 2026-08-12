@@ -16,11 +16,61 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2019-05
+  at: '2019-05-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Supplement 17 to ITU-T K-series Recommendations provides background information
+    that explains how the various lightning and power fault test configurations and
+    electrical values in Recommendation ITU-T K.44 were derived. Examples show how
+    test procedures can be minimized by knowing how the surge and power fault test
+    conditions can vary with time and voltage. How ITU-T Recommendation K.44 relates
+    to its dependent Recommendations is explained.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

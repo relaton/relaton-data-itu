@@ -16,11 +16,267 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2026-05
+  at: '2026-05-12'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 20
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+    docidentifier:
+    - content: Y Suppl. 32 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Smart sustainable cities - Master plan
+    docidentifier:
+    - content: Y Suppl. 33 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Smart sustainable cities - Setting the stage
+        for stakeholders' engagement
+    docidentifier:
+    - content: Y Suppl. 34 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4900 Series - Key performance indicators definitions for smart
+        sustainable cities
+    docidentifier:
+    - content: Y Suppl. 39 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series - An overview of smart cities and communities and
+        the role of information and communication technologies
+    docidentifier:
+    - content: Y Suppl. 45 (09/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Methodology for building digital capabilities during enterprises' digital
+        transformation
+    docidentifier:
+    - content: Y Suppl. 52 (12/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series – Internet of Things use cases
+    docidentifier:
+    - content: Y Suppl. 53 (12/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
+        of IoT systems
+    docidentifier:
+    - content: Y Suppl. 54 (04/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y-series – Supplement on use cases of smart cities and communities
+    docidentifier:
+    - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of blockchain for supporting Internet of things and smart
+        cities and communities in data processing and management aspects
+    docidentifier:
+    - content: Y Suppl. 62 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Unlocking Internet of things with artificial intelligence
+    docidentifier:
+    - content: Y Suppl. 63 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for Internet of things ecosystem master plan
+    docidentifier:
+    - content: Y Suppl. 68 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
+    docidentifier:
+    - content: Y Suppl. 69 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+    docidentifier:
+    - content: Y Suppl. 76 (09/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Use cases on implemented or evaluated smart sustainable city solutions
+        based on ITU-T Y.4900 Recommendations series '
+    docidentifier:
+    - content: Y Suppl. 78 (09/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
+    docidentifier:
+    - content: Y Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
+    docidentifier:
+    - content: Y Suppl. 83 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
+        aquaculture
+    docidentifier:
+    - content: Y Suppl. 85 (01/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Machine learning standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 96 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Glossary of terms and definitions for machine learning
+    docidentifier:
+    - content: Y Suppl. 97 (11/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

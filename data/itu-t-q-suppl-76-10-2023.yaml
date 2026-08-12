@@ -17,11 +17,64 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2023-10
+  at: '2023-10-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "As defined in the ITU-T Q.5050 series of Recommendations, a central equipment
+    identity register (CEIR) can be used to combat counterfeit information and communication
+    technology (ICT) devices, to combat the use of stolen ICT devices and for other
+    purposes. However, implementing a CEIR is a complex project that involves and
+    impacts multiple stakeholders, and may require different processes in each country.\r\nTherefore,
+    to assist ITU members on implementation, Supplement 76 to ITU-T Q-series Recommendations
+    aims to identify current industry approaches on the data exchange between CEIR
+    and the equipment identity register (EIR) and propose common approaches and interfaces
+    on this topic.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,150 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2023-04
+  at: '2023-04-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T F.780.2 defines accessibility requirements for technical
+    features to be used and implemented by governments, health-care providers and
+    manufacturers of telehealth platforms to facilitate the access and use of telehealth
+    services by persons with disabilities and specific needs, including older persons
+    with age-related disabilities.With the passage of the United Nations Convention
+    on the Rights of Persons with Disabilities in 2006, and its ratification by numerous
+    countries, persons with disabilities have the right to enjoy the highest attainable
+    standard of health without discrimination on the basis of disability. Countries
+    need to take all appropriate measures to ensure access to health services for
+    persons with disabilities.During the COVID-19 pandemic, the use of telehealth
+    services increased substantially in many countries and telehealth has become a
+    basic need for the general population, especially for those in quarantine, enabling
+    patients in real time through contact with health-care providers to access advice.
+    However, due to the lack of global and comprehensive standards and guidelines
+    for accessibility of telehealth services, many persons with disabilities experience
+    difficulties accessing and using such services and are often forgotten. This Recommendation
+    summarizes and defines those requirements and features that industries can implement
+    to ensure accessible provision of telehealth services.Technical requirements defined
+    in this Recommendation are based on comprehensive feedback collected from civil
+    society on barriers that persons with disabilities experience when accessing and
+    using telehealth services, as well as on the feedback from industry. This Recommendation
+    was developed collaboratively by the World Health Organization (WHO) and ITU.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Accessibility of telehealth services
+    docidentifier:
+    - content: F.780.2 (03/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
+    docidentifier:
+    - content: F Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terms and definitions for telex
+    docidentifier:
+    - content: F Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of Telecom Finance (Finance2.0)
+    docidentifier:
+    - content: F Suppl. 3 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of convergence of artificial intelligence and blockchain
+    docidentifier:
+    - content: F Suppl. 4 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
+    docidentifier:
+    - content: F Suppl. 5 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of ICT-enabled flying car service platform
+    docidentifier:
+    - content: F Suppl. 6 (07/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

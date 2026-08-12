@@ -15,13 +15,377 @@ docidentifier:
 - content: ITU-T H.262 (02/2000)
   type: ITU
   primary: true
+- content: ISO/IEC 13818-2
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2000-02
+  at: '2000-02-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'This Recommendation | International Standard specifies coded representation
+    of video data and the decoding process required to reconstruct pictures. It provides
+    a generic video coding scheme which serves a wide range of applications, bit rates,
+    picture resolutions and qualities. Its basic coding algorithm is a hybrid of motion
+    compensated prediction and DCT. Pictures to be coded can be either interlaced
+    or progressive. Necessary algorithmic elements are integrated into a single syntax,
+    and a limited number of subsets are defined in terms of Profile (functionalities)
+    and Level (parameters) to facilitate practical use of this generic video coding
+    standard.This second edition of this Recommendation | International Standard consists
+    of ITU-T Rec. H.262 (1995) | ISO/IEC 13818-2:1996, subsequently altered by two
+    corrigenda and six amendments:1. A first corrigendum adding a slice picture identifier,
+    allowing an application to define default colour description parameters, removing
+    a prohibition of field-structured DCT coding in progressive frames, clarifying
+    ambiguity on restricted range of reconstructed motion vectors, clarifying ambiguity
+    of VBV at boundaries of sequences, and making various minor corrections.2. A second
+    corrigendum altering the inverse discrete cosine transform requirements, altering
+    temporal_reference for low delay, and making various minor corrections.3. A first
+    amendment providing a method of obtaining and registering copyright identifiers.4.
+    A second amendment defining a 4:2:2 profile.5. A third amendment adding a camera
+    parameters extension and a multi-view profile.6. A fourth amendment adding an
+    ITU-T extension.7. A fifth amendment adding a high level to the 4:2:2 profile.8.
+    A sixth amendment reducing the upper bound for the number of lines per frame in
+    the high level of all profiles from 1152 to 1088.       Page: 1  [CEF1]Editorial
+    insertion: need summary of changes between first and second edition.'
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Frame packing arrangement signalling for quincunx pattern '
+    docidentifier:
+    - content: H.262 (2012) Amd. 1 (03/2013)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Generic coding of moving pictures and associated
+        audio information: Video'
+    docidentifier:
+    - content: H.262 (02/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Frame packing arrangement signalling for 3D content
+    docidentifier:
+    - content: H.262 (2000) Amd. 4 (02/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New level for 1080@50p/60p
+    docidentifier:
+    - content: H.262 (2000) Amd. 3 (03/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Support for colour spaces
+    docidentifier:
+    - content: H.262 (2000) Amd. 2 (01/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.262 (2000) Technical Cor. 2 (05/2006)
+    docidentifier:
+    - content: H.262 (2000) Technical Cor. 2 (05/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Content description data
+    docidentifier:
+    - content: H.262 (2000) Amd. 1 (11/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.262 (2000) Amd. 1 Err. 1 (04/2002)
+    docidentifier:
+    - content: H.262 (2000) Amd. 1 Err. 1 (04/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.262 (2000) Technical Cor. 1 (11/2000)
+    docidentifier:
+    - content: H.262 (2000) Technical Cor. 1 (11/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.262 (1995) Amd. 6 (02/2000)
+    docidentifier:
+    - content: H.262 (1995) Amd. 6 (02/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.262 (1995) Amd. 5 (05/1999)
+    docidentifier:
+    - content: H.262 (1995) Amd. 5 (05/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.262 (1995) Amd. 4 (02/1998)
+    docidentifier:
+    - content: H.262 (1995) Amd. 4 (02/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.262 (1995) Amd. 3 (02/1998)
+    docidentifier:
+    - content: H.262 (1995) Amd. 3 (02/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 4:2:2 Profile
+    docidentifier:
+    - content: H.262 (1995) Amd. 2 (11/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Registration of copyright identifiers
+    docidentifier:
+    - content: H.262 (1995) Amd. 1 (11/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.262 (1995) Technical Cor. 2 (11/1996)
+    docidentifier:
+    - content: H.262 (1995) Technical Cor. 2 (11/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.262 (1995) Technical Cor. 1 (11/1996)
+    docidentifier:
+    - content: H.262 (1995) Technical Cor. 1 (11/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Generic coding of moving pictures and associated
+        audio information: Video'
+    docidentifier:
+    - content: H.262 (07/1995)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application profile – Sign language and lip-reading real-time conversation
+        using low bit rate video communication
+    docidentifier:
+    - content: H Suppl. 1 (05/1999)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Control load quantum for decomposed gateways
+    docidentifier:
+    - content: H Suppl. 6 (04/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
+    docidentifier:
+    - content: H Suppl. 9 (05/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of class-based home network QoS solutions
+    docidentifier:
+    - content: H Suppl. 11 (02/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
+    docidentifier:
+    - content: H Suppl. 12 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 13 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 14 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
+    docidentifier:
+    - content: H Suppl. 15 (01/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide for addressing accessibility in standards
+    docidentifier:
+    - content: H Suppl. 17 (11/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
+    docidentifier:
+    - content: H Suppl. 18 (10/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of video signal type code points
+    docidentifier:
+    - content: H Suppl. 19 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Film grain synthesis technology for video applications
+    docidentifier:
+    - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

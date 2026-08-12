@@ -17,11 +17,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-01
+  at: '2022-01-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T X.786 establishes guidelines for implementation conformance
+    statement (ICS) proformas for interface systems based on representational state
+    transfer (REST). Recommendation ITU-T X.786 provides an overview and constructions
+    for the open application programming interface (OpenAPI) specification (OAS),
+    and provides several proformas (tables) for each OAS syntax component to be used
+    in REST-based interfaces. Instructions on how to complete the columns in the conformance
+    tables are also provided. Examples of REST-based interface ICSs are provided in
+    appendices.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

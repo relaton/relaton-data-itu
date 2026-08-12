@@ -17,11 +17,204 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-04
+  at: '2025-04-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T Y.3660 specifies the functional requirements and
+    the architecture of the operational aspect of public network integrated non-public
+    (PNI-NPN) services based on big-data-driven networking (bDDN) to better enable
+    bDDN, which is a type of future network framework that collects big data from
+    networks and applications, and generates big data intelligence based on that data,
+    to adapt to PNI-NPN service operations.\r\nNon-public networks (NPNs) are designed
+    for non-public use. Distinguished from public networks that provide network services
+    to the general public, NPNs are dedicated to verticals such as industrial factories
+    and campuses, and provide coverage in specific geographic areas to maintain the
+    customized services. PNI-NPN is deployed with the help of public network by network
+    slices or sharing partial network functions. Usually, PNI-NPN has flexible networking
+    topologies and provide customized services, which bring challenges in the aspect
+    of service operation.\r\n\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3600-series – Big data and data handling standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 40 (11/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y-series – Supplement on use cases of smart cities and communities
+    docidentifier:
+    - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3600-series – Big data adoption in developing countries
+    docidentifier:
+    - content: Y Suppl. 65 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for Internet of things ecosystem master plan
+    docidentifier:
+    - content: Y Suppl. 68 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
+    docidentifier:
+    - content: Y Suppl. 69 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3000 series – Use cases for autonomous networks
+    docidentifier:
+    - content: Y Suppl. 71 (07/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3000-series – Artificial intelligence standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 72 (11/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
+        future networks
+    docidentifier:
+    - content: Y Suppl. 75 (03/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
+    docidentifier:
+    - content: Y Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
+    docidentifier:
+    - content: Y Suppl. 83 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3000-series – Use cases of open service environment for future
+        networks
+    docidentifier:
+    - content: Y Suppl. 95 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Machine learning standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 96 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Glossary of terms and definitions for machine learning
+    docidentifier:
+    - content: Y Suppl. 97 (11/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

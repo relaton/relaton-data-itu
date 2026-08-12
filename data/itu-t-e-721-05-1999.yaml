@@ -17,11 +17,95 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1999-05
+  at: '1999-05-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides network Grade of Service (GOS) parameters
+    for circuit-switched services in ISDN, based on the ISDN Grade of Service concept
+    and guidelines for selecting GOS parameters provided in Recommendation E.720.
+    The parameter values assume that the network and the components are fully operational
+    and take account of the evolving nature of the ISDN and Signalling System No.
+    7 capabilities.This version of this Recommendation includes revised parameters
+    for GOS target values for circuit-switched services in the evolving ISDN.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Network grade of service parameters and target values for circuit-switched
+        services in the evolving ISDN
+    docidentifier:
+    - content: E.721 (08/1991)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Network grade of service parameters in ISDN
+    docidentifier:
+    - content: E.721 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

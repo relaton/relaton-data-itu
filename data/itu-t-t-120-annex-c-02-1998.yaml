@@ -16,11 +16,94 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1998-02
+  at: '1998-02-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: The intent of this Annex is to provide a lightweight T.120 profile that
+    can be implemented in products requiring minimal data services. This includes
+    pure audiovisual environments wishing to incorporate the services of Application
+    Protocol Entities (APEs) such as T.130 (in contrast to multimedia terminals encompassing
+    audio, video, and data services). It also includes products incorporating thin
+    implementations of other T.120 APEs such as text telephony. This set of profiles
+    will be particularly useful in audiovisual environments where resources are extremely
+    limited.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Data protocols for multimedia conferencing
+    docidentifier:
+    - content: T.120 (01/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Data protocols for multimedia conferencing
+    docidentifier:
+    - content: T.120 (07/1996)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

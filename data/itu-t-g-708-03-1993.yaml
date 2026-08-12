@@ -16,11 +16,77 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1993-03
+  at: '1993-03-12'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation is a merged revised version of Recommendations G.707,
+    G.708 and G.709 that were approved in Helsinki (03/93) by the WTSC.This Recommendation
+    provides the requirements for the STM-N signals at the Network Node Interface
+    of a synchronous digital network, including B-ISDN in terms of:- bit rates;- frames
+    structures;- formats for mapping and multiplexing PDH and ATM elements;- functionalities
+    of the overheads.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Network node interface for the synchronous digital hierarchy
+    docidentifier:
+    - content: G.708 (04/1991)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Network node interface for the synchronous digital hierarchy
+    docidentifier:
+    - content: G.708 (11/1988)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

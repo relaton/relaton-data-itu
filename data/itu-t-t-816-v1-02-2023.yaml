@@ -15,13 +15,88 @@ docidentifier:
 - content: ITU-T T.816 (V1) (02/2023)
   type: ITU
   primary: true
+- content: ISO/IEC 15444-17
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2023-02
+  at: '2023-02-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Rec. ITU-T T.816 | ISO/IEC 15444-17 provides extensions of the scalable
+    image coding tools described in Rec. ITU-T T.800 | ISO/IEC 15444-1 and Rec. ITU-T
+    T.801 | ISO/IEC 15444-2, of two types. First, new wavelet-like image transforms
+    known as \"breakpoint-dependent\" transforms are defined, whose underlying basis
+    functions can be discontinuous at defined locations within the image component
+    to which they are applied. Second, new scalable coding tools are described for
+    a new type of image component known as a \"breakpoint component\", which provides
+    a successively refinable and hierarchical description of the breakpoint locations
+    used by the breakpoint-dependent transforms. Any non-initial component or components
+    within a codestream conforming to this Recommendation | International Standard
+    can be breakpoint components and any of the components in the codestream other
+    than breakpoint components can use a breakpoint-dependent transform that depends
+    upon one of the breakpoint components in the same codestream. These new tools
+    together allow for the scalable coding of imagery that naturally exhibits strong
+    discontinuities in the spatial domain. An important example of such imagery is
+    depth maps.\r\nThis Recommendation was developed jointly with ISO/IEC JTC 1/SC
+    29/WG 1 (JPEG) and is common text with ISO/IEC 15444-17."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

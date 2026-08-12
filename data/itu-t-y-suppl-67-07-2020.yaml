@@ -17,11 +17,79 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2020-07
+  at: '2020-07-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Towards the year of 2030 and beyond, many novel applications are expected
+    to emerge as other applications mature, leading to increasingly intertwined human
+    and machine communications. The new applications usually trigger new services
+    and introduce challenging requirements that demand continuous evolution of networking
+    technologies. Thus, the inherent capabilities of interconnected networks and the
+    running principles therein need to be enhanced, or even replaced, due to these
+    evolving requirements.\r\nTo help identify core network requirements and shape
+    the future networks' design paradigm, this supplement summarizes some representative
+    use cases for Network 2030 that have been well selected through group discussions
+    within Subgroup 1 of the ITU-T Focus Group on Network 2030 (FG NET-2030).\r\nSpecifically,
+    this supplement presents in Part I the following 7 use cases: holographic type
+    communications (HTC); tactile Internet for remote operations (TIRO); intelligent
+    operation network (ION); network and computing convergence (NCC); digital twin
+    (DT); space-terrestrial integrated network (STIN); industrial IoT (IIoT) with
+    cloudification. Their potential corresponding key network requirements are also
+    stated.\r\nIn Part II of this supplement, five overarching abstract requirement
+    dimensions are proposed and scored relatively in order to compare the requirements
+    of each use case. Through a clustering methodology these dimensions are also presented
+    graphically. Based on this, the most prominent requirements of each case can easily
+    be extracted, and their accumulated statistics are further shown to provide future
+    network designers with a high-level perspective of the diverse dimensions foreseen
+    as requirements of future use cases.\r\nFinally, it is important to note that
+    additional use cases and further details on the presented use cases can be found
+    in the global set of contributions submitted to the ITU-T FG NET-20301."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

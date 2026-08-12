@@ -17,11 +17,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-10
+  at: '2016-10-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "In order to facilitate a shift to a more sustainable economy, Circular
+    Economy (CE) has been proposed as one of the main ways forward. In this context,
+    CE combined with Information and Telecommunication Technologies (ICT) could enable
+    decoupling of economic growth and environmental impact [b- Ellen]. Due to the
+    seemingly scattered understanding of the topic of CE, and its main aspect Resource
+    Efficiency (RE), it will be necessary to summarize, and then standardize, the
+    manner in which CE and RE is quantified. \r\n\r\nThis report investigates current
+    approaches, concepts and metrics of CE and RE and their applicability for the
+    ICT infrastructure goods.\r\n\r\n This Supplement\r\n\r\n1) introduces CE and
+    RE, \r\n\r\n2) describes CE as used in the ICT industry, \r\n\r\n3) describes
+    existing CE and RE metrics and examples of their use. \r\n\r\n4) proposes next
+    steps in CE and RE standardisation.\r\n\r\nThe scope of the present document includes
+    the following aspects: upgradability, repairability, removability, durability,
+    reusability, recyclability, recoverability, refurbishability, remanufactureability.
+    The following additional parameters, indicators and metrics are included: recycled
+    content, use of critical raw materials, proportion of re-used parts."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

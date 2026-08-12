@@ -17,11 +17,62 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-01
+  at: '2016-01-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This supplement presents the overview of infrastructure in cities. Generally
+    the city infrastructure can be classified as digital/ICT infrastructure and physical
+    infrastructure. The intelligent improvement of physical infrastructure can be
+    achieved through the widely adoption of information and communication technologies.
+    In this sense, ICT acts as an enabler to construct Smart Sustainable Cities.  Consequently
+    using ICTs in SSC results in cost and energy saving, increased economic growth,
+    improved quality of life (QoL), and reduced environmental footprint.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

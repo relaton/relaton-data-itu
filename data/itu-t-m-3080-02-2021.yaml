@@ -17,11 +17,95 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2021-02
+  at: '2021-02-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T M.3080 provides a framework of artificial intelligence
+    enhanced telecom operation and management (AITOM). It describes the functional
+    framework of AITOM to support telecom operation management for efficiency improvement,
+    quality assurance, cost management, and security assurance. It also describes
+    artificial intelligence (AI) pipelines that combine some components to enable
+    AI based applications. \r\n\r\nThis Recommendation also describes the relationship
+    of the functional framework of AITOM with smart operations, management and maintenance
+    (SOMM) presented in Recommendation ITU-T M.3041. General requirements of security
+    are also described. \r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework of artificial intelligence enhanced telecommunication operation
+        and management (AITOM)
+    docidentifier:
+    - content: M.3080 (03/2026)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Additions and corrections based on telecommunication network large
+        model
+    docidentifier:
+    - content: M.3080 (2021) Amd. 1 (10/2025)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: M.3080 (2021) Err. 1 (05/2021)
+    docidentifier:
+    - content: M.3080 (2021) Err. 1 (05/2021)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

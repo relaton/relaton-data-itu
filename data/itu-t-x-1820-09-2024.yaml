@@ -17,11 +17,72 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2024-09
+  at: '2024-09-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "With the development of the IMT-2020/5G system, vertical services have
+    become key scenarios for IMT-2020/5G. In vertical services for smart factories
+    and smart cities that use an IMT-2020/5G network, many user devices use vertical
+    services with massive machine-type communications and ultra-reliable low-latency
+    communications (URLLC).\r\nTo support vertical use cases which require ultra-reliability
+    and low latency, some IMT-2020/5G core network functions might be deployed at
+    local sites that are closer to vertical users, while other IMT2020/5G core network
+    functions are still deployed at a central site. Compared with the IMT2020/5G core
+    network deployed as a whole, the IMT-2020/5G core network operating in such deployment
+    may face specific security threats. \r\nTo ensure the security of the operation
+    of the IMT-2020/5G core network to support vertical services, specific security
+    threats need to be analysed and relevant security requirements need to be specified.\r\nRecommendation
+    ITU-T X.1820 analyses data security threats, network security threats and physical
+    security threats specific to the operation of the IMT-2020/5G core network, which
+    is deployed at both a central site and local sites to support vertical services.
+    It also specifies the relevant security requirements to mitigate the security
+    threats.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

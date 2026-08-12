@@ -13,11 +13,756 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1980-11
+  at: '1980-11-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 15
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Characteristics of 60-channel transmultiplexing equipments
+    docidentifier:
+    - content: G.793 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Characteristics of 60-channel transmultiplexing equipments
+    docidentifier:
+    - content: G.793 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Certain methods of avoiding the transmission of excessive noise between
+        interconnected systems
+    docidentifier:
+    - content: G Suppl. 4 (12/1972)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Measurement of the load of telephone circuits under field conditions
+    docidentifier:
+    - content: G Suppl. 5 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Loss-frequency response of channel-translating equipment used in some
+        countries for international circuits
+    docidentifier:
+    - content: G Suppl. 7 (12/1972)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Method proposed by the Belgian telephone administration for interconnection
+        between coaxial and symmetric pair systems
+    docidentifier:
+    - content: G Suppl. 8 (12/1972)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Group-delay distortion performance of terminal equipment
+    docidentifier:
+    - content: G Suppl. 17 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Digital crosstalk measurement (method used by the Administrations of
+        France, the Netherlands and Spain)
+    docidentifier:
+    - content: G Suppl. 19 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Mathematical models of multiplex signals
+    docidentifier:
+    - content: G Suppl. 22 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Estimating the signal load margin of FDM wideband amplifier equipment
+        and transmission systems
+    docidentifier:
+    - content: G Suppl. 26 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Interference from external sources
+    docidentifier:
+    - content: G Suppl. 27 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems
+        and data-over-voice (DOV) systems during the transition from an analogue to
+        a digital network
+    docidentifier:
+    - content: G Suppl. 28 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Transfer of alarm information on 60-channel transmultiplexing equipment
+    docidentifier:
+    - content: G Suppl. 32 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Temperature in underground containers for the installation of repeaters
+    docidentifier:
+    - content: G Suppl. 34 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines concerning the measurement of wander
+    docidentifier:
+    - content: G Suppl. 35 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Jitter and wander accumulation in digital networks
+    docidentifier:
+    - content: G Suppl. 36 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical system design and engineering considerations
+    docidentifier:
+    - content: G Suppl. 39 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical fibre and cable Recommendations and standards guideline
+    docidentifier:
+    - content: G Suppl. 40 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Design guidelines for optical fibre submarine cable systems
+    docidentifier:
+    - content: G Suppl. 41 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres
+        and systems technology
+    docidentifier:
+    - content: G Suppl. 42 (10/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Transport of IEEE 10GBASE-R in optical transport networks (OTN)
+    docidentifier:
+    - content: G Suppl. 43 (02/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Test plan to verify B-PON interoperability
+    docidentifier:
+    - content: G Suppl. 44 (06/2007)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Power conservation in optical access systems
+    docidentifier:
+    - content: G Suppl. 45 (09/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: G-PON interoperability test plan between optical line terminations
+        and optical network units
+    docidentifier:
+    - content: G Suppl. 46 (05/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: General aspects of optical fibres and cables
+    docidentifier:
+    - content: G Suppl. 47 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: '10-Gigabit-capable passive optical networks: Interface between media
+        access control with serializer/deserializer and physical medium dependent
+        sublayers'
+    docidentifier:
+    - content: G Suppl. 48 (06/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Rogue optical network unit (ONU) considerations
+    docidentifier:
+    - content: G Suppl. 49 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of digital subscriber line Recommendations
+    docidentifier:
+    - content: G Suppl. 50 (09/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Passive optical network protection considerations
+    docidentifier:
+    - content: G Suppl. 51 (06/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Ethernet ring protection switching
+    docidentifier:
+    - content: G Suppl. 52 (09/2012)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for Ethernet OAM performance monitoring
+    docidentifier:
+    - content: G Suppl. 53 (12/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Ethernet linear protection switching
+    docidentifier:
+    - content: G Suppl. 54 (07/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Radio-over-fibre (RoF) technologies and their applications
+    docidentifier:
+    - content: G Suppl. 55 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: OTN transport of CPRI signals
+    docidentifier:
+    - content: G Suppl. 56 (02/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Smart home profiles for 6LoWPAN devices
+    docidentifier:
+    - content: G Suppl. 57 (07/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical transport network module framer interfaces
+    docidentifier:
+    - content: G Suppl. 58 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance on optical fibre and cable reliability
+    docidentifier:
+    - content: G Suppl. 59 (02/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Ethernet linear protection switching with dual node interconnection
+    docidentifier:
+    - content: G Suppl. 60 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Gfast certification
+    docidentifier:
+    - content: G Suppl. 62 (02/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: PON transmission technologies above 10 Gb/s per wavelength
+    docidentifier:
+    - content: G Suppl. 64 (02/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Simulations of transport of time over packet networks
+    docidentifier:
+    - content: G Suppl. 65 (10/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 5G wireless fronthaul requirements in a passive optical network context
+    docidentifier:
+    - content: G Suppl. 66 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application of optical transport network Recommendations to 5G transport
+    docidentifier:
+    - content: G Suppl. 67 (07/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Synchronization operations, administration and maintenance requirements
+    docidentifier:
+    - content: G Suppl. 68 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Migration of a pre-standard network to a metro transport network
+    docidentifier:
+    - content: G Suppl. 69 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement on sub 1 Gbit/s services transport over optical transport
+        network
+    docidentifier:
+    - content: G Suppl. 70 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical line termination capabilities for supporting cooperative dynamic
+        bandwidth assignment
+    docidentifier:
+    - content: G Suppl. 71 (12/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Modelling consideration for optical media networks
+    docidentifier:
+    - content: G Suppl. 72 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Influencing factors on quality of experience for multiview video (MVV)
+        services
+    docidentifier:
+    - content: G Suppl. 73 (10/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Network slicing in a passive optical network context
+    docidentifier:
+    - content: G Suppl. 74 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 5G small cell backhaul/midhaul over TDM-PON
+    docidentifier:
+    - content: G Suppl. 75 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical transport network security
+    docidentifier:
+    - content: G Suppl. 76 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors
+        on quality of experience (QoE) for video customized alerting tone (CAT) and
+        video customized ringing signal (CRS) services
+    docidentifier:
+    - content: G Suppl. 77 (06/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use case and requirements of fibre-to-the-room for small business applications
+    docidentifier:
+    - content: G Suppl. 78 (09/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Latency control and deterministic capability over a PON system
+    docidentifier:
+    - content: G Suppl. 79 (12/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use case and requirements of fibre-based in-premises networking for
+        home application (FIP4H)
+    docidentifier:
+    - content: G Suppl. 80 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Practical aspects of PON security - Revision 1
+    docidentifier:
+    - content: G Suppl. 81 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Enhanced optical line termination with information technology functions
+    docidentifier:
+    - content: G Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement on the use of options in the precision time protocol profile
+        with full timing support from the network
+    docidentifier:
+    - content: G Suppl. 83 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Operational aspects of optical access
+    docidentifier:
+    - content: G Suppl. 84 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: FgODUflex over point-to-multipoint networks
+    docidentifier:
+    - content: G Suppl. 85 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Fibre to the power grid (FTTGrid) use cases and network requirements
+    docidentifier:
+    - content: G Suppl. 86 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization framework for optical fibres for space division multiplexing
+    docidentifier:
+    - content: G Suppl. 87 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Point to multipoint passive optical access system requirements and
+        transmission technologies above 50 Gbit/s per wavelength
+    docidentifier:
+    - content: G Suppl. 88 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Coordinated management of access and fibre in premises networks
+    docidentifier:
+    - content: G Suppl. 89 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Coexistence between G.fin and G.Xfin systems
+    docidentifier:
+    - content: G Suppl. 90 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases and requirements of fibre-in-premises for small and medium
+        enterprise applications
+    docidentifier:
+    - content: G Suppl. 91 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Synchronization for data centres
+    docidentifier:
+    - content: G Suppl. 92 (10/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,402 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2015-04
+  at: '2015-04-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '10'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T K.20 specifies resistibility requirements and test
+    procedures for telecommunication equipment that is attached to or installed within
+    a telecommunication centre.\r\n\r\nOvervoltages or overcurrents covered by this
+    Recommendation include surges due to lightning on or near the line plant, short‑term
+    induction from adjacent a.c. power lines or railway systems, earth potential rise
+    due to power faults, direct contact between telecommunication lines and power
+    lines and electrostatic discharges. The sources for overvoltages in internal lines,
+    between equipment/racks, are mainly inductive coupling caused by lightning currents
+    being conducted in nearby lightning strokes or lightning currents being conducted
+    in nearby conductors.\r\n\r\nMajor changes compared with the 2008 version of this
+    Recommendation include:\r\n\r\n•            updated references;\r\n\r\n•            added
+    information on which universal serial bus (USB) ports should be tested;\r\n\r\n•
+    \           added information on when to add protection to untested ports;\r\n\r\n•
+    \           added test requirements for external coaxial cable ports;\r\n\r\n•
+    \           added test requirements for multiple conductor internal unshielded
+    cable ports.\r\n\r\nMajor changes compared with the 2011 version of this Recommendation
+    include:\r\n\r\n•            added test requirements for unshielded twisted pair
+    (UTP) Ethernet;\r\n\r\n•            added test requirements for shielded twisted
+    pair STP Ethernet;\r\n\r\n•            added test requirements for power over
+    Ethernet (PoE);\r\n\r\n•            added STP shield testing.\r\n\r\n \r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunication
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (11/2022)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunication
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (06/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunication
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (11/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunication
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (07/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunication
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (10/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunication
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (07/2017)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunication
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (12/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunication
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (06/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunications
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (11/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunications
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (04/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Appendix I – Floating transverse power induction and earth potential
+        rise test for ports connected to external symmetric pair cables
+    docidentifier:
+    - content: K.20 (2003) Amd. 1 (11/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunications
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (07/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Correction to table 7/K.20
+    docidentifier:
+    - content: K.20 (2003) Err. 1 (01/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication equipment installed in a telecommunications
+        centre to overvoltages and overcurrents
+    docidentifier:
+    - content: K.20 (02/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication switching equipment to overvoltages
+        and overcurrents
+    docidentifier:
+    - content: K.20 (10/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication switching equipment to overvoltages
+        and overcurrents
+    docidentifier:
+    - content: K.20 (03/1993)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication switching equipment to overvoltages
+        and overcurrents
+    docidentifier:
+    - content: K.20 (03/1991)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication switching equipment to overvoltages
+        and overcurrents
+    docidentifier:
+    - content: K.20 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility of telecommunication switching equipment to overvoltages
+        and overcurrents
+    docidentifier:
+    - content: K.20 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
+        cabling during a power cross event
+    docidentifier:
+    - content: K Suppl. 3 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Resistibility analysis of 5G systems
+    docidentifier:
+    - content: K Suppl. 8 (11/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 5G technology and human exposure to radiofrequency electromagnetic
+        fields
+    docidentifier:
+    - content: K Suppl. 9 (05/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of electromagnetic compatibility aspects and definition of
+        requirements for 5G mobile systems
+    docidentifier:
+    - content: K Suppl. 10 (11/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
+        mobile and portable devices during different conditions of use
+    docidentifier:
+    - content: K Suppl. 13 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
+        guidelines on 4G and 5G mobile network deployment
+    docidentifier:
+    - content: K Suppl. 14 (09/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge testing
+        factors
+    docidentifier:
+    - content: K Suppl. 15 (09/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field compliance assessments for 5G wireless networks
+    docidentifier:
+    - content: K Suppl. 16 (10/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field (EMF) strength inside underground railway trains
+    docidentifier:
+    - content: K Suppl. 19 (09/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.20 – Rationale for setting resistibility requirements of telecommunication
+        equipment installed in a telecommunication centre against lightning
+    docidentifier:
+    - content: K Suppl. 24 (07/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Electromagnetic field strength inside and outside of electric vehicles
+        using wireless power transfer technology
+    docidentifier:
+    - content: K Suppl. 29 (07/2022)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

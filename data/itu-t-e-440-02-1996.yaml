@@ -16,11 +16,80 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1996-02
+  at: '1996-02-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation is concerned with the establishment of a contact point
+    in each ROA/Administration for resolving customer specific troubles reported by
+    another Administration/ROA. This contact point defined as the Customer Satisfaction
+    Point, is distinct from maintenance contact points defined in Recommendation M.1510.In
+    the current telecommunication environment, there is a strong need to maintain
+    customer satisfaction by rapidly isolating and resolving problems. Often the problem
+    resides not in the network of ROA/Administration receiving the customer trouble
+    report but in another ROA/Administration. Under such circumstances, the problem
+    resolution can take a significant amount of time if a designated contact point
+    does not exist. This contact point is defined by this Recommendation as the "Customer
+    Satisfaction Point". The intent of this Recommendation is to establish minimum
+    requirements for the establishment of the Customer Satisfaction Point and associated
+    roles and responsibilities.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

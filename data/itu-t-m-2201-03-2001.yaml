@@ -17,11 +17,62 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2001-03
+  at: '2001-03-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides performance objectives, allocations and limits,
+    and measurement procedures for bringing-into-service and maintenance of international
+    end-to-end permanent and semi-permanent ATM Virtual Path Connections (VPCs), Virtual
+    Channel Connections (VCCs), and connection portions that form part of an international
+    ATM VPC or VCC. Error, delay and availability performance aspects are addressed.
+    Some of the performance objectives depend on the user's selection of Quality of
+    Service (QoS) class, definitions of which are given in ITU-T I.356 and ITU-T I.371.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

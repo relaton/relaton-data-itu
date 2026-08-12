@@ -15,13 +15,94 @@ docidentifier:
 - content: ITU-T X.894 (10/2018)
   type: ITU
   primary: true
+- content: ISO/IEC 24824-4
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2018-10
+  at: '2018-10-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.894 | ISO/IEC 24824-4 provides Abstract Syntax
+    Notation One (ASN.1) modules for using cryptographic syntax in ITU-T Recommendations.
+    Cryptographic message syntax (CMS) provides data integrity, confidentiality, origin
+    authenticity, and non-repudiation services needed for reliable information exchange
+    and for strong authentication. Recommendation ITU-T X.894 | ISO/IEC 24824-4 also
+    brings together a set of cryptographic key management techniques to support flexible
+    key establishment mechanisms, such as constructive key management, key agreement,
+    key exchange, and password-based encryption. These techniques can be used to prevent
+    fraud, and to protect personally identifiable and other sensitive information.
+    Recommendation ITU-T X.894 | ISO/IEC 24824-4 supports digital signature, encryption,
+    and signcryption techniques based on the public-key technology defined in the
+    ITU-T X.500 series | ISO/IEC 9594 multipart standard. All standardized encoding
+    rules for ASN.1 are supported. \r\n\r\nThis document integrates ITU-T X.894 (2018)
+    and its Corrigendum 1 (2019) and Corrigendum 2 (2021) in clean text. \r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Generic applications of ASN.1 cryptographic message syntax Technical
+        Corrigendum 2
+    docidentifier:
+    - content: X.894 (2018) Cor. 2 (02/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.894 (2018) Cor. 1 (03/2019)
+    docidentifier:
+    - content: X.894 (2018) Cor. 1 (03/2019)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,93 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1992-10
+  at: '1992-10-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '4'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Provide details of the transmission characteristics required of a link
+    which will be used for the exchange of signalling information in the common channel
+    Signalling System No. 6 format. Keywords- lining up;- setting up;- Signalling
+    System No. 6;- transfer link;- transmission characteristics.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Setting up and lining up a transfer link for common channel Signalling
+        System No. 6 (analogue version)
+    docidentifier:
+    - content: M.761 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Setting up and lining up a transfer link for common channel Signalling
+        System No. 6 (analogue version)
+    docidentifier:
+    - content: M.761 (10/1984)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Setting up and lining up a transfer link for common channel signalling
+        system No.6 (analogue version)
+    docidentifier:
+    - content: M.761 (11/1980)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,60 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2013-03
+  at: '2013-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Supplement 21 to ITU-T Y-series Recommendations describes requirements
+    for interworking between next generation networks (NGNs) and legacy IP-based networks.
+    It provides a general overview of interworking between NGNs and legacy IP-based
+    networks and describes requirements for NGN capabilities in order that they interwork
+    with legacy IP-based networks.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

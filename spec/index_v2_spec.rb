@@ -109,6 +109,42 @@ RSpec.describe "index-v2.yaml" do
       files = rows.map { |r| r[:file] }
       expect(files).not_to include("data/itu-r-bt-1543-1.yaml")
     end
+
+    it "points every row at a data file that exists" do
+      # A row whose file was deleted 404s for every consumer, which is worse than
+      # an unindexed file (that one is merely unreachable).
+      dangling = rows.map { |r| r[:file] }.uniq.reject { |f| File.exist?(File.join(ROOT, f)) }
+      expect(dangling).to be_empty, "index rows without a data file: #{dangling.first(3).inspect}"
+    end
+
+    it "indexes the (V##) and labelled-Annex ITU-T forms" do
+      # Both forms were harvested but unindexed until pubid #320 parsed them —
+      # ~260 records that existed on disk and were unreachable through the index.
+      files = rows.map { |r| r[:file] }
+      expect(files).to include("data/itu-t-h-264-v14-08-2021.yaml")
+      expect(files.grep(/-annex-/).size).to be > 100
+    end
+  end
+
+  describe "record depth" do
+    # The 2026-08-09 crawl published ITU-T records carrying only docid/title/
+    # date/source/doctype, because it ran against a relaton that predated the
+    # enriched DataParserT — and nothing here noticed. `place: Geneva` is set
+    # unconditionally by the enriched parser (outside its best-effort enrichment
+    # rescue), so it is the marker for "written by the enriched harvester";
+    # `contributor:` additionally requires the per-record detail fetch to have
+    # succeeded, so it is the marker for "enrichment was not throttled away".
+    let(:sample) { Dir["#{ROOT}/data/itu-t-*.yaml"].sample(200) }
+
+    it "publishes ITU-T records built by the enriched harvester" do
+      thin = sample.reject { |f| File.read(f, encoding: "UTF-8").include?("city: Geneva") }
+      expect(thin).to be_empty, "records missing the enriched fields: #{thin.first(3).inspect}"
+    end
+
+    it "keeps enrichment on the vast majority of ITU-T records" do
+      enriched = sample.count { |f| File.read(f, encoding: "UTF-8").include?("\ncontributor:") }
+      expect(enriched).to be >= (sample.size * 0.9)
+    end
   end
 
   describe "on-disk layout" do

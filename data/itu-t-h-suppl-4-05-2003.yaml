@@ -16,11 +16,145 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-05
+  at: '2003-05-30'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Supplement to the H-series lists generic parameters assigned in the
+    H.460.x series of Recommendations. Its purpose is to provide a quick reference
+    to those parameters. The Supplement will be regularly updated as new H.460.x Recommendations
+    appear.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Repository of generic parameters for ITU-T H.460.x sub-series Recommendations
+    docidentifier:
+    - content: H Suppl. 4 (06/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Repository of generic parameters for ITU-T H.460.x sub-series Recommendations
+    docidentifier:
+    - content: H Suppl. 4 (12/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Repository of generic parameters for ITU-T H.460.x sub-series Recommendations
+    docidentifier:
+    - content: H Suppl. 4 (07/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Repository of generic parameters for ITU-T Recommendations H.460.x
+        sub-series
+    docidentifier:
+    - content: H Suppl. 4 (07/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Repository of generic parameters for ITU-T Recommendations H.460.x
+        sub-series
+    docidentifier:
+    - content: H Suppl. 4 (04/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Repository of generic parameters for ITU-T Recommendations H.460.x
+        sub-series
+    docidentifier:
+    - content: H Suppl. 4 (08/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Repository of generic parameters for ITU-T Recommendations H.460.x
+        sub-series
+    docidentifier:
+    - content: H Suppl. 4 (11/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Repository of generic parameters for the ITU-T Recommendations H.460.x
+        sub-series
+    docidentifier:
+    - content: H Suppl. 4 (01/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

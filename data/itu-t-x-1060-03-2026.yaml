@@ -17,11 +17,82 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2026-03
+  at: '2026-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1060 defines cyber defence centre/cyber security
+    centre (CDC/CSC) as an entity that plays a central role in an organization to
+    address cybersecurity risks. The three processes of build, management and evaluation
+    that a CDC/CSC should practically implement are described as a framework. The
+    services that the organization should have in order to implement more specific
+    cybersecurity measures are also provided.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for the creation and operation of a cyber defence centre
+    docidentifier:
+    - content: X.1060 (06/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1060 – Supplement on high level implementation considerations
+    docidentifier:
+    - content: X Suppl. 44 (04/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

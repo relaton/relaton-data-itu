@@ -16,11 +16,66 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-10
+  at: '2022-10-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'To support an ITS in order to obtain a comprehensive and effective perception
+    data, this Supplement 20 to ITU-T H-series gives the practice references for roadside
+    sensing devices'' deployment in the ITS. The detection and analysis of traffic
+    elements based on roadside sensing devices is an important foundation for intelligent
+    transportation. Sensing devices used on the roadside to build an intelligent transport
+    system (ITS) generally include cameras, light detection and ranging (lidars),
+    millimetre wave radio detection and ranging (radars), etc. The requirements for
+    sensing devices, such as the deployment and the function characteristics will
+    affect the quality of data for intelligent transportation systems. Supplement
+    20 to ITU-T H-series Recommendations applies to ITU-T H.550-H.599 series: Vehicular
+    gateways and intelligent transportation systems (ITS).'
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

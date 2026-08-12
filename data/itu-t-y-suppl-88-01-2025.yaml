@@ -16,11 +16,68 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-01
+  at: '2025-01-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 20
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Cities are taking action and embracing cutting-edge solutions such as
+    artificial intelligence (AI), fifth generation (5G), digital twin, Internet of
+    Things (IoT) and the metaverse to digitize and automate city operations. Digital
+    technologies are at the forefront of creating smart sustainable cities that promote
+    efficiency, economic development and improved quality of life for inhabitants.
+    \r\nBlockchain is identified as one of the important cutting-edge (also referred
+    to as emerging technologies) digital technologies enabling city digital transformation.\r\nAs
+    the lead group of IoT and its applications, as well as the lead group of smart
+    cities and communities and related digital services, ITU-T SG20 has published
+    various normative and non-normative documents on blockchain integration with IoT.\r\nSupplement
+    88 to ITU-T Y-series Recommendations complements the ITU-T SG20 blockchain-related
+    documents and is expected to benefit further research and standardization on blockchain
+    integration with IoT.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

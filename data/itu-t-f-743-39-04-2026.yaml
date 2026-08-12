@@ -16,11 +16,137 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2026-04
+  at: '2026-04-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T F.743.39 specifies data matrix for multimedia services,
+    and provides relevant characteristics, reference framework, functional requirements
+    and use cases of data matrix for multimedia services, to promote multimedia services
+    as controllable, manageable, and efficient.\r\nMultimedia data is characterized
+    by its large volume, diverse types, and strong real-time requirements, which poses
+    higher demands on data storage, management, and processing. Traditional data management
+    solutions face numerous challenges when dealing with large-scale, multi-source,
+    and heterogeneous multimedia data, such as high storage and computing cost, complex
+    multimedia data structures, low unstructured data processing efficiency, and insufficient
+    data security and privacy protection.\r\nThe data matrix integrates massive heterogeneous
+    multimedia data and facilitates data and resource sharing. It is designed to establish
+    an efficient, trusted, secure, and manageable infrastructure for data sharing,
+    exchange and transactions between data providers (such as data producers and owners)
+    and data consumers (such as data users). The data matrix for multimedia services
+    offers significant advantages in managing multimedia data by providing multi-source
+    data integration, reliable stakeholder matching, efficient storage solutions,
+    and intelligent management tools. Therefore, it is important and valuable to identify
+    the requirements for data matrix for multimedia services, especially in the functional
+    aspects.\r\n\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
+    docidentifier:
+    - content: F Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terms and definitions for telex
+    docidentifier:
+    - content: F Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of Telecom Finance (Finance2.0)
+    docidentifier:
+    - content: F Suppl. 3 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of convergence of artificial intelligence and blockchain
+    docidentifier:
+    - content: F Suppl. 4 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
+    docidentifier:
+    - content: F Suppl. 5 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of ICT-enabled flying car service platform
+    docidentifier:
+    - content: F Suppl. 6 (07/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

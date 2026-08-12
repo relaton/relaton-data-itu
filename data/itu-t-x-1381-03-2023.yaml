@@ -16,11 +16,78 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2023-03
+  at: '2023-03-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1381 provides security guidelines for Ethernet-based
+    in-vehicle networks (IVNs). The current trend in electrical and electronic (E/E)
+    architecture is to integrate the Ethernet with legacy IVNs such as the controller
+    area network (CAN), local interconnect network (LIN), media-oriented systems transport
+    (MOST) and FlexRay. In the past, the Ethernet was considered only as a connection
+    between vehicles with external environments. Standard protocols that enable Internet
+    protocol-based connections over the Ethernet (e.g., diagnostic communication over
+    Internet protocol or universal measurement and calibration protocol) have been
+    used to enable communications between the external environment and vehicles. These
+    use cases generally do not need to meet stringent real-time constraints. However,
+    in-vehicle applications using Ethernet communication require characteristics that
+    include high time sensitivity and reliability.\r\nCurrent developments in in-vehicle
+    communication technologies require increased bandwidth in the network. Compared
+    to the Ethernet, legacy IVNs are insufficient to meet the bandwidth requirements
+    of current in-vehicle applications. Therefore, now and in the future, Ethernet-based
+    IVNs are a major part of E/E architecture.\r\nHowever, countermeasures known from
+    common computer networks cannot be suitable for an automotive application because
+    they were not designed with regard to automotive requirements and capabilities.\r\nTo
+    address this demand, this Recommendation provides security guidelines for automotive
+    Ethernet technology. This Recommendation includes a reference model of automotive
+    Ethernet and analysis of threat and vulnerability for Ethernet-based IVNs. In
+    addition, this Recommendation provides security requirements and use cases of
+    Ethernet-based IVNs.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

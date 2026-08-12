@@ -17,11 +17,135 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2013-10
+  at: '2013-10-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '4'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Objective: Recommendation ITU\x1ET Z.109 defines a unified modeling language
+    (UML) profile that maps to SDL\x1E2010 semantics so that UML is able to be used
+    in combination with the ITU\x1ET Specification and Description Language. Appendix
+    I includes an (informative) Example language specification for a concrete grammar
+    and its mapping to the UML profile.\r\nCoverage: This Recommendation presents
+    a definition of the UML\x1Eto\x1ESDL\x1E2010 mapping for use in the combination
+    of SDL\x1E2010 and UML.\r\nApplication: The main area of application of this Recommendation
+    is the specification of telecommunication systems. The combined use of SDL\x1E2010
+    and UML permits a coherent way to specify the structure and behaviour of telecommunication
+    systems, together with data. \r\nStatus/Stability: This Recommendation is the
+    complete reference manual describing the UML to SDL\x1E2010 mapping for use in
+    the combination of SDL\x1E2010 and UML. It replaces the previous Recommendation ITU\x1ET
+    Z.109 that concerned earlier versions of UML and Specification and Description
+    Language.\r\nAssociated work: Recommendations ITU\x1ET Z.100, ITU\x1ET Z.101,
+    ITU\x1ET Z.102, ITU\x1ET Z.103, ITU\x1ET Z.104 and ITU\x1ET Z.107 concerning the
+    ITU\x1ET Specification and Description Language 2010 (SDL\x1E2010)."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - Unified modeling language
+        profile for SDL-2010
+    docidentifier:
+    - content: Z.109 (10/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Appendix 1 - Concrete syntax
+    docidentifier:
+    - content: Z.109 (2012) Amd. 1 (11/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - Unified modeling language
+        profile for SDL-2010
+    docidentifier:
+    - content: Z.109 (04/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: SDL-2000 combined with UML
+    docidentifier:
+    - content: Z.109 (06/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: SDL combined with UML
+    docidentifier:
+    - content: Z.109 (11/1999)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,66 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-10
+  at: '2016-10-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement ITU-T L.Suppeco-rating outlines a baseline assessment framework
+    and defines a minimum set of criteria to be considered when assessing the environmental
+    performance of mobile phones.\r\n\r\nThis Supplement is designed to enable manufacturers
+    to assess mobile phones in order to demonstrate a minimum level of environmental
+    performance and also to achieve enhanced environmental performance.\r\n\r\n–          clause
+    7 lists the criteria to consider when seeking compliance to the minimum level
+    of environmental performance described in this Supplement;\r\n\r\n–          clause
+    8 addresses how products can achieve higher levels of environmental performance.\r\n\r\nThis
+    Supplement does not promote any form of labelling and the methods by which ratings
+    are displayed to consumers remain at the discretion of manufacturer or the sales
+    entity.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

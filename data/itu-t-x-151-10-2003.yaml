@@ -16,11 +16,76 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-10
+  at: '2003-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines the basic Frame Relay Operations and Maintenance
+    Principles and Functions. The quality of Frame Relay services can be tested, measured
+    and diagnosed using OAM frames. FR OAM frames can be used to measure the primary
+    performance parameters of frame relay networks. OAM frames provide the ability
+    to do in-service monitoring on both SVC and PVC connections.This Recommendation
+    includes a network reference model, an overview of the OAM frame structure, and
+    OAM measurement procedures. The contents of this Recommendation are based on the
+    reference model, the OAM protocol formats, the OAM procedures and descriptions
+    of message flows as defined in FRF.19 - Frame Relay Operations, Administration,
+    and Maintenance Implementation Agreement. Additionally procedures for measurement
+    of frame delay jitter, frame loss ratio and use of loopback for fault detection
+    are defined.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.151 (2003) Err. 1 (03/2004)
+    docidentifier:
+    - content: X.151 (2003) Err. 1 (03/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

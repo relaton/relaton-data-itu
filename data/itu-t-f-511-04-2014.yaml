@@ -16,11 +16,135 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2014-04
+  at: '2014-04-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T F.511 provides guidance for the use of directory
+    services to support tag\x1Ebased identification applications by reference to the
+    directory capabilities specified in the ITU\x1ET X.500 series of Recommendations
+    | ISO/IEC 9594 (all parts), and in the lightweight directory access protocol (LDAP)
+    specifications as developed within Internet Engineering Task Force (IETF). A tag
+    is also called an automatic identification and data capture (AIDC) media. It holds
+    an identifier that identifies the item to which the AIDC media is affixed or associated.
+    The directory may be used to store information associated with the AIDC media.\r\nThis
+    Recommendation identifies two cases: one case is where the identifier is used
+    as a whole to access a centralized directory, and the other case is where the
+    structure of the identifier is explored to access distributed directory systems,
+    when it is not feasible for a specific environment to hold all relevant information
+    in a single directory. In the latter situation the top-level information could
+    be held by some types of independent service providers, while the company and/or
+    item-related information may be held by the information owner.\r\nThe primary
+    focus is on radio frequency identification (RFID) tags as specified in the GS1
+    EPCglobal specifications and in ISO and ISO/IEC International Standards."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
+    docidentifier:
+    - content: F Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Terms and definitions for telex
+    docidentifier:
+    - content: F Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of Telecom Finance (Finance2.0)
+    docidentifier:
+    - content: F Suppl. 3 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of convergence of artificial intelligence and blockchain
+    docidentifier:
+    - content: F Suppl. 4 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
+    docidentifier:
+    - content: F Suppl. 5 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of ICT-enabled flying car service platform
+    docidentifier:
+    - content: F Suppl. 6 (07/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

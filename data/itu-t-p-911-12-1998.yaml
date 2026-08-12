@@ -16,11 +16,76 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1998-12
+  at: '1998-12-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation describes non-interactive subjective assessment methods
+    for evaluating the one-way overall audiovisual quality for multimedia applications
+    such as videoconferencing, storage and retrieval applications, telemedical applications,
+    etc. These methods can be used for several different purposes including, but not
+    limited to, selection of algorithms, ranking of audiovisual system performance
+    and evaluation of the quality level during an audiovisual connection. When interactive
+    aspects are to be assessed, conversation test methods described in Recommendation
+    P.920 should be used. This Recommendation also outlines the characteristics of
+    the source sequences to be used, like duration, kind of content, number of sequences,
+    etc. Finally it provides indications about relation between audio, video and audiovisual
+    quality, as they were derived from results of tests carried out independently
+    in different laboratories.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: P.911 (1998) Cor. 1 (09/1999)
+    docidentifier:
+    - content: P.911 (1998) Cor. 1 (09/1999)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

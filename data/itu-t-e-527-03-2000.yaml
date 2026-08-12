@@ -17,11 +17,84 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2000-03
+  at: '2000-03-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation deals with dimensioning methods for a set of circuit
+    groups handling multi-slot bearer services which consist of first-choice groups
+    and an overflow group to which overflow traffic from the first-choice groups are
+    offered. For this purpose, this Recommendation provides example methods for calculating
+    peakedness of the overflow traffic and example methods for calculating individual
+    call blocking probabilities of the overflow group.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Dimensioning at a circuit group with multi-slot bearer services and
+        overflow traffic
+    docidentifier:
+    - content: E.527 (04/1995)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,78 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2014-02
+  at: '2014-02-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Supplement 49 to the Q series of ITU-T Recommendations consists of a technical
+    report that specifies the signalling requirements to support IP telephony. IP
+    telephony is defined as a service enabling the exchange of voice information primarily
+    in the form of packets using Internet protocols (IP), while Internet telephony
+    is defined as a particular application of the Internet, such that Internet telephony
+    falls outside the scope of this Supplement. Network configurations are classified
+    into four types (phone-to-phone, IP phone-to-phone, phone-to-IP phone and IP phone-to-IP phone)
+    and the characteristics of each configuration are described using a general example.
+    The network capabilities needed to support IP telephony and interworking with
+    legacy telephone networks are identified in this Supplement. Finally, the signalling
+    requirements and control protocols needed to support IP telephony services in
+    public networks are identified.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Technical Report TRQ.2840: Signalling requirements to support IP telephony'
+    docidentifier:
+    - content: Q Suppl. 49 (03/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

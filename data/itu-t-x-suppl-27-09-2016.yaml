@@ -17,11 +17,70 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-09
+  at: '2016-09-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "To create value, the information should be governed within the organization
+    so as to have a strategic alignment between the objectives of information security
+    and those of the organization. Governance and management of information security
+    should be conducted in complete synergy. The management should be responsible
+    for the operation of information and reporting (idea of responsibility) to the
+    governing body.\r\n\r\nTo achieve this, the organization can use standards, recommendations
+    and other frameworks whose implementation will encourage its success.\r\n\r\nIt
+    is in this spirit that the Recommendation ITU-T X.1054 | ISO /IEC 27014 is implemented
+    to the governance of information security of e-Council of Ministers in Burkina
+    Faso.\r\n\r\nThis approach aims to be a case of best practice in the implementation
+    of Recommendation ITU-T X.1054 | ISO /IEC 27014. Here it is used as part of a
+    unifying project gathering all members of the Government of Burkina Faso (Presidency,
+    Prime Ministry, General Secretariat of Government and the Council of Ministers,
+    all ministries). However, this recommendation could be applied to any type of
+    organization.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

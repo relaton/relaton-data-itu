@@ -17,11 +17,72 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2016-10
+  at: '2016-10-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 34 to ITU-T L-series Recommendations presents three case studies
+    of the life cycle assessment (LCA) of the second order effects of some selected
+    information and communication technology (ICT) services running upon three different
+    primary subscription services: the 4th Generation Long Term Evolution (4G LTE)
+    service, the 3rd Generation Wideband Code Division Multiple Access (3G W CDMA)
+    service, and an optical fixed Internet protocol (IP) network (broadband NW), all
+    provided by Nippon Telegraph and Telephone Corporation (NTT) groups in Japan.
+    \r\nThe goal of these case studies is to clarify the second order effects per
+    private subscriber of the ICT services in compliance with ITU-T L.1410 for the
+    assessed ICT services. The second order effects of each target scenario, e.g.,
+    e-mail, video/music on demand and games, provided by each ICT service are evaluated
+    by comparative analyses between each target scenario and corresponding reference
+    scenarios, which are defined as a private subscriber's behaviour when not using
+    an ICT service. Both scenarios are defined in a questionnaire investigation given
+    to users. The total second order effects per subscriber for each ICT service are
+    obtained by aggregating the results of these comparative analyses based on hybrid
+    LCA.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

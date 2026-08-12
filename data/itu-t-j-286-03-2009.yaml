@@ -17,11 +17,204 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2009-03
+  at: '2009-03-22'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: For distribution of video content encoded in the multiple types of compression
+    methods, bitstream domain splicing between these heterogeneous bitstreams are
+    necessary to avoid picture quality degradation and latency caused by transcoding.Recommendation
+    ITU-T J.286 defines a messaging format and constraints on bitstreams to achieve
+    seamless splicing of heterogeneous bitstreams that conform to Recommendation ITU-T
+    H.262 | ISO/IEC 13818-2 (also known as "MPEG-2 video") or Recommendation ITU-T
+    H.264 | ISO/IEC14496-10 (also known as "MPEG-4 AVC"). The messaging format is
+    defined as an extension of Recommendation ITU-T J.181, which is intended to enable
+    the splicing device with relevant information of the bitstreams to be spliced.
+    If the splicing device is aware of the video coding types of the subsequent bitstream
+    in advance of the splicing event, it would be able to take more appropriate action
+    for splicing of the different types of bitstreams. This Recommendation thus provides
+    a mechanism to notify the type of the bitstream to be switched over. In addition,
+    constraints on the bitstreams are also defined based on Recommendation ITU-T J.189
+    to facilitate seamless playback between MPEG-2 video and ITU-T H.264 by the decoder
+    that satisfies requirements for seamless splicing of heterogeneous bitstreams.For
+    seamless splicing, such constraints can apply at the encoder when it compresses
+    an input video or at the splicing device by making modifications on input bitstreams.
+    The decoder is required to be capable of seamless decoding and playback of concatenated
+    bitstreams conforming to the constraints defined by this Recommendation. This
+    means that a conventional dual-mode decoder requiring firmware reloading and resetting
+    to change the mode might not be functional. How to apply the constraints at the
+    encoder or at the splicing device, how to upgrade the existing ITU-T J.181 splicing
+    devices to ITU-T J.286 ones, and how to develop the decoder for this system is
+    design dependent, and outside the scope of this Recommendation.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Example of linking options between annexes of ITU-T Recommendation
+        J.112 and annexes of ITU-T Recommendation J.83
+    docidentifier:
+    - content: J Suppl. 1 (11/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for the implementation of annex A of Recommendation J.112,
+        "Transmission systems for interactive cable television services" – Example
+        of digital video broadcasting (DVB) interaction channel for cable television
+        distribution
+    docidentifier:
+    - content: J Suppl. 2 (11/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for the implementation of Recommendation J.111 "Network
+        independent protocols" – Example of digital video broadcasting (DVB) systems
+        for interactive services
+    docidentifier:
+    - content: J Suppl. 3 (11/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines on the use of some ITU-T Recommendations in the J series
+    docidentifier:
+    - content: J Suppl. 5 (09/1999)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Ultra high definition television cable transmission with functions
+        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+    docidentifier:
+    - content: J Suppl. 6 (09/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
+        Guidelines for the implementation of ECI
+    docidentifier:
+    - content: J Suppl. 7 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
+        Trust environment
+    docidentifier:
+    - content: J Suppl. 8 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Embedded common interface for exchangeable CA/DRM solutions; System
+        validation
+    docidentifier:
+    - content: J Suppl. 9 (04/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
+        Recommendations
+    docidentifier:
+    - content: J Suppl. 10 (09/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for installing a digital television service for cable networks
+        based on ITU-T Recommendations
+    docidentifier:
+    - content: J Suppl. 11 (10/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Use cases of microservices architecture for audiovisual media in the
+        converged media cloud
+    docidentifier:
+    - content: J Suppl. 14 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

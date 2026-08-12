@@ -17,11 +17,271 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-01
+  at: '2025-01-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 20
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T Y.4234/F.742.3 includes a concept of e-learning in
+    remote classrooms, i.e. places where information and communication technology
+    (ICT) infrastructure and e-learning facilities, such as digital connectivity,
+    computers, computer applications, virtual collaboration, online and digital educational
+    catalogues, are made available for learners to educate themselves. \r\nThere is
+    a wide and rising disparity in access to quality education between remote and
+    rural areas in most countries when compared to their urban counterparts. Various
+    international organizations (e.g. the United Nations (UN) and the International
+    Telecommunication Union (ITU)) and national bodies (such as ministries) worldwide
+    have acknowledged the need for urgent and concerted efforts towards the fulfilment
+    of the promise of universalization of education.\r\nIt is also very clear that
+    the future of education is digital and immersive, and that the delivery of future
+    education will be heavily dependent on access to appropriate (ICT) infrastructure
+    and connectivity.\r\nAt the same time, there is a dire shortage of trained teaching
+    staff, in both developed and developing countries, and the situation is much worse
+    in the remote and underserved areas. In most of these places, there are very few
+    teachers, only some of whom are capable of keeping pace with the demands of fast-evolving
+    educational curriculums. In addition to education and learning, these remote areas
+    are disadvantaged by a lack of access to other facilities, such as health and
+    vocational capability development. New standards are required that bridge the
+    digital divide and mitigate the growing disparity, by ensuring that more and more
+    online services are delivered equitably to the remote and underserved areas.\r\nThis
+    Recommendation describes the challenges and considerations for providing digital
+    education to remote schools, and develops requirements, capabilities and deployment
+    models to impart high quality e-learning services in remote classrooms in rural
+    and remote areas.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+    docidentifier:
+    - content: Y Suppl. 32 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Smart sustainable cities - Master plan
+    docidentifier:
+    - content: Y Suppl. 33 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Smart sustainable cities - Setting the stage
+        for stakeholders' engagement
+    docidentifier:
+    - content: Y Suppl. 34 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series - An overview of smart cities and communities and
+        the role of information and communication technologies
+    docidentifier:
+    - content: Y Suppl. 45 (09/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Methodology for building digital capabilities during enterprises' digital
+        transformation
+    docidentifier:
+    - content: Y Suppl. 52 (12/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series – Internet of Things use cases
+    docidentifier:
+    - content: Y Suppl. 53 (12/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
+        of IoT systems
+    docidentifier:
+    - content: Y Suppl. 54 (04/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y-series – Supplement on use cases of smart cities and communities
+    docidentifier:
+    - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview of blockchain for supporting Internet of things and smart
+        cities and communities in data processing and management aspects
+    docidentifier:
+    - content: Y Suppl. 62 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Unlocking Internet of things with artificial intelligence
+    docidentifier:
+    - content: Y Suppl. 63 (07/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for Internet of things ecosystem master plan
+    docidentifier:
+    - content: Y Suppl. 68 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
+    docidentifier:
+    - content: Y Suppl. 69 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+    docidentifier:
+    - content: Y Suppl. 76 (09/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
+    docidentifier:
+    - content: Y Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
+    docidentifier:
+    - content: Y Suppl. 83 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
+        aquaculture
+    docidentifier:
+    - content: Y Suppl. 85 (01/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Machine learning standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 96 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Glossary of terms and definitions for machine learning
+    docidentifier:
+    - content: Y Suppl. 97 (11/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

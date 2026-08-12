@@ -16,11 +16,320 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2009-01
+  at: '2009-01-23'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T Y.2720 provides a framework for identity management
+    (IdM) in next generation networks (NGN). The primary purpose of this framework
+    is to describe a structured approach for designing, defining, and implementing
+    IdM solutions and for facilitating interoperability in a heterogeneous environment.The
+    management of entity identity information (e.g., identifiers, credentials and
+    attributes) is not new. However, as we move towards a converged network environment
+    where services are based on contexts and roles and may be accessed anywhere, and
+    anytime, the assurance, security and management of identity information becomes
+    more complex. Additionally, there may be different and independent solutions resulting
+    in the need for interoperability. Therefore, new, enhanced, automated, and interoperable
+    capabilities are needed for the following reasons:\r• end users are increasingly
+    using multiple identities;\r• these identities may be associated with different
+    contexts and service privileges;\r• the identities may only partially identify
+    the end user;\r• the identities may be used anywhere and at anytime; and\r• the
+    identities may not be interoperable between providers.IdM addresses this situation,
+    and is a set of functions and capabilities (e.g., administration, management and
+    maintenance, discovery, communication exchanges, correlation and binding, policy
+    enforcement, authentication and assertions) used for:\r• assurance of identity
+    information (e.g., identifiers, credentials, attributes);\r• assurance of the
+    identity of an entity (e.g., users/subscribers, groups, user devices, organizations,
+    network and service providers, network elements and objects, and virtual objects);
+    and \r• enabling business and security applications. This framework is intended
+    to be used as a foundation to develop and specify specific aspects of IdM, such
+    as detailed requirements, mechanisms and procedures, as needed. It also provides
+    a clear and coherent overview of the totality of IdM in NGNs. The framework provided
+    in this Recommendation is intended for NGN (i.e., managed packet networks) as
+    defined in Recommendation ITU-T Y.2001, General overview of NGN. However, it could
+    be applied as appropriate to other types of networks (e.g., corporate and enterprise
+    networks).NOTE - The use of the term \"Identity\" in this Recommendation relating
+    to IdM does not indicate its absolute meaning. In particular, it does not constitute
+    any positive validation of a person."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000 series – Supplement on NGN release 1 scope
+    docidentifier:
+    - content: Y Suppl. 1 (07/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000 series – Supplement on service scenarios for convergence
+        services in a multiple network and application service provider environment
+    docidentifier:
+    - content: Y Suppl. 3 (01/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in
+        next generation networks
+    docidentifier:
+    - content: Y Suppl. 6 (09/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on NGN release 2 scope
+    docidentifier:
+    - content: Y Suppl. 7 (09/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and
+        consortia
+    docidentifier:
+    - content: Y Suppl. 8 (01/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on multi-connection scenarios
+    docidentifier:
+    - content: Y Suppl. 9 (01/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplement on distributed service network (DSN)
+        use cases
+    docidentifier:
+    - content: Y Suppl. 10 (01/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2720 – Supplement on NGN identity management mechanisms
+    docidentifier:
+    - content: Y Suppl. 12 (04/2010)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series - Supplement on scenarios for the evolution of
+        NGN network capabilities to include information storage, processing and delivery
+    docidentifier:
+    - content: Y Suppl. 13 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile
+        convergence
+    docidentifier:
+    - content: Y Suppl. 14 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Profile-based application adaptation service
+        using next generation networks
+    docidentifier:
+    - content: Y Suppl. 15 (10/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2700-series - Supplement on next generation network certificate
+        management
+    docidentifier:
+    - content: Y Suppl. 18 (06/2012)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series - Supplement on N-screen service scenarios for
+        fixed mobile convergence
+    docidentifier:
+    - content: Y Suppl. 24 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.2000-series – Device independent screen-free service models
+        and scenarios
+    docidentifier:
+    - content: Y Suppl. 51 (11/2018)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y-series – Supplement on use cases of smart cities and communities
+    docidentifier:
+    - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for Internet of things ecosystem master plan
+    docidentifier:
+    - content: Y Suppl. 68 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
+    docidentifier:
+    - content: Y Suppl. 69 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
+    docidentifier:
+    - content: Y Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
+    docidentifier:
+    - content: Y Suppl. 83 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Service model of risk mitigation on livestock pandemic based on networks
+    docidentifier:
+    - content: Y Suppl. 91 (07/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Machine learning standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 96 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Glossary of terms and definitions for machine learning
+    docidentifier:
+    - content: Y Suppl. 97 (11/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

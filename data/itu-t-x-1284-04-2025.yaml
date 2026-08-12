@@ -17,11 +17,62 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-04
+  at: '2025-04-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1284 presents an authentication framework based
+    on one-time authentication key (AFOTAK) using distributed ledger technology (DLT).
+    This Recommendation:\r\n•defines the one-time authentication key-based authentication
+    framework and its authentication procedures;\r\n•specifies security requirements
+    for the one-time authentication key-based authentication framework; \r\n•describes
+    how the one-time authentication key is generated and verified; \r\n•identifies
+    security threats, and \r\n•specifies security controls.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,61 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1996-10
+  at: '1996-10-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides the profiles of the common upper layer facilities
+    necessary to support basic connection-oriented communications applications. These
+    common elements are specified by reference to the OSI connection-mode Recommendations
+    for the ACSE protocol, the Presentation layer protocol and the Session layer protocol.This
+    is one of a series of Recommendations to support the minimal OSI functions in
+    the upper layers. It is technically aligned with ISO/IEC ISP 11188-1.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

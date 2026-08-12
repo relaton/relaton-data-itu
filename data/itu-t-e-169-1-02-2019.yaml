@@ -17,11 +17,120 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2019-02
+  at: '2019-02-28'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '4'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T E.169.1 details the application of the ITU-T E.164
+    Numbering Plan for the Universal International Freephone Numbers (UIFN) in the
+    provisioning of International Freephone Service (IFS) as defined in Recommendation
+    ITU-T E.152. It has been amended and refined in the light of experience gained
+    by service providers and the UIFN Registrar since the inauguration of the UIFN
+    in early 1997.\r\nThis Recommendation was previously numbered ITU-T E.169. It
+    has been renumbered as ITU-T E.169.1, and forms part of the ITU-T 169.x-series
+    Recommendations describing the numbering plans and assignment procedures for various
+    international services.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application of Recommendation E.164 numbering plan for universal international
+        freephone numbers for international freephone service
+    docidentifier:
+    - content: E.169.1 (09/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application of Recommendation E.164 numbering plan for universal international
+        freephone numbers for international freephone service
+    docidentifier:
+    - content: E.169 (11/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application of Recommendation E.164 numbering plan for universal international
+        freephone numbers for international freephone service
+    docidentifier:
+    - content: E.169 (02/1996)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T E.100 series – Framework of disaster management for disaster
+        relief system
+    docidentifier:
+    - content: E-100 series Suppl. 1 (02/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

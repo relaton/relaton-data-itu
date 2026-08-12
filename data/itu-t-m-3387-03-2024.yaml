@@ -16,11 +16,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2024-03
+  at: '2024-03-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T M.3387 is applicable to the architecture design,
+    research, and development of federated machine learning models (FMLMs). Data privacy
+    and information security pose significant challenges to the big data and artificial
+    intelligence (AI) community as these communities are increasingly under pressure
+    to adhere to regulatory requirements. Many routine operations in big data systems
+    and applications, such as merging user data from various sources to build a machine
+    learning model is considered to be illegal under the current regulatory frameworks.
+    \r\nThe purpose of the federated machine learning (FML) is to provide a viable
+    solution that empowers machine learning applications to utilize data in a distributed
+    manner. In an FML framework, the data owners do not exchange raw data directly
+    and do not allow any party to infer the private information of other parties.
+    In order to facilitate the construction and use of FMLMs and improve the quality
+    of the FML service, Recommendation ITU-T M.3387 specifies the management requirements
+    for the federated machine learning systems (FMLSs), including the functional architecture
+    of FMLSs, as well as the requirements of the basic management domain, model management
+    domain, and data management domain. \r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

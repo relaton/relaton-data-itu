@@ -17,11 +17,158 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2020-05
+  at: '2020-05-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "End-user equipment, consumer premise equipment and its software have evolved
+    to become faster, more powerful and able to perform data collection. This has
+    enabled the crowdsourcing approach which seeks to increase the amount of technical
+    parameters which can be collected from end-users without modification to existing
+    hardware and software.\r\nIncreasingly, players such as regulators and service
+    providers have started to assess end-to-end quality of service (QoS) through a
+    crowdsourcing approach. However, assessment using data collected through the crowdsourcing
+    approach can be deployed in multiple ways and different approaches provide different
+    views of QoS.\r\nRecommendation ITU-T E.812 outlines the different crowdsourcing
+    approaches used to assess end-to-end QoS on both fixed and mobile broadband networks."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: E.812 (2020) Amd. 1 (09/2020)
+    docidentifier:
+    - content: E.812 (2020) Amd. 1 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for inter-provider quality of service
+    docidentifier:
+    - content: E-800 series Suppl. 8 (11/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Table of the Erlang formula
+    docidentifier:
+    - content: E-800 series Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Curves showing the relation between the traffic offered and the number
+        of circuits required
+    docidentifier:
+    - content: E-800 series Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Teletraffic implications for international switching and operational
+        procedures resulting from a failure of a transmission facility
+    docidentifier:
+    - content: E-800 series Suppl. 5 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide for evaluating and implementing alternate routing networks
+    docidentifier:
+    - content: E-800 series Suppl. 7 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines on regulatory aspects of quality of service
+    docidentifier:
+    - content: E-800 series Suppl. 9 (10/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T E.800 series – QoS/QoE framework for the transition from network
+        oriented to service oriented operations
+    docidentifier:
+    - content: E-800 series Suppl. 10 (01/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

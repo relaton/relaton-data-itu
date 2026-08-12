@@ -16,11 +16,94 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-12
+  at: '2025-12-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The goal of mobile terminal integrity protection is to ensure that a mobile
+    terminal behaves in an expected manner. That means, hardware, firmware and software
+    (e.g., operating system, pre-installed apps) on the mobile terminal have not been
+    compromised by any means or in any way. If an attacker compromises firmware or
+    software, or modifies the configuration of hardware (e.g., ROM, retention cells),
+    or changes the hardware (e.g., flash memory), the attacker could control or subvert
+    functionality of the mobile terminal.\r\nWhen a mobile terminal switches on, it
+    begins with a boot phase to verify hardware components and load one or more software
+    modules. After that, the mobile terminal enters a runtime phase and reaches an
+    operational state, in which the mobile terminal is ready for its intended purpose.
+    To fix the vulnerabilities and weaknesses of firmware/software (FW/SW), the mobile
+    terminal needs to be updated from time to time. This is called FW/SW update phase.
+    Each of these phases is an opportunity for an attacker to introduce security threats
+    to the integrity of mobile terminal.\r\nRecommendation ITU-T X.1129 analyses security
+    threats to mobile terminal during the boot phase, runtime phase and FW/SW update
+    phase, and defines security requirements and provides security guidelines for
+    mobile terminal integrity protection.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1120-X.1139 series – Supplement on security aspects of smartphones
+    docidentifier:
+    - content: X Suppl. 19 (04/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T X.1120-X.1139 series - Supplement on a secure application distribution
+        framework for communication devices
+    docidentifier:
+    - content: X Suppl. 24 (09/2014)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

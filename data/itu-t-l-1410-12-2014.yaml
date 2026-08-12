@@ -17,11 +17,369 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2014-12
+  at: '2014-12-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T L.1410 deals with environmental life cycle assessments
+    (LCAs) of information and communication technology (ICT) goods, networks and services.
+    It is organized in two parts:\r\n•\tPart I: ICT life cycle assessment: framework
+    and guidance\r\n•\tPart II: \"Comparative analysis between ICT and reference product
+    system (Baseline scenario); framework and guidance\".\r\nPart I deals with the
+    life cycle assessment (LCA) methodology applied to ICT goods, networks and services.
+    Part II deals with comparative analysis based on LCA results of an ICT goods,
+    networks and services product system, and a reference product system."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Methodology for environmental life cycle assessments of information
+        and communication technology goods, networks and services
+    docidentifier:
+    - content: L.1410 (11/2024)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Methodology for the assessment of the environmental impact of information
+        and communication technology goods, networks and services
+    docidentifier:
+    - content: L.1410 (03/2012)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T L.1410 – Case studies
+    docidentifier:
+    - content: L Suppl. 2 (12/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for developing a sustainable e-waste management system
+    docidentifier:
+    - content: L Suppl. 4 (04/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Life-cycle management of ICT goods
+    docidentifier:
+    - content: L Suppl. 5 (12/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T L.1410 - Case study: A hybrid approach-based comparative analysis
+        of the environmental impact of a baseline data centre and an energy-efficient
+        data centre  '
+    docidentifier:
+    - content: L Suppl. 13 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Green public ICT procurement '
+    docidentifier:
+    - content: L Suppl. 20 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Implementation guidance for small- and medium-sized enterprises on
+        information and communication technology supply chain due diligence concerning
+        conflict minerals
+    docidentifier:
+    - content: L Suppl. 21 (04/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T L.1410 - Case study: The assessment of greenhouse gas emissions
+        of a hybrid satellite broadband system over its life cycle'
+    docidentifier:
+    - content: L Suppl. 26 (04/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement on success stories on e-waste management
+    docidentifier:
+    - content: L Suppl. 27 (10/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Circular economy in information and communication technology; definition
+        of approaches, concepts and metrics
+    docidentifier:
+    - content: L Suppl. 28 (10/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement for eco-specifications and rating criteria for mobile phones
+        eco-rating programmes
+    docidentifier:
+    - content: L Suppl. 32 (10/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Assessment of energy consumption of information and communication technology
+        services
+    docidentifier:
+    - content: L Suppl. 33 (10/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Example of hybrid lice cycle assessment of the aggregated second order
+        effects of selected information and communication technology services '
+    docidentifier:
+    - content: L Suppl. 34 (10/2016)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Requirements on energy efficiency measurement models and the role of
+        artificial intelligence and big data
+    docidentifier:
+    - content: L Suppl. 41 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines on the environmental efficiency of machine learning processes
+        in supply chain management
+    docidentifier:
+    - content: L Suppl. 42 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Smart energy saving of 5G base stations: Traffic forecasting and strategy
+        optimization of 5G wireless network energy consumption based on artificial
+        intelligence and other emerging technologies'
+    docidentifier:
+    - content: L Suppl. 43 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Definitions and recent trends in circular cities
+    docidentifier:
+    - content: L Suppl. 46 (12/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Examples of resource saving within the information and communication
+        technology sector
+    docidentifier:
+    - content: L Suppl. 47 (07/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Overview on adaptation to climate change for information and communication
+        technology networks
+    docidentifier:
+    - content: L Suppl. 49 (07/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Computer processing, data management and energy perspective
+    docidentifier:
+    - content: L Suppl. 52 (10/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines on the implementation of environmental efficiency criteria
+        for artificial intelligence and other emerging technologies
+    docidentifier:
+    - content: L Suppl. 53 (10/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidance for assessing the greenhouse gas emissions consequences of
+        the financial effects generated by information and communication technology
+    docidentifier:
+    - content: L Suppl. 54 (10/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Environmental efficiency and impacts on United Nations Sustainable
+        Development Goals of data centres and cloud computing
+    docidentifier:
+    - content: L Suppl. 55 (10/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for connecting cities and communities with the Sustainable
+        Development Goals
+    docidentifier:
+    - content: L Suppl. 56 (10/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T L.1410 – Example of a life cycle assessment (LCA) of a mobile
+        phone
+    docidentifier:
+    - content: L Suppl. 60 (06/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T L.1331 - Supplement on study of multi-dimensional network energy
+        efficiency metrics
+    docidentifier:
+    - content: L Suppl. 62 (06/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T L.1060 – Supplement on specific principles for the green supply
+        chain management of information and communication technology manufacturing
+        industry
+    docidentifier:
+    - content: L Suppl. 63 (06/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

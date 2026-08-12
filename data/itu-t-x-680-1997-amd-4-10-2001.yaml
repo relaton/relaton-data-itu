@@ -14,13 +14,375 @@ docidentifier:
 - content: ITU-T X.680 (1997) Amd. 4 (10/2001)
   type: ITU
   primary: true
+- content: ISO/IEC 8824-1
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2001-10
+  at: '2001-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2.8'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'This Amendment to ITU-T Rec. X.680 (1997) | ISO/IEC 8824-1:1998 introduces
+    a notation that allows a version number to be specified when defining extensible
+    types. This makes it possible to clearly identify which version of an ASN.1 specification
+    an extension addition applies to. NOTE: All new or changed text in this document
+    is highlighted in yellow in clauses/subclauses being replaced or modified. When
+    merging all such text into the base document the highlighting is to be removed.Add
+    at the bottom of clause 2.1 a reference to ITU-T Rec. X.692 | ISO/IEC 8825-3 as
+    follows:- ITU-T Recommendation X.692 (2001) | ISO/IEC 8825-3:2001, Information
+    technology - ASN.1 encoding rules: Specification of Encoding Control Notation
+    (ECN). Replace the definitions 3.8.26, 3.8.29, 3.8.74, add the new sub-clause
+    3.8.75, and renumber the currently existing 3.8.75 to 3.8.76 so that they read
+    as follows below:3.8.26 extension addition group: One or more components of a
+    set, sequence or choice type grouped within version brackets. An extension addition
+    group is used to clearly identify the components of a set, sequence or choice
+    type that were added in a particular version of an ASN.1 module, and can identify
+    that version with a simple integer. 3.8.29 extension insertion point (or insertion
+    point): The location within a type definition where extension additions are inserted.
+    This location is the end of the type notation of the immediately preceding type
+    in the extension series if there is a single ellipsis in the type definition,
+    or immediately before the second ellipsis if there is an extension marker pair
+    in the definition of the type.NOTE - There can be at most one insertion point
+    within the components of any choice, sequence, or set type.3.8.74 version brackets:
+    A pair of adjacent left and right brackets ([[ and ]]) used to delineate the start
+    and end of an extension addition group. The pair of left brackets can optionally
+    be followed by a number giving a version number for the extension addition group.
+    3.8.75 version number: A number which can be associated with a version bracket
+    (see F.3). NOTE - A version number cannot be added to an extension addition which
+    is not part of an extension addition group, nor to extension additions to any
+    type other than choice, sequence, or set.3.8.76 white-space: Any formatting action
+    that yields a space on a printed page, such as the SPACE or TAB character, or
+    multiple uses of such characters.  Add to clause 4 immediately after the abbreviation
+    "DNIC" the following new abbreviation:ECN Encoding Control NotationAdd to clause
+    7 immediately before 7.1 the following note:NOTE - These requirements apply to
+    standardized encoding rules. They do not apply to encoding rules defined using
+    Encoding Control Notation (ECN).  Change the note in 7.3 so that it reads as follows:NOTE
+    1 - All variants of the Basic Encoding Rules of ASN.1 and the Packed Encoding
+    Rules of ASN.1 satisfy all these requirements. Encoding rules defined using ECN
+    do not necessarily satisfy all these requirements, but may do so.NOTE 2 - PER
+    and BER do not identify the version number in the encoding of an extension addition.
+    Encodings specified using ECN may or may not provide such identification. Change
+    the "ExtensionAdditionGroup" production in 24.1, and add a production for "VersionNumber"
+    so that they read as follows:'
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (02/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Relaxing IMPORTS clause to allow importation of definitions from new
+        versions of a given module
+    docidentifier:
+    - content: X.680 (2015) Amd. 1 (05/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2015) Cor. 3 (05/2018)
+    docidentifier:
+    - content: X.680 (2015) Cor. 3 (05/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2015) Cor. 2 (10/2017)
+    docidentifier:
+    - content: X.680 (2015) Cor. 2 (10/2017)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2015) Cor. 1 (05/2017)
+    docidentifier:
+    - content: X.680 (2015) Cor. 1 (05/2017)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (08/2015)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2008) Cor. 2 (03/2014)
+    docidentifier:
+    - content: X.680 (2008) Cor. 2 (03/2014)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2008) Cor. 1 (10/2011)
+    docidentifier:
+    - content: X.680 (2008) Cor. 1 (10/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: PER encoding instructions
+    docidentifier:
+    - content: X.680 (2002) Amd. 4 (05/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Time type support
+    docidentifier:
+    - content: X.680 (2002) Amd. 3 (06/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (2002) Technical Cor. 1 (05/2005)
+    docidentifier:
+    - content: X.680 (2002) Technical Cor. 1 (05/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Alignment with changes made to ITU-T Rec. X.660 | ISO/IEC 9834-1 for
+        identifiers in object identifier value notation
+    docidentifier:
+    - content: X.680 (2002) Amd. 2 (08/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Support for EXTENDED-XER
+    docidentifier:
+    - content: X.680 (2002) Amd. 1 (10/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (07/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: XML value notation
+    docidentifier:
+    - content: X.680 (1997) Amd. 3 (10/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1997) Technical Cor. 4 (03/2001)
+    docidentifier:
+    - content: X.680 (1997) Technical Cor. 4 (03/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1997) Technical Cor. 3 (02/2001)
+    docidentifier:
+    - content: X.680 (1997) Technical Cor. 3 (02/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1997) Technical Cor. 2 (03/2000)
+    docidentifier:
+    - content: X.680 (1997) Technical Cor. 2 (03/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ASN.1 Semantic model
+    docidentifier:
+    - content: X.680 (1997) Amd. 2 (06/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Relative object identifiers
+    docidentifier:
+    - content: X.680 (1997) Amd. 1 (06/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1997) Technical Cor. 1 (06/1999)
+    docidentifier:
+    - content: X.680 (1997) Technical Cor. 1 (06/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (12/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Remove definition of root arcs of object identifier tree
+    docidentifier:
+    - content: X.680 (1994) Amd. 2 (12/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1994) Amd. 1/Technical Cor. 1 (12/1997)
+    docidentifier:
+    - content: X.680 (1994) Amd. 1/Technical Cor. 1 (12/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1994) Technical Cor. 2 (12/1997)
+    docidentifier:
+    - content: X.680 (1994) Technical Cor. 2 (12/1997)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.680 (1994) Technical Cor. 1 (11/1995)
+    docidentifier:
+    - content: X.680 (1994) Technical Cor. 1 (11/1995)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Rules of extensibility
+    docidentifier:
+    - content: X.680 (1994) Amd. 1 (04/1995)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
+    docidentifier:
+    - content: X.680 (07/1994)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

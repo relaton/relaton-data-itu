@@ -16,11 +16,119 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2007-01
+  at: '2007-01-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '5'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: ITU-T Recommendation T.123 specifies network-specific aspects of the T.120-series
+    data protocols for multimedia conferencing. The networks currently identified
+    are ISDN, CSDN, PSDN, PSTN, B-ISDN, and LAN. Communication profiles are specified
+    which provide reliable point-to-point connections between a terminal and a multipoint
+    control unit, between pairs of terminals or between pairs of MCUs. In some cases,
+    a lower protocol layer allows the multiplexing of audio and video signals in addition
+    to data connections. In other cases, separate calls, over the same or a different
+    network, may be established to carry audio or video signals.In addition, Annex
+    B specifies a protocol that may be used to negotiate connection services beyond
+    reliable data transfer. This protocol also provides for the use of alias address
+    lists when making a connection. Alias lists will allow proxy services for T.120
+    communications to be created and used.This revised version of ITU-T Recommendation
+    T.123 introduces a number of clarifications to the previous version.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Network-specific data protocol stacks for multimedia conferencing
+    docidentifier:
+    - content: T.123 (05/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Network-specific data protocol stacks for multimedia conferencing
+    docidentifier:
+    - content: T.123 (10/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Protocol stacks for audiographic and audiovisual teleconference applications
+    docidentifier:
+    - content: T.123 (11/1994)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Protocol stacks for audiographic and audiovisual teleconference applications
+    docidentifier:
+    - content: T.123 (03/1993)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

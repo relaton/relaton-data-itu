@@ -13,11 +13,95 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1980-11
+  at: '1980-11-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Allowable noise power in the hypothetical reference circuit for frequency-division
+        multiplex telephony in the fixed-satellite service
+    docidentifier:
+    - content: G.445 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Allowable noise power in the hypothetical reference circuit for frequency-division
+        multiplex telephony in the fixed-satellite service
+    docidentifier:
+    - content: G.445 (10/1984)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Noise objectives for communication-satellite system design (See CCIR
+        Recommendation 353-2)
+    docidentifier:
+    - content: G.445 (10/1976)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Noise objectives for communication-satellite system design (C.C.I.R.
+        Recommendation 353-1)
+    docidentifier:
+    - content: G.445 (12/1972)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

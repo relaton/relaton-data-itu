@@ -16,11 +16,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2011-09
+  at: '2011-09-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 15
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Supplement 50 to ITU-T G-series Recommendations provides an overview of
+    the family of DSL Recommendations. It describes how the various DSL Recommendations
+    are related. This Supplement also defines a generic system reference and a protocol
+    reference configuration for DSL Recommendations and relates it to the system reference
+    models of the DSL Recommendations.This Supplement integrates and replaces Recommendation
+    ITU-T G.995.1(2001) and its Amendment 1. It also includes more clauses and text
+    with regard to Recommendations ITU-T G.992.3, ITU-T G.992.4, ITU-T G.993.2, ITU-T
+    G.993.5, ITU-T G.998.1, ITU-T G.998.2, ITU-T G.998.3 and ITU-T G.998.4.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

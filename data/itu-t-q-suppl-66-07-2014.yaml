@@ -17,11 +17,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2014-07
+  at: '2014-07-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "International mobile telecommunications (IMT) and IP multimedia subsystem
+    (IMS) are some of the technologies that have been developed to adequately respond
+    to the demand for versatile telecommunication service offerings. The current demands
+    include; high bit rates, high quality of service (QoS) and quality of experience
+    (QoE), mobility, international (roaming) capability for multimedia services, compatibility
+    (backward and forward), affordability, easy to use end user terminals and security,
+    among others. Fundamentally, these networks are ubiquitous in nature and are based
+    on Internet protocol (IP).\r\nDeveloped countries have quickly implemented IMT
+    in almost all their networks and the majority has also implemented IMS. Developing
+    countries are much slower in implementing IMT and IMS. In this Supplement, information
+    on the slow of IMT and IMS in developing countries is highlighted and some suggestions
+    are made to overcome the challenges.\r\nSupplement 66 to ITU-T Q-series Recommendations
+    is limited to providing advisory information, especially to developing countries,
+    on the requirements for migration to IMT and IMS, challenges to migration and
+    some scenarios of migration to IMT and IMS drawn from feedback from developing
+    countries.\r\n\a"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

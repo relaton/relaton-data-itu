@@ -15,13 +15,78 @@ docidentifier:
 - content: ITU-T X.281 (06/1999)
   type: ITU
   primary: true
+- content: ISO/IEC 13642
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1999-06
+  at: '1999-06-18'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This revised Recommendation | International Standard provides the specificaiton
+    of management information related to the Physical Layer. This includes the managed
+    objects class definition of Physical Layer managed objects, the relationship of
+    the managed objects and attributes to both the operation of the layer and to other
+    objects and attributes of the layer, and the allowable actions on the attributes
+    of Physical Layer managed objects.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology – Elements of management information related
+        to the OSI Physical Layer
+    docidentifier:
+    - content: X.281 (11/1995)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

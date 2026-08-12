@@ -17,11 +17,282 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2019-12
+  at: '2019-12-05'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '6'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "\r\nRecommendation ITU-T Y.1540 defines the parameters that may be used
+    in specifying and assessing the performance of speed, accuracy, dependability
+    and availability of IP packet transfer of regional and international Internet
+    protocol (IP) data communication services. The defined parameters apply to an
+    end-to-end, point-to-point IP service and to the network portions that provide,
+    or contribute to the provision of, such a service in accordance with the normative
+    references specified in clause 2. Connectionless transport is a distinguishing
+    aspect of the IP service that is considered in this Recommendation. \r\n\r\nFollowing
+    over 20 years as an in-force Recommendation, the 2019 edition recognizes many
+    changes in the design of IP services and in the protocols employed by end users.
+    It introduces the new Annex A that defines IP-layer capacity parameters in ways
+    that cater toward assessment, and provides requirements for methods of measurement
+    of IP-layer capacity. This new annex is the result of years of study, and application
+    of ITU-T Study Group 12 principles of accurately evaluating performance parameters
+    and methods of measurement against a \"ground truth\" reference in laboratory
+    and field measurements. Flow-related throughput parameters and methods of measurement
+    (reliable delivery transport), remain for further study, and the text makes a
+    clear distinction between this IP-layer capacity parameters. In the same way,
+    parameters describing performance of a specific reliable transport layer protocol
+    (TCP) remain for further study, and recognize that reliable transport protocols
+    for the Internet are constantly changing and the subject of ongoing research.\r\n\r\nAnnex
+    B provides a second, more capable search algorithm for the IP capacity method
+    of measurement defined in Annex A.\r\n \r\n\r\n\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Revised Annex B: Additional search algorithms for IP-based capacity
+        parameters and methods of measurement'
+    docidentifier:
+    - content: Y.1540 (2019) Amd. 2 (03/2023)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Annex B - Additional search algorithm for IP-based capacity parameters
+        and methods of measurement
+    docidentifier:
+    - content: Y.1540 (2019) Amd. 1 (02/2020)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Internet protocol data communication service – IP packet transfer and
+        availability performance parameters
+    docidentifier:
+    - content: Y.1540 (07/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Appendix IX - Explanation of TCP-based measurement inadequacy to
+        meet normative requirements
+    docidentifier:
+    - content: Y.1540 (2011) Amd. 1 (01/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Internet protocol data communication service – IP packet transfer and
+        availability performance parameters
+    docidentifier:
+    - content: Y.1540 (03/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Appendix VII - Packet performance parameters for optimization of
+        stream repair techniques and New Appendix VIII - IP-layer capacity framework
+    docidentifier:
+    - content: Y.1540 (2007) Amd. 1 (03/2009)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Internet protocol data communication service – IP packet transfer and
+        availability performance parameters
+    docidentifier:
+    - content: Y.1540 (11/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'New Appendix VIII: Background on IP service availability'
+    docidentifier:
+    - content: Y.1540 (2002) Amd. 1 (08/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Internet protocol data communication service – IP packet transfer and
+        availability performance parameters
+    docidentifier:
+    - content: Y.1540 (12/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Internet protocol data communication service – IP packet transfer and
+        availability performance parameters
+    docidentifier:
+    - content: I.380 (02/1999)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Internet protocol data communication service – IP packet transfer and
+        availability performance parameters
+    docidentifier:
+    - content: Y.1540 (02/1999)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y-series – Supplement on use cases of smart cities and communities
+    docidentifier:
+    - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Interpreting ITU-T Y.1540 maximum IP-layer capacity measurements
+    docidentifier:
+    - content: Y Suppl. 60 (06/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for Internet of things ecosystem master plan
+    docidentifier:
+    - content: Y Suppl. 68 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
+    docidentifier:
+    - content: Y Suppl. 69 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
+    docidentifier:
+    - content: Y Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
+    docidentifier:
+    - content: Y Suppl. 83 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Machine learning standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 96 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Glossary of terms and definitions for machine learning
+    docidentifier:
+    - content: Y Suppl. 97 (11/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

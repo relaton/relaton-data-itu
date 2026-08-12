@@ -16,11 +16,92 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2002-05
+  at: '2002-05-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This amendment provides protection switching enhancements to the generic
+    network information model. The model describes protection switching managed object
+    classes and their properties that are generic and useful to describe information
+    exchanged across all interfaces defined in M.3010 TMN architecture. These generic
+    managed object classes are intended to be applicable across different technologies,
+    architectures and services. The protection switching managed object classes in
+    this amendment may be specialized to support the management of various telecommunications
+    networks.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: M.3120 (2001) Amd. 2 (03/2003)
+    docidentifier:
+    - content: M.3120 (2001) Amd. 2 (03/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: CORBA generic network and network element level information model
+    docidentifier:
+    - content: M.3120 (10/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: CORBA generic network and network element level information model
+    docidentifier:
+    - content: M.3120 (01/2001)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

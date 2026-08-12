@@ -16,11 +16,69 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2024-08
+  at: '2024-08-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The complexity of telecom operation and management for networks and services
+    is increasing significantly. To realise advanced intelligence, even full intelligence,
+    in telecom operation and management, it is necessary to utilize knowledge to fulfil
+    the complex requirements in different scenarios. The knowledge required for telecom
+    operation and management for network and service is characterized as highly fragmented
+    and difficult to reuse.\r\nKnowledge management in telecom operation and management
+    aims to construct, integrate, store, validate, refine, provide and share knowledge
+    of telecom operation and management in specified forms. It is required to provide
+    the clear functions and mechanisms so that given tasks can be accomplished with
+    better operational efficiencies and, ultimately, to achieve precise application
+    of knowledge.\r\nThe contents of Recommendation ITU-T M.3351 include the following:\r\n–Background
+    and overview of knowledge management\r\n–Knowledge classification in telecom operation
+    and management\r\n–Framework of knowledge management for telecom operation and
+    management.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

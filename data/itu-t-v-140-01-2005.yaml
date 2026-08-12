@@ -17,11 +17,104 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2005-01
+  at: '2005-01-08'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Recommendation describes a standardized method for automatic mode
+    negotiation, detection of bit alignment, and confirmation of subchannel connectivity
+    for multimedia terminals on digital networks. This new protocol provides backward
+    compatibility with existing standards and creates an extensible mechanism to negotiate
+    future protocols.\r\nThe two primary benefits from implementing this Recommendation
+    are:\r\n1)\timproved reliability in completing calls and successfully establishing
+    multimedia communications, since peculiar network characteristics (such as \"restricted\"
+    networks) that interfere with call establishment and protocol negotiations are
+    automatically handled by V.140 procedures; and\r\n2)\tfor terminals that support
+    multiple communication modes, an automatic means of selecting modes.\r\nPrincipal
+    features of this Recommendation include the ability to find bit alignment, detect
+    remote network type, and perform in-band testing of channel characteristics; a
+    flexible and extensible capability exchange and mode selection facility is also
+    built-in.\r\nV.140 procedures apply to every channel of a multi-channel call and
+    begin following establishment of the end-to-end digital connection, and before
+    any multimedia or other communication protocols are initiated. The procedures
+    are divided into three phases:\r\n•\tPhase 1 – Send/search for V.140 signature
+    (note that V.8/V.8 bis, voice, and H.221 FAS, or any subset of these may be simultaneously
+    transmitted). If such signature is detected, proceed to:\r\n•\tPhase 2 – Characterize
+    the digital connection (64 vs 56 kbit/s, detect octet/septet alignment), and diagnose
+    any odd characteristics of the network, (i.e., it could be restricted, that is,
+    it transfers only 7 of 8 bits to the far-end). Once this is complete,\r\n•\tPhase
+    3 – Exchange mode capabilities (similar to V.8 bis) and select desired operation
+    mode. Modes can include voice communications, multimedia communications, and channel
+    aggregation protocols, but capabilities are kept simple, given that the purpose
+    of this Recommendation is only to select a particular protocol, not to determine
+    all of the parameters related to that protocol (which can typically be determined
+    using the protocol itself).\r\nThe Phase 1 procedures have been designed to allow
+    simultaneously signalling of other protocols, such as H.320, to minimize the amount
+    of time lost in beginning communications if a terminal that implements V.140 finds
+    itself communicating with a terminal that does not.\r\nFollowing Phase 3, a terminal
+    can immediately begin procedures associated with the selected operation mode.\r\nThis
+    revised version incorporates corrections to errors noted between the original
+    approval in February 1998 until November 2004. In particular, the bit order illustrated
+    in Figure 11 has been corrected to match the body text, and in Annex A incomplete
+    ASN.1 syntax has been restored and references to multilink operation according
+    to Annex F/H.324 have been added."
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Procedures for establishing communication between two multiprotocol
+        audiovisual terminals using digital channels at a multiple of 64 or 56 kbit/s
+    docidentifier:
+    - content: V.140 (02/1998)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,67 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2013-04
+  at: '2013-04-26'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Telecommunication networks based on the IP protocol face many security
+    threats. One of the most important threats is abnormal traffic, which can cause
+    serious impact on the secure and steady operation of telecommunication networks.
+    Abnormal traffic attacks consume large quantities of network resources and easily
+    lead to network unsteadiness and link blockage. Moreover, abnormal traffic attacks
+    have increasingly been aimed at achieving certain business objectives, and are
+    a great challenge to telecommunication operators. Therefore, detecting and controlling
+    abnormal traffic effectively has become an urgent task for telecommunication operators.\r\nSupplement
+    18 to ITU-T X.1205 series of Recommendations identifies abnormal traffic detection
+    technologies and control measures for IP based telecommunication networks. The
+    aim of this Supplement is to provide telecommunication operators with a comprehensive
+    guideline for monitoring, detecting and controlling abnormal IP traffic.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,66 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2025-12
+  at: '2025-12-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "The information recommendation service is widely used in different websites
+    and applications. For example, an educational information recommendation service
+    is an important factor in sharing educational information. In the massive educational
+    information, users can quickly find the educational information resources they
+    need, meet users' learning needs and bring users a good learning experience. However,
+    the security issues involved in information recommendation services cannot be
+    ignored, e.g., data integrity threats, data poisoning, evasion attacks, etc.\r\nRecommendation
+    ITU-T X.1457 provides an analysis of security threats and requirements for information
+    recommendation services. It identifies security threats involved in information
+    recommendation services and specifies security requirements that address these
+    security threats.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

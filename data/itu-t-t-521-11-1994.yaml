@@ -17,11 +17,99 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1994-11
+  at: '1994-11-11'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation this defines communication application profile for G4 facsimile
+    apparatus. The definition of "additional document characteristics" in "application
+    capabilities" for colour and other extension is added as an option in this revision.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: T.521 (1994) Amd. 1 (08/1995)
+    docidentifier:
+    - content: T.521 (1994) Amd. 1 (08/1995)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Communication application profile BT0 for document bulk transfer based
+        on the session service
+    docidentifier:
+    - content: T.521 (09/1992)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Communication application profile BT0 for document bulk transfer based
+        on the session service (according to the rules defined in T.62 bis)
+    docidentifier:
+    - content: T.521 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,88 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2017-04
+  at: '2017-04-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T E.119 describes the requirements for safety confirmation
+    and broadcast messaging for disaster relief, which can realize public organizations’
+    business continuity plans (BCP) and can, to the best of their ability, help protect
+    lives and property during a disaster.\r\n\r\nIn the event of a disaster, it is
+    very important that public organizations, such as telecommunication companies,
+    electric power companies, hospitals, fire departments and local governments continue
+    to operate and help save the lives of victims. Confirmation of the safety of officials
+    or company staff is important in order to continue operating their necessary tasks.
+    In addition, to be effective, broadcast message systems should automatically confirm
+    the status of officials or staff.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T E.100 series – Framework of disaster management for disaster
+        relief system
+    docidentifier:
+    - content: E-100 series Suppl. 1 (02/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

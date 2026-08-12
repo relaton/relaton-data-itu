@@ -17,11 +17,67 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2010-10
+  at: '2010-10-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation | International Standard describes the Relayed Multicast
+    Protocol part 3 (RMCP-3) which is an application-layer relayed multicast protocol
+    that operates over the IP-based network where the IP multicast is not fully deployed.
+    The RMCP-3 constructs a relayed multicast tree for delivering user data from multiple
+    senders to multiple receivers. The relayed multicast tree consists of Multicast
+    Agent and Session Manager. The Multicast Agent relays many-to-many multicast data
+    along the relayed multicast tree, whereas the Session Manager manages the RMCP-3
+    session. This Recommendation | International Standard specifies the functions
+    and the procedures of the Multicast Agent and Session Manager. The RMCP-3 can
+    support applications requiring capability of many-to-many multicast data delivery.
+    Examples of such applications are multimedia conference, panel discussion, and
+    network gaming.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

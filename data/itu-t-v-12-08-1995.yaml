@@ -17,11 +17,62 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1995-08
+  at: '1995-08-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation specifies the electrical characteristics of a balanced
+    digital interchange circuit, that may be employed when specified for the interchange
+    of serial binary signals between Data Terminal Equipment (DTE) and Data Circuit-Terminating
+    Equipment (DCE) or in any point-to-point interconnection of serial binary signals
+    between data equipments. The balanced digital interchange circuit will normally
+    be utilized on data and timing, or control circuits where the data signalling
+    rate is up to a maximum limit of 52 Mbit/s.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

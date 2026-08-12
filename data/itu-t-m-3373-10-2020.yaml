@@ -16,11 +16,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2020-10
+  at: '2020-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T M.3373 introduces the management function set and
+    requirements for synergy management of cloud and SDN-based networks. It describes
+    the synergy management structure and the composition of the function set, explains
+    the functions of each component in the function set. The requirements for the
+    synergy management of cloud and SDN-based networks are also described. In this
+    Recommendation, the general background of the synergy service of cloud and SDN-based
+    networks are also analysed. The benefit of introducing synergy management of cloud
+    and SDN-based networks is explained. \r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

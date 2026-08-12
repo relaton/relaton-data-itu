@@ -17,11 +17,70 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2017-09
+  at: '2017-09-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Supplement to ITU-T Y.4000 series provides an overview of roles of
+    Information and Communication Technologies (ICTs) in Smart Sustainable Cities
+    (SSC) primarily based on ITU-T Recommendations. A SSC aims to improve quality
+    of life, efficiency of urban operation and services, and competitiveness, ensuring
+    that needs of present and future generations with respect to economic, social,
+    environmental as well as cultural aspects of cities and communities are met.\r\n\r\nSmart
+    sustainable cities in general, share the end goal of achieving an economically
+    sustainable urban environment without sacrificing on the quality of life (QoL)
+    of their citizenry. A smart city and community strives to create a sustainable
+    living environment for citizens using the Internet of things (IoT), enabled by
+    information communication technologies (ICTs).\r\n\r\nAn IoT-based infrastructure,
+    enabled using ICTs, can continue to play a pivotal role in smart sustainable cities
+    by functioning as a platform for the aggregation of information and data that
+    can help government officials and citizens understand how the city is functioning
+    in terms of resource consumption and services. \r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

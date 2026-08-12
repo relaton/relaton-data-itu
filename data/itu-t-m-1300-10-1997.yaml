@@ -17,11 +17,92 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1997-10
+  at: '1997-10-24'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '4'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation provides a general description of international data
+    transmission systems with a PDH presentation to the renter and of the basic requirements
+    for their effective operation.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International data transmission systems operating in the range 2.4
+        kbit/s to 2048 kbit/s
+    docidentifier:
+    - content: M.1300 (10/1992)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International data transmission systems operating at 2400 bit/s and
+        above
+    docidentifier:
+    - content: M.1300 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International data transmission systems operating in the range 2400
+        bit/s to 64 kbit/s
+    docidentifier:
+    - content: M.1300 (10/1984)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

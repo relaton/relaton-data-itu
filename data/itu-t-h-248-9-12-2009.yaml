@@ -16,11 +16,241 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2009-12
+  at: '2009-12-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T H.248.9 provides two sets of packages: syntactic
+    and functional. The syntactic packages provide the ability to specify announcements
+    with variable content, with a degree of flexibility constrained only by the provisioning
+    of the MG and MGC. This syntax may in principle be used to specify multimedia
+    announcements, although its application in this Recommendation is to evoke audio
+    content. The functional packages provide advanced control of an Audio Resource
+    Function using the ITU-T H.248.1 protocol. The packages provide the ability to
+    play recorded announcements with variable content, carry out prompted collection
+    of digits, and carry out prompted collection of recorded audio. An additional
+    package provides the ability to manage recorded media segments on the media gateway.\r\nAdditional
+    functionality incorporated by ITU-T H.248.9 (2005) Amendment 1 (2007):\r\n•            6.3.6.11
+    \         New variable type \"Tone\" for dynamic audio segment specification.\r\n•
+    \           6.4               Set extension of basic syntax: introduction of a
+    new selector for text attributes.\r\n•            6.5.5.1         Variable type
+    \"Phrase\": introduction of subtypes.\r\n•            9.3.1            Signal
+    PlayCollect: enhanced functionality, new parameters.\r\nNOTE – This Recommendation
+    has been renumbered in 2002. It was formerly known as Rec. ITU‑T H.248 Annex M.1.\r\nITU-T
+    H.248.9 (2005) Amendment 1 (2007) defines packages which enable automatic speech
+    recognition (ASR), text to speech (TTS) and multimedia playout functionality between
+    a media gateway controller (MGC) and a media gateway (MG) controlled by ITU-T
+    H.248.1. In this scenario, the MGC may take the form of a media controller (MC)
+    and the MG may take the form of a media processor (MP).\r\nThis revision introduces
+    a number of new functions. The new functions include:\r\n–           A playout
+    completion event to determine the duration of the played announcement and the
+    offset into the announcement the playout ended.\r\n–           The ability to
+    report the key that terminates a recording as well as the length in time and bytes
+    of the recording. It allows the MGC to specify whether recordings are amended
+    to or overwrite a storage uniform resource identifier (URI).\r\n–           The
+    ability to specify an offset into the announcement, where to start playing from.\r\n–
+    \          The ability to specify an absolute volume for an announcement.\r\n–
+    \          The ability to detect and report control digits and whether they are
+    associated with the announcement or collection phases.\r\n–           The ability
+    for control digits to request the MG to pause, resume, fast forward and rewind
+    an announcement or to increase or decrease the volume of an announcement and to
+    adjust the speed of delivery.\r\n–           The ability to indicate whether the
+    collected digits should be stored in a log file or not. For example: digits related
+    to a pin code would not be stored.\r\n–           The ability to detect \"marks\"
+    within text to speech grammar script.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ASR, TTS and multimedia enhancements
+    docidentifier:
+    - content: H.248.9 (2005) Amd. 1 (08/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Advanced media server packages'
+    docidentifier:
+    - content: H.248.9 (01/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Advanced media server packages'
+    docidentifier:
+    - content: H.248.9 (03/2002)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Control load quantum for decomposed gateways
+    docidentifier:
+    - content: H Suppl. 6 (04/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
+    docidentifier:
+    - content: H Suppl. 9 (05/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of class-based home network QoS solutions
+    docidentifier:
+    - content: H Suppl. 11 (02/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
+    docidentifier:
+    - content: H Suppl. 12 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 13 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 14 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
+    docidentifier:
+    - content: H Suppl. 15 (01/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide for addressing accessibility in standards
+    docidentifier:
+    - content: H Suppl. 17 (11/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
+    docidentifier:
+    - content: H Suppl. 18 (10/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of video signal type code points
+    docidentifier:
+    - content: H Suppl. 19 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Film grain synthesis technology for video applications
+    docidentifier:
+    - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

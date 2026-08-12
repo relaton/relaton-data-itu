@@ -18,11 +18,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2021-05
+  at: '2021-05-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 43 to ITU-T L-series Recommendations explores how network energy-saving
+    technologies that have emerged since the fourth generation (4G) era, e.g. carrier
+    shutdown, channel shutdown and symbol shutdown, can be leveraged to mitigate fifth
+    generation (5G) energy consumption. The document also analyses how enhanced technologies,
+    e.g., deep sleep and symbol aggregation shutdown, have been developing in the
+    5G era. Supplement 43 to ITU-T L-series Recommendations details these fundamentals.\r\nHowever,
+    Supplement 43 to ITU-T L-series Recommendations is far from being sufficient;
+    a revolutionized energy-saving solution should be considered. In response to the
+    requirement for an intelligent and self-adaptive energy-saving solution, artificial
+    intelligence (AI) and big data technology are introduced to form a more precise
+    energy-saving strategy based on specific site traffic and other site-related conditions,
+    thus improving the efficiency and reducing the personnel required. More details
+    of an AI-driven smart energy-saving solution are elaborated.\r\nSupplement 43
+    to ITU-T L-series Recommendations could help to achieve the most energy-efficient
+    network with good performance and lower operating expense for mobile network operators
+    (MNOs).\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -11,11 +11,115 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2004-03
+  at: '2004-03-15'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines a colour data representation method in order
+    to make it possible to interchange continuous-tone colour image data over facsimile
+    communication services such as Group 4 and Group 3 facsimile. This Corrigendum
+    fixes errors in the description of D65 illuminant data and aligns them with ISO
+    13655. Variables X0, Y0 and Z0 are changed to "X0 ? 95.047; Y0 ? 100.000; Z0 ?
+    108.883" in the , in 6.2.2.2 (White point and illuminant data) and in Appendix
+    I ("Method for colorimetric calculation from spectral measurement"). Values of
+    Table I.2/T.42 are replaced with correct values in ISO 13655.CIELAB space is selected
+    as the basic colour space mainly for hard copy (printed) application. CIE Illuminant
+    D50 and its perfectly diffuse reflecting white point (X0 = 96.422; Y0 = 100.000;
+    Z0 = 82.521) is selected as the basic illuminant and white point, respectively.
+    The default gamut range chosen is L* = [0, 100], a* = [-85, 85], b* = [-75, 125].
+    The exact expression is in terms of offset and range. The YCC space based on sYCC
+    is selected also as the basic colour space mainly for soft copy (displayed) application.
+    CIE illuminant D65 and its perfectly diffuse reflecting white point (X0 = 95.047;
+    Y0 = 100.000; Z0 = 108.883) is the illuminant and white point respectively. The
+    default gamut chosen is Y = [0, 1], Cb = [-0.5, 0.5], Cr = [-0.5, 0.5]. The exact
+    expression is in terms of offset and range.The main difference from the previous
+    version is the following:- ITU-YCC addition.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2004'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Continuous-tone colour representation method for facsimile
+    docidentifier:
+    - content: T.42 (07/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Continuous-tone colour representation method for facsimile
+    docidentifier:
+    - content: T.42 (10/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Continuous-tone colour representation method for facsimile
+    docidentifier:
+    - content: T.42 (11/1994)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

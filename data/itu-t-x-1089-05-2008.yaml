@@ -16,11 +16,68 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2008-05
+  at: '2008-05-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T X.1089 defines an authentication infrastructure, using
+    a range of biometric certificates, for remote authentication of human beings.
+    It extends Recommendation ITU-T X.509 Public-key and attribute certificate frameworks
+    and ISO/IEC 24761 Authentication context for biometrics. The combination of the
+    X.509 extensions and telecommunications and biometrics is called the telebiometrics
+    authentication infrastructure (TAI). It can be used in authentication applications
+    with or without a public key infrastructure (PKI) and/or a privilege management
+    infrastructure (PMI) based on Recommendation ITU-T X.509, but would normally be
+    used with both. It defines biometric extension fields for use in X.509 certificates,
+    to produce biometric certificates. An important part of this Recommendation is
+    to recognize and provide for biometric devices and associated software to operate
+    at different (certified) security levels, depending on the needs of the application
+    that is being accessed.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

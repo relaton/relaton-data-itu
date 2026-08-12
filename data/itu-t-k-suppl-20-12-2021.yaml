@@ -17,11 +17,77 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2021-12
+  at: '2021-12-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 20 to ITU-T K-series Recommendations contains the measurement
+    and full-wave computation results of radio frequency exposure from underground
+    base stations (BSs), to evaluate the exposure from them.\r\nMeasurement and computation
+    methods of human exposure to electromagnetic fields (EMFs) from fixed radio sources
+    like mobile BSs have been standardized and published as ITU T K series Recommendations
+    and IEC 62232. These also include methods prescribed in Japanese regulations and
+    have been basically assumed to be applied to radio sources installed above ground.\r\nUnderground
+    BSs for use in small cells of fourth generation (4G) mobile networks are installed
+    underground to construct service areas above ground and also expected to be used
+    for fifth generation (5G) mobile networks.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.91 – Supplement on radiofrequency exposure evaluation around
+        underground base stations
+    docidentifier:
+    - content: K Suppl. 20 (05/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

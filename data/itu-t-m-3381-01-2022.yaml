@@ -17,11 +17,65 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-01
+  at: '2022-01-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T M.3381 provides requirements for energy saving management
+    of a 5G radio access network (RAN) system with artificial intelligence (AI). Recommendation
+    ITU-T M.3381 explains the requirements of using AI technology to achieve energy
+    saving management for communication units and virtualized hardware resources of
+    a 5G RAN system, via an element management system (EMS) and open interfaces provided
+    by vendors, from the operation support system (OSS) level. In addition, this Recommendation
+    includes process recommendations for sending intelligent energy saving strategies
+    from OSS to EMS and then to wireless equipment.\r\nThis Recommendation describes
+    functional requirements for energy saving management of 5G RAN system with AI,
+    and use cases of energy saving management of 5G RAN system with AI.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

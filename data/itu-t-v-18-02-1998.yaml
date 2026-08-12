@@ -17,11 +17,148 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1998-02
+  at: '1998-02-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'This Recommendation describes modem procedures to follow for automatic
+    interworking with text telephones. Text telephones use various modem technologies.
+    This Recommendation specifies the signal analysis, signal transmission and logic
+    needed to determine what kind of text telephone there is on a connection. It also
+    specifies the actions needed to communicate in the mode supported by each terminal
+    type.This Recommendation is intended for use in text telephones, in interworking
+    units, in text relay services, in emergency centers, and in computers to be used
+    for text telephony in the PSTN.This Recommendation specifies transmission of identification
+    signals to determine when the connection is between two V.18-equipped terminals.
+    For that case, V.21 is the default modulation used. For interworking in text conversation
+    between humans, not only the modulation must be specified. Therefore, this Recommendation
+    specifies that when the connection in V.18 mode is established, the presentation
+    protocol specified in Recommendation T.140 should be used, including an internationally
+    useful character set.The text telephone types supported by this Recommendation
+    are: EDT, 5-bit (or Baudot), DTMF, V.21, V.23, Bell 103 and V.18-based devices.
+    In originate mode, V.18 identification signals and V.23 stimulation signals are
+    transmitted until a recognized text telephone signal is received and connection
+    can be established in that mode. In answer mode, this Recommendation specifies
+    stimulation to connection by transmission of probing signals for the different
+    kinds of text telephones while monitoring for text telephone signals. Once determined,
+    the mode of communication is entered.For cases when it is not obvious if the connection
+    should be made in originate or answer mode, procedures are provided to resolve
+    that and reach communication. An automode monitor mode is provided for cases when
+    it is desired to have a text telephone device prepared on the same line as a voice
+    telephone and indicate when there is an active text telephone on the connection.
+    For DTMF and 5-bit text telephone types using character coding not commonly used
+    with modems, conversion is specified in this Recommendation between these codes
+    and T.50.For selection between multimedia protocols and this Recommendation, modem
+    connection procedures based on Recommendation V.8 bis are provided.'
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Harmonization with ANSI TIA/EIA-825 (2000) text phones
+    docidentifier:
+    - content: V.18 (2000) Amd. 1 (11/2002)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Operational and interworking requirements for DCEs operating in the
+        text telephone mode
+    docidentifier:
+    - content: V.18 (11/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification of V.18 implementation tests
+    docidentifier:
+    - content: V.18 App. IV (09/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Connection procedures for terminals including V.18 functionality
+    docidentifier:
+    - content: V.18 App. III (09/1998)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Operational and interworking requirements for DCEs operating in the
+        text telephone mode
+    docidentifier:
+    - content: V.18 (10/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Operational and interworking requirements for modems operating in the
+        text telephone mode
+    docidentifier:
+    - content: V.18 (09/1994)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,71 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2020-07
+  at: '2020-07-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 11
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 72 to ITU-T Q-series Recommendations specifies the signalling
+    requirements for Internet protocol (IP) multimedia subsystem (IMS) emergency telecommunications
+    service in support of multiple access including fixed broadband, wireless fidelity
+    (Wi-Fi), fourth generation (4G) and fifth generation (5G) networks. \r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Signalling requirements for IP multimedia subsystem (IMS) emergency
+        call in support of multiple access
+    docidentifier:
+    - content: Q Suppl. 72 (11/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

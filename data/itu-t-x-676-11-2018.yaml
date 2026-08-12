@@ -16,11 +16,64 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2018-11
+  at: '2018-11-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T X.676 specifies an object identifier (OID)-based resolution
+    framework for identifying various services in IoT environments. OID is an identifier
+    to name an object with a hierarchically assigned namespace. In Internet of things
+    (IoT), thousands of IoT services based on heterogeneous resources will be provided
+    as combinations of various services. For efficiency, various technologies, such
+    as service binding, dynamic services or frequently switching services will be
+    required, along with resolution and identification of grouped services. This Recommendation
+    describes the concepts of IoT grouped services, considerations, architectures,
+    and procedures for an OID-based resolution framework for IoT grouped services.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

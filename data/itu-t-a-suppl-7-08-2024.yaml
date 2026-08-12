@@ -16,11 +16,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2024-08
+  at: '2024-08-02'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: Telecommunication Standardization Advisory Group
+      type: technical-committee
+      subtype: tsag
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 7 to ITU-T A-series Recommendations provides guidelines for
+    ITU-T members on the principles of streamlining Resolutions, as well as guidance
+    on how to propose new draft Resolutions and revisions to existing World Telecommunication
+    Standardization Assembly (WTSA) Resolutions in the preparation for WTSA.\r\nThe
+    review process for WTSA Resolutions encompasses editorial updates, identifying
+    overlap, identifying candidates for merging or suppression, simplifying or shortening
+    Resolutions, preparing consolidated draft texts, and actively involving the regional
+    telecommunication organizations (RTOs) in discussions leading up to a WTSA.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

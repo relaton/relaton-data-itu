@@ -14,13 +14,156 @@ docidentifier:
 - content: ITU-T X.693 (2001) Amd. 3 (05/2007)
   type: ITU
   primary: true
+- content: ISO/IEC 8825-4
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2007-05
+  at: '2007-05-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Amendment 3 to ITU-T Rec. X.693 | ISO/IEC 8825-4 permits the use of left
+    and right square brackets around XER encoding instructions (followed by the target
+    list) in the XER encoding control section of an extended XER specification (provided
+    in Amendment 1 to ITU-T Rec. X.693/Amd. 1| ISO/IEC 8825-4). This is provided to
+    produce the same syntax as that used in PER (Packed Encoding Rules) encoding control
+    sections, and for increased readability. It also corrects some defects identified
+    against ITU-T Rec. X.693 | ISO/IEC 8825-4.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology - ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
+    docidentifier:
+    - content: X.693 (02/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.693 (2015) Cor. 1 (10/2017)
+    docidentifier:
+    - content: X.693 (2015) Cor. 1 (10/2017)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
+    docidentifier:
+    - content: X.693 (08/2015)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.693 (2008) Cor. 2 (03/2014)
+    docidentifier:
+    - content: X.693 (2008) Cor. 2 (03/2014)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: X.693 (2008) Cor. 1 (10/2011)
+    docidentifier:
+    - content: X.693 (2008) Cor. 1 (10/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
+    docidentifier:
+    - content: X.693 (11/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Time type support
+    docidentifier:
+    - content: X.693 (2001) Amd. 2 (06/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: XER encoding instructions and EXTENDED-XER
+    docidentifier:
+    - content: X.693 (2001) Amd. 1 (10/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
+    docidentifier:
+    - content: X.693 (12/2001)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

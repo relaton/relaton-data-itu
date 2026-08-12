@@ -15,13 +15,99 @@ docidentifier:
 - content: ITU-T T.84 (07/1996)
   type: ITU
   primary: true
+- content: ISO/IEC 10918-3
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1996-07
+  at: '1996-07-03'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'This Recommendation | International Standard, Digital compression and
+    coding of continuous-tone still images, is published as three parts:- CCITT Rec.
+    T.81 | ISO/IEC 10918-1: Requirements and guidelines;- ITU-T Rec. T.83 | ISO/IEC
+    10918-2: Compliance testing;- ITU-T Rec. T.84 | ISO/IEC 10918-3: Extensions.This
+    Recommendation | International Standard sets out requirements and guidelines for
+    encoding and decoding extensions to the processes defined by CCITT Rec. T.81 |
+    ISO/IEC 10918-1, and for the coded representation of compressed image data of
+    these extensions. This Recommendation | International Standard also defines tests
+    for determining whether implementations comply with the requirements for the various
+    encoding and decoding extensions.This Recommendation | International Standard:-
+    defines extensions [including variable quantization, selective refinement, composite
+    tiling, and a Still Picture Interchange File Format (SPIFF)] to processes for
+    converting source image data to compressed image data;- defines extensions to
+    processes for converting compressed image data to reconstructed image data;- defines
+    coded representations for compressed image data;- gives guidance and examples
+    on how to implement these extensions in practice;- describes compliance tests
+    for these extensions.'
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Provisions to allow registration of new compression types and versions
+        in the SPIFF header
+    docidentifier:
+    - content: T.84 (1996) Amd. 1 (04/1999)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2020-05
+  at: '2020-05-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 37 to ITU-T L-series Recommendations supports information and
+    communication technology (ICT) organizations in setting science-based targets
+    for greenhouse gases (GHGs) according to the decarbonisation pathways, described
+    in detail in ITU-T L.1470 aligned to the IPCC Special Report on 1.5°C and developed
+    to be used as a sectoral target-setting approach by the Science Based Targets
+    Initiative (SBTi). This Supplement focuses exclusively on ICT organizations operating
+    mobile networks, fixed networks and/or data centres. Guidance for further ICT
+    sub-sectors will be covered separately. \r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

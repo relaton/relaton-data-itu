@@ -16,11 +16,173 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2002-08
+  at: '2002-08-06'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation defines the Common Interchange Format (CIF) of Specification
+    and Description Language (ITU-T Rec. Z.100 - SDL). The CIF is intended for the
+    interchange of graphical SDL specifications (SDL-GR) made on different tools that
+    do not use the same storage format. Prior to the definition of CIF, the textual
+    representation of SDL (SDL-PR) was used to interchange specifications with the
+    disadvantage that all graphical information was lost, making the same specifications
+    often look very dissimilar in different environments. With the CIF, this disadvantage
+    is reduced to a minimum, as it contains most of the graphical information. The
+    CIF improves the independence from specific tool vendors and allows standards
+    bodies to accept specifications in SDL-CIF irrespective of the tool they use for
+    their internal work. This also improves productivity by allowing specifications
+    to be made on the accustomed tool. All SDL tool vendors are encouraged to provide
+    facilities for importing and exporting SDL-CIF.This Recommendation defines how
+    SDL descriptions can be stored in order to be interchanged between tools coming
+    from different vendors. It does not take into account the MSC notation. SDL-CIF
+    is an extension to SDL. CIF is based on the SDL-PR syntax, the textual Phrase
+    Representation of SDL also defined in this Recommendation. CIF can be read and
+    written by tools as well as users. All the constructs available in SDL can be
+    expressed in graphical form or in the purely textual SDL-PR form. Constraints
+    on graphical presentation are expressed in CIF by adding specific annotations
+    to SDL-PR. As a result, most SDL-PR descriptions are legal SDL-CIF descriptions.
+    SDL-CIF is an open storage format as it includes a mechanism of tool-specific
+    directives. This mechanism allows a CIF-compliant tool to extend the format by
+    adding specific information. SDL-CIF is also easily implementable and provides
+    tool vendors with two levels of tool conformance and concepts of mandatory and
+    optional directives.SDL-PR is an alternative text-only syntax for SDL. Before
+    2002, SDL-PR was published as part of Z.100, but as the main use of this notation
+    is for communication within and between tools the definition has been moved to
+    this Recommendation. SDL-PR is Level 0 CIF and allows the interchange of syntactically
+    complete SDL descriptions, usually as a single file per system. Conformance to
+    SDL-PR requires the model to conform to the corresponding semantics defined in
+    ITU-T Rec. Z.100.This Recommendation introduces two further levels of SDL-CIF.
+    Two further conformance levels are defined, one at a more liberal SDL-PR level
+    and the second including graphical information. The complete grammar is described
+    with the related semantics. Mandatory and optional directives are described, as
+    well as the format for tool-specific directives. Current tool-specific directives
+    are described in Appendix I.Two levels of CIF conformance are defined as level
+    1 and level 2. Level 1 is very close to SDL-PR, but it supports incomplete SDL
+    specifications. Level 2 includes level 1 and is able to capture most of the graphical
+    information of SDL-GR diagrams. A CIF specification must identify which of the
+    two levels it complies with. Similarly, tool vendors that use the CIF should also
+    identify the CIF level they comply with for their import and export functions.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - Common interchange format
+        for SDL-2010
+    docidentifier:
+    - content: Z.106 (06/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - Common interchange format
+        for SDL-2010
+    docidentifier:
+    - content: Z.106 (10/2019)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - Common interchange format
+        for SDL-2010
+    docidentifier:
+    - content: Z.106 (04/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Specification and Description Language - Common interchange format
+        for SDL-2010
+    docidentifier:
+    - content: Z.106 (12/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Common interchange format for SDL
+    docidentifier:
+    - content: Z.106 (11/2000)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Common interchange format for SDL
+    docidentifier:
+    - content: Z.106 (10/1996)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
+    docidentifier:
+    - content: Z Suppl. 1 (04/2015)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

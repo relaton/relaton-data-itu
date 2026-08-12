@@ -17,11 +17,109 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-03
+  at: '2003-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "This Annex A replaces the previous Annex A to ITU-T Rec. P.862 (February
+    2001), which defines the Perceptual Evaluation of Speech Quality (PESQ) model
+    for objective speech quality measurement for telephone networks and speech codecs.
+    It clarifies the sampling rate that must be offered by implementations of PESQ,
+    and sets out an extended set of conformance tests that support this.It is not
+    anticipated that this Annex A will affect any existing implementations of PESQ.
+    Future implementations of PESQ that only offer 8 kHz sampling rate are accepted
+    as valid and must meet the new conformance test 1(b) proposed below. Future implementations
+    at 16 kHz sampling rate must also meet the new conformance test 2(a).The ANSI-C
+    reference implementation of PESQ remains unchanged.The only files that are modified
+    relative to ITU-T Rec. P.862 (02/2001) are:\r\n• supp23_16k.txt, supp23_16k.bat,
+    supp23_8k.txt, supp23_8k.bat;\r\n• voipref_16k.txt, voipref_16k.bat, voipref_8k.txt,
+    voipref_8k.bat;\r\n• process.bat.These files are available for free on ITU Publications
+    website at www.itu.int, under P.862 as \"P.862 (2001) Amendment 1\"."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: P.862 (2001) Cor. 2 (03/2018)
+    docidentifier:
+    - content: P.862 (2001) Cor. 2 (03/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: P.862 (2001) Cor. 1 (10/2007)
+    docidentifier:
+    - content: P.862 (2001) Cor. 1 (10/2007)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Revised Annex A – Reference implementations and conformance testing
+        for ITU-T Recs P.862, P.862.1 and P.862.2
+    docidentifier:
+    - content: P.862 (2001) Amd. 2 (11/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Perceptual evaluation of speech quality (PESQ): An objective method
+        for end-to-end speech quality assessment of narrow-band telephone networks
+        and speech codecs'
+    docidentifier:
+    - content: P.862 (02/2001)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

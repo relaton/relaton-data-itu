@@ -15,13 +15,79 @@ docidentifier:
 - content: ITU-T X.212 (11/1995)
   type: ITU
   primary: true
+- content: ISO/IEC 8886
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 1995-11
+  at: '1995-11-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Recommendation | International Standard defines the set of capabilities,
+    in terms of an abstract service definition, provided by the Data Link Layer to
+    the Network Layer. For designers of Network Layer protocols, it provides a definition
+    of the Data Link service to allow design and implementation independent of details
+    of the Data Link Layer protocol. For designers of Data Link Layer protocols, it
+    defines the set of capabilities to be made available through the action of the
+    protocol.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Data link service definition for open systems interconnection for CCITT
+        applications
+    docidentifier:
+    - content: X.212 (11/1988)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

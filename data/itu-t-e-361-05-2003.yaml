@@ -17,11 +17,146 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2003-05
+  at: '2003-05-02'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: 'ITU-T Rec. E.360.1, "Framework for QoS routing and related traffic engineering
+    methods for IP-, ATM-, and TDM-based multiservice networks", provides a framework
+    for QoS Service Classes (QSCs), called virtual networks (VNETs) in the E.360.x
+    series. QSCs are defined as aggregations of individual service classes. Instead
+    of having per-class parameters being configured and propagated on each network
+    interface, classes are aggregated into QSCs having common per-QSC parameters (e.g.,
+    maximum bandwidth) to satisfy required performance levels. QSCs are known as VNETs
+    in TDM networks, class types in IP/MPLS/DiffServ networks, and QoS classes in
+    ATM networks.In this Recommendation we identify QoS routing functions and associated
+    parameters, which include: a) bandwidth allocation/protection, with traffic and
+    QoS parameters;b) routing priority;c) queuing priority; andd) class-of-service
+    identification, with service identity and QSC/VNET parameters.We propose means
+    of signalling these QoS routing parameters across networks employing different
+    routing technologies, including IP-, ATM-, and TDM-based routing technologies.
+    We propose extensions to signalling protocols such as SIP and RSVP-TE to support
+    signalling of QSCs within and across networks.'
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: List of possible supplementary telephone services which may be offered
+        to subscribers
+    docidentifier:
+    - content: E-300 series Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: North american precise audible tone plan
+    docidentifier:
+    - content: E-300 series Suppl. 3 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Treatment of calls considered as terminating abnormally
+    docidentifier:
+    - content: E-300 series Suppl. 4 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Modelling of an experimental test design for the determination of inexperienced
+        user difficulties in setting up international calls using nationally available
+        instructions, or to compare different sets of instructions
+    docidentifier:
+    - content: E-300 series Suppl. 5 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Preparation of information to customers travelling abroad
+    docidentifier:
+    - content: E-300 series Suppl. 6 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Description of INMARSAT existing and planned systems
+    docidentifier:
+    - content: E-300 series Suppl. 7 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
+    docidentifier:
+    - content: E Suppl. 11 (06/2020)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

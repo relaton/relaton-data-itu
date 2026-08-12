@@ -16,11 +16,158 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2008-10
+  at: '2008-10-30'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 3
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T D.50 recognizes the sovereign right of each State
+    to regulate its telecommunications. It recommends that Administrations involved
+    in the provision of international Internet connections negotiate and agree to
+    bilateral commercial arrangements enabling direct international Internet connections
+    that take into account the possible need for compensation between them for the
+    value of elements such as traffic flow, number of routes, geographical coverage
+    and cost of international transmission amongst others.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for reducing the costs of international Internet connectivity
+        for the Central African Backbone (CAB) project
+    docidentifier:
+    - content: D.50 Suppl. 3 (04/2025)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Supplement 2: Guidelines for reducing the costs of international Internet
+        connectivity'
+    docidentifier:
+    - content: D.50 Suppl. 2 (05/2013)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: General considerations for traffic measurement and options for international
+        internet connectivity
+    docidentifier:
+    - content: D.50 Suppl. 1 (04/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International Internet connection
+    docidentifier:
+    - content: D.50 (04/2011)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: New Appendix I – General considerations for charging criteria and options
+        for international Internet connectivity
+    docidentifier:
+    - content: D.50 (2000) Amd. 1 (06/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: International Internet connection
+    docidentifier:
+    - content: D.50 (10/2000)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Cost and tariff study method
+    docidentifier:
+    - content: D Suppl. 1 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Method for carrying out a cost price study by regional tariff groups
+    docidentifier:
+    - content: D Suppl. 2 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Handbook on the methodology for determining costs and establishing
+        national tariffs
+    docidentifier:
+    - content: D Suppl. 3 (03/1993)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

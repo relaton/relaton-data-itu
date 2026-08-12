@@ -16,11 +16,63 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2009-01
+  at: '2009-01-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Recommendation ITU-T X.1056 provides an overview of security incident management
+    processes and services for telecommunication organizations. It provides concepts
+    and key issues associated with security incident management. Since the telecommunication
+    organizations need to have processes in place to not only handle incidents that
+    do occur but to prevent incidents from re-occurring, five high-level processes
+    are described along with the relationship to the security management. In addition,
+    a list of services that a security incident management team can provide is suggested
+    in terms of reactive, proactive, and security quality management services.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

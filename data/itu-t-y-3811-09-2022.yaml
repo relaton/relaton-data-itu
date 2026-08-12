@@ -17,11 +17,262 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-09
+  at: '2022-09-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 13
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T Y.3811 specifies the functional architecture of quality
+    of service (QoS) assurance for the quantum key distribution networks (QKDNs).\r\nThis
+    Recommendation first provides an overview of the functional architecture of QoS
+    assurance for the QKDN. It then describes the functional architecture of QoS assurance
+    which includes functional entities such as QoS data collection, data processing,
+    data storage, data analytics, QoS anomaly detection and prediction, QoS policy
+    decision making, and enforcement and reporting. Based on the functional entities
+    described in the functional architecture, this Recommendation specifies a basic
+    operational procedure of QoS assurance for the QKDN.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: Y.3811 (2022) Amd. 1 (11/2023)
+    docidentifier:
+    - content: Y.3811 (2022) Amd. 1 (11/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y-series – Supplement on use cases of smart cities and communities
+    docidentifier:
+    - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Framework for Internet of things ecosystem master plan
+    docidentifier:
+    - content: Y Suppl. 68 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
+    docidentifier:
+    - content: Y Suppl. 69 (05/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications
+        of machine learning
+    docidentifier:
+    - content: Y Suppl. 70 (07/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3000 series – Use cases for autonomous networks
+    docidentifier:
+    - content: Y Suppl. 71 (07/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3000-series – Artificial intelligence standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 72 (11/2022)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution
+        networks
+    docidentifier:
+    - content: Y Suppl. 74 (03/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
+        future networks
+    docidentifier:
+    - content: Y Suppl. 75 (03/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end
+        cryptographic services with non-quantum cryptography
+    docidentifier:
+    - content: Y Suppl. 79 (11/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3800 series – Quantum key distribution networks use cases
+    docidentifier:
+    - content: Y Suppl. 80 (11/2023)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
+    docidentifier:
+    - content: Y Suppl. 82 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
+    docidentifier:
+    - content: Y Suppl. 83 (07/2024)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of synchronization in quantum key distribution networks
+    docidentifier:
+    - content: Y Suppl. 89 (03/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3000-series – Use cases of open service environment for future
+        networks
+    docidentifier:
+    - content: Y Suppl. 95 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Machine learning standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 96 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Glossary of terms and definitions for machine learning
+    docidentifier:
+    - content: Y Suppl. 97 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Technical considerations towards quantum networks
+    docidentifier:
+    - content: Y Suppl. 98 (11/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum
+        key distribution networks
+    docidentifier:
+    - content: Y Suppl. 100 (02/2026)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,172 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1988-11
+  at: '1988-11-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 12
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Handset dimensions
+    docidentifier:
+    - content: P.350 (03/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Handset telephones
+    docidentifier:
+    - content: P.35 (10/1984)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations relating to transmission characteristics for analogue
+        handset telephones
+    docidentifier:
+    - content: P Suppl. 10 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guidelines for placement of microphones and loudspeakers in telephone
+        conference rooms and for group audio terminals (GATs)
+    docidentifier:
+    - content: P Suppl. 16 (11/1988)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Examples of measurements of handset receive-frequency responses: dependence
+        on earcap leakage losses'
+    docidentifier:
+    - content: P Suppl. 20 (03/1993)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T coded-speech database
+    docidentifier:
+    - content: P Suppl. 23 (02/1998)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with spoken dialogue systems
+    docidentifier:
+    - content: P Suppl. 24 (10/2005)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Parameters describing the interaction with multimodal dialogue systems
+    docidentifier:
+    - content: P Suppl. 25 (01/2011)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
+        telemeeting quality
+    docidentifier:
+    - content: P Suppl. 26 (09/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Considerations for the development of new QoS and QoE related objective
+        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+    docidentifier:
+    - content: P Suppl. 28 (09/2020)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Subjective quality evaluation of audiovisual communication in videotelephony
+        services
+    docidentifier:
+    - content: P Suppl. 31 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

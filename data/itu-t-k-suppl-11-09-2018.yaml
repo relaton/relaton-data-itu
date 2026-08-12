@@ -16,11 +16,77 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2018-09
+  at: '2018-09-21'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '2'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: Supplement 11 to ITU-T K-series of Recommendations describes soft error
+    mitigation for field programmable gate arrays (FPGAs). FPGAs are a mainstream
+    component of recent large‑scale integrated circuits (LSIs), and many FPGAs are
+    used as the main component in equipment for communication. First, this Supplement
+    describes trends of soft error rates corresponding with the miniaturization of
+    manufacturing process rules for semiconductors, and outlines mitigation techniques
+    such as materials, physical layout and design tools that FPGA venders provide
+    to users. Second, this Supplement discusses the design methodology of communication
+    equipment, including consideration of reliability specification by using these
+    mitigation measures. Finally, this Supplement discusses recent trends for mitigation
+    measures for FPGAs.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.131 – Soft error measures of field programmable gate arrays
+    docidentifier:
+    - content: K Suppl. 11 (11/2017)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -17,11 +17,64 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2024-07
+  at: '2024-07-12'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 20
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 83 to ITU-T Y-series Recommendations provides a detailed analysis
+    of how artificial intelligence (AI) and Internet of things (IoT) technologies
+    are revolutionizing digital agriculture. It includes numerous use cases demonstrating
+    successful implementations, highlighting their objectives, innovations, data collection
+    methods and AI/ML algorithms used. The report assesses accuracy, performance,
+    deployment status and the benefits of these technologies. It also evaluates environmental
+    impacts, offering recommendations for enhancing productivity, sustainability and
+    efficiency in agriculture. Future research directions and potential advancements
+    are explored to guide further innovation and standardization in this field.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

@@ -16,11 +16,75 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2006-06
+  at: '2006-06-13'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: SAML is an XML-based framework for exchanging security information. This
+    security information is expressed in the form of assertions about subjects, where
+    a subject is an entity (either human or computer) that has an identity in some
+    security domain. A single assertion might contain several different internal statements
+    about authentication, authorization and attributes. This Recommendation defines
+    a protocol by which clients can request assertions from SAML authorities and get
+    a response from them. This protocol, consisting of XML-based request and response
+    message formats, can be bound to many different underlying communications and
+    transport protocols; SAML currently defines one binding to SOAP over HTTP. In
+    creating their responses, SAML authorities can use various sources of information,
+    such as external policy stores and assertions that were received as input in requests.
+    This Recommendation defines SAML assertions elements, subjects, conditions, processing
+    rules and statements. Additionally, it develops a comprehensive SAML metadata
+    profile that includes associated namespace, common data types, processing rules
+    and signature processing. Several protocol bindings such as SOAP, PAOS (reverse
+    SOAP), HTTP redirect, HTTP POST, among others, are also developed. This Recommendation
+    provides a comprehensive list of SAML profiles such as web browser SSO profile
+    and single logout profile to enable the wide adoption of SAML 2.0 in the industry.
+    Guidelines for authentication context and conformance are also provided.This Recommendation
+    is technically equivalent and compatible with the OASIS SAML 2.0 standard.
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

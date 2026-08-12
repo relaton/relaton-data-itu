@@ -14,13 +14,289 @@ docidentifier:
 - content: ITU-T H.264.2 (02/2015)
   type: ITU
   primary: true
+- content: ISO/IEC 14496-5
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2015-02
+  at: '2015-02-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '5'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T H.264.2 provides accompanying reference software
+    for Rec. ITU-T H.264 | ISO/IEC 14496-10 as an electronic attachment. The software
+    is an integral part of Rec. ITU-T H.264.2.\r\nThe purpose of this Recommendation
+    is to provide the following.\r\n•\tReference decoder software capable of decoding
+    bitstreams that conform to Rec. ITU-T H.264 | ISO/IEC 14496\x1E10 in a manner
+    that conforms to the decoding process specified in Rec. ITU\x1ET H.264 | ISO/IEC 14496\x1E10.\r\n•\tReference
+    encoder software capable of producing bitstreams that conform to Rec. ITU-T H.264
+    | ISO/IEC 14496\x1E10.\r\nThe use of this reference software is not required for
+    making an implementation of an encoder or decoder in conformance to Rec. ITU-T H.264 | ISO/IEC
+    14496\x1E10. Requirements established in Rec. ITU\x1ET H.264 | ISO/IEC 14496\x1E10
+    take precedence over the behaviour of the reference software.\r\nThe edition approved
+    in 2009-05 incorporated changes made to the reference software for Rec. ITU-T H.264
+    | ISO/IEC 14496-10 advanced video coding. The changes contain improvements of
+    encoder compression capability, bug fixes, speed and memory resource usage improvements,
+    restructuring of the software for readability and ease of software maintenance,
+    and the addition of support for new profiles of ITU-T H.264. The new profiles
+    are from the set of profiles targeting professional applications that were added
+    to Rec. ITU-T H.264 | ISO/IEC 14496-10 in 2007. No changes were made to the text
+    of the Recommendation.\r\nThe edition approved in 2010-06 contained improvements
+    of encoder compression capability, bug fixes, speed and memory resource usage
+    improvements, restructuring of the software for readability and ease of software
+    maintenance. In addition, this edition includes support for the Scalable Baseline,
+    Scalable High, Scalable High Intra, Multiview High, and Stereo High profiles.
+    The support for the scalable profiles specified in Annex G of Rec. ITU-T H.264
+    | ISO/IEC 14496-10 (Scalable Baseline, Scalable High, and Scalable High Intra)
+    and the support for the multiview profiles specified in Annex H of Rec. ITU-T
+    H.264 | ISO/IEC 14496-10 (Multiview High and Stereo High) are provided in separate
+    software solutions.\r\nThe edition approved in 2012-01 only introduced changes
+    to the reference software of Recommendation ITU\x1ET H.264.2 (the text is the
+    same as of the edition approved 2010-06). The changes in the reference software
+    improve the encoder compression capability, fix bugs, and improve speed and memory
+    resource usage. The software was also restructured for better readability and
+    ease of maintenance.\r\nThis edition approved in 2014-07 contains bug fixes for
+    the profiles specified in Annex A of Rec. ITU-T H.264 | ISO/IEC 14496-10. In addition,
+    this edition includes support for the MFC High profile specified in Annex H of
+    Rec. ITU-T H.264 | ISO/IEC 14496-10, support for the Multiview Depth High profile
+    specified in Annex I of Rec. ITU-T H.264 | ISO/IEC 14496-10, and support for the
+    Enhanced Multiview Depth High profile specified in Annex J of Rec. ITU-T H.264
+    | ISO/IEC 14496-10, which are provided in separate software packages.\r\nThis
+    Recommendation was developed jointly with ISO/IEC JTC 1/SC 29/WG 11 (MPEG) and
+    corresponds to part of ISO/IEC 14496-5, up to and including ISO/IEC 14496-5 (2001)
+    Amendments 33, 34 and 35."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Reference software for ITU-T H.264 advanced video coding
+    docidentifier:
+    - content: H.264.2 (02/2016)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Reference software for ITU-T H.264 advanced video coding
+    docidentifier:
+    - content: H.264.2 (01/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Reference software for H.264 advanced video coding
+    docidentifier:
+    - content: H.264.2 (06/2010)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Reference software for H.264 advanced video coding
+    docidentifier:
+    - content: H.264.2 (06/2008)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: H.264.2 (2005) Cor. 1 (10/2005)
+    docidentifier:
+    - content: H.264.2 (2005) Cor. 1 (10/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Reference software for H.264 advanced video coding
+    docidentifier:
+    - content: H.264.2 (03/2005)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Application profile – Sign language and lip-reading real-time conversation
+        using low bit rate video communication
+    docidentifier:
+    - content: H Suppl. 1 (05/1999)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Control load quantum for decomposed gateways
+    docidentifier:
+    - content: H Suppl. 6 (04/2006)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
+    docidentifier:
+    - content: H Suppl. 9 (05/2008)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Analysis of class-based home network QoS solutions
+    docidentifier:
+    - content: H Suppl. 11 (02/2009)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
+    docidentifier:
+    - content: H Suppl. 12 (11/2013)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 13 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
+    docidentifier:
+    - content: H Suppl. 14 (10/2015)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
+    docidentifier:
+    - content: H Suppl. 15 (01/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Guide for addressing accessibility in standards
+    docidentifier:
+    - content: H Suppl. 17 (11/2014)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
+    docidentifier:
+    - content: H Suppl. 18 (10/2017)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Usage of video signal type code points
+    docidentifier:
+    - content: H Suppl. 19 (04/2021)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Film grain synthesis technology for video applications
+    docidentifier:
+    - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

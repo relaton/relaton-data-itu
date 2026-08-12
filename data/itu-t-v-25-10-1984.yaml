@@ -15,11 +15,113 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 1984-10
+  at: '1984-10-19'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: V.25 (1996) Cor. 1 (07/2001)
+    docidentifier:
+    - content: V.25 (1996) Cor. 1 (07/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Automatic answering equipment and general procedures for automatic
+        calling equipment on the general switched telephone network including procedures
+        for disabling of echo control devices for both manually and automatically
+        established calls
+    docidentifier:
+    - content: V.25 (10/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Automatic answering equipment and/or parallel automatic calling equipment
+        on the general switched telephone network including procedures for disabling
+        of echo control devices for both manually and automatically established calls
+    docidentifier:
+    - content: V.25 (11/1988)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Automatic calling and/or answering equipment on the general switched
+        telephone network, including disabling of echo suppressors on manually established
+        calls
+    docidentifier:
+    - content: V.25 (11/1980)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Automatic calling and/or answering equipment on the general switched
+        telephone network, including disabling of echo-suppressors on manually established
+        calls
+    docidentifier:
+    - content: V.25 (10/1976)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

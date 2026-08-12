@@ -15,13 +15,179 @@ docidentifier:
 - content: ITU-T T.801 (2002) Amd. 3 (03/2013)
   type: ITU
   primary: true
+- content: ISO/IEC 15444-2
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2013-03
+  at: '2013-03-16'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.5'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Amendment 3 to ITU-T T.801 | ISO/IEC 15444-2 addresses multiple minor
+    changes that enrich the syntax of the JPX file format and, to a minor degree,
+    also that of the codestream.\r\nA revised syntax for ROI boxes allows identifying
+    rectangular regions of interest whose edges are not aligned to the image boundaries
+    in a way that is backwards compatible to the previous ROI box.\r\nVolume data
+    encoded by means of multi-component transformation defined in this Recommendation
+    | International Standard required extensive use of channel definition and compositing
+    layer boxes to identify the components that encode the information of the volume
+    slices; this information may easily grow several kilobytes large, even though
+    its content is largely redundant. This enhancement introduces an alternative,
+    compact form of the two box types that enables a more efficient annotation of
+    channels in this and other applications.\r\nWhile typically digital images are
+    considered to contain only integer sample values, high-dynamic range imaging or
+    compression of sensory data makes it necessary to also consider floating point
+    sample values. A new sample definition box now allows indicating both integer
+    and floating point channel data in a very flexible way that includes inter alia
+    IEEE floating point formats. Colourspace definitions have been slightly revised
+    to also define colourspace conversions for non-integer data, and a moderate extension
+    of one of the codestream markers allows efficient entropy-coding of such data
+    by the existing integer mechanism.\r\nWhile ITU\x1ET T.801 | ISO/IEC 15444-2 already
+    included mechanisms for efficient rotation of images in the compressed domain,
+    an extension of the instruction and animation subsystem of the JPX file format
+    now allows to also annotate the orientation of images and instructs image viewers
+    to perform an on-screen rotation of the image on rendering. This rotation mechanism
+    is similar to that of ITU\x1ET T.805 | ISO/IEC 15444-6 and of JPEG XR in ITU\x1ET
+    T.832 | ISO/IEC 29199-2.\r\nAmendment 3 also includes two new box types that,
+    in conjunction with the existing Association box, allow a large XML document to
+    be embedded inside the JPEG 2000 family file to be decomposed into multiple boxes
+    matching the XML element structure of the document. These boxes may be used to
+    store decomposed XML content in a finished file, but they are intended to support
+    scalable transmission of large XML embedded documents in JPIP (ITU\x1ET T.808
+    | ISO/IEC 15444\x1E9). With these new boxes, there exists a standard stream equivalent
+    for XML content that can be used to pull and subdivide XML content into metadata
+    bins separate from the metadata bin 1. These boxes can also be used as a way to
+    transmit the results of performing an XPath search on XML content in such a way
+    that the context of the resulting portion of the XML document is maintained.\r\nAs
+    the extended file format is now powerful enough to express all syntax elements
+    of the JPEG XR file format, a new annex defines a mapping from the JPEG XR file
+    format to the ISO box-based file format; this mapping is envisioned for future
+    JPEG XR based JPIP applications that would, due to the nature of JPIP, require
+    an ISO file structure based on boxes.\r\nFinally, additional elements in the reader
+    requirements list indicate all additional features included in this enhancement."
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology - JPEG 2000 image coding system: Extensions'
+    docidentifier:
+    - content: T.801 (V3) (08/2023)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology-JPEG 2000 image coding system - Extensions
+    docidentifier:
+    - content: T.801 (V2) (06/2021)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Block coder extension
+    docidentifier:
+    - content: T.801 (2002) Amd. 4 (06/2012)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: T.801 (2002) Cor. 4 (05/2006)
+    docidentifier:
+    - content: T.801 (2002) Cor. 4 (05/2006)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Extended capabilities marker segment
+    docidentifier:
+    - content: T.801 (2002) Amd. 2 (05/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: T.801 (2002) Cor. 3 (01/2005)
+    docidentifier:
+    - content: T.801 (2002) Cor. 3 (01/2005)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: 'Information technology – JPEG 2000 image coding system: Extensions'
+    docidentifier:
+    - content: T.801 (08/2002)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

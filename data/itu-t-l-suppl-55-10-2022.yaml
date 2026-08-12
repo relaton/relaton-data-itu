@@ -17,11 +17,69 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2022-10
+  at: '2022-10-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Supplement 55 to ITU-T L-series Recommendations explores the environmental
+    sustainability of data centres during their entire life cycle, factoring in a
+    broad spectrum of energy and environmental aspects that needs to be addressed
+    to achieve the relevant United Nations Sustainable Development Goals, to support
+    the development of sustainable data centres and cloud-computing services. An integrated
+    approach addressing both technical and implementation challenges is applied to
+    yield actionable insights to policy makers and industry experts.\r\nAs the role
+    of data centres and cloud computing increases, so are the concerns over their
+    energy use and its cost, as well as the associated impacts on climate change and
+    environment. In recent years, the data centre and cloud industry has made great
+    progress in enhancing energy efficiency and adopting renewable energy sources.
+    However, a sole focus on energy efficiency may cause burden shifting and overlook
+    other relevant environmental impacts stemming from other parts of the data centre
+    life cycle and cloud-computing value chain.\r\n"
+status:
+  stage:
+    content: Published
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

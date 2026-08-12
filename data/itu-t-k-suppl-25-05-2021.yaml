@@ -16,11 +16,86 @@ docidentifier:
   primary: true
 date:
 - type: published
-  at: 2021-05
+  at: '2021-05-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 5
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Short distance single-pair Ethernet (SPE) is well established in the automotive
+    industry. The evolved 10 Mb/s SPE, with up to 1 km or more of link length, is
+    aimed at industrial, building and security applications. This relatively new Ethernet
+    variant is still being standardized and a full set of preferred implementation
+    components are not widely available. The first part of this Supplement gives an
+    overview of the SPE system before proposing possible SPE surge protective device
+    (SPD) test circuits.\r\nThe long distance between the SPE terminal equipment means
+    that coupled transients can be significantly larger than those tested for in Recommendation
+    ITU-T K.117. The transient levels are higher due to local earth potential rise
+    differences and Ethernet link cable length. The SPE configuration combines the
+    Ethernet signal and any powering voltage on the two SPE link conductors, making
+    the separate measurement of signal and powering protection performance more complicated.
+    \r\nField data on 10 Mb/s, 1 km SPE resistibility was minimal in 2020 due to lack
+    of deployment. In 2021 there should be wider availability of support hardware
+    such as cable, connectors and Ethernet PHY transceivers. Supplement 25 to the
+    K-series Recommendations is necessarily predictive on resistibility requirements.
+    Once 10 Mb/s, 1 km SPE is widely deployed and field data is available, resistibility
+    requirements can be based on such data and incorporated in the appropriate K-Recommendations.\r\nCertain
+    clauses are still under study.\r\n"
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ITU-T K.117 – Supplement on long reach single twisted-pair Ethernet
+        resistibility testing
+    docidentifier:
+    - content: K Suppl. 25 (11/2025)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:

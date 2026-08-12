@@ -14,13 +14,132 @@ docidentifier:
 - content: ITU-T T.88 (2000) Amd. 3 (05/2011)
   type: ITU
   primary: true
+- content: ISO/IEC 14492
+  type: ISO
+  primary: true
 date:
 - type: published
-  at: 2011-05
+  at: '2011-05-14'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.3'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: This Amendment is the first amendment to introduce colour extension into
+    JBIG2. There are many ideas and possibilities to incorporate colour information
+    on JBIG2. In this amendment, as the first step of introducing coloured information,
+    the following principles are adopted.In order to show the Text Region Segment
+    with colour support, a flag to show colour supported Text Region Segment and a
+    flag to show its colour space (ex. sRGB) are defined. Colour information is attached
+    to the end of Text Region Segment as colour section, and T.45 representation is
+    used to code colour change information to keep the decodability by the current
+    decoder. A total of 32 colours are defined by default in this Amendment. Additional
+    colour dictionary can be defined using T.45-like expression in Colour Palette
+    Segment. In Generic Region Segment, if background colour is needed to define,
+    another intermediate region segment which has the colour as foreground should
+    be placed under the segment. The order of the priority in layout is newly defined.
+status:
+  stage:
+    content: Withdrawal
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      uri:
+      - content: www.itu.int
+      name:
+      - content: International Telecommunication Union
+      abbreviation:
+        content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology – Lossy/lossless coding of bi-level images
+    docidentifier:
+    - content: T.88 (08/2018)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Extension of adaptive templates for halftone coding
+    docidentifier:
+    - content: T.88 (2000) Amd. 2 (06/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: T.88 (2000) Amd. 1 Err. 1 (12/2004)
+    docidentifier:
+    - content: T.88 (2000) Amd. 1 Err. 1 (12/2004)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Encoder
+    docidentifier:
+    - content: T.88 (2000) Amd. 1 (06/2003)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Information technology – Lossy/lossless coding of bi-level images
+    docidentifier:
+    - content: T.88 (02/2000)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Conformance testing requirements for Recommendations of the T.170-series
+    docidentifier:
+    - content: T Suppl. 1 (11/2004)
+      type: ITU
+      primary: true
+place:
+- city: Geneva
 ext:
   schema_version: v1.1.3
   doctype:
