@@ -18,54 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2024-03-01'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '2'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "As intelligent transportation system (ITS) technologies improve, it has
-    become common for vehicles to communicate with other entities such as other vehicles,
-    vehicle-to-vehicle (V2V) and vehicle-to infrastructure (V2I) communications. Electric
-    devices inside a vehicle such as electronic control units (ECUs), electronic toll
-    collections (ETCs) and car navigation systems are becoming more sophisticated.
-    As a result, software modules inside these electric devices need to be appropriately
-    updated for the purposes of bug fixing and performance and security improvements,
-    to avoid accidents.\r\nIn order to fulfil the above requirements, Recommendation
-    ITU-T X.1373 provides secure software update procedures between a software update
-    server and vehicles with appropriate security controls including in-vehicle communication
-    messages. This Recommendation can be utilized by car manufacturers and ITS-related
-    industries as a set of standard capabilities for best practice.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2024'
   owner:
@@ -76,18 +32,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Secure software update capability for intelligent transportation system
-        communication devices
-    docidentifier:
-    - content: X.1373 (03/2017)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

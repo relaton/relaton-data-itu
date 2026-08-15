@@ -17,55 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-03-26'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1372 provides security guidelines for vehicle-to-everything
-    (V2X) communication systems. V2X is a generic term for the communication modes
-    termed as vehicle-to-vehicle (V2V), vehicle-to-infrastructure (V2I), vehicle-to-nomadic
-    devices (V2D) and vehicle-to-pedestrian (V2P) discussed in this Recommendation.\r\n\r\nSignificant
-    developments have taken place over the past few years in the area of vehicular
-    communication in the intelligent transportation system (ITS) environment. The
-    V2X communication significantly improves road safety, decreases traffic congestion
-    and increases convenience. However, V2X communication also makes relevant entities
-    in the ITS environment vulnerable to various forms of cyber-attack.\r\n\r\nTo
-    address this security problem, this Recommendation identifies threats in V2X communication
-    environments and specifies security requirements for V2X communication to mitigate
-    these threats. This Recommendation also provides description of possible implementation
-    of V2X communication with security.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2020'
   owner:

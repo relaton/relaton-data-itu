@@ -17,59 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-11-13'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1220 provides a framework for the protection of
-    storage against malware attacks on hosts, which bypass network protection and
-    endpoint protection. The framework also considers attacks caused by human errors
-    or social engineering. The framework consists of a host and a storage protection
-    server. The storage protection server works separately from the host, stores data
-    in the storage, and provides a network drive to the host.\r\nWhen an application
-    on the host requests data, the storage protection server provides real data or
-    fake data depending on whether the application is listed or not in a pre-registered
-    application list that is managed on the storage protection server with the objective
-    of protecting data in the storage against malware attacks that encrypt, tamper,
-    or steal data. The storage protection server allows pre-registered applications
-    to create, modify or delete data in the storage while preventing other applications
-    from performing those operations. It provides pre-registered applications with
-    read-write access to real data from the storage, and non-registered applications
-    with read-only access to fake data. In addition, there is synergy if the framework
-    is applied together with network protection and endpoint protection, as they provide
-    different types of protection.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

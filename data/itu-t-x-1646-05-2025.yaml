@@ -17,55 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2025-05-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Security as a service (SecaaS) is a cloud service category in which the
-    capabilities provided to the cloud service customer are the integration of a suite
-    of security services with the existing operating environment of the cloud service
-    provider. During the development, delivery, use and support of SecaaS, there are
-    security challenges. This Recommendation provides an overview of SecaaS and identifies
-    security threats in the domain of SecaaS provided from public cloud with multi-tenant
-    environments.\r\nRecommendation ITU-T X.1646 followed the structure of security
-    requirements for virtualized services defined in Technical Report ITU-T XSTR-XAASL,
-    Framework for security standardization for virtualized services. Security threats
-    in the domain of SecaaS are identified in the following areas: architecture, identity
-    and access management, software isolation and application programming interface
-    (API)-related issues, isolation of instances, data protection, availability, incident
-    response, management, orchestration and deployment.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2025'
   owner:

@@ -18,47 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2017-03-30'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Diverse kinds of attacks employ replicated content from trustworthy service
-    providers, thereby deceiving end-users into believing its false trustworthiness.\r\n\r\nRecommendation
-    ITU-T X.1212 describes design consideration for improved end-user perception of
-    trustworthiness indicators. The appendices describe representative techniques
-    for measuring end-user perception of such indicators.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2017'
   owner:

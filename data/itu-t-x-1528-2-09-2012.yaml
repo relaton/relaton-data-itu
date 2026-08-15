@@ -17,52 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2012-09-07'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: 'Recommendation ITU-T X.1528.2 defines the specification for common platform
-    enumeration (CPE) name matching. The CPE name matching specification is part of
-    a stack of CPE specifications that support a variety of use cases relating to
-    IT product description and naming. The CPE name matching specification provides
-    a method for conducting a one-to-one comparison of a source CPE name to a target
-    CPE name. In addition to defining the specification, this Recommendation also
-    defines and explains the requirements that IT products must meet to claim compliance.
-    This is achieved by listing the relevant clauses of the NIST Interagency Report
-    7696 Common Platform Enumeration: Name Matching Specification version 2.3 and
-    showing whether they are normative or informative.'
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2012'
   owner:

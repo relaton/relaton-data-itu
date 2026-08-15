@@ -18,51 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-04-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1412 analyses security threats and challenges and
-    provides security requirements for smart contract management in distributed ledger
-    technology (DLT) systems. As smart contracts are widely used in DLT systems, they
-    are faced with a lot of security threats and challenges. \r\nAs such this Recommendation
-    can be used by smart contract designers, developers, and managers to manage smart
-    contracts, including design and development, compilation and deployment, invocation
-    and execution, maintenance and management in DLT systems. This Recommendation
-    does not deal with the security issues of wallets or distributed applications
-    related to smart contracts.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

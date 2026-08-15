@@ -17,62 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2026-03-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Public institutions and businesses commonly use network storage to centrally
-    store and share data. However, malware attacks are increasingly targeting network
-    storage in addition to attacking local storage on PCs or servers, because the
-    scale of damage from an attack on network storage is much larger than that of
-    an attack on local storage. \r\nRecommendation ITU-T X.1560 describes a framework
-    to protect network storage against malware attacks which comprises two entities:
-    a host and a network storage protection (NSP) system. The NSP system comprises
-    a network file server, a NSP server, storage, and an operational mode selection
-    application. After providing logical storage mapped with real storage to the network
-    file server, the NSP system grants administrators and users control over its actions.
-    Depending on the chosen mode, it processes or blocks file creation, reading, modification
-    and deletion requests on the network file server based on the operational mode
-    settings of the NSP server:\r\n–In read–write mode, it operates as usual, allowing
-    files to be created, read, modified and deleted. \r\n–In read-only mode, all existing
-    files become read-only, preventing any new creation, modification or deletion.
-    \r\n–In WORM (write once read many) mode, new files can be created and read but
-    cannot be modified or deleted. \r\n–In add-only mode, new files can be created,
-    preventing reading, modification or deletion. \r\n–In list-only mode, it permits
-    viewing the listing of the names and extensions of existing files, while restricting
-    creating, reading, modification or deletion.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2026'
   owner:

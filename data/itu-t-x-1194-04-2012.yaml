@@ -17,48 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2012-04-13'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1194 develops an algorithm selection standard for
-    descrambling in various terminal devices. This Recommendation provides the general
-    service and content\r\nprotection (SCP) architecture, security requirements and
-    algorithm selection scheme (ASS). In particular, the algorithm selection scheme
-    consists of the SCP control client function, ASS descrambler/demuxer control function
-    and descrambler authentication function.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2012'
   owner:

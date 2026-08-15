@@ -17,52 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2019-01-30'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1249 provides a technical framework for countering
-    mobile in‑application advertising spam. Mobile in-application advertising spam
-    is the sending of unsolicited advertisements, which are displayed within a mobile
-    phone application. This unsolicited advertising can appear on the display screen
-    of a mobile device as a banner at the top or bottom of the screen, a mobile interstitial,
-    or an overlay. Along with the rapidly increasing development of mobile applications,
-    mobile in-application advertisement has been surging dramatically. Filtering malicious
-    advertisements may improve the user experience and even security. Therefore, it
-    may be beneficial to establish a practical framework for countering mobile in-application
-    advertising spam, which can reasonably integrate the advantages of all countermeasures.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2019'
   owner:
@@ -73,18 +31,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated
-        threats
-    docidentifier:
-    - content: X Suppl. 6 (09/2009)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

@@ -18,53 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2010-12-17'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1209 describes high level scenarios and supporting
-    capabilities for cybersecurity information sharing and exchange. This Recommendation
-    provides capabilities important for supporting interoperability between applications
-    for the sharing and exchange of cybersecurity information.Capabilities are described
-    which may be used in scenarios/situations supporting previously independent acting
-    entities to participate in various coordinated efforts, such as the prevention
-    or halting of targeted behaviour or the coordination of analysis and determination
-    efforts.The goal of the capabilities listed and described is to support more efficient
-    and effective security operations by supporting the interoperable sharing and
-    exchange of information between trusted parties working together to monitor, maintain
-    and generally manage the security of systems and networks.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2010'
   owner:

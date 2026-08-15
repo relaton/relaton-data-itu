@@ -18,48 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2012-03-02'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1500.1 provides for the registration of OID arcs
-    which enable coherent, unique and global identification of cybersecurity information
-    as well as for organizations exchanging that information and associated policies.
-    This Recommendation specifies the information and justification to be provided
-    when requesting an OID for cybersecurity information exchange purposes, and the
-    procedures for the operation of the Registration Authority.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2012'
   owner:

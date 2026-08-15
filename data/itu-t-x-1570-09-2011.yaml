@@ -17,51 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2011-09-02'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1570 provides a framework for discovering cybersecurity
-    information and the mechanism that enables this. Discovery can be seen as a stage
-    of the cybersecurity information lifecycle adjacent to information publishing
-    and acquisition, which are integral and necessary stages for discovery. Thus,
-    the framework covers how to publish cybersecurity information, obtain the candidate
-    list, and acquire the needed information. A discovery scheme may be implemented
-    with arbitrary mechanisms so long as they comply with the framework. Among these
-    mechanisms are object identifier (OID)-based discovery and resource description
-    framework (RDF)-based discovery, which are also elaborated in this Recommendation.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2011'
   owner:

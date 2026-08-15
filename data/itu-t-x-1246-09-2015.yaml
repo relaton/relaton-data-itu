@@ -17,58 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2015-09-17'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Voice communication is a fundamental service provided by telecommunication
-    networks. With the development of voice communication, voice spam has also been
-    increasing with numerous negative effects on end users and network operators.
-    In general, voice spam has content ranging from commercial advertisement to offensive
-    pornographic material, which has various kinds of negative effects on end users
-    and network operators. Voice spam may allure, annoy, bully or even intimidate
-    users as well as having negative effects on network resources. To avoid these
-    negative influences and to protect users' rights and maintain network stability,
-    network operators may wish to increase their efforts to counter voice spam.\r\n\r\nThe
-    objective of Recommendation ITU-T X.1246 is to review technical solutions to counter
-    voice spam without consideration of the risk to the authenticity of the spammer
-    identity. This Recommendation gives an overview of voice spam and summarizes the
-    existing anti-spam technologies which are used by users and telecommunication
-    networks alike as well as the collaboration mechanisms between them. Additional
-    proposed technical solutions are also recommended based on these anti-spam technologies
-    and collaboration mechanisms."
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2015'
   owner:
@@ -79,26 +31,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    formattedref:
-      content: X.1246 (2015) Amd. 1 (05/2022)
-    docidentifier:
-    - content: X.1246 (2015) Amd. 1 (05/2022)
-      type: ITU
-      primary: true
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated
-        threats
-    docidentifier:
-    - content: X Suppl. 6 (09/2009)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

@@ -18,57 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2026-03-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "With the rapid advancement and widespread adoption of blockchain technology,
-    it has become clear that a single blockchain system cannot effectively cater to
-    the diverse needs of various distributed applications. As a result, the demand
-    for blockchain interoperability solutions has become increasingly apparent. As
-    blockchain-based services continue to emerge across different industries and sectors,
-    the need for seamless interaction and interoperability between disparate blockchain
-    networks has become crucial.\r\nThe distributed ledger technology (DLT) gateway
-    is designed to provide unified interfaces and adhere to standard protocols, allowing
-    blockchain applications to interact with and harness the functionalities of other
-    blockchain networks. It establishes a common language and set of rules that enable
-    smooth interoperability, eliminating the barriers that exist between different
-    blockchain platforms.\r\nRecommendation ITU-T X.1415 focuses on proposing security
-    requirements for the DLT gateway. By addressing security concerns and establishing
-    a robust security framework, it aims to ensure the safe and reliable operation
-    of the DLT gateway.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2026'
   owner:

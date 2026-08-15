@@ -15,55 +15,13 @@ docidentifier:
 - content: ITU-T X.1631 (07/2015)
   type: ITU
   primary: true
-- content: ISO/IEC 27017
-  type: ISO
-  primary: true
 date:
 - type: published
   at: '2015-07-14'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1631 | ISO/IEC 27017 provides guidelines for information
-    security controls applicable to the provision and use of cloud services by providing:\r\n\r\n–
-    \     additional implementation guidance for relevant controls specified in ISO/IEC
-    27002;\r\n\r\n–      additional controls with implementation guidance that specifically
-    relate to cloud services.\r\n\r\nThis Recommendation | International Standard
-    provides controls and implementation guidance for both cloud service providers
-    and cloud service customers.\r\n\r\n"
-status:
-  stage:
-    content: Withdrawal
 copyright:
 - from: '2015'
   owner:
@@ -74,18 +32,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Information security, cybersecurity and privacy protection — Information
-        security controls based on ISO/IEC 27002 for cloud services
-    docidentifier:
-    - content: X.1631 (12/2025)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

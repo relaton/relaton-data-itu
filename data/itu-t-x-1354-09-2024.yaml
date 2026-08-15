@@ -17,50 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2024-09-06'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1354 provides practical security guidelines for
-    three stakeholders, namely providers, developers and users of services in Internet
-    of things (IoT) systems. It also describes the concept, risks and security controls
-    of these systems.\r\nIoT systems present particular challenges for information
-    security because they are highly distributed and involve a large number of diverse
-    entities. This implies that there is a very large attack surface and poses a significant
-    challenge for an information security management system to apply and maintain
-    appropriate security controls across the whole system.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2024'
   owner:

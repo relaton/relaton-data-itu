@@ -18,56 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2024-09-06'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "The security community is undertaking a significant movement to replace
-    password authentication with alternative solutions that are collectively known
-    as passwordless authentication. Unfortunately, many of the passwordless solutions
-    proposed suffer from the same limitations as current password authentication solutions.
-    These proposed passwordless authentication solutions are vulnerable to man-in-the-middle
-    and phishing attacks among others.\r\nRecommendation ITU-T X.1283 presents security
-    and threat analysis of authentication solutions that are based on the use of shared
-    secrets and closely examines security risks associated with password authentication
-    systems and emerging passwordless authentication solutions.\r\nThe Recommendation
-    considers threat analysis, and develops guidelines and best practices for the
-    protection of users and accounts based on these methods. This Recommendation can
-    be used by adopters to support legacy solutions as they migrate to stronger authentication
-    methods based on public key infrastructure (PKI) technology as presented in for
-    example Recommendation ITUT X.1277 and Recommendation ITU-T X.1278.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2024'
   owner:

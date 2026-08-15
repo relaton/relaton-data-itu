@@ -17,55 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2012-09-07'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1580 on real-time inter-network defence (RID) outlines
-    a proactive inter-network communication method to facilitate the automation of
-    sharing incident handling information. Implementations may integrate with existing
-    incident management systems as well as detection, source identification, and mitigation
-    mechanisms for a more complete incident handling solution. RID specifies a method
-    to securely communicate incident information, enabling the exchange of incident
-    object description exchange format (IODEF) extensible markup language (XML) documents.
-    RID provides a technical means to convey security, policy, and privacy controls
-    to enable the exchange of potentially sensitive information. The technical capabilities
-    can be mapped to the appropriate policies to enable service providers or organizations
-    the option to make appropriate decisions according to their policies.\r\nThis
-    Recommendation specifies RID by listing the relevant clauses of IETF RFC 6545
-    and showing whether they are normative or informative.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2012'
   owner:

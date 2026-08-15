@@ -17,50 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-04-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1278.2 describes an application layer protocol for
-    communication between a roaming authenticator and another client/platform, as
-    well as bindings of this application protocol to a variety of transport protocols
-    using different physical media. The application layer protocol defines requirements
-    for such transport protocols. Each transport binding defines the details of how
-    such transport layer connections should be set up, in a manner that meets the
-    requirements of the application layer protocol.NOTE – This Recommendation is technically
-    equivalent to FIDO Alliance's Client to Authenticator Protocol (CTAP) v2.1.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

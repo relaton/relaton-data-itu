@@ -18,65 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-03-03'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Event data recorders (EDRs) are one of the most important components installed
-    in automotive road vehicles to record vehicle status, vehicle movements and user
-    inputs during crashes. By analysing the event data, the cause of a crash can be
-    understood and eventually, used to improve safety in automotive environments.
-    A data storage system for automated driving is also an important component to
-    record data that will give a clear picture of the interactions between the driver
-    and the automated driving system. Conventional event data recorders, however,
-    record and manage the whole data locally and in this way, the data could come
-    under threat of loss and destruction. Cloud computing is being considered as an
-    enabler of network access to a scalable and elastic pool of shareable physical
-    or virtual resources with self-service provisioning and administration on-demand.
-    Industries such as the aviation industry are already attempting to apply cloud
-    services to event data recording systems to increase safety in the aviation environment.
-    According to the current trend of connectivity among vehicles, EDRs and the data
-    storage systems for automated driving will be implemented to increase their overall
-    safety. However, they have various vulnerabilities in the process of collecting,
-    transferring, storing, managing, and using the recorded data according to the
-    distinctive characteristics of the automotive environment. Therefore, it is necessary
-    to study these vulnerabilities, security requirements, and use cases for cloud-based
-    data recorders in automotive environments.Recommendation ITU-T X.1380 provides
-    security guidelines for cloud-based data recorders in automotive environments.
-    It describes threats, vulnerabilities, security requirements, and use cases for
-    cloud-based data recorders in automotive environments.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

@@ -12,44 +12,10 @@ docidentifier:
 date:
 - type: published
   at: '2015-10-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1.1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Corrigendum 1 to Recommendation ITU-T X.1314 corrects errors in clause
-    7.1.2.6.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2015'
   owner:
@@ -60,17 +26,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Security requirements and framework of ubiquitous networking
-    docidentifier:
-    - content: X.1314 (11/2014)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

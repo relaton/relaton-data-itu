@@ -17,56 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2018-03-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Home area network (HAN) in the smart grids is a premises network of the
-    smart grids. Unlike the traditional HAN, the HAN in the smart grids includes smart
-    grid devices, such as distributed energy resources (DERs), electric vehicle (EV)
-    charger, home energy management system (HEMS), and customer energy display (CED).
-    Customer’s electricity loads and distributed electricity energy resources (DERs)
-    are connected to HAN, so that the customers can turn on or off the loads and DERs
-    based on the information from the utility in order to maximize the efficiency
-    of the electricity usage. HAN is usually connected to the Internet, so the attackers
-    can easily access to a HAN and HAN devices. Thus, the HAN devices should provide
-    the capabilities that prohibit the attackers from compromising the HAN and its
-    devices. The draft Recommendation ITU-T X.sgsec-2 will provide threat analysis
-    of the HAN in the smart grids, security requirements, and security functions.
-    Since the role and functions of each HAN device are different, the security requirements
-    and security functions by devices are provided.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2018'
   owner:

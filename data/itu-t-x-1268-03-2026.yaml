@@ -18,51 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2026-03-16'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1268 provides a framework for out-of-band physical
-    access control systems using beacon-based dynamic authentication information,
-    enabling users to authenticate and use physical facilities in a safe and trustworthy
-    manner coupled with biometric authentication on their smartphones. It defines
-    the procedures of out-of-band physical access control systems, where users use
-    physical facilities to receive beacon-based dynamic authentication information
-    on their smartphones, verify facility information, and then perform the approval
-    operation on their smartphones. Additionally, it identifies potential security
-    threats associated with these systems and the corresponding security requirements.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2026'
   owner:

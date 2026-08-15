@@ -18,56 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-09-08'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Network security situational awareness (NSSA) is derived from situational
-    awareness. It usually includes four processes, data acquisition, security situation
-    analysis, security situation assessment and security situational tendency projection,
-    and it generally has the following capabilities: 1) detection and persistent monitoring
-    of various attack threats, abnormal behaviour and their scope of influence; 2)
-    data mining, threat analysis and tracing abnormal behaviour; 3) security prediction
-    and early warning; 4) visualization of the security situation. \r\nFor cloud computing
-    service providers, the NSSA platform plays an important role in improving cloud
-    computing's security protection, the ability to detect security breaches or anomalous
-    behaviours, security decision-making and emergency response ability, and it can
-    even help improve the early warning mechanism for cloud computing.\r\nRecommendation
-    ITU-T X.1645 will first introduce the concept and development of NSSA, analyse
-    the advantages of NSSA coping with the security challenges of cloud computing
-    and document the requirements for the NSSA platform for cloud computing.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

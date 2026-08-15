@@ -18,52 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2018-03-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1214 describes a security assessment methodology
-    for software-based telecommunication/ICT network elements and best practices for
-    developers, manufacturers, operators and individual security experts of the telecommunication
-    domain for addressing the secureness of their software-based elements. Both the
-    traditional circuit-switched networks and the packet-based networks are exposed
-    to different threats and attacks - from external as well as internal sources -
-    that target the various parts of the telecommunications/ICT network.  This Recommendation
-    covers the followings:\r\n\r\n–           Detection of vulnerabilities in telecommunications/ICT
-    network\r\n\r\n–           Methodology of security assessment in telecommunications/ICT
-    network\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2018'
   owner:

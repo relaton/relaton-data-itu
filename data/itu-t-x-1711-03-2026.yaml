@@ -17,49 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2026-03-16'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1711 specifies the framework of quantum key distribution
-    (QKD) protocols in the quantum layer of a QKD network (QKDN). In a QKDN, QKD protocols
-    instruct the QKD modules operating over the QKD link to produce QKD-keys via the
-    quantum communication stage and the key distillation stage. This Recommendation
-    gives an overview of QKD protocols in the quantum layer, specifies the QKD protocol
-    architecture and introduces the operation of QKD protocols in general, which forms
-    a framework for QKD protocols in QKDNs.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2026'
   owner:

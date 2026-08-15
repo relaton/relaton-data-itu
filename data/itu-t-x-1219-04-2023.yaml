@@ -17,52 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-04-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1219 provides the functional requirements for a
-    secured process to evaluate technical vulnerabilities. \r\nVulnerability evaluation
-    by crowdsourcing is an effective approach for famous online systems to identify
-    technical vulnerabilities. However, many problems and challenges remain such as
-    when the shell scripts that are uploaded by members of security teams are not
-    deleted after evaluation, which results in backdoors in the system. \r\nThe functional
-    requirements provided in this Recommendation, and the corresponding security mechanisms,
-    would help increase trust in the crowdsourcing approach by ensuring that vulnerability
-    evaluations performed by security teams are reliable, auditable, traceable and
-    controllable.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

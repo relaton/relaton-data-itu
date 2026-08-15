@@ -17,46 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2015-09-17'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1341 defines the certified mail transfer protocol
-    (CMTP) and certified post office protocol (CPOP) in order to foster exchange of
-    electronic certified mails worldwide in a secure way by providing confidentiality,
-    identification of the correspondents, integrity and non‑repudiation.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2015'
   owner:

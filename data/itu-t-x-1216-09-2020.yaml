@@ -18,48 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-09-03'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1216 describes a general procedure for cybersecurity
-    incident response and investigation. It also analyses sources of cybersecurity
-    incident evidence and specifies capability requirements for tools used for collection
-    and preservation of such evidence in an investigative process. This Recommendation
-    also specifies reliability assurance requirements for these tools as guidelines
-    to developers who design tools for such purpose. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2020'
   owner:

@@ -18,46 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2009-02-20'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1242 describes the realization of the SMS spam filtering
-    system based on user-specified rules. It defines the structure of SMS spam filtering
-    system, SMS spam filtering functions, users' service management, communication
-    protocols and basic functional requirements of terminals with SMS functions.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2009'
   owner:
@@ -68,29 +32,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated
-        threats
-    docidentifier:
-    - content: X Suppl. 6 (09/2009)
-      type: ITU
-      primary: true
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: 'ITU-T X.1242 – Supplement on guidelines on countermeasures against
-        short message service phishing and smishing attacks  '
-    docidentifier:
-    - content: X Suppl. 29 (09/2017)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

@@ -18,47 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2008-04-18'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1206 provides a framework for automatic notification
-    of security related information and dissemination of updates. The key point of
-    the framework is that it is a vendor-neutral framework. Once an Asset is registered,
-    updates on vulnerabilities information and patches or updates can be automatically
-    made available to the users or directly to applications regarding the Asset.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2008'
   owner:

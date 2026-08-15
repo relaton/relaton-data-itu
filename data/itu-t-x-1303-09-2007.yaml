@@ -17,55 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2007-09-13'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: The common alerting protocol (CAP) is a simple but general format for exchanging
-    all-hazard emergency alerts and public warnings over all kinds of networks. CAP
-    allows a consistent warning message to be disseminated simultaneously over many
-    different warning systems, thus increasing warning effectiveness while simplifying
-    the warning task. CAP also facilitates the detection of emerging patterns in local
-    warnings of various kinds, such as might indicate an undetected hazard or hostile
-    act. CAP also provides a template for effective warning messages based on best
-    practices identified in academic research and real-world experience.ITU-T Recommendation
-    X.1303 also provides both an XSD specification and an equivalent ASN.1 specification
-    (that permits a compact binary encoding) and allows the use of ASN.1 as well as
-    XSD tools for the generation and processing of CAP messages. This Recommendation
-    enables existing systems, such as H.323 systems, to more readily encode, transport
-    and decode CAP messages.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2007'
   owner:

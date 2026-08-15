@@ -17,58 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-09-08'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Smart office services combining multiple smart applications aim to improve
-    the quality of office-based businesses and enhance efficiency management. Since
-    information and communication technologies (ICTs) serve as the basis for technologies
-    in smart office services, the telecommunication operator plays an important role
-    among the stakeholders in smart office services. \r\nTypical smart office services
-    include smart parking, smart driving, smart retail shop, smart office, smart meeting
-    room management, smart water and smart energy consumption management. Among these
-    typical smart office services, the location data provided by the operator is one
-    of the key elements in most smart office service implementations.\r\nIn order
-    to ensure the security of location-enabled smart office services, security threats
-    and relevant security requirements specific to location-enabled services need
-    to be analysed and the overall security measures established.\r\nRecommendation
-    ITU-T X.1454 analyses the typical application scenarios of location-enabled smart
-    office services, specifies their security threats and requirements and establishes
-    security measures for the operator and key stakeholders in a smart office to safeguard
-    location-enabled services.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

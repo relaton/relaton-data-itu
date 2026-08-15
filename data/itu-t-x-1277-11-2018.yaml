@@ -17,47 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2018-11-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: 'Recommendation ITU-T X.1277 describes the FIDO universal authentication
-    framework (UAF) that enables online services and websites, whether on the open
-    Internet or within enterprises, to transparently leverage native security features
-    of end-user computing devices for strong user authentication and to reduce the
-    problems associated with creating and remembering many online credentials. '
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2018'
   owner:

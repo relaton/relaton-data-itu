@@ -17,53 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-04-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "The goal of the universal authentication framework is to provide a unified
-    and extensible authentication mechanism that supplants passwords while avoiding
-    the shortcomings of current alternative authentication approaches.\r\nThis approach
-    is designed to allow the relying party to choose the best available authentication
-    mechanism for a particular end user or interaction, while preserving the option
-    to leverage emerging device security capabilities in the future without requiring
-    additional integration effort.\r\nRecommendation ITU-T X.1277.2 describes the
-    architecture in detail, it defines the flow and content of all UAF protocol messages
-    and presents the rationale behind the design choices. \r\nNOTE – Recommendation
-    ITU-T X.1277.2 is technically aligned to FIDO UAF Protocol Specification v1.2
-    (2020).\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

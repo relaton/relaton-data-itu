@@ -17,59 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-11-13'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1236 specifies requirements for security features
-    to block inbound and outbound email attacks in the form of multilevel management
-    that includes countermeasures against targeted email attacks. This approach is
-    necessary to integrate or deploy a new framework to improve Internet user defence
-    against such attacks. Recommendation ITU-T X.1236 forms a reference on the direction
-    and objectives of designing an email security diagnostic framework or developing
-    email security solutions with those security functional requirements for information
-    technology (IT) security managers, especially in those countries beginning to
-    be actively engaged in IT development and implementation.\r\nTargeted email attacks
-    are designed to damage or compromise information assets of an entity by establishing
-    a connection with the targets after gathering sufficient resources to conduct
-    an attack and then enticing them to take certain actions that eventually create
-    a security loophole. These targeted attacks used in inbound and outbound emails
-    are evolving into more sophisticated and unknown types, such as using unknown
-    malicious files or capitalizing on the target's social relationships. However,
-    so far there are no security requirements proposed to effectively prevent or block
-    them.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

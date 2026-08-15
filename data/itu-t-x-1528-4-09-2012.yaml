@@ -17,56 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2012-09-07'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1528.4 defines the specification for common platform
-    enumeration (CPE) applicability language. The CPE applicability language specification
-    is part of a stack of CPE specifications that support a variety of use cases relating
-    to IT product description and naming. The CPE applicability language data model
-    builds on top of other CPE specifications to provide the functionality required
-    to allow CPE users to construct complex groupings of CPE names to describe IT
-    platforms. These groupings are referred to as applicability statements because
-    they are used to designate the platforms to which particular guidance, policies,
-    etc. apply. This Recommendation defines the semantics of the CPE applicability
-    language data model and the requirements that IT products and CPE applicability
-    language documents must meet to claim compliance with this Recommendation.\r\nThis
-    is achieved by listing the relevant clauses of the NIST Interagency Report 7698:
-    Common Platform Enumeration Applicability Language Specification version 2.3 and
-    showing whether they are normative or informative.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2012'
   owner:

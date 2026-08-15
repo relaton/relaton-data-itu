@@ -17,47 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2025-05-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1285 defines the core OpenID Connect functionality:
-    authentication built on top of OAuth 2.0 and the use of Claims to communicate
-    information about the End-User. It also describes the security and privacy considerations
-    for using OpenID Connect.\r\nThis Recommendation is technically aligned with OpenID
-    Foundation specification OpenID Connect Core 1.0 incorporating errata set 2. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2025'
   owner:

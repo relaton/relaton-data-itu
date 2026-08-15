@@ -17,54 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2019-01-30'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1215 provides various use cases for how the structured
-    threat information expression (STIX) language may be used to support cyber threat
-    intelligence (CTI) and information sharing.\r\n\r\nThis Recommendation also describes
-    concepts and functionality of the STIX language. It is targeted to support a range
-    of use cases involved in cyber threat management, including analysing cyber threats,
-    specifying indicator patterns for cyber threats, managing response activities
-    and sharing cyber threat information. With this kind of information, a security
-    decision can be made on how to best defend against the threat. It is intended
-    to support both more effective analysis and the continued exchange of cyber threat
-    information. The STIX suite of specifications [b-STIX2.0] is maintained under
-    the responsibility of the Organization for the Advancement of Structured Information
-    Standards (OASIS).\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2019'
   owner:

@@ -17,47 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-10-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1710 specifies a framework including requirements
-    and measures to combat security threats for quantum key distribution networks
-    (QKDNs). \r\n\r\nIt specifies a simplified QKDN structure for analysis of the
-    relevant security threats. Security requirements and corresponding security measures
-    are then specified on that basis. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2020'
   owner:

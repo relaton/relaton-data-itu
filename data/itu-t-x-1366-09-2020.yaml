@@ -17,58 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-09-03'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "The number of Internet of things (IoT) devices is increasing, and in the
-    near future there will be an enormous number of devices connected to the IoT network
-    including 5G. Recommendation ITU-T X.1366 specifies two message authentication
-    schemes. One is an aggregate message authentication (AMA) scheme for IoT as a
-    basic mechanism. The other is an interactive aggregate message authentication
-    (IAMA) scheme with interactive protocol in a lightweight and secure manner. Both
-    aggregate message authentication schemes can be applied for ensuring \"entity
-    (identity) authentication\" as well as for ensuring \"message authentication\".
-    These schemes may not be applicable in all use cases for utilizing IoT devices,
-    but they are quite effective and suitable for use cases in the following conditions
-    where: \r\n• Message authentication is required from tens to tens of thousands
-    of IoT devices. \r\n• Data or message being handled for an authentication process
-    that occurs frequently and intermittently. \r\nFor example, \"surveillance applications
-    for use of image data\" and \"remote telemetry\" such as monitoring of plant or
-    factory operations and health monitoring are the typical candidates of use cases
-    for these schemes. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2020'
   owner:

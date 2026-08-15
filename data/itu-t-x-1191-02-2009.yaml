@@ -17,45 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2009-02-20'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1191 addresses the functional requirements, architecture,
-    and mechanisms dealing with the security aspects of IPTV content, services, networks,
-    terminal devices, and subscribers (end users).
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2009'
   owner:

@@ -17,53 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-03-03'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1411 provides generic security guidelines for blockchain
-    as a service (BaaS). The security threats and vulnerabilities of BaaS are first
-    analysed and then the security measures of BaaS are provided. The Recommendation
-    also addresses security requirements and provides guidelines for all the activities
-    in the construction, operation and use of BaaS.\r\nBlockchain as a service (BaaS)
-    has become mainstream in blockchain development due to its promising capabilities
-    and the extensive support it has received from the industry, especially from top
-    cloud providers. BaaS provides the fundamental service and resources for blockchain
-    applications, however, it faces security challenges arising from both blockchain
-    core technologies and cloud platforms. Guidance on Baas security is thus of great
-    importance and a necessity. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

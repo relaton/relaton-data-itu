@@ -18,37 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '1988-11-25'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '5'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-status:
-  stage:
-    content: Withdrawal
 copyright:
 - from: '1988'
   owner:
@@ -59,50 +32,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Hypothetical reference circuit for systems using analogue transmission
-        in the fixed-satellite service
-    docidentifier:
-    - content: G.434 (10/1984)
-      type: ITU
-      primary: true
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Hypothetical reference circuit for communication-satellite systems
-    docidentifier:
-    - content: G.434 (11/1980)
-      type: ITU
-      primary: true
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Hypothetical reference circuit for communication-satellite systems
-        (C.C.I.R. Recommendation 352-2)
-    docidentifier:
-    - content: G.434 (10/1976)
-      type: ITU
-      primary: true
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Hypothetical reference circuit for communication-satellite systems
-        (C.C.I.R. Recommendation 352-1)
-    docidentifier:
-    - content: G.434 (12/1972)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

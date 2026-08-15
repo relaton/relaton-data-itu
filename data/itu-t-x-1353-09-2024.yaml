@@ -18,63 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2024-09-06'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Massive Internet of things (mIoT) is a significant application of future
-    communication networks. With diverse use cases anticipated in mIoT, it is difficult
-    for manufacturers to pre-install their manufactured IoT devices with mobile-operator-specific
-    and/or service-specific information (e.g., identifiers and keys), since manufacturers
-    may not know where and how their devices will eventually be deployed and activated.
-    The current approach relies on customers' manual configuration which is acceptable
-    for small-scale IoT applications. However, for mIoT devices, the aforementioned
-    approach is unacceptable due to the fact that manual configuration is time consuming,
-    cost-ineffective and cumbersome. Thus, automatic credential provisioning without
-    the user's involvement, known as \"zero-touch\" is needed for mIoT.\r\nRecommendation
-    ITU-T X.1353 provides a security methodology for designing a decentralized credential
-    management system to support the zero-touch deployment of future mIoT based on
-    blockchain technology. This is one feasible and promising approach to achieve
-    the zero-touch deployment for future massive-IoT. Zero-touch deployment will enable
-    IoT devices to obtain credentials automatically from their mobile network operator
-    and their service provider, and thus automatically connect to the network and
-    the service. This will greatly facilitate the future deployment of mIoT devices
-    for verticals. This Recommendation covers security architecture, security considerations
-    and related security procedures (such as device attestations, authentication,
-    and credential provisioning), which are essential for building such a zero-touch
-    deployment platform for mIoT.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2024'
   owner:

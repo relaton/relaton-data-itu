@@ -17,47 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2024-10-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "The purpose of Recommendation ITU-T X.1600 is to guide operators on implementing
-    a uniform security management for multi-vendor environments. This Recommendation
-    analyses the main security challenges and proposes a collaborative cloud-edge
-    computing security architecture. In addition, this Recommendation describes the
-    key technologies and work procedures of the security architecture.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2024'
   owner:

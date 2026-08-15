@@ -17,51 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2019-11-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Distributed ledger technology (DLT) provides a technical mechanism for
-    achieving verifiable trust through consensus and collective decision-making. DLT
-    also involves maintaining ledgers in a decentralized way and using crypto-mechanisms
-    that can deliver some intrinsic security features. However, a distributed ledger
-    system still has security limitations, for example, confidentiality must be added
-    depending on use case, data sensitivity and applicable data privacy regulations.\r\n\r\nRecommendation
-    ITU-T X.1401 provides a structured and systematic threat analysis method to design,
-    implement and operate a distributed ledger technology system and to evaluate its
-    security.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2019'
   owner:

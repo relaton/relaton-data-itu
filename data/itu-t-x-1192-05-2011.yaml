@@ -17,45 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2011-05-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: This Recommendation deals with the functional requirements, architecture,
-    and mechanisms that pertain to the security of transcoding protected IPTV content.
-    Generic security of IPTV content is not discussed in this Recommendation.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2011'
   owner:

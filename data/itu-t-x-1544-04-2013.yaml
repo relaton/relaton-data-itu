@@ -17,51 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2013-04-26'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1544 is an XML/XSD-based specification for the identification,
-    description, and enumeration of attack patterns. Attack patterns are a powerful
-    mechanism to capture and communicate the attacker's perspective. They are descriptions
-    of common methods for exploiting software. They derive from the concept of design
-    patterns applied in a destructive rather than constructive context and are generated
-    from in-depth analysis of specific real-world exploit examples. The objective
-    of the common attack pattern enumeration and classification (CAPEC) is to provide
-    a publicly available catalogue of attack patterns along with a comprehensive schema
-    and classification taxonomy.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2013'
   owner:

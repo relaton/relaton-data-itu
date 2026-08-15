@@ -18,51 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2024-10-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "With the development of cloud computing, computing tasks can be outsourced
-    to external computing resources for computation. However, computing resources
-    differ in the security levels they offer, and computing tasks differ in their
-    security requirements. To mitigate the security threats introduced by insecure
-    computing resources and satisfy the security requirements of computing tasks,
-    secure computation methods can be applied. \r\nRecommendation ITU-T X.1647 provides
-    guidelines for the selection of secure computation methods and resources from
-    cloud service providers (CSPs) to help service customers or stakeholders to execute
-    outsourcing computation in a way that meets their security requirements.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2024'
   owner:

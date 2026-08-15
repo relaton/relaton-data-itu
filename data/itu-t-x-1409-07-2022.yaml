@@ -17,51 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2022-07-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Distributed ledger technology (DLT) features include immutability, data
-    sharing, decentralization, and tamper-resistance. Certain security services can
-    benefit from the decentralized nodes of DLT to solve problems such as single point
-    of failure, bottleneck performance and tampering.\r\nRecommendation ITU-T X.1409
-    identifies aspects to be evaluated before delivering a security service based
-    on DLT and provides examples to implement four security services which could be
-    delivered based on DLT, namely:\r\n•\tDLT-based public-key certificate management;\r\n•\tDLT-based
-    software defined perimeter;\r\n•\tDLT-based threat intelligence sharing; and\r\n•\tDLT-based
-    security audit.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2022'
   owner:

@@ -18,52 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2023-03-03'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Data security is one of the most important considerations for vehicle-to-everything
-    (V2X) communication. However, in a resource constrained environment such as in-vehicle
-    communication, data protection consumes a lot of resources since cryptographic
-    functions are required. \r\nRecommendation ITU-T X.1383 categorizes the data used
-    in V2X communication into several types such as object attribute data, vehicle
-    status data, environmental perception data, vehicle control data, application
-    service data and user personal data, and assigns three security levels for the
-    categorized data types. Based on these categorized data types and assigned data
-    security levels, this Recommendation provides security requirements for categorized
-    data in V2X communication.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2023'
   owner:

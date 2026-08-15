@@ -17,50 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2014-01-24'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1601 describes the security framework for cloud
-    computing. The Recommendation analyses security threats and challenges in the
-    cloud computing environment, and describes security capabilities that could mitigate
-    these threats and address security challenges. A framework methodology is provided
-    for determining which of these security capabilities will require specification
-    for mitigating security threats and addressing security challenges for cloud computing.
-    Appendix I provides a mapping table on how a particular security threat or challenge
-    is addressed by one or more corresponding security capabilities.
-status:
-  stage:
-    content: Withdrawal
 copyright:
 - from: '2014'
   owner:
@@ -71,17 +31,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Security framework for cloud computing
-    docidentifier:
-    - content: X.1601 (10/2015)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

@@ -18,59 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2022-01-07'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Remote access tools (RATs) are widely used on control systems for monitoring,
-    control and maintenance to reduce maintenance costs and minimize the response
-    time in the event of a malfunction. RATs provide the ability to manipulate control
-    systems remotely, but at the same time, an insecure configuration of RATs and
-    vulnerabilities in RATs could significantly increase the attack surface of control
-    systems. The most serious problem is an interface to access a control system from
-    the external networks that could allow attackers access to the control system
-    from the Internet. Recommendation ITU-T X.1333 describes an overall picture to
-    employ RATs securely for monitoring, control and maintenance. In this Recommendation,
-    threats to network configuration due to the use of RATs are identified and security
-    guidelines are provided to adapt secure configuration and security measures for
-    the use of RATs in Internet-connected control systems. Providing well-organized
-    security controls on the use of RATs would be helpful for digital service providers
-    operating control systems to reduce the attack surface and the threats from external
-    networks. Moreover, it would be beneficial to align the security levels between
-    developed and developing countries, since this is not a local problem, but a global
-    problem. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2022'
   owner:
@@ -81,15 +32,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    formattedref:
-      content: X.1333 (2022) Cor. 1 (09/2023)
-    docidentifier:
-    - content: X.1333 (2022) Cor. 1 (09/2023)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

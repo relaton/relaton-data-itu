@@ -17,56 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-03-26'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Smart metering services have been widely deployed worldwide to make electricity
-    grids more efficient and reliable by gathering/providing electricity usage information
-    from/to customers, respectively. This information can be used to estimate customers'
-    electricity demands, and the estimation can be used to shift demand or to change
-    customers' electricity consumption behaviour by providing electricity usage information
-    to them. However, smart metering services can malfunction because of various threats.
-    For example, invalid metering information can lead to erroneous demand management
-    decisions, and abusing load control functions can cause economic and physical
-    damage to customers. Recommendation ITU-T X.1332 provides security guidelines
-    for smart metering services to enable service providers to implement appropriate
-    security measures to ensure the security of their service. This Recommendation
-    identifies security threats and attack methods against smart metering services,
-    and specifies security requirements and capabilities to mitigate these threats
-    and attacks accordingly.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2020'
   owner:

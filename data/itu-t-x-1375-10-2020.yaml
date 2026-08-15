@@ -17,51 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-10-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1375 establishes guidelines for an intrusion detection
-    system (IDS) for in-vehicle networks (IVNs). Recommendation ITU-T X.1375 mainly
-    focuses on how to detect intrusion and malicious activities on IVNs such as those
-    using a controller area network (CAN) that cannot be supported by general IDSs
-    currently deployed on the Internet. \r\n\r\nRecommendation ITU-T X.1375 includes
-    classifications and analyses of attacks targeting IVNs. Recommendation ITU-T X.1375
-    then proposes methodologies and implementation guidelines for detecting intrusions
-    and malicious activities within CAN-based IVNs that cannot be supported by general
-    IDSs. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2020'
   owner:

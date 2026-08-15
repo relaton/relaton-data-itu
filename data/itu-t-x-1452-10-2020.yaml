@@ -17,66 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-10-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1452 classifies potential use cases of security
-    services provided by operators and analyse specific requirements for security
-    services, thus providing guidelines for operators to safeguard and improve their
-    security services. \r\n\r\nDue to the growing number of innovations in services
-    in network and telecommunication domains, operators face a pressing need to explore
-    new services based on their network and services capabilities. In this transformation,
-    operators have not only accumulated new assets and experiences with technologies
-    and services for network and telecommunication, but also the capability of offering
-    security services based on the full extent of their network and infrastructure
-    deployments and operations. The specific nature of this class of services makes
-    them exhibit a number of differences with more traditional telecommunication services
-    (e.g., phone call, short message or mobile network access). In this context, the
-    portfolio of security services that are currently in production and explored by
-    operators need specific integration with the resources and assets of the telecommunication
-    network and infrastructure; the risk level of this portfolio is actually higher
-    should the security service itself be compromised as it is precisely supposed
-    to turn the operator offering it into a security provider for end market customers.
-    A compromise of the service will result in loss of trust by customers and will
-    affect the whole range of services offered by the operator and will significantly
-    increase the overall churn level, and customer dissatisfaction and disloyalty.
-    Therefore, security assurance, defined as the degree of confidence reached in
-    the security service, needs to be studied thoroughly. In order to offer a technical
-    reference for operators and to guarantee security, security service guidelines
-    provided by the operator need to be analysed and established.  \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2020'
   owner:

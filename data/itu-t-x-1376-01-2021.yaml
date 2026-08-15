@@ -18,49 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2021-01-07'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1376 describes a security-related misbehaviour
-    detection mechanism for connected vehicles to help stakeholders to utilize automotive
-    data to improve vehicle security. \r\n\r\nAs connectivity of vehicles increases,
-    the number of vulnerabilities is rising due to the development of complex technology.
-    These vulnerabilities bring more threats to connected vehicles. Analysis of a
-    large amount of automotive data is very useful for assessing security of connected
-    vehicles. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2021'
   owner:

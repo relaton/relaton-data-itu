@@ -18,54 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2021-01-07'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Threat intelligence from a telecommunication operator's point of view
-    is a collection of organized, analysed, and refined information about potential
-    and current attacks that may threaten an organization. This information can also
-    include attackers' motivations, intentions, characteristics, and methods, along
-    with their modus operandi or techniques, tactics, and procedures.\r\nIn the network
-    and information security area, the occurrence of large-scale and unexpected cybersecurity
-    incidents has triggered the urgent need for threat intelligence. Threat intelligence
-    can help an organization to reduce risk and improve its overall security. A unified
-    taxonomy, grammar, and presentation of threat intelligence has been defined so
-    that threat intelligence can be shared between different organizations.\r\nRecommendation
-    ITU-T X.1217 specifies guidelines for applying threat intelligence in telecommunication
-    network operation after an overview analysis."
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2021'
   owner:

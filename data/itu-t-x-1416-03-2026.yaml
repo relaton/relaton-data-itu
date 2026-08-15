@@ -18,59 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2026-03-16'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Blockchain as a service (BaaS), as defined in Recommendation ITU-T Y.3530,
-    typically includes consumers, providers and developers. A BaaS platform serves
-    as the operational framework, offering resources and functionalities to create
-    and operate blockchain networks, as well as to develop decentralized applications
-    (dApps).\r\nIn a typical blockchain network, node operators represent different
-    stakeholders, each using their proprietary resources, to create and operate their
-    blockchain nodes. These proprietary resources may come from various different
-    BaaS platforms. When multiple BaaS platforms contribute to a single blockchain
-    network, they must securely and reliably exchange essential information – such
-    as the genesis block, organizational data, existing block records, and security
-    details. \r\nRecommendation ITU-T X.1416 presents a blockchain-enabled collaboration
-    service (BCS) for multiple BaaS platforms. This service enables secure and efficient
-    exchange of information across BaaS platforms, enabling the creation and operation
-    of blockchain networks across the platforms, as well as the development of dApps.
-    Recommendation ITU-T X.1416 also identifies associated security risks and threats,
-    specifies the security requirements and framework, and outlines the relevant security
-    capabilities of the collaboration service.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2026'
   owner:

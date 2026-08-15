@@ -18,52 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-10-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1374 analyses security threats to connected vehicles
-    in two parts: threats against interfaces which are used to communicate between
-    a vehicle and its external devices, and threats against external devices which
-    communicate with the vehicle. Recommendation ITU-T X.1374 specifies security requirements
-    for such external interfaces and external devices with vehicle access capability
-    in telecommunication network environments to address identified threats depending
-    on types of access interfaces. Interfaces and external devices with vehicle access
-    capability include the remote keyless entry (RKE) system with smart key, diagnostic
-    tools and wireless dongles using on-board diagnostic II (OBD-II) port, telematics
-    control units with wireless communication devices and so on. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2020'
   owner:

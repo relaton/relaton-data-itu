@@ -18,45 +18,10 @@ docidentifier:
 date:
 - type: published
   at: '2026-03-16'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1718 specifies the security requirements and measures
-    for quantum key distribution network (QKDN) interworking (QKDNi) based on the
-    framework for QKDNi which is defined in Recommendation ITU-T Y.3810.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2026'
   owner:

@@ -17,64 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2016-09-07'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Aggregating attributes from multiple attribute authorities may be needed
-    in order to enable a relying party to enhance its trust in the identity of a party.
-    The aggregation can be regarded as having to deal with a collection of globally
-    unique identifiers, which is common across all attribute authorities. Practically,
-    entities do not have a global identifier but have different entity identifiers
-    and attributes assigned by their various identity service providers (IdSPs).\r\n\r\nTo
-    address the attribute aggregating problem in this scenario, the concept of identity
-    federation is used. For example, if an e-book store plans to have a sale for seniors,
-    the store has to be given the aggregated set of attributes (credit card and age
-    bracket) from two IdSPs, but without the IdSPs knowing about each other's involvement.
-    In standard federated identity management, an entity can only provide attributes
-    from one identity, but this transaction requires attributes from two. There are
-    several identity federation methods such as security assertion markup language
-    (SAML), Shibboleth [b-Shibboleth], open identity (OpenID), and open authentication
-    (OAuth), etc.\r\n\r\nRecommendation ITU-T X.1258 introduces the concept of attribute
-    aggregation to allow an entity to aggregate attributes from multiple IdSPs. Attribute
-    aggregation is the mechanism of collecting attributes of an entity retrieved from
-    multiple identity service providers. Attribute aggregation is needed to aggregate
-    the attributes dynamically on demand. IdSP can realize the aggregation request
-    when an entity wants to get a service. Further on, an entity-centric attribute
-    aggregation mechanism could also be applied to the authentication for mitigating
-    privacy leakage.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2016'
   owner:
@@ -85,18 +31,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: ITU-T X.1250 series – Supplement on overview of identity management
-        in the context of cybersecurity
-    docidentifier:
-    - content: X Suppl. 7 (02/2009)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

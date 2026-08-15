@@ -17,53 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2021-11-13'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Web-based online customer service is an important service for a service
-    provider. It contains the user's important data and provides critical operational
-    functions of the user's services. It is the service provider's responsibility
-    to provide security for web-based online customer service.  Recommendation ITU-T
-    X.1470 analyses the security threats of web-based online customer service in three
-    aspects: network security, system security and service security. It specifies
-    security guidelines of web-based online customer service and corresponding security
-    measures. It also proposes test procedures to verify that the specified security
-    requirements are satisfied by corresponding security measures. This Recommendation
-    can help service providers to ensure their web-based online customer services'
-    security and protect benefits of their users. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2021'
   owner:

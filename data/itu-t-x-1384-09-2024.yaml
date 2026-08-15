@@ -17,54 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2024-09-06'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1384 provides security requirements and guidelines
-    for vehicular edge computing (VEC). VEC refers to a computing paradigm that deploys
-    processing capability at network edge to distribute computing resources across
-    a core cloud in intelligent transport system (ITS) environments. VEC also provides
-    more localized storage and application services to road users, enabling lower
-    latency delays, faster response times, location awareness, high availability,
-    and enhanced quality of service for streaming real-time applications, since data
-    processing is conducted closer to the vehicle.\r\nVEC faces many security challenges
-    and issues due to its need for faster service response time to end users. This
-    Recommendation analyses the threats and vulnerabilities associated with VEC and
-    provides the security requirements for its deployment. Further, it also provides
-    use cases for VEC services.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2024'
   owner:

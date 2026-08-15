@@ -17,47 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2008-04-18'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1231 emphasizes technical strategies for countering
-    spam and also includes general characteristics of spam and main objectives for
-    countering spam. Furthermore, recognizing that there is no single solution to
-    resolve the spam problem, this Recommendation also provides a checklist to evaluate
-    promising tools for countering spam.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2008'
   owner:
@@ -68,39 +31,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: ITU-T X.1231 - Supplement on guidance to assist in countering spam
-        for mobile phone developers
-    docidentifier:
-    - content: X Suppl. 25 (03/2016)
-      type: ITU
-      primary: true
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: ITU-T X.1231 - Supplement on technical framework for countering telephone
-        service scams
-    docidentifier:
-    - content: X Suppl. 33 (09/2018)
-      type: ITU
-      primary: true
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: ITU-T X.1231 – Supplement on countering spam based on machine learning
-    docidentifier:
-    - content: X Suppl. 37 (09/2022)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

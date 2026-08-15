@@ -17,47 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-10-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Recommendation ITU-T X.1400 contains a baseline set of terms and definitions
-    for distributed ledger technology (DLT). The definitions provide a basic characterization
-    of the term, and where appropriate, a note is included to provide additional clarity.\r\nIt
-    is based on Focus Group Technical Report ITU-T FG DLT D1.1:2019, FG DLT D1.1 Distributed
-    ledger technology terms and definitions."
-status:
-  stage:
-    content: Withdrawal
 copyright:
 - from: '2020'
   owner:
@@ -68,17 +31,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Terms and definitions for distributed ledger technology
-    docidentifier:
-    - content: X.1400 (03/2026)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

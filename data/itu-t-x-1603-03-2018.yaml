@@ -17,53 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2018-03-29'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1603 analyses data security requirements for the
-    monitoring service of cloud computing which include monitoring data scope requirements,
-    monitoring data lifecycle, security requirements of monitoring data acquisition
-    and security requirements of monitoring data storage. Monitoring data scope requirements
-    include the necessary monitoring scope that cloud service providers (CSPs) should
-    provide to maintain the cloud security and the biggest monitoring scope of CSPs.
-    Monitoring data lifecycle includes data creation, data store, data use, data migrate,
-    data present, data destroy and data backup. Monitoring acquisition determines
-    the security requirements of the acquisition techniques of monitoring service.
-    Monitoring data storage determines the security requirements for CSPs to store
-    the monitoring data.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2018'
   owner:

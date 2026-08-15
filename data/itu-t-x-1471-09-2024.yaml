@@ -17,54 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2024-09-06'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Big data analysis services are based on undefined unstructured data including
-    user behaviour, purchases, payments, locations and the consumption of various
-    Internet content. It can provide new insights that were not previously discovered
-    and which predict future states. However, some unauthorized data can be used maliciously
-    in the analysis process.\r\nRecommendation ITU-T X.1471 describes a reference
-    monitor for big data analytics and operations to detect unauthorized data use.
-    This Recommendation analyses security threats and challenges in big data analytics
-    and describes security requirements that could mitigate these threats and address
-    security challenges with access control mechanisms. A reference monitor methodology
-    based on access control is provided to determine what security capabilities are
-    required for mitigating security threats and addressing security challenges for
-    big data analytics.\r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2024'
   owner:

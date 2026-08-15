@@ -17,47 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2012-09-07'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Recommendation ITU-T X.1581 specifies a transport protocol for real-time
-    inter-network defence (RID) based upon the passing of RID messages over hypertext
-    transfer protocol/transport layer security (HTTP/TLS). This is achieved by listing
-    the relevant clauses of IETF RFC 6546 and showing whether they are normative or
-    informative.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2012'
   owner:

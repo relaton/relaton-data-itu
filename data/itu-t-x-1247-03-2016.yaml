@@ -17,51 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2016-03-23'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: Mobile messaging spam is proliferating dramatically along with the fast
-    development of mobile messaging services. Unfortunately, no single measure has
-    proved to be the silver bullet against mobile messaging spam. Therefore, it is
-    necessary to establish a practical framework for countering mobile messaging spam.
-    Recommendation ITU-T X.1247 gives an overview of mobile messaging anti-spam processes,
-    and proposes a technical framework for countering mobile messaging spam. Entity
-    functions and processing procedures are specified in this framework. In addition,
-    this Recommendation provides information sharing mechanisms against mobile messaging
-    spam within the anti-spam domain and among anti-spam domains.
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2016'
   owner:
@@ -72,26 +31,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    formattedref:
-      content: X.1247 (2016) Amd. 1 (05/2022)
-    docidentifier:
-    - content: X.1247 (2016) Amd. 1 (05/2022)
-      type: ITU
-      primary: true
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated
-        threats
-    docidentifier:
-    - content: X Suppl. 6 (09/2009)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

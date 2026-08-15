@@ -17,55 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '2020-09-03'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 17
-      type: technical-committee
-      subtype: study-group
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '1'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-  content: "Big data as a service (BDaaS) is a cloud service category that provides
-    cloud service customers with capabilities to collect, store, analyse, visualize
-    and manage big data, as specified in Recommendation ITU-T Y.3600. With remarkable
-    growth of data volumes and rapid development of big data business, big data infrastructure
-    has become the central facility to provide BDaaS. Consequently, significant security
-    issues arise for BDaaS. For example, open source big data software design sometimes
-    fails to take security into consideration from the beginning. New technologies
-    introduced by big data analytics can also result in failure of traditional security
-    protection measures. Recommendation ITU-T X.1750 analyses security challenges
-    BDaaS faces, identifies security roles and responsibilities for provision of BDaaS,
-    as well as a security framework for a big data infrastructure. It also specifies
-    security protection measures that should be satisfied for services and components
-    related to BDaaS. \r\n"
-status:
-  stage:
-    content: Published
 copyright:
 - from: '2020'
   owner:
