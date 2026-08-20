@@ -45,7 +45,12 @@ module ItuCrawler
   # `relaton index --flavor itu` (which scans <repo>/data) sees them. The globs let
   # the crawler re-derive / wipe one sector without touching the other.
   DATA = "data"
-  DATA_R_GLOB = "data/itu-r-*.yaml"
+  # Both ITU-R spellings. A Report's docid leads with "Report " (relaton #110),
+  # so `Report ITU-R BT.2020-1` sanitizes to data/report-itu-r-bt-2020-1.yaml —
+  # outside a data/itu-r-* glob. Left as one glob, `index_files` silently drops
+  # ~1,000 Report rows from the index while `git add -A data` still stages the
+  # files, publishing a corpus and an index that disagree, with no guard firing.
+  DATA_R_GLOB = "data/{itu-r,report-itu-r}-*.yaml"
   DATA_T_GLOB = "data/itu-t-*.yaml"
 
   # Rebuild index-v2 from scratch and refresh the ITU-T half of data/.
@@ -91,12 +96,72 @@ module ItuCrawler
           "response). Investigate before re-running."
   end
 
+  # Guard the ITU-R half the same way, but **per family**, because the two
+  # families fail independently: ITU throttles by path root (503 on /rec, a 302
+  # to notfound.aspx on /pub), and DataFetcher#harvest_family rescues per series
+  # and per family and only logs — so a WAF block yields a partial corpus on an
+  # otherwise green run. A healthy 3,300-record Recommendation crawl would mask a
+  # Reports crawl that lost every series if the two were counted together.
+  #
+  # Dormant today: nothing here re-harvests ITU-R yet, so the counts are equal
+  # and this returns immediately. It is in place ahead of that switch, since the
+  # moment ITU-R is crawled it becomes the only thing between a throttled run and
+  # a published hole.
+  def guard_itur_harvest
+    now = classify_r(Dir[DATA_R_GLOB])
+    had = classify_r(`git ls-files -- 'data/itu-r-*.yaml' 'data/report-itu-r-*.yaml'`.each_line.map(&:chomp))
+
+    had.each do |family, before|
+      after = now[family].to_i
+      next if before.zero?         # nothing published to protect yet
+      next if after * 2 >= before  # allow normal churn; block a collapse
+
+      abort "ITU-R harvest collapsed: #{after} #{family} files vs #{before} committed. " \
+            "Likely a WAF block (503 on /rec, a 302 to notfound.aspx on /pub), or a family " \
+            "whose series was skipped after exhausting its retries — grep the log for " \
+            "'skipped:'. Investigate before re-running."
+    end
+  end
+
+  # Which ITU-R family a data file belongs to, by filename.
+  #
+  # Counting the ITU-R half as one bucket does not work: a run that loses one
+  # family still keeps ~96% of the files and sails through any sane threshold.
+  # That is not hypothetical — a single Net::ReadTimeout on one Resolution page
+  # cost all 213 Resolutions in a measured crawl, and the run still exited 0 with
+  # a full-looking index, because DataFetcher#harvest_family rescues per family
+  # and DataMergeR writes only at series end.
+  #
+  # Filename is the only cheap discriminator. The index cannot help: an ITU-R
+  # Resolution serializes as `pubid:itu:recommendation` with `series: R`, so
+  # `_type` does not separate the families either.
+  #
+  # Handbooks land in :question (`itu-r-01-hdb.yaml` leads with a digit). That is
+  # harmless — they are preserved, so they sit in both counts identically.
+  def classify_r(files)
+    files.each_with_object(Hash.new(0)) do |f, h|
+      base = File.basename(f)
+      h[case base
+         when /\Areport-itu-r-/ then :report       # Report ITU-R … (relaton #110)
+         when /\Aitu-r-r-/ then :resolution        # series "R" is Resolutions only
+         when /\Aitu-r-\d/ then :question          # + the preserved handbooks
+         else :recommendation
+         end] += 1
+    end
+  end
+
   # Count of ITU-T data files already committed (tracked at HEAD). Zero in a fresh
-  # checkout with no commits, or while the ITU-T half is still dormant. The glob is
-  # single-quoted so git (not the shell) expands the pathspec — git's `*` matches
-  # across `/`, so it selects exactly the committed data/itu-t-* files.
+  # checkout with no commits, or while the ITU-T half is still dormant.
   def committed_data_t_count
-    `git ls-files -- '#{DATA_T_GLOB}'`.each_line.count
+    committed_count DATA_T_GLOB
+  end
+
+  # Files matching `glob` that are tracked at HEAD. Single-quoted so git (not the
+  # shell) expands the pathspec — git's `*` matches across `/`, so it selects
+  # exactly the committed files. Pass a plain `*` glob, not a brace one: git
+  # pathspecs are fnmatch patterns and do not expand `{a,b}`.
+  def committed_count(glob)
+    `git ls-files -- '#{glob}'`.each_line.count
   end
 
   # Guard against republishing a metadata-thin corpus. ITU-T enrichment (abstract,
@@ -143,6 +208,7 @@ module ItuCrawler
     harvest
     write_zip
     guard_itut_harvest
+    guard_itur_harvest
     guard_enrichment
     stage
   end
