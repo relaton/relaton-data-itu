@@ -104,10 +104,16 @@ RSpec.describe "index-v2.yaml" do
     end
 
     it "excludes the data files of skipped malformed/series-level ids" do
-      # "ITU-R BT-1543-1" (dash instead of dot) is unmodelled and skipped, so its
-      # data file must not be referenced by any row.
+      # "ITU-R BO" is a series-level stub with no document number, so there is
+      # nothing to key a row on and it stays unindexed (one of the 47 such ITU-R
+      # records the dead RunSearch feed left behind; a full crawl of ITU's own
+      # pages drops them entirely, since no page yields them).
+      #
+      # It used to be "ITU-R BT-1543-1" (dash instead of dot) — that one now
+      # parses and indexes, as pubid models the dashed series form (the row
+      # carries `series_dash: true`), so it no longer demonstrates a skip.
       files = rows.map { |r| r[:file] }
-      expect(files).not_to include("data/itu-r-bt-1543-1.yaml")
+      expect(files).not_to include("data/itu-r-bo.yaml")
     end
 
     it "points every row at a data file that exists" do

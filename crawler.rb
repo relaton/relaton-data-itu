@@ -4,30 +4,47 @@
 #
 # Both sectors share a single flat data/ folder, distinguished by filename prefix
 # (relaton-cli's `relaton index --flavor itu` scans <repo>/data recursively):
-#   data/itu-r-*  ITU-R corpus. Migrated once from relaton-data-itu-r and
-#            PRESERVED: ITU killed the bulk-enumeration endpoint that harvested it
-#            (the old RunSearch search) and there is no known replacement "list all
-#            ITU-R publications" source yet, so it cannot be re-crawled. Left
-#            untouched.
+#   data/itu-r-*, data/report-itu-r-*
+#            ITU-R Recommendations, Reports, Questions, Resolutions and Handbooks,
+#            crawled from the /pub + /rec pages ITU still renders server-side
+#            (relaton #112) after it decommissioned the RunSearch bulk-enumeration
+#            endpoint the original ITU-R crawler paged through (relaton#75). A
+#            Report's docid leads with "Report " (relaton #110), which is why the
+#            sector needs two prefixes.
 #   data/itu-t-*  ITU-T Recommendations (+ supplements/amendments/corrigenda).
 #            Harvested from the searchRecs index (issue relaton-itu#80) and WIPED
 #            (by the data/itu-t-* glob) + recreated on every run.
 #
-# Each run rebuilds index-v2 from scratch: re-derive the ITU-R rows from the
-# preserved data/itu-r-* files, then merge the fresh ITU-T harvest in. So stale ITU-T rows
-# never linger and the ITU-R rows are always present. Both sectors serialize to
-# the same `_type: pubid:itu:*` shape, so one index holds them together.
+# Each run rebuilds index-v2 from scratch out of what the two harvests write, so
+# stale rows never linger. Both sectors serialize to the same `_type: pubid:itu:*`
+# shape, so one index holds them together.
 #
 # Both passes are driven off a single Relaton::Itu::DataFetcher, so the identifier
 # guard, the index and the unparseable-id report are shared rather than duplicated
-# here — see #harvest. Add a real ITU-R re-harvest into data/itu-r-* once an
-# enumeration source is restored — see the hand-offs
-# relaton__relaton__itu-runsearch-fix.md (Part 2) and
-# relaton__relaton-itu__itu-t-dataset-migration.md.
+# here — see #harvest.
 #
-# The ITU-T half is the expensive part: ~16k records × ~4 www.itu.int requests for
-# the enrichment that makes a harvested record match a live lookup. The fetcher
-# spreads those over a worker pool (RELATON_ITU_CONCURRENCY, default 8).
+# ITU-R has two modes, selected by RELATON_ITU_MODE and read by relaton itself
+# (DataFetcher.mode), because a full crawl is ~7k requests and ~4 h:
+#   full (default)  wipe the ITU-R half and re-derive every record from ITU, which
+#                   makes ITU its sole author — the point of crawling it at all.
+#   top_up          enumerate the same documents but deep-fetch only the editions
+#                   the dataset lacks (~1.4 h). It decides that with File.exist?,
+#                   so it must NOT wipe — see #harvest.
+# The FIRST run against a pre-#110 dataset must be full: a top_up would add every
+# Report a second time under its new `Report …` name.
+#
+# RELATON_ITU_DELAY (default 1.0) is the politeness pause. Lower it at your peril:
+# at 0.4 s a corpus run lost 4 Recommendation series to HTTP 503 and every Report
+# series to a soft block. ITU throttles the two path families differently — /rec
+# answers 503, /pub a 302 to notfound.aspx that replays as an empty page — and
+# relaton retries both (3×, linear backoff) before raising, so a throttled series
+# fails loudly rather than publishing nothing.
+#
+# ITU-T is the other expensive half: ~16k records × ~4 www.itu.int requests for the
+# enrichment that makes a harvested record match a live lookup, spread over a
+# worker pool (RELATON_ITU_CONCURRENCY, default 8) for ~2 h. Both sectors in one
+# process is therefore ~6 h on a full run — at GitHub Actions' per-job cap, so a
+# scheduled full crawl wants its own job.
 
 require "fileutils"
 require "time"
@@ -47,33 +64,56 @@ module ItuCrawler
   DATA = "data"
   # Both ITU-R spellings. A Report's docid leads with "Report " (relaton #110),
   # so `Report ITU-R BT.2020-1` sanitizes to data/report-itu-r-bt-2020-1.yaml —
-  # outside a data/itu-r-* glob. Left as one glob, `index_files` silently drops
-  # ~1,000 Report rows from the index while `git add -A data` still stages the
-  # files, publishing a corpus and an index that disagree, with no guard firing.
+  # outside a data/itu-r-* glob. Left as one glob it would miss every Report
+  # twice over: the full-run wipe would leave ~1,000 stale Report files behind,
+  # and a top-up's `index_files` would drop their rows while `git add -A data`
+  # still stages the files — publishing a corpus and an index that disagree, with
+  # no guard firing.
   DATA_R_GLOB = "data/{itu-r,report-itu-r}-*.yaml"
   DATA_T_GLOB = "data/itu-t-*.yaml"
 
-  # Rebuild index-v2 from scratch and refresh the ITU-T half of data/.
+  # Rebuild index-v2 from scratch and refresh data/ from ITU.
   #
   # Both sectors run off ONE DataFetcher, which is what keeps them consistent:
-  # `index_files` re-derives the ITU-R rows from the preserved data/itu-r-*
-  # records and `fetch("itu-t")` harvests the ITU-T corpus, both through the same
-  # pubid guard (parse + lossless round-trip, matching what Relaton::Index's own
-  # loader will accept), into the same index, with one `index.save` and one
-  # unparseable-id report at the end — so an id that cannot be indexed is *named*
-  # (and raised as the "Error fetching documents" GitHub issue when
-  # GITHUB_REPOSITORY and GITHUB_TOKEN are set) rather than silently dropped.
+  # every id goes through the same pubid guard (parse + lossless round-trip,
+  # matching what Relaton::Index's own loader will accept) into the same index.
+  #
+  # The two harvests are called directly rather than through DataFetcher#fetch,
+  # which is harvest + index.save + report_errors: called twice it would save the
+  # index twice and report twice, and since report_errors comments on the shared
+  # "Error fetching documents" GitHub issue (when GITHUB_REPOSITORY and
+  # GITHUB_TOKEN are set), the second comment would repeat the first's ITU-R ids.
+  # One save and one report at the end also means an id that cannot be indexed is
+  # *named* once, for the whole run, rather than silently dropped.
   def harvest
     FileUtils.rm_f INDEX_YAML         # rebuild the index from scratch
-    FileUtils.rm_f Dir[DATA_T_GLOB]   # wipe only the ITU-T half; preserve data/itu-r-*
+    FileUtils.rm_f Dir[DATA_T_GLOB]   # ITU-T comes from upstream on every run
+    FileUtils.rm_f Dir[DATA_R_GLOB] if full? # so does ITU-R, unless topping up
     FileUtils.mkdir_p DATA
 
     started = Time.now
     warn "crawler: started at #{started.utc.iso8601}"
     fetcher = Relaton::Itu::DataFetcher.new(DATA, "yaml")
-    fetcher.index_files DATA_R_GLOB   # ITU-R: re-index the preserved records
-    fetcher.fetch "itu-t"             # ITU-T: harvest, then save the index + report
+    # A top-up skips every edition already on disk, and DataCrawlerR#harvest
+    # rejects a skipped edition from its level-2 rows — so it is never parsed,
+    # never merged, and never lands in the index this run rebuilds from scratch.
+    # Re-derive those rows from the files first, or a quiet top-up day publishes
+    # an index holding only the new editions. A full run needs none of this: it
+    # wiped the files and re-fetches every one of them.
+    fetcher.index_files DATA_R_GLOB unless full?
+    fetcher.fetch_publications        # ITU-R: crawl /pub + /rec
+    fetcher.fetch_recommendations     # ITU-T: harvest via searchRecs
+    fetcher.index.save
+    fetcher.report_errors
     warn "crawler: done in #{(Time.now - started).round} sec."
+  end
+
+  # Whether this run re-derives the whole ITU-R half or only tops it up. Read from
+  # relaton's own RELATON_ITU_MODE reader, so the wipe above and the mode the
+  # harvest actually runs in cannot disagree — a top_up against a wiped data/ would
+  # find every edition missing and pay for the full crawl anyway.
+  def full?
+    Relaton::Itu::DataFetcher.mode == :full
   end
 
   # Guard against silently republishing a truncated index. The searchRecs
@@ -103,13 +143,13 @@ module ItuCrawler
   # otherwise green run. A healthy 3,300-record Recommendation crawl would mask a
   # Reports crawl that lost every series if the two were counted together.
   #
-  # Dormant today: nothing here re-harvests ITU-R yet, so the counts are equal
-  # and this returns immediately. It is in place ahead of that switch, since the
-  # moment ITU-R is crawled it becomes the only thing between a throttled run and
-  # a published hole.
+  # Under the full-mode wipe this is the only thing between a throttled crawl and
+  # a published hole — and the relaton consumer reads this repo's main at runtime,
+  # so the hole would be a live lookup failure, not just a thin dataset.
   def guard_itur_harvest
     now = classify_r(Dir[DATA_R_GLOB])
-    had = classify_r(`git ls-files -- 'data/itu-r-*.yaml' 'data/report-itu-r-*.yaml'`.each_line.map(&:chomp))
+    had = classify_r(committed_files("data/itu-r-*.yaml") +
+                     committed_files("data/report-itu-r-*.yaml"))
 
     had.each do |family, before|
       after = now[family].to_i
@@ -136,8 +176,9 @@ module ItuCrawler
   # Resolution serializes as `pubid:itu:recommendation` with `series: R`, so
   # `_type` does not separate the families either.
   #
-  # Handbooks land in :question (`itu-r-01-hdb.yaml` leads with a digit). That is
-  # harmless — they are preserved, so they sit in both counts identically.
+  # Handbooks land in :question (`itu-r-43-hdb-2013.yaml` leads with a digit).
+  # That is harmless: ~63 edition-keyed handbook files against ~789 Questions is
+  # too small a share to move the threshold either way.
   def classify_r(files)
     files.each_with_object(Hash.new(0)) do |f, h|
       base = File.basename(f)
@@ -160,8 +201,12 @@ module ItuCrawler
   # shell) expands the pathspec — git's `*` matches across `/`, so it selects
   # exactly the committed files. Pass a plain `*` glob, not a brace one: git
   # pathspecs are fnmatch patterns and do not expand `{a,b}`.
+  def committed_files(glob)
+    `git ls-files -- '#{glob}'`.each_line.map(&:chomp)
+  end
+
   def committed_count(glob)
-    `git ls-files -- '#{glob}'`.each_line.count
+    committed_files(glob).size
   end
 
   # Guard against republishing a metadata-thin corpus. ITU-T enrichment (abstract,

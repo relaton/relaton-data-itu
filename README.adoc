@@ -6,16 +6,17 @@ by Relaton-ITU. It supersedes the ITU-R-only
 https://github.com/relaton/relaton-data-itu-r[relaton-data-itu-r] repository.
 
 Data is stored in Relaton YAML format in a single flat `data/` folder, with the
-two sectors distinguished by filename prefix (`data/itu-r-*` vs `data/itu-t-*`).
-A single top-level `data/` is what `relaton index --flavor itu` scans, matching
-every other `relaton-data-*` repository:
+two sectors distinguished by filename prefix (`data/itu-r-*` and
+`data/report-itu-r-*` vs `data/itu-t-*`). A single top-level `data/` is what
+`relaton index --flavor itu` scans, matching every other `relaton-data-*`
+repository:
 
-* `data/itu-r-*` — ITU-R publications. Migrated once from `relaton-data-itu-r`.
-  ITU removed / WAF-blocked the bulk-enumeration endpoint that harvested this
-  corpus (the old `RunSearch` search) and there is no known replacement "list all
-  ITU-R publications" source yet, so these files are *preserved as-is* and are not
-  re-crawled. They will be refreshed again once an ITU-R enumeration source is
-  restored (see the hand-off notes in `crawler.rb`).
+* `data/itu-r-*`, `data/report-itu-r-*` — ITU-R Recommendations, Reports,
+  Questions, Resolutions and Handbooks. ITU decommissioned the `RunSearch`
+  bulk-enumeration endpoint this corpus was originally migrated with, so it is
+  *crawled from the `/pub` + `/rec` pages ITU still renders* (relaton#112).
+  Reports carry their own identity — a docid leading with `Report ` (relaton#110)
+  — which is why the sector needs two filename prefixes.
 * `data/itu-t-*` — ITU-T Recommendations (and supplements/amendments/corrigenda).
   Harvested from the ITU-T recommendation index
   (`mws/api/recommendations/searchRecs`, issue relaton-itu#80) and *wiped and
@@ -26,11 +27,15 @@ every other `relaton-data-*` repository:
 `crawler.rb` runs via `.github/workflows/crawler.yml` (on push and manual
 dispatch; the daily schedule is currently commented out). Each run:
 
-1. wipes the `data/itu-t-*` files and the index;
-2. re-derives the ITU-R index rows from the preserved `data/itu-r-*` files
-   (`Relaton::Itu::DataFetcher#index_files`);
-3. harvests the full ITU-T corpus into `data/`, merging its rows into the same
-   index (`Relaton::Itu::DataFetcher#fetch("itu-t")`);
+1. wipes the index, the `data/itu-t-*` files, and — on a full run — the ITU-R
+   files too;
+2. crawls ITU-R from `/pub` + `/rec`
+   (`Relaton::Itu::DataFetcher#fetch_publications`) — on a top-up run, first
+   re-deriving the index rows of the records it is about to skip
+   (`#index_files`), since a skipped edition is never parsed and so never
+   indexed;
+3. harvests the full ITU-T corpus from `searchRecs`, merging its rows into the
+   same index (`Relaton::Itu::DataFetcher#fetch_recommendations`);
 4. writes the combined `index-v2.yaml` and rebuilds `index-v2.zip`.
 
 Steps 2 and 3 share one fetcher, so both sectors go through the same identifier
@@ -38,8 +43,18 @@ guard and the same unparseable-id report — ids that cannot be indexed are name
 in the log, and raised as an "Error fetching documents" GitHub issue when
 `GITHUB_REPOSITORY` and `GITHUB_TOKEN` are set.
 
-The `data/itu-r-*` files are never wiped, so the un-re-harvestable ITU-R corpus
-is retained.
+`RELATON_ITU_MODE` selects how much of ITU-R a run re-derives:
+
+* `full` (the default) wipes the ITU-R files and crawls every edition of every
+  document — ~7k requests, ~4 h — which makes ITU the sole author of the corpus.
+* `top_up` walks the same documents but fetches only the editions the dataset
+  does not already hold (~1.4 h), deciding that from the files on disk, so it
+  does not wipe.
+
+The first run against a dataset that predates relaton#110 must be `full`: a
+`top_up` would add every Report a second time under its new `Report …` name.
+`RELATON_ITU_DELAY` (default `1.0`) is the politeness pause between requests —
+at 0.4 s a corpus run lost whole series to ITU's WAF.
 
 Each ITU-T record is enriched (abstract, ISO/IEC co-identifier, status, edition,
 publisher + editorial-group contributors, relations) so a harvested record
@@ -48,10 +63,13 @@ record over ~16k records, so the fetcher spreads them over a worker pool —
 `RELATON_ITU_CONCURRENCY` (default 8) tunes it; lower it if ITU starts
 throttling.
 
-Two guards refuse to publish a bad crawl: one blocks a collapse in the ITU-T
-file count, the other blocks a corpus where enrichment largely failed (fewer
-than 90% of records carrying `contributor:`), which is what a mid-crawl block by
-ITU's WAF looks like.
+Three guards refuse to publish a bad crawl: one blocks a collapse in the ITU-T
+file count; one blocks a collapse in the ITU-R file count *per family*
+(Recommendations, Reports, Questions/Handbooks, Resolutions), because ITU
+throttles `/rec` and `/pub` differently and a healthy Recommendation crawl would
+otherwise mask a Reports crawl that lost every series; and one blocks a corpus
+where enrichment largely failed (fewer than 90% of records carrying
+`contributor:`), which is what a mid-crawl block by ITU's WAF looks like.
 
 == Index
 
