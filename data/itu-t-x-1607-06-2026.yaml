@@ -17,10 +17,55 @@ docidentifier:
 date:
 - type: published
   at: '2026-06-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1607 outlines comprehensive requirements for attack
+    surface management (ASM) in cloud computing environments. The key components of
+    ASM include thorough cyber asset discovery, attack surface identification, in-depth
+    analysis and continuous monitoring. These processes are crucial for maintaining
+    a robust security posture in cloud environments.\r\nTo effectively manage attack
+    surfaces, attack surface management (ASM) integrates threat intelligence and collaborates
+    with third-party tools. Additionally, it provides detailed visualizations and
+    mappings of assets, data flows and network traffic. This enables organizations
+    to identify and mitigate potential vulnerabilities proactively. By continuously
+    evaluating, securely configuring and protecting attack surfaces in both multi-cloud
+    and hybrid environments, ASM ensures that evolving cyber threats are effectively
+    countered. Furthermore, it facilitates the prioritization and remediation of risks,
+    allowing organizations to maintain a secure and agile cloud infrastructure.\r\n"
+status:
+  stage:
+    content: Published
 copyright:
 - from: '2026'
   owner:

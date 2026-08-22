@@ -10,7 +10,7 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.4246-202606-P
+  content: https://www.itu.int/rec/T-REC-Y.4246-202606-I
 docidentifier:
 - content: ITU-T Y.4246 (06/2026)
   type: ITU
@@ -51,6 +51,17 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Recommendation ITU-T Y.4246 specifies accessibility requirements for metaverse
+    services supporting Internet of things (IoT). It complements ITU-T Y.4204 by addressing
+    issues specific to immersive and digital twin environments. The Recommendation
+    identifies three key areas: sensory perception, spatial navigation and communication/action.
+    The text requires alternative representations of visual and audio information,
+    support for assistive technologies, personalization of virtual objects and audio
+    characteristics, and clear notification when adaptations such as size scaling,
+    contrast adjustment, colour change or sound modification may distort real-world
+    information. Its aim is to ensure that persons with disabilities and users with
+    specific needs can access, understand, navigate, communicate and interact effectively
+    in IoT-supported metaverse services.\r\n"
 status:
   stage:
     content: Published

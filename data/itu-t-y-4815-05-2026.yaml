@@ -51,6 +51,14 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "In an IoT-based electric power infrastructure (IoT-EPI), data collaboration
+    across different information systems is common for applications and plays a key
+    role in supporting operations such as data analysis, operational optimization,
+    and decision-making. Traditionally, applications must develop separate authentication
+    modules for each information system, leading to high costs, complexity and a larger
+    attack surface.\r\nRecommendation ITU-T Y.4815 specifies a unified authentication
+    (UA) service for data collaboration in IoT-EPI, including its characteristics,
+    requirements, functional architecture, capabilities, and general procedures.\r\n"
 status:
   stage:
     content: Published

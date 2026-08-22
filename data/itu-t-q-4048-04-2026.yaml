@@ -50,6 +50,20 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "The cloud-edge-device collaborative architecture has emerged as a pivotal
+    computing paradigm, integrating centralized cloud resources with distributed edge
+    capabilities to optimize data processing and task execution. By synergizing the
+    strengths of both domains, this architecture addresses the concurrent requirements
+    for low latency, high throughput and energy efficiency.\r\nHowever, the inherent
+    complexity of such systems – characterized by heterogeneous terminal devices,
+    diverse network topologies and stringent performance constraints – presents significant
+    challenges for system management and troubleshooting. Effective fault detection,
+    diagnostics and performance optimization necessitate a robust monitoring framework
+    supported by granular data metrics.\r\nRecommendation ITU-T Q.4048 defines a comprehensive
+    set of monitoring parameters for cloud-edge-device collaboration systems. By establishing
+    a standardized monitoring framework, this document serves as a technical reference
+    for the implementation of monitoring capabilities, facilitating the design, deployment
+    and lifecycle maintenance of resilient collaborative environments.\r\n"
 status:
   stage:
     content: Published

@@ -45,6 +45,12 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Recommendation ITU-T G.8350 specifies management and control requirements
+    and a protocol-neutral management information model for managing metro transport
+    networks and their elements.\r\nAmendment 2 contains the following modifications:\r\n–Adds
+    the fgMTN management requirement and information model in Annex C.\r\n–Updates
+    the high-level overview model of metro transport network (MTN) in clause 13.2.1.\r\n–Updates
+    the UML model file in clause 14.\r\n"
 status:
   stage:
     content: Published

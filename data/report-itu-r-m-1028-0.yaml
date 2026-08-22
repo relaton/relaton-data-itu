@@ -1,0 +1,28 @@
+---
+id: ReportITURM10280
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: 3 kHz duplex separation for DSC channels in the band 435-526.5 kHz
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.1028-1986-PDF-E.pdf
+docidentifier:
+- content: Report ITU-R M.1028-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 1986-01
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: technical-report
+  flavor: itu

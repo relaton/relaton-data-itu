@@ -45,6 +45,14 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Recommendation ITU-T G.8052 contains the protocol neutral UML information
+    model for Ethernet transport network (NE) management. This UML information model
+    is based on the Ethernet equipment functions specified in Recommendation ITU-T
+    G.8021/Y.1341, generic management requirements in Recommendation ITU-T G.7710/Y.1701,
+    and Ethernet specific management requirements in Recommendation ITUT G.8051/Y.1345.\r\nAmendment
+    1 aligns the UML information model, defined in this Recommendation, with the v5.0
+    of the ITUT Core UML information model, defined in Recommendation ITU-T G.7711
+    (2025).\r\n"
 status:
   stage:
     content: Published

@@ -1,0 +1,28 @@
+---
+id: ITUR60HDB2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Deployment of IMT-2000 Systems
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pub/itu-r/opb/hdb/R-HDB-60-2003-PDF-E.pdf
+docidentifier:
+- content: ITU-R 60.HDB (2003)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: '2003'
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: handbook
+  flavor: itu

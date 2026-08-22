@@ -45,6 +45,23 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Recommendation ITU-T G.876 describes the management requirements and the
+    information model for network elements (NEs) that contain optical media layer
+    functions defined by ITU-T equipment Recommendations based on the ITU-T G.807
+    architecture, e.g., Recommendation ITU-T G.798.\r\nThe management requirements
+    are based on Recommendation ITU-T G.7710, and the UML information model is based
+    on ITU-T G.7711 object classes. \r\nThe first version of this Recommendation provides
+    the optical media layer management requirements and UML information model for
+    the optical transport network (OTN).\r\nAmendment 1 of this Recommendation creates
+    OCh model fragment, PMS (Physical Media Section) model fragment, the generic structure
+    of the media construct and the use case for point-to-point interfaces. It also
+    updates the requirements of configuration management and performance management,
+    as well as the existing model fragment (i.e., OTS, OMS and OTSiA object classes).\r\nAmendment
+    2 of this Recommendation creates an appendix for \"OTS, OMS, OTSiA and OCh protection
+    model fragments\" with its UML papyrus module (informative). Texts in clause 6
+    and clause 7 are improved.\r\nAmendment 3 of this Recommendation updates the UML
+    information model with Recommendation ITU-T G.7711 (2025) and aligns with Recommendations
+    ITU-T G.875 (2026) and ITU-T G.8052 (2025).\r\n"
 status:
   stage:
     content: Published

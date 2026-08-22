@@ -51,6 +51,16 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Recommendation ITU-T Y.4420 describes a framework of Internet of things
+    (IoT)-based monitoring and management for lifts, including a protocol and a data
+    model, and requirements for the external control of lifts using IoT technologies.
+    Lifts need to interact with applications through communication networks to provide
+    different kinds of services to end users. In many cases, lifts cannot connect
+    to communication networks directly. Therefore, gateways support the interconnection
+    of such lifts with communication networks. Correspondingly, various lift companies
+    also apply their own data models and protocols. For this reason, interoperability
+    problems have occurred and therefore this framework will facilitate IoT-based
+    monitoring and management for lifts to operate in conjunction with each other.\r\n"
 status:
   stage:
     content: Published

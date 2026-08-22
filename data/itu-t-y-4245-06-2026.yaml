@@ -51,6 +51,16 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Recommendation ITU-T Y.4245 defines requirements and capabilities for
+    accessible service management (ASM) using user accessibility preference profiles
+    (UAPP) for IoT services. It addresses the difficulty users with disabilities face
+    when identifying, activating, and adjusting accessibility features across different
+    IoT services and interfaces. Recommendation ITU-T Y.4245 specifies requirements
+    for UAPP, including user identification, assistive technology information, preferred
+    input/output modes, and UI/UX personalization. It also defines ASM requirements
+    and capabilities to map IoT service accessibility features to user preferences,
+    provide alternative formats for visual and auditory information, maintain settings
+    across interfaces, and allow users to control or delete stored preferences.\r\n"
 status:
   stage:
     content: Published

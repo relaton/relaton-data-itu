@@ -18,10 +18,60 @@ docidentifier:
 date:
 - type: published
   at: '2026-06-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Nowadays, as network security strategies continue to evolve, the security
+    architecture for cloud service providers (CSPs) or cloud service customers (CSCs)
+    has changed from a simple combination of prevention and recovery to a new stage
+    integrating detection, prevention, and response. Leading enterprises and organizations
+    have attached greater importance to security orchestration, automation and response
+    (SOAR). SOAR is regarded as the key technology to improve network elasticity and
+    the efficiency of security operations for cloud computing, which can be detailed
+    as follows:\r\n1)By leveraging artificial intelligence (AI), it is possible to
+    establish a security operation functionality in the cloud that includes threat
+    analysis and controlled automated response, which could greatly improve the efficiency
+    of security operations.\r\n2)In cloud computing, SOAR has naturally a cost advantage.\r\n3)With
+    the development of cloud-native technology, there are new approaches to implementing
+    managed and scalable incident response in cloud computing.\r\nRecommendation ITU-T
+    X.1651 describes the overview of SOAR for cloud computing, including the definition
+    and the emerging background of SOAR, and analyses advantages of SOAR coping with
+    security threats of cloud computing especially in incident responses. Then it
+    also provides a framework of SOAR for cloud computing to improve the efficiency
+    of security operations for both CSPs and CSCs.\r\n"
+status:
+  stage:
+    content: Published
 copyright:
 - from: '2026'
   owner:

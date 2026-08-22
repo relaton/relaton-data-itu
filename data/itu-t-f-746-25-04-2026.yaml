@@ -51,6 +51,14 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Recommendation ITU-T F.746.25 describes the framework for voice interaction
+    of in-vehicle multimodal system and the workflow of its functions. The framework
+    integrates synchronized audio-visual processing (voice/lip movement fusion) and
+    hybrid decision-making (voice/gesture combination), with kernel function reference
+    points for reproducible implementation. \r\nThe Recommendation presents a multimodal
+    fusion recognition (the fusion of voice perception and visual perception) approach
+    that improves the user experience including interactivity. It also enhances the
+    naturalness and effectiveness of voice interaction system.\r\n"
 status:
   stage:
     content: Published

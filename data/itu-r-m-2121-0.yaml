@@ -5,18 +5,19 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines for AM(R)S sharing studies in the 960-1 164 MHz band
+  content: Harmonization of frequency bands for Intelligent Transport Systems in the
+    mobile service
   type: main
 source:
 - type: pdf
-  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2121-2007-PDF-E.pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2121-0-201901-S!!PDF-E.pdf
 docidentifier:
 - content: ITU-R M.2121-0
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2007-09
+  at: '2019-01-30'
 language:
 - en
 script:
@@ -24,5 +25,5 @@ script:
 ext:
   schema_version: v1.1.3
   doctype:
-    content: technical-report
+    content: recommendation
   flavor: itu

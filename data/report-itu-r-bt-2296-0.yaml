@@ -1,0 +1,31 @@
+---
+id: ReportITURBT22960
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Example of application of Recommendation ITU-R BT.1895 and Report ITU-R
+    BT.2265 to assess interference to the broadcasting service caused by the impact
+    of IMT systems on existing head amplifiers of collective television distribution
+    systems
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BT.2296-2013-PDF-E.pdf
+docidentifier:
+- content: Report ITU-R BT.2296-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2014-04
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: technical-report
+  flavor: itu

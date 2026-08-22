@@ -51,6 +51,17 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Foundation models for mobile devices are advancing towards greater diversity,
+    intelligence and generalization, gaining increasing academic and industrial attention.
+    Their deployment across smartphones, tablets, laptops and robots is transforming
+    products and industries. Developing mobile-specific foundation models is crucial
+    to address limited resources, network variability and energy constraints, enabling
+    efficient, private and real-time on-device intelligence. \r\nRecommendation ITU-T
+    F.748.69 specifies the requirements for the capabilities of mobile device foundation
+    models, which will enable users to better understand the capabilities of mobile
+    device foundation models in the process of deploying them in real-world applications.
+    This Recommendation provides guidelines for users to examine the level of mobile
+    device foundation models' capabilities and promote the effectiveness of applications.\r\n"
 status:
   stage:
     content: Published

@@ -1,0 +1,28 @@
+---
+id: ITUR26HDB1996
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Radiometeorology
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pay/itu-r/opb/hdb/R-HDB-26-1996-PDF-E.pdf
+docidentifier:
+- content: ITU-R 26.HDB (1996)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: '1996'
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: handbook
+  flavor: itu

@@ -18,10 +18,56 @@ docidentifier:
 date:
 - type: published
   at: '2026-06-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "A distributed ledger technology (DLT)-based digital collection is a unique
+    digital certificate registered on a private DLT system. It is utilized to denote
+    ownership1 of assets such as artworks or collectibles. A DLT-based digital collection
+    service system primarily includes three key stakeholders: a digital collection
+    user, a digital collection asset provider, and a digital collection service platform
+    operating the private DLT system. This system facilitates a range of activities
+    related to digital collections, encompassing issuance, transfer, acquisitions
+    and exchange.\r\nIn the DLT-based digital collection service system, the stakeholders
+    differ in each process, resulting in the creation and demand for various types
+    of data. Each process introduces security risks with severe implications, including
+    financial loss, reputational harm, market instability and exposure of personal
+    information. To counter these risks, Recommendation ITU-T X.1418 identifies potential
+    security threats encountered during various activities related to digital collections
+    and specifies security requirements and controls to mitigate them.\r\n"
+status:
+  stage:
+    content: Published
 copyright:
 - from: '2026'
   owner:

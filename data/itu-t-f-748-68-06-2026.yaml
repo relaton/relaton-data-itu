@@ -50,6 +50,14 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Foundation models are increasingly deployed at the edge to deliver low-latency,
+    privacy-preserving artificial intelligence (AI) services. However, edge environments
+    impose strict constraints on compute, memory, energy and network resources, making
+    model deployment, inference acceleration and system evaluation challenging. \r\nRecommendation
+    ITU-T F.748.68 defines the differentiated needs for edge domain inference systems,
+    providing a standard for the evaluation of functionality and performance metrics
+    for foundational models' inference engines, to address the challenges of model
+    deployment in edge domain applications.\r\n"
 status:
   stage:
     content: Published

@@ -50,6 +50,18 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Immersive live experience (ILE) in the ITU-T H.430-series of Recommendations
+    deals with capturing experiences from the third-person point of view, where users
+    at remote sites feel as if they were attending the actual performance as part
+    of the audience at the event site. However, ILE can include capturing experiences
+    from the first-person point of view, first-person transfer ILE (FT-ILE), where
+    users at a remote site feel as if they were the performers at the event site.
+    To recreate the same experience from the first-person point of view, the experience
+    needs to be adjusted according to the individuals' perceptual information and
+    physical capabilities. Thus FT-ILE requires different data from ILE and requires
+    a different architectural framework.\r\nRecommendation ITU-T H.430.9 specifies
+    the definition of FT-ILE, and the high-level architecture and requirements for
+    FT-ILE systems in order to specify FT-ILE services.\r\n"
 status:
   stage:
     content: Published

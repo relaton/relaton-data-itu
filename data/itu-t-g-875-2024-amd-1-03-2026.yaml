@@ -45,6 +45,27 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Recommendation ITU-T G.875 (ex. ITU-T G.874.1) provides a protocol-neutral
+    management information model for managing network elements in the optical transport
+    network (OTN). This unified modelling language (UML) information model contains
+    the managed entities and their properties that are useful for describing the information
+    exchanged across interfaces defined in the ITU-T M.3010 telecommunication management
+    network (TMN) architecture. The protocol-neutral management information model
+    shall be used as the base for defining protocol-specific management information
+    models, for example, common management information service element (CMISE), common
+    object request broker architecture (CORBA) and simple network management protocol
+    (SNMP) information models. Mapping from the protocol-neutral entities into protocol-specific
+    objects is a decision of the specific protocol modelling design and should be
+    described in the protocol-specific information model Recommendations.\r\nAmendment
+    1 adds the UML Papyrus module for fine grain OTN (fgOTN), in alignment with the
+    management requirements defined in Recommendations ITU-T G.874 (2026), ITU-T G.798
+    (2023) Amd. 3 and ITU-T G.709 (2020) Amd. 4. It also aligns the UML information
+    model in this Recommendation with v5.0 of the ITU-T core UML information model,
+    defined in Recommendation ITU-T G.7711 (2025), the v1.3 of the medial layer UML
+    information model, defined in Recommendation ITU-T G.876 (2021) Amd. 3, v3.1 of
+    the ITU-T Ethernet UML information model, defined in Recommendation ITU-T G.8052
+    (2024) Amd. 1, and v4.1 of the ITU-T MPLS-TP UML information model, defined in
+    Recommendation ITU-T G.8152 (2024) Amd. 1.\r\n"
 status:
   stage:
     content: Published

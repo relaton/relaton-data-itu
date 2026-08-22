@@ -51,6 +51,14 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Due to limited computing resources on the vehicle side, it is necessary
+    to implement cooperative processing between the vehicle and the cloud based on
+    generative artificial intelligence (AI). \r\nRecommendation ITU-T F.749.21 specifies
+    a generative AI based vehicle–cloud collaboration (GAVCC) system framework, use
+    cases and functional requirements, including intention recognition and response,
+    multi-intention planning generation, personalized driver assistance information
+    generation and multimodal interaction information generation. A GAVCC system based
+    on this Recommendation will improve the user experience of the driver and passengers.\r\n"
 status:
   stage:
     content: Published

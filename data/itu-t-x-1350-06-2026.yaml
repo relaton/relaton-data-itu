@@ -17,10 +17,50 @@ docidentifier:
 date:
 - type: published
   at: '2026-06-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "Recommendation ITU-T X.1350 identifies potential security threats that
+    can occur in the intelligence dimension of industrial Internet of things (IIoT)
+    based smart manufacturing specified in Recommendation ITU-T Y.4003 and specifies
+    corresponding security requirements. Specifically, in this Recommendation, potential
+    security threats that can occur at each layer of the intelligence dimension of
+    IIoT-based smart manufacturing are identified. The security requirements to respond
+    to the identified security threats are specified for securing the intelligence
+    dimension of IIoT-based smart manufacturing.\r\n"
+status:
+  stage:
+    content: Published
 copyright:
 - from: '2026'
   owner:

@@ -5,15 +5,18 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Part 01 - Month 01
+  content: Reference atmospheres
   type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.835-7-202408-I!!PDF-E.pdf
 docidentifier:
 - content: ITU-R P.835-7
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2024-09
+  at: '2024-08-26'
 language:
 - en
 script:

@@ -51,6 +51,15 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "With the advancement of artificial intelligence and increasing computing
+    power, multirobot collaborative operation has emerged as a promising technology.
+    The collection and processing of visual information are necessary for multirobot
+    systems. Collaborative localization, collaborative perception, path planning and
+    obstacle avoidance of multirobots rely on the collection and processing of visual
+    and supplemental data. There is a need to develop a clear framework and requirements
+    to accommodate existing and newly developed collaboration systems of multirobot.
+    \r\nRecommendation ITU-T F.747.17 specifies the requirements and framework for
+    a vision-based multirobot collaboration system and provides use cases.\r\n"
 status:
   stage:
     content: Published

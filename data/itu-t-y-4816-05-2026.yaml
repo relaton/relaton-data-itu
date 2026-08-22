@@ -51,6 +51,24 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Base station inspection services using unmanned aerial vehicles (UAVs)
+    play a key role in ensuring the continuity and reliability of smart city infrastructure.
+    At the same time, the use of UAVs introduces fundamentally new security risks:
+    an expanded attack surface, the potential for unauthorized access to confidential
+    data, interception of flight control and falsification of inspection results.
+    These threats can disrupt the operation of critical facilities, lead to the leakage
+    of sensitive information, and undermine trust in a city's digital services.\r\nUnlike
+    traditional IoT security systems, the base stations inspection service faces significant
+    and unique security risks. The widespread deployment of unmanned aerial vehicles,
+    especially when operated from remote docking stations, creates a large attack
+    surface and makes the maintenance process vulnerable. Such vulnerability could
+    lead to data theft, including unauthorized access to confidential images of restricted
+    areas, posing substantial security risks. \r\nRecommendation ITU-T Y.4816 specifies
+    the security requirements and capabilities for base station inspection services
+    using unmanned aerial vehicles. It aims to enhance information security protection
+    and prevent security incidents such as unauthorized access, malicious intrusions
+    and data tampering, thereby contributing to the overall security of base stations
+    and maintaining the quality of public services in smart cities.\r\n"
 status:
   stage:
     content: Published

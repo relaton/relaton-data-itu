@@ -1,0 +1,28 @@
+---
+id: ITUR01HDB2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Computer-aided Techniques for Spectrum Management (CAT)
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pub/itu-r/opb/hdb/R-HDB-01-2005-PDF-E.pdf
+docidentifier:
+- content: ITU-R 01.HDB (2005)
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: '2005'
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: handbook
+  flavor: itu

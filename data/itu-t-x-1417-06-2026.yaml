@@ -18,10 +18,54 @@ docidentifier:
 date:
 - type: published
   at: '2026-06-10'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 17
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+  content: "A distributed power trading (DPT) system based on permissioned distributed
+    ledger technology (DLT) is a system designed for peer-to-peer trading of energy
+    in a smart grid. Permissioned DLT has been applied to power trading systems to
+    address issues in conventional power trading systems. However, challenges still
+    exist in permissioned DLT-based DPT systems. \r\nRecommendation ITU-T X.1417 identifies
+    security threats to the data processed in permissioned DLTbased DPT systems, particularly
+    sensitive data related to participants in the systems, such as user identifier
+    (ID), energy resource composition, operational status and energy production/consumption
+    schedules. It also provides security requirements to mitigate these security threats
+    and protect sensitive data from external exposure. This Recommendation can be
+    utilized in the design, development and operation of DPT systems using permissioned
+    DLT.\r\n"
+status:
+  stage:
+    content: Published
 copyright:
 - from: '2026'
   owner:

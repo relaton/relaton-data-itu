@@ -1,0 +1,28 @@
+---
+id: ReportITURBS21031
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Short-term loudness metering
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BS.2103-1-2008-PDF-E.pdf
+docidentifier:
+- content: Report ITU-R BS.2103-1
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2008-11
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: technical-report
+  flavor: itu

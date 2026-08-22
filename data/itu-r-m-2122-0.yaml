@@ -5,20 +5,21 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: EMC assessment of shore-based electronic navigation (eNAV) infrastructure
-    and new draft Standards for data exchange in the VHF maritime mobile band (156-174
-    MHz)
+  content: Technical and operational characteristics for aeronautical mobile service
+    systems limited to aircraft transmissions of aeronautical mobile telemetry for
+    flight testing in the band 5 150-5 250 MHz in Region 1 and in Brazil in accordance
+    with RR No. 5.446C
   type: main
 source:
 - type: pdf
-  content: http://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-M.2122-2007-PDF-E.pdf
+  content: https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2122-0-201901-I!!PDF-E.pdf
 docidentifier:
 - content: ITU-R M.2122-0
   type: ITU
   primary: true
 date:
 - type: published
-  at: 2007-10
+  at: '2019-01-30'
 language:
 - en
 script:
@@ -26,5 +27,5 @@ script:
 ext:
   schema_version: v1.1.3
   doctype:
-    content: technical-report
+    content: recommendation
   flavor: itu

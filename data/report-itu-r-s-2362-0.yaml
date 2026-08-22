@@ -1,0 +1,30 @@
+---
+id: ReportITURS23620
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Methodology to estimate the sensitivity of GSO FSS interference levels
+    to the geographical location of earth stations communicating with GSO satellites
+    in the fixed-satellite service in the 14 GHz and 30 GHz frequency ranges
+  type: main
+source:
+- type: pdf
+  content: https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-S.2362-2015-PDF-E.pdf
+docidentifier:
+- content: Report ITU-R S.2362-0
+  type: ITU
+  primary: true
+date:
+- type: published
+  at: 2015-09
+language:
+- en
+script:
+- Latn
+ext:
+  schema_version: v1.1.3
+  doctype:
+    content: technical-report
+  flavor: itu
