@@ -54,7 +54,7 @@ abstract:
     of time synchronization over a data centre network.\r\n"
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2025'
   owner:
@@ -65,6 +65,17 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Synchronization for data centres
+    docidentifier:
+    - content: G Suppl. 92 (07/2026)
+      type: ITU
+      primary: true
 place:
 - city: Geneva
 ext:

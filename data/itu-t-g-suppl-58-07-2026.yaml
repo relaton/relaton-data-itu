@@ -1,5 +1,5 @@
 ---
-id: ITUTGSuppl58102018
+id: ITUTGSuppl58072026
 schema_version: v1.5.6
 type: standard
 title:
@@ -7,16 +7,13 @@ title:
   script: Latn
   content: Optical transport network module framer interfaces
   type: main
-source:
-- type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup58-201810-S
 docidentifier:
-- content: ITU-T G Suppl. 58 (10/2018)
+- content: ITU-T G Suppl. 58 (07/2026)
   type: ITU
   primary: true
 date:
 - type: published
-  at: '2018-10-19'
+  at: '2026-07-10'
 contributor:
 - role:
   - type: publisher
@@ -42,7 +39,7 @@ contributor:
     abbreviation:
       content: ITU-T
 edition:
-  content: '4'
+  content: '11'
 language:
 - en
 script:
@@ -50,19 +47,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 58 to ITU-T G-series Recommendations describes several interoperable
-    component-to-component multilane interfaces (across different vendors) to connect
-    an optical module (with or without digital signal processor (DSP)) to a framer
-    device in a vendor's equipment supporting 40G, 100G or beyond 100G optical transport
-    network (OTN) interfaces.\r\n\r\nOnly the structure of the 11G, 28G or 56G physical
-    lanes of the different OTN module framer interface (MFI) examples is provided
-    in this Supplement. For their electrical characteristics, the OIF-CEI IA specifications
-    can be used.\r\n\r\nThis Supplement relates to Recommendation ITU-T G.709/Y.1331.\r\n"
 status:
   stage:
-    content: Withdrawal
+    content: Published
 copyright:
-- from: '2018'
+- from: '2026'
   owner:
   - organization:
       uri:
@@ -72,16 +61,6 @@ copyright:
       abbreviation:
         content: ITU
 relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Optical transport network module framer interfaces
-    docidentifier:
-    - content: G Suppl. 58 (07/2026)
-      type: ITU
-      primary: true
 - type: hasEdition
   bibitem:
     title:
@@ -140,6 +119,16 @@ relation:
       content: Optical transport network module framer interfaces
     docidentifier:
     - content: G Suppl. 58 (02/2020)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical transport network module framer interfaces
+    docidentifier:
+    - content: G Suppl. 58 (10/2018)
       type: ITU
       primary: true
 - type: hasEdition

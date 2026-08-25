@@ -1,23 +1,23 @@
 ---
-id: ITUTLSuppl39092020
+id: ITUTLSuppl65072026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T L.1470 - Optical fibre cable Recommendations and standardization
-    guideline
+  content: National experiences with respect to ITU-T L.1xx-series optical fibre cables,
+    installation methods, and test methods
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup39-202009-I
+  content: https://www.itu.int/rec/T-REC-L.Sup65-202607-P
 docidentifier:
-- content: ITU-T L Suppl. 39 (09/2020)
+- content: ITU-T L Suppl. 65 (07/2026)
   type: ITU
   primary: true
 date:
 - type: published
-  at: '2020-09-18'
+  at: '2026-07-10'
 contributor:
 - role:
   - type: publisher
@@ -51,15 +51,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 39 to ITU-T L-series Recommendations provides information on
-    the guideline used in the development of optical fibre cable Recommendations.
-    The guideline also helps readers to understand the organization of the ITU-T L.100-series
-    cable Recommendations. \r\n"
 status:
   stage:
-    content: Withdrawal
+    content: Published
 copyright:
-- from: '2020'
+- from: '2026'
   owner:
   - organization:
       uri:
@@ -68,17 +64,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Optical fibre cable Recommendations and standardization guideline
-    docidentifier:
-    - content: L Suppl. 39 (07/2026)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

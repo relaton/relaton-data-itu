@@ -63,7 +63,7 @@ abstract:
     Supplement relates to Recommendation ITU-T G.709/Y.1331.\r\n"
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2024'
   owner:
@@ -75,6 +75,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optical transport network module framer interfaces
+    docidentifier:
+    - content: G Suppl. 58 (07/2026)
+      type: ITU
+      primary: true
 - type: hasEdition
   bibitem:
     title:
