@@ -62,7 +62,7 @@ abstract:
     smart digital audio services (to be published as ITU-T J.1116).\r\n"
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2025'
   owner:
@@ -74,6 +74,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Functional requirements for IP-based smart digital audio services
+    docidentifier:
+    - content: J.1115 (08/2026)
+      type: ITU
+      primary: true
 - type: complementOf
   bibitem:
     title:
