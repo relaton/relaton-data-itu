@@ -34946,6 +34946,14 @@
   :file: data/itu-r-s-1528-0.yaml
 - :id:
     _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '1528'
+    parts:
+    - '1'
+  :file: data/itu-r-s-1528-1.yaml
+- :id:
+    _type: pubid:itu:recommendation
     sector: T
     series: X
     number: '1528'
@@ -34988,14 +34996,6 @@
     year: '2012'
     month: '09'
   :file: data/itu-t-x-1528-4-09-2012.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: S
-    number: '1528'
-    parts:
-    - '1'
-  :file: data/itu-r-s-1528-1.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
