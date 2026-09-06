@@ -65,7 +65,7 @@ abstract:
     the criteria for ID tag design.\r\n"
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2012'
   owner:
@@ -77,6 +77,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: ID tag requirements for network infrastructures management
+    docidentifier:
+    - content: L.361 (08/2026)
+      type: ITU
+      primary: true
 - type: hasEdition
   bibitem:
     title:
@@ -307,7 +317,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T L.1331 - Supplement on study of multi-dimensional network energy
+      content: ITU-T L.1331 – Supplement on study of multi-dimensional network energy
         efficiency metrics
     docidentifier:
     - content: L Suppl. 62 (06/2026)
@@ -323,6 +333,17 @@ relation:
         industry
     docidentifier:
     - content: L Suppl. 63 (06/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: National experiences with respect to ITU-T L.1xx-series optical fibre
+        cables, installation methods, and test methods
+    docidentifier:
+    - content: L Suppl. 65 (07/2026)
       type: ITU
       primary: true
 place:

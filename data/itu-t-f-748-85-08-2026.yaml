@@ -7,6 +7,9 @@ title:
   script: Latn
   content: Assessment criteria for foundation models - Vision
   type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-F.748.85-202608-I
 docidentifier:
 - content: ITU-T F.748.85 (08/2026)
   type: ITU
@@ -31,11 +34,6 @@ contributor:
   organization:
     name:
     - content: International Telecommunication Union
-    subdivision:
-    - name:
-      - content: ITU-T Study Group 21
-      type: technical-committee
-      subtype: study-group
     abbreviation:
       content: ITU-T
 edition:

@@ -17,37 +17,10 @@ docidentifier:
 date:
 - type: published
   at: '1996-10-18'
-contributor:
-- role:
-  - type: publisher
-  organization:
-    uri:
-    - content: www.itu.int
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU
-- role:
-  - type: author
-    description:
-    - content: committee
-  organization:
-    name:
-    - content: International Telecommunication Union
-    abbreviation:
-      content: ITU-T
-edition:
-  content: '3'
 language:
 - en
 script:
 - Latn
-abstract:
-- language: en
-  script: Latn
-status:
-  stage:
-    content: Withdrawal
 copyright:
 - from: '1996'
   owner:
@@ -58,27 +31,6 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
-relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Major degradation or disruption of service
-    docidentifier:
-    - content: A.30 (03/1993)
-      type: ITU
-      primary: true
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Major degradation or disruption of service
-    docidentifier:
-    - content: A.30 (11/1988)
-      type: ITU
-      primary: true
 place:
 - city: Geneva
 ext:

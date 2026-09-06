@@ -187,6 +187,16 @@ relation:
     title:
     - language: en
       script: Latn
+      content: Optical fibre cable Recommendations and standardization guideline
+    docidentifier:
+    - content: L Suppl. 39 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
       content: Requirements on energy efficiency measurement models and the role of
         artificial intelligence and big data
     docidentifier:
@@ -307,7 +317,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T L.1331 - Supplement on study of multi-dimensional network energy
+      content: ITU-T L.1331 – Supplement on study of multi-dimensional network energy
         efficiency metrics
     docidentifier:
     - content: L Suppl. 62 (06/2026)
@@ -323,6 +333,17 @@ relation:
         industry
     docidentifier:
     - content: L Suppl. 63 (06/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: National experiences with respect to ITU-T L.1xx-series optical fibre
+        cables, installation methods, and test methods
+    docidentifier:
+    - content: L Suppl. 65 (07/2026)
       type: ITU
       primary: true
 place:

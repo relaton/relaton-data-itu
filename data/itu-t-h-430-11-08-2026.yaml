@@ -8,6 +8,9 @@ title:
   content: Requirements and framework of augmented reality for immersive live experience
     (ILE) services
   type: main
+source:
+- type: src
+  content: https://www.itu.int/rec/T-REC-H.430.11-202608-I
 docidentifier:
 - content: ITU-T H.430.11 (08/2026)
   type: ITU
@@ -177,6 +180,17 @@ relation:
       content: Film grain synthesis technology for video applications
     docidentifier:
     - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimization of encoders and receiving systems for machine analysis
+        of coded video content
+    docidentifier:
+    - content: H Suppl. 22 (07/2026)
       type: ITU
       primary: true
 place:

@@ -622,16 +622,6 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optical transport network module framer interfaces
-    docidentifier:
-    - content: G Suppl. 58 (07/2024)
-      type: ITU
-      primary: true
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
       content: Guidance on optical fibre and cable reliability
     docidentifier:
     - content: G Suppl. 59 (02/2018)
@@ -951,9 +941,19 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Synchronization for data centres
+      content: Low Layer Split Mobile Fronthaul over T(W)DM PON
     docidentifier:
-    - content: G Suppl. 92 (10/2025)
+    - content: G Suppl. 93 (07/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Enhanced in-premises networking with computing functions
+    docidentifier:
+    - content: G Suppl. 94 (07/2026)
       type: ITU
       primary: true
 place:

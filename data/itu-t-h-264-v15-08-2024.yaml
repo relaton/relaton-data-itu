@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.264-202408-I
+  content: https://www.itu.int/rec/T-REC-H.264-202408-S
 docidentifier:
 - content: ITU-T H.264 (V15) (08/2024)
   type: ITU
@@ -393,6 +393,17 @@ relation:
       content: Film grain synthesis technology for video applications
     docidentifier:
     - content: H Suppl. 21 (01/2025)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Optimization of encoders and receiving systems for machine analysis
+        of coded video content
+    docidentifier:
+    - content: H Suppl. 22 (07/2026)
       type: ITU
       primary: true
 place:
