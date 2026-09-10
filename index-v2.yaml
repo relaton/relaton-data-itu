@@ -110472,6 +110472,19 @@
     month: '04'
   :file: data/itu-t-h-430-9-04-2026.yaml
 - :id:
+    _type: pubid:itu:errata
+    number: '1'
+    year: '2026'
+    month: '09'
+    base:
+      _type: pubid:itu:recommendation
+      sector: T
+      series: H
+      number: '430'
+      subseries: '9'
+      year: '2026'
+  :file: data/itu-t-h-430-9-2026-err-1-09-2026.yaml
+- :id:
     _type: pubid:itu:recommendation
     sector: T
     series: I
@@ -110546,19 +110559,6 @@
     year: '1984'
     month: '10'
   :file: data/itu-t-x-430-10-1984.yaml
-- :id:
-    _type: pubid:itu:errata
-    number: '1'
-    year: '2026'
-    month: '09'
-    base:
-      _type: pubid:itu:recommendation
-      sector: T
-      series: H
-      number: '430'
-      subseries: '9'
-      year: '2026'
-  :file: data/itu-t-h-430-9-2026-err-1-09-2026.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -153760,6 +153760,14 @@
     sector: T
     series: Q
     number: '75'
+    year: '2026'
+    month: '07'
+  :file: data/itu-t-q-suppl-75-07-2026.yaml
+- :id:
+    _type: pubid:itu:supplement
+    sector: T
+    series: Q
+    number: '75'
     year: '2021'
     month: '12'
   :file: data/itu-t-q-suppl-75-12-2021.yaml
@@ -153938,14 +153946,6 @@
     year: '2023'
     month: '03'
   :file: data/itu-t-y-suppl-75-03-2023.yaml
-- :id:
-    _type: pubid:itu:supplement
-    sector: T
-    series: Q
-    number: '75'
-    year: '2026'
-    month: '07'
-  :file: data/itu-t-q-suppl-75-07-2026.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -172419,6 +172419,14 @@
     month: '09'
   :file: data/itu-t-q-83-4-09-1991.yaml
 - :id:
+    _type: pubid:itu:supplement
+    sector: T
+    series: Q
+    number: '83'
+    year: '2026'
+    month: '07'
+  :file: data/itu-t-q-suppl-83-07-2026.yaml
+- :id:
     _type: pubid:itu:recommendation
     sector: T
     series: R
@@ -172466,14 +172474,6 @@
     year: '2024'
     month: '07'
   :file: data/itu-t-y-suppl-83-07-2024.yaml
-- :id:
-    _type: pubid:itu:supplement
-    sector: T
-    series: Q
-    number: '83'
-    year: '2026'
-    month: '07'
-  :file: data/itu-t-q-suppl-83-07-2026.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
