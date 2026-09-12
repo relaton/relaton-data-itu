@@ -69413,14 +69413,6 @@
     - '5'
   :file: data/report-itu-r-p-2346-5.yaml
 - :id:
-    _type: pubid:itu:recommendation
-    sector: T
-    series: "Y"
-    number: '2346'
-    year: '2023'
-    month: '12'
-  :file: data/itu-t-y-2346-12-2023.yaml
-- :id:
     _type: pubid:itu:report
     sector: R
     series: P
@@ -69428,6 +69420,14 @@
     parts:
     - '6'
   :file: data/report-itu-r-p-2346-6.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
+    series: "Y"
+    number: '2346'
+    year: '2023'
+    month: '12'
+  :file: data/itu-t-y-2346-12-2023.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: T
