@@ -35,6 +35,11 @@ contributor:
   organization:
     name:
     - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 21
+      type: technical-committee
+      subtype: study-group
     abbreviation:
       content: ITU-T
 edition:
@@ -46,6 +51,21 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Transportation tunnels are susceptible to various defects and disasters
+    over their operational lifespan, which can compromise structural safety and operational
+    efficiency. Traditional manual inspection methods often face challenges in terms
+    of safety, accuracy and cost-effectiveness. The integration of robotic systems
+    with advanced artificial intelligence (AI) technologies, particularly computer
+    vision and computer audition, presents a transformative approach to enhance the
+    intelligence and analytical capabilities of a tunnel inspection.\r\nRecommendation
+    ITU-T F.748.75 specifies the requirements and framework for computer vision and
+    audition-based transportation tunnel inspection robotic systems. It provides a
+    layered reference framework comprising a device layer, network layer, service
+    and application support layer, and an application layer, supported by cross-layer
+    management and security capabilities. Furthermore, it specifies functional requirements
+    for the system components, including the use and development of AI models for
+    visual and acoustic data analysis to support intelligent, efficient and comprehensive
+    tunnel inspections.\r\n"
 status:
   stage:
     content: Published

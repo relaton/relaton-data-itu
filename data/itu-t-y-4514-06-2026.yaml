@@ -35,6 +35,11 @@ contributor:
   organization:
     name:
     - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 20
+      type: technical-committee
+      subtype: study-group
     abbreviation:
       content: ITU-T
 edition:
@@ -46,6 +51,9 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "Recommendation ITU-T Y.4514 provides the functional architecture of network
+    connectivity management in the Internet of things, including the functional entities,
+    relevant reference points and logical flows.\r\n"
 status:
   stage:
     content: Published

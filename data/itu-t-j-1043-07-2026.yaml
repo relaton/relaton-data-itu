@@ -51,6 +51,31 @@ script:
 abstract:
 - language: en
   script: Latn
+  content: "The service requirements for the application of new generation video and
+    audio technologies, along with new video service models coupled with a diverse
+    range of consumer devices used for the reception of content, bring new demands
+    and opportunities to the video industry, especially broadcast and television video
+    services, which increases the requirements on digital rights management (DRM).
+    See Recommendation ITU-T J.1040 (2024), Digital rights management for video and
+    audio content distribution – Requirements. The DRM system not only needs to have
+    well-defined security levels to meet the content protection requirements of different
+    quality and different distribution window periods, but it also needs to have sufficient
+    platform compatibility to cover various terminal devices. In addition, higher
+    encryption/decryption efficiency and encryption/decryption modes decoupled from
+    content encapsulation are required to match the rapid development and transformation
+    of video and audio technologies. In addition, an interoperability mechanism is
+    required to achieve a more open DRM ecosystem.\r\nRecommendation ITU-T J.1043
+    is part 4 of a multiparty deliverable composed of four parts. This part 4 describes
+    compliance and robustness rules of digital rights management for video and audio
+    content distribution (DRMVACD), including DRM server compliance and robustness
+    rules, DRM client compliance and robustness rules and best practice for DRM system
+    implementation.\r\nDigital rights management (DRM) specified in this Recommendation
+    is restricted to technical and operational implementations on telecommunication
+    network/services, it does not define any legal compliance framework and does not
+    correspond directly to the intellectual property rights (IPRs) DRM of the WIPO
+    point of view.\r\nNetwork operators/service providers recommended to seek as much
+    as possible compliance with IPRs DRM (WIPO) and try not to overlap or contradict
+    existing terminology, definitions or operational procedures.\r\n"
 status:
   stage:
     content: Published
