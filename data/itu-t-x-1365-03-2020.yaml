@@ -1,16 +1,16 @@
----
 id: ITUTX1365032020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security methodology for the use of identity-based cryptography in support
-    of Internet of things (IoT) services over telecommunication networks
+  content: Security methodology for the use of identity-based cryptography in support of Internet of things (IoT) services over telecommunication networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1365-202003-I
+  content: https://handle.itu.int/11.1002/1000/14089
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1365-202003-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1365 (03/2020)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1365 provides a security methodology for the use
-    of identity-based cryptography (IBC) public key technology in support of Internet
-    of things (IoT) services over telecommunication networks, including mechanisms
-    of identity management, key management architecture, key management operations
-    and authentication.\r\nTraditional certificate-based security methodology involves
-    heavyweight key management operations including certificate issuance, querying
-    and revocation. Such systems face great difficulty in keeping up with the increasing
-    numbers of devices connected in IoT while maintaining adequate performance.\r\nIBC
-    technology is another security methodology that uses an entity’s identity as a
-    public key. An essential feature of IoT is that everything has a unique identifier
-    (ID). Using such IDs as public keys has the benefit of no certificates being required.
-    Consequently, an IBC security solution utilizes simpler key management, enables
-    distributed authorities to control their own devices and scales well to both a
-    high number of endpoints and diverse devices."
+  content: "Recommendation ITU-T X.1365 provides a security methodology for the use of identity-based cryptography (IBC) public key technology in support of Internet of things (IoT) services over telecommunication networks, including mechanisms of identity management, key management architecture, key management operations and authentication.\r\nTraditional certificate-based security methodology involves heavyweight key management operations including certificate issuance, querying and revocation. Such systems face great difficulty in keeping up with the increasing numbers of devices connected in IoT while maintaining adequate performance.\r\nIBC technology is another security methodology that uses an entity’s identity as a public key. An essential feature of IoT is that everything has a unique identifier (ID). Using such IDs as public keys has the benefit of no certificates being required. Consequently, an IBC security solution utilizes simpler key management, enables distributed authorities to control their own devices and scales well to both a high number of endpoints and diverse devices."
 status:
   stage:
     content: Published

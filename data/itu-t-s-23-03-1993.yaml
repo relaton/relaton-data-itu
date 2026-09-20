@@ -1,16 +1,16 @@
----
 id: ITUTS23031993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Automatic request of the answerback of the terminal of the calling party,
-    by the telex terminal of the called party or by the international network
+  content: Automatic request of the answerback of the terminal of the calling party, by the telex terminal of the called party or by the international network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-S.23-199303-I
+  content: https://handle.itu.int/11.1002/1000/2462
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-S.23-199303-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T S.23 (03/1993)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation contains provisions regarding the automatic request
-    of the answerback of the terminal of the calling party, by the telex terminal
-    of the called party or by the international network.
+  content: This Recommendation contains provisions regarding the automatic request of the answerback of the terminal of the calling party, by the telex terminal of the called party or by the international network.
 status:
   stage:
     content: Published
@@ -73,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Automatic request of the answerback of the terminal of the calling
-        party, by the telex terminal of the called party or by the international network
+      content: Automatic request of the answerback of the terminal of the calling party, by the telex terminal of the called party or by the international network
     docidentifier:
     - content: S.23 (11/1988)
       type: ITU

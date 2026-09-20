@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl39032002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.2700: Requirements for signalling in access networks
-    that support BICC'
+  content: 'Technical Report TRQ.2700: Requirements for signalling in access networks that support BICC'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup39-200203-I
+  content: https://handle.itu.int/11.1002/1000/6092
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup39-200203-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 39 (03/2002)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement to ITU-T Q-Series Recommendations is a technical report
-    on the procedures, information flows and information elements needed for signalling
-    in Access Networks that support Bearer Independent Call Control (BICC). It defines
-    the requirements for signalling to control bearer connections and to relay call-related
-    information across the Access Network.
+  content: This Supplement to ITU-T Q-Series Recommendations is a technical report on the procedures, information flows and information elements needed for signalling in Access Networks that support Bearer Independent Call Control (BICC). It defines the requirements for signalling to control bearer connections and to relay call-related information across the Access Network.
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTM1537101997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Definition of maintenance information to be exchanged at customer contact
-    point (MICC)
+  content: Definition of maintenance information to be exchanged at customer contact point (MICC)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1537-199710-I
+  content: https://handle.itu.int/11.1002/1000/4312
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1537-199710-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1537 (10/1997)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: La présente Recommandation décrit les services de conférence multimédia
-    offerts sur un RNIS. S'appuyant sur la Recommandation F.702 pour le corps de la
-    description, elle ne donne que les compléments particuliers concernant le RNIS,
-    qui découlent des capacités et des limites de ce réseau. Lors de la lecture de
-    la présente Recommandation, il est donc nécessaire de se reporter à la Recommandation
-    F.702. Les numéros des paragraphes correspondent à ceux de la Recommandation F.702
-    et ne forment donc pas une séquence continue car seuls quelques paragraphes nécessitent
-    un complément particulier pour le RNIS. Par ailleurs, le paragraphe 9, traitant
-    des attributs pour les divers profils, est nouveau.
+  content: La présente Recommandation décrit les services de conférence multimédia offerts sur un RNIS. S'appuyant sur la Recommandation F.702 pour le corps de la description, elle ne donne que les compléments particuliers concernant le RNIS, qui découlent des capacités et des limites de ce réseau. Lors de la lecture de la présente Recommandation, il est donc nécessaire de se reporter à la Recommandation F.702. Les numéros des paragraphes correspondent à ceux de la Recommandation F.702 et ne forment donc pas une séquence continue car seuls quelques paragraphes nécessitent un complément particulier pour le RNIS. Par ailleurs, le paragraphe 9, traitant des attributs pour les divers profils, est nouveau.
 status:
   stage:
     content: Published

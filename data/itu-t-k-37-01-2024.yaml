@@ -1,16 +1,16 @@
----
 id: ITUTK37012024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Low and high frequency electromagnetic compatibility (EMC) mitigation techniques
-    for telecommunication installations and systems – Basic EMC Recommendation
+  content: Low and high frequency electromagnetic compatibility (EMC) mitigation techniques for telecommunication installations and systems – Basic EMC Recommendation
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.37-202401-I
+  content: https://handle.itu.int/11.1002/1000/15774
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.37-202401-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.37 (01/2024)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.37 defines mitigation techniques which the telecommunication
-    operators may use to avoid disturbances, interference and damages caused by power
-    and electrified railway plants, radio transmitters, both intentional and unintentional,
-    and electrostatic discharges.\r\nThis Recommendation contains guidance for the
-    telecommunication system normal operation:\r\n–use of telecommunication equipment
-    fulfilling relevant electromagnetic compatibility (EMC) requirements;\r\n–proper
-    installation practices such as well-controlled earthing and bonding networks and
-    a.c. power distribution networks in buildings, avoidance of disturbing equipment
-    close to telecommunication equipment, environmental control and welldesigned cabling;\r\n–proper
-    working practices such as avoiding use of hand-held radios close to telecommunication
-    equipment and applying special precautions when handling electrostatic discharge
-    sensitive devices;\r\n–proper working practices in areas subject to high levels
-    of low-frequency induction.\r\nSpecial mitigation methods like shielding and filtering
-    are discussed for cases where EMC problems arise.\r\nThis Recommendation does
-    not include circuit or equipment design rules or guidelines for manufacturing
-    – it is noted that this information is already widely available.\r\n"
+  content: "Recommendation ITU-T K.37 defines mitigation techniques which the telecommunication operators may use to avoid disturbances, interference and damages caused by power and electrified railway plants, radio transmitters, both intentional and unintentional, and electrostatic discharges.\r\nThis Recommendation contains guidance for the telecommunication system normal operation:\r\n–use of telecommunication equipment fulfilling relevant electromagnetic compatibility (EMC) requirements;\r\n–proper installation practices such as well-controlled earthing and bonding networks and a.c. power distribution networks in buildings, avoidance of disturbing equipment close to telecommunication equipment, environmental control and welldesigned cabling;\r\n–proper working practices such as avoiding use of hand-held radios close to telecommunication equipment and applying special precautions when handling electrostatic discharge sensitive devices;\r\n–proper working practices in areas subject to high levels of low-frequency induction.\r\nSpecial mitigation methods like shielding and filtering are discussed for cases where EMC problems arise.\r\nThis Recommendation does not include circuit or equipment design rules or guidelines for manufacturing – it is noted that this information is already widely available.\r\n"
 status:
   stage:
     content: Published
@@ -86,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Low and high frequency EMC mitigation techniques for telecommunication
-        installations and systems – Basic EMC Recommendation
+      content: Low and high frequency EMC mitigation techniques for telecommunication installations and systems – Basic EMC Recommendation
     docidentifier:
     - content: K.37 (02/1999)
       type: ITU
@@ -97,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: High frequency EMC mitigation techniques for telecommunications installations
-        – Basic EMC Recommendation
+      content: High frequency EMC mitigation techniques for telecommunications installations – Basic EMC Recommendation
     docidentifier:
     - content: K.37 (10/1996)
       type: ITU
@@ -108,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -129,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -140,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -151,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -162,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -193,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

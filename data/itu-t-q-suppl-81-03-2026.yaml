@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl81032026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signalling requirements for inter-domain software-defined wide area networking
-    service
+  content: Signalling requirements for inter-domain software-defined wide area networking service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup81-202603-I
+  content: https://handle.itu.int/11.1002/1000/16809
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup81-202603-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 81 (03/2026)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "As enterprise services and network resources increasingly span multiple
-    domains, coordinated inter-domain software-defined wide area networking (SD-WAN)
-    service becomes essential for end-to-end consistent service delivery. \r\nSupplement
-    81 to ITU-T Q-series Recommendations specifies the signalling architecture, procedures
-    and requirements for coordination between SD-WAN controllers across domains, including
-    the interactions of customer demand negotiation, configuration parameters negotiation,
-    and service and network monitoring results notification. Supplement 81 to ITU-T
-    Q-series contributes to automated provisioning and end-to-end performance assurance
-    for inter-domain SD-WAN services.\r\n"
+  content: "As enterprise services and network resources increasingly span multiple domains, coordinated inter-domain software-defined wide area networking (SD-WAN) service becomes essential for end-to-end consistent service delivery. \r\nSupplement 81 to ITU-T Q-series Recommendations specifies the signalling architecture, procedures and requirements for coordination between SD-WAN controllers across domains, including the interactions of customer demand negotiation, configuration parameters negotiation, and service and network monitoring results notification. Supplement 81 to ITU-T Q-series contributes to automated provisioning and end-to-end performance assurance for inter-domain SD-WAN services.\r\n"
 status:
   stage:
     content: Published

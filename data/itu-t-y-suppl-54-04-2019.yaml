@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl54042019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-    of IoT systems
+  content: ITU-T Y.4000 series – Framework for home environment profiles and levels of IoT systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup54-201904-I
+  content: https://handle.itu.int/11.1002/1000/13917
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup54-201904-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 54 (04/2019)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 54 to ITU-T Y.-series Recommendations establishes a set of data
-    fields that reflect consumer preferences for IoT‑enabled devices in specific environments.
-    These data fields could be incorporated into a consumer device, stored in some
-    fashion, and used by compatible IoT devices in the home and elsewhere to automatically
-    implement those preset user preferences.
+  content: Supplement 54 to ITU-T Y.-series Recommendations establishes a set of data fields that reflect consumer preferences for IoT‑enabled devices in specific environments. These data fields could be incorporated into a consumer device, stored in some fashion, and used by compatible IoT devices in the home and elsewhere to automatically implement those preset user preferences.
 status:
   stage:
     content: Published

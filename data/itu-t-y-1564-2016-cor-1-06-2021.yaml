@@ -1,10 +1,11 @@
----
 id: ITUTY15642016Cor1062021
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1564-202106-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/14701
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1564-202106-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1564 (2016) Cor. 1 (06/2021)
   type: ITU
@@ -45,12 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.1564 defines a test methodology that may be used
-    in assessing the proper configuration and performance of an Ethernet network to
-    deliver Ethernet-based services. This out-of-service test methodology was created
-    so that service providers may have a standard way of measuring the performance
-    of Ethernet-based services. Corrigendum 1 introduces changes related to the withdrawal
-    of IEEE 802.1D. \r\n"
+  content: "Recommendation ITU-T Y.1564 defines a test methodology that may be used in assessing the proper configuration and performance of an Ethernet network to deliver Ethernet-based services. This out-of-service test methodology was created so that service providers may have a standard way of measuring the performance of Ethernet-based services. Corrigendum 1 introduces changes related to the withdrawal of IEEE 802.1D. \r\n"
 status:
   stage:
     content: Published
@@ -110,8 +106,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -121,8 +116,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -132,8 +126,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

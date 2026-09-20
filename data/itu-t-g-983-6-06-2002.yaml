@@ -1,16 +1,16 @@
----
 id: ITUTG9836062002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ONT management and control interface specifications for B-PON system with
-    protection features
+  content: ONT management and control interface specifications for B-PON system with protection features
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.983.6-200206-W
+  content: https://handle.itu.int/11.1002/1000/6061
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.983.6-200206-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.983.6 (06/2002)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the optical network terminal management and
-    control interface (OMCI) specifications for broadband passive optical networks
-    (B-PONs). In order to provide support for protected B-PON systems specified in
-    ITU-T Rec. G.983.5 "A broadband optical access system with enhanced survivability,"
-    additional OMCI specifications are required. This Recommendation describes the
-    enhanced OMCI specifications for a B-PON system with protection features. The
-    enhancements described include the addition of protection-related attributes to
-    existing managed entities, managed entity relations diagrams for protected systems,
-    and detailed scenarios for OMCI start-up/tear-down/switch-over and for virtual
-    path (VP) configuration/removal in protected B-PON systems.
+  content: This Recommendation describes the optical network terminal management and control interface (OMCI) specifications for broadband passive optical networks (B-PONs). In order to provide support for protected B-PON systems specified in ITU-T Rec. G.983.5 "A broadband optical access system with enhanced survivability," additional OMCI specifications are required. This Recommendation describes the enhanced OMCI specifications for a B-PON system with protection features. The enhancements described include the addition of protection-related attributes to existing managed entities, managed entity relations diagrams for protected systems, and detailed scenarios for OMCI start-up/tear-down/switch-over and for virtual path (VP) configuration/removal in protected B-PON systems.
 status:
   stage:
     content: Withdrawal

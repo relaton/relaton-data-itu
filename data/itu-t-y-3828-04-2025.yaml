@@ -1,17 +1,16 @@
----
 id: ITUTY3828042025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Integration of quantum key distribution network and user network supporting
-    end-to-end modern cryptography services – Requirements for quality of service
-    assurance
+  content: Integration of quantum key distribution network and user network supporting end-to-end modern cryptography services – Requirements for quality of service assurance
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3828-202504-I
+  content: https://handle.itu.int/11.1002/1000/16298
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3828-202504-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3828 (04/2025)
   type: ITU
@@ -52,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "It is challenging to integrate a quantum key distribution network (QKDN)
-    and a user network to support end-to-end modern cryptography services for users
-    including mobile objects (i.e., autonomous car, mobile phone, etc.). One of the
-    main challenges is an implication on the end-to-end quality of service assurance.
-    To address this issue, Recommendation ITU-T Y.3828 specifies architectural reference
-    models and high-level and functional requirements for quality of service (QoS)
-    assurance for integrated QKDN and user network supporting end-to-end modern cryptography
-    (UNemc) services.\r\n\r\n"
+  content: "It is challenging to integrate a quantum key distribution network (QKDN) and a user network to support end-to-end modern cryptography services for users including mobile objects (i.e., autonomous car, mobile phone, etc.). One of the main challenges is an implication on the end-to-end quality of service assurance. To address this issue, Recommendation ITU-T Y.3828 specifies architectural reference models and high-level and functional requirements for quality of service (QoS) assurance for integrated QKDN and user network supporting end-to-end modern cryptography (UNemc) services.\r\n\r\n"
 status:
   stage:
     content: Published
@@ -99,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -110,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications
-        of machine learning
+      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications of machine learning
     docidentifier:
     - content: Y Suppl. 70 (07/2021)
       type: ITU
@@ -141,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution
-        networks
+      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 74 (03/2023)
       type: ITU
@@ -152,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -163,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end
-        cryptographic services with non-quantum cryptography
+      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end cryptographic services with non-quantum cryptography
     docidentifier:
     - content: Y Suppl. 79 (11/2023)
       type: ITU
@@ -184,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -195,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -216,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -257,8 +241,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum
-        key distribution networks
+      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 100 (02/2026)
       type: ITU

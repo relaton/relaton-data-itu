@@ -1,16 +1,16 @@
----
 id: ITUTX1417062026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security requirements for distributed ledger technology (DLT) data on permissioned
-    DLT-based distributed power trading systems
+  content: Security requirements for distributed ledger technology (DLT) data on permissioned DLT-based distributed power trading systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1417-202606-I
+  content: https://handle.itu.int/11.1002/1000/16708
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1417-202606-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1417 (06/2026)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A distributed power trading (DPT) system based on permissioned distributed
-    ledger technology (DLT) is a system designed for peer-to-peer trading of energy
-    in a smart grid. Permissioned DLT has been applied to power trading systems to
-    address issues in conventional power trading systems. However, challenges still
-    exist in permissioned DLT-based DPT systems. \r\nRecommendation ITU-T X.1417 identifies
-    security threats to the data processed in permissioned DLTbased DPT systems, particularly
-    sensitive data related to participants in the systems, such as user identifier
-    (ID), energy resource composition, operational status and energy production/consumption
-    schedules. It also provides security requirements to mitigate these security threats
-    and protect sensitive data from external exposure. This Recommendation can be
-    utilized in the design, development and operation of DPT systems using permissioned
-    DLT.\r\n"
+  content: "A distributed power trading (DPT) system based on permissioned distributed ledger technology (DLT) is a system designed for peer-to-peer trading of energy in a smart grid. Permissioned DLT has been applied to power trading systems to address issues in conventional power trading systems. However, challenges still exist in permissioned DLT-based DPT systems. \r\nRecommendation ITU-T X.1417 identifies security threats to the data processed in permissioned DLTbased DPT systems, particularly sensitive data related to participants in the systems, such as user identifier (ID), energy resource composition, operational status and energy production/consumption schedules. It also provides security requirements to mitigate these security threats and protect sensitive data from external exposure. This Recommendation can be utilized in the design, development and operation of DPT systems using permissioned DLT.\r\n"
 status:
   stage:
     content: Published

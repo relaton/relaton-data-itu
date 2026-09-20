@@ -1,16 +1,16 @@
----
 id: ITUTJSuppl7042020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Embedded common interface for exchangeable CA/DRM solutions; Guidelines
-    for the implementation of ECI
+  content: Embedded common interface for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.Sup7-202004-S
+  content: https://handle.itu.int/11.1002/1000/14286
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.Sup7-202004-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J Suppl. 7 (04/2020)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 7 to ITU-T J-series Recommendations serves as a guidance document,
-    which contains performance parameters and values as well as use cases for the
-    embedded common interface (ECI) for exchangeable CA/DRM solutions and complements
-    ECI-related ITU-T Recommendations covering the ECI Ecosystem. This ITU-T Supplement
-    is a transposition of ETSI Group Report ETSI GR ECI 004 and is a result of a collaboration
-    between ITU-T SG9 and ETSI ISG ECI. A minor amendment was introduced with a new
-    clause 6.4. \r\n"
+  content: "Supplement 7 to ITU-T J-series Recommendations serves as a guidance document, which contains performance parameters and values as well as use cases for the embedded common interface (ECI) for exchangeable CA/DRM solutions and complements ECI-related ITU-T Recommendations covering the ECI Ecosystem. This ITU-T Supplement is a transposition of ETSI Group Report ETSI GR ECI 004 and is a result of a collaboration between ITU-T SG9 and ETSI ISG ECI. A minor amendment was introduced with a new clause 6.4. \r\n"
 status:
   stage:
     content: Withdrawal
@@ -77,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU

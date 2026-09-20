@@ -1,4 +1,3 @@
----
 id: ITUTP1502012020
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.1502-202001-I
+  content: https://handle.itu.int/11.1002/1000/14160
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.1502-202001-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T P.1502 (01/2020)
   type: ITU
@@ -50,19 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1502 is based on the end-to-end quality of service
-    (QoS) key performance indicator (KPI) definitions first published in the ITU-T
-    Focus Group Digital Financial Services Technical Report \"QoS and QoE Aspects
-    of Digital Financial Services\" (see [b-DFS TR] in the bibliography). It details
-    the methodology and connects to a field test using this methodology which has
-    been conducted in Ghana in the first half of 2018. \r\n\r\nMoney transfer from
-    end user devices to other devices or to other entities has become an important
-    element of everyday life in many countries. This service, however, relies on the
-    functionality of mobile networks. Therefore, a connection exists between the functioning,
-    QoS and quality of experience (QoE) of money transfer services, and the QoS and
-    proper functioning of those mobile networks, and respective quality metrics and
-    testing methodologies need to be defined. \r\n\r\nThe main part of the present
-    Recommendation describes the testing methodology.\r\n"
+  content: "Recommendation ITU-T P.1502 is based on the end-to-end quality of service (QoS) key performance indicator (KPI) definitions first published in the ITU-T Focus Group Digital Financial Services Technical Report \"QoS and QoE Aspects of Digital Financial Services\" (see [b-DFS TR] in the bibliography). It details the methodology and connects to a field test using this methodology which has been conducted in Ghana in the first half of 2018. \r\n\r\nMoney transfer from end user devices to other devices or to other entities has become an important element of everyday life in many countries. This service, however, relies on the functionality of mobile networks. Therefore, a connection exists between the functioning, QoS and quality of experience (QoE) of money transfer services, and the QoS and proper functioning of those mobile networks, and respective quality metrics and testing methodologies need to be defined. \r\n\r\nThe main part of the present Recommendation describes the testing methodology.\r\n"
 status:
   stage:
     content: Published
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations relating to transmission characteristics for analogue
-        handset telephones
+      content: Considerations relating to transmission characteristics for analogue handset telephones
     docidentifier:
     - content: P Suppl. 10 (11/1988)
       type: ITU
@@ -93,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for placement of microphones and loudspeakers in telephone
-        conference rooms and for group audio terminals (GATs)
+      content: Guidelines for placement of microphones and loudspeakers in telephone conference rooms and for group audio terminals (GATs)
     docidentifier:
     - content: P Suppl. 16 (11/1988)
       type: ITU
@@ -104,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Examples of measurements of handset receive-frequency responses: dependence
-        on earcap leakage losses'
+      content: 'Examples of measurements of handset receive-frequency responses: dependence on earcap leakage losses'
     docidentifier:
     - content: P Suppl. 20 (03/1993)
       type: ITU
@@ -145,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
-        telemeeting quality
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty telemeeting quality
     docidentifier:
     - content: P Suppl. 26 (09/2017)
       type: ITU
@@ -156,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations for the development of new QoS and QoE related objective
-        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+      content: Considerations for the development of new QoS and QoE related objective models to be embedded in Recommendations prepared by ITU-T Study Group 12
     docidentifier:
     - content: P Suppl. 28 (09/2020)
       type: ITU
@@ -167,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Subjective quality evaluation of audiovisual communication in videotelephony
-        services
+      content: Subjective quality evaluation of audiovisual communication in videotelephony services
     docidentifier:
     - content: P Suppl. 31 (01/2025)
       type: ITU

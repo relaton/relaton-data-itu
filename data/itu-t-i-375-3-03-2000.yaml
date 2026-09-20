@@ -1,16 +1,16 @@
----
 id: ITUTI3753032000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Network capabilities to support multimedia services : Example of multimedia
-    distribution service class – Switched digital broadcasting'
+  content: 'Network capabilities to support multimedia services : Example of multimedia distribution service class – Switched digital broadcasting'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.375.3-200003-I
+  content: https://handle.itu.int/11.1002/1000/4940
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.375.3-200003-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.375.3 (03/2000)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation specifies the network capabilities required to
-    support the switched digital broadcast service (SDB). The service requires a point-to-multipoint
-    function that can be provided either by the access network topology or by the
-    addition of a specific Replication Unit (RU). Another new functional element,
-    the Broadcast Control Unit (BCU) instructs the RU which programs have to be delivered
-    to a specific end user. This ITU-T Recommendation provides the service architecture
-    and the reference configuration and then specifies the different functional elements
-    and their interfaces.
+  content: This ITU-T Recommendation specifies the network capabilities required to support the switched digital broadcast service (SDB). The service requires a point-to-multipoint function that can be provided either by the access network topology or by the addition of a specific Replication Unit (RU). Another new functional element, the Broadcast Control Unit (BCU) instructs the RU which programs have to be delivered to a specific end user. This ITU-T Recommendation provides the service architecture and the reference configuration and then specifies the different functional elements and their interfaces.
 status:
   stage:
     content: Published
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

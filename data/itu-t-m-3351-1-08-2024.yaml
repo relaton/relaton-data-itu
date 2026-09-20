@@ -1,4 +1,3 @@
----
 id: ITUTM33511082024
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3351-202408-I
+  content: https://handle.itu.int/11.1002/1000/16017
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3351-202408-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3351.1 (08/2024)
   type: ITU
@@ -50,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The complexity of telecom operation and management for networks and services
-    is increasing significantly. To realise advanced intelligence, even full intelligence,
-    in telecom operation and management, it is necessary to utilize knowledge to fulfil
-    the complex requirements in different scenarios. The knowledge required for telecom
-    operation and management for network and service is characterized as highly fragmented
-    and difficult to reuse.\r\nKnowledge management in telecom operation and management
-    aims to construct, integrate, store, validate, refine, provide and share knowledge
-    of telecom operation and management in specified forms. It is required to provide
-    the clear functions and mechanisms so that given tasks can be accomplished with
-    better operational efficiencies and, ultimately, to achieve precise application
-    of knowledge.\r\nThe contents of Recommendation ITU-T M.3351 include the following:\r\n–Background
-    and overview of knowledge management\r\n–Knowledge classification in telecom operation
-    and management\r\n–Framework of knowledge management for telecom operation and
-    management.\r\n"
+  content: "The complexity of telecom operation and management for networks and services is increasing significantly. To realise advanced intelligence, even full intelligence, in telecom operation and management, it is necessary to utilize knowledge to fulfil the complex requirements in different scenarios. The knowledge required for telecom operation and management for network and service is characterized as highly fragmented and difficult to reuse.\r\nKnowledge management in telecom operation and management aims to construct, integrate, store, validate, refine, provide and share knowledge of telecom operation and management in specified forms. It is required to provide the clear functions and mechanisms so that given tasks can be accomplished with better operational efficiencies and, ultimately, to achieve precise application of knowledge.\r\nThe contents of Recommendation ITU-T M.3351 include the following:\r\n–Background and overview of knowledge management\r\n–Knowledge classification in telecom operation and management\r\n–Framework of knowledge management for telecom operation and management.\r\n"
 status:
   stage:
     content: Published

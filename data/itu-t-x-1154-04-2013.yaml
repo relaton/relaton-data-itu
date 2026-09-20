@@ -1,16 +1,16 @@
----
 id: ITUTX1154042013
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General framework of combined authentication on multiple identity service
-    provider environments
+  content: General framework of combined authentication on multiple identity service provider environments
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1154-201304-I
+  content: https://handle.itu.int/11.1002/1000/11748
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1154-201304-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1154 (04/2013)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recently, many application services, especially financial services, require
-    more reliable or combined authentication methods such as multifactor authentication
-    due to the increase in identity (ID) theft. For example, one-time password authentication
-    and other new authentication methods are used instead of traditional password-based
-    authentication.\r\nThe combinations of authentication methods provide multiple
-    identity service providers (IdSPs) the ability to enhance the assurance of authentication.
-    Recommendation ITU-T X.1154 provides the general framework of combined authentication
-    in multiple IdSP environments for a service provider. In this Recommendation,
-    three types of combined authentication methods are considered: multifactor authentication,
-    multi-method authentication and multiple authentications.\r\nThe framework in
-    this Recommendation describes models, basic operations and security requirements
-    for each model component and each message between the model components to maintain
-    an overall level of authentication assurance in situations of a combination of
-    multiple IdSPs.\r\nIn addition, the framework also describes models, basic operations
-    and security requirements to support the authentication service that manages a
-    combination of multiple IdSPs.\r\n"
+  content: "Recently, many application services, especially financial services, require more reliable or combined authentication methods such as multifactor authentication due to the increase in identity (ID) theft. For example, one-time password authentication and other new authentication methods are used instead of traditional password-based authentication.\r\nThe combinations of authentication methods provide multiple identity service providers (IdSPs) the ability to enhance the assurance of authentication. Recommendation ITU-T X.1154 provides the general framework of combined authentication in multiple IdSP environments for a service provider. In this Recommendation, three types of combined authentication methods are considered: multifactor authentication, multi-method authentication and multiple authentications.\r\nThe framework in this Recommendation describes models, basic operations and security requirements for each model component and each message between the model components to maintain an overall level of authentication assurance in situations of a combination of multiple IdSPs.\r\nIn addition, the framework also describes models, basic operations and security requirements to support the authentication service that manages a combination of multiple IdSPs.\r\n"
 status:
   stage:
     content: Published

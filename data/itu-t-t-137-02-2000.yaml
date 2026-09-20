@@ -1,16 +1,16 @@
----
 id: ITUTT137022000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Virtual meeting room management for multimedia conferencing audio-visual
-    control
+  content: Virtual meeting room management for multimedia conferencing audio-visual control
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.137-200002-I
+  content: https://handle.itu.int/11.1002/1000/4936
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.137-200002-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.137 (02/2000)
   type: ITU
@@ -51,25 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the functionality required to deliver a combined
-    voice- and data-conferencing (audiographics) service; it is architected to deliver
-    such services using generic and extensible mechanisms that are independent of
-    the underlying transports used for delivering the real-time media streams.In future
-    revisions this scope is expected to broaden to cover all media services used within
-    a conference.This protocol extends the Generic Conference Control Recommendation
-    (T.124), adding the capability to define and manage virtual meetings spaces within
-    the GCC conference. It provides a means to seamlessly integrate all of the media
-    components being used within a meeting. These virtual meeting spaces can be regarded
-    as representing meeting rooms where audio, video and data communication can take
-    place. The functionality provides support for a number of virtual meeting scenarios
-    including round-table meetings, informal meeting spaces and conferences with audiences.
-    The protocol provides inherent support for multi-room scenarios.The protocol will
-    find application in support of enhanced audio conferencing and audiographics conferencing
-    services. The aim is to provide an holistic approach to the management of the
-    meeting room involving multiple media, while providing the flexibility to adapt
-    individual meeting rooms in response to user requirements. The object of standardizing
-    this functionality is to provide a basis for interoperability between client applications
-    and conferencing services.
+  content: This Recommendation defines the functionality required to deliver a combined voice- and data-conferencing (audiographics) service; it is architected to deliver such services using generic and extensible mechanisms that are independent of the underlying transports used for delivering the real-time media streams.In future revisions this scope is expected to broaden to cover all media services used within a conference.This protocol extends the Generic Conference Control Recommendation (T.124), adding the capability to define and manage virtual meetings spaces within the GCC conference. It provides a means to seamlessly integrate all of the media components being used within a meeting. These virtual meeting spaces can be regarded as representing meeting rooms where audio, video and data communication can take place. The functionality provides support for a number of virtual meeting scenarios including round-table meetings, informal meeting spaces and conferences with audiences. The protocol provides inherent support for multi-room scenarios.The protocol will find application in support of enhanced audio conferencing and audiographics conferencing services. The aim is to provide an holistic approach to the management of the meeting room involving multiple media, while providing the flexibility to adapt individual meeting rooms in response to user requirements. The object of standardizing this functionality is to provide a basis for interoperability between client applications and conferencing services.
 status:
   stage:
     content: Published

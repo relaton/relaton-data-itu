@@ -1,4 +1,3 @@
----
 id: ITUTY3651122018
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3651-201812-I
+  content: https://handle.itu.int/11.1002/1000/13818
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3651-201812-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3651 (12/2018)
   type: ITU
@@ -50,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In a mobile network, a great deal of traffic data which reflects the real
-    status of the mobile network and customers' actual experience is generated all
-    the time. Based on the big data generated from the mobile network more efficient
-    management and reasonable planning of mobile networks can be achieved. \r\n\r\nIn
-    order to study related content, Recommendation ITU-T Y.3651 specifies some technology
-    aspects related to big-data-driven networking – mobile network traffic management
-    and planning. The scope of this Recommendation includes: requirements, framework,
-    reference points, performance aspects and security considerations of big-data-driven
-    networking – mobile network traffic management and planning.\r\n"
+  content: "In a mobile network, a great deal of traffic data which reflects the real status of the mobile network and customers' actual experience is generated all the time. Based on the big data generated from the mobile network more efficient management and reasonable planning of mobile networks can be achieved. \r\n\r\nIn order to study related content, Recommendation ITU-T Y.3651 specifies some technology aspects related to big-data-driven networking – mobile network traffic management and planning. The scope of this Recommendation includes: requirements, framework, reference points, performance aspects and security considerations of big-data-driven networking – mobile network traffic management and planning.\r\n"
 status:
   stage:
     content: Published
@@ -88,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3650-series – Use case and application scenario for big-data
-        driven networking
+      content: ITU-T Y.3650-series – Use case and application scenario for big-data driven networking
     docidentifier:
     - content: Y Suppl. 50 (11/2018)
       type: ITU
@@ -129,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -160,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -171,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -182,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -193,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

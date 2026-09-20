@@ -1,10 +1,11 @@
----
 id: ITUTX9521997TechnicalCor1072005
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.952-200507-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/7294
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.952-200507-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.952 (1997) Technical Cor. 1 (07/2005)
   type: ITU
@@ -48,11 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Rec. X.952 | ISO/IEC 13235-3 incorrectly specified the arc trader(100)
-    under the object identifier {joint-iso-itu-t(2)} in the international registration
-    tree (see ITU-T Rec. X.660 | ISO/IEC 9834-1). In addition, an OID was incorrectly
-    specified in the ASN.1 modules defined in Annexes A and B of ITU-T Rec. X.952
-    | ISO/IEC 13235-3. This technical corrigendum corrects these errors.
+  content: ITU-T Rec. X.952 | ISO/IEC 13235-3 incorrectly specified the arc trader(100) under the object identifier {joint-iso-itu-t(2)} in the international registration tree (see ITU-T Rec. X.660 | ISO/IEC 9834-1). In addition, an OID was incorrectly specified in the ASN.1 modules defined in Annexes A and B of ITU-T Rec. X.952 | ISO/IEC 13235-3. This technical corrigendum corrects these errors.
 status:
   stage:
     content: Published
@@ -72,8 +69,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Distributed Processing – Trading function:
-        Provision of trading function using OSI Directory service'
+      content: 'Information technology – Open Distributed Processing – Trading function: Provision of trading function using OSI Directory service'
     docidentifier:
     - content: X.952 (12/1997)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTI2514081992
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Number identification supplementary services : Calling Line Identification
-    Restriction'
+  content: 'Number identification supplementary services : Calling Line Identification Restriction'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.251.4-199208-I
+  content: https://handle.itu.int/11.1002/1000/1169
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.251.4-199208-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.251.4 (08/1992)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Number identification supplementary services : Calling Line Identification
-        Restriction (CLIR)'
+      content: 'Number identification supplementary services : Calling Line Identification Restriction (CLIR)'
     docidentifier:
     - content: I.251.4 (11/1988)
       type: ITU
@@ -81,8 +80,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

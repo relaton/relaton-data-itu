@@ -1,16 +1,16 @@
----
 id: ITUTY3148082025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Functional architecture for stateless fair queuing in large scale networks
-    including IMT-2020 and beyond
+  content: Functional architecture for stateless fair queuing in large scale networks including IMT-2020 and beyond
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3148-202508-I
+  content: https://handle.itu.int/11.1002/1000/16441
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3148-202508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3148 (08/2025)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3148 specifies the functional architecture, functional
-    entities, operational procedures, and packet metadata to fulfil the requirements
-    and framework specified in Recommendation ITUT Y.3129. It enables deterministic
-    networking with a set of work conserving packet schedulers in the data plane,
-    which guarantees end-to-end (E2E) latency bounds to flows.\r\nIn particular, the
-    procedures for metadata usage, metadata creation and update, priority queue management
-    and time difference compensation are specified. The use of first-in first-out
-    (FIFO) instead of priority queue, as an approximated implementation of stateless
-    fair queuing, is also specified.\r\n"
+  content: "Recommendation ITU-T Y.3148 specifies the functional architecture, functional entities, operational procedures, and packet metadata to fulfil the requirements and framework specified in Recommendation ITUT Y.3129. It enables deterministic networking with a set of work conserving packet schedulers in the data plane, which guarantees end-to-end (E2E) latency bounds to flows.\r\nIn particular, the procedures for metadata usage, metadata creation and update, priority queue management and time difference compensation are specified. The use of first-in first-out (FIFO) instead of priority queue, as an approximated implementation of stateless fair queuing, is also specified.\r\n"
 status:
   stage:
     content: Published
@@ -79,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization and open source activities related to network softwarization
-        of IMT-2020
+      content: Standardization and open source activities related to network softwarization of IMT-2020
     docidentifier:
     - content: Y Suppl. 44 (07/2017)
       type: ITU
@@ -110,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3100-series – Awareness on use cases and migration aspects
-        of IMT-2020
+      content: ITU-T Y.3100-series – Awareness on use cases and migration aspects of IMT-2020
     docidentifier:
     - content: Y Suppl. 64 (07/2020)
       type: ITU
@@ -131,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -162,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -173,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -184,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -195,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -226,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3100-series – Guidance for migrating existing mobile network
-        technologies to IMT-2020 and beyond
+      content: ITU-T Y.3100-series – Guidance for migrating existing mobile network technologies to IMT-2020 and beyond
     docidentifier:
     - content: Y Suppl. 111 (07/2026)
       type: ITU

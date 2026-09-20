@@ -1,16 +1,16 @@
----
 id: ITUTH24893102014
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Gateway control protocol: ITU-T H.248 support for control of transport
-    security using the datagram transport layer security (DTLS) protocol'
+  content: 'Gateway control protocol: ITU-T H.248 support for control of transport security using the datagram transport layer security (DTLS) protocol'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.248.93-201410-I
+  content: https://handle.itu.int/11.1002/1000/12244
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.248.93-201410-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.248.93 (10/2014)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Datagram transport layer security (DTLS) is a session layer protocol for
-    securing IP transport protocols. DTLS bearer plane traffic could be terminated
-    or forwarded by ITU\x1ET H.248 media gateways. DTLS is derived from the transport
-    layer security (TLS) protocol. Recommendation ITU\x1ET H.248.93 provides information
-    for (DTLS) support by ITU-T H.248 entities with focus on the reuse of \"ITU-T
-    H.248 TLS packages\" (according to Recommendation ITU-T H.248.90) for DTLS. This
-    Recommendation defines an ITU-T H.248 package extension to the TLS capability
-    negotiation package for the support of DTLS-SRTP sessions."
+  content: Datagram transport layer security (DTLS) is a session layer protocol for securing IP transport protocols. DTLS bearer plane traffic could be terminated or forwarded by ITUT H.248 media gateways. DTLS is derived from the transport layer security (TLS) protocol. Recommendation ITUT H.248.93 provides information for (DTLS) support by ITU-T H.248 entities with focus on the reuse of "ITU-T H.248 TLS packages" (according to Recommendation ITU-T H.248.90) for DTLS. This Recommendation defines an ITU-T H.248 package extension to the TLS capability negotiation package for the support of DTLS-SRTP sessions.
 status:
   stage:
     content: Published
@@ -88,9 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -110,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -121,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -132,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -143,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -164,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -195,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTGSuppl72032025
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup72-202503-I
+  content: https://handle.itu.int/11.1002/1000/16390
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup72-202503-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 72 (03/2025)
   type: ITU
@@ -50,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 72 to ITU-T G-series Recommendations provides supplemental
-    information to Recommendation ITU-T G.876, Management requirements and information
-    model for the optical media network and Recommendation ITU-T G.7711/Y.1702, Generic
-    protocol-neutral information model for transport resources. It provides various
-    examples of the use of the core information model, defined in Recommendation ITU-T
-    G.7711/Y.1702 to model optical media structures.\r\nThe revision (2025) to Supplement
-    72 updates the descriptions of point-to-point media channels, adds tree-topology
-    and mesh-topology implemented with couplers cases for multi-pointed media channels.\r\n"
+  content: "Supplement 72 to ITU-T G-series Recommendations provides supplemental information to Recommendation ITU-T G.876, Management requirements and information model for the optical media network and Recommendation ITU-T G.7711/Y.1702, Generic protocol-neutral information model for transport resources. It provides various examples of the use of the core information model, defined in Recommendation ITU-T G.7711/Y.1702 to model optical media structures.\r\nThe revision (2025) to Supplement 72 updates the descriptions of point-to-point media channels, adds tree-topology and mesh-topology implemented with couplers cases for multi-pointed media channels.\r\n"
 status:
   stage:
     content: Published

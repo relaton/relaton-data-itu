@@ -1,13 +1,14 @@
----
 id: ITUTM1350101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Setting up, lining up and characteristics of international data transmission
-    systems operating in the range 2.4 kbit/s to 9.6 kbit/s
+  content: Setting up, lining up and characteristics of international data transmission systems operating in the range 2.4 kbit/s to 9.6 kbit/s
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/5842
 docidentifier:
 - content: ITU-T M.1350 (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Setting up, lining up and characteristics of international data transmission
-        systems operating in the range 2.4 kbit/s to 14.4 kbit/s
+      content: Setting up, lining up and characteristics of international data transmission systems operating in the range 2.4 kbit/s to 14.4 kbit/s
     docidentifier:
     - content: M.1350 (11/1988)
       type: ITU

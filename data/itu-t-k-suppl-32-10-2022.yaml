@@ -1,4 +1,3 @@
----
 id: ITUTKSuppl32102022
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup32-202210-S
+  content: https://handle.itu.int/11.1002/1000/15214
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup32-202210-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 32 (10/2022)
   type: ITU
@@ -50,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 32 to ITU-T K-series Recommendations presents results of case
-    studies of fifth generation (5G) radio frequency-electromagnetic field (RF-EMF)
-    exposure levels taken in different conditions and areas. All results of assessment
-    were delivered by ITU-T members and include calculations and measurements of the
-    5G RF-EMF exposure levels in vicinity of different radio communication systems.
-    RF-EMF exposure levels vary depending on the environment in which they are taken
-    and type of radio communication systems that are in operation.\r\nThe results
-    included in Supplement 32 to ITU-T K-series Recommendations provide information
-    about 5G RF-EMF exposure levels in real situations. The EMF exposure assessments
-    are included in appendices.\r\nSupplement 32 to ITU-T K-series Recommendations
-    aims mainly to solve the problem of EMF compliance assessments of 5G base station
-    systems through typical case studies including computation evaluation and measurement
-    evaluation, and also provides the case support on implementation of \r\nITU-T
-    K-Suppl.16 and IEC 62232. \r\n"
+  content: "Supplement 32 to ITU-T K-series Recommendations presents results of case studies of fifth generation (5G) radio frequency-electromagnetic field (RF-EMF) exposure levels taken in different conditions and areas. All results of assessment were delivered by ITU-T members and include calculations and measurements of the 5G RF-EMF exposure levels in vicinity of different radio communication systems. RF-EMF exposure levels vary depending on the environment in which they are taken and type of radio communication systems that are in operation.\r\nThe results included in Supplement 32 to ITU-T K-series Recommendations provide information about 5G RF-EMF exposure levels in real situations. The EMF exposure assessments are included in appendices.\r\nSupplement 32 to ITU-T K-series Recommendations aims mainly to solve the problem of EMF compliance assessments of 5G base station systems through typical case studies including computation evaluation and measurement evaluation, and also provides the case support on implementation of \r\nITU-T K-Suppl.16 and IEC 62232. \r\n"
 status:
   stage:
     content: Withdrawal

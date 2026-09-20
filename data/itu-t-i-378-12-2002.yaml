@@ -1,16 +1,16 @@
----
 id: ITUTI378122002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Traffic control and congestion control at the ATM Adaptation Layer type
-    2
+  content: Traffic control and congestion control at the ATM Adaptation Layer type 2
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.378-200212-I
+  content: https://handle.itu.int/11.1002/1000/6188
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.378-200212-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.378 (12/2002)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a general description as well as objectives
-    and procedures for AAL type 2 traffic control and congestion control. It introduces
-    the concept of AAL type 2 transfer capability. For each AAL type 2 transfer capability,
-    it specifies AAL type 2 traffic parameters, an AAL type 2 conformance definition
-    and defines AAL type 2 QoS commitments. Additionally, it describes the concepts
-    of the AAL type 2 traffic contract.
+  content: This Recommendation provides a general description as well as objectives and procedures for AAL type 2 traffic control and congestion control. It introduces the concept of AAL type 2 transfer capability. For each AAL type 2 transfer capability, it specifies AAL type 2 traffic parameters, an AAL type 2 conformance definition and defines AAL type 2 QoS commitments. Additionally, it describes the concepts of the AAL type 2 traffic contract.
 status:
   stage:
     content: Published
@@ -76,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'New Appendix IV: Deriving AAL 2 traffic parameters from AAL 2 link
-        characteristics'
+      content: 'New Appendix IV: Deriving AAL 2 traffic parameters from AAL 2 link characteristics'
     docidentifier:
     - content: I.378 (2002) Amd. 1 (08/2003)
       type: ITU
@@ -87,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

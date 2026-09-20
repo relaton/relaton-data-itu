@@ -1,16 +1,16 @@
----
 id: ITUTM1340022000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance objectives, allocations and limits for international PDH leased
-    circuits and supporting data transmission links and systems
+  content: Performance objectives, allocations and limits for international PDH leased circuits and supporting data transmission links and systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1340-200002-I
+  content: https://handle.itu.int/11.1002/1000/4858
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1340-200002-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1340 (02/2000)
   type: ITU
@@ -51,24 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation is only applicable to international data transmission
-    links and systems for PDH applications. The requirements described in this Recommendation
-    should form the basis for all digital test measurements associated with these
-    types of applications. The performance limits are also applicable to the international
-    portions of international leased circuits that are supported by an international
-    data transmission system and that have a PDH digital interface at the Customer's
-    premises. Allocations of performance between international and national portions
-    are covered, but those between Network Operators within the national portion require
-    further study.Recommendations M.1370 and M.1375 describe the Bringing-Into-Service
-    and Maintenance procedures respectively for international data transmission links
-    and systems, while Recommendations M.1380 and M.1385 describe similar procedures
-    for international PDH leased circuits supported by those systems. These Recommendations
-    are to be applied in conjunction with the performance objectives, allocations
-    and limits described in this Recommendation.\r\nThis Recommendation addresses
-    the performance of leased circuits with a PDH digital presentation at the Customer's
-    premises. Another Recommendation is being developed for performance of SDH leased
-    circuits. For leased circuits with an analogue presentation, the performance limits
-    of Recommendations M.1020, M.1025 or M.1040 are applied as appropriate."
+  content: "This Recommendation is only applicable to international data transmission links and systems for PDH applications. The requirements described in this Recommendation should form the basis for all digital test measurements associated with these types of applications. The performance limits are also applicable to the international portions of international leased circuits that are supported by an international data transmission system and that have a PDH digital interface at the Customer's premises. Allocations of performance between international and national portions are covered, but those between Network Operators within the national portion require further study.Recommendations M.1370 and M.1375 describe the Bringing-Into-Service and Maintenance procedures respectively for international data transmission links and systems, while Recommendations M.1380 and M.1385 describe similar procedures for international PDH leased circuits supported by those systems. These Recommendations are to be applied in conjunction with the performance objectives, allocations and limits described in this Recommendation.\r\nThis Recommendation addresses the performance of leased circuits with a PDH digital presentation at the Customer's premises. Another Recommendation is being developed for performance of SDH leased circuits. For leased circuits with an analogue presentation, the performance limits of Recommendations M.1020, M.1025 or M.1040 are applied as appropriate."
 status:
   stage:
     content: Published
@@ -96,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Performance allocations and limits for international data transmission
-        links and systems
+      content: Performance allocations and limits for international data transmission links and systems
     docidentifier:
     - content: M.1340 (05/1996)
       type: ITU
@@ -107,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Performance allocations and limits for international data transmission
-        links and systems
+      content: Performance allocations and limits for international data transmission links and systems
     docidentifier:
     - content: M.1340 (03/1993)
       type: ITU

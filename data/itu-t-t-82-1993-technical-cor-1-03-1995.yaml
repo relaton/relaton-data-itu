@@ -1,10 +1,11 @@
----
 id: ITUTT821993TechnicalCor1031995
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.82-199503-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/3661
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.82-199503-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.82 (1993) Technical Cor. 1 (03/1995)
   type: ITU
@@ -75,8 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Coded representation of picture and audio
-        information – Progressive bi-level image compression
+      content: Information technology – Coded representation of picture and audio information – Progressive bi-level image compression
     docidentifier:
     - content: T.82 (03/1993)
       type: ITU

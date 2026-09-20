@@ -1,4 +1,3 @@
----
 id: ITUTT382010Amd1102014
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.38-201410-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/12293
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.38-201410-S!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.38 (2010) Amd. 1 (10/2014)
   type: ITU
@@ -50,19 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.38 defines the procedures to be applied to allow
-    Group 3 facsimile transmission between terminals where, in addition to the public
-    switched telephone network (PSTN) or integrated services digital network (ISDN),
-    a portion of the transmission path used between terminals includes an IP network,
-    e.g., the Internet.\r\nThis revision of this Recommendation clarifies Recommendation
-    ITU-T H.323, Recommendation ITU-T H.248.1, session initiation protocol (SIP) and
-    session description protocol (SDP) call establishment and improves the compatibility
-    between ITU-T T.38 gateways and Group 3 facsimile.\r\nAmendment 1 to Recommendation
-    ITU-T T.38 (2010/09) introduces additions and corrections to the Recommendation
-    and adds clause 11, \"Security considerations\" and Appendix VI, \"Security considerations
-    from a historical perspective\". Furthermore, Amendment 1 captures items from
-    the 'Implementers Guide' (05/2012) and from Erratum 1 (04/2013) to Recommendation
-    ITU-T T.38 (09/2010)."
+  content: "Recommendation ITU-T T.38 defines the procedures to be applied to allow Group 3 facsimile transmission between terminals where, in addition to the public switched telephone network (PSTN) or integrated services digital network (ISDN), a portion of the transmission path used between terminals includes an IP network, e.g., the Internet.\r\nThis revision of this Recommendation clarifies Recommendation ITU-T H.323, Recommendation ITU-T H.248.1, session initiation protocol (SIP) and session description protocol (SDP) call establishment and improves the compatibility between ITU-T T.38 gateways and Group 3 facsimile.\r\nAmendment 1 to Recommendation ITU-T T.38 (2010/09) introduces additions and corrections to the Recommendation and adds clause 11, \"Security considerations\" and Appendix VI, \"Security considerations from a historical perspective\". Furthermore, Amendment 1 captures items from the 'Implementers Guide' (05/2012) and from Erratum 1 (04/2013) to Recommendation ITU-T T.38 (09/2010)."
 status:
   stage:
     content: Withdrawal
@@ -130,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Addition of vendor information in SIP/SDP call setup, corrections to
-        Annex C and Annex D, and enhanced implementation guidelines
+      content: Addition of vendor information in SIP/SDP call setup, corrections to Annex C and Annex D, and enhanced implementation guidelines
     docidentifier:
     - content: T.38 (2004) Amd. 1 (01/2005)
       type: ITU
@@ -199,8 +187,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Clarification on use of T.30 Indicator and TCP start-up, update of
-        Table 2, deletion of ASN.1 in Annex B
+      content: Clarification on use of T.30 Indicator and TCP start-up, update of Table 2, deletion of ASN.1 in Annex B
     docidentifier:
     - content: T.38 (1998) Amd. 4 (07/2001)
       type: ITU
@@ -210,9 +197,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Clarification of protocol version numbers, support for TPKT headers
-        and transmission of DTMF over RTP, and updated support for Internet-Aware
-        Fax devices and H.248.2
+      content: Clarification of protocol version numbers, support for TPKT headers and transmission of DTMF over RTP, and updated support for Internet-Aware Fax devices and H.248.2
     docidentifier:
     - content: T.38 (1998) Amd. 3 (11/2000)
       type: ITU
@@ -230,8 +215,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annexes D (SIP/SDP Call Establishment Procedures) and E (H.248
-        call establishment procedures)
+      content: New Annexes D (SIP/SDP Call Establishment Procedures) and E (H.248 call establishment procedures)
     docidentifier:
     - content: T.38 (1998) Amd. 2 (02/2000)
       type: ITU
@@ -241,8 +225,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Revised Annex B on establishment procedures for facsimile communication
-        over IP networks
+      content: Revised Annex B on establishment procedures for facsimile communication over IP networks
     docidentifier:
     - content: T.38 (1998) Amd. 1 (04/1999)
       type: ITU

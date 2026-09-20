@@ -1,4 +1,3 @@
----
 id: ITUTI381032001
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.381-200103-I
+  content: https://handle.itu.int/11.1002/1000/5414
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.381-200103-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.381 (03/2001)
   type: ITU
@@ -50,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes an approach for the performance description
-    of AAL processes. It is motivated by the need, based on field experiences, to
-    examine more carefully the performance aspects of some specific applications of
-    ATM network technology. The approach presented here provides a unified framework
-    for describing the performance of processes that depend upon AAL Type 1 (AAL-1),
-    AAL Type 2 (AAL-2), AAL Type 3/4 (AAL-3/4), AAL Type 5 (AAL-5), or potentially
-    other types of AAL. For each AAL, parameters that describe loss and delay performance
-    are for further study. These parameters are related to relevant ATM cell transfer
-    performance parameters from ITU-T I.356.
+  content: This Recommendation describes an approach for the performance description of AAL processes. It is motivated by the need, based on field experiences, to examine more carefully the performance aspects of some specific applications of ATM network technology. The approach presented here provides a unified framework for describing the performance of processes that depend upon AAL Type 1 (AAL-1), AAL Type 2 (AAL-2), AAL Type 3/4 (AAL-3/4), AAL Type 5 (AAL-5), or potentially other types of AAL. For each AAL, parameters that describe loss and delay performance are for further study. These parameters are related to relevant ATM cell transfer performance parameters from ITU-T I.356.
 status:
   stage:
     content: Published
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

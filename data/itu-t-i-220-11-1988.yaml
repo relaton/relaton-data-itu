@@ -1,4 +1,3 @@
----
 id: ITUTI220111988
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.220-198811-I
+  content: https://handle.itu.int/11.1002/1000/1127
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.220-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.220 (11/1988)
   type: ITU
@@ -50,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the dynamic description of basic telecommunication
-    services. The dynamic description shows the flow of events, and states within
-    the service, in a time-sequenced format and identifies all possible actions relevant
-    to the service as perceived by end-users. Although the service is described from
-    the end-user perspective it does not concern details of the human-to-machine interface
-    itself. In addition, the service description considers the network as a single
-    entity. For example, information flows between nodes within the network are not
-    shown. End-user perceptions of the service are shown in terms of "user/network"
-    interactions. Internal network actions are included whenever they are or can be
-    perceived by an end-user during the operation of the service
+  content: This Recommendation provides the dynamic description of basic telecommunication services. The dynamic description shows the flow of events, and states within the service, in a time-sequenced format and identifies all possible actions relevant to the service as perceived by end-users. Although the service is described from the end-user perspective it does not concern details of the human-to-machine interface itself. In addition, the service description considers the network as a single entity. For example, information flows between nodes within the network are not shown. End-user perceptions of the service are shown in terms of "user/network" interactions. Internal network actions are included whenever they are or can be perceived by an end-user during the operation of the service
 status:
   stage:
     content: Published
@@ -79,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

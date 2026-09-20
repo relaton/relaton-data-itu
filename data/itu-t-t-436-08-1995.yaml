@@ -1,16 +1,16 @@
----
 id: ITUTT436081995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Document Transfer and Manipulation (DTAM) – Services and protocols – Protocol
-    specifications for confirmed document manipulation
+  content: Document Transfer and Manipulation (DTAM) – Services and protocols – Protocol specifications for confirmed document manipulation
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.436-199508-I
+  content: https://handle.itu.int/11.1002/1000/2567
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.436-199508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.436 (08/1995)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the communication protocol for document remote
-    access, presentation, editing and transfer. It defines the protocol of two new
-    applications service elements for interactive confirmed document manipulation,
-    aligned with, and provided for, the integrated use with applications defined under
-    the Distributed Office Application Model (DOAM). The two application service elements
-    are the DTAM-TM and DTAM-TK. The use of the DTAM-DM application service element
-    is mandatory for document manipulation applications and is used in conjunction
-    with the ACSE and ROSE services elements. Optionally, it may be combined with
-    the DFR-SE (for filing and retrieval purposes) and with the DTAM-TK service element
-    for exchange of an application token in multi-user conferences.
+  content: This Recommendation defines the communication protocol for document remote access, presentation, editing and transfer. It defines the protocol of two new applications service elements for interactive confirmed document manipulation, aligned with, and provided for, the integrated use with applications defined under the Distributed Office Application Model (DOAM). The two application service elements are the DTAM-TM and DTAM-TK. The use of the DTAM-DM application service element is mandatory for document manipulation applications and is used in conjunction with the ACSE and ROSE services elements. Optionally, it may be combined with the DFR-SE (for filing and retrieval purposes) and with the DTAM-TK service element for exchange of an application token in multi-user conferences.
 status:
   stage:
     content: Published

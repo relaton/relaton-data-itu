@@ -1,16 +1,16 @@
----
 id: ITUTK134112018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Protection of small-size telecommunication installations with poor earthing
-    conditions
+  content: Protection of small-size telecommunication installations with poor earthing conditions
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.134-201811-I
+  content: https://handle.itu.int/11.1002/1000/13713
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.134-201811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.134 (11/2018)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Accompanying with the miniaturization develop trends of the network termination
-    units, more and more telecommunication installations, e.g. wire or wireless access
-    units, have being installed in customer premises or other uncontrolled places.
-    Comparing with dedicated telecommunication buildings, the installation circumstances
-    maybe much more complex and severe. [ITU-T K.66] and [ITU-T K.120] provide the
-    requirements on valid bonding and earthing for the customer premises and miniature
-    base stations respectively. But in some scenarios, it may be very difficult or
-    expensive to satisfy these requirements. If it is ignored, there will be a risk
-    of equipment damage or human safety due to lightning strike or electric shock.
-    \r\n\r\nThis Recommendation provides engineering solutions for lightning protection
-    and safety for small-size telecommunication installations under poor earthing
-    conditions. These protection measures are compromised alternatives due to the
-    restriction of circumstance or expense. These protection measures are not common
-    requirements for all kinds of circumstances and have defined conditions for application
-    respectively. The selection of appropriate and feasible solution is helpful to
-    acquire the best technology economy ratio. \r\n"
+  content: "Accompanying with the miniaturization develop trends of the network termination units, more and more telecommunication installations, e.g. wire or wireless access units, have being installed in customer premises or other uncontrolled places. Comparing with dedicated telecommunication buildings, the installation circumstances maybe much more complex and severe. [ITU-T K.66] and [ITU-T K.120] provide the requirements on valid bonding and earthing for the customer premises and miniature base stations respectively. But in some scenarios, it may be very difficult or expensive to satisfy these requirements. If it is ignored, there will be a risk of equipment damage or human safety due to lightning strike or electric shock. \r\n\r\nThis Recommendation provides engineering solutions for lightning protection and safety for small-size telecommunication installations under poor earthing conditions. These protection measures are compromised alternatives due to the restriction of circumstance or expense. These protection measures are not common requirements for all kinds of circumstances and have defined conditions for application respectively. The selection of appropriate and feasible solution is helpful to acquire the best technology economy ratio. \r\n"
 status:
   stage:
     content: Published
@@ -86,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -107,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -118,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -129,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -140,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -171,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

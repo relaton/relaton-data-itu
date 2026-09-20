@@ -1,10 +1,11 @@
----
 id: ITUTT821993TechnicalCor2032001
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.82-200103-I!Cor2
+  content: https://handle.itu.int/11.1002/1000/5425
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.82-200103-I!Cor2!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.82 (1993) Technical Cor. 2 (03/2001)
   type: ITU
@@ -48,8 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Corrigendum 2 makes changes to 6.1.2, 6.2.6.1, 6.2.6.2, 6.2.6.3 (and Technical
-    Corrigendum 1) and 6.8.2.9 and to Figure 27.
+  content: Corrigendum 2 makes changes to 6.1.2, 6.2.6.1, 6.2.6.2, 6.2.6.3 (and Technical Corrigendum 1) and 6.8.2.9 and to Figure 27.
 status:
   stage:
     content: Published
@@ -77,8 +77,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Coded representation of picture and audio
-        information – Progressive bi-level image compression
+      content: Information technology – Coded representation of picture and audio information – Progressive bi-level image compression
     docidentifier:
     - content: T.82 (03/1993)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTY4503082024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Framework of common rule enablement for intelligent Internet of things
-    (IoT) services in heterogeneous IoT platform environments
+  content: Framework of common rule enablement for intelligent Internet of things (IoT) services in heterogeneous IoT platform environments
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.4503-202408-I
+  content: https://handle.itu.int/11.1002/1000/16056
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.4503-202408-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.4503 (08/2024)
   type: ITU
@@ -51,26 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Internet of Things (IoT) brings a diverse range of devices to the
-    network, which are managed by rule-enabled IoT platforms that react to events
-    dynamically and automatically. However, the heterogeneity of the IoT networks
-    makes it challenging to deploy consistent rule scenarios across multiple platforms
-    due to differences in protocols and data formats. The IoT rule agent is a platform
-    that implements the framework of common rule enablement. The agent is deployed
-    in the proxy layer to bridge clients and devices in heterogeneous IoT networks.
-    Between different IoT networks, the heterogeneity of the platforms is handled
-    by the agent to deliver the corresponding format of rule profiles to the destination
-    platform through the platform-specific protocol. The agent includes the device
-    proxies to enable the heterogeneous rule profiles to be a common format that is
-    registered through the rule registry for the deployment process. For deploying
-    the rules to the heterogeneous IoT platforms, the device proxies translate the
-    common format to platform-specific style and delivers it to the corresponding
-    platform. Within the agent, each device proxy only considers the corresponding
-    IoT network to perform translation and deployment. Based on the agent, the heterogeneous
-    IoT platforms operates the common rule scenario although heterogeneous rules are
-    delivered to the environment. Recommendation ITU-T Y.4503 specifies a framework
-    of common rule enablement for intelligent IoT services in heterogeneous IoT platform
-    environments.\r\n"
+  content: "The Internet of Things (IoT) brings a diverse range of devices to the network, which are managed by rule-enabled IoT platforms that react to events dynamically and automatically. However, the heterogeneity of the IoT networks makes it challenging to deploy consistent rule scenarios across multiple platforms due to differences in protocols and data formats. The IoT rule agent is a platform that implements the framework of common rule enablement. The agent is deployed in the proxy layer to bridge clients and devices in heterogeneous IoT networks. Between different IoT networks, the heterogeneity of the platforms is handled by the agent to deliver the corresponding format of rule profiles to the destination platform through the platform-specific protocol. The agent includes the device proxies to enable the heterogeneous rule profiles to be a common format that is registered through the rule registry for the deployment process. For deploying the rules to the heterogeneous IoT platforms, the device proxies translate the common format to platform-specific style and delivers it to the corresponding platform. Within the agent, each device proxy only considers the corresponding IoT network to perform translation and deployment. Based on the agent, the heterogeneous IoT platforms operates the common rule scenario although heterogeneous rules are delivered to the environment. Recommendation ITU-T Y.4503 specifies a framework of common rule enablement for intelligent IoT services in heterogeneous IoT platform environments.\r\n"
 status:
   stage:
     content: Published
@@ -110,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - Setting the stage
-        for stakeholders' engagement
+      content: ITU-T Y.4000 series – Smart sustainable cities - Setting the stage for stakeholders' engagement
     docidentifier:
     - content: Y Suppl. 34 (07/2020)
       type: ITU
@@ -121,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series - An overview of smart cities and communities and
-        the role of information and communication technologies
+      content: ITU-T Y.4000-series - An overview of smart cities and communities and the role of information and communication technologies
     docidentifier:
     - content: Y Suppl. 45 (09/2017)
       type: ITU
@@ -132,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Methodology for building digital capabilities during enterprises' digital
-        transformation
+      content: Methodology for building digital capabilities during enterprises' digital transformation
     docidentifier:
     - content: Y Suppl. 52 (12/2018)
       type: ITU
@@ -153,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -174,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of blockchain for supporting Internet of things and smart
-        cities and communities in data processing and management aspects
+      content: Overview of blockchain for supporting Internet of things and smart cities and communities in data processing and management aspects
     docidentifier:
     - content: Y Suppl. 62 (07/2020)
       type: ITU
@@ -205,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -226,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -237,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -248,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

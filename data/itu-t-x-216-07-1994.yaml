@@ -1,16 +1,16 @@
----
 id: ITUTX216071994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Systems Interconnection – Presentation service
-    definition
+  content: Information technology – Open Systems Interconnection – Presentation service definition
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.216-199407-I
+  content: https://handle.itu.int/11.1002/1000/2839
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.216-199407-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.216 (07/1994)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation | International Standard specifies the services
-    which are provided by the presentation layer to the application layer at the boundary
-    between the application layer and the presentation layer of the OSI reference
-    model. This includesa) the primitive actions and events of the service;b) the
-    parameters associated with each primitive action and event; andc) the relationship
-    between the valid sequence of these actions and events.
+  content: This ITU-T Recommendation | International Standard specifies the services which are provided by the presentation layer to the application layer at the boundary between the application layer and the presentation layer of the OSI reference model. This includesa) the primitive actions and events of the service;b) the parameters associated with each primitive action and event; andc) the relationship between the valid sequence of these actions and events.
 status:
   stage:
     content: Published
@@ -109,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Presentation service definition for Open Systems Interconnection for
-        CCITT applications
+      content: Presentation service definition for Open Systems Interconnection for CCITT applications
     docidentifier:
     - content: X.216 (11/1988)
       type: ITU

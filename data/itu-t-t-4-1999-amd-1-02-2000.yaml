@@ -1,16 +1,16 @@
----
 id: ITUTT41999Amd1022000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Restriction on horizontal image size for JPEG data streams, support for
-    additional spatial resolutions and new Annex H on mixed raster content
+  content: Restriction on horizontal image size for JPEG data streams, support for additional spatial resolutions and new Annex H on mixed raster content
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.4-200002-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/4837
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.4-200002-S!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.4 (1999) Amd. 1 (02/2000)
   type: ITU
@@ -186,8 +186,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Incorporation of the optional error correction mode and the optional
-        error limiting mode
+      content: Incorporation of the optional error correction mode and the optional error limiting mode
     docidentifier:
     - content: T.4 (1984) Amd. 1 (07/1987)
       type: ITU

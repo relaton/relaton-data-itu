@@ -1,10 +1,11 @@
----
 id: ITUTT361997Amd1041999
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.36-199904-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/4599
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.36-199904-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.36 (1997) Amd. 1 (04/1999)
   type: ITU
@@ -45,8 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to Recommendation T.36 defines the override mode associated
-    with the HKM/HFX encryption system.
+  content: Amendment 1 to Recommendation T.36 defines the override mode associated with the HKM/HFX encryption system.
 status:
   stage:
     content: Published

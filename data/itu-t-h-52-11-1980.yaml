@@ -1,13 +1,14 @@
----
 id: ITUTH52111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Transmission of wide-spectrum signals (data, facsimile, etc.) on wideband
-    group links.
+  content: Transmission of wide-spectrum signals (data, facsimile, etc.) on wideband group links.
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/7784
 docidentifier:
 - content: ITU-T H.52 (11/1980)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Transmission of wide-spectrum signals (data, facsimile, etc.) on wideband
-        group links
+      content: Transmission of wide-spectrum signals (data, facsimile, etc.) on wideband group links
     docidentifier:
     - content: H.52 (10/1984)
       type: ITU
@@ -73,8 +73,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Transmission of wide-spectrum signals (data, facsimile, etc.) on wideband
-        group links.
+      content: Transmission of wide-spectrum signals (data, facsimile, etc.) on wideband group links.
     docidentifier:
     - content: H.52 (10/1976)
       type: ITU

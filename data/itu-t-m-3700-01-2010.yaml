@@ -1,16 +1,16 @@
----
 id: ITUTM3700012010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Common management services - Object management - Protocol neutral requirements
-    and analysis
+  content: Common management services - Object management - Protocol neutral requirements and analysis
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3700-201001-I
+  content: https://handle.itu.int/11.1002/1000/10682
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3700-201001-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3700 (01/2010)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3700 provides the requirements and analysis for
-    one of the common management services – object management. The object management
-    capabilities are intended for re‑use by specific information object classes (IOCs).
+  content: Recommendation ITU-T M.3700 provides the requirements and analysis for one of the common management services – object management. The object management capabilities are intended for re‑use by specific information object classes (IOCs).
 status:
   stage:
     content: Published

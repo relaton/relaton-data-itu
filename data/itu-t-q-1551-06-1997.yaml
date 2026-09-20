@@ -1,16 +1,16 @@
----
 id: ITUTQ1551061997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Application of Intelligent Network Application Protocols (INAP) CS-1 for
-    UPT service set 1
+  content: Application of Intelligent Network Application Protocols (INAP) CS-1 for UPT service set 1
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.1551-199706-W
+  content: https://handle.itu.int/11.1002/1000/4065
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.1551-199706-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q.1551 (06/1997)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the application of INAP CS-1 (Refined) for
-    UPT Service Set 1. It explains how to use INAP as defined in CS-1 Refinements
-    to provide the UPT service. Clauses 1 to 3 contain general information including
-    the Chosen architecture. Clause 4 describes the application contexts used for
-    UPT. Clause 5 describes both the UPT information model and the UPT security model
-    as used in SDF. In clause 6 the UPT specific behaviour of the SCF is described
-    for every UPT procedures, using both a textual and an SDL description. Clause
-    5 constitutes the core part of the UPT Recommendation. The other clauses are included
-    in this Recommendation because clause 5 is not in itself self-explanatory. The
-    definition of the data model specifies (with some flexibility) the internetwork
-    interface and as such should be considered as the main part of this Recommendation.
+  content: This Recommendation describes the application of INAP CS-1 (Refined) for UPT Service Set 1. It explains how to use INAP as defined in CS-1 Refinements to provide the UPT service. Clauses 1 to 3 contain general information including the Chosen architecture. Clause 4 describes the application contexts used for UPT. Clause 5 describes both the UPT information model and the UPT security model as used in SDF. In clause 6 the UPT specific behaviour of the SCF is described for every UPT procedures, using both a textual and an SDL description. Clause 5 constitutes the core part of the UPT Recommendation. The other clauses are included in this Recommendation because clause 5 is not in itself self-explanatory. The definition of the data model specifies (with some flexibility) the internetwork interface and as such should be considered as the main part of this Recommendation.
 status:
   stage:
     content: Withdrawal

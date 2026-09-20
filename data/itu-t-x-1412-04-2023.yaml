@@ -1,16 +1,16 @@
----
 id: ITUTX1412042023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security requirements for smart contract management based on the distributed
-    ledger technology
+  content: Security requirements for smart contract management based on the distributed ledger technology
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1412-202304-I
+  content: https://handle.itu.int/11.1002/1000/15545
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1412-202304-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1412 (04/2023)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1412 analyses security threats and challenges and
-    provides security requirements for smart contract management in distributed ledger
-    technology (DLT) systems. As smart contracts are widely used in DLT systems, they
-    are faced with a lot of security threats and challenges. \r\nAs such this Recommendation
-    can be used by smart contract designers, developers, and managers to manage smart
-    contracts, including design and development, compilation and deployment, invocation
-    and execution, maintenance and management in DLT systems. This Recommendation
-    does not deal with the security issues of wallets or distributed applications
-    related to smart contracts.\r\n"
+  content: "Recommendation ITU-T X.1412 analyses security threats and challenges and provides security requirements for smart contract management in distributed ledger technology (DLT) systems. As smart contracts are widely used in DLT systems, they are faced with a lot of security threats and challenges. \r\nAs such this Recommendation can be used by smart contract designers, developers, and managers to manage smart contracts, including design and development, compilation and deployment, invocation and execution, maintenance and management in DLT systems. This Recommendation does not deal with the security issues of wallets or distributed applications related to smart contracts.\r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl5042016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T K.81 - Estimation examples of the high-power electromagnetic threat
-    and vulnerability for telecommunication systems
+  content: ITU-T K.81 - Estimation examples of the high-power electromagnetic threat and vulnerability for telecommunication systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup5-201604-I
+  content: https://handle.itu.int/11.1002/1000/12965
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup5-201604-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 5 (04/2016)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "When information security is managed, it is necessary to evaluate and
-    mitigate the threat to either the equipment or the site. This threat is related
-    to \"vulnerability\" and \"confidentiality\" in Information Security Management
-    System (ISMS).\r\n\r\nSupplement 5 to ITU-T K-series Recommendations (ITU-T K.81)
-    presents evaluation and calculation examples for the threat of an intentional
-    HPEM attack. The HPEM sources considered are those presented in IEC 61000-2-13,
-    as well as some additional sources that have emerged more recently.\r\n\r\nThis
-    document also provides information on the vulnerability of telecom equipment.
-    And the example of vulnerability is provided. The equipment is desirable to meet
-    the immunity requirements presented in Recommendation ITU-T K.48 and relevant
-    resistibility requirements, such as those described in Recommendations ITU-T K.20,
-    ITU-T K.21 and ITU-T K.45.\r\n"
+  content: "When information security is managed, it is necessary to evaluate and mitigate the threat to either the equipment or the site. This threat is related to \"vulnerability\" and \"confidentiality\" in Information Security Management System (ISMS).\r\n\r\nSupplement 5 to ITU-T K-series Recommendations (ITU-T K.81) presents evaluation and calculation examples for the threat of an intentional HPEM attack. The HPEM sources considered are those presented in IEC 61000-2-13, as well as some additional sources that have emerged more recently.\r\n\r\nThis document also provides information on the vulnerability of telecom equipment. And the example of vulnerability is provided. The equipment is desirable to meet the immunity requirements presented in Recommendation ITU-T K.48 and relevant resistibility requirements, such as those described in Recommendations ITU-T K.20, ITU-T K.21 and ITU-T K.45.\r\n"
 status:
   stage:
     content: Published

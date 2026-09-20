@@ -1,4 +1,3 @@
----
 id: ITUTPSuppl23021998
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.Sup23-199802-I
+  content: https://handle.itu.int/11.1002/1000/4415
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.Sup23-199802-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T P Suppl. 23 (02/1998)
   type: ITU
@@ -50,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 23 to the P series of ITU-T Recommendations is a database of
-    coded and source speech material used in the ITU-T 8 kbit/s codec (Recommendation
-    G.729) characterization tests. The purpose of this database is to provide source,
-    pre-processed and processed speech material, and related subjective test plans
-    and scores, for the development of new and revised ITU Recommendations relating
-    to objective voice quality measures. The coded speech database is delivered on
-    three CD-ROMs.
+  content: Supplement 23 to the P series of ITU-T Recommendations is a database of coded and source speech material used in the ITU-T 8 kbit/s codec (Recommendation G.729) characterization tests. The purpose of this database is to provide source, pre-processed and processed speech material, and related subjective test plans and scores, for the development of new and revised ITU Recommendations relating to objective voice quality measures. The coded speech database is delivered on three CD-ROMs.
 status:
   stage:
     content: Published

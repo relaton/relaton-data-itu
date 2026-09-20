@@ -1,16 +1,16 @@
----
 id: ITUTXSuppl22012014
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1144 - Supplement on enhancements and new features in eXtensible
-    Access Control Markup Language (XACML 3.0)
+  content: ITU-T X.1144 - Supplement on enhancements and new features in eXtensible Access Control Markup Language (XACML 3.0)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup22-201401-I
+  content: https://handle.itu.int/11.1002/1000/12156
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup22-201401-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 22 (01/2014)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 22 to ITU-T X-series Recommendations summarizes the enhancements
-    and new features of Recommendation ITU-T X.1144 (XACML 3.0) in comparison to Recommendation
-    ITU\x1ET X.1142 (XACML 2.0)."
+  content: Supplement 22 to ITU-T X-series Recommendations summarizes the enhancements and new features of Recommendation ITU-T X.1144 (XACML 3.0) in comparison to Recommendation ITUT X.1142 (XACML 2.0).
 status:
   stage:
     content: Published

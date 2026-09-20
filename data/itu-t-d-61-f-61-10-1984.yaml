@@ -1,13 +1,14 @@
----
 id: ITUTD61F61101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Measurement of the chargeable duration of an international telex call for
-    charging and accounting purposes
+  content: Measurement of the chargeable duration of an international telex call for charging and accounting purposes
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/3500
 docidentifier:
 - content: ITU-T D.61/F.61 (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational provisions relating to the chargeable duration of a telex
-        call
+      content: Operational provisions relating to the chargeable duration of a telex call
     docidentifier:
     - content: F.61 (11/1988)
       type: ITU
@@ -108,8 +108,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission
-        services
+      content: Definitions relating to telegraph, telematic and data transmission services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -149,8 +148,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based
-        on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU

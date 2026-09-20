@@ -1,16 +1,16 @@
----
 id: ITUTU208031993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: The international telex service – Interworking with the INMARSAT c system
-    using one-stage selection
+  content: The international telex service – Interworking with the INMARSAT c system using one-stage selection
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-U.208-199303-S
+  content: https://handle.itu.int/11.1002/1000/2668
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-U.208-199303-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T U.208 (03/1993)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The international telex service – Interworking with the INMARSAT C
-        system using one-stage selection
+      content: The international telex service – Interworking with the INMARSAT C system using one-stage selection
     docidentifier:
     - content: U.208 (10/1996)
       type: ITU

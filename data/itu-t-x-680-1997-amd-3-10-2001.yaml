@@ -1,4 +1,3 @@
----
 id: ITUTX6801997Amd3102001
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,7 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.680-200110-T!Amd3
+  content: https://handle.itu.int/11.1002/1000/5562
 docidentifier:
 - content: ITU-T X.680 (1997) Amd. 3 (10/2001)
   type: ITU
@@ -53,34 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Amendment to ITU-T Rec. X.680 (1997) | ISO/IEC 8824-1:1998 adds the
-    capability to use XML to specify ASN.1 values. This is part of an effort to allow
-    users of ASN.1 to take advantage of the flexibility of XML in displaying ASN.1
-    values. NOTE: All new or changed text in this document is highlighted in yellow
-    in clause/subclauses being replaced or modified. When merging all such text into
-    the base document the highlighting is to be removed.In the Introduction replace
-    the paragraph:Clauses 10 to 31 (inclusive) define the simple types supported by
-    ASN.1, and specify the notation to be used for referencing simple types and for
-    defining new types using them. Clauses 10 to 31 also specify the notation to be
-    used for specifying values of types defined using ASN.1.with the following paragraph
-    and note:Clauses 10 to 31 (inclusive) define the simple types supported by ASN.1,
-    and specify the notation to be used for referencing simple types and for defining
-    new types using them. Clauses 10 to 31 also specify notations to be used for specifying
-    values of types defined using ASN.1. Two value notations are provided. The first
-    is called the basic ASN.1 value notation, and has been part of the ASN.1 notation
-    since its first introduction. The second is called the XML-based ASN.1 value notation,
-    and provides a value notation using eXtensible Markup Language (XML).NOTE - NOTE
-    - The XML-based value notation provides a means of representing ASN.1 values using
-    XML with the ASN.1 type definition as the schema. In clause 2.3, add the following
-    reference at the end of the list:- World Wide Web Consortium (W3C), eXtensible
-    Markup Language (XML) 1.0, W3C Recommendation. Add a new clause 3.8.74bis and
-    note as follows:3.8.74bis XML value notation category: A categorization of ASN.1
-    types based on whether their XML value notation may be self-delimiting, may be
-    empty, or may contain spaces.NOTE - NOTE - The XML value notation category of
-    a type is used in determining the XML value notation representation used for sequence-of
-    and for set-of types with that type as the component. In clause 4, add the following
-    abbreviation to the end of the list:XML eXtensible Markup LanguageAdd a new clause
-    5.3bis as follows:'
+  content: 'This Amendment to ITU-T Rec. X.680 (1997) | ISO/IEC 8824-1:1998 adds the capability to use XML to specify ASN.1 values. This is part of an effort to allow users of ASN.1 to take advantage of the flexibility of XML in displaying ASN.1 values. NOTE: All new or changed text in this document is highlighted in yellow in clause/subclauses being replaced or modified. When merging all such text into the base document the highlighting is to be removed.In the Introduction replace the paragraph:Clauses 10 to 31 (inclusive) define the simple types supported by ASN.1, and specify the notation to be used for referencing simple types and for defining new types using them. Clauses 10 to 31 also specify the notation to be used for specifying values of types defined using ASN.1.with the following paragraph and note:Clauses 10 to 31 (inclusive) define the simple types supported by ASN.1, and specify the notation to be used for referencing simple types and for defining new types using them. Clauses 10 to 31 also specify notations to be used for specifying values of types defined using ASN.1. Two value notations are provided. The first is called the basic ASN.1 value notation, and has been part of the ASN.1 notation since its first introduction. The second is called the XML-based ASN.1 value notation, and provides a value notation using eXtensible Markup Language (XML).NOTE - NOTE - The XML-based value notation provides a means of representing ASN.1 values using XML with the ASN.1 type definition as the schema. In clause 2.3, add the following reference at the end of the list:- World Wide Web Consortium (W3C), eXtensible Markup Language (XML) 1.0, W3C Recommendation. Add a new clause 3.8.74bis and note as follows:3.8.74bis XML value notation category: A categorization of ASN.1 types based on whether their XML value notation may be self-delimiting, may be empty, or may contain spaces.NOTE - NOTE - The XML value notation category of a type is used in determining the XML value notation representation used for sequence-of and for set-of types with that type as the component. In clause 4, add the following abbreviation to the end of the list:XML eXtensible Markup LanguageAdd a new clause 5.3bis as follows:'
 status:
   stage:
     content: Withdrawal
@@ -100,8 +72,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Specification
-        of basic notation'
+      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation'
     docidentifier:
     - content: X.680 (02/2021)
       type: ITU
@@ -111,8 +82,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Relaxing IMPORTS clause to allow importation of definitions from new
-        versions of a given module
+      content: Relaxing IMPORTS clause to allow importation of definitions from new versions of a given module
     docidentifier:
     - content: X.680 (2015) Amd. 1 (05/2018)
       type: ITU
@@ -146,8 +116,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
-        of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
     docidentifier:
     - content: X.680 (08/2015)
       type: ITU
@@ -173,8 +142,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
-        of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
     docidentifier:
     - content: X.680 (11/2008)
       type: ITU
@@ -212,8 +180,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Alignment with changes made to ITU-T Rec. X.660 | ISO/IEC 9834-1 for
-        identifiers in object identifier value notation
+      content: Alignment with changes made to ITU-T Rec. X.660 | ISO/IEC 9834-1 for identifiers in object identifier value notation
     docidentifier:
     - content: X.680 (2002) Amd. 2 (08/2004)
       type: ITU
@@ -233,8 +200,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
-        of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
     docidentifier:
     - content: X.680 (07/2002)
       type: ITU
@@ -306,8 +272,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
-        of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
     docidentifier:
     - content: X.680 (12/1997)
       type: ITU
@@ -361,8 +326,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
-        of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
     docidentifier:
     - content: X.680 (07/1994)
       type: ITU

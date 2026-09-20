@@ -1,4 +1,3 @@
----
 id: ITUTX1901042026
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1901-202604-I
+  content: https://handle.itu.int/11.1002/1000/16682
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1901-202604-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1901 (04/2026)
   type: ITU
@@ -50,19 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Age-related eligibility decisions are required when a person must either
-    be of a certain age, older or younger than a given age or be within an age range,
-    where ages are counted in years and where these criteria are dependent upon the
-    type of goods, content, services, venues or spaces provided. \r\nRecommendation
-    ITU-T X.1901 addresses issues associated with inadequately defined age assurance
-    processes and associated lack of trust in terms of functionality, performance,
-    privacy, security and acceptability. This Recommendation establishes a framework
-    for age assurance systems and describes their core characteristics, including
-    privacy and security, for enabling age-related eligibility decisions. The aim
-    of this Recommendation is to enable policy makers (such as governments, regulators
-    or providers of age restricted goods, content, services, venues or spaces) to
-    specify applicable types of age assurance systems and associated indicators of
-    effectiveness in their policy requirements.\r\n"
+  content: "Age-related eligibility decisions are required when a person must either be of a certain age, older or younger than a given age or be within an age range, where ages are counted in years and where these criteria are dependent upon the type of goods, content, services, venues or spaces provided. \r\nRecommendation ITU-T X.1901 addresses issues associated with inadequately defined age assurance processes and associated lack of trust in terms of functionality, performance, privacy, security and acceptability. This Recommendation establishes a framework for age assurance systems and describes their core characteristics, including privacy and security, for enabling age-related eligibility decisions. The aim of this Recommendation is to enable policy makers (such as governments, regulators or providers of age restricted goods, content, services, venues or spaces) to specify applicable types of age assurance systems and associated indicators of effectiveness in their policy requirements.\r\n"
 status:
   stage:
     content: Published

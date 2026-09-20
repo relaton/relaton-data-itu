@@ -1,16 +1,16 @@
----
 id: ITUTX295041995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OSI conformance testing methodology and framework for protocol Recommendations
-    for ITU-T applications – Protocol profile test specification
+  content: OSI conformance testing methodology and framework for protocol Recommendations for ITU-T applications – Protocol profile test specification
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.295-199504-I
+  content: https://handle.itu.int/11.1002/1000/2908
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.295-199504-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.295 (04/1995)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides OSI protocol profile testing methodology based
-    on the protocol testing methodology specified in Recommendation X.291. This Recommendation
-    describes the meaning of conformance to a profile, the method of expressing profile
-    conformance requirements, and profile testing principles which are based on the
-    methodology defined for the base protocol specifications. The text was developed
-    jointly with ISO/IEC JTC1.
+  content: This Recommendation provides OSI protocol profile testing methodology based on the protocol testing methodology specified in Recommendation X.291. This Recommendation describes the meaning of conformance to a profile, the method of expressing profile conformance requirements, and profile testing principles which are based on the methodology defined for the base protocol specifications. The text was developed jointly with ISO/IEC JTC1.
 status:
   stage:
     content: Published
@@ -79,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.290-series – Supplement on generic approach to interoperability
-        testing
+      content: ITU-T X.290-series – Supplement on generic approach to interoperability testing
     docidentifier:
     - content: X Suppl. 4 (09/2008)
       type: ITU
@@ -90,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.290 series – Supplement on interoperability testing framework
-        and methodology
+      content: ITU-T X.290 series – Supplement on interoperability testing framework and methodology
     docidentifier:
     - content: X Suppl. 5 (09/2008)
       type: ITU

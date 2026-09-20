@@ -1,16 +1,16 @@
----
 id: ITUTH235AnnexG012005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Usage of the MIKEY key management protocol for the secure real time transport
-    protocol (SRTP) within H.235
+  content: Usage of the MIKEY key management protocol for the secure real time transport protocol (SRTP) within H.235
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.235-200501-S!AnnG
+  content: https://handle.itu.int/11.1002/1000/7440
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.235-200501-S!AnnG!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.235 Annex G (01/2005)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of Annex G to ITU-T Rec. H.235 is to provide recommendations
-    of security procedures for H.323/H.235-based systems to use the IETF MIKEY key
-    management protocol in conjunction with the IETF SRTP security protocol.This annex
-    is written as a security profile of H.235 that is offered as an option and may
-    complement the other media security features of H.235 (Annex B, Annex D.7).H.235
-    Annex G enables deploying SRTP media security where the MIKEY key management supplies
-    the necessary keys and security parameters among the involved endpoints end-to-end.
-    Annex G can be deployed within a H.323 domain among H.235 Annex-G-enabled H.323
-    systems. The annex defines the security protocol extensions to H.225.0 RAS and
-    Call Signalling as well as H.245 along with the corresponding procedures. Furthermore,
-    this annex provides the capabilities to support interworking with IETF SIP entities
-    that have implemented the MIKEY key management and SRTP.
+  content: The purpose of Annex G to ITU-T Rec. H.235 is to provide recommendations of security procedures for H.323/H.235-based systems to use the IETF MIKEY key management protocol in conjunction with the IETF SRTP security protocol.This annex is written as a security profile of H.235 that is offered as an option and may complement the other media security features of H.235 (Annex B, Annex D.7).H.235 Annex G enables deploying SRTP media security where the MIKEY key management supplies the necessary keys and security parameters among the involved endpoints end-to-end. Annex G can be deployed within a H.323 domain among H.235 Annex-G-enabled H.323 systems. The annex defines the security protocol extensions to H.225.0 RAS and Call Signalling as well as H.245 along with the corresponding procedures. Furthermore, this annex provides the capabilities to support interworking with IETF SIP entities that have implemented the MIKEY key management and SRTP.
 status:
   stage:
     content: Withdrawal
@@ -106,8 +95,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Security and encryption for H-series (H.323 and other H.245-based)
-        multimedia terminals
+      content: Security and encryption for H-series (H.323 and other H.245-based) multimedia terminals
     docidentifier:
     - content: H.235 (08/2003)
       type: ITU
@@ -135,8 +123,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Security and encryption for H-series (H.323 and other H.245-based)
-        multimedia terminals
+      content: Security and encryption for H-series (H.323 and other H.245-based) multimedia terminals
     docidentifier:
     - content: H.235 (11/2000)
       type: ITU
@@ -146,8 +133,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Security and encryption for H-Series (H.323 and other H.245-based)
-        multimedia terminals
+      content: Security and encryption for H-Series (H.323 and other H.245-based) multimedia terminals
     docidentifier:
     - content: H.235 (02/1998)
       type: ITU

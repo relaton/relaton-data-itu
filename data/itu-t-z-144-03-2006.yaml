@@ -1,16 +1,16 @@
----
 id: ITUTZ144032006
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Testing and Test Control Notation version 3 (TTCN-3): Runtime interface
-    (TRI)'
+  content: 'Testing and Test Control Notation version 3 (TTCN-3): Runtime interface (TRI)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Z.144-200603-S
+  content: https://handle.itu.int/11.1002/1000/8644
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Z.144-200603-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Z.144 (03/2006)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the specification of the runtime interface
-    for TTCN-3 (Testing and Test Control Notation 3) test system implementations.
-    The TTCN-3 Runtime Interface provides the recommended adaptation for timing and
-    communication of a test system to a particular processing platform and the system
-    under test, respectively. This Recommendation defines the interface as a set of
-    operations independent of target language.The interface is defined to be compatible
-    with ITU-T Rec. Z.140. This Recommendation uses the CORBA Interface Definition
-    Language (IDL) to specify the TRI completely. Clauses 6 and 7 specify language
-    mappings of the abstract specification to the target languages Java and ANSI-C.
-    A summary of the IDL-based interface specification is provided in Annex A.
+  content: This Recommendation provides the specification of the runtime interface for TTCN-3 (Testing and Test Control Notation 3) test system implementations. The TTCN-3 Runtime Interface provides the recommended adaptation for timing and communication of a test system to a particular processing platform and the system under test, respectively. This Recommendation defines the interface as a set of operations independent of target language.The interface is defined to be compatible with ITU-T Rec. Z.140. This Recommendation uses the CORBA Interface Definition Language (IDL) to specify the TRI completely. Clauses 6 and 7 specify language mappings of the abstract specification to the target languages Java and ANSI-C. A summary of the IDL-based interface specification is provided in Annex A.
 status:
   stage:
     content: Withdrawal
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
-        (TRI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface (TRI)'
     docidentifier:
     - content: Z.165 (10/2022)
       type: ITU
@@ -91,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
-        (TRI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface (TRI)'
     docidentifier:
     - content: Z.165 (10/2017)
       type: ITU
@@ -102,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
-        (TRI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface (TRI)'
     docidentifier:
     - content: Z.165 (10/2015)
       type: ITU
@@ -113,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
-        (TRI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface (TRI)'
     docidentifier:
     - content: Z.165 (11/2014)
       type: ITU
@@ -124,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
-        (TRI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface (TRI)'
     docidentifier:
     - content: Z.165 (07/2013)
       type: ITU
@@ -135,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
-        (TRI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface (TRI)'
     docidentifier:
     - content: Z.165 (05/2012)
       type: ITU
@@ -146,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
-        (TRI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface (TRI)'
     docidentifier:
     - content: Z.165 (03/2011)
       type: ITU
@@ -157,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface
-        (TRI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 runtime interface (TRI)'
     docidentifier:
     - content: Z.165 (11/2007)
       type: ITU
@@ -168,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

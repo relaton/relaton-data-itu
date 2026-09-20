@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl41112002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.2003: Roadmap to the BICC protocol Recommendations,
-    BICC interworking Recommendations, and BICC requirement Supplements'
+  content: 'Technical Report TRQ.2003: Roadmap to the BICC protocol Recommendations, BICC interworking Recommendations, and BICC requirement Supplements'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup41-200211-I
+  content: https://handle.itu.int/11.1002/1000/6218
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup41-200211-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 41 (11/2002)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement presents an overview of the ITU-T Recommendations and Supplements
-    that have been produced in the context of the Bearer Independent Call Control
-    (BICC) protocol. Included is an index of Recommendations, which provide the detailed
-    protocol descriptions.
+  content: This Supplement presents an overview of the ITU-T Recommendations and Supplements that have been produced in the context of the Bearer Independent Call Control (BICC) protocol. Included is an index of Recommendations, which provide the detailed protocol descriptions.
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTY4558082020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements and functional architecture of smart fire smoke detection
-    service
+  content: Requirements and functional architecture of smart fire smoke detection service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.4558-202008-I
+  content: https://handle.itu.int/11.1002/1000/14378
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.4558-202008-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.4558 (08/2020)
   type: ITU
@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The fire smoke detection service is usually deployed in indoor environments
-    such as residential buildings, factories, shopping malls, hotels, office buildings,
-    etc. With the development of society and economy, the fire smoke detection service
-    is playing a more and more important role in people's life. However, there are
-    some issues such as inefficient maintenance and management, non-real-time device
-    failure detection, non-real-time fire alarm notification and poor service experience.\r\nTo
-    address these issues, the smart fire smoke detection (SFSD) service not only detects
-    smoke concentration through sensors, and triggers a fire alarm when it reaches
-    a certain threshold to prevent disaster, but also uses the network to send the
-    alarm information to the cloud platform, thus notifying relevant departments and
-    personnel in time through web/APP/SMS/voice/instant message client, etc. The SFSD
-    service can provide many benefits, including efficient maintenance and management,
-    real-time alarm reports, real-time fault reports and good service experience.\r\nBased
-    on these observations, Recommendation ITU-T Y.4558 describes the requirements
-    and functional architecture of the SFSD service."
+  content: "The fire smoke detection service is usually deployed in indoor environments such as residential buildings, factories, shopping malls, hotels, office buildings, etc. With the development of society and economy, the fire smoke detection service is playing a more and more important role in people's life. However, there are some issues such as inefficient maintenance and management, non-real-time device failure detection, non-real-time fire alarm notification and poor service experience.\r\nTo address these issues, the smart fire smoke detection (SFSD) service not only detects smoke concentration through sensors, and triggers a fire alarm when it reaches a certain threshold to prevent disaster, but also uses the network to send the alarm information to the cloud platform, thus notifying relevant departments and personnel in time through web/APP/SMS/voice/instant message client, etc. The SFSD service can provide many benefits, including efficient maintenance and management, real-time alarm reports, real-time fault reports and good service experience.\r\nBased on these observations, Recommendation ITU-T Y.4558 describes the requirements and functional architecture of the SFSD service."
 status:
   stage:
     content: Published
@@ -95,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4550 series – Smart sustainable cities - Intelligent sustainable
-        buildings
+      content: ITU-T Y.4550 series – Smart sustainable cities - Intelligent sustainable buildings
     docidentifier:
     - content: Y Suppl. 31 (01/2016)
       type: ITU
@@ -126,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - Setting the stage
-        for stakeholders' engagement
+      content: ITU-T Y.4000 series – Smart sustainable cities - Setting the stage for stakeholders' engagement
     docidentifier:
     - content: Y Suppl. 34 (07/2020)
       type: ITU
@@ -147,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series - An overview of smart cities and communities and
-        the role of information and communication technologies
+      content: ITU-T Y.4000-series - An overview of smart cities and communities and the role of information and communication technologies
     docidentifier:
     - content: Y Suppl. 45 (09/2017)
       type: ITU
@@ -158,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Methodology for building digital capabilities during enterprises' digital
-        transformation
+      content: Methodology for building digital capabilities during enterprises' digital transformation
     docidentifier:
     - content: Y Suppl. 52 (12/2018)
       type: ITU
@@ -179,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -200,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of blockchain for supporting Internet of things and smart
-        cities and communities in data processing and management aspects
+      content: Overview of blockchain for supporting Internet of things and smart cities and communities in data processing and management aspects
     docidentifier:
     - content: Y Suppl. 62 (07/2020)
       type: ITU
@@ -231,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -252,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -263,8 +241,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -274,8 +251,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTT422081995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Document Architecture (ODA) and interchange
-    format: Identification of document fragments'
+  content: 'Information technology – Open Document Architecture (ODA) and interchange format: Identification of document fragments'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.422-199508-I
+  content: https://handle.itu.int/11.1002/1000/2554
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.422-199508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.422 (08/1995)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is one of two (T.422 and T.424) which are designed
-    to support the interchange of processable and formatted hypermedia documents (HyperODA).
-    This Recommendation | International Standard defines location expressions, to
-    identify document fragments; external references, for identification and handling
-    of information that is external to given documents; and sub(document) profiles,
-    for the provision of, mainly, management information applying to a document fragment.
+  content: This Recommendation is one of two (T.422 and T.424) which are designed to support the interchange of processable and formatted hypermedia documents (HyperODA). This Recommendation | International Standard defines location expressions, to identify document fragments; external references, for identification and handling of information that is external to given documents; and sub(document) profiles, for the provision of, mainly, management information applying to a document fragment.
 status:
   stage:
     content: Published

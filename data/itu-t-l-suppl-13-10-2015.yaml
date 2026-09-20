@@ -1,17 +1,16 @@
----
 id: ITUTLSuppl13102015
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'ITU-T L.1410 - Case study: A hybrid approach-based comparative analysis
-    of the environmental impact of a baseline data centre and an energy-efficient
-    data centre'
+  content: 'ITU-T L.1410 - Case study: A hybrid approach-based comparative analysis of the environmental impact of a baseline data centre and an energy-efficient data centre'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup13-201510-I
+  content: https://handle.itu.int/11.1002/1000/12689
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup13-201510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 13 (10/2015)
   type: ITU
@@ -52,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The goal of this case study is to clarify the GHG emission reduction effect
-    of some new energy saving technologies in a data centre. \r\n\r\nThe purpose of
-    the study is to assess the production and operation of introducing a more energy-efficient
-    data centre and compare its impact to a previous setup. This case study is intended
-    to be open to the public.\r\n\r\nIn this case study, a hybrid approach was applied.
-    The hybrid approach used in this study includes Input-Output Analysis (IOA) for
-    production and end-of life, and process-sum analysis for usage. \r\n"
+  content: "The goal of this case study is to clarify the GHG emission reduction effect of some new energy saving technologies in a data centre. \r\n\r\nThe purpose of the study is to assess the production and operation of introducing a more energy-efficient data centre and compare its impact to a previous setup. This case study is intended to be open to the public.\r\n\r\nIn this case study, a hybrid approach was applied. The hybrid approach used in this study includes Input-Output Analysis (IOA) for production and end-of life, and process-sum analysis for usage. \r\n"
 status:
   stage:
     content: Published

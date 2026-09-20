@@ -1,16 +1,16 @@
----
 id: ITUTE1100seriesSuppl1032012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T E.1100-series – Operational aspects for the implementation of ITU-T
-    E.164 country code 888
+  content: ITU-T E.1100-series – Operational aspects for the implementation of ITU-T E.164 country code 888
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.Sup1-201203-I
+  content: https://handle.itu.int/11.1002/1000/11623
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.Sup1-201203-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.1100 series Suppl. 1 (03/2012)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 1 to the ITU-T E.1100-series of Recommendations presents the
-    details of the operational aspects linked to the implementation of ITU-T E.164
-    country code +888 assigned to the United Nations Office for the Coordination of
-    Humanitarian Affairs (OCHA).
+  content: Supplement 1 to the ITU-T E.1100-series of Recommendations presents the details of the operational aspects linked to the implementation of ITU-T E.164 country code +888 assigned to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA).
 status:
   stage:
     content: Published

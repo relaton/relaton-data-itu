@@ -1,16 +1,16 @@
----
 id: ITUTK39112019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Risk assessment of damages to telecommunication sites due to lightning
-    discharges
+  content: Risk assessment of damages to telecommunication sites due to lightning discharges
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.39-201911-I
+  content: https://handle.itu.int/11.1002/1000/14068
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.39-201911-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.39 (11/2019)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Protective measures against a randomly occurring overvoltage phenomenon
-    like lightning discharges have to a great extent been empirically based. Modern
-    equipment has shown to be more prone to damages compared with older ones. Serious
-    consequences in complexed communication systems may also occur in built-up areas,
-    earlier classified as unexposed. The widespread use of radio stations with high
-    antenna masts for wireless telecommunication has significantly increased the risk
-    for damages due to direct lightning strikes to the site.\r\n\r\nThe need for protection
-    should be based on a risk assessment considering the cost and importance of the
-    system, the electromagnetic environment at the particular site and the probability
-    of damages. The protection levels and the type of protective methods should also
-    be chosen regarding the costs of installation and maintenance of protective devices.\r\n\r\nAn
-    assessment of the probability of overvoltage occurrences and the sensitivity of
-    the existing telecommunication installation shall give a possibility to attain
-    a well-balanced protection of the whole system.\r\n\r\nProtective measures to
-    eliminate severe injuries to people during thunderstorms are especially important
-    at exposed sites that are permanently or temporarily manned."
+  content: "Protective measures against a randomly occurring overvoltage phenomenon like lightning discharges have to a great extent been empirically based. Modern equipment has shown to be more prone to damages compared with older ones. Serious consequences in complexed communication systems may also occur in built-up areas, earlier classified as unexposed. The widespread use of radio stations with high antenna masts for wireless telecommunication has significantly increased the risk for damages due to direct lightning strikes to the site.\r\n\r\nThe need for protection should be based on a risk assessment considering the cost and importance of the system, the electromagnetic environment at the particular site and the probability of damages. The protection levels and the type of protective methods should also be chosen regarding the costs of installation and maintenance of protective devices.\r\n\r\nAn assessment of the probability of overvoltage occurrences and the sensitivity of the existing telecommunication installation shall give a possibility to attain a well-balanced protection of the whole system.\r\n\r\nProtective measures to eliminate severe injuries to people during thunderstorms are especially important at exposed sites that are permanently or temporarily manned."
 status:
   stage:
     content: Published
@@ -86,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Risk assessment of damages to telecommunication sites due to lightning
-        discharges
+      content: Risk assessment of damages to telecommunication sites due to lightning discharges
     docidentifier:
     - content: K.39 (10/1996)
       type: ITU
@@ -97,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -118,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -129,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -140,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -151,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -182,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

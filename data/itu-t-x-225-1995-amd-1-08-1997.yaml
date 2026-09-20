@@ -1,4 +1,3 @@
----
 id: ITUTX2251995Amd1081997
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.225-199708-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/3989
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.225-199708-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.225 (1995) Amd. 1 (08/1997)
   type: ITU
@@ -53,29 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment is one of a set of amendments to the OSI upper-layers standards
-    produced to facilitate the interconnection of information processing systems in
-    an open environment where efficiency of communications is paramount. Such efficiencies
-    include:a) reduction in the overhead needed to encode control information for
-    use in bandwidth-limited environments (such as radio links) or processing-limited
-    systems (such as switching systems);b) reduction in the delay to set up the association
-    between the communicating applications so that data transfer can begin expeditiously;c)
-    reduction in the support of unneeded functionality in certain environments where
-    the communications requirements of the applications are limited.This amendment
-    modifies the connection-oriented session protocol to support the "fast-associate"
-    mechanism for establishing session and higher layer connections and also specifies
-    the short-encoding and null-encoding protocol mechanisms. The fast-associate mechanism
-    allows the exchange of an identifier, and associated parameters that allow establishment
-    of the session and higher-layer connections (and associations) with any specified
-    set of options. The short-encoding option provides alternative, and much smaller
-    protocol control information for the most commonly occurring session protocol
-    data units. The null-encoding option eliminates session protocol in the data transfer
-    phase completely and can be selected when the session user has no requirements
-    for orderly release of the session connection and no session layer addressing
-    information needs to be exchanged. A special form of the fast-associate mechanism
-    can be used indicating that the null-encoding will be used.[The null-encoding,
-    and the special form of fast-associate (involving the short-connect SPDU) is specified
-    in Recommendation X.225/Amd. 2.]
+  content: This amendment is one of a set of amendments to the OSI upper-layers standards produced to facilitate the interconnection of information processing systems in an open environment where efficiency of communications is paramount. Such efficiencies include:a) reduction in the overhead needed to encode control information for use in bandwidth-limited environments (such as radio links) or processing-limited systems (such as switching systems);b) reduction in the delay to set up the association between the communicating applications so that data transfer can begin expeditiously;c) reduction in the support of unneeded functionality in certain environments where the communications requirements of the applications are limited.This amendment modifies the connection-oriented session protocol to support the "fast-associate" mechanism for establishing session and higher layer connections and also specifies the short-encoding and null-encoding protocol mechanisms. The fast-associate mechanism allows the exchange of an identifier, and associated parameters that allow establishment of the session and higher-layer connections (and associations) with any specified set of options. The short-encoding option provides alternative, and much smaller protocol control information for the most commonly occurring session protocol data units. The null-encoding option eliminates session protocol in the data transfer phase completely and can be selected when the session user has no requirements for orderly release of the session connection and no session layer addressing information needs to be exchanged. A special form of the fast-associate mechanism can be used indicating that the null-encoding will be used.[The null-encoding, and the special form of fast-associate (involving the short-connect SPDU) is specified in Recommendation X.225/Amd. 2.]
 status:
   stage:
     content: Published
@@ -113,8 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Connection-oriented
-        Session protocol: Protocol specification'
+      content: 'Information technology – Open Systems Interconnection – Connection-oriented Session protocol: Protocol specification'
     docidentifier:
     - content: X.225 (11/1995)
       type: ITU
@@ -134,8 +112,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Connection-oriented
-        session protocol: Protocol specification'
+      content: 'Information technology – Open Systems Interconnection – Connection-oriented session protocol: Protocol specification'
     docidentifier:
     - content: X.225 (07/1994)
       type: ITU
@@ -145,8 +122,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session protocol specification for Open Systems Interconnection for
-        CCITT applications
+      content: Session protocol specification for Open Systems Interconnection for CCITT applications
     docidentifier:
     - content: X.225 (11/1988)
       type: ITU
@@ -156,8 +132,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session Protocol Specification for Open Systems Interconnection for
-        CCITT Applications
+      content: Session Protocol Specification for Open Systems Interconnection for CCITT Applications
     docidentifier:
     - content: X.225 (10/1984)
       type: ITU

@@ -1,10 +1,11 @@
----
 id: ITUTH2352003Cor1Err1062005
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.235-200506-S!Cor1-Err1
+  content: https://handle.itu.int/11.1002/1000/8554
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.235-200506-S!Cor1-Err1!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.235 (2003) Cor. 1 Err. 1 (06/2005)
   type: ITU
@@ -64,8 +65,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Usage of the MIKEY key management protocol for the secure real time
-        transport protocol (SRTP) within H.235
+      content: Usage of the MIKEY key management protocol for the secure real time transport protocol (SRTP) within H.235
     docidentifier:
     - content: H.235 Annex G (01/2005)
       type: ITU
@@ -91,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Security and encryption for H-series (H.323 and other H.245-based)
-        multimedia terminals
+      content: Security and encryption for H-series (H.323 and other H.245-based) multimedia terminals
     docidentifier:
     - content: H.235 (08/2003)
       type: ITU
@@ -120,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Security and encryption for H-series (H.323 and other H.245-based)
-        multimedia terminals
+      content: Security and encryption for H-series (H.323 and other H.245-based) multimedia terminals
     docidentifier:
     - content: H.235 (11/2000)
       type: ITU
@@ -131,8 +129,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Security and encryption for H-Series (H.323 and other H.245-based)
-        multimedia terminals
+      content: Security and encryption for H-Series (H.323 and other H.245-based) multimedia terminals
     docidentifier:
     - content: H.235 (02/1998)
       type: ITU

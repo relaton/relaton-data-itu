@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl3102015
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-    cabling during a power cross event
+  content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup3-201510-I
+  content: https://handle.itu.int/11.1002/1000/12686
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup3-201510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 3 (10/2015)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The objective of Supplement X to the ITU-T K-series Recommendations, Additional
-    criteria to protect telecommunication cabling in the event of a power cross event,
-    is enable the implementation of power cross protection for telecommunications
-    cabling connected to [b-ITU-T K.20], [b-ITU-T K.21] and [b-ITU-T K.45] compliant
-    equipment.\r\n\r\nThis Additional criteria to protect telecommunication cabling
-    in the event of a power cross event supplement aims to:\r\n\r\n•            Provide
-    current-time limitations to protect telecommunication cabling from fusing and
-    wire insulation damage.\r\n\r\n•            Explain the evolution of physical
-    wiring simulators and their drawbacks\r\n\r\n•            Provide designers with
-    the tools to extrapolate the supplement current-time limitations data to larger
-    and smaller conductor sizes.\r\n\r\n \r\n"
+  content: "The objective of Supplement X to the ITU-T K-series Recommendations, Additional criteria to protect telecommunication cabling in the event of a power cross event, is enable the implementation of power cross protection for telecommunications cabling connected to [b-ITU-T K.20], [b-ITU-T K.21] and [b-ITU-T K.45] compliant equipment.\r\n\r\nThis Additional criteria to protect telecommunication cabling in the event of a power cross event supplement aims to:\r\n\r\n•            Provide current-time limitations to protect telecommunication cabling from fusing and wire insulation damage.\r\n\r\n•            Explain the evolution of physical wiring simulators and their drawbacks\r\n\r\n•            Provide designers with the tools to extrapolate the supplement current-time limitations data to larger and smaller conductor sizes.\r\n\r\n \r\n"
 status:
   stage:
     content: Published

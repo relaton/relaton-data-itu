@@ -1,16 +1,16 @@
----
 id: ITUTHSuppl8052008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Gateway control protocol: Guidelines for synchronized time in ITU-T H.248
-    domains'
+  content: 'Gateway control protocol: Guidelines for synchronized time in ITU-T H.248 domains'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.Sup8-200805-I
+  content: https://handle.itu.int/11.1002/1000/9461
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.Sup8-200805-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H Suppl. 8 (05/2008)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 8 to ITU-T H-series Recommendations defines a time coordination
-    function that may be used by an application process and/or a gateway control protocol
-    in a decentralized gateway environment such as ITU-T H.248 decomposed gateways.Within
-    the working assumptions defined, this supplement establishes a time coordination
-    function model, addressing the components of a generic time service involving
-    communication between gateway and gateway controller entities that relate the
-    service and generic definitions provided by this function to the user requirements.
-    It also identifies time synchronization protocols. The scope of this supplement
-    is on "time of day" information, not on other elements related to timing. Further
-    more, the provision of time information within a local system and implementation
-    aspects are also out of the scope of this supplement.
+  content: Supplement 8 to ITU-T H-series Recommendations defines a time coordination function that may be used by an application process and/or a gateway control protocol in a decentralized gateway environment such as ITU-T H.248 decomposed gateways.Within the working assumptions defined, this supplement establishes a time coordination function model, addressing the components of a generic time service involving communication between gateway and gateway controller entities that relate the service and generic definitions provided by this function to the user requirements. It also identifies time synchronization protocols. The scope of this supplement is on "time of day" information, not on other elements related to timing. Further more, the provision of time information within a local system and implementation aspects are also out of the scope of this supplement.
 status:
   stage:
     content: Published

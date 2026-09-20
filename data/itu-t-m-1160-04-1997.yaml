@@ -1,16 +1,16 @@
----
 id: ITUTM1160041997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Maintenance aspects of aeronautical mobile telecommunication service via
-    satellite
+  content: Maintenance aspects of aeronautical mobile telecommunication service via satellite
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1160-199704-I
+  content: https://handle.itu.int/11.1002/1000/4031
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1160-199704-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1160 (04/1997)
   type: ITU
@@ -51,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes special maintenance requirements for the
-    Aeronautical Mobile-satellite Service.
+  content: This Recommendation describes special maintenance requirements for the Aeronautical Mobile-satellite Service.
 status:
   stage:
     content: Published

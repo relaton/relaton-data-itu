@@ -1,16 +1,16 @@
----
 id: ITUTY15452072022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Quality of service metrics for continuity of performance of packet data-based
-    services
+  content: Quality of service metrics for continuity of performance of packet data-based services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1545.2-202207-I
+  content: https://handle.itu.int/11.1002/1000/15013
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1545.2-202207-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1545.2 (07/2022)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Y.1545.2 specifies spatially resolved metrics for
-    packet data-based services and a methodology for their computation, using the
-    same conceptual framework as Recommendation ITU-T G.1034. The metrics cover the
-    quality of service (QoS) and quality of experience (QoE) aspects of a wide range
-    of applications used in motion, i.e., during travel. A taxonomy of application
-    categories is provided, taking into account their absolute data rate (DR) requirements
-    and, in particular, their sensitivity against temporary drops in available DRs,
-    which are caused by motion through an environment that is characterized by spatial
-    variation of network performance, i.e., available DR or latency. The methodology
-    establishes ways to create a description of such spatial distributions of performance,
-    termed route profiles and use route profiles to create predictions of QoS and
-    QoE of application usage. It also establishes a new entity to describe local network
-    performance that provides an abstraction and thereby a versatile way to express
-    performance requirements.
+  content: Recommendation ITU-T Y.1545.2 specifies spatially resolved metrics for packet data-based services and a methodology for their computation, using the same conceptual framework as Recommendation ITU-T G.1034. The metrics cover the quality of service (QoS) and quality of experience (QoE) aspects of a wide range of applications used in motion, i.e., during travel. A taxonomy of application categories is provided, taking into account their absolute data rate (DR) requirements and, in particular, their sensitivity against temporary drops in available DRs, which are caused by motion through an environment that is characterized by spatial variation of network performance, i.e., available DR or latency. The methodology establishes ways to create a description of such spatial distributions of performance, termed route profiles and use route profiles to create predictions of QoS and QoE of application usage. It also establishes a new entity to describe local network performance that provides an abstraction and thereby a versatile way to express performance requirements.
 status:
   stage:
     content: Published
@@ -104,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -115,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -126,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

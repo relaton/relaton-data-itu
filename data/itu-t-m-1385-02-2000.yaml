@@ -1,16 +1,16 @@
----
 id: ITUTM1385022000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Maintenance of international leased circuits that are supported by international
-    data transmission systems
+  content: Maintenance of international leased circuits that are supported by international data transmission systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1385-200002-I
+  content: https://handle.itu.int/11.1002/1000/4860
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1385-200002-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1385 (02/2000)
   type: ITU
@@ -51,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation is only applicable to international leased circuits
-    that are supported by a data transmission system. The requirements described in
-    this ITU-T Recommendation should ensure that an international leased circuit meets
-    performance limits and is fully tested prior to restoration into service after
-    a fault.The Maintenance tests described in this ITU-T Recommendation should ideally
-    include periods of normal industrial activity to be representative of typical
-    network conditions. This ITU-T Recommendation has been developed to be consistent
-    with ITU-T Recommendation M.1375 that describes the Maintenance of international
-    data transmission systems. ITU-T Recommendation M.1380 covers Bringing-Into-Service
-    issues for international leased circuits that are supported by a data transmission
-    system.This ITU-T Recommendation addresses the Maintenance requirements of leased
-    circuits with a PDH digital presentation at the Customer's premises. Another ITU-T
-    Recommendation is being developed for Bringing-Into-Service and Maintenance procedures
-    for SDH leased circuits.For leased circuits with an analogue presentation, the
-    Maintenance procedures given in ITU-T Recommendation M.1060 apply, with performance
-    achievement in accordance with ITU-T Recommendations M.1020, M.1025 or M.1040
-    as appropriate.
+  content: This ITU-T Recommendation is only applicable to international leased circuits that are supported by a data transmission system. The requirements described in this ITU-T Recommendation should ensure that an international leased circuit meets performance limits and is fully tested prior to restoration into service after a fault.The Maintenance tests described in this ITU-T Recommendation should ideally include periods of normal industrial activity to be representative of typical network conditions. This ITU-T Recommendation has been developed to be consistent with ITU-T Recommendation M.1375 that describes the Maintenance of international data transmission systems. ITU-T Recommendation M.1380 covers Bringing-Into-Service issues for international leased circuits that are supported by a data transmission system.This ITU-T Recommendation addresses the Maintenance requirements of leased circuits with a PDH digital presentation at the Customer's premises. Another ITU-T Recommendation is being developed for Bringing-Into-Service and Maintenance procedures for SDH leased circuits.For leased circuits with an analogue presentation, the Maintenance procedures given in ITU-T Recommendation M.1060 apply, with performance achievement in accordance with ITU-T Recommendations M.1020, M.1025 or M.1040 as appropriate.
 status:
   stage:
     content: Published
@@ -87,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Maintenance of international leased circuits that are supported by
-        international data transmission systems
+      content: Maintenance of international leased circuits that are supported by international data transmission systems
     docidentifier:
     - content: M.1385 (03/1993)
       type: ITU

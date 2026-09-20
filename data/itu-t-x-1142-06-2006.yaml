@@ -1,4 +1,3 @@
----
 id: ITUTX1142062006
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1142-200606-I
+  content: https://handle.itu.int/11.1002/1000/8845
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1142-200606-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1142 (06/2006)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: XACML is an XML vocabulary for expressing access control policies. Access
-    control consists of deciding if a requested resource access should be allowed
-    and enforcing that decision. This Recommendation defines core XACML including
-    syntax of the language, models, context with policy language model, syntax and
-    processing rules. This Recommendation specifies XACML core and hierarchical role
-    based access control profile. A multiple resource profile of XACML and a SAML
-    2.0 profile of XACML are specified. To improve on the security of exchanging XACML
-    based policies, this Recommendation also specifies an XACML XML digital signature
-    profile for securing data. A privacy profile is specified in order to provide
-    guidelines for implementers.This Recommendation is technically equivalent and
-    compatible with the OASIS XACML 2.0 standard.
+  content: XACML is an XML vocabulary for expressing access control policies. Access control consists of deciding if a requested resource access should be allowed and enforcing that decision. This Recommendation defines core XACML including syntax of the language, models, context with policy language model, syntax and processing rules. This Recommendation specifies XACML core and hierarchical role based access control profile. A multiple resource profile of XACML and a SAML 2.0 profile of XACML are specified. To improve on the security of exchanging XACML based policies, this Recommendation also specifies an XACML XML digital signature profile for securing data. A privacy profile is specified in order to provide guidelines for implementers.This Recommendation is technically equivalent and compatible with the OASIS XACML 2.0 standard.
 status:
   stage:
     content: Published

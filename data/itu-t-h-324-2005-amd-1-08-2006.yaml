@@ -1,16 +1,16 @@
----
 id: ITUTH3242005Amd1082006
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: New Annex K "Media oriented negotiation acceleration procedure" and associated
-    changes to Annex J
+  content: New Annex K "Media oriented negotiation acceleration procedure" and associated changes to Annex J
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.324-200608-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/8867
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.324-200608-S!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.324 (2005) Amd. 1 (08/2006)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The new Annex K describes a procedure comprising complementary methods
-    for significantly reducing delay in H.324 call setup. It provides a fast channel
-    setup mechanism which does not wait for capability exchange but requires a fallback
-    if the initial media transmission attempts do not succeed. It provides a flexible
-    accelerated channel setup method that depends on an initial exchange of preferences
-    and the execution of a common inference algorithm. It provides an accelerated
-    H.245 setup method as a simple and reasonably fast technique in cases where the
-    other methods are not suitable. Interoperation with legacy terminals is also preserved
-    across the procedures. Some changes needed in Annex J, due to the new Annex K,
-    are also addressed. This edition includes the clarifications and corrections introduced
-    in Annex K by H.324 Corrigendum 2 approved on 1 January 2007. The corrections
-    are made to prevent a possible problem with the transition from MONA encapsulated
-    media to regular (H.223 framed) media, allow the use of corrupted encapsulated
-    media if desirable by a MONA device and to use the MONA preference message multiplexer
-    level (MONA-ML) to negotiate the initial multiplex level for all MONA-to-MONA
-    sessions.
+  content: The new Annex K describes a procedure comprising complementary methods for significantly reducing delay in H.324 call setup. It provides a fast channel setup mechanism which does not wait for capability exchange but requires a fallback if the initial media transmission attempts do not succeed. It provides a flexible accelerated channel setup method that depends on an initial exchange of preferences and the execution of a common inference algorithm. It provides an accelerated H.245 setup method as a simple and reasonably fast technique in cases where the other methods are not suitable. Interoperation with legacy terminals is also preserved across the procedures. Some changes needed in Annex J, due to the new Annex K, are also addressed. This edition includes the clarifications and corrections introduced in Annex K by H.324 Corrigendum 2 approved on 1 January 2007. The corrections are made to prevent a possible problem with the transition from MONA encapsulated media to regular (H.223 framed) media, allow the use of corrupted encapsulated media if desirable by a MONA device and to use the MONA preference message multiplexer level (MONA-ML) to negotiate the initial multiplex level for all MONA-to-MONA sessions.
 status:
   stage:
     content: Withdrawal
@@ -96,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex L on text conversation and associated changes; corrections
-        and clarifications to Annex K
+      content: New Annex L on text conversation and associated changes; corrections and clarifications to Annex K
     docidentifier:
     - content: H.324 (2005) Amd. 2 (08/2007)
       type: ITU
@@ -233,9 +217,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -255,8 +237,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -266,8 +247,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -277,8 +257,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -288,8 +267,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -309,8 +287,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -340,8 +317,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

@@ -1,17 +1,14 @@
----
 id: ITUTP565012020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Framework for creation and performance testing of machine learning based
-    models for the assessment of transmission network impact on speech quality for
-    mobile packet-switched voice services
+  content: Framework for creation and performance testing of machine learning based models for the assessment of transmission network impact on speech quality for mobile packet-switched voice services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.565-202001-S
+  content: https://handle.itu.int/11.1002/1000/14152
 docidentifier:
 - content: ITU-T P.565 (01/2020)
   type: ITU
@@ -52,43 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.565 provides the output of the framework which
-    is a machine learning \r\nbased speech quality prediction model that predicts
-    the impact on the speech quality from the Internet \r\nprotocol (IP) transport
-    and underlying transport, as well as the jitter buffer in the end client; thus
-    \r\nproviding a network centric view on the speech quality service delivered on
-    mobile packet switched \r\nnetworks. This is expressed in terms of a mean opinion
-    score-listening quality objective (MOS-LQO) \r\nunder the assumption of an otherwise
-    clean transmission, without background noise, automatic gain \r\ncontrol, voice
-    enhancement devices, transcoding, bridging, frequency response, clock drift or
-    any \r\nother impairment not caused by the IP transport and underlying transport.
-    The models according to \r\nthis framework use information on the temporal structure
-    of the reference signal to identify the \r\nimportance of individual sections
-    of the bitstream with regard to speech quality. These models do not \r\nperform
-    any perceptual analysis of the recorded speech signal.  \r\n\r\nThe framework
-    specifies three modules required for the development of these kinds of metrics:
-    the \r\ndatabases generator module, the machine learning module, and the validation
-    module for the trained \r\nmodel. In addition, the database content and the features
-    used by the machine learning algorithm are \r\ndescribed. The framework also provides
-    a large set of test vectors, in the form of error (jitter and packet \r\nloss)
-    patterns files for learning and validation. This Recommendation specifies the
-    minimum required \r\nperformance, as well as conditions and requirements for an
-    independent additional validation for \r\nmodels developed based on the framework.
-    The Recommendation also specifies implementation \r\nrequirements.  \r\n\r\nThe
-    models developed based on the framework enable the assessment of transmission
-    network impact \r\non speech quality for mobile packet-switched voice services,
-    and therefore benefit operators and \r\nregulators alike with a fast and easy
-    speech quality trend monitoring/benchmarking and \r\ntroubleshooting. In addition,
-    if predictors according to this framework are used together with \r\nperceptual
-    speech quality metrics like [ITU-T P.863], it is possible to identify if the source
-    of problems \r\nresides inside or outside the transport network observed by the
-    predictor according to this framework. \r\n\r\nConsequently, a more detailed analysis
-    of the situation can be achieved and troubleshooting of less \r\nobvious degradations
-    such as the ones occurring outside of the transport network (e.g., emerged from
-    \r\nautomatic gain control, voice enhancement devices, transcoding or analogue
-    processing) is enabled. \r\n\r\nThis Recommendation includes electronic attachments
-    containing detailed descriptions of generic jitter files and a reference speech
-    sample (see Annex F). "
+  content: "Recommendation ITU-T P.565 provides the output of the framework which is a machine learning \r\nbased speech quality prediction model that predicts the impact on the speech quality from the Internet \r\nprotocol (IP) transport and underlying transport, as well as the jitter buffer in the end client; thus \r\nproviding a network centric view on the speech quality service delivered on mobile packet switched \r\nnetworks. This is expressed in terms of a mean opinion score-listening quality objective (MOS-LQO) \r\nunder the assumption of an otherwise clean transmission, without background noise, automatic gain \r\ncontrol, voice enhancement devices, transcoding, bridging, frequency response, clock drift or any \r\nother impairment not caused by the IP transport and underlying transport. The models according to \r\nthis framework use information on the temporal structure of the reference signal to identify the \r\nimportance of individual sections of the bitstream with regard to speech quality. These models do not \r\nperform any perceptual analysis of the recorded speech signal.  \r\n\r\nThe framework specifies three modules required for the development of these kinds of metrics: the \r\ndatabases generator module, the machine learning module, and the validation module for the trained \r\nmodel. In addition, the database content and the features used by the machine learning algorithm are \r\ndescribed. The framework also provides a large set of test vectors, in the form of error (jitter and packet \r\nloss) patterns files for learning and validation. This Recommendation specifies the minimum required \r\nperformance, as well as conditions and requirements for an independent additional validation for \r\nmodels developed based on the framework. The Recommendation also specifies implementation \r\nrequirements.  \r\n\r\nThe models developed based on the framework enable the assessment of transmission network impact \r\non speech quality for mobile packet-switched voice services, and therefore benefit operators and \r\nregulators alike with a fast and easy speech quality trend monitoring/benchmarking and \r\ntroubleshooting. In addition, if predictors according to this framework are used together with \r\nperceptual speech quality metrics like [ITU-T P.863], it is possible to identify if the source of problems \r\nresides inside or outside the transport network observed by the predictor according to this framework. \r\n\r\nConsequently, a more detailed analysis of the situation can be achieved and troubleshooting of less \r\nobvious degradations such as the ones occurring outside of the transport network (e.g., emerged from \r\nautomatic gain control, voice enhancement devices, transcoding or analogue processing) is enabled. \r\n\r\nThis Recommendation includes electronic attachments containing detailed descriptions of generic jitter files and a reference speech sample (see Annex F). "
 status:
   stage:
     content: Withdrawal
@@ -108,9 +69,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Framework for creation and performance testing of machine learning
-        based models for the assessment of transmission network impact on speech quality
-        for mobile packet-switched voice services
+      content: Framework for creation and performance testing of machine learning based models for the assessment of transmission network impact on speech quality for mobile packet-switched voice services
     docidentifier:
     - content: P.565 (11/2021)
       type: ITU
@@ -120,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations relating to transmission characteristics for analogue
-        handset telephones
+      content: Considerations relating to transmission characteristics for analogue handset telephones
     docidentifier:
     - content: P Suppl. 10 (11/1988)
       type: ITU
@@ -131,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for placement of microphones and loudspeakers in telephone
-        conference rooms and for group audio terminals (GATs)
+      content: Guidelines for placement of microphones and loudspeakers in telephone conference rooms and for group audio terminals (GATs)
     docidentifier:
     - content: P Suppl. 16 (11/1988)
       type: ITU
@@ -142,8 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Examples of measurements of handset receive-frequency responses: dependence
-        on earcap leakage losses'
+      content: 'Examples of measurements of handset receive-frequency responses: dependence on earcap leakage losses'
     docidentifier:
     - content: P Suppl. 20 (03/1993)
       type: ITU
@@ -183,8 +139,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
-        telemeeting quality
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty telemeeting quality
     docidentifier:
     - content: P Suppl. 26 (09/2017)
       type: ITU
@@ -194,8 +149,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations for the development of new QoS and QoE related objective
-        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+      content: Considerations for the development of new QoS and QoE related objective models to be embedded in Recommendations prepared by ITU-T Study Group 12
     docidentifier:
     - content: P Suppl. 28 (09/2020)
       type: ITU
@@ -205,8 +159,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Subjective quality evaluation of audiovisual communication in videotelephony
-        services
+      content: Subjective quality evaluation of audiovisual communication in videotelephony services
     docidentifier:
     - content: P Suppl. 31 (01/2025)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTE2122016Amd1072018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: New Appendix on shared E.212 Mobile Country Code (MCC) 999 for internal
-    use within a private network
+  content: New Appendix on shared E.212 Mobile Country Code (MCC) 999 for internal use within a private network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.212-201807-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/13868
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.212-201807-S!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.212 (2016) Amd. 1 (07/2018)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T E.212 defines a unique international identification
-    plan for public fixed and mobile networks providing users with access to public
-    telecommunication services. The ITU-T E.212 identification plan was originally
-    developed for use in public land mobile networks (PLMNs). The plan is hierarchical
-    and identifies geographic areas, networks and subscriptions. The main body of
-    this Recommendation describes the pure identification plan. \r\n\r\nAmendment
-    1 introduces a new Appendix III on shared ITU-T E.212 mobile country code (MCC)
-    999 for internal use within a private network.\r\n"
+  content: "Recommendation ITU-T E.212 defines a unique international identification plan for public fixed and mobile networks providing users with access to public telecommunication services. The ITU-T E.212 identification plan was originally developed for use in public land mobile networks (PLMNs). The plan is hierarchical and identifies geographic areas, networks and subscriptions. The main body of this Recommendation describes the pure identification plan. \r\n\r\nAmendment 1 introduces a new Appendix III on shared ITU-T E.212 mobile country code (MCC) 999 for internal use within a private network.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -88,10 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Annex H: Criteria and procedures for the assignment and reclamation
-        of shared ITU-T E.212 mobile country codes (MCC) for regional and other international
-        organizations (ROIO)/standards development organization (SDO)-specified networks
-        and their respective mobile network codes (MNCs)'
+      content: 'Annex H: Criteria and procedures for the assignment and reclamation of shared ITU-T E.212 mobile country codes (MCC) for regional and other international organizations (ROIO)/standards development organization (SDO)-specified networks and their respective mobile network codes (MNCs)'
     docidentifier:
     - content: E.212 (2016) Amd. 3 (12/2020)
       type: ITU
@@ -101,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex G - Assignment of shared E.212 mobile country codes (MCC)
-        for trials
+      content: New Annex G - Assignment of shared E.212 mobile country codes (MCC) for trials
     docidentifier:
     - content: E.212 (2016) Amd. 2 (06/2020)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex E: The use of an MCC+MNC in a country other than the
-        country to which the MCC has been assigned by the Director of TSB'
+      content: 'Revised Annex E: The use of an MCC+MNC in a country other than the country to which the MCC has been assigned by the Director of TSB'
     docidentifier:
     - content: E.212 (2008) Amd. 3 (06/2011)
       type: ITU
@@ -163,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Annexes to the international identification plan for mobile terminals
-        and mobile users
+      content: Annexes to the international identification plan for mobile terminals and mobile users
     docidentifier:
     - content: E.212 (2004) Amd. 1 (02/2007)
       type: ITU
@@ -174,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The international identification plan for mobile terminals and mobile
-        users
+      content: The international identification plan for mobile terminals and mobile users
     docidentifier:
     - content: E.212 (05/2004)
       type: ITU
@@ -193,9 +179,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'New Annex A: Criteria and procedures for the assignment and reclamation
-        of shared E.212 mobile country codes (MCC) and their respective mobile network
-        codes (MNCs)'
+      content: 'New Annex A: Criteria and procedures for the assignment and reclamation of shared E.212 mobile country codes (MCC) and their respective mobile network codes (MNCs)'
     docidentifier:
     - content: E.212 (1998) Amd. 1 (05/2003)
       type: ITU
@@ -205,8 +189,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The international identification plan for mobile terminals and mobile
-        users
+      content: The international identification plan for mobile terminals and mobile users
     docidentifier:
     - content: E.212 (11/1998)
       type: ITU
@@ -236,8 +219,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTM3411032025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: User identity and access management requirements for telecommunication
-    management networks
+  content: User identity and access management requirements for telecommunication management networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3411-202503-I
+  content: https://handle.itu.int/11.1002/1000/16286
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3411-202503-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3411 (03/2025)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3411 specifies the user identity and access management
-    requirements for telecommunication management networks (TMNs). It mainly consists
-    of the architecture and the functional requirements for identity and access management
-    (IAM) in TMN, which include identity management functions and access management
-    functions.\r\nThis Recommendation applies to the guidance of the design and development
-    of IAM solutions for TMN.\r\n"
+  content: "Recommendation ITU-T M.3411 specifies the user identity and access management requirements for telecommunication management networks (TMNs). It mainly consists of the architecture and the functional requirements for identity and access management (IAM) in TMN, which include identity management functions and access management functions.\r\nThis Recommendation applies to the guidance of the design and development of IAM solutions for TMN.\r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTY3154042020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Resource pooling for scalable network slice service management and orchestration
-    in the IMT-2020 network
+  content: Resource pooling for scalable network slice service management and orchestration in the IMT-2020 network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3154-202004-I
+  content: https://handle.itu.int/11.1002/1000/14254
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3154-202004-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3154 (04/2020)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Managing the lifecycle of network slices has recently attracted much attention
-    as well as constructing end-to-end network slices. Especially, the agility and
-    flexibility in resource allocation to network slices becomes more important for
-    rapid service delivery to network slice service customers in the International
-    Mobile Telecommunications-2020 (IMT-2020) network. Recommendation ITU-T Y.3154
-    describes scalable service management and orchestration framework using the middle
-    layer named \"resource pool\", which intensively stores a variety of virtual resources
-    information collected from the underlying infrastructure layer relevant to network
-    slice instances (NSIs). NSIs can be created from the resources reserved according
-    to a network slice service demand forecast. The proposed approach in Recommendation
-    ITU-T Y.3154 is generic and thus applicable to a wide variety of organizational
-    entities in network slicing, such as a network infrastructure provider, network
-    slice provider, network slice service provider and network slice service customer.
-    \r\n"
+  content: "Managing the lifecycle of network slices has recently attracted much attention as well as constructing end-to-end network slices. Especially, the agility and flexibility in resource allocation to network slices becomes more important for rapid service delivery to network slice service customers in the International Mobile Telecommunications-2020 (IMT-2020) network. Recommendation ITU-T Y.3154 describes scalable service management and orchestration framework using the middle layer named \"resource pool\", which intensively stores a variety of virtual resources information collected from the underlying infrastructure layer relevant to network slice instances (NSIs). NSIs can be created from the resources reserved according to a network slice service demand forecast. The proposed approach in Recommendation ITU-T Y.3154 is generic and thus applicable to a wide variety of organizational entities in network slicing, such as a network infrastructure provider, network slice provider, network slice service provider and network slice service customer. \r\n"
 status:
   stage:
     content: Published
@@ -84,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization and open source activities related to network softwarization
-        of IMT-2020
+      content: Standardization and open source activities related to network softwarization of IMT-2020
     docidentifier:
     - content: Y Suppl. 44 (07/2017)
       type: ITU
@@ -115,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3100-series – Awareness on use cases and migration aspects
-        of IMT-2020
+      content: ITU-T Y.3100-series – Awareness on use cases and migration aspects of IMT-2020
     docidentifier:
     - content: Y Suppl. 64 (07/2020)
       type: ITU
@@ -136,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -167,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -178,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -189,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -200,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -231,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3100-series – Guidance for migrating existing mobile network
-        technologies to IMT-2020 and beyond
+      content: ITU-T Y.3100-series – Guidance for migrating existing mobile network technologies to IMT-2020 and beyond
     docidentifier:
     - content: Y Suppl. 111 (07/2026)
       type: ITU

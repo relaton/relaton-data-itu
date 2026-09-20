@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl22062013
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2200-series - Greenhouse gas monitoring services provided over
-    NGN
+  content: ITU-T Y.2200-series - Greenhouse gas monitoring services provided over NGN
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup22-201306-I
+  content: https://handle.itu.int/11.1002/1000/11975
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup22-201306-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 22 (06/2013)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Information communication technologies (ICTs) play an important role with
-    regard to greenhouse gas (GHG) monitoring. GHG monitoring is an integral part
-    of the global initiative to reduce greenhouse gases in an attempt to resolve climate
-    change issues. The next generation network (NGN) is considered to be a communications
-    platform suited to support the GHG monitoring task. This supplement describes
-    general aspects of the GHG monitoring issue, and it provides requirements and
-    required functions. In addition, a service model and functional architecture for
-    a GHG monitoring service are presented. NGN-based GHG monitoring service scenarios
-    are also presented.
+  content: Information communication technologies (ICTs) play an important role with regard to greenhouse gas (GHG) monitoring. GHG monitoring is an integral part of the global initiative to reduce greenhouse gases in an attempt to resolve climate change issues. The next generation network (NGN) is considered to be a communications platform suited to support the GHG monitoring task. This supplement describes general aspects of the GHG monitoring issue, and it provides requirements and required functions. In addition, a service model and functional architecture for a GHG monitoring service are presented. NGN-based GHG monitoring service scenarios are also presented.
 status:
   stage:
     content: Published

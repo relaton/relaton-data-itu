@@ -1,16 +1,16 @@
----
 id: ITUTXSuppl33092018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1231 - Supplement on technical framework for countering telephone
-    service scams
+  content: ITU-T X.1231 - Supplement on technical framework for countering telephone service scams
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup33-201809-I
+  content: https://handle.itu.int/11.1002/1000/13731
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup33-201809-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 33 (09/2018)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement provides an overall technical framework and related best
-    practices for countering telephone service scams. In the framework, entity functions
-    and processing procedures are specified. The best practices cover those found
-    to be the most effective in stopping known telephone service scam methods. In
-    addition, this Supplement specifies the characteristics and sources of the telephone
-    service scams and categorizes their main methods and relevant technical requirements
-    according to the key technologies of the telephone service scam discovery, judgment
-    and disposition.
+  content: This Supplement provides an overall technical framework and related best practices for countering telephone service scams. In the framework, entity functions and processing procedures are specified. The best practices cover those found to be the most effective in stopping known telephone service scam methods. In addition, this Supplement specifies the characteristics and sources of the telephone service scams and categorizes their main methods and relevant technical requirements according to the key technologies of the telephone service scam discovery, judgment and disposition.
 status:
   stage:
     content: Published

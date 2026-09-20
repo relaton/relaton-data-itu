@@ -1,16 +1,16 @@
----
 id: ITUTE1651101996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Use of escape code "0" within the E.164 numbering plan during the transition
-    period to implementation of NPI mechanism
+  content: Use of escape code "0" within the E.164 numbering plan during the transition period to implementation of NPI mechanism
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.165.1-199610-I
+  content: https://handle.itu.int/11.1002/1000/3700
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.165.1-199610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.165.1 (10/1996)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the use of escape code "0" within the E.164
-    numbering plan in order to facilitate number plan interworking during the transition
-    period to implementation of the NPI mechanism.
+  content: This Recommendation describes the use of escape code "0" within the E.164 numbering plan in order to facilitate number plan interworking during the transition period to implementation of the NPI mechanism.
 status:
   stage:
     content: Published
@@ -73,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.100 series – Framework of disaster management for disaster
-        relief system
+      content: ITU-T E.100 series – Framework of disaster management for disaster relief system
     docidentifier:
     - content: E-100 series Suppl. 1 (02/2019)
       type: ITU
@@ -84,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

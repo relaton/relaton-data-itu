@@ -1,10 +1,11 @@
----
 id: ITUTT901992Amd1111994
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.90-199411-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/2639
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.90-199411-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.90 (1992) Amd. 1 (11/1994)
   type: ITU
@@ -45,18 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the functional profile for base standards ISO/IEC
-    7776, 8208 and 8885 to provide the lower layers of the telematic services stack
-    when operating on the ISDN. Attention is also paid to the terminal selection procedure
-    related to telematic services using protocols other than the above e.g. group
-    3 document facsimile transmission over the ISDN.Parameter values are recommended
-    to ensure good throughput when operating via long delay connections such as satellite
-    routes. Backward compatibility with the Blue Book version has been maintained.Three
-    methods of negotiating the lower layer parameter values have been included to
-    satisfy various connection scenarios, e.g. completely within the ISDN or between
-    the ISDN and other digital networks.This Recommendation supplies the network layer
-    definition in Recommendation T.70 for telematic terminals but not the transport
-    layer definition which is still retained as the telematic transport layer definition.
+  content: This Recommendation defines the functional profile for base standards ISO/IEC 7776, 8208 and 8885 to provide the lower layers of the telematic services stack when operating on the ISDN. Attention is also paid to the terminal selection procedure related to telematic services using protocols other than the above e.g. group 3 document facsimile transmission over the ISDN.Parameter values are recommended to ensure good throughput when operating via long delay connections such as satellite routes. Backward compatibility with the Blue Book version has been maintained.Three methods of negotiating the lower layer parameter values have been included to satisfy various connection scenarios, e.g. completely within the ISDN or between the ISDN and other digital networks.This Recommendation supplies the network layer definition in Recommendation T.70 for telematic terminals but not the transport layer definition which is still retained as the telematic transport layer definition.
 status:
   stage:
     content: Published
@@ -94,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Characteristics and protocols for terminals for telematic services
-        in ISDN
+      content: Characteristics and protocols for terminals for telematic services in ISDN
     docidentifier:
     - content: T.90 (02/1992)
       type: ITU
@@ -105,8 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Characteristics and protocols for terminals for telematic services
-        in ISDN
+      content: Characteristics and protocols for terminals for telematic services in ISDN
     docidentifier:
     - content: T.90 (11/1988)
       type: ITU

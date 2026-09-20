@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl80032026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signalling requirements for broadband network gateway pool based on function
-    decoupling
+  content: Signalling requirements for broadband network gateway pool based on function decoupling
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup80-202603-I
+  content: https://handle.itu.int/11.1002/1000/16810
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup80-202603-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 80 (03/2026)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Following the architecture and signalling requirements for the broadband
-    network gateway (BNG) pool defined in Recommendation ITU-T Q.3713, Supplement
-    80 to the ITU-T Q-series Recommendations provides the architecture and scenarios
-    of the BNG pool based on function decoupling, demonstrates the signalling requirements
-    for life cycle management and service configuration and describes signalling procedures
-    for service creation, service update and service deletion.\r\n"
+  content: "Following the architecture and signalling requirements for the broadband network gateway (BNG) pool defined in Recommendation ITU-T Q.3713, Supplement 80 to the ITU-T Q-series Recommendations provides the architecture and scenarios of the BNG pool based on function decoupling, demonstrates the signalling requirements for life cycle management and service configuration and describes signalling procedures for service creation, service update and service deletion.\r\n"
 status:
   stage:
     content: Published

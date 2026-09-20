@@ -1,16 +1,16 @@
----
 id: ITUTI4323021999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'B-ISDN user-network interface – Physical layer specification : 1544 kbit/s
-    and 2048 kbit/s operation'
+  content: 'B-ISDN user-network interface – Physical layer specification : 1544 kbit/s and 2048 kbit/s operation'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.432.3-199902-I
+  content: https://handle.itu.int/11.1002/1000/4569
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.432.3-199902-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.432.3 (02/1999)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation covers Physical Layer characteristics for transporting
-    ATM cells using existing Primary Rate ISDN systems. It includes both 1544 and
-    2048 kbit/s interfaces at the TB and SB reference points of the B-ISDN User-Network
-    Interface (UNI). These Physical Layer characteristics may be used to take advantage
-    of existing transmission equipment and building wiring.This Recommendation is
-    part of the I.432-series, and includes references to Recommendation I.432.1 on
-    general characteristics, and Recommendation I.432.2 on OAM aspects.
+  content: This Recommendation covers Physical Layer characteristics for transporting ATM cells using existing Primary Rate ISDN systems. It includes both 1544 and 2048 kbit/s interfaces at the TB and SB reference points of the B-ISDN User-Network Interface (UNI). These Physical Layer characteristics may be used to take advantage of existing transmission equipment and building wiring.This Recommendation is part of the I.432-series, and includes references to Recommendation I.432.1 on general characteristics, and Recommendation I.432.2 on OAM aspects.
 status:
   stage:
     content: Published
@@ -77,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'B-ISDN user-network interface – Physical layer specification : 1544
-        kbit/s and 2048 kbit/s operation'
+      content: 'B-ISDN user-network interface – Physical layer specification : 1544 kbit/s and 2048 kbit/s operation'
     docidentifier:
     - content: I.432.3 (08/1996)
       type: ITU
@@ -88,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

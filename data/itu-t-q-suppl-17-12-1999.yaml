@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl17121999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.2200: Call control signalling requirements – Party
-    call control'
+  content: 'Technical Report TRQ.2200: Call control signalling requirements – Party call control'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup17-199912-I
+  content: https://handle.itu.int/11.1002/1000/4998
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup17-199912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 17 (12/1999)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement specifies the signalling requirements for the basic call
-    control capability. The call control functional entity actions are defined in
-    terms of information flows.This Supplement is intended to specify the essential
-    UNI and NNI interactions required to develop call control functional entity actions.
+  content: This Supplement specifies the signalling requirements for the basic call control capability. The call control functional entity actions are defined in terms of information flows.This Supplement is intended to specify the essential UNI and NNI interactions required to develop call control functional entity actions.
 status:
   stage:
     content: Published

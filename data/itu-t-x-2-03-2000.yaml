@@ -1,16 +1,16 @@
----
 id: ITUTX2032000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: International data transmission services and optional user facilities in
-    public data networks and ISDNs
+  content: International data transmission services and optional user facilities in public data networks and ISDNs
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.2-200003-I
+  content: https://handle.itu.int/11.1002/1000/5013
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.2-200003-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.2 (03/2000)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes international data transmission services
-    (leased circuit, circuit switched, packet switched, and frame relay) and optional
-    user facilities in public data networks and ISDNs. This revision includes optional
-    user facilities for priority and service classes aspects of frame relay data transmission
-    service. The revision also takes into account the addressing aspects connected
-    with the using of E.164 Escape Code "0".
+  content: This Recommendation describes international data transmission services (leased circuit, circuit switched, packet switched, and frame relay) and optional user facilities in public data networks and ISDNs. This revision includes optional user facilities for priority and service classes aspects of frame relay data transmission service. The revision also takes into account the addressing aspects connected with the using of E.164 Escape Code "0".
 status:
   stage:
     content: Published
@@ -76,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: International data transmission services and optional user facilities
-        in public data networks and ISDNs
+      content: International data transmission services and optional user facilities in public data networks and ISDNs
     docidentifier:
     - content: X.2 (10/1996)
       type: ITU
@@ -87,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: International data transmission services and optional user facilities
-        in public data networks and ISDNs
+      content: International data transmission services and optional user facilities in public data networks and ISDNs
     docidentifier:
     - content: X.2 (03/1993)
       type: ITU
@@ -98,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: International data transmission services and optional user facilities
-        in public data networks and ISDNs
+      content: International data transmission services and optional user facilities in public data networks and ISDNs
     docidentifier:
     - content: X.2 (11/1988)
       type: ITU
@@ -109,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: International data transmission services and optional user facilities
-        in public data networks
+      content: International data transmission services and optional user facilities in public data networks
     docidentifier:
     - content: X.2 (10/1984)
       type: ITU

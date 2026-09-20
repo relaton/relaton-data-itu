@@ -1,16 +1,16 @@
----
 id: ITUTT412031993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Document Architecture (ODA) and interchange
-    format: Document structures'
+  content: 'Information technology – Open Document Architecture (ODA) and interchange format: Document structures'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.412-199303-I
+  content: https://handle.itu.int/11.1002/1000/2538
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.412-199303-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.412 (03/1993)
   type: ITU
@@ -117,8 +117,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Open document architecture (ODA) and interchange format – Document
-        structures
+      content: Open document architecture (ODA) and interchange format – Document structures
     docidentifier:
     - content: T.412 (11/1988)
       type: ITU

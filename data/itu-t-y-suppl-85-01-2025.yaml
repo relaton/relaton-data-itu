@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl85012025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-    aquaculture
+  content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart aquaculture
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup85-202501-I
+  content: https://handle.itu.int/11.1002/1000/16217
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup85-202501-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 85 (01/2025)
   type: ITU
@@ -51,27 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "As global food demands rise, challenges such as climate change, water
-    scarcity, and overfishing are increasingly impacting the aquaculture industry.
-    Smart aquaculture addresses these issues by employing advanced technologies to
-    manage aquatic ecosystems sustainably. Using precise data on water quality, fish
-    health and environmental conditions, smart aquaculture systems enable real-time
-    monitoring and adjustments to ensure optimal growth conditions, thereby reducing
-    resource use and minimizing environmental impact.\r\nThrough technologies such
-    as Internet of things (IoT), artificial intelligence (AI) and robotics, smart
-    aquaculture enhances productivity and fish welfare across various environments,
-    including offshore cages, inland ponds, and more. The complexity of device interactions
-    within these systems highlights the importance of interoperability, making it
-    essential to assess existing and emerging technologies in the field. For this
-    reason, it is necessary to survey existing and forthcoming smart aquaculture technologies,
-    after which, based on the survey results, meaningful standardization work items
-    may be developed.\r\nSupplement 85 to the ITU-T Y-series Recommendations surveys
-    use cases related to smart aquaculture, from the perspective of, but not limited
-    to:\r\n1)IoT-based and AI-based monitoring and automation for fish farming, \r\n2)IoT-based
-    water quality management for fish farming, \r\n3)IoT-based and AI-based water
-    quality optimization for sustainable aquaculture, \r\n4)IoT-based growth management
-    of fish, \r\n5)Autonomous feeding control based on IoT and AI technologies, and
-    \r\n6)IoT-based and AI-based smart energy management for fish farming.\r\n"
+  content: "As global food demands rise, challenges such as climate change, water scarcity, and overfishing are increasingly impacting the aquaculture industry. Smart aquaculture addresses these issues by employing advanced technologies to manage aquatic ecosystems sustainably. Using precise data on water quality, fish health and environmental conditions, smart aquaculture systems enable real-time monitoring and adjustments to ensure optimal growth conditions, thereby reducing resource use and minimizing environmental impact.\r\nThrough technologies such as Internet of things (IoT), artificial intelligence (AI) and robotics, smart aquaculture enhances productivity and fish welfare across various environments, including offshore cages, inland ponds, and more. The complexity of device interactions within these systems highlights the importance of interoperability, making it essential to assess existing and emerging technologies in the field. For this reason, it is necessary to survey existing and forthcoming smart aquaculture technologies, after which, based on the survey results, meaningful standardization work items may be developed.\r\nSupplement 85 to the ITU-T Y-series Recommendations surveys use cases related to smart aquaculture, from the perspective of, but not limited to:\r\n1)IoT-based and AI-based monitoring and automation for fish farming, \r\n2)IoT-based water quality management for fish farming, \r\n3)IoT-based and AI-based water quality optimization for sustainable aquaculture, \r\n4)IoT-based growth management of fish, \r\n5)Autonomous feeding control based on IoT and AI technologies, and \r\n6)IoT-based and AI-based smart energy management for fish farming.\r\n"
 status:
   stage:
     content: Published

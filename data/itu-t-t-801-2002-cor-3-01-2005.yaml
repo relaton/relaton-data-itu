@@ -1,10 +1,11 @@
----
 id: ITUTT8012002Cor3012005
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.801-200501-S!Cor3
+  content: https://handle.itu.int/11.1002/1000/7458
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.801-200501-S!Cor3!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.801 (2002) Cor. 3 (01/2005)
   type: ITU
@@ -48,10 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Corrigendum provides corrections to the descriptions of the Animation
-    and Compositing data structures within the JPX file format.NOTE - ISO/IEC 15444-2
-    Amendment 1 and Technical Corrigenda 1 and 2 are already integrated in T.801 approved
-    by ITU-T on 2002-08.
+  content: This Corrigendum provides corrections to the descriptions of the Animation and Compositing data structures within the JPX file format.NOTE - ISO/IEC 15444-2 Amendment 1 and Technical Corrigenda 1 and 2 are already integrated in T.801 approved by ITU-T on 2002-08.
 status:
   stage:
     content: Withdrawal
@@ -91,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Box-based file format for JPEG XR, extended ROI boxes, XML boxing,
-        compressed channel definition boxes, and representation of floating point
+      content: Box-based file format for JPEG XR, extended ROI boxes, XML boxing, compressed channel definition boxes, and representation of floating point
     docidentifier:
     - content: T.801 (2002) Amd. 3 (03/2013)
       type: ITU

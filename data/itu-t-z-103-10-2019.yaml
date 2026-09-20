@@ -1,16 +1,16 @@
----
 id: ITUTZ103102019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specification and Description Language - Shorthand notation and annotation
-    in SDL-2010
+  content: Specification and Description Language - Shorthand notation and annotation in SDL-2010
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Z.103-201910-S
+  content: https://handle.itu.int/11.1002/1000/14054
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Z.103-201910-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Z.103 (10/2019)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Z.103 defines the shorthand and annotation features
-    of the Specification and Description Language. Together with Recommendations ITU-T
-    Z.100, ITU-T Z.101, ITU-T Z.102, ITU-T Z.104, ITU-T Z.105, ITU‑T Z.106 and ITU-T
-    Z.107, this Recommendation is part of a reference manual for the language. The
-    language defined in this document covers features of the language not included
-    in Basic SDL‑2010 in Recommendation ITU‑TZ.101 or Comprehensive SDL‑2010 in Recommendation
-    ITU-T Z.102. Features defined in this Recommendation either do not have their
-    own abstract grammar and are transformed to concrete grammar defined by Recommendations
-    ITU‑T Z.101, ITU‑T Z.102 and ITU-T Z.104 (and ITU-T Z.107 for object‑oriented
-    data), or are annotations with no formal meaning.
+  content: Recommendation ITU-T Z.103 defines the shorthand and annotation features of the Specification and Description Language. Together with Recommendations ITU-T Z.100, ITU-T Z.101, ITU-T Z.102, ITU-T Z.104, ITU-T Z.105, ITU‑T Z.106 and ITU-T Z.107, this Recommendation is part of a reference manual for the language. The language defined in this document covers features of the language not included in Basic SDL‑2010 in Recommendation ITU‑TZ.101 or Comprehensive SDL‑2010 in Recommendation ITU-T Z.102. Features defined in this Recommendation either do not have their own abstract grammar and are transformed to concrete grammar defined by Recommendations ITU‑T Z.101, ITU‑T Z.102 and ITU-T Z.104 (and ITU-T Z.107 for object‑oriented data), or are annotations with no formal meaning.
 status:
   stage:
     content: Withdrawal
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - Shorthand notation and annotation
-        in SDL-2010
+      content: Specification and Description Language - Shorthand notation and annotation in SDL-2010
     docidentifier:
     - content: Z.103 (06/2021)
       type: ITU
@@ -91,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - Shorthand notation and annotation
-        in SDL-2010
+      content: Specification and Description Language - Shorthand notation and annotation in SDL-2010
     docidentifier:
     - content: Z.103 (04/2016)
       type: ITU
@@ -102,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - Shorthand notation and annotation
-        in SDL-2010
+      content: Specification and Description Language - Shorthand notation and annotation in SDL-2010
     docidentifier:
     - content: Z.103 (12/2011)
       type: ITU
@@ -113,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

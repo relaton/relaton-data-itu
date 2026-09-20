@@ -1,16 +1,16 @@
----
 id: ITUTE164Suppl3052002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Operational and administrative issues associated with national implementations
-    of the ENUM functions
+  content: Operational and administrative issues associated with national implementations of the ENUM functions
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.164-200205-S!Sup3
+  content: https://handle.itu.int/11.1002/1000/6095
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.164-200205-S!Sup3!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.164 Suppl. 3 (05/2002)
   type: ITU
@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement provides an overview of the ENUM concept, as defined by
-    the IETF in RFC 2916, that maps telephone numbers into a set of universal resource
-    identifiers for use on IP-based networks. It describes various issues that are
-    national matters and that need to be addressed by Administrations as they consider
-    the inclusion of the portion of the E.164 numbering plan under their jurisdiction
-    within the Domain Name System (DNS; see RFC 1591) as part of the one such envisaged
-    implementation described by RFC 2916. This Supplement also describes various issues
-    that are of interest to, and that need to be addressed by, assignees of E.164
-    Country Codes for geographic areas (also CCs for trials).NOTE - As of the date
-    of publication of this Supplement, the insertion of E.164 numbers in a particular
-    Top Level Domain (TLD) (e.g., in .e164.arpa as described in RFC 2916) and the
-    designation of an ENUM Tier 0 Registry (presently RIPE-NCC) remained open issues
-    within the ITU-T. The approach followed in this Supplement is to refer to the
-    domain in which is the ENUM Root Level as ".e164.TLD", and to refer generically
-    to the entity that is the Registry at this level.
+  content: This Supplement provides an overview of the ENUM concept, as defined by the IETF in RFC 2916, that maps telephone numbers into a set of universal resource identifiers for use on IP-based networks. It describes various issues that are national matters and that need to be addressed by Administrations as they consider the inclusion of the portion of the E.164 numbering plan under their jurisdiction within the Domain Name System (DNS; see RFC 1591) as part of the one such envisaged implementation described by RFC 2916. This Supplement also describes various issues that are of interest to, and that need to be addressed by, assignees of E.164 Country Codes for geographic areas (also CCs for trials).NOTE - As of the date of publication of this Supplement, the insertion of E.164 numbers in a particular Top Level Domain (TLD) (e.g., in .e164.arpa as described in RFC 2916) and the designation of an ENUM Tier 0 Registry (presently RIPE-NCC) remained open issues within the ITU-T. The approach followed in this Supplement is to refer to the domain in which is the ENUM Root Level as ".e164.TLD", and to refer generically to the entity that is the Registry at this level.
 status:
   stage:
     content: Withdrawal
@@ -105,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidance with regard to the selection of numbers for helplines for
-        children
+      content: Guidance with regard to the selection of numbers for helplines for children
     docidentifier:
     - content: E.164 Suppl. 5 (11/2009)
       type: ITU
@@ -116,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex A: Clarification and explanation of the structure and
-        function of international ITU-T E.164-numbers'
+      content: 'Revised Annex A: Clarification and explanation of the structure and function of international ITU-T E.164-numbers'
     docidentifier:
     - content: E.164 (2010) Amd. 1 (06/2011)
       type: ITU
@@ -135,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with the implementation
-        of ENUM for non-geographic country codes
+      content: Operational and administrative issues associated with the implementation of ENUM for non-geographic country codes
     docidentifier:
     - content: E.164 Suppl. 4 (05/2004)
       type: ITU
@@ -154,8 +137,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with national implementations
-        of the ENUM functions
+      content: Operational and administrative issues associated with national implementations of the ENUM functions
     docidentifier:
     - content: E.164 Suppl. 3 (05/2004)
       type: ITU
@@ -205,8 +187,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidance with regard to the selection of numbers for helplines for
-        children
+      content: Guidance with regard to the selection of numbers for helplines for children
     docidentifier:
     - content: E.164 Suppl. 5 (05/2008)
       type: ITU
@@ -246,8 +227,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with the implementation
-        of ENUM for non-geographic country codes
+      content: Operational and administrative issues associated with the implementation of ENUM for non-geographic country codes
     docidentifier:
     - content: E.164 Suppl. 4 (05/2003)
       type: ITU

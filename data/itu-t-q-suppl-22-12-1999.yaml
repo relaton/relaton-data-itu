@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl22121999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.3000: Operation of the bearer independant call control
-    (BICC) protocol with digital subscriber signalling system No. 2 (DSS2)'
+  content: 'Technical Report TRQ.3000: Operation of the bearer independant call control (BICC) protocol with digital subscriber signalling system No. 2 (DSS2)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup22-199912-I
+  content: https://handle.itu.int/11.1002/1000/5003
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup22-199912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 22 (12/1999)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement to ITU-T Recommendation Q.1901 specifies the general aspects
-    of Bearer Independent Call Control (BICC) protocol mapping with Digital Subscriber
-    Signalling System No. 2 (DSS2) for AAL Type 1 bearer.
+  content: This Supplement to ITU-T Recommendation Q.1901 specifies the general aspects of Bearer Independent Call Control (BICC) protocol mapping with Digital Subscriber Signalling System No. 2 (DSS2) for AAL Type 1 bearer.
 status:
   stage:
     content: Published

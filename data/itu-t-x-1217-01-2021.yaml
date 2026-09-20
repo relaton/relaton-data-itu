@@ -1,16 +1,16 @@
----
 id: ITUTX1217012021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines for applying threat intelligence in telecommunication network
-    operation
+  content: Guidelines for applying threat intelligence in telecommunication network operation
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1217-202101-I
+  content: https://handle.itu.int/11.1002/1000/14443
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1217-202101-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1217 (01/2021)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Threat intelligence from a telecommunication operator's point of view
-    is a collection of organized, analysed, and refined information about potential
-    and current attacks that may threaten an organization. This information can also
-    include attackers' motivations, intentions, characteristics, and methods, along
-    with their modus operandi or techniques, tactics, and procedures.\r\nIn the network
-    and information security area, the occurrence of large-scale and unexpected cybersecurity
-    incidents has triggered the urgent need for threat intelligence. Threat intelligence
-    can help an organization to reduce risk and improve its overall security. A unified
-    taxonomy, grammar, and presentation of threat intelligence has been defined so
-    that threat intelligence can be shared between different organizations.\r\nRecommendation
-    ITU-T X.1217 specifies guidelines for applying threat intelligence in telecommunication
-    network operation after an overview analysis."
+  content: "Threat intelligence from a telecommunication operator's point of view is a collection of organized, analysed, and refined information about potential and current attacks that may threaten an organization. This information can also include attackers' motivations, intentions, characteristics, and methods, along with their modus operandi or techniques, tactics, and procedures.\r\nIn the network and information security area, the occurrence of large-scale and unexpected cybersecurity incidents has triggered the urgent need for threat intelligence. Threat intelligence can help an organization to reduce risk and improve its overall security. A unified taxonomy, grammar, and presentation of threat intelligence has been defined so that threat intelligence can be shared between different organizations.\r\nRecommendation ITU-T X.1217 specifies guidelines for applying threat intelligence in telecommunication network operation after an overview analysis."
 status:
   stage:
     content: Published

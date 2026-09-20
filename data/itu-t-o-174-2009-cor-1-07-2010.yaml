@@ -1,10 +1,11 @@
----
 id: ITUTO1742009Cor1072010
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-O.174-201007-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/10924
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-O.174-201007-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T O.174 (2009) Cor. 1 (07/2010)
   type: ITU
@@ -45,9 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Corrigendum 1 to Recommendation ITU-T O.174 contains material to correct
-    Recommendation ITU-T O.174, Jitter and wander measuring equipment for digital
-    systems which are based on synchronous Ethernet technology.
+  content: Corrigendum 1 to Recommendation ITU-T O.174 contains material to correct Recommendation ITU-T O.174, Jitter and wander measuring equipment for digital systems which are based on synchronous Ethernet technology.
 status:
   stage:
     content: Published
@@ -83,8 +82,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Jitter and wander measuring equipment for digital systems which are
-        based on synchronous Ethernet technology
+      content: Jitter and wander measuring equipment for digital systems which are based on synchronous Ethernet technology
     docidentifier:
     - content: O.174 (11/2009)
       type: ITU

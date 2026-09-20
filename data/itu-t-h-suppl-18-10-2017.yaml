@@ -1,16 +1,16 @@
----
 id: ITUTHSuppl18102017
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signalling, backward compatibility and display adaptation for HDR/WCG video
-    coding
+  content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.Sup18-201710-I
+  content: https://handle.itu.int/11.1002/1000/13441
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.Sup18-201710-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H Suppl. 18 (10/2017)
   type: ITU
@@ -51,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This supplement relates to high dynamic range (HDR) and wide colour gamut
-    (WCG) video distribution, based on the High Efficiency Video Coding (HEVC) standard
-    (Rec. ITU-T H.265 | ISO/IEC 23008-2), and when applicable on the Advanced Video
-    Coding (AVC) standard (Rec. ITU-T H.264 | ISO/IEC 14496-10). The document serves
-    several purposes. It provides a survey of the signalling mechanisms (video usability
-    information indicators and supplemental enhancement information messages) for
-    handling HDR/WCG video with HEVC, and when applicable, with AVC. It describes
-    example processing and coding chains for HDR/WCG video in different Rec. ITU-R
-    BT.2100 representations. It discusses single- and dual-layer approaches to enable
-    backward compatibility with standard dynamic range (SDR) systems. SDR systems
-    are defined as legacy decoding systems that do not have the ability to detect
-    and properly display HDR/WCG video content. It describes methods for adapting
-    HDR/WCG video content for use with display technology having different degrees
-    and types of dynamic range and colour gamut capability. \r\n\r\nThis Supplement
-    is technically aligned with ISO/IEC TR 23008-15 and it complements the material
-    provided in Supplement ITU-T H.Sup15 | ISO/IEC TR 23008-14, entitled Conversion
-    and Coding Practices for HDR/WCG Y′CbCr 4:2:0 Video with PQ Transfer Characteristics.\r\n"
+  content: "This supplement relates to high dynamic range (HDR) and wide colour gamut (WCG) video distribution, based on the High Efficiency Video Coding (HEVC) standard (Rec. ITU-T H.265 | ISO/IEC 23008-2), and when applicable on the Advanced Video Coding (AVC) standard (Rec. ITU-T H.264 | ISO/IEC 14496-10). The document serves several purposes. It provides a survey of the signalling mechanisms (video usability information indicators and supplemental enhancement information messages) for handling HDR/WCG video with HEVC, and when applicable, with AVC. It describes example processing and coding chains for HDR/WCG video in different Rec. ITU-R BT.2100 representations. It discusses single- and dual-layer approaches to enable backward compatibility with standard dynamic range (SDR) systems. SDR systems are defined as legacy decoding systems that do not have the ability to detect and properly display HDR/WCG video content. It describes methods for adapting HDR/WCG video content for use with display technology having different degrees and types of dynamic range and colour gamut capability. \r\n\r\nThis Supplement is technically aligned with ISO/IEC TR 23008-15 and it complements the material provided in Supplement ITU-T H.Sup15 | ISO/IEC TR 23008-14, entitled Conversion and Coding Practices for HDR/WCG Y′CbCr 4:2:0 Video with PQ Transfer Characteristics.\r\n"
 status:
   stage:
     content: Published

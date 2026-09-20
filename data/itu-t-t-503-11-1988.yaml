@@ -1,16 +1,16 @@
----
 id: ITUTT503111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: A document application profile for the interchange of Group 4 facsimile
-    documents
+  content: A document application profile for the interchange of Group 4 facsimile documents
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.503-198811-S
+  content: https://handle.itu.int/11.1002/1000/2578
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.503-198811-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.503 (11/1988)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document application profile for the interchange of Group 4 facsimile
-        documents
+      content: Document application profile for the interchange of Group 4 facsimile documents
     docidentifier:
     - content: T.503 (02/2000)
       type: ITU
@@ -97,8 +96,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Annex C: Extension for colour and gray-scale image documents using
-        Recommendation T.43'
+      content: 'Annex C: Extension for colour and gray-scale image documents using Recommendation T.43'
     docidentifier:
     - content: T.503 (1991) Amd. 3 (07/1997)
       type: ITU
@@ -116,8 +114,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Annex B: Extension for continuous-tone colour and gray-scale image
-        documents'
+      content: 'Annex B: Extension for continuous-tone colour and gray-scale image documents'
     docidentifier:
     - content: T.503 (1991) Amd. 1 (11/1994)
       type: ITU
@@ -127,8 +124,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: A document application profile for the interchange of Group 4 facsimile
-        documents
+      content: A document application profile for the interchange of Group 4 facsimile documents
     docidentifier:
     - content: T.503 (01/1991)
       type: ITU

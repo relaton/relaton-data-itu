@@ -1,4 +1,3 @@
----
 id: ITUTJ1109012019
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.1109-201901-I
+  content: https://handle.itu.int/11.1002/1000/13839
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.1109-201901-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.1109 (01/2019)
   type: ITU
@@ -50,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Keywords such as ultra-high-resolution content delivery, end-to-end access
-    service proliferation, high-speed transmission, and broadband transmission are
-    becoming the basic requirements that network providers who are responsible for
-    data transmission and receive should be accommodated.\r\n\r\nIn particularly,
-    as various IoT services, personal media, and cloud-based services become gradually
-    common, there is a demand for the high data rate by subscribers’.\r\n\r\nCable
-    networks are also undergoing various network evolution process to develop and
-    apply technologies that satisfy the requirements of the service ecosystem.\r\n\r\nCurrently,
-    cable broadcasting networks have limited upstream frequency bands that can transmit
-    data.\r\n\r\nIn order to overcome these limitations and enable symmetric upstream
-    and downstream transmission, we are developing in-band full-duplex (IFDX) transmission
-    technology that enables simultaneous transmission and reception in the same band.\r\n"
+  content: "Keywords such as ultra-high-resolution content delivery, end-to-end access service proliferation, high-speed transmission, and broadband transmission are becoming the basic requirements that network providers who are responsible for data transmission and receive should be accommodated.\r\n\r\nIn particularly, as various IoT services, personal media, and cloud-based services become gradually common, there is a demand for the high data rate by subscribers’.\r\n\r\nCable networks are also undergoing various network evolution process to develop and apply technologies that satisfy the requirements of the service ecosystem.\r\n\r\nCurrently, cable broadcasting networks have limited upstream frequency bands that can transmit data.\r\n\r\nIn order to overcome these limitations and enable symmetric upstream and downstream transmission, we are developing in-band full-duplex (IFDX) transmission technology that enables simultaneous transmission and reception in the same band.\r\n"
 status:
   stage:
     content: Published
@@ -81,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -92,10 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -105,9 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -127,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -138,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -149,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -160,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -171,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -182,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -193,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

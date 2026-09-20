@@ -1,10 +1,11 @@
----
 id: ITUTG98922019Amd1102020
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.989.2-202010-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/14492
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.989.2-202010-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.989.2 (2019) Amd. 1 (10/2020)
   type: ITU
@@ -45,34 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.989.2 specifies the physical media dependent (PMD)
-    layer requirements for a passive optical network (PON) system with a nominal aggregate
-    capacity of 40 Gbit/s in the downstream direction and 10 Gbit/s in the upstream
-    direction, hereinafter referred to as NG-PON2. NG-PON2 is a flexible optical fibre
-    access network capable of supporting the bandwidth requirements of mobile backhaul,
-    business and residential services. Furthermore, this Recommendation describes
-    optional configurations, to extend beyond this nominal capacity, as the ITU-T
-    G.989 series of Recommendations allows for multiple upstream and downstream line
-    rates. \r\n\r\nThe NG-PON2 wavelength plan is defined to enable the coexistence
-    through wavelength overlay with legacy PON systems (see ITU-T G.989.1). The transmission
-    convergence (TC) layer is based on Recommendation ITU-T G.987.3, with unique modifications
-    for NG-PON2 captured in Recommendation ITU-T G.989.3. The optical network unit
-    (ONU) management and control interface (OMCI) specifications are described in
-    Recommendation ITU-T G.988 for NG-PON2 extensions. \r\n\r\nThis Recommendation
-    specifies the characteristics of hybrid time and wavelength division multiplexing
-    (TWDM) channels, referred to as TWDM PON. The characteristics of optional, tunable
-    point-to-point wavelength overlay channels are also described, referred to as
-    point-to-point wavelength division multiplexing (PtP WDM) PON. \r\n\r\nThe TWDM
-    PON described in this Recommendation represents a further development from the
-    systems described in the ITU-T G.984 and ITU-T G.987 series of Recommendations.
-    To the greatest extent possible, this Recommendation retains the requirements
-    of ITU-T G.984.1 and ITU-T G.987.1 to ensure maximal reuse of existing technology
-    and compatibility with deployed optical access systems and optical fibre infrastructure.
-    \r\n\r\nEdition 2.0 continues the maintenance and evolution of physical media
-    dependent (PMD) layer specification. \r\n\r\nCorrigendum 1 revises Table 10-1
-    on TWDM PON downstream (ONU receive) X/S parameters. \r\n\r\nAmendment 1 updates
-    Annex D on power spectral density (PSD) values, to reflect the more recent changes
-    in the PMD spec. \r\n"
+  content: "Recommendation ITU-T G.989.2 specifies the physical media dependent (PMD) layer requirements for a passive optical network (PON) system with a nominal aggregate capacity of 40 Gbit/s in the downstream direction and 10 Gbit/s in the upstream direction, hereinafter referred to as NG-PON2. NG-PON2 is a flexible optical fibre access network capable of supporting the bandwidth requirements of mobile backhaul, business and residential services. Furthermore, this Recommendation describes optional configurations, to extend beyond this nominal capacity, as the ITU-T G.989 series of Recommendations allows for multiple upstream and downstream line rates. \r\n\r\nThe NG-PON2 wavelength plan is defined to enable the coexistence through wavelength overlay with legacy PON systems (see ITU-T G.989.1). The transmission convergence (TC) layer is based on Recommendation ITU-T G.987.3, with unique modifications for NG-PON2 captured in Recommendation ITU-T G.989.3. The optical network unit (ONU) management and control interface (OMCI) specifications are described in Recommendation ITU-T G.988 for NG-PON2 extensions. \r\n\r\nThis Recommendation specifies the characteristics of hybrid time and wavelength division multiplexing (TWDM) channels, referred to as TWDM PON. The characteristics of optional, tunable point-to-point wavelength overlay channels are also described, referred to as point-to-point wavelength division multiplexing (PtP WDM) PON. \r\n\r\nThe TWDM PON described in this Recommendation represents a further development from the systems described in the ITU-T G.984 and ITU-T G.987 series of Recommendations. To the greatest extent possible, this Recommendation retains the requirements of ITU-T G.984.1 and ITU-T G.987.1 to ensure maximal reuse of existing technology and compatibility with deployed optical access systems and optical fibre infrastructure. \r\n\r\nEdition 2.0 continues the maintenance and evolution of physical media dependent (PMD) layer specification. \r\n\r\nCorrigendum 1 revises Table 10-1 on TWDM PON downstream (ONU receive) X/S parameters. \r\n\r\nAmendment 1 updates Annex D on power spectral density (PSD) values, to reflect the more recent changes in the PMD spec. \r\n"
 status:
   stage:
     content: Published
@@ -100,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: '40-Gigabit-capable passive optical networks 2 (NG-PON2): Physical
-        media dependent (PMD) layer specification'
+      content: '40-Gigabit-capable passive optical networks 2 (NG-PON2): Physical media dependent (PMD) layer specification'
     docidentifier:
     - content: G.989.2 (02/2019)
       type: ITU
@@ -127,8 +100,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: '40-Gigabit-capable passive optical networks 2 (NG-PON2): Physical
-        media dependent (PMD) layer specification'
+      content: '40-Gigabit-capable passive optical networks 2 (NG-PON2): Physical media dependent (PMD) layer specification'
     docidentifier:
     - content: G.989.2 (12/2014)
       type: ITU
@@ -138,8 +110,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Certain methods of avoiding the transmission of excessive noise between
-        interconnected systems
+      content: Certain methods of avoiding the transmission of excessive noise between interconnected systems
     docidentifier:
     - content: G Suppl. 4 (12/1972)
       type: ITU
@@ -159,8 +130,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Loss-frequency response of channel-translating equipment used in some
-        countries for international circuits
+      content: Loss-frequency response of channel-translating equipment used in some countries for international circuits
     docidentifier:
     - content: G Suppl. 7 (12/1972)
       type: ITU
@@ -170,8 +140,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Method proposed by the Belgian telephone administration for interconnection
-        between coaxial and symmetric pair systems
+      content: Method proposed by the Belgian telephone administration for interconnection between coaxial and symmetric pair systems
     docidentifier:
     - content: G Suppl. 8 (12/1972)
       type: ITU
@@ -191,8 +160,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital crosstalk measurement (method used by the Administrations of
-        France, the Netherlands and Spain)
+      content: Digital crosstalk measurement (method used by the Administrations of France, the Netherlands and Spain)
     docidentifier:
     - content: G Suppl. 19 (10/1984)
       type: ITU
@@ -212,8 +180,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Estimating the signal load margin of FDM wideband amplifier equipment
-        and transmission systems
+      content: Estimating the signal load margin of FDM wideband amplifier equipment and transmission systems
     docidentifier:
     - content: G Suppl. 26 (10/1984)
       type: ITU
@@ -233,9 +200,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems
-        and data-over-voice (DOV) systems during the transition from an analogue to
-        a digital network
+      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems and data-over-voice (DOV) systems during the transition from an analogue to a digital network
     docidentifier:
     - content: G Suppl. 28 (10/1984)
       type: ITU
@@ -315,8 +280,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guide on the use of the ITU-T Recommendations related to optical fibres
-        and systems technology
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres and systems technology
     docidentifier:
     - content: G Suppl. 42 (10/2018)
       type: ITU
@@ -356,8 +320,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G-PON interoperability test plan between optical line terminations
-        and optical network units
+      content: G-PON interoperability test plan between optical line terminations and optical network units
     docidentifier:
     - content: G Suppl. 46 (05/2009)
       type: ITU
@@ -377,9 +340,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: '10-Gigabit-capable passive optical networks: Interface between media
-        access control with serializer/deserializer and physical medium dependent
-        sublayers'
+      content: '10-Gigabit-capable passive optical networks: Interface between media access control with serializer/deserializer and physical medium dependent sublayers'
     docidentifier:
     - content: G Suppl. 48 (06/2010)
       type: ITU
@@ -569,8 +530,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on sub 1 Gbit/s services transport over optical transport
-        network
+      content: Supplement on sub 1 Gbit/s services transport over optical transport network
     docidentifier:
     - content: G Suppl. 70 (09/2020)
       type: ITU
@@ -580,8 +540,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optical line termination capabilities for supporting cooperative dynamic
-        bandwidth assignment
+      content: Optical line termination capabilities for supporting cooperative dynamic bandwidth assignment
     docidentifier:
     - content: G Suppl. 71 (12/2023)
       type: ITU
@@ -601,8 +560,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Influencing factors on quality of experience for multiview video (MVV)
-        services
+      content: Influencing factors on quality of experience for multiview video (MVV) services
     docidentifier:
     - content: G Suppl. 73 (10/2021)
       type: ITU
@@ -642,9 +600,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors
-        on quality of experience (QoE) for video customized alerting tone (CAT) and
-        video customized ringing signal (CRS) services
+      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors on quality of experience (QoE) for video customized alerting tone (CAT) and video customized ringing signal (CRS) services
     docidentifier:
     - content: G Suppl. 77 (06/2022)
       type: ITU
@@ -674,8 +630,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use case and requirements of fibre-based in-premises networking for
-        home application (FIP4H)
+      content: Use case and requirements of fibre-based in-premises networking for home application (FIP4H)
     docidentifier:
     - content: G Suppl. 80 (07/2024)
       type: ITU
@@ -705,8 +660,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on the use of options in the precision time protocol profile
-        with full timing support from the network
+      content: Supplement on the use of options in the precision time protocol profile with full timing support from the network
     docidentifier:
     - content: G Suppl. 83 (10/2025)
       type: ITU
@@ -756,8 +710,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Point to multipoint passive optical access system requirements and
-        transmission technologies above 50 Gbit/s per wavelength
+      content: Point to multipoint passive optical access system requirements and transmission technologies above 50 Gbit/s per wavelength
     docidentifier:
     - content: G Suppl. 88 (10/2025)
       type: ITU
@@ -787,8 +740,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases and requirements of fibre-in-premises for small and medium
-        enterprise applications
+      content: Use cases and requirements of fibre-in-premises for small and medium enterprise applications
     docidentifier:
     - content: G Suppl. 91 (10/2025)
       type: ITU

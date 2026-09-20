@@ -1,10 +1,11 @@
----
 id: ITUTT511992Amd1081995
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.51-199508-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/2589
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.51-199508-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.51 (1992) Amd. 1 (08/1995)
   type: ITU
@@ -45,8 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 contains two new annexes, i.e. "Annex D, T51String" and "Annex
-    E, References".
+  content: Amendment 1 contains two new annexes, i.e. "Annex D, T51String" and "Annex E, References".
 status:
   stage:
     content: Published

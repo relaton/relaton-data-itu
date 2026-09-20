@@ -1,4 +1,3 @@
----
 id: ITUTGSuppl81102025
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup81-202510-I
+  content: https://handle.itu.int/11.1002/1000/16570
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup81-202510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 81 (10/2025)
   type: ITU
@@ -50,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 81 to the ITU-T G-series Recommendations gives an overview
-    of passive optical network (PON) security, collects use cases for PON security
-    with associated expectations, and reviews security aspects and methods applicable
-    to PON systems, including a general PON threat model, unicast data encryption
-    key exchange, SN duplication mitigation, and security-enhancement Recommendations
-    in ONU management and control interface (OMCI)-based authentication, which may
-    be considered in future PON Recommendations to support security-enhancement features.\r\n"
+  content: "Supplement 81 to the ITU-T G-series Recommendations gives an overview of passive optical network (PON) security, collects use cases for PON security with associated expectations, and reviews security aspects and methods applicable to PON systems, including a general PON threat model, unicast data encryption key exchange, SN duplication mitigation, and security-enhancement Recommendations in ONU management and control interface (OMCI)-based authentication, which may be considered in future PON Recommendations to support security-enhancement features.\r\n"
 status:
   stage:
     content: Published

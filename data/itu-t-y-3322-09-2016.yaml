@@ -1,16 +1,16 @@
----
 id: ITUTY3322092016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Functional architecture for NICE implementation making use of software-defined
-    networking technologies
+  content: Functional architecture for NICE implementation making use of software-defined networking technologies
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3322-201609-I
+  content: https://handle.itu.int/11.1002/1000/13018
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3322-201609-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3322 (09/2016)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the architecture and implementations of Software-defined
-    network intelligence capability enhancement (S-NICE). S-NICE is a specific implementation
-    of NICE making use of software defined networking concept and technologies. This
-    Recommendation defines the functional architecture of S-NICE, describes the enhancement
-    functions based on NICE, the reference points among different functions and some
-    typical implementation flows.
+  content: This Recommendation specifies the architecture and implementations of Software-defined network intelligence capability enhancement (S-NICE). S-NICE is a specific implementation of NICE making use of software defined networking concept and technologies. This Recommendation defines the functional architecture of S-NICE, describes the enhancement functions based on NICE, the reference points among different functions and some typical implementation flows.
 status:
   stage:
     content: Published
@@ -96,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -127,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -138,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -149,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -160,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

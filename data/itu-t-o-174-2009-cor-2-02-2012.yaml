@@ -1,10 +1,11 @@
----
 id: ITUTO1742009Cor2022012
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-O.174-201202-I!Cor2
+  content: https://handle.itu.int/11.1002/1000/11533
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-O.174-201202-I!Cor2!PDF-E&type=items
 docidentifier:
 - content: ITU-T O.174 (2009) Cor. 2 (02/2012)
   type: ITU
@@ -80,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Jitter and wander measuring equipment for digital systems which are
-        based on synchronous Ethernet technology
+      content: Jitter and wander measuring equipment for digital systems which are based on synchronous Ethernet technology
     docidentifier:
     - content: O.174 (11/2009)
       type: ITU

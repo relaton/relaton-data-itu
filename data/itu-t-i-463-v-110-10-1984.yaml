@@ -1,13 +1,14 @@
----
 id: ITUTI463V110101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Support of Data Terminal Equipments (DTEs) with V-series type interfaces
-    by an Integrated Services Digital Network (ISDN)
+  content: Support of Data Terminal Equipments (DTEs) with V-series type interfaces by an Integrated Services Digital Network (ISDN)
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/5731
 docidentifier:
 - content: ITU-T I.463/V.110 (10/1984)
   type: ITU
@@ -87,8 +88,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Support of data terminal equipments with V-Series type interfaces by
-        an integrated services digital network
+      content: Support of data terminal equipments with V-Series type interfaces by an integrated services digital network
     docidentifier:
     - content: V.110 (09/1992)
       type: ITU
@@ -98,8 +98,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Support of data terminal equipments (DTEs) with V-series type interfaces
-        by an integrated services digital network (ISDN)
+      content: Support of data terminal equipments (DTEs) with V-series type interfaces by an integrated services digital network (ISDN)
     docidentifier:
     - content: I.463/V.110 (11/1988)
       type: ITU

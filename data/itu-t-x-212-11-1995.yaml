@@ -1,16 +1,16 @@
----
 id: ITUTX212111995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Systems Interconnection – Data Link service
-    definition
+  content: Information technology – Open Systems Interconnection – Data Link service definition
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.212-199511-I
+  content: https://handle.itu.int/11.1002/1000/3260
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.212-199511-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.212 (11/1995)
   type: ITU
@@ -54,13 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard defines the set of capabilities,
-    in terms of an abstract service definition, provided by the Data Link Layer to
-    the Network Layer. For designers of Network Layer protocols, it provides a definition
-    of the Data Link service to allow design and implementation independent of details
-    of the Data Link Layer protocol. For designers of Data Link Layer protocols, it
-    defines the set of capabilities to be made available through the action of the
-    protocol.
+  content: This Recommendation | International Standard defines the set of capabilities, in terms of an abstract service definition, provided by the Data Link Layer to the Network Layer. For designers of Network Layer protocols, it provides a definition of the Data Link service to allow design and implementation independent of details of the Data Link Layer protocol. For designers of Data Link Layer protocols, it defines the set of capabilities to be made available through the action of the protocol.
 status:
   stage:
     content: Published
@@ -80,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Data link service definition for open systems interconnection for CCITT
-        applications
+      content: Data link service definition for open systems interconnection for CCITT applications
     docidentifier:
     - content: X.212 (11/1988)
       type: ITU

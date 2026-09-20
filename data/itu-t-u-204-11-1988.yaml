@@ -1,16 +1,16 @@
----
 id: ITUTU204111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interworking between the telex service and the public interpersonal messaging
-    service
+  content: Interworking between the telex service and the public interpersonal messaging service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-U.204-198811-S
+  content: https://handle.itu.int/11.1002/1000/2663
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-U.204-198811-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T U.204 (11/1988)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interworking between the international telex service and the public
-        interpersonal messaging service
+      content: Interworking between the international telex service and the public interpersonal messaging service
     docidentifier:
     - content: U.204 (03/1993)
       type: ITU

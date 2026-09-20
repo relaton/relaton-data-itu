@@ -1,16 +1,16 @@
----
 id: ITUTTSuppl2032011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T T.83x-series – Supplement on information technology – JPEG XR image
-    coding system – System architecture
+  content: ITU-T T.83x-series – Supplement on information technology – JPEG XR image coding system – System architecture
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.Sup2-201103-I
+  content: https://handle.itu.int/11.1002/1000/11333
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.Sup2-201103-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T Suppl. 2 (03/2011)
   type: ITU
@@ -51,36 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement is technically aligned with ISO/IEC 29199-1 but is not
-    published as identical text. It was drafted in collaboration with ISO/IEC JTC
-    1/SC 29/WG 1 (which is informally known as "JPEG").This document provides a technical
-    overview and informative guidelines for applications of the JPEG XR image coding
-    system as normatively specified in ITU-T Rec. T.832 | ISO/IEC 29199-2, ITU-T Rec.
-    T.833 | ISO/IEC 29199-3, ITU-T Rec. T.834 | ISO/IEC 29199-4, and ITU-T Rec. T.835
-    | ISO/IEC 29199-5. The overview of JPEG XR coding technology includes a description
-    of the supported image formats, the internal data processing hierarchy and data
-    structures, the image tiling design supporting hard and soft tiling of images,
-    the lapped bi-orthogonal transform, supported quantization modes, adaptive coding
-    and scanning of coefficients, entropy coding, and finally the codestream structure.
-    This overview provides a basic understanding of how a JPEG XR encoder works and
-    the various modes it supports. It also compares the JPEG XR design with those
-    of baseline JPEG (Rec. ITU-T T.81 | ISO/IEC 10918-1) and JPEG 2000 (Rec. ITU-T
-    T.800 | ISO/IEC 15444-1). Following the overview is a discussion of the use of
-    JPEG XR for High Dynamic Range (HDR) image coding. The next section reviews various
-    JPEG XR profiles and describes their target applications. An encoding practices
-    section provides general encoding guidelines and guidelines for encoding for providing
-    random access functionality, including an analysis of tile size selection trade-offs.
-    A decoding process functionality section describes the decoding process and output
-    colour conversions, and describes how to make use of JPEG XR scalability features
-    in a decoding application. These scalability features include resolution, quality
-    and spatial random access scalabilities. Finally, the last section of report describes
-    codestream manipulations in the compressed domain. This section describes methods
-    for trimming a codestream to extract a smaller codestream, switching between spatial
-    and frequency codestream modes, rotation and flipping of images, extraction of
-    a region of interest in the compressed domain, switching between interleaved and
-    planar alpha planes, and modifying the tile structure of an image. The technical
-    report is intended to help application developers to understand the JPEG XR design
-    and to provide assistance in making effective use of its capabilities.
+  content: This Supplement is technically aligned with ISO/IEC 29199-1 but is not published as identical text. It was drafted in collaboration with ISO/IEC JTC 1/SC 29/WG 1 (which is informally known as "JPEG").This document provides a technical overview and informative guidelines for applications of the JPEG XR image coding system as normatively specified in ITU-T Rec. T.832 | ISO/IEC 29199-2, ITU-T Rec. T.833 | ISO/IEC 29199-3, ITU-T Rec. T.834 | ISO/IEC 29199-4, and ITU-T Rec. T.835 | ISO/IEC 29199-5. The overview of JPEG XR coding technology includes a description of the supported image formats, the internal data processing hierarchy and data structures, the image tiling design supporting hard and soft tiling of images, the lapped bi-orthogonal transform, supported quantization modes, adaptive coding and scanning of coefficients, entropy coding, and finally the codestream structure. This overview provides a basic understanding of how a JPEG XR encoder works and the various modes it supports. It also compares the JPEG XR design with those of baseline JPEG (Rec. ITU-T T.81 | ISO/IEC 10918-1) and JPEG 2000 (Rec. ITU-T T.800 | ISO/IEC 15444-1). Following the overview is a discussion of the use of JPEG XR for High Dynamic Range (HDR) image coding. The next section reviews various JPEG XR profiles and describes their target applications. An encoding practices section provides general encoding guidelines and guidelines for encoding for providing random access functionality, including an analysis of tile size selection trade-offs. A decoding process functionality section describes the decoding process and output colour conversions, and describes how to make use of JPEG XR scalability features in a decoding application. These scalability features include resolution, quality and spatial random access scalabilities. Finally, the last section of report describes codestream manipulations in the compressed domain. This section describes methods for trimming a codestream to extract a smaller codestream, switching between spatial and frequency codestream modes, rotation and flipping of images, extraction of a region of interest in the compressed domain, switching between interleaved and planar alpha planes, and modifying the tile structure of an image. The technical report is intended to help application developers to understand the JPEG XR design and to provide assistance in making effective use of its capabilities.
 status:
   stage:
     content: Published

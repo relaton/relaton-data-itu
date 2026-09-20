@@ -1,4 +1,3 @@
----
 id: ITUTHSuppl20102022
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.Sup20-202210-I
+  content: https://handle.itu.int/11.1002/1000/15213
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.Sup20-202210-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H Suppl. 20 (10/2022)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'To support an ITS in order to obtain a comprehensive and effective perception
-    data, this Supplement 20 to ITU-T H-series gives the practice references for roadside
-    sensing devices'' deployment in the ITS. The detection and analysis of traffic
-    elements based on roadside sensing devices is an important foundation for intelligent
-    transportation. Sensing devices used on the roadside to build an intelligent transport
-    system (ITS) generally include cameras, light detection and ranging (lidars),
-    millimetre wave radio detection and ranging (radars), etc. The requirements for
-    sensing devices, such as the deployment and the function characteristics will
-    affect the quality of data for intelligent transportation systems. Supplement
-    20 to ITU-T H-series Recommendations applies to ITU-T H.550-H.599 series: Vehicular
-    gateways and intelligent transportation systems (ITS).'
+  content: 'To support an ITS in order to obtain a comprehensive and effective perception data, this Supplement 20 to ITU-T H-series gives the practice references for roadside sensing devices'' deployment in the ITS. The detection and analysis of traffic elements based on roadside sensing devices is an important foundation for intelligent transportation. Sensing devices used on the roadside to build an intelligent transport system (ITS) generally include cameras, light detection and ranging (lidars), millimetre wave radio detection and ranging (radars), etc. The requirements for sensing devices, such as the deployment and the function characteristics will affect the quality of data for intelligent transportation systems. Supplement 20 to ITU-T H-series Recommendations applies to ITU-T H.550-H.599 series: Vehicular gateways and intelligent transportation systems (ITS).'
 status:
   stage:
     content: Published

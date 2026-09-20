@@ -1,16 +1,16 @@
----
 id: ITUTT8092007Cor1052011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Minor corrections plus clarifications on code stream CAP marker segments
-    and quantization of JP3D images
+  content: Minor corrections plus clarifications on code stream CAP marker segments and quantization of JP3D images
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.809-201105-T!Cor1
+  content: https://handle.itu.int/11.1002/1000/11316
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.809-201105-T!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.809 (2007) Cor. 1 (05/2011)
   type: ITU
@@ -54,27 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation T.809 | ISO/IEC 15444-10 is a work item subdivision
-    of ISO/IEC 15444 that provides extensions of ITU-T Recommendation T.800 | ISO/IEC
-    15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2 for logically cuboidal
-    data sets. In particular, it respects all existing capabilities and syntax of
-    ITU-T Recommendation T.800 | ISO/IEC 15444-1 and part of the existing capabilities
-    of ITU-T Recommendation T.801 | ISO/IEC 15444-2 for multi-component images, while
-    providing alternatives and extensions to some of those capabilities. Within these
-    constraints, it provides an isotropic specification for three-dimensional data
-    sets; i.e., the project provides identical processing capabilities in all three
-    dimensions even though ITU-T Recommendation T.800 | ISO/IEC 15444-1 and ITU-T
-    Recommendation T.801 | ISO/IEC 15444-2 codestream syntax differentiates between
-    the two spatial axes and the cross-component axis. The context models currently
-    used in this Recommendation | International Standard are as in ITU-T Recommendation
-    T.800 | ISO/IEC 15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2. Improved
-    context models will be introduced through an amendment. Corrigendum 1 (2011/05,
-    integrated in this new edition) corrects a number of minor mistakes that were
-    present in various formulas of Annex B. It also provides a more formal and unambiguous
-    description on the mandatory use of the CAP marker segment in the codestream,
-    in order to enhance interoperability with the other parts of the JPEG 2000 standard.
-    Furthermore, it introduced new Annex E on how quantization should be handled for
-    JP3D images.
+  content: ITU-T Recommendation T.809 | ISO/IEC 15444-10 is a work item subdivision of ISO/IEC 15444 that provides extensions of ITU-T Recommendation T.800 | ISO/IEC 15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2 for logically cuboidal data sets. In particular, it respects all existing capabilities and syntax of ITU-T Recommendation T.800 | ISO/IEC 15444-1 and part of the existing capabilities of ITU-T Recommendation T.801 | ISO/IEC 15444-2 for multi-component images, while providing alternatives and extensions to some of those capabilities. Within these constraints, it provides an isotropic specification for three-dimensional data sets; i.e., the project provides identical processing capabilities in all three dimensions even though ITU-T Recommendation T.800 | ISO/IEC 15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2 codestream syntax differentiates between the two spatial axes and the cross-component axis. The context models currently used in this Recommendation | International Standard are as in ITU-T Recommendation T.800 | ISO/IEC 15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2. Improved context models will be introduced through an amendment. Corrigendum 1 (2011/05, integrated in this new edition) corrects a number of minor mistakes that were present in various formulas of Annex B. It also provides a more formal and unambiguous description on the mandatory use of the CAP marker segment in the codestream, in order to enhance interoperability with the other parts of the JPEG 2000 standard. Furthermore, it introduced new Annex E on how quantization should be handled for JP3D images.
 status:
   stage:
     content: Withdrawal
@@ -94,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Extensions
-        for three-dimensional data'
+      content: 'Information technology – JPEG 2000 image coding system: Extensions for three-dimensional data'
     docidentifier:
     - content: T.809 (05/2011)
       type: ITU
@@ -105,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Extensions
-        for three-dimensional data'
+      content: 'Information technology – JPEG 2000 image coding system: Extensions for three-dimensional data'
     docidentifier:
     - content: T.809 (08/2007)
       type: ITU

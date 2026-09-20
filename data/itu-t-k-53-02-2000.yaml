@@ -1,16 +1,16 @@
----
 id: ITUTK53022000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Values of induced voltages on telecommunication installations to establish
-    telecom and a.c. power and railway operators responsibilities
+  content: Values of induced voltages on telecommunication installations to establish telecom and a.c. power and railway operators responsibilities
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.53-200002-W
+  content: https://handle.itu.int/11.1002/1000/4916
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.53-200002-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.53 (02/2000)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation gives permissible voltages on a telecommunications
-    line caused by influence from a nearby a.c. power or railway plant during normal
-    operation and fault condition. These values set the maximum permissible voltages
-    and durations that a.c. power and railway operators are allowed to cause by any
-    type of electromagnetic coupling on a telecommunications line without being responsible
-    for mitigation measures.
+  content: This Recommendation gives permissible voltages on a telecommunications line caused by influence from a nearby a.c. power or railway plant during normal operation and fault condition. These values set the maximum permissible voltages and durations that a.c. power and railway operators are allowed to cause by any type of electromagnetic coupling on a telecommunications line without being responsible for mitigation measures.
 status:
   stage:
     content: Withdrawal

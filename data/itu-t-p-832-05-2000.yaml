@@ -1,4 +1,3 @@
----
 id: ITUTP832052000
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.832-200005-I
+  content: https://handle.itu.int/11.1002/1000/5086
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.832-200005-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T P.832 (05/2000)
   type: ITU
@@ -50,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation describes methods and procedures for conducting
-    subjective performance evaluations of hands-free terminals.The use of hands-free
-    terminals in communication has numerous advantages for the telephone users, especially
-    for all "non-traditional" types of terminals such as car phones, computer/laptop-type
-    terminals and others. Due to the complex acoustical situation a big variety of
-    signal processing which may be non-linear and/or time variant is expected. ITU-T
-    Recommendation P.340 describes measurement techniques for hands-free terminals,
-    ITU-T Recommendation P.581 describes the use of the HATS for the evaluation of
-    terminals, ITU-T Recommendations P.501 and P.502 describe measurement signals
-    and analysis procedures. Using these methods a minimum performance of hands-free
-    terminals should be ensured. However, there is always the possibility that those
-    tests do not address fully the impact of all kinds of signal processing in a hands-free
-    terminal and their impact on speech transmission quality.Subjective testing is
-    a commonly used method of assessing the performance of terminals, including digital
-    speech codecs, voice-operated signal processing, echo cancellation, noise reduction
-    and other types of signal processing. This ITU-T Recommendation defines methods
-    for the subjective evaluation all kinds of hands-free terminals.
+  content: This ITU-T Recommendation describes methods and procedures for conducting subjective performance evaluations of hands-free terminals.The use of hands-free terminals in communication has numerous advantages for the telephone users, especially for all "non-traditional" types of terminals such as car phones, computer/laptop-type terminals and others. Due to the complex acoustical situation a big variety of signal processing which may be non-linear and/or time variant is expected. ITU-T Recommendation P.340 describes measurement techniques for hands-free terminals, ITU-T Recommendation P.581 describes the use of the HATS for the evaluation of terminals, ITU-T Recommendations P.501 and P.502 describe measurement signals and analysis procedures. Using these methods a minimum performance of hands-free terminals should be ensured. However, there is always the possibility that those tests do not address fully the impact of all kinds of signal processing in a hands-free terminal and their impact on speech transmission quality.Subjective testing is a commonly used method of assessing the performance of terminals, including digital speech codecs, voice-operated signal processing, echo cancellation, noise reduction and other types of signal processing. This ITU-T Recommendation defines methods for the subjective evaluation all kinds of hands-free terminals.
 status:
   stage:
     content: Published
@@ -86,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations relating to transmission characteristics for analogue
-        handset telephones
+      content: Considerations relating to transmission characteristics for analogue handset telephones
     docidentifier:
     - content: P Suppl. 10 (11/1988)
       type: ITU
@@ -97,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for placement of microphones and loudspeakers in telephone
-        conference rooms and for group audio terminals (GATs)
+      content: Guidelines for placement of microphones and loudspeakers in telephone conference rooms and for group audio terminals (GATs)
     docidentifier:
     - content: P Suppl. 16 (11/1988)
       type: ITU
@@ -108,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Examples of measurements of handset receive-frequency responses: dependence
-        on earcap leakage losses'
+      content: 'Examples of measurements of handset receive-frequency responses: dependence on earcap leakage losses'
     docidentifier:
     - content: P Suppl. 20 (03/1993)
       type: ITU
@@ -149,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
-        telemeeting quality
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty telemeeting quality
     docidentifier:
     - content: P Suppl. 26 (09/2017)
       type: ITU
@@ -160,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations for the development of new QoS and QoE related objective
-        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+      content: Considerations for the development of new QoS and QoE related objective models to be embedded in Recommendations prepared by ITU-T Study Group 12
     docidentifier:
     - content: P Suppl. 28 (09/2020)
       type: ITU
@@ -181,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Subjective quality evaluation of audiovisual communication in videotelephony
-        services
+      content: Subjective quality evaluation of audiovisual communication in videotelephony services
     docidentifier:
     - content: P Suppl. 31 (01/2025)
       type: ITU

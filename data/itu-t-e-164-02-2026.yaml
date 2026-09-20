@@ -1,4 +1,3 @@
----
 id: ITUTE164022026
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.164-202602-I
+  content: https://handle.itu.int/11.1002/1000/16273
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.164-202602-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.164 (02/2026)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T E.164 provides the number structure and functionality
-    for the eight categories of numbers used for international public telecommunication:
-    Geographic Areas (see clause 3.2.1), Global Services (see networks in clause 3.2.11),
-    Other Global Services (see clause 3.2.19), Global Satellite Services (see clause
-    3.2.10), Networks (see 3.2.18), Groups of Countries (see clause 3.2.15), resources
-    for Trial (see clause 3.2.22) and Internet of things (IoT)/machine-to-machine
-    (M2M) services/applications (see clause 3.2.17). For each of these categories,
-    it details the components of the numbering structure and the digit analysis required
-    to successfully route calls. Annex A provides additional information on the structure
-    and function of international public telecommunication numbers (hereafter referred
-    to as \"international E.164 numbers\").\r\n"
+  content: "Recommendation ITU-T E.164 provides the number structure and functionality for the eight categories of numbers used for international public telecommunication: Geographic Areas (see clause 3.2.1), Global Services (see networks in clause 3.2.11), Other Global Services (see clause 3.2.19), Global Satellite Services (see clause 3.2.10), Networks (see 3.2.18), Groups of Countries (see clause 3.2.15), resources for Trial (see clause 3.2.22) and Internet of things (IoT)/machine-to-machine (M2M) services/applications (see clause 3.2.17). For each of these categories, it details the components of the numbering structure and the digit analysis required to successfully route calls. Annex A provides additional information on the structure and function of international public telecommunication numbers (hereafter referred to as \"international E.164 numbers\").\r\n"
 status:
   stage:
     content: Published
@@ -90,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidance with regard to the selection of numbers for helplines for
-        children
+      content: Guidance with regard to the selection of numbers for helplines for children
     docidentifier:
     - content: E.164 Suppl. 5 (11/2009)
       type: ITU
@@ -101,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex A: Clarification and explanation of the structure and
-        function of international ITU-T E.164-numbers'
+      content: 'Revised Annex A: Clarification and explanation of the structure and function of international ITU-T E.164-numbers'
     docidentifier:
     - content: E.164 (2010) Amd. 1 (06/2011)
       type: ITU
@@ -120,8 +109,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with the implementation
-        of ENUM for non-geographic country codes
+      content: Operational and administrative issues associated with the implementation of ENUM for non-geographic country codes
     docidentifier:
     - content: E.164 Suppl. 4 (05/2004)
       type: ITU
@@ -139,8 +127,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with national implementations
-        of the ENUM functions
+      content: Operational and administrative issues associated with national implementations of the ENUM functions
     docidentifier:
     - content: E.164 Suppl. 3 (05/2004)
       type: ITU
@@ -190,8 +177,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidance with regard to the selection of numbers for helplines for
-        children
+      content: Guidance with regard to the selection of numbers for helplines for children
     docidentifier:
     - content: E.164 Suppl. 5 (05/2008)
       type: ITU
@@ -231,8 +217,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with the implementation
-        of ENUM for non-geographic country codes
+      content: Operational and administrative issues associated with the implementation of ENUM for non-geographic country codes
     docidentifier:
     - content: E.164 Suppl. 4 (05/2003)
       type: ITU
@@ -242,8 +227,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with national implementations
-        of the ENUM functions
+      content: Operational and administrative issues associated with national implementations of the ENUM functions
     docidentifier:
     - content: E.164 Suppl. 3 (05/2002)
       type: ITU
@@ -303,8 +287,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.100 series – Framework of disaster management for disaster
-        relief system
+      content: ITU-T E.100 series – Framework of disaster management for disaster relief system
     docidentifier:
     - content: E-100 series Suppl. 1 (02/2019)
       type: ITU
@@ -314,8 +297,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

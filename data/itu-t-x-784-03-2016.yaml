@@ -1,16 +1,16 @@
----
 id: ITUTX784032016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines for implementation conformance statements proformas associated
-    with SNMP-based management systems
+  content: Guidelines for implementation conformance statements proformas associated with SNMP-based management systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.784-201603-I
+  content: https://handle.itu.int/11.1002/1000/12783
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.784-201603-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.784 (03/2016)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "As SNMP has been widely used to manage nodes in IP network, such as servers,
-    workstations, routers, switches and etc. When SNMP based management systems need
-    to be interconnected, system testing is required in order to ensure the operability
-    between them. Implement Conformance Statements (ICS) proformas is a way for implementers
-    to claim conformance to a standardized SNMP interface specification.\r\n\r\nThis
-    Recommendation proposed the guidelines for ICS proformas for SNMP based interface
-    systems. It provided the overview and constructions for the MIB and SMI, and provided
-    several proformas (tables) for each SMI components to be used in interface. The
-    instructions on how to fill in each column in the tables are also described. At
-    last some examples on the SNMP Interface ICS are provided in Appendix. \r\n"
+  content: "As SNMP has been widely used to manage nodes in IP network, such as servers, workstations, routers, switches and etc. When SNMP based management systems need to be interconnected, system testing is required in order to ensure the operability between them. Implement Conformance Statements (ICS) proformas is a way for implementers to claim conformance to a standardized SNMP interface specification.\r\n\r\nThis Recommendation proposed the guidelines for ICS proformas for SNMP based interface systems. It provided the overview and constructions for the MIB and SMI, and provided several proformas (tables) for each SMI components to be used in interface. The instructions on how to fill in each column in the tables are also described. At last some examples on the SNMP Interface ICS are provided in Appendix. \r\n"
 status:
   stage:
     content: Published

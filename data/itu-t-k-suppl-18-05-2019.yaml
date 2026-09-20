@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl18052019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T K.44 – Causes of telecommunication system overvoltage and overcurrent
-    conditions and their expected levels
+  content: ITU-T K.44 – Causes of telecommunication system overvoltage and overcurrent conditions and their expected levels
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup18-201905-I
+  content: https://handle.itu.int/11.1002/1000/13937
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup18-201905-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 18 (05/2019)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement discusses how surge and power fault overvoltages and overcurrents
-    are coupled into telecommunication systems, the likely disturbance levels and
-    mitigation measures.
+  content: This Supplement discusses how surge and power fault overvoltages and overcurrents are coupled into telecommunication systems, the likely disturbance levels and mitigation measures.
 status:
   stage:
     content: Published

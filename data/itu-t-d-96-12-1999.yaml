@@ -1,16 +1,16 @@
----
 id: ITUTD96121999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Charging, billing, accounting and settlement principles for Global Mobile
-    Personal Communications by Satellite (GMPCS) for the international telephone service
+  content: Charging, billing, accounting and settlement principles for Global Mobile Personal Communications by Satellite (GMPCS) for the international telephone service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.96-199912-I
+  content: https://handle.itu.int/11.1002/1000/4773
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.96-199912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.96 (12/1999)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation deals with the charging, billing, accounting and settlement
-    issues and the relevant relationships that arise from the provision of access
-    to their international telephone service by GMPCS Systems. The purpose of this
-    Recommendation is to give guidance on those issues. Relations between different
-    entities involved in the provision of service over the same GMPCS system should
-    be determined through negotiations among the concerned parties in consideration
-    of the provisions detailed in Recommendation D.96.
+  content: This Recommendation deals with the charging, billing, accounting and settlement issues and the relevant relationships that arise from the provision of access to their international telephone service by GMPCS Systems. The purpose of this Recommendation is to give guidance on those issues. Relations between different entities involved in the provision of service over the same GMPCS system should be determined through negotiations among the concerned parties in consideration of the provisions detailed in Recommendation D.96.
 status:
   stage:
     content: Published
@@ -97,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing
-        national tariffs
+      content: Handbook on the methodology for determining costs and establishing national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTP501052000
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,7 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.501-200005-S
+  content: https://handle.itu.int/11.1002/1000/5080
 docidentifier:
 - content: ITU-T P.501 (05/2000)
   type: ITU
@@ -50,20 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes test signals which are applicable for several
-    purposes in telephonometry. This Recommendation gives a wide variety of test signals
-    starting with low complexity test signals up to test signals with a high degree
-    of complexity incorporating a lot of typical parameters of speech. Besides technical
-    signals such as sine waves or noise, more speech-like signals are described.This
-    Recommendation describes the principles of the signal construction for each type
-    of test signal. Characteristic properties such as power density spectra, probability
-    density functions or shaping filter responses are shown.This Recommendation gives
-    an overview about the typical application of the test signals described. This
-    overview is a guideline giving general application rules. The detailed description
-    of the application however should be found in the individual Recommendations describing
-    the measurement procedures for a certain application.In order to avoid problems
-    in creating the test signals described, this Recommendation contains a CD-ROM
-    where all test signals are stored.
+  content: This Recommendation describes test signals which are applicable for several purposes in telephonometry. This Recommendation gives a wide variety of test signals starting with low complexity test signals up to test signals with a high degree of complexity incorporating a lot of typical parameters of speech. Besides technical signals such as sine waves or noise, more speech-like signals are described.This Recommendation describes the principles of the signal construction for each type of test signal. Characteristic properties such as power density spectra, probability density functions or shaping filter responses are shown.This Recommendation gives an overview about the typical application of the test signals described. This overview is a guideline giving general application rules. The detailed description of the application however should be found in the individual Recommendations describing the measurement procedures for a certain application.In order to avoid problems in creating the test signals described, this Recommendation contains a CD-ROM where all test signals are stored.
 status:
   stage:
     content: Withdrawal
@@ -103,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'New Appendix II: ITU-T P.863 results on ITU-T P.501 and ITU-T P.565
-        speech samples'
+      content: 'New Appendix II: ITU-T P.863 results on ITU-T P.501 and ITU-T P.565 speech samples'
     docidentifier:
     - content: P.501 (2020) Amd. 1 (06/2022)
       type: ITU
@@ -144,8 +129,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex D – Speech files with male/female sentences prepared for
-        use with perceptual based objective speech quality prediction
+      content: New Annex D – Speech files with male/female sentences prepared for use with perceptual based objective speech quality prediction
     docidentifier:
     - content: P.501 (2012) Amd. 3 (06/2015)
       type: ITU
@@ -155,8 +139,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C - Speech files prepared for use with ITU-T P.800 conformant
-        applications and perceptual-based objective speech quality prediction
+      content: New Annex C - Speech files prepared for use with ITU-T P.800 conformant applications and perceptual-based objective speech quality prediction
     docidentifier:
     - content: P.501 (2012) Amd. 2 (10/2014)
       type: ITU
@@ -232,8 +215,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations relating to transmission characteristics for analogue
-        handset telephones
+      content: Considerations relating to transmission characteristics for analogue handset telephones
     docidentifier:
     - content: P Suppl. 10 (11/1988)
       type: ITU
@@ -243,8 +225,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for placement of microphones and loudspeakers in telephone
-        conference rooms and for group audio terminals (GATs)
+      content: Guidelines for placement of microphones and loudspeakers in telephone conference rooms and for group audio terminals (GATs)
     docidentifier:
     - content: P Suppl. 16 (11/1988)
       type: ITU
@@ -254,8 +235,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Examples of measurements of handset receive-frequency responses: dependence
-        on earcap leakage losses'
+      content: 'Examples of measurements of handset receive-frequency responses: dependence on earcap leakage losses'
     docidentifier:
     - content: P Suppl. 20 (03/1993)
       type: ITU
@@ -295,8 +275,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
-        telemeeting quality
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty telemeeting quality
     docidentifier:
     - content: P Suppl. 26 (09/2017)
       type: ITU
@@ -306,8 +285,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations for the development of new QoS and QoE related objective
-        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+      content: Considerations for the development of new QoS and QoE related objective models to be embedded in Recommendations prepared by ITU-T Study Group 12
     docidentifier:
     - content: P Suppl. 28 (09/2020)
       type: ITU
@@ -317,8 +295,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Subjective quality evaluation of audiovisual communication in videotelephony
-        services
+      content: Subjective quality evaluation of audiovisual communication in videotelephony services
     docidentifier:
     - content: P Suppl. 31 (01/2025)
       type: ITU

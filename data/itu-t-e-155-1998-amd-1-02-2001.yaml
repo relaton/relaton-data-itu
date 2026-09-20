@@ -1,10 +1,11 @@
----
 id: ITUTE1551998Amd1022001
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.155-200102-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/5343
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.155-200102-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.155 (1998) Amd. 1 (02/2001)
   type: ITU
@@ -45,8 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment introduces a clarification to the definition to the term
-    "premium rate", contained in 3.7 of the Recommendation published in March 1998.
+  content: This amendment introduces a clarification to the definition to the term "premium rate", contained in 3.7 of the Recommendation published in March 1998.
 status:
   stage:
     content: Published
@@ -76,8 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.100 series – Framework of disaster management for disaster
-        relief system
+      content: ITU-T E.100 series – Framework of disaster management for disaster relief system
     docidentifier:
     - content: E-100 series Suppl. 1 (02/2019)
       type: ITU
@@ -87,8 +86,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

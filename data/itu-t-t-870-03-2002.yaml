@@ -1,16 +1,14 @@
----
 id: ITUTT870032002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Lossless and near-lossless compression of continuous-tone
-    still images: Extensions'
+  content: 'Information technology – Lossless and near-lossless compression of continuous-tone still images: Extensions'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.870-200203-I
+  content: https://handle.itu.int/11.1002/1000/5691
 docidentifier:
 - content: ITU-T T.870 (03/2002)
   type: ITU
@@ -54,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard defines a set of lossless
-    (bit-preserving) and nearly lossless (where the error for each reconstructed sample
-    is bounded by a predefined value) compression methods for coding continuous-tone
-    (including bi-level), gray-scale, or colour digital still images.This Recommendation
-    | International Standard:- specifies extensions (including arithmetic coding,
-    extension of near lossless coding, extension of prediction and extension of Golomb
-    coding) to processes for converting source image data to compressed image data;-
-    specifies extensions to processes for converting compressed image data to reconstructed
-    image data including an extension for sample tranformation for inverse colour
-    transforms;- specifies coded representations for compressed image data;- provides
-    guidance on how to implement these processes in practice.
+  content: This Recommendation | International Standard defines a set of lossless (bit-preserving) and nearly lossless (where the error for each reconstructed sample is bounded by a predefined value) compression methods for coding continuous-tone (including bi-level), gray-scale, or colour digital still images.This Recommendation | International Standard:- specifies extensions (including arithmetic coding, extension of near lossless coding, extension of prediction and extension of Golomb coding) to processes for converting source image data to compressed image data;- specifies extensions to processes for converting compressed image data to reconstructed image data including an extension for sample tranformation for inverse colour transforms;- specifies coded representations for compressed image data;- provides guidance on how to implement these processes in practice.
 status:
   stage:
     content: Published

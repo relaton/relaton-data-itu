@@ -1,16 +1,16 @@
----
 id: ITUTGSuppl83102025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Supplement on the use of options in the precision time protocol profile
-    with full timing support from the network
+  content: Supplement on the use of options in the precision time protocol profile with full timing support from the network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup83-202510-I
+  content: https://handle.itu.int/11.1002/1000/16669
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup83-202510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 83 (10/2025)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 83 to ITU-T G-series Recommendations provides clarifications
-    and guidelines on the use of options in the precision time protocol (PTP) profile
-    with full timing support (FTS) from the network.\r\n"
+  content: "Supplement 83 to ITU-T G-series Recommendations provides clarifications and guidelines on the use of options in the precision time protocol (PTP) profile with full timing support (FTS) from the network.\r\n"
 status:
   stage:
     content: Published
@@ -73,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on the use of options in the precision time protocol profile
-        with full timing support from the network
+      content: Supplement on the use of options in the precision time protocol profile with full timing support from the network
     docidentifier:
     - content: G Suppl. 83 (07/2024)
       type: ITU

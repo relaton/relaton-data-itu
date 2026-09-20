@@ -1,16 +1,16 @@
----
 id: ITUTY1401102000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General requirements for interworking with Internet protocol (IP)-based
-    networks
+  content: General requirements for interworking with Internet protocol (IP)-based networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1401-200010-S
+  content: https://handle.itu.int/11.1002/1000/5169
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1401-200010-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1401 (10/2000)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation addresses the framework architecture for interworking
-    of IP-based networks with non-IP networks. The service plane concept applied for
-    interworking is defined in terms of both service and network interworking. General
-    interworking scenarios for service interworking and network interworking are also
-    identified. Details of the interworking model and required interworking functions
-    are described for the case of B-ISDN, N-ISDN or PSTN interworking with IP-based
-    networks.
+  content: This ITU-T Recommendation addresses the framework architecture for interworking of IP-based networks with non-IP networks. The service plane concept applied for interworking is defined in terms of both service and network interworking. General interworking scenarios for service interworking and network interworking are also identified. Details of the interworking model and required interworking functions are described for the case of B-ISDN, N-ISDN or PSTN interworking with IP-based networks.
 status:
   stage:
     content: Withdrawal
@@ -107,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -118,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -129,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

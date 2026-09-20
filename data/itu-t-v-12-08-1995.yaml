@@ -1,16 +1,16 @@
----
 id: ITUTV12081995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Electrical characteristics for balanced double-current interchange circuits
-    for interfaces with data signalling rates up to 52 Mbit/s
+  content: Electrical characteristics for balanced double-current interchange circuits for interfaces with data signalling rates up to 52 Mbit/s
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.12-199508-I
+  content: https://handle.itu.int/11.1002/1000/2716
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.12-199508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.12 (08/1995)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the electrical characteristics of a balanced
-    digital interchange circuit, that may be employed when specified for the interchange
-    of serial binary signals between Data Terminal Equipment (DTE) and Data Circuit-Terminating
-    Equipment (DCE) or in any point-to-point interconnection of serial binary signals
-    between data equipments. The balanced digital interchange circuit will normally
-    be utilized on data and timing, or control circuits where the data signalling
-    rate is up to a maximum limit of 52 Mbit/s.
+  content: This Recommendation specifies the electrical characteristics of a balanced digital interchange circuit, that may be employed when specified for the interchange of serial binary signals between Data Terminal Equipment (DTE) and Data Circuit-Terminating Equipment (DCE) or in any point-to-point interconnection of serial binary signals between data equipments. The balanced digital interchange circuit will normally be utilized on data and timing, or control circuits where the data signalling rate is up to a maximum limit of 52 Mbit/s.
 status:
   stage:
     content: Published

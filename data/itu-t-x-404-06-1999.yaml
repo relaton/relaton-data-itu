@@ -1,16 +1,16 @@
----
 id: ITUTX404061999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Message Handling Systems (MHS): MHS routing –
-    Guide for messaging systems managers'
+  content: 'Information technology – Message Handling Systems (MHS): MHS routing – Guide for messaging systems managers'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.404-199906-I
+  content: https://handle.itu.int/11.1002/1000/4692
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.404-199906-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.404 (06/1999)
   type: ITU
@@ -54,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Rec. X.404 | ISO/IEC TR10021-11 provides guidance for configuring
-    MTS routing using the directory, and suggests the characteristics of a directory
-    user agent for managing that process. It allows OR-address plans, MTA interconnection
-    topology and the management structures applied to MHS to be dealt with independently
-    of each other whilst remaining within a coordinated framework.
+  content: This ITU-T Rec. X.404 | ISO/IEC TR10021-11 provides guidance for configuring MTS routing using the directory, and suggests the characteristics of a directory user agent for managing that process. It allows OR-address plans, MTA interconnection topology and the management structures applied to MHS to be dealt with independently of each other whilst remaining within a coordinated framework.
 status:
   stage:
     content: Published

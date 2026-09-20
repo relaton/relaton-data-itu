@@ -1,17 +1,16 @@
----
 id: ITUTV90091998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: A digital modem and analogue modem pair for use on the Public Switched
-    Telephone Network (PSTN) at data signalling rates of up to 56 000 bit/s downstream
-    and up to 33 600 bit/s upstream
+  content: A digital modem and analogue modem pair for use on the Public Switched Telephone Network (PSTN) at data signalling rates of up to 56 000 bit/s downstream and up to 33 600 bit/s upstream
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.90-199809-I
+  content: https://handle.itu.int/11.1002/1000/4493
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.90-199809-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.90 (09/1998)
   type: ITU
@@ -52,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the operation of a digital modem and analogue
-    modem pair for use on the Public Switched Telephone Network (PSTN) at data signalling
-    rates of up to 56 000 bit/s in the downstream direction and up to 33 600 bit/s
-    in the upstream direction. The two modems are specified herein in terms of coding,
-    start-up signals and sequences, operating procedures and DTE-DCE interface functionalities.
-    The network interface of the digital modem and the signalling rate that is used
-    to connect the digital modem locally to a digital switched network are considered
-    to be national matters and are hence not specified herein.
+  content: This Recommendation specifies the operation of a digital modem and analogue modem pair for use on the Public Switched Telephone Network (PSTN) at data signalling rates of up to 56 000 bit/s in the downstream direction and up to 33 600 bit/s in the upstream direction. The two modems are specified herein in terms of coding, start-up signals and sequences, operating procedures and DTE-DCE interface functionalities. The network interface of the digital modem and the signalling rate that is used to connect the digital modem locally to a digital switched network are considered to be national matters and are hence not specified herein.
 status:
   stage:
     content: Published

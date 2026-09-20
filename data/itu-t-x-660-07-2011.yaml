@@ -1,17 +1,16 @@
----
 id: ITUTX660072011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Procedures for the operation of object identifier
-    registration authorities: General procedures and top arcs of the international
-    object identifier tree'
+  content: 'Information technology – Procedures for the operation of object identifier registration authorities: General procedures and top arcs of the international object identifier tree'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.660-201107-I
+  content: https://handle.itu.int/11.1002/1000/11336
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.660-201107-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.660 (07/2011)
   type: ITU
@@ -55,28 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.660 | ISO/IEC 9834-1 defines a tree structure that
-    supports international object identifiers (OIDs). It includes registration of
-    the top-level arcs of the OID tree. It also specifies procedures for the operation
-    of an International Registration Authority for use, when needed, by other ITU-T
-    Recommendations and/or International Standards.\r\n\r\nFor easy reference, and
-    to emphasize that this tree is an extended form of the original OID tree (defined
-    in earlier versions of this Recommendation | International Standard), this specific
-    tree can be referred to as \"the International Object Identifier tree\", or more
-    commonly as just \"the OID tree\".\r\n\r\nThe original OID tree required all arcs
-    to be unambiguously identified by a primary integer value, with the use for human
-    readability of (not necessarily unambiguous) secondary identifiers (restricted
-    to the Latin alphabet). Secondary identifiers were not normally carried in protocols
-    or used for machine identification. The international object identifier tree extends
-    this by allowing an arc to also be unambiguously identified by a Unicode label
-    (a string of Unicode characters) that can be carried in protocols and can be used
-    for machine identification.\r\n\r\nThe primary integers and secondary identifiers
-    of the international object identifier tree continue to be used in encodings (primary
-    integer values only) and value notation (primary integer values and secondary
-    identifiers) of the ASN.1 OBJECT IDENTIFIER type, which is unchanged. The Unicode
-    labels can only be used in encodings and value notation of the ASN.1 OID-IRI type.\r\n\r\nThis
-    Recommendation | International Standard also provides recommendations on an appropriate
-    fee structure for registration of lower level arcs."
+  content: "Recommendation ITU-T X.660 | ISO/IEC 9834-1 defines a tree structure that supports international object identifiers (OIDs). It includes registration of the top-level arcs of the OID tree. It also specifies procedures for the operation of an International Registration Authority for use, when needed, by other ITU-T Recommendations and/or International Standards.\r\n\r\nFor easy reference, and to emphasize that this tree is an extended form of the original OID tree (defined in earlier versions of this Recommendation | International Standard), this specific tree can be referred to as \"the International Object Identifier tree\", or more commonly as just \"the OID tree\".\r\n\r\nThe original OID tree required all arcs to be unambiguously identified by a primary integer value, with the use for human readability of (not necessarily unambiguous) secondary identifiers (restricted to the Latin alphabet). Secondary identifiers were not normally carried in protocols or used for machine identification. The international object identifier tree extends this by allowing an arc to also be unambiguously identified by a Unicode label (a string of Unicode characters) that can be carried in protocols and can be used for machine identification.\r\n\r\nThe primary integers and secondary identifiers of the international object identifier tree continue to be used in encodings (primary integer values only) and value notation (primary integer values and secondary identifiers) of the ASN.1 OBJECT IDENTIFIER type, which is unchanged. The Unicode labels can only be used in encodings and value notation of the ASN.1 OID-IRI type.\r\n\r\nThis Recommendation | International Standard also provides recommendations on an appropriate fee structure for registration of lower level arcs."
 status:
   stage:
     content: Published
@@ -96,9 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Procedures
-        for the operation of OSI Registration Authorities: General procedures and
-        top arcs of the International Object Identifier tree'
+      content: 'Information technology – Open Systems Interconnection – Procedures for the operation of OSI Registration Authorities: General procedures and top arcs of the International Object Identifier tree'
     docidentifier:
     - content: X.660 (08/2008)
       type: ITU
@@ -108,9 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Procedures
-        for the operation of OSI Registration Authorities: General procedures and
-        top arcs of the ASN.1 Object Identifier tree'
+      content: 'Information technology – Open Systems Interconnection – Procedures for the operation of OSI Registration Authorities: General procedures and top arcs of the ASN.1 Object Identifier tree'
     docidentifier:
     - content: X.660 (08/2004)
       type: ITU
@@ -140,8 +114,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Procedures
-        for the operation of OSI Registration Authorities: General procedures'
+      content: 'Information technology – Open Systems Interconnection – Procedures for the operation of OSI Registration Authorities: General procedures'
     docidentifier:
     - content: X.660 (09/1992)
       type: ITU
@@ -151,8 +124,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.660 – Supplement on guidelines for using object identifiers
-        for the Internet of things
+      content: ITU-T X.660 – Supplement on guidelines for using object identifiers for the Internet of things
     docidentifier:
     - content: X Suppl. 31 (09/2017)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTV8051999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for starting sessions of data transmission over the public switched
-    telephone network
+  content: Procedures for starting sessions of data transmission over the public switched telephone network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.8-199905-S
+  content: https://handle.itu.int/11.1002/1000/4659
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.8-199905-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.8 (05/1999)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines signals to be exchanged between DCEs over the
-    PSTN when a session of data transmission needs to be established, but before signals
-    are exchanged which are specific to a particular Recommendation. It provides means
-    to automatically determine the best available operational mode between two DCEs
-    connected via the PSTN, provides a timely indication to Circuit Multiplication
-    Equipments on the V-series modulation to be employed in a new session of data
-    transmission, provides a means to enable a PSTN call to be passed on automatically
-    to an appropriate DCE, and provides signals for interacting with PSTN echo-control
-    equipment.This revised Recommendation defines additional call function types,
-    defines procedures for the exchange of non-standard facilities information, and
-    adds support for V.90 modulation modes.
+  content: This Recommendation defines signals to be exchanged between DCEs over the PSTN when a session of data transmission needs to be established, but before signals are exchanged which are specific to a particular Recommendation. It provides means to automatically determine the best available operational mode between two DCEs connected via the PSTN, provides a timely indication to Circuit Multiplication Equipments on the V-series modulation to be employed in a new session of data transmission, provides a means to enable a PSTN call to be passed on automatically to an appropriate DCE, and provides signals for interacting with PSTN echo-control equipment.This revised Recommendation defines additional call function types, defines procedures for the exchange of non-standard facilities information, and adds support for V.90 modulation modes.
 status:
   stage:
     content: Withdrawal
@@ -81,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for starting sessions of data transmission over the public
-        switched telephone network
+      content: Procedures for starting sessions of data transmission over the public switched telephone network
     docidentifier:
     - content: V.8 (11/2000)
       type: ITU
@@ -92,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for starting sessions of data transmission over the public
-        switched telephone network
+      content: Procedures for starting sessions of data transmission over the public switched telephone network
     docidentifier:
     - content: V.8 (02/1998)
       type: ITU
@@ -103,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for starting sessions of data transmission over the general
-        switched telephone network
+      content: Procedures for starting sessions of data transmission over the general switched telephone network
     docidentifier:
     - content: V.8 (09/1994)
       type: ITU

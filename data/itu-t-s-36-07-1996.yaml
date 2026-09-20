@@ -1,16 +1,16 @@
----
 id: ITUTS36071996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Intex and similar services – Terminal requirements to effect interworking
-    between terminals operating at different speeds
+  content: Intex and similar services – Terminal requirements to effect interworking between terminals operating at different speeds
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-S.36-199607-I
+  content: https://handle.itu.int/11.1002/1000/3389
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-S.36-199607-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T S.36 (07/1996)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the requirements to be met by terminals participating
-    in the INTEX service in order to allow interworking between terminals which may
-    be operating at different information transfer rates.
+  content: This Recommendation describes the requirements to be met by terminals participating in the INTEX service in order to allow interworking between terminals which may be operating at different information transfer rates.
 status:
   stage:
     content: Published

@@ -1,4 +1,3 @@
----
 id: ITUTX115041995
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.115-199504-I
+  content: https://handle.itu.int/11.1002/1000/2787
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.115-199504-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.115 (04/1995)
   type: ITU
@@ -50,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides definition of the address translation service,
-    the service provided to its customers, the functions at the network interface
-    and functions within the network when providing this service. The address translation
-    service provides customers the ability to use addresses in formats other than
-    X.121 or E.164 (e.g. user friends addresses like mnemonic addresses, etc.). The
-    addresses can be any of the alternative addresses defined in Recommendation X.25.
-    The network will translate the address in the Call Request packet to the desired
-    address to complete the call.
+  content: This Recommendation provides definition of the address translation service, the service provided to its customers, the functions at the network interface and functions within the network when providing this service. The address translation service provides customers the ability to use addresses in formats other than X.121 or E.164 (e.g. user friends addresses like mnemonic addresses, etc.). The addresses can be any of the alternative addresses defined in Recommendation X.25. The network will translate the address in the Call Request packet to the desired address to complete the call.
 status:
   stage:
     content: Published

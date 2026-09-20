@@ -1,13 +1,14 @@
----
 id: ITUTG956101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Digital line systems based on the 2048 kbit/s hierarchy on optical fibre
-    cables
+  content: Digital line systems based on the 2048 kbit/s hierarchy on optical fibre cables
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/5148
 docidentifier:
 - content: ITU-T G.956 (10/1984)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital line systems based on the 2048 kbit/s hierarchy on optical
-        fibre cables
+      content: Digital line systems based on the 2048 kbit/s hierarchy on optical fibre cables
     docidentifier:
     - content: G.956 (11/1988)
       type: ITU

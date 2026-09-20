@@ -1,16 +1,16 @@
----
 id: ITUTO171041997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Timing jitter and wander measuring equipment for digital systems which
-    are based on the plesiochronous digital hierarchy (PDH)
+  content: Timing jitter and wander measuring equipment for digital systems which are based on the plesiochronous digital hierarchy (PDH)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-O.171-199704-I
+  content: https://handle.itu.int/11.1002/1000/4038
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-O.171-199704-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T O.171 (04/1997)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The requirements for the characteristics of the jitter and wander measuring
-    equipment which are described below must be adhered to in order to ensure compatibility
-    between equipment produced by different manufacturers.While requirements are given
-    for the equipment, the realization of the equipment configuration is not covered
-    and should be given careful consideration by the designer and user. In particular,
-    it is not required that all features listed below shall be provided in one piece
-    of equipment. Users may select those functions which correspond best to their
-    applications.
+  content: The requirements for the characteristics of the jitter and wander measuring equipment which are described below must be adhered to in order to ensure compatibility between equipment produced by different manufacturers.While requirements are given for the equipment, the realization of the equipment configuration is not covered and should be given careful consideration by the designer and user. In particular, it is not required that all features listed below shall be provided in one piece of equipment. Users may select those functions which correspond best to their applications.
 status:
   stage:
     content: Published
@@ -98,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification for instrumentation to measure timing jitter on digital
-        equipment
+      content: Specification for instrumentation to measure timing jitter on digital equipment
     docidentifier:
     - content: O.171 (10/1984)
       type: ITU
@@ -109,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification for instrumentation to measure timing-'jitter on digital
-        equipment
+      content: Specification for instrumentation to measure timing-'jitter on digital equipment
     docidentifier:
     - content: O.171 (11/1980)
       type: ITU

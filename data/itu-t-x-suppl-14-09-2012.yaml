@@ -1,16 +1,16 @@
----
 id: ITUTXSuppl14092012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1243 - Supplement on a practical reference model for countering
-    e-mail spam using botnet information
+  content: ITU-T X.1243 - Supplement on a practical reference model for countering e-mail spam using botnet information
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup14-201209-I
+  content: https://handle.itu.int/11.1002/1000/11755
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup14-201209-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 14 (09/2012)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Botnets are a major source of e-mail spam. Botnet related devices, including
-    master, command and control (C&C) servers and infected computers, are decentralized
-    on the Internet, which greatly challenges any party to identify botnets and discover
-    specific botnet-related information. Therefore, information sharing becomes a
-    crucial factor to counter e-mail spam sent by a botnet. This Supplement provides
-    a reference model which can be applied to the interactive gateway system for countering
-    spam, in accordance with Recommendation ITU-T X.1243. In this reference model,
-    spam-countering gateways can share botnet-related information with each other.
-    This Supplement mainly focuses on countering e-mail spam sent by a botnet.
+  content: Botnets are a major source of e-mail spam. Botnet related devices, including master, command and control (C&C) servers and infected computers, are decentralized on the Internet, which greatly challenges any party to identify botnets and discover specific botnet-related information. Therefore, information sharing becomes a crucial factor to counter e-mail spam sent by a botnet. This Supplement provides a reference model which can be applied to the interactive gateway system for countering spam, in accordance with Recommendation ITU-T X.1243. In this reference model, spam-countering gateways can share botnet-related information with each other. This Supplement mainly focuses on countering e-mail spam sent by a botnet.
 status:
   stage:
     content: Published

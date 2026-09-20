@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl6092008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in next
-    generation networks
+  content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in next generation networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup6-200809-I
+  content: https://handle.itu.int/11.1002/1000/9576
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup6-200809-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 6 (09/2008)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 6 to ITU-T Y-series Recommendations describes how the set of
-    specifications developed by the DSL Forum may be used in the context of next generation
-    networks.
+  content: Supplement 6 to ITU-T Y-series Recommendations describes how the set of specifications developed by the DSL Forum may be used in the context of next generation networks.
 status:
   stage:
     content: Published

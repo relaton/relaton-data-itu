@@ -1,17 +1,16 @@
----
 id: ITUTJ340062010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Reference algorithm for computing peak signal to noise ratio of a processed
-    video sequence with compensation for constant spatial shifts, constant temporal
-    shift, and constant luminance gain and offset
+  content: Reference algorithm for computing peak signal to noise ratio of a processed video sequence with compensation for constant spatial shifts, constant temporal shift, and constant luminance gain and offset
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.340-201006-I
+  content: https://handle.itu.int/11.1002/1000/10551
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.340-201006-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.340 (06/2010)
   type: ITU
@@ -52,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Peak signal to noise ratio (PSNR) is a useful benchmark for evaluating
-    performance improvements of new objective perceptual video quality metrics. This
-    PSNR calculation method in Recommendation ITU-T J.340 has the advantage of automatically
-    determining the highest possible PSNR value for a given video sequence over the
-    range of spatial and temporal shifts. Only one temporal shift is allowed for all
-    frames in the entire processed video sequence (i.e., constant delay).\r\n\r\nThis
-    Recommendation defines a full reference (FR) algorithm for computing both the
-    calibration and PSNR estimations for a processed video sequence: peak signal to
-    noise ratio with compensation for constant spatial shifts, constant temporal shift,
-    and constant luminance gain and offset (PSNRconst). Since the PSNRconst algorithm
-    only examines the Y luminance channel (as defined by Recommendation ITU-R BT.601-6)
-    distortions in the CB and CR chrominance channels will not be detected by the
-    algorithm of this Recommendation. The intent of this Recommendation is to define
-    and facilitate a standardized PSNR metric for use by industry and standard organizations.
-    Reference code and test vectors have been included to assure accurate and consistent
-    implementation of this PSNRconst metric."
+  content: "Peak signal to noise ratio (PSNR) is a useful benchmark for evaluating performance improvements of new objective perceptual video quality metrics. This PSNR calculation method in Recommendation ITU-T J.340 has the advantage of automatically determining the highest possible PSNR value for a given video sequence over the range of spatial and temporal shifts. Only one temporal shift is allowed for all frames in the entire processed video sequence (i.e., constant delay).\r\n\r\nThis Recommendation defines a full reference (FR) algorithm for computing both the calibration and PSNR estimations for a processed video sequence: peak signal to noise ratio with compensation for constant spatial shifts, constant temporal shift, and constant luminance gain and offset (PSNRconst). Since the PSNRconst algorithm only examines the Y luminance channel (as defined by Recommendation ITU-R BT.601-6) distortions in the CB and CR chrominance channels will not be detected by the algorithm of this Recommendation. The intent of this Recommendation is to define and facilitate a standardized PSNR metric for use by industry and standard organizations. Reference code and test vectors have been included to assure accurate and consistent implementation of this PSNRconst metric."
 status:
   stage:
     content: Published
@@ -87,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -98,10 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -111,9 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -133,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -144,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -155,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -166,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -177,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -188,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -199,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

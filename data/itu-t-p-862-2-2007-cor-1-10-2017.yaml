@@ -1,10 +1,11 @@
----
 id: ITUTP86222007Cor1102017
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.862.2-201710-W!Cor1
+  content: https://handle.itu.int/11.1002/1000/13398
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.862.2-201710-W!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T P.862.2 (2007) Cor. 1 (10/2017)
   type: ITU
@@ -45,17 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Corrigendum addresses P.862.2 systematic under-prediction of subjective
-    scores. The under-prediction, 0.8 MOS on average, is due to the audio signals
-    being exposed at an incorrect level to the loudness model. The issue leads to
-    degradations being exaggerated and producing lower scores than expected.\r\n\r\nThe
-    following correction to the P.862.2 reference implementation adjusts the signals
-    to a target level of 76 dB(SPL) for wideband assessment:\r\n\r\npesqmain.c, line
-    421:\r\nfloat WB_InIIR_Hsos_8k[LINIIR] = { 0.251188 * 2.6657628f, 0.251188 * -5.3315255f,
-    0.251188 * 2.6657628f,  -1.8890331f,  0.89487434f };\r\n\r\npesqmain.c, line 424:\r\nfloat
-    WB_InIIR_Hsos_16k[LINIIR] = { 0.251188 * 2.740826f, 0.251188 * -5.4816519f,  0.251188
-    * 2.740826f,  -1.9444777f,  0.94597794f };\r\n\r\nThe updated conformance test
-    file for P.862.2 is included in this Corrigendum (suppl23_wb.txt).\r\n"
+  content: "This Corrigendum addresses P.862.2 systematic under-prediction of subjective scores. The under-prediction, 0.8 MOS on average, is due to the audio signals being exposed at an incorrect level to the loudness model. The issue leads to degradations being exaggerated and producing lower scores than expected.\r\n\r\nThe following correction to the P.862.2 reference implementation adjusts the signals to a target level of 76 dB(SPL) for wideband assessment:\r\n\r\npesqmain.c, line 421:\r\nfloat WB_InIIR_Hsos_8k[LINIIR] = { 0.251188 * 2.6657628f, 0.251188 * -5.3315255f, 0.251188 * 2.6657628f,  -1.8890331f,  0.89487434f };\r\n\r\npesqmain.c, line 424:\r\nfloat WB_InIIR_Hsos_16k[LINIIR] = { 0.251188 * 2.740826f, 0.251188 * -5.4816519f,  0.251188 * 2.740826f,  -1.9444777f,  0.94597794f };\r\n\r\nThe updated conformance test file for P.862.2 is included in this Corrigendum (suppl23_wb.txt).\r\n"
 status:
   stage:
     content: Withdrawal
@@ -75,8 +66,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Wideband extension to Recommendation P.862 for the assessment of wideband
-        telephone networks and speech codecs
+      content: Wideband extension to Recommendation P.862 for the assessment of wideband telephone networks and speech codecs
     docidentifier:
     - content: P.862.2 (11/2007)
       type: ITU
@@ -86,8 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Wideband extension to Recommendation P.862 for the assessment of wideband
-        telephone networks and speech codecs
+      content: Wideband extension to Recommendation P.862 for the assessment of wideband telephone networks and speech codecs
     docidentifier:
     - content: P.862.2 (11/2005)
       type: ITU

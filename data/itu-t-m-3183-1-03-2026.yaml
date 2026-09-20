@@ -1,16 +1,16 @@
----
 id: ITUTM31831032026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interface for log analysis in telecommunication management with artificial
-    intelligence – Protocol neutral requirements
+  content: Interface for log analysis in telecommunication management with artificial intelligence – Protocol neutral requirements
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3183.1-202603-I
+  content: https://handle.itu.int/11.1002/1000/16746
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3183.1-202603-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3183.1 (03/2026)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3183.1 proposes protocol-neutral requirements for
-    the management interface across network elements, the log analysis system in telecommunication
-    management with artificial intelligence (AI), the AI engine and the operation
-    management system. It specifies the requirements across the interfaces with the
-    key functions, including log collection tasks, log storage, log record query,
-    alarm management, AI invocation and log analysis result reporting. This series
-    of Recommendations are intended to enhance the stability, transparency and interoperability
-    of AI log analysis systems in diverse applications. This Recommendation aims to
-    standardize the design, development and application of log analysis system management
-    interfaces.\r\n"
+  content: "Recommendation ITU-T M.3183.1 proposes protocol-neutral requirements for the management interface across network elements, the log analysis system in telecommunication management with artificial intelligence (AI), the AI engine and the operation management system. It specifies the requirements across the interfaces with the key functions, including log collection tasks, log storage, log record query, alarm management, AI invocation and log analysis result reporting. This series of Recommendations are intended to enhance the stability, transparency and interoperability of AI log analysis systems in diverse applications. This Recommendation aims to standardize the design, development and application of log analysis system management interfaces.\r\n"
 status:
   stage:
     content: Published

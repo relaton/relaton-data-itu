@@ -1,16 +1,16 @@
----
 id: ITUTX950081997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Distributed Processing – Trading Function:
-    Specification'
+  content: 'Information technology – Open Distributed Processing – Trading Function: Specification'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.950-199708-I
+  content: https://handle.itu.int/11.1002/1000/4138
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.950-199708-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.950 (08/1997)
   type: ITU
@@ -54,13 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies the ODP trading
-    function. The trading function is one of the components of the architecture of
-    the ODP reference model defined in ITU-T Rec. 903 | ISO/IEC 10746-3. The trading
-    function provides the means to offer services and to discover services that have
-    been offered in an ODP system. The field of application of the trading function
-    is any ODP system in which it is required to introduce and discover services incrementally,
-    dynamically and openly.
+  content: This Recommendation | International Standard specifies the ODP trading function. The trading function is one of the components of the architecture of the ODP reference model defined in ITU-T Rec. 903 | ISO/IEC 10746-3. The trading function provides the means to offer services and to discover services that have been offered in an ODP system. The field of application of the trading function is any ODP system in which it is required to introduce and discover services incrementally, dynamically and openly.
 status:
   stage:
     content: Published

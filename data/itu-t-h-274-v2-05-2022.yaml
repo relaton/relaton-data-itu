@@ -1,16 +1,16 @@
----
 id: ITUTH274V2052022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Versatile supplemental enhancement information messages for coded video
-    bitstreams
+  content: Versatile supplemental enhancement information messages for coded video bitstreams
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.274-202205-S
+  content: https://handle.itu.int/11.1002/1000/14949
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.274-202205-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.274 (V2) (05/2022)
   type: ITU
@@ -54,18 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.274 specifies the syntax and semantics of video
-    usability information (VUI) parameters and supplemental enhancement information
-    (SEI) messages for use with coded video bitstreams. The VUI parameters and SEI
-    messages defined in this Recommendation may be conveyed within coded video bitstreams
-    in a manner specified in a video coding specification or may be conveyed by other
-    means as determined by the specifications for systems that make use of such coded
-    video bitstreams. This Recommendation is particularly intended for use with coded
-    video bitstreams as specified by Rec. ITU-T H.266 | ISO/IEC 23090-3, although
-    it is drafted in a manner intended to be sufficiently versatile and generic that
-    it may also be used with other types of coded video bitstreams.\r\nThis Recommendation
-    was developed collaboratively with ISO/IEC JTC 1/SC 29 and corresponds with ISO/IEC
-    23002 7 as technically aligned twin text.\r\n"
+  content: "Recommendation ITU-T H.274 specifies the syntax and semantics of video usability information (VUI) parameters and supplemental enhancement information (SEI) messages for use with coded video bitstreams. The VUI parameters and SEI messages defined in this Recommendation may be conveyed within coded video bitstreams in a manner specified in a video coding specification or may be conveyed by other means as determined by the specifications for systems that make use of such coded video bitstreams. This Recommendation is particularly intended for use with coded video bitstreams as specified by Rec. ITU-T H.266 | ISO/IEC 23090-3, although it is drafted in a manner intended to be sufficiently versatile and generic that it may also be used with other types of coded video bitstreams.\r\nThis Recommendation was developed collaboratively with ISO/IEC JTC 1/SC 29 and corresponds with ISO/IEC 23002 7 as technically aligned twin text.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -85,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Versatile supplemental enhancement information messages for coded video
-        bitstreams
+      content: Versatile supplemental enhancement information messages for coded video bitstreams
     docidentifier:
     - content: H.274 (V4) (01/2026)
       type: ITU
@@ -96,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Versatile supplemental enhancement information messages for coded video
-        bitstreams
+      content: Versatile supplemental enhancement information messages for coded video bitstreams
     docidentifier:
     - content: H.274 (V3) (09/2023)
       type: ITU
@@ -107,8 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Versatile supplemental enhancement information messages for coded video
-        bitstreams
+      content: Versatile supplemental enhancement information messages for coded video bitstreams
     docidentifier:
     - content: H.274 (08/2020)
       type: ITU
@@ -118,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application profile – Sign language and lip-reading real-time conversation
-        using low bit rate video communication
+      content: Application profile – Sign language and lip-reading real-time conversation using low bit rate video communication
     docidentifier:
     - content: H Suppl. 1 (05/1999)
       type: ITU
@@ -139,9 +124,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -161,8 +144,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -172,8 +154,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -183,8 +164,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -194,8 +174,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -215,8 +194,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -246,8 +224,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

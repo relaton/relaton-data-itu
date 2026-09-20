@@ -1,16 +1,16 @@
----
 id: ITUTHSuppl3052003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Operator requirements for full-service VDSL in ITU-T Recommendations H.610
-    and H.611
+  content: Operator requirements for full-service VDSL in ITU-T Recommendations H.610 and H.611
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.Sup3-200305-I
+  content: https://handle.itu.int/11.1002/1000/6487
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.Sup3-200305-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H Suppl. 3 (05/2003)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement is based on the Full-Service VDSL Focus Group Technical
-    Specification (FGTS) - Part 1 "FS-VDSL Operators Requirements" and complements
-    the specifications found in ITU-T Recs H.610 and H.611.
+  content: This Supplement is based on the Full-Service VDSL Focus Group Technical Specification (FGTS) - Part 1 "FS-VDSL Operators Requirements" and complements the specifications found in ITU-T Recs H.610 and H.611.
 status:
   stage:
     content: Published

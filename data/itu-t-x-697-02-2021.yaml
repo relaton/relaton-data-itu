@@ -1,16 +1,16 @@
----
 id: ITUTX697022021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology - ASN.1 encoding rules: Specification of JavaScript
-    Object Notation Encoding Rules (JER)'
+  content: 'Information technology - ASN.1 encoding rules: Specification of JavaScript Object Notation Encoding Rules (JER)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.697-202102-I
+  content: https://handle.itu.int/11.1002/1000/14479
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.697-202102-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.697 (02/2021)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Rec. ITU-T X.697 | ISO/IEC 8825-8 specifies a set of JavaScript Object
-    Notation Encoding Rules (JER) that may be used to derive a transfer syntax for
-    values of types defined in Rec. ITU-T X.680 | ISO/IEC 8824-1, Rec. ITU-T X.681
-    | ISO/IEC 8824-2, Rec. ITU-T X.682 | ISO/IEC 8824-3 and Rec. ITU-T X.683 | ISO/IEC
-    8824-4. It is implicit in the specification of these encoding rules that they
-    are also to be used for decoding. \r\n"
+  content: "Rec. ITU-T X.697 | ISO/IEC 8825-8 specifies a set of JavaScript Object Notation Encoding Rules (JER) that may be used to derive a transfer syntax for values of types defined in Rec. ITU-T X.680 | ISO/IEC 8824-1, Rec. ITU-T X.681 | ISO/IEC 8824-2, Rec. ITU-T X.682 | ISO/IEC 8824-3 and Rec. ITU-T X.683 | ISO/IEC 8824-4. It is implicit in the specification of these encoding rules that they are also to be used for decoding. \r\n"
 status:
   stage:
     content: Published
@@ -79,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: Specification of JavaScript
-        Object Notation Encoding Rules (JER)'
+      content: 'Information technology - ASN.1 encoding rules: Specification of JavaScript Object Notation Encoding Rules (JER)'
     docidentifier:
     - content: X.697 (10/2017)
       type: ITU

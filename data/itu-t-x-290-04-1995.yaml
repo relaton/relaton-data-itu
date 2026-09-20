@@ -1,16 +1,16 @@
----
 id: ITUTX290041995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: OSI conformance testing methodology and framework for protocol Recommendations
-    for ITU-T applications – General concepts
+  content: OSI conformance testing methodology and framework for protocol Recommendations for ITU-T applications – General concepts
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.290-199504-I
+  content: https://handle.itu.int/11.1002/1000/2900
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.290-199504-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.290 (04/1995)
   type: ITU
@@ -54,14 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the general concepts for OSI conformance testing
-    methodology and framework for protocol Recommendations. It provides general principles
-    for conformance testing which can make possible wide acceptance and confidence
-    of conformance test results. It describes the definition of terms, test methods
-    and test suites of OSI protocol conformance testing. The text was developed jointly
-    with ISO/IEC JTC1 and the main intent of this revision is to reflect the changes
-    as a result of the work on Protocol Profile Testing Methodology(PPTM) and on Multi-Party
-    Testing Methodology(MPyTM).
+  content: This Recommendation defines the general concepts for OSI conformance testing methodology and framework for protocol Recommendations. It provides general principles for conformance testing which can make possible wide acceptance and confidence of conformance test results. It describes the definition of terms, test methods and test suites of OSI protocol conformance testing. The text was developed jointly with ISO/IEC JTC1 and the main intent of this revision is to reflect the changes as a result of the work on Protocol Profile Testing Methodology(PPTM) and on Multi-Party Testing Methodology(MPyTM).
 status:
   stage:
     content: Published
@@ -81,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: OSI conformance testing methodology and framework for protocol Recommendations
-        for CCITT applications – General concepts
+      content: OSI conformance testing methodology and framework for protocol Recommendations for CCITT applications – General concepts
     docidentifier:
     - content: X.290 (01/1992)
       type: ITU
@@ -92,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: OSI conformance testing methodology and framework for protocol Recommendations
-        for CCITT Applications – General concepts
+      content: OSI conformance testing methodology and framework for protocol Recommendations for CCITT Applications – General concepts
     docidentifier:
     - content: X.290 (11/1988)
       type: ITU
@@ -103,8 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.290-series – Supplement on generic approach to interoperability
-        testing
+      content: ITU-T X.290-series – Supplement on generic approach to interoperability testing
     docidentifier:
     - content: X Suppl. 4 (09/2008)
       type: ITU
@@ -114,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.290 series – Supplement on interoperability testing framework
-        and methodology
+      content: ITU-T X.290 series – Supplement on interoperability testing framework and methodology
     docidentifier:
     - content: X Suppl. 5 (09/2008)
       type: ITU

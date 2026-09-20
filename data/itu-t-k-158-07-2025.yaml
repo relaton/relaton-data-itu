@@ -1,16 +1,16 @@
----
 id: ITUTK158072025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Practical guidance for protection of the indoor distribution system for
-    mobile communications in large-scale physical buildings
+  content: Practical guidance for protection of the indoor distribution system for mobile communications in large-scale physical buildings
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.158-202507-I
+  content: https://handle.itu.int/11.1002/1000/16406
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.158-202507-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.158 (07/2025)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.158 gives a practical guidance on the earthing
-    and bonding for the main configuration type of indoor distribution system in large-scale
-    physical buildings to minimize the risk of damage to equipment and possible injury
-    considering of lightning protection and safety.\r\nThe indoor distribution system
-    for mobile communication is used to improve the performance of mobile communication
-    signal coverage in large-scale physical buildings. The installation requirement
-    of earthing and bonding for this system still lack clear guidance in the existing
-    Recommendations, i.e., Recommendations ITU-T K.56, ITU-T K.97, ITU-T K.112 and
-    ITU-T K.120.\r\n\r\n"
+  content: "Recommendation ITU-T K.158 gives a practical guidance on the earthing and bonding for the main configuration type of indoor distribution system in large-scale physical buildings to minimize the risk of damage to equipment and possible injury considering of lightning protection and safety.\r\nThe indoor distribution system for mobile communication is used to improve the performance of mobile communication signal coverage in large-scale physical buildings. The installation requirement of earthing and bonding for this system still lack clear guidance in the existing Recommendations, i.e., Recommendations ITU-T K.56, ITU-T K.97, ITU-T K.112 and ITU-T K.120.\r\n\r\n"
 status:
   stage:
     content: Published
@@ -79,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -100,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -111,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -133,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -164,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

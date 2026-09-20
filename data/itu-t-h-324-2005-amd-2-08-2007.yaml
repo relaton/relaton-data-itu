@@ -1,16 +1,16 @@
----
 id: ITUTH3242005Amd2082007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: New Annex L on text conversation and associated changes; corrections and
-    clarifications to Annex K
+  content: New Annex L on text conversation and associated changes; corrections and clarifications to Annex K
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.324-200708-S!Amd2
+  content: https://handle.itu.int/11.1002/1000/9227
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.324-200708-S!Amd2!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.324 (2005) Amd. 2 (08/2007)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment to ITU-T Recommendation H.324 adds Annex L on text conversation
-    along with its associated changes. It corrects an issue in the Annex K MPC H.264
-    configuration that was invalid, and also clarifies a minor matter in Annex K to
-    avoid implementer confusion in trying to determine a codec priority where (purposefully)
-    no priority relation exists in the protocol. Some other editorial changes were
-    also made.
+  content: This amendment to ITU-T Recommendation H.324 adds Annex L on text conversation along with its associated changes. It corrects an issue in the Annex K MPC H.264 configuration that was invalid, and also clarifies a minor matter in Annex K to avoid implementer confusion in trying to determine a codec priority where (purposefully) no priority relation exists in the protocol. Some other editorial changes were also made.
 status:
   stage:
     content: Withdrawal
@@ -96,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex K "Media oriented negotiation acceleration procedure" and
-        associated changes to Annex J
+      content: New Annex K "Media oriented negotiation acceleration procedure" and associated changes to Annex J
     docidentifier:
     - content: H.324 (2005) Amd. 1 (08/2006)
       type: ITU
@@ -223,9 +217,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -245,8 +237,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -256,8 +247,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -267,8 +257,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -278,8 +267,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -299,8 +287,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -330,8 +317,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

@@ -1,10 +1,11 @@
----
 id: ITUTZ1001999Cor1102001
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Z.100-200110-S!Cor1
+  content: https://handle.itu.int/11.1002/1000/5567
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Z.100-200110-S!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T Z.100 (1999) Cor. 1 (10/2001)
   type: ITU
@@ -45,10 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This corrigendum contains a list of changes to ITU-T Rec. Z.100 (SDL) that
-    was approved by Study Group 10 in November 2000, plus additional changes agreed
-    to by the Expert Group at subsequent meetings, and the final list agreed to by
-    SG 10 at the meeting in September 2001.
+  content: This corrigendum contains a list of changes to ITU-T Rec. Z.100 (SDL) that was approved by Study Group 10 in November 2000, plus additional changes agreed to by the Expert Group at subsequent meetings, and the final list agreed to by SG 10 at the meeting in September 2001.
 status:
   stage:
     content: Withdrawal
@@ -68,8 +66,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: Dynamic semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Dynamic semantics'
     docidentifier:
     - content: Z.100 Annex F3 (06/2021)
       type: ITU
@@ -79,8 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: Static semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Static semantics'
     docidentifier:
     - content: Z.100 Annex F2 (06/2021)
       type: ITU
@@ -90,8 +86,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: General overview'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: General overview'
     docidentifier:
     - content: Z.100 Annex F1 (10/2019)
       type: ITU
@@ -111,8 +106,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010
-        formal definition: Dynamic semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010 formal definition: Dynamic semantics'
     docidentifier:
     - content: Z.100 Annex F3 (10/2019)
       type: ITU
@@ -122,8 +116,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010
-        formal definition: Static semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010 formal definition: Static semantics'
     docidentifier:
     - content: Z.100 Annex F2 (10/2019)
       type: ITU
@@ -213,8 +206,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: Dynamic semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Dynamic semantics'
     docidentifier:
     - content: Z.100 Annex F3 (01/2015)
       type: ITU
@@ -224,8 +216,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: Static semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Static semantics'
     docidentifier:
     - content: Z.100 Annex F2 (01/2015)
       type: ITU
@@ -235,8 +226,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: General overview'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: General overview'
     docidentifier:
     - content: Z.100 Annex F1 (01/2015)
       type: ITU
@@ -592,8 +582,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

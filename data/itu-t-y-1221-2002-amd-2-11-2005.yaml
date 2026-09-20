@@ -1,4 +1,3 @@
----
 id: ITUTY12212002Amd2112005
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1221-200511-S!Amd2
+  content: https://handle.itu.int/11.1002/1000/8675
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1221-200511-S!Amd2!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1221 (2002) Amd. 2 (11/2005)
   type: ITU
@@ -50,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment contains a new clause 6.5 "Conditionally dedicated bandwidth
-    (CDBW) transfer capability" to be inserted in ITU-T Rec. Y.1221 when it is next
-    revised. With this amendment, the summary of ITU-T Rec. Y.1221 remains unchanged
-    as:"This Recommendation provides a general description as well as objectives and
-    procedures for traffic control and congestion control for IP-based networks. In
-    particular, it describes the concepts of the traffic contract between a user and
-    the network. It specifies the IP transfer capabilities (IPTCs) including, for
-    each IPTC, the service model, the associated traffic patterns and conformance
-    definition."
+  content: This amendment contains a new clause 6.5 "Conditionally dedicated bandwidth (CDBW) transfer capability" to be inserted in ITU-T Rec. Y.1221 when it is next revised. With this amendment, the summary of ITU-T Rec. Y.1221 remains unchanged as:"This Recommendation provides a general description as well as objectives and procedures for traffic control and congestion control for IP-based networks. In particular, it describes the concepts of the traffic contract between a user and the network. It specifies the IP transfer capabilities (IPTCs) including, for each IPTC, the service model, the associated traffic patterns and conformance definition."
 status:
   stage:
     content: Withdrawal
@@ -138,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -149,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -160,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

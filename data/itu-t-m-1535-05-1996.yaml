@@ -1,16 +1,16 @@
----
 id: ITUTM1535051996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Principles for maintenance information to be exchanged at customer contact
-    point (MICC)
+  content: Principles for maintenance information to be exchanged at customer contact point (MICC)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1535-199605-I
+  content: https://handle.itu.int/11.1002/1000/3359
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1535-199605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1535 (05/1996)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A customer contact point is a conceptual point at which a service provider
-    can interact with any customer of the offered service for the purpose of maintaining
-    communication services.This Recommendation describes principles for the minimum
-    maintenance information to be exchanged at customer contact point (MICC) with
-    the application of a reference model and terms for maintenance information exchange
-    between a customer and a service provider's customer care staff at customer contact
-    point under environment of multiservice providers.
+  content: A customer contact point is a conceptual point at which a service provider can interact with any customer of the offered service for the purpose of maintaining communication services.This Recommendation describes principles for the minimum maintenance information to be exchanged at customer contact point (MICC) with the application of a reference model and terms for maintenance information exchange between a customer and a service provider's customer care staff at customer contact point under environment of multiservice providers.
 status:
   stage:
     content: Published

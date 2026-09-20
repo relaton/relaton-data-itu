@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl78022025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signalling requirements of service function chaining (SFC) with non-uniformly
-    encoded service index in service forwarding path (SFP) changing scenarios
+  content: Signalling requirements of service function chaining (SFC) with non-uniformly encoded service index in service forwarding path (SFP) changing scenarios
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup78-202502-I
+  content: https://handle.itu.int/11.1002/1000/16367
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup78-202502-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 78 (02/2025)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 78 to the ITU-T Q-series Recommendations describes the signalling
-    requirements of service function chaining (SFC) with a non-uniformly encoded service
-    index (SI) in service forwarding path (SFP) changing scenarios. This Supplement
-    focuses on the signalling between different service function forwarders (SFFs)
-    and controllers.\r\n"
+  content: "Supplement 78 to the ITU-T Q-series Recommendations describes the signalling requirements of service function chaining (SFC) with a non-uniformly encoded service index (SI) in service forwarding path (SFP) changing scenarios. This Supplement focuses on the signalling between different service function forwarders (SFFs) and controllers.\r\n"
 status:
   stage:
     content: Published

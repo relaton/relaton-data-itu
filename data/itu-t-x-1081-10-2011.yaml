@@ -1,16 +1,16 @@
----
 id: ITUTX1081102011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: The telebiometric multimodal model – A framework for the specification
-    of security and safety aspects of telebiometrics
+  content: The telebiometric multimodal model – A framework for the specification of security and safety aspects of telebiometrics
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1081-201110-I
+  content: https://handle.itu.int/11.1002/1000/11452
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1081-201110-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1081 (10/2011)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The telebiometric multimodal model has been developed from two main sources
-    that provide the solid foundation for the model. The first is a considerable body
-    of theoretical work on systems, scale propinquity, hierarchies and modalities
-    of interaction between a human being and the environment. The second comes from
-    the specifications in the ISO/IEC 80000-series of quantities and units, for all
-    known forms of measurement of the magnitude of physical interactions between a
-    person and its environment.\r\n\r\nThe telebiometric multimodal model is not limited
-    to consideration of purely physical interactions, but also recognizes behavioural
-    interactions. Such interactions are currently not quantified by standard units.
-    It also recognizes the importance of examining all possible interactions using
-    the insights provided by a number of different fields of academic study. The model
-    itself consists of a specification of a number of dimensions related to interactions
-    in a set of specified modalities, in both directions, at various intensities,
-    using the complete range of quantities and units specified in the ISO/IEC 80000-series.
-    This provides a taxonomy of all possible interactions, which contains more than
-    1600 combinations of measurement units, modalities and fields of study."
+  content: "The telebiometric multimodal model has been developed from two main sources that provide the solid foundation for the model. The first is a considerable body of theoretical work on systems, scale propinquity, hierarchies and modalities of interaction between a human being and the environment. The second comes from the specifications in the ISO/IEC 80000-series of quantities and units, for all known forms of measurement of the magnitude of physical interactions between a person and its environment.\r\n\r\nThe telebiometric multimodal model is not limited to consideration of purely physical interactions, but also recognizes behavioural interactions. Such interactions are currently not quantified by standard units. It also recognizes the importance of examining all possible interactions using the insights provided by a number of different fields of academic study. The model itself consists of a specification of a number of dimensions related to interactions in a set of specified modalities, in both directions, at various intensities, using the complete range of quantities and units specified in the ISO/IEC 80000-series. This provides a taxonomy of all possible interactions, which contains more than 1600 combinations of measurement units, modalities and fields of study."
 status:
   stage:
     content: Published
@@ -122,8 +107,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The telebiometric multimodal model – A framework for the specification
-        of security and safety aspects of telebiometrics
+      content: The telebiometric multimodal model – A framework for the specification of security and safety aspects of telebiometrics
     docidentifier:
     - content: X.1081 (04/2004)
       type: ITU

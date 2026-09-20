@@ -1,16 +1,16 @@
----
 id: ITUTN1031993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Definitions for application to international sound-programme and television-sound
-    transmission
+  content: Definitions for application to international sound-programme and television-sound transmission
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-N.1-199303-I
+  content: https://handle.itu.int/11.1002/1000/1633
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-N.1-199303-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T N.1 (03/1993)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation identifies the international call routing principles
-    and guidance in the user plane for the restricted short-term UPT service scenario,
-    the basic UPT service scenario and the beginnings of the enhanced UPT service
-    scenario which are applicable to UPT InCalls, UPT OutCalls and UPT to UPT calls.\r\nThis
-    Recommendation is intended to enable early implementations without providing exhaustive
-    or restrictive lists of implementations."
+  content: "This Recommendation identifies the international call routing principles and guidance in the user plane for the restricted short-term UPT service scenario, the basic UPT service scenario and the beginnings of the enhanced UPT service scenario which are applicable to UPT InCalls, UPT OutCalls and UPT to UPT calls.\r\nThis Recommendation is intended to enable early implementations without providing exhaustive or restrictive lists of implementations."
 status:
   stage:
     content: Published

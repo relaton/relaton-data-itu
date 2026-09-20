@@ -1,16 +1,16 @@
----
 id: ITUTG8271112000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Availability performance objectives for end-to-end international constant
-    bit-rate digital paths at or above the primary rate
+  content: Availability performance objectives for end-to-end international constant bit-rate digital paths at or above the primary rate
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.827.1-200011-W
+  content: https://handle.itu.int/11.1002/1000/5235
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.827.1-200011-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.827.1 (11/2000)
   type: ITU
@@ -46,13 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines network performance objectives for describing
-    end-to-end availability performance of international constant bit-rate digital
-    paths at or above the primary rate. The parameters to which these objectives apply
-    are defined in ITU-T G.827.The objectives given are independent of the physical
-    network supporting the path. Guidance on determining expected end-to-end performance
-    using the objectives for path elements is provided in Annex A, and depends on
-    the actual path topology.
+  content: This Recommendation defines network performance objectives for describing end-to-end availability performance of international constant bit-rate digital paths at or above the primary rate. The parameters to which these objectives apply are defined in ITU-T G.827.The objectives given are independent of the physical network supporting the path. Guidance on determining expected end-to-end performance using the objectives for path elements is provided in Annex A, and depends on the actual path topology.
 status:
   stage:
     content: Withdrawal

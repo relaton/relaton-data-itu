@@ -1,16 +1,16 @@
----
 id: ITUTX445041995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Asynchronous protocol specification – Provision of OSI connection mode
-    network service over the telephone network
+  content: Asynchronous protocol specification – Provision of OSI connection mode network service over the telephone network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.445-199504-I
+  content: https://handle.itu.int/11.1002/1000/2970
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.445-199504-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.445 (04/1995)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the protocols to be used to provide OSI connection
-    mode network service to applications entities such as MHS entities (e.g. UA, MTA,
-    MS) when communicating in an asynchronous environment (i.e. start/stop transmissions)
-    over a telephone network.The communication can be directly over a telephone network
-    connection, or over a telephone network connection to a PSDN through a PAD, or
-    over a telephone network connection to a PSDN using the packet mode.
+  content: This Recommendation specifies the protocols to be used to provide OSI connection mode network service to applications entities such as MHS entities (e.g. UA, MTA, MS) when communicating in an asynchronous environment (i.e. start/stop transmissions) over a telephone network.The communication can be directly over a telephone network connection, or over a telephone network connection to a PSDN through a PAD, or over a telephone network connection to a PSDN using the packet mode.
 status:
   stage:
     content: Published

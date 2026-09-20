@@ -1,16 +1,16 @@
----
 id: ITUTX1526012014
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Language for the open definition of vulnerabilities and for the assessment
-    of a system state
+  content: Language for the open definition of vulnerabilities and for the assessment of a system state
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1526-201401-I
+  content: https://handle.itu.int/11.1002/1000/12039
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1526-201401-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1526 (01/2014)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T X.1526 on the language for the open definition of
-    vulnerabilities and for the assessment of a system state (also known as, open
-    vulnerability and assessment language, (OVAL)) includes the three main steps of
-    the assessment process: representing configuration information of endpoints for
-    testing; analysing the endpoint for the presence of the specified machine state
-    (vulnerability, configuration, patch state, etc.) and reporting the results of
-    this assessment. The purpose of OVAL is to provide an international, information
-    security, community standard to promote open and publicly available security content
-    and to standardize the transfer of this information across the entire spectrum
-    of security tools and services. OVAL is a language used to encode endpoint details,
-    and an assortment of content repositories held throughout the community.'
+  content: 'Recommendation ITU-T X.1526 on the language for the open definition of vulnerabilities and for the assessment of a system state (also known as, open vulnerability and assessment language, (OVAL)) includes the three main steps of the assessment process: representing configuration information of endpoints for testing; analysing the endpoint for the presence of the specified machine state (vulnerability, configuration, patch state, etc.) and reporting the results of this assessment. The purpose of OVAL is to provide an international, information security, community standard to promote open and publicly available security content and to standardize the transfer of this information across the entire spectrum of security tools and services. OVAL is a language used to encode endpoint details, and an assortment of content repositories held throughout the community.'
 status:
   stage:
     content: Published

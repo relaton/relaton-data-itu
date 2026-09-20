@@ -1,7 +1,9 @@
----
 id: ITUTT4111988Amd1011991
 schema_version: v1.5.6
 type: standard
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/11098
 docidentifier:
 - content: ITU-T T.411 (1988) Amd. 1 (01/1991)
   type: ITU
@@ -69,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Document Architecture (ODA) and interchange
-        format: Introduction and general principles'
+      content: 'Information technology – Open Document Architecture (ODA) and interchange format: Introduction and general principles'
     docidentifier:
     - content: T.411 (03/1993)
       type: ITU
@@ -100,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Open document architecture (ODA) and interchange format – Introduction
-        and general principles
+      content: Open document architecture (ODA) and interchange format – Introduction and general principles
     docidentifier:
     - content: T.411 (11/1988)
       type: ITU

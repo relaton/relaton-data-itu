@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl48032004
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guideline document for specifying API/object interface between network
-    control and application layer
+  content: Guideline document for specifying API/object interface between network control and application layer
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup48-200403-I
+  content: https://handle.itu.int/11.1002/1000/7273
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup48-200403-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 48 (03/2004)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: There are many API/Object Interface-related activities outside of ITU-T
-    Study Group 11 and API/Object Interface specifications are developed in them.
-    In order to enhance the usefulness of such API/Object Interface, some common guideline
-    may be required. This Supplement intends to clarify the guidelines that make sure
-    the effectiveness of each API/Object Interface and facilitate the smooth introduction
-    of it.
+  content: There are many API/Object Interface-related activities outside of ITU-T Study Group 11 and API/Object Interface specifications are developed in them. In order to enhance the usefulness of such API/Object Interface, some common guideline may be required. This Supplement intends to clarify the guidelines that make sure the effectiveness of each API/Object Interface and facilitate the smooth introduction of it.
 status:
   stage:
     content: Published

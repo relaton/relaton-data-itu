@@ -1,17 +1,16 @@
----
 id: ITUTQ27236051998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Extensions to the signalling system No. 7 B-ISDN user part – Signalling
-    capabilities to support the indication of the statistical bit rate configuration
-    2 (SBR 2) and 3 (SBR 3) ATM transfer capabilities
+  content: Extensions to the signalling system No. 7 B-ISDN user part – Signalling capabilities to support the indication of the statistical bit rate configuration 2 (SBR 2) and 3 (SBR 3) ATM transfer capabilities
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.2723.6-199805-W
+  content: https://handle.itu.int/11.1002/1000/4379
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.2723.6-199805-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q.2723.6 (05/1998)
   type: ITU
@@ -47,13 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation belongs to the set of Q.2723 series of ITU-T Recommendations
-    that cover the support of additional traffic parameters through the Broadband
-    Integrated Services digital network User Part (B-ISUP). \r\nThis Recommendation
-    describes the B-ISUP support of the SBR 2 and SBR 3 ATM transfer capabilities
-    defined in Recommendation ITU-T I.371 [1] and Annex A/Q.2961.6 [2]. It defines
-    additional code points and procedures beyond the ones already specified by Recommendations
-    ITU-T Q.2763, ITU-T Q.2723.1 and ITU-T Q.2723.2."
+  content: "This Recommendation belongs to the set of Q.2723 series of ITU-T Recommendations that cover the support of additional traffic parameters through the Broadband Integrated Services digital network User Part (B-ISUP). \r\nThis Recommendation describes the B-ISUP support of the SBR 2 and SBR 3 ATM transfer capabilities defined in Recommendation ITU-T I.371 [1] and Annex A/Q.2961.6 [2]. It defines additional code points and procedures beyond the ones already specified by Recommendations ITU-T Q.2763, ITU-T Q.2723.1 and ITU-T Q.2723.2."
 status:
   stage:
     content: Withdrawal

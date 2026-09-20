@@ -1,4 +1,3 @@
----
 id: ITUTF902021995
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.902-199502-I
+  content: https://handle.itu.int/11.1002/1000/737
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.902-199502-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.902 (02/1995)
   type: ITU
@@ -50,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides guidance for the design of basic procedures
-    for the use of interactive telecommunications services using DTMF input and voice
-    response. These services are accessible from any DTMF telephone, or from pulse-dialling
-    telephones with the use of an adjunct DTMF dialling device.
+  content: This Recommendation provides guidance for the design of basic procedures for the use of interactive telecommunications services using DTMF input and voice response. These services are accessible from any DTMF telephone, or from pulse-dialling telephones with the use of an adjunct DTMF dialling device.
 status:
   stage:
     content: Published
@@ -73,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission
-        services
+      content: Definitions relating to telegraph, telematic and data transmission services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -114,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based
-        on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTD52102016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Establishing and connecting regional Internet exchange points to reduce
-    costs of international Internet connectivity
+  content: Establishing and connecting regional Internet exchange points to reduce costs of international Internet connectivity
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.52-201610-I
+  content: https://handle.itu.int/11.1002/1000/12826
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.52-201610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.52 (10/2016)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T D.52 guides regional collaboration to establish central
-    hubs or Internet exchange points (IXPs) that enable local Internet traffic to
-    be routed locally, saving international bandwidth and reducing the costs of international
-    Internet connectivity.
+  content: Recommendation ITU-T D.52 guides regional collaboration to establish central hubs or Internet exchange points (IXPs) that enable local Internet traffic to be routed locally, saving international bandwidth and reducing the costs of international Internet connectivity.
 status:
   stage:
     content: Published
@@ -94,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing
-        national tariffs
+      content: Handbook on the methodology for determining costs and establishing national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU
@@ -105,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T D.52 – Implementation guidelines for Recommendation ITU-T D.52
-        focusing on operationalization of regional Internet exchange points
+      content: ITU-T D.52 – Implementation guidelines for Recommendation ITU-T D.52 focusing on operationalization of regional Internet exchange points
     docidentifier:
     - content: D Suppl. 5 (12/2021)
       type: ITU

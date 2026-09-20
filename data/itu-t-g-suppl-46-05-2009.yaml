@@ -1,16 +1,16 @@
----
 id: ITUTGSuppl46052009
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: G-PON interoperability test plan between optical line terminations and
-    optical network units
+  content: G-PON interoperability test plan between optical line terminations and optical network units
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup46-200905-I
+  content: https://handle.itu.int/11.1002/1000/10014
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup46-200905-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 46 (05/2009)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 46 to ITU-T G-series Recommendations defines a test plan whose
-    purpose is to verify interoperability between a G-PON OLT and ONU. Emphasis is
-    placed on test cases that address the G-PON physical layer (ITU-T G.984.2), the
-    TC layer (ITU-T G.984.3) and low-level components of the management layer (ITU-T
-    G.984.4). Service layer test cases are out of scope for this supplement. Interoperability
-    testing is conducted by or on behalf of four interests: the OLT vendor, the ONU
-    vendor, one or more network operators who are potential customers, and possibly
-    a third-party testing lab. For each test case, the supplement provides detailed
-    information on:\r• purpose;\r• reference standard;\r• preconditions and dependencies;\r•
-    test set-up;\r• test equipment;\r• test procedure;\r• pass - fail criteria."
+  content: "Supplement 46 to ITU-T G-series Recommendations defines a test plan whose purpose is to verify interoperability between a G-PON OLT and ONU. Emphasis is placed on test cases that address the G-PON physical layer (ITU-T G.984.2), the TC layer (ITU-T G.984.3) and low-level components of the management layer (ITU-T G.984.4). Service layer test cases are out of scope for this supplement. Interoperability testing is conducted by or on behalf of four interests: the OLT vendor, the ONU vendor, one or more network operators who are potential customers, and possibly a third-party testing lab. For each test case, the supplement provides detailed information on:\r• purpose;\r• reference standard;\r• preconditions and dependencies;\r• test set-up;\r• test equipment;\r• test procedure;\r• pass - fail criteria."
 status:
   stage:
     content: Published

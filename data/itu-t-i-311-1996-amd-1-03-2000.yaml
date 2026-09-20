@@ -1,10 +1,11 @@
----
 id: ITUTI3111996Amd1032000
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.311-200003-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/4942
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.311-200003-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.311 (1996) Amd. 1 (03/2000)
   type: ITU
@@ -95,8 +96,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

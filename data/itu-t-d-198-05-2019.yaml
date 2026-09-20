@@ -1,16 +1,16 @@
----
 id: ITUTD198052019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Principles for a unified format of price/tariffs/rates lists used for exchanging
-    telephone traffic
+  content: Principles for a unified format of price/tariffs/rates lists used for exchanging telephone traffic
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.198-201905-I
+  content: https://handle.itu.int/11.1002/1000/13594
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.198-201905-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.198 (05/2019)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T D.198 recognizes the right of any operator to present
-    price/tariffs/rates charged for telecommunication services in any form deemed
-    convenient for the operator. It recommends that telecommunication companies offering
-    international connections/exchange of traffic make use, as far as possible, of
-    the same templates/forms/format of data to represent traffic destinations and
-    offered price/tariffs/rates including if required optional clarifying information
-    or quality of service criteria.
+  content: Recommendation ITU-T D.198 recognizes the right of any operator to present price/tariffs/rates charged for telecommunication services in any form deemed convenient for the operator. It recommends that telecommunication companies offering international connections/exchange of traffic make use, as far as possible, of the same templates/forms/format of data to represent traffic destinations and offered price/tariffs/rates including if required optional clarifying information or quality of service criteria.
 status:
   stage:
     content: Published
@@ -97,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing
-        national tariffs
+      content: Handbook on the methodology for determining costs and establishing national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

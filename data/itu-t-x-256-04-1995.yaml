@@ -1,16 +1,16 @@
----
 id: ITUTX256041995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Connectionless
-    Presentation protocol: Protocol Implementation Conformance Statement (PICS) proforma'
+  content: 'Information technology – Open Systems Interconnection – Connectionless Presentation protocol: Protocol Implementation Conformance Statement (PICS) proforma'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.256-199504-I
+  content: https://handle.itu.int/11.1002/1000/2880
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.256-199504-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.256 (04/1995)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides the Protocol Implementation
-    Conformance Statement (PICS) proforma for the OSI connectionless Presentation
-    protocol which is specified in Recommendation X.236. The PICS proforma represents,
-    in tabular form, the mandatory and optional elements of the connectionless Presentation
-    protocol. The PICS proforma is used to indicate the features and choices of a
-    particular implementation of the connectionless Presentation protocol.
+  content: This Recommendation | International Standard provides the Protocol Implementation Conformance Statement (PICS) proforma for the OSI connectionless Presentation protocol which is specified in Recommendation X.236. The PICS proforma represents, in tabular form, the mandatory and optional elements of the connectionless Presentation protocol. The PICS proforma is used to indicate the features and choices of a particular implementation of the connectionless Presentation protocol.
 status:
   stage:
     content: Published

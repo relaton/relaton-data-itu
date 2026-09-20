@@ -1,4 +1,3 @@
----
 id: ITUTP911121998
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.911-199812-W
+  content: https://handle.itu.int/11.1002/1000/4538
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.911-199812-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T P.911 (12/1998)
   type: ITU
@@ -50,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes non-interactive subjective assessment methods
-    for evaluating the one-way overall audiovisual quality for multimedia applications
-    such as videoconferencing, storage and retrieval applications, telemedical applications,
-    etc. These methods can be used for several different purposes including, but not
-    limited to, selection of algorithms, ranking of audiovisual system performance
-    and evaluation of the quality level during an audiovisual connection. When interactive
-    aspects are to be assessed, conversation test methods described in Recommendation
-    P.920 should be used. This Recommendation also outlines the characteristics of
-    the source sequences to be used, like duration, kind of content, number of sequences,
-    etc. Finally it provides indications about relation between audio, video and audiovisual
-    quality, as they were derived from results of tests carried out independently
-    in different laboratories.
+  content: This Recommendation describes non-interactive subjective assessment methods for evaluating the one-way overall audiovisual quality for multimedia applications such as videoconferencing, storage and retrieval applications, telemedical applications, etc. These methods can be used for several different purposes including, but not limited to, selection of algorithms, ranking of audiovisual system performance and evaluation of the quality level during an audiovisual connection. When interactive aspects are to be assessed, conversation test methods described in Recommendation P.920 should be used. This Recommendation also outlines the characteristics of the source sequences to be used, like duration, kind of content, number of sequences, etc. Finally it provides indications about relation between audio, video and audiovisual quality, as they were derived from results of tests carried out independently in different laboratories.
 status:
   stage:
     content: Withdrawal

@@ -1,16 +1,16 @@
----
 id: ITUTJ1306072023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specification of microservices architecture for audio-visual media in the
-    converged media cloud
+  content: Specification of microservices architecture for audio-visual media in the converged media cloud
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.1306-202307-I
+  content: https://handle.itu.int/11.1002/1000/15584
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.1306-202307-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.1306 (07/2023)
   type: ITU
@@ -51,30 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1306 specifies the architecture and related components
-    of audiovisual media based on microservice technologies. Recommendation ITU-T
-    J.1306 fulfils the requirements in Recommendation ITU-T J.1305. This Recommendation
-    applies to the design, development, construction, operation and maintenance of
-    audiovisual media systems based on microservices. Recommendation ITU-T J.1306
-    is based on the characteristics of microservice technology and audiovisual media
-    business, combines the requirements of technology and business, and devises an
-    audiovisual media microservice architecture (MMA) that meets the needs of rapid
-    iteration and diversified services of the audiovisual media business. MMA follows
-    the layered architectural methodology specified in Recommendation ITUT J.1302.
-    Mainly from the perspective of cloud platform, Recommendation ITU-T J.1302 stipulates
-    the system architecture of cloud-based converged media services (CBCMSs) to support
-    Internet protocol and broadcast cable television services. From the perspective
-    of microservice, Recommendation ITU-T J.1306 specifies the microservices architecture
-    of integrated media based on container, virtual machine, cloud and other infrastructures
-    to support the audiovisual media business carried out by microservices on a variety
-    of infrastructures. From the perspective of microservice governance, Recommendation
-    ITU-T J.1306 realizes the compatibility of various current mainstream microservice
-    frameworks and stipulates the management capabilities of distributed systems.
-    From the media business perspective, it specifies the microservice components
-    that support production, broadcasting, transmission, distribution, interaction
-    and other audiovisual media business. From the perspective of application integration,
-    it stipulates the service orchestration capabilities and the means of application
-    assembly.\r\n"
+  content: "Recommendation ITU-T J.1306 specifies the architecture and related components of audiovisual media based on microservice technologies. Recommendation ITU-T J.1306 fulfils the requirements in Recommendation ITU-T J.1305. This Recommendation applies to the design, development, construction, operation and maintenance of audiovisual media systems based on microservices. Recommendation ITU-T J.1306 is based on the characteristics of microservice technology and audiovisual media business, combines the requirements of technology and business, and devises an audiovisual media microservice architecture (MMA) that meets the needs of rapid iteration and diversified services of the audiovisual media business. MMA follows the layered architectural methodology specified in Recommendation ITUT J.1302. Mainly from the perspective of cloud platform, Recommendation ITU-T J.1302 stipulates the system architecture of cloud-based converged media services (CBCMSs) to support Internet protocol and broadcast cable television services. From the perspective of microservice, Recommendation ITU-T J.1306 specifies the microservices architecture of integrated media based on container, virtual machine, cloud and other infrastructures to support the audiovisual media business carried out by microservices on a variety of infrastructures. From the perspective of microservice governance, Recommendation ITU-T J.1306 realizes the compatibility of various current mainstream microservice frameworks and stipulates the management capabilities of distributed systems. From the media business perspective, it specifies the microservice components that support production, broadcasting, transmission, distribution, interaction and other audiovisual media business. From the perspective of application integration, it stipulates the service orchestration capabilities and the means of application assembly.\r\n"
 status:
   stage:
     content: Published
@@ -110,8 +87,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -121,10 +97,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -134,9 +107,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -156,8 +127,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -167,8 +137,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -178,8 +147,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -189,8 +157,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -200,8 +167,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -211,8 +177,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -222,8 +187,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

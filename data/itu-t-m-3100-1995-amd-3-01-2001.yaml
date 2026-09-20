@@ -1,16 +1,16 @@
----
 id: ITUTM31001995Amd3012001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Definition of the management interface for a generic alarm reporting control
-    (ARC) feature
+  content: Definition of the management interface for a generic alarm reporting control (ARC) feature
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3100-200101-S!Amd3
+  content: https://handle.itu.int/11.1002/1000/5288
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3100-200101-S!Amd3!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3100 (1995) Amd. 3 (01/2001)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment provides a new generic capability for controlling alarm
-    reporting. This amendment has been cast in the ITU-T M.3020 (2000), TMN interface
-    specification methodology format. This amendment includes the requirements, analysis,
-    and applicable designs for this feature. These generic managed object definitions
-    defined in both the analysis and design sections are intended to be applicable
-    across different technologies, architectures and services. The managed object
-    classes in this amendment may be specialized to support the management of various
-    telecommunications networks.
+  content: This amendment provides a new generic capability for controlling alarm reporting. This amendment has been cast in the ITU-T M.3020 (2000), TMN interface specification methodology format. This amendment includes the requirements, analysis, and applicable designs for this feature. These generic managed object definitions defined in both the analysis and design sections are intended to be applicable across different technologies, architectures and services. The managed object classes in this amendment may be specialized to support the management of various telecommunications networks.
 status:
   stage:
     content: Withdrawal
@@ -130,8 +123,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of the management interface for a bridge-and-roll cross-connect
-        feature
+      content: Definition of the management interface for a bridge-and-roll cross-connect feature
     docidentifier:
     - content: M.3100 (1995) Amd. 4 (08/2001)
       type: ITU

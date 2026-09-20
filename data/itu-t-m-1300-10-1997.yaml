@@ -1,16 +1,16 @@
----
 id: ITUTM1300101997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Maintenance of international data transmission systems operating in the
-    range 2.4 kbit/s to 140 Mbit/s
+  content: Maintenance of international data transmission systems operating in the range 2.4 kbit/s to 140 Mbit/s
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1300-199710-I
+  content: https://handle.itu.int/11.1002/1000/4309
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1300-199710-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1300 (10/1997)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a general description of international data
-    transmission systems with a PDH presentation to the renter and of the basic requirements
-    for their effective operation.
+  content: This Recommendation provides a general description of international data transmission systems with a PDH presentation to the renter and of the basic requirements for their effective operation.
 status:
   stage:
     content: Published
@@ -73,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: International data transmission systems operating in the range 2.4
-        kbit/s to 2048 kbit/s
+      content: International data transmission systems operating in the range 2.4 kbit/s to 2048 kbit/s
     docidentifier:
     - content: M.1300 (10/1992)
       type: ITU
@@ -84,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: International data transmission systems operating at 2400 bit/s and
-        above
+      content: International data transmission systems operating at 2400 bit/s and above
     docidentifier:
     - content: M.1300 (11/1988)
       type: ITU
@@ -95,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: International data transmission systems operating in the range 2400
-        bit/s to 64 kbit/s
+      content: International data transmission systems operating in the range 2400 bit/s to 64 kbit/s
     docidentifier:
     - content: M.1300 (10/1984)
       type: ITU

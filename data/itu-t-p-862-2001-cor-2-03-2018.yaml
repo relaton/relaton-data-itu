@@ -1,10 +1,9 @@
----
 id: ITUTP8622001Cor2032018
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.862-201803-W!Cor2
+  content: https://handle.itu.int/11.1002/1000/13569
 docidentifier:
 - content: ITU-T P.862 (2001) Cor. 2 (03/2018)
   type: ITU
@@ -45,17 +44,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Corrigendum addresses P.862.2 systematic under-prediction of subjective
-    scores. The under-prediction, 0.8 MOS on average, is due to the audio signals
-    being exposed at an incorrect level to the loudness model. The issue leads to
-    degradations being exaggerated and producing lower scores than expected.\r\n\r\nThe
-    P.862.2 reference implementation provided in Annex A should be corrected to adjust
-    the signals to a target level of 76 dB(SPL) for wideband assessment:\r\n\r\npesqmain.c,
-    line 421:\r\n\r\nfloat WB_InIIR_Hsos_8k[LINIIR] = { 0.251188 * 2.6657628f, 0.251188
-    * -5.3315255f, 0.251188 * 2.6657628f,  -1.8890331f,  0.89487434f };\r\n\r\npesqmain.c,
-    line 424:\r\n\r\nfloat WB_InIIR_Hsos_16k[LINIIR] = { 0.251188 * 2.740826f, 0.251188
-    * -5.4816519f,  0.251188 * 2.740826f,  -1.9444777f,  0.94597794f };\r\n\r\nThe
-    updated conformance test file for P.862.2 is included in this Corrigendum (suppl23_wb.txt).\r\n"
+  content: "This Corrigendum addresses P.862.2 systematic under-prediction of subjective scores. The under-prediction, 0.8 MOS on average, is due to the audio signals being exposed at an incorrect level to the loudness model. The issue leads to degradations being exaggerated and producing lower scores than expected.\r\n\r\nThe P.862.2 reference implementation provided in Annex A should be corrected to adjust the signals to a target level of 76 dB(SPL) for wideband assessment:\r\n\r\npesqmain.c, line 421:\r\n\r\nfloat WB_InIIR_Hsos_8k[LINIIR] = { 0.251188 * 2.6657628f, 0.251188 * -5.3315255f, 0.251188 * 2.6657628f,  -1.8890331f,  0.89487434f };\r\n\r\npesqmain.c, line 424:\r\n\r\nfloat WB_InIIR_Hsos_16k[LINIIR] = { 0.251188 * 2.740826f, 0.251188 * -5.4816519f,  0.251188 * 2.740826f,  -1.9444777f,  0.94597794f };\r\n\r\nThe updated conformance test file for P.862.2 is included in this Corrigendum (suppl23_wb.txt).\r\n"
 status:
   stage:
     content: Withdrawal
@@ -83,8 +72,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Revised Annex A – Reference implementations and conformance testing
-        for ITU-T Recs P.862, P.862.1 and P.862.2
+      content: Revised Annex A – Reference implementations and conformance testing for ITU-T Recs P.862, P.862.1 and P.862.2
     docidentifier:
     - content: P.862 (2001) Amd. 2 (11/2005)
       type: ITU
@@ -94,8 +82,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex A: Source code for reference implementation and conformance
-        tests'
+      content: 'Revised Annex A: Source code for reference implementation and conformance tests'
     docidentifier:
     - content: P.862 (2001) Amd. 1 (03/2003)
       type: ITU
@@ -105,9 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Perceptual evaluation of speech quality (PESQ): An objective method
-        for end-to-end speech quality assessment of narrow-band telephone networks
-        and speech codecs'
+      content: 'Perceptual evaluation of speech quality (PESQ): An objective method for end-to-end speech quality assessment of narrow-band telephone networks and speech codecs'
     docidentifier:
     - content: P.862 (02/2001)
       type: ITU

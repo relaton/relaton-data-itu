@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl16121999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.2140: Signalling requirements for the support of
-    narrowband services via broadband transport technologies'
+  content: 'Technical Report TRQ.2140: Signalling requirements for the support of narrowband services via broadband transport technologies'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup16-199912-I
+  content: https://handle.itu.int/11.1002/1000/4997
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup16-199912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 16 (12/1999)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement to ITU-T Q-Series Recommendations is a Technical Report
-    on the procedures, information flows and information elements needed for supporting
-    narrowband services via broadband transport technologies. Its scope is limited
-    to functionality of the Serving Node and the associated protocols at the call
-    control and bearer control levels needed to provide this capability across an
-    ATM backbone network for Capability Set 1.
+  content: This Supplement to ITU-T Q-Series Recommendations is a Technical Report on the procedures, information flows and information elements needed for supporting narrowband services via broadband transport technologies. Its scope is limited to functionality of the Serving Node and the associated protocols at the call control and bearer control levels needed to provide this capability across an ATM backbone network for Capability Set 1.
 status:
   stage:
     content: Published

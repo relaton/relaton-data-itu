@@ -1,16 +1,16 @@
----
 id: ITUTX1647102024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security guidelines for selecting computing methods and resources from
-    cloud service providers
+  content: Security guidelines for selecting computing methods and resources from cloud service providers
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1647-202410-I
+  content: https://handle.itu.int/11.1002/1000/16167
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1647-202410-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1647 (10/2024)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the development of cloud computing, computing tasks can be outsourced
-    to external computing resources for computation. However, computing resources
-    differ in the security levels they offer, and computing tasks differ in their
-    security requirements. To mitigate the security threats introduced by insecure
-    computing resources and satisfy the security requirements of computing tasks,
-    secure computation methods can be applied. \r\nRecommendation ITU-T X.1647 provides
-    guidelines for the selection of secure computation methods and resources from
-    cloud service providers (CSPs) to help service customers or stakeholders to execute
-    outsourcing computation in a way that meets their security requirements.\r\n"
+  content: "With the development of cloud computing, computing tasks can be outsourced to external computing resources for computation. However, computing resources differ in the security levels they offer, and computing tasks differ in their security requirements. To mitigate the security threats introduced by insecure computing resources and satisfy the security requirements of computing tasks, secure computation methods can be applied. \r\nRecommendation ITU-T X.1647 provides guidelines for the selection of secure computation methods and resources from cloud service providers (CSPs) to help service customers or stakeholders to execute outsourcing computation in a way that meets their security requirements.\r\n"
 status:
   stage:
     content: Published

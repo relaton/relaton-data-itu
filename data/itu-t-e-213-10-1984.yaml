@@ -1,13 +1,14 @@
----
 id: ITUTE213101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Telephone numbering plan for land mobile stations in public land mobile
-    networks (PLMN)
+  content: Telephone numbering plan for land mobile stations in public land mobile networks (PLMN)
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/3198
 docidentifier:
 - content: ITU-T E.213 (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Telephone and ISDN numbering plan for land mobile stations in public
-        land mobile networks (PLMN)
+      content: Telephone and ISDN numbering plan for land mobile stations in public land mobile networks (PLMN)
     docidentifier:
     - content: E.213 (11/1988)
       type: ITU

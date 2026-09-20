@@ -1,16 +1,16 @@
----
 id: ITUTM31732032026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interface for synergy management of cloud and software-defined networking-based
-    networks – Protocol neutral analysis
+  content: Interface for synergy management of cloud and software-defined networking-based networks – Protocol neutral analysis
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3173.2-202603-I
+  content: https://handle.itu.int/11.1002/1000/16745
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3173.2-202603-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3173.2 (03/2026)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3173.2 specifies the interface analysis for synergy
-    management of cloud and software defined networking (SDN) based networks. This
-    Recommendation provides the interface analysis model (information model) for the
-    synergy management of cloud and SDN-based networks and specifies the managed entities
-    and their relationships for the synergy management interface at a technology-independent
-    level (protocol-neutral). Recommendation ITU-T M.3173.2 also provides detailed
-    attribute definitions of each managed entity, and the interactive control information
-    exchanged through this synergy management interface.\r\n"
+  content: "Recommendation ITU-T M.3173.2 specifies the interface analysis for synergy management of cloud and software defined networking (SDN) based networks. This Recommendation provides the interface analysis model (information model) for the synergy management of cloud and SDN-based networks and specifies the managed entities and their relationships for the synergy management interface at a technology-independent level (protocol-neutral). Recommendation ITU-T M.3173.2 also provides detailed attribute definitions of each managed entity, and the interactive control information exchanged through this synergy management interface.\r\n"
 status:
   stage:
     content: Published

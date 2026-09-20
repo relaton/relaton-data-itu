@@ -1,16 +1,16 @@
----
 id: ITUTJ122122007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Second-generation transmission systems for interactive cable television
-    services – IP cable modems
+  content: Second-generation transmission systems for interactive cable television services – IP cable modems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.122-200712-I
+  content: https://handle.itu.int/11.1002/1000/9302
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.122-200712-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.122 (12/2007)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes transmission systems that are consistent
-    with those described in ITU-T Recommendation J.112. Its purpose is to provide
-    a technology through which the demand for symmetrical services on cable networks
-    can be met. This second-generation technology, while using the same RF channel,
-    is backward compatible with that of ITU-T Recommendation J.112. It provides a
-    significant increase in upstream channel capacity with wider channels, higher
-    symbol rate and increased spectral efficiency. It provides for both Synchronous-CDMA
-    and Advanced-TDMA coding and also adds higher order modulation capabilities. It
-    is more robust with regard to noise immunity and provides greater multipath protection
-    than the technology used in ITU-T Recommendation J.112.
+  content: This Recommendation describes transmission systems that are consistent with those described in ITU-T Recommendation J.112. Its purpose is to provide a technology through which the demand for symmetrical services on cable networks can be met. This second-generation technology, while using the same RF channel, is backward compatible with that of ITU-T Recommendation J.112. It provides a significant increase in upstream channel capacity with wider channels, higher symbol rate and increased spectral efficiency. It provides for both Synchronous-CDMA and Advanced-TDMA coding and also adds higher order modulation capabilities. It is more robust with regard to noise immunity and provides greater multipath protection than the technology used in ITU-T Recommendation J.112.
 status:
   stage:
     content: Published
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Second-generation transmission systems for interactive cable television
-        services – IP cable modems
+      content: Second-generation transmission systems for interactive cable television services – IP cable modems
     docidentifier:
     - content: J.122 (12/2002)
       type: ITU
@@ -91,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -102,10 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -115,9 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -137,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -148,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -159,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -170,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -181,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -192,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -203,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

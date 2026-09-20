@@ -1,13 +1,14 @@
----
 id: ITUTV51111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Organization of the maintenance of international telephone-type circuits
-    used for data transmission
+  content: Organization of the maintenance of international telephone-type circuits used for data transmission
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/8427
 docidentifier:
 - content: ITU-T V.51 (11/1980)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Organization of the maintenance of international public switched telephone
-        circuits used for data transmission
+      content: Organization of the maintenance of international public switched telephone circuits used for data transmission
     docidentifier:
     - content: M.729/V.51 (11/1988)
       type: ITU
@@ -78,8 +78,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Organization of the maintenance of international public switched telephone
-        circuits used for data transmission
+      content: Organization of the maintenance of international public switched telephone circuits used for data transmission
     docidentifier:
     - content: M.729/V.51 (10/1984)
       type: ITU
@@ -89,8 +88,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Organization of the maintenance of international telephone-type circuits
-        used for data transmission
+      content: Organization of the maintenance of international telephone-type circuits used for data transmission
     docidentifier:
     - content: V.51 (10/1976)
       type: ITU

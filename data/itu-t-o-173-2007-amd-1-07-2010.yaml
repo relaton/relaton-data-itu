@@ -1,16 +1,16 @@
----
 id: ITUTO1732007Amd1072010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Correction of jitter frequency breakpoints and clarification of jitter
-    transfer measurement accuracy
+  content: Correction of jitter frequency breakpoints and clarification of jitter transfer measurement accuracy
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-O.173-201007-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/10923
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-O.173-201007-S!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T O.173 (2007) Amd. 1 (07/2010)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to Recommendation ITU-T O.173 contains a change of the frequency
-    breakpoint f2 for OTU3 and an additional comment in the jitter transfer measurement
-    accuracy.
+  content: Amendment 1 to Recommendation ITU-T O.173 contains a change of the frequency breakpoint f2 for OTU3 and an additional comment in the jitter transfer measurement accuracy.
 status:
   stage:
     content: Withdrawal
@@ -73,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Jitter measuring equipment for digital systems which are based on the
-        optical transport network
+      content: Jitter measuring equipment for digital systems which are based on the optical transport network
     docidentifier:
     - content: O.173 (02/2012)
       type: ITU
@@ -84,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Jitter measuring equipment for digital systems which are based on the
-        Optical Transport Network (OTN)
+      content: Jitter measuring equipment for digital systems which are based on the Optical Transport Network (OTN)
     docidentifier:
     - content: O.173 (03/2007)
       type: ITU
@@ -95,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Jitter measuring equipment for digital systems which are based on the
-        Optical Transport Network (ONT)
+      content: Jitter measuring equipment for digital systems which are based on the Optical Transport Network (ONT)
     docidentifier:
     - content: O.173 (03/2003)
       type: ITU

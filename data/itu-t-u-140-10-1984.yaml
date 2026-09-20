@@ -1,13 +1,14 @@
----
 id: ITUTU140101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Definitions of essential technical terms relating to telegraph switching
-    and signalling
+  content: Definitions of essential technical terms relating to telegraph switching and signalling
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6818
 docidentifier:
 - content: ITU-T U.140 (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions of essential technical terms relating to telegraph switching
-        and signalling
+      content: Definitions of essential technical terms relating to telegraph switching and signalling
     docidentifier:
     - content: U.140 (11/1988)
       type: ITU

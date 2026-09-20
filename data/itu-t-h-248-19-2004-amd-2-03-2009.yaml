@@ -1,4 +1,3 @@
----
 id: ITUTH248192004Amd2032009
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.248.19-200903-S!Amd2
+  content: https://handle.itu.int/11.1002/1000/9697
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.248.19-200903-S!Amd2!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.248.19 (2004) Amd. 2 (03/2009)
   type: ITU
@@ -50,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T H.248.19 describes the functionality of a decomposed
-    multipoint control unit, in particular the interface between a media controller
-    and media processor which is based on Recommendation ITU-T H.248. This Recommendation
-    contains guidelines for the use of a decomposed gateway that may support audio,
-    video and data conferencing. This Recommendation contains packages for floor control,
-    volume control, video windows, audio and video mixing for point-to-point, multi-cast
-    and hybrid conferencing scenarios.Amendment 1 defines two new packages - the Text
-    Overlay Package and the Border and Background Package, which together with the
-    Video Window Package may be used to provide additional conference control capabilities.Amendment
-    2 provides enhancements to H.248.19 Amendment 1 for greater floor control of conferences.
-    It enables floor control to be determined on a stream basis through the use of
-    the "Controlled by Chair" property. It enables a media gateway controller to set
-    a floor control policy through the use of the "Floor Control Policy" package and
-    to request to be notified when a change of floor status occurs through the use
-    of the "Floor Status Change Handling" package.
+  content: Recommendation ITU-T H.248.19 describes the functionality of a decomposed multipoint control unit, in particular the interface between a media controller and media processor which is based on Recommendation ITU-T H.248. This Recommendation contains guidelines for the use of a decomposed gateway that may support audio, video and data conferencing. This Recommendation contains packages for floor control, volume control, video windows, audio and video mixing for point-to-point, multi-cast and hybrid conferencing scenarios.Amendment 1 defines two new packages - the Text Overlay Package and the Border and Background Package, which together with the Video Window Package may be used to provide additional conference control capabilities.Amendment 2 provides enhancements to H.248.19 Amendment 1 for greater floor control of conferences. It enables floor control to be determined on a stream basis through the use of the "Controlled by Chair" property. It enables a media gateway controller to set a floor control policy through the use of the "Floor Control Policy" package and to request to be notified when a change of floor status occurs through the use of the "Floor Status Change Handling" package.
 status:
   stage:
     content: Withdrawal
@@ -84,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Decomposed multipoint control unit, audio,
-        video and data conferencing packages'
+      content: 'Gateway control protocol: Decomposed multipoint control unit, audio, video and data conferencing packages'
     docidentifier:
     - content: H.248.19 (03/2013)
       type: ITU
@@ -105,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Decomposed multipoint control unit, audio,
-        video and data conferencing packages'
+      content: 'Gateway control protocol: Decomposed multipoint control unit, audio, video and data conferencing packages'
     docidentifier:
     - content: H.248.19 (03/2004)
       type: ITU
@@ -126,9 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -148,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -159,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -170,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -181,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -202,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -233,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

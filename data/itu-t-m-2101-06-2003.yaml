@@ -1,16 +1,16 @@
----
 id: ITUTM2101062003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance limits for bringing-into-service and maintenance of international
-    multi-operator SDH paths and multiplex sections
+  content: Performance limits for bringing-into-service and maintenance of international multi-operator SDH paths and multiplex sections
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.2101-200306-I
+  content: https://handle.itu.int/11.1002/1000/6309
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.2101-200306-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.2101 (06/2003)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides limits for Bringing-Into-Service (BIS) and
-    maintenance for international multi-operator SDH paths, including tandem connections,
-    and international multi-operator SDH multiplex sections using equipment designed
-    according to ITU-T Recs G.826, G.828 and G.829. Error, timing and availability
-    performance are considered. This Recommendation also deals with all levels of
-    PDH signals transported within SDH containers. Regenerator sections are not covered
-    by this Recommendation. BIS limits and maintenance procedures for radio regenerator
-    sections are described in the relevant ITU-R Recommendations.Maintenance of systems
-    designed to ITU-T Recs G.826, G.828 and G.829 should use the limits given in this
-    Recommendation.This revised Recommendation includes all applicable material from
-    ITU-T Rec. M.2101.1 and is therefore the only Recommendation to be used for SDH
-    technology.
+  content: This Recommendation provides limits for Bringing-Into-Service (BIS) and maintenance for international multi-operator SDH paths, including tandem connections, and international multi-operator SDH multiplex sections using equipment designed according to ITU-T Recs G.826, G.828 and G.829. Error, timing and availability performance are considered. This Recommendation also deals with all levels of PDH signals transported within SDH containers. Regenerator sections are not covered by this Recommendation. BIS limits and maintenance procedures for radio regenerator sections are described in the relevant ITU-R Recommendations.Maintenance of systems designed to ITU-T Recs G.826, G.828 and G.829 should use the limits given in this Recommendation.This revised Recommendation includes all applicable material from ITU-T Rec. M.2101.1 and is therefore the only Recommendation to be used for SDH technology.
 status:
   stage:
     content: Published
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Performance limits and objectives for bringing-into-service and maintenance
-        of international SDH paths and multiplex sections
+      content: Performance limits and objectives for bringing-into-service and maintenance of international SDH paths and multiplex sections
     docidentifier:
     - content: M.2101 (06/2000)
       type: ITU
@@ -93,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Performance limits for bringing-into-service and maintenance of international
-        SDH paths and multiplex sections
+      content: Performance limits for bringing-into-service and maintenance of international SDH paths and multiplex sections
     docidentifier:
     - content: M.2101.1 (04/1997)
       type: ITU

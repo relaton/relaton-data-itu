@@ -1,16 +1,16 @@
----
 id: ITUTGSuppl88102025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Point to multipoint passive optical access system requirements and transmission
-    technologies above 50 Gbit/s per wavelength
+  content: Point to multipoint passive optical access system requirements and transmission technologies above 50 Gbit/s per wavelength
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup88-202510-I
+  content: https://handle.itu.int/11.1002/1000/16654
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup88-202510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 88 (10/2025)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 88 to ITU-T G-series Recommendations describes potential system
-    requirements and the characteristics of potential technology candidates for PON
-    systems above 50 Gbit/s per wavelength between the optical line termination (OLT)
-    and the optical network unit (ONU). It describes the general architecture and
-    system requirements for very high speed PON (VHSP), candidate VHSP technologies,
-    as well as VHSP sensing use cases and candidate sensing technologies.\r\n"
+  content: "Supplement 88 to ITU-T G-series Recommendations describes potential system requirements and the characteristics of potential technology candidates for PON systems above 50 Gbit/s per wavelength between the optical line termination (OLT) and the optical network unit (ONU). It describes the general architecture and system requirements for very high speed PON (VHSP), candidate VHSP technologies, as well as VHSP sensing use cases and candidate sensing technologies.\r\n"
 status:
   stage:
     content: Published

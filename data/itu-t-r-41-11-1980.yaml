@@ -1,13 +1,14 @@
----
 id: ITUTR41111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Utilization of the interchannel frequency band of telephone carrier circuits
-    for telegraph transmission
+  content: Utilization of the interchannel frequency band of telephone carrier circuits for telegraph transmission
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/8112
 docidentifier:
 - content: ITU-T R.41 (11/1980)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Utilization of the interchannel frequency band of telephone carrier
-        circuits for telegraph transmission
+      content: Utilization of the interchannel frequency band of telephone carrier circuits for telegraph transmission
     docidentifier:
     - content: R.41 (10/1976)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTFSuppl3092016
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.Sup3-201609-I
+  content: https://handle.itu.int/11.1002/1000/13070
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.Sup3-201609-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F Suppl. 3 (09/2016)
   type: ITU
@@ -50,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 3 to ITU-T F-series Recommendations presents an overview of
-    Telecom Finance, an enhanced finance which, from the telecom operators' perspective,
-    is referred to as Finance 2.0. This service will enhance the customer experience
-    in the upcoming convergence of telecom services and financial services. It will
-    approach the new generation of financial infrastructure among customer/user, telecom
-    operators, including service provider (SP)/network operator (NO), the financial
-    side, government, etc.\r\nThis Supplement addresses a framework of Telecom Finance,
-    including background, basic objectives, general requirements and functionalities,
-    architecture and implementations, etc.\r\n"
+  content: "Supplement 3 to ITU-T F-series Recommendations presents an overview of Telecom Finance, an enhanced finance which, from the telecom operators' perspective, is referred to as Finance 2.0. This service will enhance the customer experience in the upcoming convergence of telecom services and financial services. It will approach the new generation of financial infrastructure among customer/user, telecom operators, including service provider (SP)/network operator (NO), the financial side, government, etc.\r\nThis Supplement addresses a framework of Telecom Finance, including background, basic objectives, general requirements and functionalities, architecture and implementations, etc.\r\n"
 status:
   stage:
     content: Published

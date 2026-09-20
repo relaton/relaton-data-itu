@@ -1,16 +1,16 @@
----
 id: ITUTLSuppl15102015
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T L.1500 series - Requirements for water sensing and early warning
-    systems
+  content: ITU-T L.1500 series - Requirements for water sensing and early warning systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup15-201510-I
+  content: https://handle.itu.int/11.1002/1000/12691
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup15-201510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 15 (10/2015)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement provides a general overview of the requirements for water
-    sensing and early warning systems. This Supplement illustrates the different technologies
-    for sensing water quality indicators, in addition to early warning systems. The
-    Supplement also demonstrates most commonly measured water parameters and associated
-    sensing technologies.
+  content: This Supplement provides a general overview of the requirements for water sensing and early warning systems. This Supplement illustrates the different technologies for sensing water quality indicators, in addition to early warning systems. The Supplement also demonstrates most commonly measured water parameters and associated sensing technologies.
 status:
   stage:
     content: Published

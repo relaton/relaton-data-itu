@@ -1,16 +1,16 @@
----
 id: ITUTX148022003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for the measurement of the performance of public data networks
-    providing the international frame relay service
+  content: Procedures for the measurement of the performance of public data networks providing the international frame relay service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.148-200302-I
+  content: https://handle.itu.int/11.1002/1000/6234
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.148-200302-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.148 (02/2003)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines procedures for the measurement and assessment
-    of the user information transfer performance parameters of Frame Relay virtual
-    connections. Use is made of OAM Frames and methods for measuring Frame Transit
-    Delay, Frame Delay Jitter and Frame Loss Ratio are specified. The techniques are
-    applicable to both PVCs and SVCs. The techniques defined enable in-service real
-    time performance estimation.
+  content: This Recommendation defines procedures for the measurement and assessment of the user information transfer performance parameters of Frame Relay virtual connections. Use is made of OAM Frames and methods for measuring Frame Transit Delay, Frame Delay Jitter and Frame Loss Ratio are specified. The techniques are applicable to both PVCs and SVCs. The techniques defined enable in-service real time performance estimation.
 status:
   stage:
     content: Published

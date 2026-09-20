@@ -1,4 +1,3 @@
----
 id: ITUTF32101995
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.32-199510-I
+  content: https://handle.itu.int/11.1002/1000/3200
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.32-199510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.32 (10/1995)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The operation of the "Telegram Retransmission System", described in Recommendation
-    F.31, depends on the use of a standard format in telegrams. The format contains
-    routing and other operational information in a heading part. This includes a four-letter
-    "destination indicator", which is one of the key elements used for routing a telegram
-    at switching centres in the origin country, and in any transit country(ies). They
-    are also used for routing in the destination country. This Recommendation lays
-    down the general principles applying to the selection of destination indicators,
-    the allocation of the indicators' four letters, the application of analogous two-
-    and four-letter codes for certain other purposes in operating the telegram service,
-    procedures for changing or adding to code allocations and the timely promulgation
-    of the information on codes to Recognized Operating Agencies (ROAs).
+  content: The operation of the "Telegram Retransmission System", described in Recommendation F.31, depends on the use of a standard format in telegrams. The format contains routing and other operational information in a heading part. This includes a four-letter "destination indicator", which is one of the key elements used for routing a telegram at switching centres in the origin country, and in any transit country(ies). They are also used for routing in the destination country. This Recommendation lays down the general principles applying to the selection of destination indicators, the allocation of the indicators' four letters, the application of analogous two- and four-letter codes for certain other purposes in operating the telegram service, procedures for changing or adding to code allocations and the timely promulgation of the information on codes to Recognized Operating Agencies (ROAs).
 status:
   stage:
     content: Published
@@ -130,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission
-        services
+      content: Definitions relating to telegraph, telematic and data transmission services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -171,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based
-        on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTLSuppl48072022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data centre energy saving: Application of artificial intelligence technology
-    in improving energy efficiency of telecommunication room and data centre infrastructure'
+  content: 'Data centre energy saving: Application of artificial intelligence technology in improving energy efficiency of telecommunication room and data centre infrastructure'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup48-202207-I
+  content: https://handle.itu.int/11.1002/1000/15085
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup48-202207-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 48 (07/2022)
   type: ITU
@@ -51,25 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Telecommunication room and data centre (DC) infrastructure includes a
-    large number of items of information and communication equipment. In order to
-    keep equipment running continuously and reliably, the rooms where it is located
-    will necessarily be equipped with air conditioners to create a suitable environment
-    for equipment operation. This will cause a large amount of energy consumption
-    and carbon emissions. This Supplement focuses on the application of AI technology
-    and other emerging technologies such as digital twins to improve the energy efficiency
-    and reduce the carbon emissions of telecommunication room and DC infrastructures.\r\nMost
-    of the existing telecommunication room and DC infrastructures do not have the
-    full ability to identify the distribution of indoor temperatures. Therefore, it
-    is difficult to analyse the heat flow and its related power consumption in real
-    time and make appropriate adjustments in a timely manner. Consequently, this leads
-    to unnecessary consumption of energy. Supplement 48 to the ITU-T L-series Recommendations
-    will address how AI-based power management can provide the following capabilities:\r\n•\tData
-    collections in telecommunication room and DC infrastructure;\r\n•\tReal-time analysis
-    of the historical power consumption and parameters of the target equipment room;\r\n•\tThe
-    ability to train an intelligent model;\r\n•\tMaking reasonable adjustments dynamically
-    to the air conditioning and temperature, so as to achieve energy saving in the
-    telecommunication room and DC infrastructure.\r\n"
+  content: "Telecommunication room and data centre (DC) infrastructure includes a large number of items of information and communication equipment. In order to keep equipment running continuously and reliably, the rooms where it is located will necessarily be equipped with air conditioners to create a suitable environment for equipment operation. This will cause a large amount of energy consumption and carbon emissions. This Supplement focuses on the application of AI technology and other emerging technologies such as digital twins to improve the energy efficiency and reduce the carbon emissions of telecommunication room and DC infrastructures.\r\nMost of the existing telecommunication room and DC infrastructures do not have the full ability to identify the distribution of indoor temperatures. Therefore, it is difficult to analyse the heat flow and its related power consumption in real time and make appropriate adjustments in a timely manner. Consequently, this leads to unnecessary consumption of energy. Supplement 48 to the ITU-T L-series Recommendations will address how AI-based power management can provide the following capabilities:\r\n•\tData collections in telecommunication room and DC infrastructure;\r\n•\tReal-time analysis of the historical power consumption and parameters of the target equipment room;\r\n•\tThe ability to train an intelligent model;\r\n•\tMaking reasonable adjustments dynamically to the air conditioning and temperature, so as to achieve energy saving in the telecommunication room and DC infrastructure.\r\n"
 status:
   stage:
     content: Published

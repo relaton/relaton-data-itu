@@ -1,16 +1,16 @@
----
 id: ITUTG9837112001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ONT management and control interface specification for Dynamic Bandwidth
-    Assignment (DBA) B-PON system
+  content: ONT management and control interface specification for Dynamic Bandwidth Assignment (DBA) B-PON system
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.983.7-200111-W
+  content: https://handle.itu.int/11.1002/1000/5614
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.983.7-200111-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.983.7 (11/2001)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the ONT management and control interface
-    (OMCI) specifications required for the Dynamic Bandwidth Assignment (DBA) function
-    in a Broadband Passive Optical Network (B-PON) system.This Recommendation builds
-    on the core functions specified in ITU-T G.983.2 and specifies managed entities
-    of a protocol-independent Management Information Base (MIB) that models the exchange
-    of information between OLT and ONT.
+  content: This Recommendation describes the ONT management and control interface (OMCI) specifications required for the Dynamic Bandwidth Assignment (DBA) function in a Broadband Passive Optical Network (B-PON) system.This Recommendation builds on the core functions specified in ITU-T G.983.2 and specifies managed entities of a protocol-independent Management Information Base (MIB) that models the exchange of information between OLT and ONT.
 status:
   stage:
     content: Withdrawal

@@ -1,4 +1,3 @@
----
 id: ITUTX84032004
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.84-200403-I
+  content: https://handle.itu.int/11.1002/1000/7010
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.84-200403-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.84 (03/2004)
   type: ITU
@@ -50,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'MPLS has the potential to consolidate core networks and services, for
-    example frame relay services, over a single common core infrastructure. This Recommendation
-    defines frame relay over MPLS core network architecture, the transfer of frame
-    relay control and user data information over the core MPLS network and the user
-    plane protocol stack used at the edges of the MPLS core network. Two mapping modes
-    for frame relay over MPLS are defined: the "one-to-one" mapping mode and the "many-to-one"
-    mapping mode. The signalling and management planes are outside of the scope of
-    this Recommendation.'
+  content: 'MPLS has the potential to consolidate core networks and services, for example frame relay services, over a single common core infrastructure. This Recommendation defines frame relay over MPLS core network architecture, the transfer of frame relay control and user data information over the core MPLS network and the user plane protocol stack used at the edges of the MPLS core network. Two mapping modes for frame relay over MPLS are defined: the "one-to-one" mapping mode and the "many-to-one" mapping mode. The signalling and management planes are outside of the scope of this Recommendation.'
 status:
   stage:
     content: Published

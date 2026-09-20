@@ -1,16 +1,16 @@
----
 id: ITUTX1373032024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Secure software update capability for intelligent transportation system
-    communication devices
+  content: Secure software update capability for intelligent transportation system communication devices
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1373-202403-I
+  content: https://handle.itu.int/11.1002/1000/15664
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1373-202403-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1373 (03/2024)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "As intelligent transportation system (ITS) technologies improve, it has
-    become common for vehicles to communicate with other entities such as other vehicles,
-    vehicle-to-vehicle (V2V) and vehicle-to infrastructure (V2I) communications. Electric
-    devices inside a vehicle such as electronic control units (ECUs), electronic toll
-    collections (ETCs) and car navigation systems are becoming more sophisticated.
-    As a result, software modules inside these electric devices need to be appropriately
-    updated for the purposes of bug fixing and performance and security improvements,
-    to avoid accidents.\r\nIn order to fulfil the above requirements, Recommendation
-    ITU-T X.1373 provides secure software update procedures between a software update
-    server and vehicles with appropriate security controls including in-vehicle communication
-    messages. This Recommendation can be utilized by car manufacturers and ITS-related
-    industries as a set of standard capabilities for best practice.\r\n"
+  content: "As intelligent transportation system (ITS) technologies improve, it has become common for vehicles to communicate with other entities such as other vehicles, vehicle-to-vehicle (V2V) and vehicle-to infrastructure (V2I) communications. Electric devices inside a vehicle such as electronic control units (ECUs), electronic toll collections (ETCs) and car navigation systems are becoming more sophisticated. As a result, software modules inside these electric devices need to be appropriately updated for the purposes of bug fixing and performance and security improvements, to avoid accidents.\r\nIn order to fulfil the above requirements, Recommendation ITU-T X.1373 provides secure software update procedures between a software update server and vehicles with appropriate security controls including in-vehicle communication messages. This Recommendation can be utilized by car manufacturers and ITS-related industries as a set of standard capabilities for best practice.\r\n"
 status:
   stage:
     content: Published
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Secure software update capability for intelligent transportation system
-        communication devices
+      content: Secure software update capability for intelligent transportation system communication devices
     docidentifier:
     - content: X.1373 (03/2017)
       type: ITU

@@ -1,10 +1,11 @@
----
 id: ITUTT901992Amd2071996
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.90-199607-I!Amd2
+  content: https://handle.itu.int/11.1002/1000/3382
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.90-199607-I!Amd2!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.90 (1992) Amd. 2 (07/1996)
   type: ITU
@@ -45,12 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Study Group 8 has agreed to propose amendments to Recommendations T.4 and
-    T.30 to include the optional use of the modulation system defined in Recommendation
-    V.34. Amendment 2 to Recommendation T.90 covers the addition of a Telematics Profile
-    Identifier to distinguish the use of the procedures in Annex C/T.30, in the analogue
-    mode with the V.34 full-duplex mode from its use in the digital mode in the ISDN
-    environment.
+  content: Study Group 8 has agreed to propose amendments to Recommendations T.4 and T.30 to include the optional use of the modulation system defined in Recommendation V.34. Amendment 2 to Recommendation T.90 covers the addition of a Telematics Profile Identifier to distinguish the use of the procedures in Annex C/T.30, in the analogue mode with the V.34 full-duplex mode from its use in the digital mode in the ISDN environment.
 status:
   stage:
     content: Published
@@ -88,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Characteristics and protocols for terminals for telematic services
-        in ISDN
+      content: Characteristics and protocols for terminals for telematic services in ISDN
     docidentifier:
     - content: T.90 (02/1992)
       type: ITU
@@ -99,8 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Characteristics and protocols for terminals for telematic services
-        in ISDN
+      content: Characteristics and protocols for terminals for telematic services in ISDN
     docidentifier:
     - content: T.90 (11/1988)
       type: ITU

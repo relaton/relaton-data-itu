@@ -1,16 +1,16 @@
----
 id: ITUTHSuppl5112006
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Gateway control protocol: Guidelines for resource management of ''IP Address
-    & Port'' resources for H.248 RTP terminations'
+  content: 'Gateway control protocol: Guidelines for resource management of ''IP Address & Port'' resources for H.248 RTP terminations'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.Sup5-200611-I
+  content: https://handle.itu.int/11.1002/1000/9099
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.Sup5-200611-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H Suppl. 5 (11/2006)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: RTP crosstalk is a situation, when a RTP endpoint (RA) is wrongly sending
-    RTP packets to another RTP endpoint (RD), in which RD is part of an active communication
-    session (e.g., a RTP session between RD and RC). RA was typically a used resource
-    in another communication session (e.g., a RTP session between RA and RB). Such
-    a failure situation may be caused by a couple of reasons. This Supplement describes
-    potential failure scenarios in detail and provides possible solution proposals
-    for each scenario.
+  content: RTP crosstalk is a situation, when a RTP endpoint (RA) is wrongly sending RTP packets to another RTP endpoint (RD), in which RD is part of an active communication session (e.g., a RTP session between RD and RC). RA was typically a used resource in another communication session (e.g., a RTP session between RA and RB). Such a failure situation may be caused by a couple of reasons. This Supplement describes potential failure scenarios in detail and provides possible solution proposals for each scenario.
 status:
   stage:
     content: Published

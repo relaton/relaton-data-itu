@@ -1,16 +1,16 @@
----
 id: ITUTX1208012014
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: A cybersecurity indicator of risk to enhance confidence and security in
-    the use of telecommunication/information and communication technologies
+  content: A cybersecurity indicator of risk to enhance confidence and security in the use of telecommunication/information and communication technologies
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1208-201401-I
+  content: https://handle.itu.int/11.1002/1000/11950
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1208-201401-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1208 (01/2014)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1208 describes a methodology for organizations
-    to use cybersecurity indicators when computing a risk measure and it provides
-    a list of potential cybersecurity indicators.\r\nRecommendation ITU-T X.1208 is
-    intended to help organizations that implement or operate a portion of the global
-    infrastructure of information and communication technologies to evaluate their
-    own cybersecurity capability and risk. These guidelines are intended to facilitate
-    the decision-making process within organizations on how to lower their risks and
-    how to identify where they could/should invest resources to improve their cybersecurity
-    capabilities.\r\nRecommendation ITU-T X.1208 does not propose the use of an index
-    or a single indicator to express the cybersecurity capabilities of an organization."
+  content: "Recommendation ITU-T X.1208 describes a methodology for organizations to use cybersecurity indicators when computing a risk measure and it provides a list of potential cybersecurity indicators.\r\nRecommendation ITU-T X.1208 is intended to help organizations that implement or operate a portion of the global infrastructure of information and communication technologies to evaluate their own cybersecurity capability and risk. These guidelines are intended to facilitate the decision-making process within organizations on how to lower their risks and how to identify where they could/should invest resources to improve their cybersecurity capabilities.\r\nRecommendation ITU-T X.1208 does not propose the use of an index or a single indicator to express the cybersecurity capabilities of an organization."
 status:
   stage:
     content: Published

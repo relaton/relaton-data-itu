@@ -1,16 +1,16 @@
----
 id: ITUTE174041995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Routing principles and guidance for Universal Personal Telecommunications
-    (UPT)
+  content: Routing principles and guidance for Universal Personal Telecommunications (UPT)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.174-199504-W
+  content: https://handle.itu.int/11.1002/1000/428
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.174-199504-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.174 (04/1995)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation identifies the international call routing principles
-    and guidance in the user plane for the restricted short-term UPT service scenario,
-    the basic UPT service scenario and the beginnings of the enhanced UPT service
-    scenario which are applicable to UPT InCalls, UPT OutCalls and UPT to UPT calls.\r\nThis
-    Recommendation is intended to enable early implementations without providing exhaustive
-    or restrictive lists of implementations.\r\n"
+  content: "This Recommendation identifies the international call routing principles and guidance in the user plane for the restricted short-term UPT service scenario, the basic UPT service scenario and the beginnings of the enhanced UPT service scenario which are applicable to UPT InCalls, UPT OutCalls and UPT to UPT calls.\r\nThis Recommendation is intended to enable early implementations without providing exhaustive or restrictive lists of implementations.\r\n"
 status:
   stage:
     content: Withdrawal

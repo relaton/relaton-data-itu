@@ -1,16 +1,16 @@
----
 id: ITUTT84071996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Digital compression and coding of continuous-tone
-    still images: Extensions'
+  content: 'Information technology – Digital compression and coding of continuous-tone still images: Extensions'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.84-199607-I
+  content: https://handle.itu.int/11.1002/1000/3381
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.84-199607-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.84 (07/1996)
   type: ITU
@@ -54,23 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation | International Standard, Digital compression and
-    coding of continuous-tone still images, is published as three parts:- CCITT Rec.
-    T.81 | ISO/IEC 10918-1: Requirements and guidelines;- ITU-T Rec. T.83 | ISO/IEC
-    10918-2: Compliance testing;- ITU-T Rec. T.84 | ISO/IEC 10918-3: Extensions.This
-    Recommendation | International Standard sets out requirements and guidelines for
-    encoding and decoding extensions to the processes defined by CCITT Rec. T.81 |
-    ISO/IEC 10918-1, and for the coded representation of compressed image data of
-    these extensions. This Recommendation | International Standard also defines tests
-    for determining whether implementations comply with the requirements for the various
-    encoding and decoding extensions.This Recommendation | International Standard:-
-    defines extensions [including variable quantization, selective refinement, composite
-    tiling, and a Still Picture Interchange File Format (SPIFF)] to processes for
-    converting source image data to compressed image data;- defines extensions to
-    processes for converting compressed image data to reconstructed image data;- defines
-    coded representations for compressed image data;- gives guidance and examples
-    on how to implement these extensions in practice;- describes compliance tests
-    for these extensions.'
+  content: 'This Recommendation | International Standard, Digital compression and coding of continuous-tone still images, is published as three parts:- CCITT Rec. T.81 | ISO/IEC 10918-1: Requirements and guidelines;- ITU-T Rec. T.83 | ISO/IEC 10918-2: Compliance testing;- ITU-T Rec. T.84 | ISO/IEC 10918-3: Extensions.This Recommendation | International Standard sets out requirements and guidelines for encoding and decoding extensions to the processes defined by CCITT Rec. T.81 | ISO/IEC 10918-1, and for the coded representation of compressed image data of these extensions. This Recommendation | International Standard also defines tests for determining whether implementations comply with the requirements for the various encoding and decoding extensions.This Recommendation | International Standard:- defines extensions [including variable quantization, selective refinement, composite tiling, and a Still Picture Interchange File Format (SPIFF)] to processes for converting source image data to compressed image data;- defines extensions to processes for converting compressed image data to reconstructed image data;- defines coded representations for compressed image data;- gives guidance and examples on how to implement these extensions in practice;- describes compliance tests for these extensions.'
 status:
   stage:
     content: Published
@@ -90,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Provisions to allow registration of new compression types and versions
-        in the SPIFF header
+      content: Provisions to allow registration of new compression types and versions in the SPIFF header
     docidentifier:
     - content: T.84 (1996) Amd. 1 (04/1999)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTT501031993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Document application profile MM for the interchange of formatted mixed
-    mode documents
+  content: Document application profile MM for the interchange of formatted mixed mode documents
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.501-199303-I
+  content: https://handle.itu.int/11.1002/1000/2573
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.501-199303-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.501 (03/1993)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: A document application profile MM for the interchange of formatted
-        mixed mode documents
+      content: A document application profile MM for the interchange of formatted mixed mode documents
     docidentifier:
     - content: T.501 (11/1988)
       type: ITU

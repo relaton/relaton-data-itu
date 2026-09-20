@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl68122015
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical Report on emergency telecommunication service (ETS) interoperability
-    limitations
+  content: Technical Report on emergency telecommunication service (ETS) interoperability limitations
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup68-201512-I
+  content: https://handle.itu.int/11.1002/1000/12787
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup68-201512-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 68 (12/2015)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "New capabilities in modern terminals and public communication networks,
-    such as sharing multimedia, exchanging location and status information, and call
-    transfer, could be used by ETS Users in cross-borders operations (i.e., between
-    national networks). Supplement 68 to ITU-T Q-series Recommendations provides a
-    technical report (TR) which aims at identifying how the use of such features by
-    ETS Users could be problematic because of limitations in the International interoperability
-    of ETS, beyond technology-to-technology priority mapping. \r\n\r\nThe TR comprises:
-    \r\n\r\n·         An initial comprehensive list of ETS related functional requirements
-    and capabilities analysed in the Report.\r\n\r\n·         Identification of resulting
-    limitations of ETS interoperability: \r\n\r\no   Interfaces between ENIs supporting
-    the considered ETS services \r\n\r\no   Foreseen interoperability problems due
-    to current lack of support for such telecommunication services in ENIs with different
-    technologies \r\n\r\nThe description of limitations includes both a technical
-    analysis of standardised interfaces and use cases to illustrate the involved operations."
+  content: "New capabilities in modern terminals and public communication networks, such as sharing multimedia, exchanging location and status information, and call transfer, could be used by ETS Users in cross-borders operations (i.e., between national networks). Supplement 68 to ITU-T Q-series Recommendations provides a technical report (TR) which aims at identifying how the use of such features by ETS Users could be problematic because of limitations in the International interoperability of ETS, beyond technology-to-technology priority mapping. \r\n\r\nThe TR comprises: \r\n\r\n·         An initial comprehensive list of ETS related functional requirements and capabilities analysed in the Report.\r\n\r\n·         Identification of resulting limitations of ETS interoperability: \r\n\r\no   Interfaces between ENIs supporting the considered ETS services \r\n\r\no   Foreseen interoperability problems due to current lack of support for such telecommunication services in ENIs with different technologies \r\n\r\nThe description of limitations includes both a technical analysis of standardised interfaces and use cases to illustrate the involved operations."
 status:
   stage:
     content: Published

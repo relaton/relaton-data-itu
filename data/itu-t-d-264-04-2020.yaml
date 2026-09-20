@@ -1,16 +1,16 @@
----
 id: ITUTD264042020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Shared uses of telecommunication infrastructure as possible methods for
-    enhancing the efficiency of telecommunications
+  content: Shared uses of telecommunication infrastructure as possible methods for enhancing the efficiency of telecommunications
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.264-202004-I
+  content: https://handle.itu.int/11.1002/1000/13918
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.264-202004-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.264 (04/2020)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T D.264 proposes a set of possible methods to help
-    telecommunication providers save costs and enhance efficiency through the shared
-    uses of the telecommunication infrastructure, including passive and active infrastructure
-    sharing, and including when enabled by aggregation of frequency bands assigned
-    to operators who have acquired property rights over the spectrum to enable active
-    infrastructure sharing implementation. \r\n"
+  content: "Recommendation ITU-T D.264 proposes a set of possible methods to help telecommunication providers save costs and enhance efficiency through the shared uses of the telecommunication infrastructure, including passive and active infrastructure sharing, and including when enabled by aggregation of frequency bands assigned to operators who have acquired property rights over the spectrum to enable active infrastructure sharing implementation. \r\n"
 status:
   stage:
     content: Published
@@ -96,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing
-        national tariffs
+      content: Handbook on the methodology for determining costs and establishing national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

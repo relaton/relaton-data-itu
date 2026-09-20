@@ -1,4 +1,3 @@
----
 id: ITUTX676112018
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.676-201811-I
+  content: https://handle.itu.int/11.1002/1000/13712
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.676-201811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.676 (11/2018)
   type: ITU
@@ -50,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.676 specifies an object identifier (OID)-based resolution
-    framework for identifying various services in IoT environments. OID is an identifier
-    to name an object with a hierarchically assigned namespace. In Internet of things
-    (IoT), thousands of IoT services based on heterogeneous resources will be provided
-    as combinations of various services. For efficiency, various technologies, such
-    as service binding, dynamic services or frequently switching services will be
-    required, along with resolution and identification of grouped services. This Recommendation
-    describes the concepts of IoT grouped services, considerations, architectures,
-    and procedures for an OID-based resolution framework for IoT grouped services.
+  content: Recommendation ITU-T X.676 specifies an object identifier (OID)-based resolution framework for identifying various services in IoT environments. OID is an identifier to name an object with a hierarchically assigned namespace. In Internet of things (IoT), thousands of IoT services based on heterogeneous resources will be provided as combinations of various services. For efficiency, various technologies, such as service binding, dynamic services or frequently switching services will be required, along with resolution and identification of grouped services. This Recommendation describes the concepts of IoT grouped services, considerations, architectures, and procedures for an OID-based resolution framework for IoT grouped services.
 status:
   stage:
     content: Published

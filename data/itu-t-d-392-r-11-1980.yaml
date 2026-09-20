@@ -1,13 +1,14 @@
----
 id: ITUTD392R111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Utilization by public utilities of continental telephone connections which
-    are their property
+  content: Utilization by public utilities of continental telephone connections which are their property
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/7179
 docidentifier:
 - content: ITU-T D.392 R (11/1980)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Utilization by public utilities of continental telephone connections
-        which are their property
+      content: Utilization by public utilities of continental telephone connections which are their property
     docidentifier:
     - content: E.292 R (10/1976)
       type: ITU
@@ -73,8 +73,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Utilization by public services of continental telephone connections
-        which are their property
+      content: Utilization by public services of continental telephone connections which are their property
     docidentifier:
     - content: E.283 R (12/1972)
       type: ITU

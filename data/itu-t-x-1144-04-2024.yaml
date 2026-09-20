@@ -1,4 +1,3 @@
----
 id: ITUTX1144042024
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1144-202404-I
+  content: https://handle.itu.int/11.1002/1000/15877
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1144-202404-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1144 (04/2024)
   type: ITU
@@ -50,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1144 (2013) develops extensible access control
-    markup language (XACML 3.0) which is an updated version of Recommendation ITU-T
-    X.1142 (which is equivalent to OASIS XACML 2.0 (06/2006)).\r\nRecommendation ITU-T
-    X.1144 (2024) defines core XACML including syntax of the language, models, context
-    with policy language model, syntax and processing rules. This Recommendation is
-    technically equivalent and compatible with the OASIS XACML 3.1 standard.\r\n"
+  content: "Recommendation ITU-T X.1144 (2013) develops extensible access control markup language (XACML 3.0) which is an updated version of Recommendation ITU-T X.1142 (which is equivalent to OASIS XACML 2.0 (06/2006)).\r\nRecommendation ITU-T X.1144 (2024) defines core XACML including syntax of the language, models, context with policy language model, syntax and processing rules. This Recommendation is technically equivalent and compatible with the OASIS XACML 3.1 standard.\r\n"
 status:
   stage:
     content: Published
@@ -85,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1144 - Supplement on enhancements and new features in eXtensible
-        Access Control Markup Language (XACML 3.0)
+      content: ITU-T X.1144 - Supplement on enhancements and new features in eXtensible Access Control Markup Language (XACML 3.0)
     docidentifier:
     - content: X Suppl. 22 (01/2014)
       type: ITU

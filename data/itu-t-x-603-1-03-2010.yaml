@@ -1,16 +1,16 @@
----
 id: ITUTX6031032010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Relayed multicast protocol: Specification for
-    simplex group applications'
+  content: 'Information technology – Relayed multicast protocol: Specification for simplex group applications'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.603.1-201003-S
+  content: https://handle.itu.int/11.1002/1000/11371
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.603.1-201003-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.603.1 (03/2010)
   type: ITU
@@ -54,21 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes an application-layer
-    protocol which constructs multicast tree for data delivery from a sender to multiple
-    receivers over Internet where IP multicast is not fully deployed. The specified
-    relayed multicast protocol consists of multicast agent and session manager. This
-    Recommendation | International Standard specifies a series of functions and procedures
-    of multicast agent to construct one-to-many relayed data path and to relay simplex
-    data. It also specifies the operations of session manager to manage multicast
-    sessions. This protocol can be used for applications that require one-to-many
-    data delivery services, such as multimedia streaming service, file dissemination
-    service, etc.Amendment 1 describes the security functionalities of an application-level
-    relayed multicast protocol for one-to-many group applications. The protocol provides
-    various security facilities to fulfil general as well as specific security requirements.
-    Some detailed functions that can operate with a variety of standardized security
-    mechanisms are provided. This amendment enforces the existing RMCP protocol security.Amendment
-    2 revises messages and code values.
+  content: This Recommendation | International Standard describes an application-layer protocol which constructs multicast tree for data delivery from a sender to multiple receivers over Internet where IP multicast is not fully deployed. The specified relayed multicast protocol consists of multicast agent and session manager. This Recommendation | International Standard specifies a series of functions and procedures of multicast agent to construct one-to-many relayed data path and to relay simplex data. It also specifies the operations of session manager to manage multicast sessions. This protocol can be used for applications that require one-to-many data delivery services, such as multimedia streaming service, file dissemination service, etc.Amendment 1 describes the security functionalities of an application-level relayed multicast protocol for one-to-many group applications. The protocol provides various security facilities to fulfil general as well as specific security requirements. Some detailed functions that can operate with a variety of standardized security mechanisms are provided. This amendment enforces the existing RMCP protocol security.Amendment 2 revises messages and code values.
 status:
   stage:
     content: Withdrawal
@@ -88,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Relayed multicast protocol: Specification
-        for simplex group applications'
+      content: 'Information technology – Relayed multicast protocol: Specification for simplex group applications'
     docidentifier:
     - content: X.603.1 (08/2012)
       type: ITU
@@ -119,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Relayed multicast protocol: Specification
-        for simplex group applications'
+      content: 'Information technology – Relayed multicast protocol: Specification for simplex group applications'
     docidentifier:
     - content: X.603.1 (02/2007)
       type: ITU

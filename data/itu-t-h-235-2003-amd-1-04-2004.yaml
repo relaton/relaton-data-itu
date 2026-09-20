@@ -1,10 +1,11 @@
----
 id: ITUTH2352003Amd1042004
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.235-200404-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/7210
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.235-200404-S!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.235 (2003) Amd. 1 (04/2004)
   type: ITU
@@ -45,22 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Version 3 of ITU-T Rec. H.235 supersedes ITU-T Rec. H.235 version 2 featuring
-    a procedure for encrypted DTMF signals, object identifiers for the AES encryption
-    algorithm for media payload encryption, the enhanced OFB (EOFB) stream-cipher
-    encryption mode for encryption of media streams, an authentication-only option
-    in Annex D for smooth NAT/firewall traversal, a key distribution procedure on
-    the RAS channel, procedures for more secure session key transport and more robust
-    session key distribution and updating, procedures for securing multiple payload
-    streams, better security support for direct-routed calls in a new Annex I, signalling
-    means for more flexible error reporting, clarifications and efficiency improvements
-    for fast start security and for Diffie-Hellman signalling along with longer Diffie-Hellman
-    parameters and changes incorporated from the ITU-T Rec. H.323 implementors guide.This
-    amendment extends version 3 of ITU-T Rec. H.235 by inclusion of new Annex H and
-    by extending the functionality of Annex I. The ASN.1 changes are added in support
-    of Annex H, they may be used by any other purpose as identified by the ClearToken
-    profileInfo. This amendment also includes some corrections to and updates the
-    ITU-T Rec. H.235 version 3 text.
+  content: Version 3 of ITU-T Rec. H.235 supersedes ITU-T Rec. H.235 version 2 featuring a procedure for encrypted DTMF signals, object identifiers for the AES encryption algorithm for media payload encryption, the enhanced OFB (EOFB) stream-cipher encryption mode for encryption of media streams, an authentication-only option in Annex D for smooth NAT/firewall traversal, a key distribution procedure on the RAS channel, procedures for more secure session key transport and more robust session key distribution and updating, procedures for securing multiple payload streams, better security support for direct-routed calls in a new Annex I, signalling means for more flexible error reporting, clarifications and efficiency improvements for fast start security and for Diffie-Hellman signalling along with longer Diffie-Hellman parameters and changes incorporated from the ITU-T Rec. H.323 implementors guide.This amendment extends version 3 of ITU-T Rec. H.235 by inclusion of new Annex H and by extending the functionality of Annex I. The ASN.1 changes are added in support of Annex H, they may be used by any other purpose as identified by the ClearToken profileInfo. This amendment also includes some corrections to and updates the ITU-T Rec. H.235 version 3 text.
 status:
   stage:
     content: Withdrawal
@@ -80,8 +66,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Usage of the MIKEY key management protocol for the secure real time
-        transport protocol (SRTP) within H.235
+      content: Usage of the MIKEY key management protocol for the secure real time transport protocol (SRTP) within H.235
     docidentifier:
     - content: H.235 Annex G (01/2005)
       type: ITU
@@ -107,8 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Security and encryption for H-series (H.323 and other H.245-based)
-        multimedia terminals
+      content: Security and encryption for H-series (H.323 and other H.245-based) multimedia terminals
     docidentifier:
     - content: H.235 (08/2003)
       type: ITU
@@ -136,8 +120,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Security and encryption for H-series (H.323 and other H.245-based)
-        multimedia terminals
+      content: Security and encryption for H-series (H.323 and other H.245-based) multimedia terminals
     docidentifier:
     - content: H.235 (11/2000)
       type: ITU
@@ -147,8 +130,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Security and encryption for H-Series (H.323 and other H.245-based)
-        multimedia terminals
+      content: Security and encryption for H-Series (H.323 and other H.245-based) multimedia terminals
     docidentifier:
     - content: H.235 (02/1998)
       type: ITU

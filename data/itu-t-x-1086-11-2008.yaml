@@ -1,16 +1,16 @@
----
 id: ITUTX1086112008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Telebiometrics protection procedures – Part 1: A guideline to technical
-    and managerial countermeasures for biometric data security'
+  content: 'Telebiometrics protection procedures – Part 1: A guideline to technical and managerial countermeasures for biometric data security'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1086-200811-I
+  content: https://handle.itu.int/11.1002/1000/9616
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1086-200811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1086 (11/2008)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1086 defines the requirements of a guideline to
-    provide security countermeasures for telebiometrics and tele-multibiometrics protection
-    procedures. This Recommendation defines the vulnerabilities and threats in operating
-    telebiometric and tele multibiometric systems, and proposes a general guideline
-    for security countermeasures, from both the technical and managerial perspectives,
-    in order to establish a safe environment for the use of telebiometric systems
-    and the protection of individual privacy. In particular, this Recommendation focuses
-    on the vulnerabilities and countermeasures in the process of combining multibiometrics
-    data or information by four different fusion schemes: sample-level, feature-level,
-    score-level, and decision-level.\r\nThis Recommendation describes countermeasures
-    that allow the protection of biometric devices as related to their installation,
-    removal, and delivery. Countermeasures are proposed for the protection of biometric
-    systems as related to their operational procedures, as well as the roles and responsibilities
-    of personnel involved in system design. It is expected that the proposed countermeasures
-    will ensure the security and reliability of the flow of single and multiple biometric
-    information in a telecommunications environment.\r\n"
+  content: "Recommendation ITU-T X.1086 defines the requirements of a guideline to provide security countermeasures for telebiometrics and tele-multibiometrics protection procedures. This Recommendation defines the vulnerabilities and threats in operating telebiometric and tele multibiometric systems, and proposes a general guideline for security countermeasures, from both the technical and managerial perspectives, in order to establish a safe environment for the use of telebiometric systems and the protection of individual privacy. In particular, this Recommendation focuses on the vulnerabilities and countermeasures in the process of combining multibiometrics data or information by four different fusion schemes: sample-level, feature-level, score-level, and decision-level.\r\nThis Recommendation describes countermeasures that allow the protection of biometric devices as related to their installation, removal, and delivery. Countermeasures are proposed for the protection of biometric systems as related to their operational procedures, as well as the roles and responsibilities of personnel involved in system design. It is expected that the proposed countermeasures will ensure the security and reliability of the flow of single and multiple biometric information in a telecommunications environment.\r\n"
 status:
   stage:
     content: Published

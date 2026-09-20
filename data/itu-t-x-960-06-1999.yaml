@@ -1,16 +1,16 @@
----
 id: ITUTX960061999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Distributed Processing – Type repository
-    function
+  content: Information technology – Open Distributed Processing – Type repository function
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.960-199906-I
+  content: https://handle.itu.int/11.1002/1000/4582
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.960-199906-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.960 (06/1999)
   type: ITU
@@ -54,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard defines a framework for describing
-    and managing types of interest in ODP systems. Specifically:· it determines what
-    entities need to be typed and what needs to be defined about the identified types;·
-    it identifies and characterizes type languages sufficient to describe the types
-    of interest;· it specifies a generic type repository function which can be specialized
-    to a specific type system or type notation, and which provides for storage, retrieval
-    and management of type descriptions and relationships between types, for naming
-    of types in a manner consistent with the ODP naming framework, and for interworking
-    and federation of different type repositories.
+  content: This Recommendation | International Standard defines a framework for describing and managing types of interest in ODP systems. Specifically:· it determines what entities need to be typed and what needs to be defined about the identified types;· it identifies and characterizes type languages sufficient to describe the types of interest;· it specifies a generic type repository function which can be specialized to a specific type system or type notation, and which provides for storage, retrieval and management of type descriptions and relationships between types, for naming of types in a manner consistent with the ODP naming framework, and for interworking and federation of different type repositories.
 status:
   stage:
     content: Published

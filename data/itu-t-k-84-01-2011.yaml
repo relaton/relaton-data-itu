@@ -1,16 +1,16 @@
----
 id: ITUTK84012011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Test methods and guide against information leaks through unintentional
-    electromagnetic emissions
+  content: Test methods and guide against information leaks through unintentional electromagnetic emissions
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.84-201101-I
+  content: https://handle.itu.int/11.1002/1000/11038
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.84-201101-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.84 (01/2011)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In an information security management system (ISMS), based on Recommendation
-    ITU-T X.1051 and ISO/IEC Standards 27001 and 27002, physical security is a key
-    issue. When security is managed taking the above references into consideration,
-    we should evaluate the threats and mitigate their impact against equipment or
-    sites. Threats are related to confidentiality in ISMS. This recommendation describes
-    threats from information leakage due to unintentional electromagnetic emanations,
-    and the two approaches of mitigation i.e reduction of emission from equipment
-    and the level of site shielding are described. Information leakage test methods
-    for conducted and radiated emission are presented
+  content: In an information security management system (ISMS), based on Recommendation ITU-T X.1051 and ISO/IEC Standards 27001 and 27002, physical security is a key issue. When security is managed taking the above references into consideration, we should evaluate the threats and mitigate their impact against equipment or sites. Threats are related to confidentiality in ISMS. This recommendation describes threats from information leakage due to unintentional electromagnetic emanations, and the two approaches of mitigation i.e reduction of emission from equipment and the level of site shielding are described. Information leakage test methods for conducted and radiated emission are presented
 status:
   stage:
     content: Published
@@ -89,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -110,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -121,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -132,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -143,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -174,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

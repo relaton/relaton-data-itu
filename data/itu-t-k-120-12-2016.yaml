@@ -1,4 +1,3 @@
----
 id: ITUTK120122016
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.120-201612-I
+  content: https://handle.itu.int/11.1002/1000/13136
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.120-201612-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.120 (12/2016)
   type: ITU
@@ -50,32 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.120 provides guidelines for lightning protection
-    and earthing of miniature base stations. A miniature base station is a new type
-    of radio base station, which is different from a distribution base station (DBS)
-    in many respects. The change of installation environment is the critical factor
-    to affect the lightning protection of miniature base stations.\r\nMiniature base
-    stations have low radio frequency (RF) power and a small volume in size, which
-    makes them suitable for the coverage of hotspots and/or blind areas for improving
-    communication quality. Miniature base stations are ordinarily installed in residential
-    or densely populated urban areas (unconventional telecommunication site), for
-    example, ceiling (indoor), external wall, advertising board, rooftop, street light,
-    low-voltage power pole, and so on, where the installation, wiring and earthing
-    is difficult. \r\nIn comparison, distribution base stations, within the domain
-    of macro-base stations, have high RF power and a large volume in size, which is
-    suitable for wide area coverage. Usually a DBS is installed in a conventional
-    telecommunication environment, where the installation, wiring and earthing is
-    easier. Though some installation scenarios are covered by Recommendation ITU-T
-    K.97, lightning protection of miniature base stations are not fully specified
-    in the ITU-T K series of Recommendations. \r\nThe purpose of this Recommendation
-    is to give guidance on the protection of miniature base stations against lightning
-    surge, especially for those which are in unexposed environments (to lightning)
-    and unconventional telecommunication sites.\r\nProtection of miniature base stations
-    is achieved by either surge protective devices and/or components or isolation
-    of interfaces. For those where earthing is not available or it is difficult, the
-    base station can be unearthed (floating), as long as the safety measures against
-    electric shock are considered adequately. Bonding configurations of the protection
-    module and of the optical fibre cable are also illustrated.\r\n"
+  content: "Recommendation ITU-T K.120 provides guidelines for lightning protection and earthing of miniature base stations. A miniature base station is a new type of radio base station, which is different from a distribution base station (DBS) in many respects. The change of installation environment is the critical factor to affect the lightning protection of miniature base stations.\r\nMiniature base stations have low radio frequency (RF) power and a small volume in size, which makes them suitable for the coverage of hotspots and/or blind areas for improving communication quality. Miniature base stations are ordinarily installed in residential or densely populated urban areas (unconventional telecommunication site), for example, ceiling (indoor), external wall, advertising board, rooftop, street light, low-voltage power pole, and so on, where the installation, wiring and earthing is difficult. \r\nIn comparison, distribution base stations, within the domain of macro-base stations, have high RF power and a large volume in size, which is suitable for wide area coverage. Usually a DBS is installed in a conventional telecommunication environment, where the installation, wiring and earthing is easier. Though some installation scenarios are covered by Recommendation ITU-T K.97, lightning protection of miniature base stations are not fully specified in the ITU-T K series of Recommendations. \r\nThe purpose of this Recommendation is to give guidance on the protection of miniature base stations against lightning surge, especially for those which are in unexposed environments (to lightning) and unconventional telecommunication sites.\r\nProtection of miniature base stations is achieved by either surge protective devices and/or components or isolation of interfaces. For those where earthing is not available or it is difficult, the base station can be unearthed (floating), as long as the safety measures against electric shock are considered adequately. Bonding configurations of the protection module and of the optical fibre cable are also illustrated.\r\n"
 status:
   stage:
     content: Published
@@ -95,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -116,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -127,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -138,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -149,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -180,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

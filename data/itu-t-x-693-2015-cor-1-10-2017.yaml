@@ -1,10 +1,11 @@
----
 id: ITUTX6932015Cor1102017
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.693-201710-S!Cor1
+  content: https://handle.itu.int/11.1002/1000/13363
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.693-201710-S!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.693 (2015) Cor. 1 (10/2017)
   type: ITU
@@ -48,8 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This technical corrigendum to Recommendation ITU-T X.693 | ISO/IEC 8825-4
-    clarifies the handling of encoding instructions on types in constraints.
+  content: This technical corrigendum to Recommendation ITU-T X.693 | ISO/IEC 8825-4 clarifies the handling of encoding instructions on types in constraints.
 status:
   stage:
     content: Withdrawal
@@ -69,8 +69,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: XML Encoding Rules
-        (XER)'
+      content: 'Information technology - ASN.1 encoding rules: XML Encoding Rules (XER)'
     docidentifier:
     - content: X.693 (02/2021)
       type: ITU
@@ -80,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
-        (XER)'
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules (XER)'
     docidentifier:
     - content: X.693 (08/2015)
       type: ITU
@@ -107,8 +105,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
-        (XER)'
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules (XER)'
     docidentifier:
     - content: X.693 (11/2008)
       type: ITU
@@ -148,8 +145,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
-        (XER)'
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules (XER)'
     docidentifier:
     - content: X.693 (12/2001)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTX1245122010
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1245-201012-I
+  content: https://handle.itu.int/11.1002/1000/10830
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1245-201012-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1245 (12/2010)
   type: ITU
@@ -50,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1245 provides the general framework for countering
-    spam in IP-based multimedia applications such as IP telephony, instant messaging,
-    multimedia conference, etc. The framework consists of four anti-spam functions,
-    i.e., core anti-spam functions (CASF), recipient-side anti-spam functions (RASF),
-    sender-side anti-spam functions (SASF), and spam recipient functions (SRF). This
-    Recommendation describes the functionalities and the interfaces of each function
-    for countering IP multimedia spam.
+  content: Recommendation ITU-T X.1245 provides the general framework for countering spam in IP-based multimedia applications such as IP telephony, instant messaging, multimedia conference, etc. The framework consists of four anti-spam functions, i.e., core anti-spam functions (CASF), recipient-side anti-spam functions (RASF), sender-side anti-spam functions (SASF), and spam recipient functions (SRF). This Recommendation describes the functionalities and the interfaces of each function for countering IP multimedia spam.
 status:
   stage:
     content: Published
@@ -76,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated
-        threats
+      content: ITU-T X.1240 series – Supplement on countering spam and associated threats
     docidentifier:
     - content: X Suppl. 6 (09/2009)
       type: ITU
@@ -87,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1245 - Supplement on framework based on real-time blocking
-        lists for countering VoIP spam
+      content: ITU-T X.1245 - Supplement on framework based on real-time blocking lists for countering VoIP spam
     docidentifier:
     - content: X Suppl. 11 (09/2011)
       type: ITU
@@ -98,9 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1245 - Supplement on technical measures and mechanisms on countering
-        spoofed calls in the terminating network of voice over long term evolution
-        (VoLTE)
+      content: ITU-T X.1245 - Supplement on technical measures and mechanisms on countering spoofed calls in the terminating network of voice over long term evolution (VoLTE)
     docidentifier:
     - content: X Suppl. 28 (09/2016)
       type: ITU

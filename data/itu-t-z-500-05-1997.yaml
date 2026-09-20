@@ -1,4 +1,3 @@
----
 id: ITUTZ500051997
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Z.500-199705-I
+  content: https://handle.itu.int/11.1002/1000/4010
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Z.500-199705-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Z.500 (05/1997)
   type: ITU
@@ -50,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation \"Framework on Formal Methods in Conformance Testing\"
-    (FMCT) defines the meaning of conformance if formal methods are used for the specification
-    of a communication protocol or service. It is also meant to guide computer aided
-    test generation.\r\nThis Recommendation defines a framework for the use of formal
-    methods in conformance testing. It is intended for implementers, testers, and
-    specifiers involved in conformance testing to guide in defining conformance and
-    the testing process of an implementation with respect to a specification that
-    is given as a formal description.\r\n"
+  content: "This Recommendation \"Framework on Formal Methods in Conformance Testing\" (FMCT) defines the meaning of conformance if formal methods are used for the specification of a communication protocol or service. It is also meant to guide computer aided test generation.\r\nThis Recommendation defines a framework for the use of formal methods in conformance testing. It is intended for implementers, testers, and specifiers involved in conformance testing to guide in defining conformance and the testing process of an implementation with respect to a specification that is given as a formal description.\r\n"
 status:
   stage:
     content: Published

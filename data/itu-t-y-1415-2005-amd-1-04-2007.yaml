@@ -1,16 +1,16 @@
----
 id: ITUTY14152005Amd1042007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: New Appendix II – Use of Ethernet-MPLS interworking for transport of IP/MPLS
-    services
+  content: New Appendix II – Use of Ethernet-MPLS interworking for transport of IP/MPLS services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1415-200704-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/9147
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1415-200704-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1415 (2005) Amd. 1 (04/2007)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: New Appendix II to ITU-T Recommendation Y.1415 describes use of ITU-T Recommendation
-    Y.1415 to interconnect IP/MPLS networks that are attached to a server MPLS network
-    via Ethernet.
+  content: New Appendix II to ITU-T Recommendation Y.1415 describes use of ITU-T Recommendation Y.1415 to interconnect IP/MPLS networks that are attached to a server MPLS network via Ethernet.
 status:
   stage:
     content: Published
@@ -103,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -114,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -125,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

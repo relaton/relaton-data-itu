@@ -1,4 +1,3 @@
----
 id: ITUTI732031996
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.732-199603-S
+  content: https://handle.itu.int/11.1002/1000/3342
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.732-199603-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.732 (03/1996)
   type: ITU
@@ -50,27 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the detailed functional requirements of ATM
-    Network Elements (NEs) based on the general functional architecture described
-    in the companion Recommendation I.731. The functional elements of the ATM equipment
-    (or NE) are described in terms of an equivalent representation of the B-ISDN Protocol
-    Reference Model (PRM) and the equipment modelling methodology derived from Recommendations
-    G.805 and I.326.The intent of this approach is to enable interoperability between
-    ATM NEs independent of any specific implementation. Based on this, the ATM equipment
-    is decomposed into the individual functional elements for both Transfer Layers
-    and Layer Management. This Recommendation describes the functional requirements
-    for each element in the ATM equipment model, specifically for the ATM Layer functions.The
-    detailed functional decomposition of the Physical Layer and the ATM Adaptation
-    Layer (AAL) are not addressed here since these are dealt with in other (referenced)
-    Recommendations.The description of the functional requirements of each element
-    of both Transfer Plane and Layer Management Plane is given in sufficient detail
-    to enable the interoperability between different but compliant implementations
-    of an ATM NE.The information transfer required between the functional elements
-    of the Transfer Layers, the corresponding Layer Management elements and the Coordination
-    function of the Plane (or System) Management Layer is described in detail. The
-    Coordination function (of Plane Management Layer) provides the internal interface
-    between the Layer Management functional elements and the overall NE System management
-    functions, which are addressed in the companion Recommendation I.751.
+  content: This Recommendation describes the detailed functional requirements of ATM Network Elements (NEs) based on the general functional architecture described in the companion Recommendation I.731. The functional elements of the ATM equipment (or NE) are described in terms of an equivalent representation of the B-ISDN Protocol Reference Model (PRM) and the equipment modelling methodology derived from Recommendations G.805 and I.326.The intent of this approach is to enable interoperability between ATM NEs independent of any specific implementation. Based on this, the ATM equipment is decomposed into the individual functional elements for both Transfer Layers and Layer Management. This Recommendation describes the functional requirements for each element in the ATM equipment model, specifically for the ATM Layer functions.The detailed functional decomposition of the Physical Layer and the ATM Adaptation Layer (AAL) are not addressed here since these are dealt with in other (referenced) Recommendations.The description of the functional requirements of each element of both Transfer Plane and Layer Management Plane is given in sufficient detail to enable the interoperability between different but compliant implementations of an ATM NE.The information transfer required between the functional elements of the Transfer Layers, the corresponding Layer Management elements and the Coordination function of the Plane (or System) Management Layer is described in detail. The Coordination function (of Plane Management Layer) provides the internal interface between the Layer Management functional elements and the overall NE System management functions, which are addressed in the companion Recommendation I.751.
 status:
   stage:
     content: Withdrawal
@@ -100,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

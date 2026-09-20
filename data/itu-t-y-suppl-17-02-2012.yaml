@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl17022012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2200-series - Functional model of a service overlay network framework
-    which uses the next generation network
+  content: ITU-T Y.2200-series - Functional model of a service overlay network framework which uses the next generation network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup17-201202-I
+  content: https://handle.itu.int/11.1002/1000/11692
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup17-201202-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 17 (02/2012)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 17 to ITU-T Y.2200-series Recommendations provides a functional
-    model of a service overlay network (SON) which uses NGNs. It identifies SON service
-    capability functions and also provides a number of operating scenarios which may
-    be used to provide enhanced NGN applications.
+  content: Supplement 17 to ITU-T Y.2200-series Recommendations provides a functional model of a service overlay network (SON) which uses NGNs. It identifies SON service capability functions and also provides a number of operating scenarios which may be used to provide enhanced NGN applications.
 status:
   stage:
     content: Published

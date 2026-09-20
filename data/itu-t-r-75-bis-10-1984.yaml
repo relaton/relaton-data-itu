@@ -1,13 +1,14 @@
----
 id: ITUTR75bis101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Maintenance measurements of character error rate on international sections
-    of international telegraph circuits
+  content: Maintenance measurements of character error rate on international sections of international telegraph circuits
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6735
 docidentifier:
 - content: ITU-T R.75 bis (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Maintenance measurements of character error rate on international sections
-        of international telegraph circuits
+      content: Maintenance measurements of character error rate on international sections of international telegraph circuits
     docidentifier:
     - content: R.75 bis (11/1988)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTT62bis031993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Control procedures for teletex and G4 facsimile services based on Recommendations
-    X.215 and X.225
+  content: Control procedures for teletex and G4 facsimile services based on Recommendations X.215 and X.225
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.62bis-199303-I
+  content: https://handle.itu.int/11.1002/1000/2623
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.62bis-199303-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.62 bis (03/1993)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Control procedures for teletex and G4 facsimile services based on Recommendations
-        X.215 and X.225
+      content: Control procedures for teletex and G4 facsimile services based on Recommendations X.215 and X.225
     docidentifier:
     - content: T.62 bis (11/1988)
       type: ITU

@@ -1,10 +1,11 @@
----
 id: ITUTV592000Cor2032002
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.59-200203-I!Cor2
+  content: https://handle.itu.int/11.1002/1000/5694
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.59-200203-I!Cor2!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.59 (2000) Cor. 2 (03/2002)
   type: ITU
@@ -72,8 +73,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Managed objects for diagnostic information of public switched telephone
-        network connected V-series modem DCEs
+      content: Managed objects for diagnostic information of public switched telephone network connected V-series modem DCEs
     docidentifier:
     - content: V.59 (11/2000)
       type: ITU

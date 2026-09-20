@@ -1,16 +1,16 @@
----
 id: ITUTY3089082025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information-centric networking in networks beyond IMT-2020 – Requirements
-    and capabilities of network nodes to support in-network processing
+  content: Information-centric networking in networks beyond IMT-2020 – Requirements and capabilities of network nodes to support in-network processing
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3089-202508-I
+  content: https://handle.itu.int/11.1002/1000/16439
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3089-202508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3089 (08/2025)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3089 specifies the requirements and capabilities
-    of information-centric networking (ICN) node to support in-network processing
-    in networks beyond IMT-2020. It describes the requirements of ICN network node
-    from two aspects: service requirements and functional requirements. Based on the
-    ICN capability architecture established in Recommendation ITU-T Y.3075, it specifies
-    enhanced ICN network node capabilities to support in-network processing, including
-    resource-ID registration and resolution, resource-ID based routing, local resources
-    monitoring, collaborative neighbourhood awareness and maintenance, autonomous
-    resource-ID-based forwarding and scheduling.\r\n"
+  content: "Recommendation ITU-T Y.3089 specifies the requirements and capabilities of information-centric networking (ICN) node to support in-network processing in networks beyond IMT-2020. It describes the requirements of ICN network node from two aspects: service requirements and functional requirements. Based on the ICN capability architecture established in Recommendation ITU-T Y.3075, it specifies enhanced ICN network node capabilities to support in-network processing, including resource-ID registration and resolution, resource-ID based routing, local resources monitoring, collaborative neighbourhood awareness and maintenance, autonomous resource-ID-based forwarding and scheduling.\r\n"
 status:
   stage:
     content: Published
@@ -89,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Y.3000-series – Network 2030 services: Capabilities, performance
-        and design of new communication services for the Network 2030 applications'
+      content: 'ITU-T Y.3000-series – Network 2030 services: Capabilities, performance and design of new communication services for the Network 2030 applications'
     docidentifier:
     - content: Y Suppl. 66 (07/2020)
       type: ITU
@@ -100,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Representative use cases and key network requirements
-        for Network 2030
+      content: ITU-T Y.3000-series – Representative use cases and key network requirements for Network 2030
     docidentifier:
     - content: Y Suppl. 67 (07/2020)
       type: ITU
@@ -121,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -152,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -163,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -174,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -185,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -216,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3080-series – Supplement on self-controlled identity based
-        on blockchain – Service scenarios
+      content: ITU-T Y.3080-series – Supplement on self-controlled identity based on blockchain – Service scenarios
     docidentifier:
     - content: Y Suppl. 110 (07/2026)
       type: ITU

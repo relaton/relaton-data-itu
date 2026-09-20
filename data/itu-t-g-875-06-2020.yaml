@@ -1,16 +1,16 @@
----
 id: ITUTG875062020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Optical transport network: Protocol-neutral management information model
-    for the network element view'
+  content: 'Optical transport network: Protocol-neutral management information model for the network element view'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.875-202006-S
+  content: https://handle.itu.int/11.1002/1000/14241
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.875-202006-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.875 (06/2020)
   type: ITU
@@ -51,50 +51,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.875 (ex. ITU-T G.874.1) provides a protocol-neutral
-    management information model for managing network elements in the optical transport
-    network (OTN). The model contains the managed entities and their properties that
-    are useful to describe the information exchanged across interfaces defined in
-    the ITU-T M.3010 telecommunications management network (TMN) architecture. The
-    protocol-neutral management information model shall be used as the base for defining
-    protocol-specific management information models, for example, common management
-    information service element (CMISE), common object request broker architecture
-    (CORBA) and simple network management protocol (SNMP) information models. Mapping
-    from the protocol-neutral entities into protocol-specific objects is a decision
-    of the specific protocol modelling design and should be described in the protocol-specific
-    information model Recommendations. \n\nThe 2012 revision of this Recommendation
-    updated the management information model to support the management of the new
-    transport functions that were introduced in the 2010 revision of Recommendation
-    ITU-T G.798 and also to support the management requirements enhancement introduced
-    in the 2010 revision of Recommendation ITU-T G.874. \n\nAmendment 1 enhanced the
-    model to cover delay measurement (DM), automatic protection switching (APS) configuration,
-    tributary slot configuration, and optical data unit (ODU) type and rate configuration,
-    and to remove the counting of incoming alignment errors (IAEs) and backward incoming
-    alignment errors (BIAEs). \n\nAmendment 2 added: (1) the use of an organizationally
-    unique identifier (OUI) to the description of the attributes selectedApplicationIdentifier
-    and supportableApplicationIdentifierList; and (2) sub-classes the OTN current
-    data and history data object classes from the ITU-T Q.822 current data and history
-    data object classes. \n\nThe 2016 revision of this Recommendation has incorporated
-    Amendment 1 and Amendment 2, and in addition the following updates: (1) changes
-    the unified modelling language (UML) modelling tool from RSA to open source Papyrus
-    tool; (2) updates the ITU-T G.874.1 information model to align with the ITU-T
-    G.7711 v2.0 core information model; (3) drops subclassing the termination point
-    (TP) classes from ITU-T M.3160; and (4) supports the additional management requirements
-    in Recommendation ITU-T G.874. \n\nThe 2018 revision of this Recommendation up-versions
-    the UML model tool to Papyrus v3.2.0 and the profile to v0.2.13, updates the object
-    class mapping figures to align with ITU-T G.798, updates the model for ODU, optical
-    transport unit (OTU), FlexO, optical tributary signal group – overhead (OTSiG-O),
-    optical channel – overhead (OCh-O), optical multiplex section – overhead (OMS-O),
-    and optical transmission section – overhead (OTS-O), adds Annex A for the OTN
-    specification model, deprecates the OTU CTP, OChr and optical physical section
-    (OPS) (OPSn, OPSMnk, OPS0) layer object classes to align with Recommendation ITU-T
-    G.798. \n\nThe 2020 revision of this Recommendation up-versions the UML model
-    tool to Papyrus v4.1.0 and the profile to v0.2.17; updates and cleans up the model
-    for ODU, adding support for ODUCn, ODU delay measurement, GCC1/2 management, ODU
-    clients (aligning with Recommendation ITU-T G.709 v6), OTU and FlexO; add the
-    model for generic framing procedure (GFP) management; deprecates duplicated attributes
-    and associations; un-deprecates the OTU CTP object classes and fixes some other
-    errors. \n"
+  content: |
+    Recommendation ITU-T G.875 (ex. ITU-T G.874.1) provides a protocol-neutral management information model for managing network elements in the optical transport network (OTN). The model contains the managed entities and their properties that are useful to describe the information exchanged across interfaces defined in the ITU-T M.3010 telecommunications management network (TMN) architecture. The protocol-neutral management information model shall be used as the base for defining protocol-specific management information models, for example, common management information service element (CMISE), common object request broker architecture (CORBA) and simple network management protocol (SNMP) information models. Mapping from the protocol-neutral entities into protocol-specific objects is a decision of the specific protocol modelling design and should be described in the protocol-specific information model Recommendations. 
+
+    The 2012 revision of this Recommendation updated the management information model to support the management of the new transport functions that were introduced in the 2010 revision of Recommendation ITU-T G.798 and also to support the management requirements enhancement introduced in the 2010 revision of Recommendation ITU-T G.874. 
+
+    Amendment 1 enhanced the model to cover delay measurement (DM), automatic protection switching (APS) configuration, tributary slot configuration, and optical data unit (ODU) type and rate configuration, and to remove the counting of incoming alignment errors (IAEs) and backward incoming alignment errors (BIAEs). 
+
+    Amendment 2 added: (1) the use of an organizationally unique identifier (OUI) to the description of the attributes selectedApplicationIdentifier and supportableApplicationIdentifierList; and (2) sub-classes the OTN current data and history data object classes from the ITU-T Q.822 current data and history data object classes. 
+
+    The 2016 revision of this Recommendation has incorporated Amendment 1 and Amendment 2, and in addition the following updates: (1) changes the unified modelling language (UML) modelling tool from RSA to open source Papyrus tool; (2) updates the ITU-T G.874.1 information model to align with the ITU-T G.7711 v2.0 core information model; (3) drops subclassing the termination point (TP) classes from ITU-T M.3160; and (4) supports the additional management requirements in Recommendation ITU-T G.874. 
+
+    The 2018 revision of this Recommendation up-versions the UML model tool to Papyrus v3.2.0 and the profile to v0.2.13, updates the object class mapping figures to align with ITU-T G.798, updates the model for ODU, optical transport unit (OTU), FlexO, optical tributary signal group – overhead (OTSiG-O), optical channel – overhead (OCh-O), optical multiplex section – overhead (OMS-O), and optical transmission section – overhead (OTS-O), adds Annex A for the OTN specification model, deprecates the OTU CTP, OChr and optical physical section (OPS) (OPSn, OPSMnk, OPS0) layer object classes to align with Recommendation ITU-T G.798. 
+
+    The 2020 revision of this Recommendation up-versions the UML model tool to Papyrus v4.1.0 and the profile to v0.2.17; updates and cleans up the model for ODU, adding support for ODUCn, ODU delay measurement, GCC1/2 management, ODU clients (aligning with Recommendation ITU-T G.709 v6), OTU and FlexO; add the model for generic framing procedure (GFP) management; deprecates duplicated attributes and associations; un-deprecates the OTU CTP object classes and fixes some other errors. 
 status:
   stage:
     content: Withdrawal
@@ -122,8 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Optical transport network: Protocol-neutral management information
-        model for the network element view'
+      content: 'Optical transport network: Protocol-neutral management information model for the network element view'
     docidentifier:
     - content: G.875 (12/2024)
       type: ITU
@@ -133,8 +102,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Optical transport network: Protocol-neutral management information
-        model for the network element view'
+      content: 'Optical transport network: Protocol-neutral management information model for the network element view'
     docidentifier:
     - content: G.875 (12/2018)
       type: ITU
@@ -144,8 +112,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Optical transport network: Protocol-neutral management information
-        model for the network element view'
+      content: 'Optical transport network: Protocol-neutral management information model for the network element view'
     docidentifier:
     - content: G.874.1 (11/2016)
       type: ITU
@@ -171,8 +138,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Optical transport network: Protocol-neutral management information
-        model for the network element view'
+      content: 'Optical transport network: Protocol-neutral management information model for the network element view'
     docidentifier:
     - content: G.874.1 (10/2012)
       type: ITU
@@ -182,8 +148,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Optical transport network (OTN): Protocol-neutral management information
-        model for the network element view'
+      content: 'Optical transport network (OTN): Protocol-neutral management information model for the network element view'
     docidentifier:
     - content: G.874.1 (01/2002)
       type: ITU
@@ -193,8 +158,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Certain methods of avoiding the transmission of excessive noise between
-        interconnected systems
+      content: Certain methods of avoiding the transmission of excessive noise between interconnected systems
     docidentifier:
     - content: G Suppl. 4 (12/1972)
       type: ITU
@@ -214,8 +178,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Loss-frequency response of channel-translating equipment used in some
-        countries for international circuits
+      content: Loss-frequency response of channel-translating equipment used in some countries for international circuits
     docidentifier:
     - content: G Suppl. 7 (12/1972)
       type: ITU
@@ -225,8 +188,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Method proposed by the Belgian telephone administration for interconnection
-        between coaxial and symmetric pair systems
+      content: Method proposed by the Belgian telephone administration for interconnection between coaxial and symmetric pair systems
     docidentifier:
     - content: G Suppl. 8 (12/1972)
       type: ITU
@@ -246,8 +208,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital crosstalk measurement (method used by the Administrations of
-        France, the Netherlands and Spain)
+      content: Digital crosstalk measurement (method used by the Administrations of France, the Netherlands and Spain)
     docidentifier:
     - content: G Suppl. 19 (10/1984)
       type: ITU
@@ -267,8 +228,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Estimating the signal load margin of FDM wideband amplifier equipment
-        and transmission systems
+      content: Estimating the signal load margin of FDM wideband amplifier equipment and transmission systems
     docidentifier:
     - content: G Suppl. 26 (10/1984)
       type: ITU
@@ -288,9 +248,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems
-        and data-over-voice (DOV) systems during the transition from an analogue to
-        a digital network
+      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems and data-over-voice (DOV) systems during the transition from an analogue to a digital network
     docidentifier:
     - content: G Suppl. 28 (10/1984)
       type: ITU
@@ -370,8 +328,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guide on the use of the ITU-T Recommendations related to optical fibres
-        and systems technology
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres and systems technology
     docidentifier:
     - content: G Suppl. 42 (10/2018)
       type: ITU
@@ -411,8 +368,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G-PON interoperability test plan between optical line terminations
-        and optical network units
+      content: G-PON interoperability test plan between optical line terminations and optical network units
     docidentifier:
     - content: G Suppl. 46 (05/2009)
       type: ITU
@@ -432,9 +388,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: '10-Gigabit-capable passive optical networks: Interface between media
-        access control with serializer/deserializer and physical medium dependent
-        sublayers'
+      content: '10-Gigabit-capable passive optical networks: Interface between media access control with serializer/deserializer and physical medium dependent sublayers'
     docidentifier:
     - content: G Suppl. 48 (06/2010)
       type: ITU
@@ -624,8 +578,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on sub 1 Gbit/s services transport over optical transport
-        network
+      content: Supplement on sub 1 Gbit/s services transport over optical transport network
     docidentifier:
     - content: G Suppl. 70 (09/2020)
       type: ITU
@@ -635,8 +588,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optical line termination capabilities for supporting cooperative dynamic
-        bandwidth assignment
+      content: Optical line termination capabilities for supporting cooperative dynamic bandwidth assignment
     docidentifier:
     - content: G Suppl. 71 (12/2023)
       type: ITU
@@ -656,8 +608,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Influencing factors on quality of experience for multiview video (MVV)
-        services
+      content: Influencing factors on quality of experience for multiview video (MVV) services
     docidentifier:
     - content: G Suppl. 73 (10/2021)
       type: ITU
@@ -697,9 +648,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors
-        on quality of experience (QoE) for video customized alerting tone (CAT) and
-        video customized ringing signal (CRS) services
+      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors on quality of experience (QoE) for video customized alerting tone (CAT) and video customized ringing signal (CRS) services
     docidentifier:
     - content: G Suppl. 77 (06/2022)
       type: ITU
@@ -729,8 +678,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use case and requirements of fibre-based in-premises networking for
-        home application (FIP4H)
+      content: Use case and requirements of fibre-based in-premises networking for home application (FIP4H)
     docidentifier:
     - content: G Suppl. 80 (07/2024)
       type: ITU
@@ -760,8 +708,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on the use of options in the precision time protocol profile
-        with full timing support from the network
+      content: Supplement on the use of options in the precision time protocol profile with full timing support from the network
     docidentifier:
     - content: G Suppl. 83 (10/2025)
       type: ITU
@@ -811,8 +758,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Point to multipoint passive optical access system requirements and
-        transmission technologies above 50 Gbit/s per wavelength
+      content: Point to multipoint passive optical access system requirements and transmission technologies above 50 Gbit/s per wavelength
     docidentifier:
     - content: G Suppl. 88 (10/2025)
       type: ITU
@@ -842,8 +788,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases and requirements of fibre-in-premises for small and medium
-        enterprise applications
+      content: Use cases and requirements of fibre-in-premises for small and medium enterprise applications
     docidentifier:
     - content: G Suppl. 91 (10/2025)
       type: ITU

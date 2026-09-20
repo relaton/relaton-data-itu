@@ -1,16 +1,16 @@
----
 id: ITUTG681101996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Functional characteristics of interoffice and long-haul line systems using
-    optical amplifiers, including optical multiplexing
+  content: Functional characteristics of interoffice and long-haul line systems using optical amplifiers, including optical multiplexing
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.681-199610-S
+  content: https://handle.itu.int/11.1002/1000/3947
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.681-199610-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.681 (10/1996)
   type: ITU
@@ -46,23 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation covers the functional characteristics of interoffice
-    and long-haul line systems using optical amplifiers, including optical multiplexing.
-    It represents a bridge between reference/physical configurations of SDH interoffice
-    systems described in Recommendations G.782, G.783, G.958 and between functional
-    transport network architectures described in Recommendations G.803 and G.805.
-    Extended or new "functional blocks, functions and sub-functions" of SDH equipment
-    (e.g. line termination, optical/electrical/optical regenerator and optical non-regenerative
-    repeater) are mapped on "compound functions, atomic functions and processes" of
-    transport networks. Optical channel layer, optical multiplex section layer and
-    optical amplifier section layer are identified for optical transport systems.
-    In addition optical safety considerations, including Automatic Power Shutdown
-    (APSD) and Optical Surge Prevention (OSP), and the Optical Supervisory Channel
-    (OSC) are topics of this Recommendation.In future Recommendations on "optical
-    media-based transport network architectures", there will be standardized "optical
-    path layer with optical add and drop multiplexers and optical cross-connects"
-    and "optical circuit layer with optical switches" which are not in the scope of
-    this Recommendation.
+  content: This Recommendation covers the functional characteristics of interoffice and long-haul line systems using optical amplifiers, including optical multiplexing. It represents a bridge between reference/physical configurations of SDH interoffice systems described in Recommendations G.782, G.783, G.958 and between functional transport network architectures described in Recommendations G.803 and G.805. Extended or new "functional blocks, functions and sub-functions" of SDH equipment (e.g. line termination, optical/electrical/optical regenerator and optical non-regenerative repeater) are mapped on "compound functions, atomic functions and processes" of transport networks. Optical channel layer, optical multiplex section layer and optical amplifier section layer are identified for optical transport systems. In addition optical safety considerations, including Automatic Power Shutdown (APSD) and Optical Surge Prevention (OSP), and the Optical Supervisory Channel (OSC) are topics of this Recommendation.In future Recommendations on "optical media-based transport network architectures", there will be standardized "optical path layer with optical add and drop multiplexers and optical cross-connects" and "optical circuit layer with optical switches" which are not in the scope of this Recommendation.
 status:
   stage:
     content: Withdrawal

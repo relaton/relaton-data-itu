@@ -1,16 +1,16 @@
----
 id: ITUTY3659042025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Big data driven networking – Requirements, architecture and mechanism of
-    application awareness
+  content: Big data driven networking – Requirements, architecture and mechanism of application awareness
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3659-202504-I
+  content: https://handle.itu.int/11.1002/1000/16319
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3659-202504-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3659 (04/2025)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Y.3659 specifies the functional requirements of application
-    awareness, functional architecture of application awareness, and the mechanism
-    of application awareness of big-data-driven networking (bDDN). The bDDN supports
-    a variety of applications which have different service requirements. In order
-    to provide more refined services to these different applications, the application
-    awareness capability of bDDN perceives the requirements, status, and context information
-    of the applications, and analyses these large amounts of data through the big
-    data plane to achieve more accurate resource scheduling and allocation.
+  content: Recommendation ITU-T Y.3659 specifies the functional requirements of application awareness, functional architecture of application awareness, and the mechanism of application awareness of big-data-driven networking (bDDN). The bDDN supports a variety of applications which have different service requirements. In order to provide more refined services to these different applications, the application awareness capability of bDDN perceives the requirements, status, and context information of the applications, and analyses these large amounts of data through the big data plane to achieve more accurate resource scheduling and allocation.
 status:
   stage:
     content: Published
@@ -88,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3650-series – Use case and application scenario for big-data
-        driven networking
+      content: ITU-T Y.3650-series – Use case and application scenario for big-data driven networking
     docidentifier:
     - content: Y Suppl. 50 (11/2018)
       type: ITU
@@ -129,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -160,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -171,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -182,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -193,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTX803071994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Systems Interconnection – Upper layers security
-    model
+  content: Information technology – Open Systems Interconnection – Upper layers security model
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.803-199407-I
+  content: https://handle.itu.int/11.1002/1000/3104
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.803-199407-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.803 (07/1994)
   type: ITU
@@ -54,9 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes the selection, placement
-    and use of security services and mechanisms in the upper layers (applications,
-    presentation and session layers) of the OSI Reference Model.
+  content: This Recommendation | International Standard describes the selection, placement and use of security services and mechanisms in the upper layers (applications, presentation and session layers) of the OSI Reference Model.
 status:
   stage:
     content: Published
@@ -76,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on security baseline for network
-        operators
+      content: ITU-T X.800-X.849 series – Supplement on security baseline for network operators
     docidentifier:
     - content: X Suppl. 2 (09/2007)
       type: ITU
@@ -87,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing
-        system and network security
+      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing system and network security
     docidentifier:
     - content: X Suppl. 3 (04/2008)
       type: ITU
@@ -98,8 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national
-        IP-based public network security centre for developing countries
+      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national IP-based public network security centre for developing countries
     docidentifier:
     - content: X Suppl. 15 (09/2012)
       type: ITU
@@ -109,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on architectural systems for
-        security controls for preventing fraudulent activities in public carrier networks
+      content: ITU-T X.800-X.849 series – Supplement on architectural systems for security controls for preventing fraudulent activities in public carrier networks
     docidentifier:
     - content: X Suppl. 16 (09/2012)
       type: ITU

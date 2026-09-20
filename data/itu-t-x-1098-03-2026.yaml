@@ -1,4 +1,3 @@
----
 id: ITUTX1098032026
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1098-202603-I
+  content: https://handle.itu.int/11.1002/1000/16736
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1098-202603-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1098 (03/2026)
   type: ITU
@@ -50,26 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Telebiometric authentication is a kind of personal verification based
-    on physical or behavioural characteristics of an individual through telecommunications.
-    The verification process involves comparing these characteristics with the biometric
-    reference stored during the registration phase in order to confirm a user's identity.
-    Telebiometric authentication systems have diverse architectures, depending on
-    the location and connection method of the subsystems of the biometric system.
-    Each architecture has specific security considerations, and in particular, when
-    it comes to storing biometric information, the privacy of the data subject may
-    at risk; therefore, appropriate countermeasures are required.\r\nIn this regard,
-    splitting the biometric reference can minimize security risks associated with
-    the biometric authentication process. The main principle is to split the biometric
-    reference into pieces and store them in different locations, preventing any party
-    from having complete information. When the biometric reference is first encrypted
-    and then divided, each split piece does not contain any biometric information.
-    Thus, even in the event of accidental disclosure of any party, the recovery of
-    the complete biometric reference from the disclosed piece is not possible. \r\nRecommendation
-    ITU-T X.1098 provides a framework for telebiometric authentication based on information
-    splitting. It describes information splitting techniques and telebiometric authentication
-    models to ensure the security of biometric references but also presents enhanced
-    authentication mechanisms using split biometric references.\r\n"
+  content: "Telebiometric authentication is a kind of personal verification based on physical or behavioural characteristics of an individual through telecommunications. The verification process involves comparing these characteristics with the biometric reference stored during the registration phase in order to confirm a user's identity. Telebiometric authentication systems have diverse architectures, depending on the location and connection method of the subsystems of the biometric system. Each architecture has specific security considerations, and in particular, when it comes to storing biometric information, the privacy of the data subject may at risk; therefore, appropriate countermeasures are required.\r\nIn this regard, splitting the biometric reference can minimize security risks associated with the biometric authentication process. The main principle is to split the biometric reference into pieces and store them in different locations, preventing any party from having complete information. When the biometric reference is first encrypted and then divided, each split piece does not contain any biometric information. Thus, even in the event of accidental disclosure of any party, the recovery of the complete biometric reference from the disclosed piece is not possible. \r\nRecommendation ITU-T X.1098 provides a framework for telebiometric authentication based on information splitting. It describes information splitting techniques and telebiometric authentication models to ensure the security of biometric references but also presents enhanced authentication mechanisms using split biometric references.\r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTPSuppl31012025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Subjective quality evaluation of audiovisual communication in videotelephony
-    services
+  content: Subjective quality evaluation of audiovisual communication in videotelephony services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.Sup31-202501-I
+  content: https://handle.itu.int/11.1002/1000/16323
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.Sup31-202501-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T P Suppl. 31 (01/2025)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 31 to ITU-T P-series Recommendations describes subjective methods
-    to evaluate the quality experienced by end-users during audio-visual communication
-    using videotelephony services. It includes both non-interactive subjective evaluation
-    methods for one-way communication, and interactive subjective evaluation methods
-    for two-way communication. The focus is on audio quality, video quality, audiovisual
-    quality, interaction delay experience, media synchronization experience, and overall
-    videotelephony quality perceived by end-users.\r\nThe subjective evaluation methods
-    described in this Supplement were applied to construct the subjective test database
-    required for the training and validation of the quality of experience (QoE) /
-    quality of service (QoS) monitor model for videotelephony services recommended
-    in Recommendation ITUT P.940. These subjective evaluation methods can also be
-    used for purposes including, but not limited to, subjective quality evaluation
-    of videotelephony services, comparison of quality on different devices or in different
-    environments, and comparison of quality between different videotelephony services.\r\n"
+  content: "Supplement 31 to ITU-T P-series Recommendations describes subjective methods to evaluate the quality experienced by end-users during audio-visual communication using videotelephony services. It includes both non-interactive subjective evaluation methods for one-way communication, and interactive subjective evaluation methods for two-way communication. The focus is on audio quality, video quality, audiovisual quality, interaction delay experience, media synchronization experience, and overall videotelephony quality perceived by end-users.\r\nThe subjective evaluation methods described in this Supplement were applied to construct the subjective test database required for the training and validation of the quality of experience (QoE) / quality of service (QoS) monitor model for videotelephony services recommended in Recommendation ITUT P.940. These subjective evaluation methods can also be used for purposes including, but not limited to, subjective quality evaluation of videotelephony services, comparison of quality on different devices or in different environments, and comparison of quality between different videotelephony services.\r\n"
 status:
   stage:
     content: Published

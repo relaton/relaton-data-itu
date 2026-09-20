@@ -1,16 +1,16 @@
----
 id: ITUTT30092005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for document facsimile transmission in the general switched
-    telephone network
+  content: Procedures for document facsimile transmission in the general switched telephone network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.30-200509-I
+  content: https://handle.itu.int/11.1002/1000/8558
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.30-200509-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.30 (09/2005)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the procedures used by Group 3 facsimile terminals
-    as defined in ITU-T Rec. T.4. These procedures enable documents to be transmitted
-    on the general switched telephone network, international leased circuits and the
-    Integrated Services Digital Network (ISDN). Further, these procedures allow communication
-    to be manual or automatic and for document transmission to be requested alternatively
-    with telephone conversation.With this revision, the colour spaces defined in ITU-T
-    Rec. T.30 will be aligned with those in ITU-T Rec. T.44. Additionally, the scope
-    and applicability of T.30 and T.44-based facsimile applications are expanded.
-    The following methods are defined for introducing T.44 YCC colour space to T.30.1)
-    New negotiation bit 119 "T.44 colour space" is added with new Note 83.2) Note
-    39 (for bit 74 custom illuminant) and Note 40 (for bit 75 custom gamut range)
-    are modified to reflect the addition of bit 119.
+  content: This Recommendation defines the procedures used by Group 3 facsimile terminals as defined in ITU-T Rec. T.4. These procedures enable documents to be transmitted on the general switched telephone network, international leased circuits and the Integrated Services Digital Network (ISDN). Further, these procedures allow communication to be manual or automatic and for document transmission to be requested alternatively with telephone conversation.With this revision, the colour spaces defined in ITU-T Rec. T.30 will be aligned with those in ITU-T Rec. T.44. Additionally, the scope and applicability of T.30 and T.44-based facsimile applications are expanded. The following methods are defined for introducing T.44 YCC colour space to T.30.1) New negotiation bit 119 "T.44 colour space" is added with new Note 83.2) Note 39 (for bit 74 custom illuminant) and Note 40 (for bit 75 custom gamut range) are modified to reflect the addition of bit 119.
 status:
   stage:
     content: Published
@@ -92,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for document facsimile transmission in the general switched
-        telephone network
+      content: Procedures for document facsimile transmission in the general switched telephone network
     docidentifier:
     - content: T.30 (07/2003)
       type: ITU
@@ -139,8 +127,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Support for increased resolutions, 3G, T.38, flow control, use of ANSam
-        with phase reversals
+      content: Support for increased resolutions, 3G, T.38, flow control, use of ANSam with phase reversals
     docidentifier:
     - content: T.30 (1999) Amd. 2 (11/2000)
       type: ITU
@@ -150,9 +137,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Cellular network connection indication, support for increased resolutions
-        and mixed raster, T.45 RLCE, T.88, V.21 duplex operation (Annex K) and extended
-        negotiations protocol (Annex L)
+      content: Cellular network connection indication, support for increased resolutions and mixed raster, T.45 RLCE, T.88, V.21 duplex operation (Annex K) and extended negotiations protocol (Annex L)
     docidentifier:
     - content: T.30 (1999) Amd. 1 (02/2000)
       type: ITU
@@ -162,8 +147,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for document facsimile transmission in the general switched
-        telephone network
+      content: Procedures for document facsimile transmission in the general switched telephone network
     docidentifier:
     - content: T.30 (04/1999)
       type: ITU
@@ -197,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for document facsimile transmission in the general switched
-        telephone network
+      content: Procedures for document facsimile transmission in the general switched telephone network
     docidentifier:
     - content: T.30 (07/1996)
       type: ITU
@@ -224,8 +207,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for document facsimile transmission in the general switched
-        telephone network
+      content: Procedures for document facsimile transmission in the general switched telephone network
     docidentifier:
     - content: T.30 (03/1993)
       type: ITU
@@ -235,8 +217,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for document facsimile transmission in the general switched
-        telephone network
+      content: Procedures for document facsimile transmission in the general switched telephone network
     docidentifier:
     - content: T.30 (09/1992)
       type: ITU
@@ -254,8 +235,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for document facsimile transmission in the general switched
-        telephone network
+      content: Procedures for document facsimile transmission in the general switched telephone network
     docidentifier:
     - content: T.30 (11/1988)
       type: ITU
@@ -265,8 +245,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Incorporation of the optional error correction mode and the optional
-        error limiting mode
+      content: Incorporation of the optional error correction mode and the optional error limiting mode
     docidentifier:
     - content: T.30 (1984) Amd. 1 (07/1987)
       type: ITU
@@ -276,8 +255,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for document facsimile transmission in the general switched
-        telephone network
+      content: Procedures for document facsimile transmission in the general switched telephone network
     docidentifier:
     - content: T.30 (10/1984)
       type: ITU
@@ -295,8 +273,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for document facsimile transmission in the general switched
-        telephone network
+      content: Procedures for document facsimile transmission in the general switched telephone network
     docidentifier:
     - content: T.30 (11/1980)
       type: ITU
@@ -306,8 +283,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for document facsimile transmission in the general switched
-        telephone network
+      content: Procedures for document facsimile transmission in the general switched telephone network
     docidentifier:
     - content: T.30 (10/1976)
       type: ITU

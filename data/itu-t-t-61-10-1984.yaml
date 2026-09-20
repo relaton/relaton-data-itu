@@ -1,13 +1,14 @@
----
 id: ITUTT61101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Character repertoire and coded character sets for the international Teletex
-    service
+  content: Character repertoire and coded character sets for the international Teletex service
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6842
 docidentifier:
 - content: ITU-T T.61 (10/1984)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Character repertoire and coded character sets for the international
-        teletex service
+      content: Character repertoire and coded character sets for the international teletex service
     docidentifier:
     - content: T.61 (03/1993)
       type: ITU
@@ -73,8 +73,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Character repertoire and coded character sets for the international
-        teletex service
+      content: Character repertoire and coded character sets for the international teletex service
     docidentifier:
     - content: T.61 (11/1988)
       type: ITU
@@ -84,8 +83,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Character repertoire and coded character sets for the international
-        teletex service
+      content: Character repertoire and coded character sets for the international teletex service
     docidentifier:
     - content: S.61 (11/1980)
       type: ITU

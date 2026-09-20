@@ -1,16 +1,16 @@
----
 id: ITUTY1001112000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: IP framework – A framework for convergence of telecommunications network
-    and IP network technologies
+  content: IP framework – A framework for convergence of telecommunications network and IP network technologies
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1001-200011-I
+  content: https://handle.itu.int/11.1002/1000/5228
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1001-200011-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1001 (11/2000)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In order to support the development of IP-related standards, this Recommendation
-    identifies a framework to position the telecommunications aspects with respect
-    to IP networks. This framework serves to identify and assist understanding the
-    IP network issues, from the telecommunications point of view, with respect to
-    the provision of seamless services to the user between IP networks and telecommunications
-    networks in a convergence context.This Recommendation outlines a number of general
-    architectures involving a mix of Telecommunication Network and Internet Protocol
-    (IP) Network technologies. In this Recommendation, IP, the Internet Protocol,
-    is considered in its role as a protocol purely associated with transporting connectionless
-    packets.
+  content: In order to support the development of IP-related standards, this Recommendation identifies a framework to position the telecommunications aspects with respect to IP networks. This framework serves to identify and assist understanding the IP network issues, from the telecommunications point of view, with respect to the provision of seamless services to the user between IP networks and telecommunications networks in a convergence context.This Recommendation outlines a number of general architectures involving a mix of Telecommunication Network and Internet Protocol (IP) Network technologies. In this Recommendation, IP, the Internet Protocol, is considered in its role as a protocol purely associated with transporting connectionless packets.
 status:
   stage:
     content: Published
@@ -100,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -111,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

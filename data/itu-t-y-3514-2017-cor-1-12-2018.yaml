@@ -1,10 +1,11 @@
----
 id: ITUTY35142017Cor1122018
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3514-201812-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/13813
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3514-201812-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3514 (2017) Cor. 1 (12/2018)
   type: ITU
@@ -45,11 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3514 specifies a framework of trusted inter-cloud
-    computing and relevant use cases. It provides general requirements for trusted
-    inter-cloud and specific ones related to governance, management, resiliency, security
-    and confidentiality of trusted inter-cloud. \r\n\r\nCorrigendum 1 replaces the
-    definition of dependability.\r\n"
+  content: "Recommendation ITU-T Y.3514 specifies a framework of trusted inter-cloud computing and relevant use cases. It provides general requirements for trusted inter-cloud and specific ones related to governance, management, resiliency, security and confidentiality of trusted inter-cloud. \r\n\r\nCorrigendum 1 replaces the definition of dependability.\r\n"
 status:
   stage:
     content: Published
@@ -79,8 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3500-series – Requirements and challenges regarding provision
-        and consumption of cloud computing services in developing countries
+      content: ITU-T Y.3500-series – Requirements and challenges regarding provision and consumption of cloud computing services in developing countries
     docidentifier:
     - content: Y Suppl. 46 (11/2017)
       type: ITU
@@ -120,8 +116,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -151,8 +146,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -162,8 +156,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -173,8 +166,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -184,8 +176,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTT872062012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Digital compression and coding of continuous-tone
-    still images: Application to printing systems'
+  content: 'Information technology – Digital compression and coding of continuous-tone still images: Application to printing systems'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.872-201206-I
+  content: https://handle.itu.int/11.1002/1000/11680
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.872-201206-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.872 (06/2012)
   type: ITU
@@ -54,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T T.872 | ISO/IEC 10918-6 specifies a subset of features
-    and application tools for printing applications that encode or decode images based
-    on the JPEG encoding of ITU-T T.81 | ISO/IEC 10918-1. Its creation was proposed
-    by members of the digital printing industry to ensure that applications developed
-    for printing systems can exchange JPEG images.
+  content: Recommendation ITU-T T.872 | ISO/IEC 10918-6 specifies a subset of features and application tools for printing applications that encode or decode images based on the JPEG encoding of ITU-T T.81 | ISO/IEC 10918-1. Its creation was proposed by members of the digital printing industry to ensure that applications developed for printing systems can exchange JPEG images.
 status:
   stage:
     content: Published

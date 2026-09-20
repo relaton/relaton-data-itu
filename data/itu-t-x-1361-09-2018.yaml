@@ -1,4 +1,3 @@
----
 id: ITUTX1361092018
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1361-201809-I
+  content: https://handle.itu.int/11.1002/1000/13607
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1361-201809-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1361 (09/2018)
   type: ITU
@@ -50,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Internet of Things (IoT) is a global infrastructure for the information
-    society, enabling advanced services by interconnecting (physical and virtual)
-    things based on existing and evolving interoperable information and communication
-    technologies. \r\n\r\nRecommendation ITU-T X.1361 describes a security framework
-    for the Internet of things (IoT) using security gateways. This Recommendation
-    analyses security threats and challenges in an IoT environment, and describes
-    capabilities that could address and mitigate these threats and challenges. A framework
-    methodology is provided for determining which security capabilities are required
-    for mitigating and addressing these threats and challenges for the IoT.\r\n"
+  content: "The Internet of Things (IoT) is a global infrastructure for the information society, enabling advanced services by interconnecting (physical and virtual) things based on existing and evolving interoperable information and communication technologies. \r\n\r\nRecommendation ITU-T X.1361 describes a security framework for the Internet of things (IoT) using security gateways. This Recommendation analyses security threats and challenges in an IoT environment, and describes capabilities that could address and mitigate these threats and challenges. A framework methodology is provided for determining which security capabilities are required for mitigating and addressing these threats and challenges for the IoT.\r\n"
 status:
   stage:
     content: Published

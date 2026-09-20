@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl55102019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'ITU-T Y.3170-series – Machine learning in future networks including IMT-2020:
-    use cases'
+  content: 'ITU-T Y.3170-series – Machine learning in future networks including IMT-2020: use cases'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup55-201910-I
+  content: https://handle.itu.int/11.1002/1000/14100
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup55-201910-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 55 (10/2019)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement describes use cases of machine learning in future networks
-    including IMT‑2020. For each use case description, along with the benefits of
-    the use case, the most relevant possible requirements related to the use case
-    are provided. Classification of the use cases into categories is also provided.
+  content: This Supplement describes use cases of machine learning in future networks including IMT‑2020. For each use case description, along with the benefits of the use case, the most relevant possible requirements related to the use case are provided. Classification of the use cases into categories is also provided.
 status:
   stage:
     content: Published

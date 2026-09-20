@@ -1,17 +1,16 @@
----
 id: ITUTHSuppl9052008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP
-    in support of emergency telecommunications service (ETS)/international emergency
-    preference scheme (IEPS)'
+  content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.Sup9-200805-I
+  content: https://handle.itu.int/11.1002/1000/9462
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.Sup9-200805-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H Suppl. 9 (05/2008)
   type: ITU
@@ -52,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 9 to ITU-T H-series Recommendations defines the operation of
-    ITU-T H.248.1, version 3, with ITU-T H.225, session initiation protocol (SIP)
-    and integrated services digital network user part (ISUP) in support of emergency
-    telecommunications service (ETS)/international emergency preference scheme (IEPS)
-    priority information.
+  content: Supplement 9 to ITU-T H-series Recommendations defines the operation of ITU-T H.248.1, version 3, with ITU-T H.225, session initiation protocol (SIP) and integrated services digital network user part (ISUP) in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS) priority information.
 status:
   stage:
     content: Published

@@ -1,10 +1,11 @@
----
 id: ITUTO81AppI1998Err1052000
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-O.81-200006-I!App1-Err1
+  content: https://handle.itu.int/11.1002/1000/6153
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-O.81-200006-I!App1-Err1!PDF-E&type=items
 docidentifier:
 - content: ITU-T O.81 App.I (1998) Err. 1 (05/2000)
   type: ITU
@@ -64,8 +65,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: A measuring signal (multitone test signal) for fast measurement of
-        amplitude and phase for telephone type circuits
+      content: A measuring signal (multitone test signal) for fast measurement of amplitude and phase for telephone type circuits
     docidentifier:
     - content: O.81 App.I (06/1998)
       type: ITU

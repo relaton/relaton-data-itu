@@ -1,16 +1,16 @@
----
 id: ITUTT851092005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T T.81 (JPEG-1)-based still-image coding using an alternative arithmetic
-    coder
+  content: ITU-T T.81 (JPEG-1)-based still-image coding using an alternative arithmetic coder
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.851-200509-I
+  content: https://handle.itu.int/11.1002/1000/8602
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.851-200509-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.851 (09/2005)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a format for digital compression and coding
-    of still images supporting the use of an alternative arithmetic coder called the
-    "Q15-coder" and an alternative baseline compared to ITU-T Rec. T.81 | ISO/IEC
-    10918-1 (JPEG-1). Support of the Huffman entropy coding method specified in ITU-T
-    Rec. T.81 (JPEG-1) is not required in this Recommendation.The Q15-coder resolves
-    the carry in the decoder instead of in the encoder, and so has a low latency compared
-    to the QM-coder arithmetic coder incorporated in T.81, which has a potential latency
-    of the rest of the entire entropy-coded segment.This Recommendation also specifies
-    a DCT with input precision of 16 bits, which is greater than the precision of
-    the T.81 (JPEG-1) DCT.
+  content: This Recommendation defines a format for digital compression and coding of still images supporting the use of an alternative arithmetic coder called the "Q15-coder" and an alternative baseline compared to ITU-T Rec. T.81 | ISO/IEC 10918-1 (JPEG-1). Support of the Huffman entropy coding method specified in ITU-T Rec. T.81 (JPEG-1) is not required in this Recommendation.The Q15-coder resolves the carry in the decoder instead of in the encoder, and so has a low latency compared to the QM-coder arithmetic coder incorporated in T.81, which has a potential latency of the rest of the entire entropy-coded segment.This Recommendation also specifies a DCT with input precision of 16 bits, which is greater than the precision of the T.81 (JPEG-1) DCT.
 status:
   stage:
     content: Published

@@ -1,4 +1,3 @@
----
 id: ITUTYSuppl20062012
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup20-201206-I
+  content: https://handle.itu.int/11.1002/1000/11708
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup20-201206-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 20 (06/2012)
   type: ITU
@@ -50,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 20 to ITU-T Y-series Recommendations provides mobile IPTV use
-    cases as informative illustrations of how mobile IPTV services can be designed,
-    deployed and operated. The use cases are described with sample scenarios and operational
-    procedures of mobile IPTV services. In addition, the use cases detail functional
-    procedures to illustrate how the service scenarios can be supported with IPTV
-    architectural functions. Finally, the use cases have been categorized in terms
-    of service aspects and capability aspects.
+  content: Supplement 20 to ITU-T Y-series Recommendations provides mobile IPTV use cases as informative illustrations of how mobile IPTV services can be designed, deployed and operated. The use cases are described with sample scenarios and operational procedures of mobile IPTV services. In addition, the use cases detail functional procedures to illustrate how the service scenarios can be supported with IPTV architectural functions. Finally, the use cases have been categorized in terms of service aspects and capability aspects.
 status:
   stage:
     content: Published

@@ -1,13 +1,14 @@
----
 id: ITUTU63101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General requirements to be met in interfacing the international telex network
-    with the maritime “direct printing” system
+  content: General requirements to be met in interfacing the international telex network with the maritime “direct printing” system
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6811
 docidentifier:
 - content: ITU-T U.63 (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: General requirements to be met in interfacing the international telex
-        network with the maritime "direct printing" system
+      content: General requirements to be met in interfacing the international telex network with the maritime "direct printing" system
     docidentifier:
     - content: U.63 (11/1988)
       type: ITU

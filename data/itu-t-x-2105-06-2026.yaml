@@ -1,4 +1,3 @@
----
 id: ITUTX2105062026
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.2105-202606-I
+  content: https://handle.itu.int/11.1002/1000/16704
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.2105-202606-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.2105 (06/2026)
   type: ITU
@@ -50,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In recent years, there has been a significant increase in the number of
-    cyberattacks resulting from vulnerabilities within the software supply chain.
-    These attacks can result in devastating, expensive and long-term ramifications
-    for affected organizations, their supply chains and their customers. To address
-    these threats, there is a need to identify security threats in the software supply
-    chain life cycle. There is also a need to identify all related stakeholders. These
-    threats can be used to develop the controls in the software supply chain life
-    cycle. \r\nRecommendation ITU-T X.2105 provides high-level security threats targeting
-    and controls for software supply chain, low-level security threats to the software
-    supply chain, including open-source software (OSS) and closed-source software.
-    It also provides fundamental principles and supply chain attack examples, identifies
-    stakeholders involved in the development, build and distribution of software,
-    and specifies the taxonomy of security threats in the software life cycle processes.\r\nIt
-    also assigns an index to security threats according to category, so that each
-    threat can be referenced by other parts of this Recommendation and other Recommendations.\r\n"
+  content: "In recent years, there has been a significant increase in the number of cyberattacks resulting from vulnerabilities within the software supply chain. These attacks can result in devastating, expensive and long-term ramifications for affected organizations, their supply chains and their customers. To address these threats, there is a need to identify security threats in the software supply chain life cycle. There is also a need to identify all related stakeholders. These threats can be used to develop the controls in the software supply chain life cycle. \r\nRecommendation ITU-T X.2105 provides high-level security threats targeting and controls for software supply chain, low-level security threats to the software supply chain, including open-source software (OSS) and closed-source software. It also provides fundamental principles and supply chain attack examples, identifies stakeholders involved in the development, build and distribution of software, and specifies the taxonomy of security threats in the software life cycle processes.\r\nIt also assigns an index to security threats according to category, so that each threat can be referenced by other parts of this Recommendation and other Recommendations.\r\n"
 status:
   stage:
     content: Published

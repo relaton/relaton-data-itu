@@ -1,10 +1,11 @@
----
 id: ITUTK212019Amd1062020
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.21-202006-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/14290
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.21-202006-S!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.21 (2019) Amd. 1 (06/2020)
   type: ITU
@@ -45,24 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.21 specifies resistibility requirements and test
-    procedures for telecommunication equipment that is attached to or installed within
-    a customer's premises.\r\nOvervoltages or overcurrents covered by this Recommendation
-    include surges due to lightning on or near the line plant, short-term induction
-    from adjacent alternating current (a.c.) power lines or railway systems, earth
-    potential rise due to power faults, direct contact between telecommunication lines
-    and power lines, and electrostatic discharges (ESDs). The sources for overvoltages
-    in internal lines are mainly inductive coupling caused by lightning currents being
-    conducted in nearby lightning strikes or lightning currents being conducted by
-    nearby conductors.\r\nChanges compared with Recommendation ITU-T K.21 (2018) include:\r\n•
-    added special resistibility requirements\r\n• added DC insulation resistance test;\r\n•
-    added Test 7.10\r\n• changes to some test labels.\r\nAmendment 1 refers to Annex
-    A, which applies to special environments, in particular primary protection that
-    has a poor earth connection that does not meet the requirements of Recommendation
-    ITU-T K.66. This condition is simulated by increasing the STP earth resistance
-    (R1) from zero to 100. Readers have overlooked this change, possibly because the
-    test circuit diagram is in Recommendation ITU-T K.44. To alert readers of this,
-    a text note has been inserted in the Comments column."
+  content: "Recommendation ITU-T K.21 specifies resistibility requirements and test procedures for telecommunication equipment that is attached to or installed within a customer's premises.\r\nOvervoltages or overcurrents covered by this Recommendation include surges due to lightning on or near the line plant, short-term induction from adjacent alternating current (a.c.) power lines or railway systems, earth potential rise due to power faults, direct contact between telecommunication lines and power lines, and electrostatic discharges (ESDs). The sources for overvoltages in internal lines are mainly inductive coupling caused by lightning currents being conducted in nearby lightning strikes or lightning currents being conducted by nearby conductors.\r\nChanges compared with Recommendation ITU-T K.21 (2018) include:\r\n• added special resistibility requirements\r\n• added DC insulation resistance test;\r\n• added Test 7.10\r\n• changes to some test labels.\r\nAmendment 1 refers to Annex A, which applies to special environments, in particular primary protection that has a poor earth connection that does not meet the requirements of Recommendation ITU-T K.66. This condition is simulated by increasing the STP earth resistance (R1) from zero to 100. Readers have overlooked this change, possibly because the test circuit diagram is in Recommendation ITU-T K.44. To alert readers of this, a text note has been inserted in the Comments column."
 status:
   stage:
     content: Withdrawal
@@ -82,8 +66,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (07/2026)
       type: ITU
@@ -93,8 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (08/2022)
       type: ITU
@@ -104,8 +86,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (07/2019)
       type: ITU
@@ -115,8 +96,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (10/2018)
       type: ITU
@@ -126,8 +106,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (07/2017)
       type: ITU
@@ -137,8 +116,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (12/2016)
       type: ITU
@@ -148,8 +126,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (06/2016)
       type: ITU
@@ -159,8 +136,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (04/2015)
       type: ITU
@@ -170,8 +146,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (11/2011)
       type: ITU
@@ -189,8 +164,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (04/2008)
       type: ITU
@@ -208,8 +182,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in customer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (07/2003)
       type: ITU
@@ -229,8 +202,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Resistibility of telecommunication equipment installed in costumer
-        premises to overvoltages and overcurrents
+      content: Resistibility of telecommunication equipment installed in costumer premises to overvoltages and overcurrents
     docidentifier:
     - content: K.21 (10/2000)
       type: ITU
@@ -260,8 +232,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -281,8 +252,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -292,8 +262,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -303,8 +272,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -314,8 +282,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -325,8 +292,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge testing
-        factors
+      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge testing factors
     docidentifier:
     - content: K Suppl. 15 (09/2018)
       type: ITU
@@ -356,8 +322,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.21 – Rationale for setting resistibility requirements of telecommunication
-        equipment installed in customer premises against lightning
+      content: ITU-T K.21 – Rationale for setting resistibility requirements of telecommunication equipment installed in customer premises against lightning
     docidentifier:
     - content: K Suppl. 21 (05/2021)
       type: ITU
@@ -367,8 +332,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

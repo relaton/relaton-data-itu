@@ -1,16 +1,16 @@
----
 id: ITUTE800seriesSuppl10012016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T E.800 series – QoS/QoE framework for the transition from network
-    oriented to service oriented operations
+  content: ITU-T E.800 series – QoS/QoE framework for the transition from network oriented to service oriented operations
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.800SerSup10-201601-I
+  content: https://handle.itu.int/11.1002/1000/12762
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.800SerSup10-201601-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E-800 series Suppl. 10 (01/2016)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This supplement intends to provide the basis of the Service Quality Management
-    (SQM) & Customer Experience Management (CEM)   and key parameters related to SQM
-    & CEM for supporting operations within the Service Operations Centre (SOC). The
-    introduction of the two paradigms, for instance SQM and CEM managed via SOC is
-    an essential component in order to:\r\n\r\no   Monitor and maintain an acceptable
-    level of quality for end-to-end services delivered to an individual or a group
-    of customers. \r\n\r\no   Measure not only Quality of Service parameters but also
-    the level of consumer satisfaction regarding services delivered by Communication
-    Network/Service Provider).  \r\n\r\nThis supplement can be used by Communication
-    Network/Service Providers in order to provide a better Quality of Experience and
-    Quality of Service to their customers. \r\n"
+  content: "This supplement intends to provide the basis of the Service Quality Management (SQM) & Customer Experience Management (CEM)   and key parameters related to SQM & CEM for supporting operations within the Service Operations Centre (SOC). The introduction of the two paradigms, for instance SQM and CEM managed via SOC is an essential component in order to:\r\n\r\no   Monitor and maintain an acceptable level of quality for end-to-end services delivered to an individual or a group of customers. \r\n\r\no   Measure not only Quality of Service parameters but also the level of consumer satisfaction regarding services delivered by Communication Network/Service Provider).  \r\n\r\nThis supplement can be used by Communication Network/Service Providers in order to provide a better Quality of Experience and Quality of Service to their customers. \r\n"
 status:
   stage:
     content: Published

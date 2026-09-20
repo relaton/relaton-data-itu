@@ -1,16 +1,16 @@
----
 id: ITUTXSuppl15092012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national
-    IP-based public network security centre for developing countries
+  content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national IP-based public network security centre for developing countries
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup15-201209-I
+  content: https://handle.itu.int/11.1002/1000/11756
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup15-201209-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 15 (09/2012)
   type: ITU
@@ -51,34 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 15 to ITU-T X-series Recommendations provides guidance for
-    the creation of a secure, stable and resilient national Internet protocol-based
-    network infrastructure. The need for technical coordination (in creating secured,
-    stable and resilient networks) arises in cases of failure (severe impairment of
-    the quality of service) of any significant segment of the network which is part
-    of the public network. The national ICT infrastructure includes fixed and mobile
-    networks as well as the national segment of the Internet.\r\nSecurity incidents
-    may occur due to security problems: attacks like denial of service/distributed
-    denial of service (DoS/DDoS); attacks aimed at network infrastructure; natural
-    and anthropogenic disasters and other problems related to deterioration stability
-    (quality of services and features) and security. Under such circumstances, technical
-    coordination means gathering, analysis and managing information about incidents
-    (including control information). This feature allows identifying threats and preparing
-    the work of reconstruction.\r\nThis Supplement describes the architectural principles
-    which ensure security, stability and recovery of the national ICT infrastructure
-    in developing countries based on the IP-based protocol. Consistent application
-    of the principle of \"cooperation for safety and security\" leads to the modern
-    formation of the federated trust framework (FTF) or the so-called federated space
-    of trust (FST). This new formation is usually distributed and then hosting services
-    are available to all participants of the collective security system at the national
-    level. Any national telecom operators have the opportunity to join to FTF. The
-    members of FTF have access to all security services which were deployed in the
-    FTF by other operators and the administration of a national centre for network
-    security (NCNS).\r\nFTF is organized as a stack of control planes: security control
-    plane, information exchange plane and service exchange plane.\r\nThis Supplement
-    opens a new dimension in security standardization – collaboration in security
-    (alongside such works as security management, exchange of security incident and
-    event information, application security, identification management, etc.).\r\n"
+  content: "Supplement 15 to ITU-T X-series Recommendations provides guidance for the creation of a secure, stable and resilient national Internet protocol-based network infrastructure. The need for technical coordination (in creating secured, stable and resilient networks) arises in cases of failure (severe impairment of the quality of service) of any significant segment of the network which is part of the public network. The national ICT infrastructure includes fixed and mobile networks as well as the national segment of the Internet.\r\nSecurity incidents may occur due to security problems: attacks like denial of service/distributed denial of service (DoS/DDoS); attacks aimed at network infrastructure; natural and anthropogenic disasters and other problems related to deterioration stability (quality of services and features) and security. Under such circumstances, technical coordination means gathering, analysis and managing information about incidents (including control information). This feature allows identifying threats and preparing the work of reconstruction.\r\nThis Supplement describes the architectural principles which ensure security, stability and recovery of the national ICT infrastructure in developing countries based on the IP-based protocol. Consistent application of the principle of \"cooperation for safety and security\" leads to the modern formation of the federated trust framework (FTF) or the so-called federated space of trust (FST). This new formation is usually distributed and then hosting services are available to all participants of the collective security system at the national level. Any national telecom operators have the opportunity to join to FTF. The members of FTF have access to all security services which were deployed in the FTF by other operators and the administration of a national centre for network security (NCNS).\r\nFTF is organized as a stack of control planes: security control plane, information exchange plane and service exchange plane.\r\nThis Supplement opens a new dimension in security standardization – collaboration in security (alongside such works as security management, exchange of security incident and event information, application security, identification management, etc.).\r\n"
 status:
   stage:
     content: Published

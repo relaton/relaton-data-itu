@@ -1,16 +1,16 @@
----
 id: ITUTY3822092024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Quantum key distribution networks – Requirements for autonomic quality
-    of service assurance
+  content: Quantum key distribution networks – Requirements for autonomic quality of service assurance
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3822-202409-I
+  content: https://handle.itu.int/11.1002/1000/16117
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3822-202409-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3822 (09/2024)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The quantum key distribution network (QKDN) is expected to be able to
-    provide optimized support for a variety of quantum key distribution (QKD) services.
-    One of the challenges of the QKDN is to assure the network performance and different
-    quality of service (QoS)/quality of experience (QoE) requirements of different
-    application scenarios in an autonomic way. The autonomic capability for QoS in
-    QKDNs will support the seamless intelligent decision-making closed loop of monitoring,
-    learning, decision, and action sub-processes. \r\nTo enable the autonomic QoS
-    assurance in QKDNs, Recommendation ITU-T Y.3822 specifies an overview, a conceptual
-    model, high-level requirements and functional requirements of autonomic QoS assurance
-    for QKDNs.\r\n"
+  content: "The quantum key distribution network (QKDN) is expected to be able to provide optimized support for a variety of quantum key distribution (QKD) services. One of the challenges of the QKDN is to assure the network performance and different quality of service (QoS)/quality of experience (QoE) requirements of different application scenarios in an autonomic way. The autonomic capability for QoS in QKDNs will support the seamless intelligent decision-making closed loop of monitoring, learning, decision, and action sub-processes. \r\nTo enable the autonomic QoS assurance in QKDNs, Recommendation ITU-T Y.3822 specifies an overview, a conceptual model, high-level requirements and functional requirements of autonomic QoS assurance for QKDNs.\r\n"
 status:
   stage:
     content: Published
@@ -100,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -111,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications
-        of machine learning
+      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications of machine learning
     docidentifier:
     - content: Y Suppl. 70 (07/2021)
       type: ITU
@@ -142,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution
-        networks
+      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 74 (03/2023)
       type: ITU
@@ -153,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -164,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end
-        cryptographic services with non-quantum cryptography
+      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end cryptographic services with non-quantum cryptography
     docidentifier:
     - content: Y Suppl. 79 (11/2023)
       type: ITU
@@ -185,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -196,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -217,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -258,8 +241,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum
-        key distribution networks
+      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 100 (02/2026)
       type: ITU

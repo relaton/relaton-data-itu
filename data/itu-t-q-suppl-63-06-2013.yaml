@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl63062013
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signalling protocol mappings in support of the Emergency Telecommunications
-    Service in IP networks
+  content: Signalling protocol mappings in support of the Emergency Telecommunications Service in IP networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup63-201306-I
+  content: https://handle.itu.int/11.1002/1000/11979
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup63-201306-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 63 (06/2013)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplement provides guidance for mapping-required signalling protocol
-    attributes to support the proper set-up and admission of ETS for various protocols.
-    The set of protocols include ISDN user part (ISUP), session initiation protocol
-    (SIP), ITU-T H.248, ITU-T H.225 and Diameter.
+  content: This supplement provides guidance for mapping-required signalling protocol attributes to support the proper set-up and admission of ETS for various protocols. The set of protocols include ISDN user part (ISUP), session initiation protocol (SIP), ITU-T H.248, ITU-T H.225 and Diameter.
 status:
   stage:
     content: Published

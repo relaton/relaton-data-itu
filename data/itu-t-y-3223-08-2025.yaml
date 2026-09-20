@@ -1,16 +1,16 @@
----
 id: ITUTY3223082025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Fixed, mobile and satellite convergence – Multi-access edge computing for
-    IMT-2020 networks and beyond
+  content: Fixed, mobile and satellite convergence – Multi-access edge computing for IMT-2020 networks and beyond
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3223-202508-I
+  content: https://handle.itu.int/11.1002/1000/16445
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3223-202508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3223 (08/2025)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Fixed, mobile and satellite convergence (FMSC) refers to the capability
-    of providing services and applications to end users, regardless of the access
-    technology being used (fixed, mobile or satellite). Multi-access edge computing
-    (MEC) is deployed at the edge of the FMSC network as a computing resource. It
-    brings core network capabilities, such as computing, storage, acceleration, content,
-    security and other services to the edge of the FMSC network, which helps reduce
-    service transmission delays and effectively alleviates the business data demand
-    for network bandwidth in the FMSC network. \r\nRecommendation ITU-T Y.3223 specifies
-    the requirements, scenarios, framework, network function enhancements, procedures
-    and security considerations for MEC in FMSC within IMT-2020 networks and beyond.\r\n"
+  content: "Fixed, mobile and satellite convergence (FMSC) refers to the capability of providing services and applications to end users, regardless of the access technology being used (fixed, mobile or satellite). Multi-access edge computing (MEC) is deployed at the edge of the FMSC network as a computing resource. It brings core network capabilities, such as computing, storage, acceleration, content, security and other services to the edge of the FMSC network, which helps reduce service transmission delays and effectively alleviates the business data demand for network bandwidth in the FMSC network. \r\nRecommendation ITU-T Y.3223 specifies the requirements, scenarios, framework, network function enhancements, procedures and security considerations for MEC in FMSC within IMT-2020 networks and beyond.\r\n"
 status:
   stage:
     content: Published
@@ -100,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -131,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -142,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3200 series – Use cases of satellite communications in developing
-        countries
+      content: ITU-T Y.3200 series – Use cases of satellite communications in developing countries
     docidentifier:
     - content: Y Suppl. 81 (03/2024)
       type: ITU
@@ -153,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -164,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -175,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -206,8 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3200 series – Supplement on fixed, mobile and satellite convergence
-        – Standardization roadmap
+      content: ITU-T Y.3200 series – Supplement on fixed, mobile and satellite convergence – Standardization roadmap
     docidentifier:
     - content: Y Suppl. 108 (07/2026)
       type: ITU

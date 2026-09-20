@@ -1,10 +1,11 @@
----
 id: ITUTG8742020Amd2012024
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.874-202401-S!Amd2
+  content: https://handle.itu.int/11.1002/1000/15831
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.874-202401-S!Amd2!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.874 (2020) Amd. 2 (01/2024)
   type: ITU
@@ -45,33 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.874 addresses management aspects of optical transport
-    network (OTN) elements containing transport functions of one or more of the layer
-    networks of the OTN. The management of optical layer networks is separable from
-    that of its client layer networks so that the same means of management can be
-    used regardless of the client. The management functions for fault management,
-    configuration management (CM) and performance monitoring are specified.\r\nRecommendation
-    ITU-T G.874 (2008) updated the management information (MI) to align with Recommendation
-    ITU-T G.798, reorganized the sections to align with the structure of Recommendation
-    ITUT G.7710/Y.1701, and replaced the generic text with pointers to Recommendation
-    ITU-T G.7710/Y.1701.\r\nRecommendation ITU-T G.874 (2010) added the management
-    of new transport functions that were introduced in ITU-T G.798 (2010), including
-    OPSMnk_TT, OPSM/OTUk a_A, and ODUk for k=0, 2e, 4, and flex.\r\nRecommendation
-    ITU-T G.874 (2013) added the management of hitless adjustment of ODUflex(GFP)
-    (HAO), automatic protection switching (APS), application codes and performance
-    management (PM) data collection.\r\nRecommendation ITU-T G.874 (2017) added a
-    description to cover OTUCn GCC0, added the application code related MI signals,
-    updated the MI signals for ODU2eP/FC-1200_A, OSM256.4/CBRx_A, OSx/CBRx-b_A_Sk
-    and OSx/CBRx-c_A_Sk, removed the nDelay, nES, and fES primitives, moved the description
-    of O.MN, O.MSN, and O.NE to the convention clause, updated the default values
-    of DEGThr and DEGM, updated Appendix III to align with Table 15-9 of ITUT G.709/Y.1331
-    (2016), and removed the adaptation function activation and MI_Active to align
-    with ITU-T G.798.\r\nRecommendation ITU-T G.874 (2020) aligns with the latest
-    editions of ITU-T G.709 and ITUT G.798, and harmonizes generic requirements with
-    clauses 8 and 10 of ITU-T G.7710/Y.1701.\r\nRecommendation ITU-T G.874 Amendment
-    1 (2022) aligns with the latest editions of ITU-T G.709 and ITUT G.798, including
-    their amendments.\r\nRecommendation ITU-T G.874 Amendment 2 (2023) aligns with
-    the latest editions of ITU-T G.709 and ITUT G.798 Edition 7, including their amendments.\r\n"
+  content: "Recommendation ITU-T G.874 addresses management aspects of optical transport network (OTN) elements containing transport functions of one or more of the layer networks of the OTN. The management of optical layer networks is separable from that of its client layer networks so that the same means of management can be used regardless of the client. The management functions for fault management, configuration management (CM) and performance monitoring are specified.\r\nRecommendation ITU-T G.874 (2008) updated the management information (MI) to align with Recommendation ITU-T G.798, reorganized the sections to align with the structure of Recommendation ITUT G.7710/Y.1701, and replaced the generic text with pointers to Recommendation ITU-T G.7710/Y.1701.\r\nRecommendation ITU-T G.874 (2010) added the management of new transport functions that were introduced in ITU-T G.798 (2010), including OPSMnk_TT, OPSM/OTUk a_A, and ODUk for k=0, 2e, 4, and flex.\r\nRecommendation ITU-T G.874 (2013) added the management of hitless adjustment of ODUflex(GFP) (HAO), automatic protection switching (APS), application codes and performance management (PM) data collection.\r\nRecommendation ITU-T G.874 (2017) added a description to cover OTUCn GCC0, added the application code related MI signals, updated the MI signals for ODU2eP/FC-1200_A, OSM256.4/CBRx_A, OSx/CBRx-b_A_Sk and OSx/CBRx-c_A_Sk, removed the nDelay, nES, and fES primitives, moved the description of O.MN, O.MSN, and O.NE to the convention clause, updated the default values of DEGThr and DEGM, updated Appendix III to align with Table 15-9 of ITUT G.709/Y.1331 (2016), and removed the adaptation function activation and MI_Active to align with ITU-T G.798.\r\nRecommendation ITU-T G.874 (2020) aligns with the latest editions of ITU-T G.709 and ITUT G.798, and harmonizes generic requirements with clauses 8 and 10 of ITU-T G.7710/Y.1701.\r\nRecommendation ITU-T G.874 Amendment 1 (2022) aligns with the latest editions of ITU-T G.709 and ITUT G.798, including their amendments.\r\nRecommendation ITU-T G.874 Amendment 2 (2023) aligns with the latest editions of ITU-T G.709 and ITUT G.798 Edition 7, including their amendments.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -209,8 +184,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Certain methods of avoiding the transmission of excessive noise between
-        interconnected systems
+      content: Certain methods of avoiding the transmission of excessive noise between interconnected systems
     docidentifier:
     - content: G Suppl. 4 (12/1972)
       type: ITU
@@ -230,8 +204,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Loss-frequency response of channel-translating equipment used in some
-        countries for international circuits
+      content: Loss-frequency response of channel-translating equipment used in some countries for international circuits
     docidentifier:
     - content: G Suppl. 7 (12/1972)
       type: ITU
@@ -241,8 +214,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Method proposed by the Belgian telephone administration for interconnection
-        between coaxial and symmetric pair systems
+      content: Method proposed by the Belgian telephone administration for interconnection between coaxial and symmetric pair systems
     docidentifier:
     - content: G Suppl. 8 (12/1972)
       type: ITU
@@ -262,8 +234,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital crosstalk measurement (method used by the Administrations of
-        France, the Netherlands and Spain)
+      content: Digital crosstalk measurement (method used by the Administrations of France, the Netherlands and Spain)
     docidentifier:
     - content: G Suppl. 19 (10/1984)
       type: ITU
@@ -283,8 +254,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Estimating the signal load margin of FDM wideband amplifier equipment
-        and transmission systems
+      content: Estimating the signal load margin of FDM wideband amplifier equipment and transmission systems
     docidentifier:
     - content: G Suppl. 26 (10/1984)
       type: ITU
@@ -304,9 +274,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems
-        and data-over-voice (DOV) systems during the transition from an analogue to
-        a digital network
+      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems and data-over-voice (DOV) systems during the transition from an analogue to a digital network
     docidentifier:
     - content: G Suppl. 28 (10/1984)
       type: ITU
@@ -386,8 +354,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guide on the use of the ITU-T Recommendations related to optical fibres
-        and systems technology
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres and systems technology
     docidentifier:
     - content: G Suppl. 42 (10/2018)
       type: ITU
@@ -427,8 +394,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G-PON interoperability test plan between optical line terminations
-        and optical network units
+      content: G-PON interoperability test plan between optical line terminations and optical network units
     docidentifier:
     - content: G Suppl. 46 (05/2009)
       type: ITU
@@ -448,9 +414,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: '10-Gigabit-capable passive optical networks: Interface between media
-        access control with serializer/deserializer and physical medium dependent
-        sublayers'
+      content: '10-Gigabit-capable passive optical networks: Interface between media access control with serializer/deserializer and physical medium dependent sublayers'
     docidentifier:
     - content: G Suppl. 48 (06/2010)
       type: ITU
@@ -640,8 +604,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on sub 1 Gbit/s services transport over optical transport
-        network
+      content: Supplement on sub 1 Gbit/s services transport over optical transport network
     docidentifier:
     - content: G Suppl. 70 (09/2020)
       type: ITU
@@ -651,8 +614,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optical line termination capabilities for supporting cooperative dynamic
-        bandwidth assignment
+      content: Optical line termination capabilities for supporting cooperative dynamic bandwidth assignment
     docidentifier:
     - content: G Suppl. 71 (12/2023)
       type: ITU
@@ -672,8 +634,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Influencing factors on quality of experience for multiview video (MVV)
-        services
+      content: Influencing factors on quality of experience for multiview video (MVV) services
     docidentifier:
     - content: G Suppl. 73 (10/2021)
       type: ITU
@@ -713,9 +674,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors
-        on quality of experience (QoE) for video customized alerting tone (CAT) and
-        video customized ringing signal (CRS) services
+      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors on quality of experience (QoE) for video customized alerting tone (CAT) and video customized ringing signal (CRS) services
     docidentifier:
     - content: G Suppl. 77 (06/2022)
       type: ITU
@@ -745,8 +704,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use case and requirements of fibre-based in-premises networking for
-        home application (FIP4H)
+      content: Use case and requirements of fibre-based in-premises networking for home application (FIP4H)
     docidentifier:
     - content: G Suppl. 80 (07/2024)
       type: ITU
@@ -776,8 +734,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on the use of options in the precision time protocol profile
-        with full timing support from the network
+      content: Supplement on the use of options in the precision time protocol profile with full timing support from the network
     docidentifier:
     - content: G Suppl. 83 (10/2025)
       type: ITU
@@ -827,8 +784,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Point to multipoint passive optical access system requirements and
-        transmission technologies above 50 Gbit/s per wavelength
+      content: Point to multipoint passive optical access system requirements and transmission technologies above 50 Gbit/s per wavelength
     docidentifier:
     - content: G Suppl. 88 (10/2025)
       type: ITU
@@ -858,8 +814,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases and requirements of fibre-in-premises for small and medium
-        enterprise applications
+      content: Use cases and requirements of fibre-in-premises for small and medium enterprise applications
     docidentifier:
     - content: G Suppl. 91 (10/2025)
       type: ITU

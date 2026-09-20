@@ -1,16 +1,16 @@
----
 id: ITUTM3080022021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Framework of artificial intelligence enhanced telecom operation and management
-    (AITOM)
+  content: Framework of artificial intelligence enhanced telecom operation and management (AITOM)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3080-202102-S
+  content: https://handle.itu.int/11.1002/1000/14590
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3080-202102-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3080 (02/2021)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3080 provides a framework of artificial intelligence
-    enhanced telecom operation and management (AITOM). It describes the functional
-    framework of AITOM to support telecom operation management for efficiency improvement,
-    quality assurance, cost management, and security assurance. It also describes
-    artificial intelligence (AI) pipelines that combine some components to enable
-    AI based applications. \r\n\r\nThis Recommendation also describes the relationship
-    of the functional framework of AITOM with smart operations, management and maintenance
-    (SOMM) presented in Recommendation ITU-T M.3041. General requirements of security
-    are also described. \r\n"
+  content: "Recommendation ITU-T M.3080 provides a framework of artificial intelligence enhanced telecom operation and management (AITOM). It describes the functional framework of AITOM to support telecom operation management for efficiency improvement, quality assurance, cost management, and security assurance. It also describes artificial intelligence (AI) pipelines that combine some components to enable AI based applications. \r\n\r\nThis Recommendation also describes the relationship of the functional framework of AITOM with smart operations, management and maintenance (SOMM) presented in Recommendation ITU-T M.3041. General requirements of security are also described. \r\n"
 status:
   stage:
     content: Withdrawal
@@ -79,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Framework of artificial intelligence enhanced telecommunication operation
-        and management (AITOM)
+      content: Framework of artificial intelligence enhanced telecommunication operation and management (AITOM)
     docidentifier:
     - content: M.3080 (03/2026)
       type: ITU
@@ -90,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Additions and corrections based on telecommunication network large
-        model
+      content: Additions and corrections based on telecommunication network large model
     docidentifier:
     - content: M.3080 (2021) Amd. 1 (10/2025)
       type: ITU

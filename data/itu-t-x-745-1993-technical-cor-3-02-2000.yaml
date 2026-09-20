@@ -1,10 +1,11 @@
----
 id: ITUTX7451993TechnicalCor3022000
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.745-200002-I!Cor3
+  content: https://handle.itu.int/11.1002/1000/4897
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.745-200002-I!Cor3!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.745 (1993) Technical Cor. 3 (02/2000)
   type: ITU
@@ -48,11 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard (1993) specifies a model and
-    managed objects for the invocation of tests on remote resources. Tests may be
-    controlled and subject to monitoring, suspension and resumption during application
-    or uncontrolled and where results are returned until complete.This Technical Corrigendum
-    3 revises the text to include ASN.1:1997 in 2.1 and 2.2.
+  content: This Recommendation | International Standard (1993) specifies a model and managed objects for the invocation of tests on remote resources. Tests may be controlled and subject to monitoring, suspension and resumption during application or uncontrolled and where results are returned until complete.This Technical Corrigendum 3 revises the text to include ASN.1:1997 in 2.1 and 2.2.
 status:
   stage:
     content: Published
@@ -88,8 +85,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Systems Management:
-        Test management function'
+      content: 'Information technology – Open Systems Interconnection – Systems Management: Test management function'
     docidentifier:
     - content: X.745 (11/1993)
       type: ITU

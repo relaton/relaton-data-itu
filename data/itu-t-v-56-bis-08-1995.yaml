@@ -1,16 +1,16 @@
----
 id: ITUTV56bis081995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Network transmission model for evaluating modem performance over 2-wire
-    voice grade connections
+  content: Network transmission model for evaluating modem performance over 2-wire voice grade connections
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.56bis-199508-I
+  content: https://handle.itu.int/11.1002/1000/2775
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.56bis-199508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.56 bis (08/1995)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a network model to be used in the evaluation
-    and comparison of 2-wire voiceband modems. The model is intended to be representative
-    of the transmission impairment conditions that will be encountered on both intracontinental
-    and intercontinental connections.
+  content: This Recommendation provides a network model to be used in the evaluation and comparison of 2-wire voiceband modems. The model is intended to be representative of the transmission impairment conditions that will be encountered on both intracontinental and intercontinental connections.
 status:
   stage:
     content: Published

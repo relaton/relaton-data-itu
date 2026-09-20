@@ -1,16 +1,16 @@
----
 id: ITUTT85081995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Application profile for Recommendation T.82 – Progressive bi-level image
-    compression (JBIG coding scheme) for facsimile apparatus
+  content: Application profile for Recommendation T.82 – Progressive bi-level image compression (JBIG coding scheme) for facsimile apparatus
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.85-199508-I
+  content: https://handle.itu.int/11.1002/1000/2636
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.85-199508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.85 (08/1995)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies an application profile to apply the JBIG
-    coding scheme, defined by Recommendation T.82, for facsimile apparatus. The main
-    specifications in this Recommendation are:1) Application profile of "single-progressive
-    sequential coding" is defined. Other profiles (progressive coding) are for further
-    study.2) Data format consists of header information and coded information. The
-    parameter ranges in the header are specified.
+  content: This Recommendation specifies an application profile to apply the JBIG coding scheme, defined by Recommendation T.82, for facsimile apparatus. The main specifications in this Recommendation are:1) Application profile of "single-progressive sequential coding" is defined. Other profiles (progressive coding) are for further study.2) Data format consists of header information and coded information. The parameter ranges in the header are specified.
 status:
   stage:
     content: Published

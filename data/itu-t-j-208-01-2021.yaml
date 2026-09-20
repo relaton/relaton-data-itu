@@ -1,16 +1,16 @@
----
 id: ITUTJ208012021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Harmonization of integrated broadcast-broadband ditial television application
-    control framework
+  content: Harmonization of integrated broadcast-broadband ditial television application control framework
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.208-202101-I
+  content: https://handle.itu.int/11.1002/1000/14584
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.208-202101-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.208 (01/2021)
   type: ITU
@@ -51,24 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.208 specifies methods for harmonization of integrated
-    broadcast-broadband \r\n(IBB) systems or their application environment by identifying
-    commonalities across IBB systems and \r\nmaximizing portability of IBB applications.
-    \r\n\r\nRecommendations ITU-T J.207 and ITU-R BT.2075 provide guidance to IBB
-    service providers on the \r\n\r\nselection of IBB systems for their use. In general,
-    IBB systems comprise various hardware and \r\n\r\nsoftware components, and tailoring
-    them for a specific IBB system leads to extensive development by \r\n\r\nmanufacturers.
-    On the other hand, in order to deploy the services in a wider area, IBB service
-    providers \r\n\r\nneed to develop their IBB applications for each IBB system if
-    operators or broadcasters on which \r\n\r\nservice providers intend to deploy
-    their services use a different IBB system to that on which the \r\n\r\nservices
-    are originally deployed.  \r\n\r\nThus, it is beneficial for both IBB service
-    providers and manufacturers of IBB capable reception \r\n\r\ndevices such as set-top
-    boxes to harmonize IBB systems. Note that the use of companion devices is \r\n\r\nalready
-    a part of IBB services. \r\n\r\nIn addition, information about the IBB application
-    environment for the implementation of IBB \r\n\r\napplication software for other
-    IBB systems is useful in the deployment of the same service on different \r\n\r\nIBB
-    systems. \r\n"
+  content: "Recommendation ITU-T J.208 specifies methods for harmonization of integrated broadcast-broadband \r\n(IBB) systems or their application environment by identifying commonalities across IBB systems and \r\nmaximizing portability of IBB applications. \r\n\r\nRecommendations ITU-T J.207 and ITU-R BT.2075 provide guidance to IBB service providers on the \r\n\r\nselection of IBB systems for their use. In general, IBB systems comprise various hardware and \r\n\r\nsoftware components, and tailoring them for a specific IBB system leads to extensive development by \r\n\r\nmanufacturers. On the other hand, in order to deploy the services in a wider area, IBB service providers \r\n\r\nneed to develop their IBB applications for each IBB system if operators or broadcasters on which \r\n\r\nservice providers intend to deploy their services use a different IBB system to that on which the \r\n\r\nservices are originally deployed.  \r\n\r\nThus, it is beneficial for both IBB service providers and manufacturers of IBB capable reception \r\n\r\ndevices such as set-top boxes to harmonize IBB systems. Note that the use of companion devices is \r\n\r\nalready a part of IBB services. \r\n\r\nIn addition, information about the IBB application environment for the implementation of IBB \r\n\r\napplication software for other IBB systems is useful in the deployment of the same service on different \r\n\r\nIBB systems. \r\n"
 status:
   stage:
     content: Published
@@ -88,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -99,10 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -112,9 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -134,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -145,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -156,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -167,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -178,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -189,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -200,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

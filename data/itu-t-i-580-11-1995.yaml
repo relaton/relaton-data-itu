@@ -1,16 +1,16 @@
----
 id: ITUTI580111995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General arrangements for interworking between B-ISDN and 64 kbit/s based
-    ISDN
+  content: General arrangements for interworking between B-ISDN and 64 kbit/s based ISDN
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.580-199511-I
+  content: https://handle.itu.int/11.1002/1000/3249
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.580-199511-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.580 (11/1995)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: During the evolution to B-ISDN implementations, arrangements must be determined
-    for interworking B-ISDN services and networks with existing services and networks.
-    This Recommendation identifies the arrangements and principles for interworking
-    between B-ISDN and 64 kbit/s based ISDN. Interworking with other than 64 kbit/s
-    based ISDN is beyond the scope of this Recommendation.
+  content: During the evolution to B-ISDN implementations, arrangements must be determined for interworking B-ISDN services and networks with existing services and networks. This Recommendation identifies the arrangements and principles for interworking between B-ISDN and 64 kbit/s based ISDN. Interworking with other than 64 kbit/s based ISDN is beyond the scope of this Recommendation.
 status:
   stage:
     content: Published
@@ -75,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: General arrangements for interworking between B-ISDN and 64 kbit/s
-        based ISDN
+      content: General arrangements for interworking between B-ISDN and 64 kbit/s based ISDN
     docidentifier:
     - content: I.580 (03/1993)
       type: ITU
@@ -86,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

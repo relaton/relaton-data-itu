@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl20052020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T K.91 – Supplement on radiofrequency exposure evaluation around underground
-    base stations
+  content: ITU-T K.91 – Supplement on radiofrequency exposure evaluation around underground base stations
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup20-202005-S
+  content: https://handle.itu.int/11.1002/1000/14317
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup20-202005-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 20 (05/2020)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Measurement and computation methods of human exposure to electromagnetic
-    fields (EMFs) from fixed radio sources like mobile base stations have been standardized
-    and published as ITU-T K-series Recommendations and IEC 62232. These also include
-    methods prescribed in Japanese regulation and have been basically assumed to be
-    applied to radio sources installed above the ground.\r\nUnderground base stations
-    for use in small cells of fourth generation (4G) mobile networks are installed
-    underground to construct service areas above the ground.\r\nSupplement 20 to ITU-T
-    K-series Recommendations contains the measurement results of radio frequency exposure
-    from underground base stations, to evaluate the exposure from these base stations."
+  content: "Measurement and computation methods of human exposure to electromagnetic fields (EMFs) from fixed radio sources like mobile base stations have been standardized and published as ITU-T K-series Recommendations and IEC 62232. These also include methods prescribed in Japanese regulation and have been basically assumed to be applied to radio sources installed above the ground.\r\nUnderground base stations for use in small cells of fourth generation (4G) mobile networks are installed underground to construct service areas above the ground.\r\nSupplement 20 to ITU-T K-series Recommendations contains the measurement results of radio frequency exposure from underground base stations, to evaluate the exposure from these base stations."
 status:
   stage:
     content: Withdrawal
@@ -79,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.91 – Supplement on radiofrequency exposure evaluation around
-        underground base stations
+      content: ITU-T K.91 – Supplement on radiofrequency exposure evaluation around underground base stations
     docidentifier:
     - content: K Suppl. 20 (12/2021)
       type: ITU

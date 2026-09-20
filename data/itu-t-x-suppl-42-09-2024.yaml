@@ -1,16 +1,16 @@
----
 id: ITUTXSuppl42092024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Supplement to ITU-T X.1254: Implementation of secure authentication technologies
-    for digital financial services'
+  content: 'Supplement to ITU-T X.1254: Implementation of secure authentication technologies for digital financial services'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup42-202409-I
+  content: https://handle.itu.int/11.1002/1000/16181
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup42-202409-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 42 (09/2024)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 42 to ITU-T X-series Recommendations highlights the need for
-    enhanced authentication systems within the digital financial services (DFS) ecosystem.
-    Traditional methods of authentication, such as password and web browser, are deemed
-    insufficient, prompting a need for standardized, interoperable and robust solutions
-    to mitigate risk. The Supplement outlines technologies and standards to improve
-    DFS authentication. It also emphasizes the transition towards 'advanced' systems
-    that focus on user behaviour and environmental analysis, with multiple points
-    of authentication. It further explores two key use cases: enrolment and entity
-    authentication, detailing the process and security measures involved.\r\n"
+  content: "Supplement 42 to ITU-T X-series Recommendations highlights the need for enhanced authentication systems within the digital financial services (DFS) ecosystem. Traditional methods of authentication, such as password and web browser, are deemed insufficient, prompting a need for standardized, interoperable and robust solutions to mitigate risk. The Supplement outlines technologies and standards to improve DFS authentication. It also emphasizes the transition towards 'advanced' systems that focus on user behaviour and environmental analysis, with multiple points of authentication. It further explores two key use cases: enrolment and entity authentication, detailing the process and security measures involved.\r\n"
 status:
   stage:
     content: Published

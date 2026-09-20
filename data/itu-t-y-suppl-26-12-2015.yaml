@@ -1,17 +1,16 @@
----
 id: ITUTYSuppl26122015
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2600-series – Scenario and requirements of reconfigurable networking
-    based on minimum network functions and network polymorphism in future packet based
-    networks
+  content: ITU-T Y.2600-series – Scenario and requirements of reconfigurable networking based on minimum network functions and network polymorphism in future packet based networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup26-201512-I
+  content: https://handle.itu.int/11.1002/1000/12697
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup26-201512-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 26 (12/2015)
   type: ITU
@@ -52,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 26 to ITU-T Y.2600-series Recommendations is to study on the
-    scenario of reconfigurable networking,  to focus on the mechanisms about minimum
-    network functions & network polymorphism, and to define the basic requirements
-    of reconfigurable networking based on minimum network functions & network polymorphism
-    in FPBN (ITU-T Y.2601).
+  content: Supplement 26 to ITU-T Y.2600-series Recommendations is to study on the scenario of reconfigurable networking,  to focus on the mechanisms about minimum network functions & network polymorphism, and to define the basic requirements of reconfigurable networking based on minimum network functions & network polymorphism in FPBN (ITU-T Y.2601).
 status:
   stage:
     content: Published

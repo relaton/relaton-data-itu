@@ -1,4 +1,3 @@
----
 id: ITUTT835082016
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,7 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.835-201608-I
+  content: https://handle.itu.int/11.1002/1000/12960
 docidentifier:
 - content: ITU-T T.835 (08/2016)
   type: ITU
@@ -53,30 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.835 has been developed jointly with ISO/IEC JTC
-    1 SC 29/WG 1 in a collaborative team that is referred to as the Joint Photographic
-    Experts Group (JPEG). It will be published as a technically-aligned twin text
-    by both organizations (ITU-T and ISO/IEC).\r\n\r\nThis Recommendation | International
-    Standard provides a reference software for Rec. ITU‑T T.832 | ISO/IEC 29199-2
-    (Information technology – JPEG XR image coding system – Image coding specification)
-    as an electronic attachment. The reference software is an integral part of this
-    Recommendation | International Standard.\r\n\r\nReference software is useful in
-    aiding users of an image coding standard to establish and test conformance and
-    interoperability, and to educate users and demonstrate the capabilities of the
-    associated standard. For these purposes, the accompanying software is provided
-    as an aid for the study and implementation of Rec. ITU-T T.832 | ISO/IEC 29199-2
-    technology. The reference software includes both encoder and decoder functionality.
-    The reference decoder software is capable of decoding codestreams (or files) that
-    conform to Rec. ITU‑T T.832 | ISO/IEC 29199-2 in a manner that conforms to the
-    decoding process specified in Rec. ITU‑T T.832 | ISO/IEC 29199-2. The sample encoder
-    software is capable of producing codestreams (or files) that conform to Rec. ITU-T
-    T.832 | ISO/IEC 29199-2.\r\n\r\nThe third edition (08/2016) modifies the software
-    to improve support for handling an order swapping of the red and blue channels
-    in codestreams for the 555/565/101010 pixel formats. It also adds support for
-    the box-based format of JPEG XR which is specified in Rec. ITU-T T.801 | ISO/IEC
-    15444-2 (JPEG 2000 Part 2). Some additional bug fixes are also included in the
-    updated software.\r\n\r\nThis Recommendation | International Standard includes
-    a normative electronic attachment containing a reference ANSI C source code.\r\n"
+  content: "Recommendation ITU-T T.835 has been developed jointly with ISO/IEC JTC 1 SC 29/WG 1 in a collaborative team that is referred to as the Joint Photographic Experts Group (JPEG). It will be published as a technically-aligned twin text by both organizations (ITU-T and ISO/IEC).\r\n\r\nThis Recommendation | International Standard provides a reference software for Rec. ITU‑T T.832 | ISO/IEC 29199-2 (Information technology – JPEG XR image coding system – Image coding specification) as an electronic attachment. The reference software is an integral part of this Recommendation | International Standard.\r\n\r\nReference software is useful in aiding users of an image coding standard to establish and test conformance and interoperability, and to educate users and demonstrate the capabilities of the associated standard. For these purposes, the accompanying software is provided as an aid for the study and implementation of Rec. ITU-T T.832 | ISO/IEC 29199-2 technology. The reference software includes both encoder and decoder functionality. The reference decoder software is capable of decoding codestreams (or files) that conform to Rec. ITU‑T T.832 | ISO/IEC 29199-2 in a manner that conforms to the decoding process specified in Rec. ITU‑T T.832 | ISO/IEC 29199-2. The sample encoder software is capable of producing codestreams (or files) that conform to Rec. ITU-T T.832 | ISO/IEC 29199-2.\r\n\r\nThe third edition (08/2016) modifies the software to improve support for handling an order swapping of the red and blue channels in codestreams for the 555/565/101010 pixel formats. It also adds support for the box-based format of JPEG XR which is specified in Rec. ITU-T T.801 | ISO/IEC 15444-2 (JPEG 2000 Part 2). Some additional bug fixes are also included in the updated software.\r\n\r\nThis Recommendation | International Standard includes a normative electronic attachment containing a reference ANSI C source code.\r\n"
 status:
   stage:
     content: Published
@@ -136,8 +112,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T T.83x-series – Supplement on information technology – JPEG XR
-        image coding system – System architecture
+      content: ITU-T T.83x-series – Supplement on information technology – JPEG XR image coding system – System architecture
     docidentifier:
     - content: T Suppl. 2 (03/2011)
       type: ITU

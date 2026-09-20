@@ -1,16 +1,16 @@
----
 id: ITUTY1291052004
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: An architectural framework for support of Quality of Service in packet
-    networks
+  content: An architectural framework for support of Quality of Service in packet networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1291-200405-I
+  content: https://handle.itu.int/11.1002/1000/7247
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1291-200405-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1291 (05/2004)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides an architectural framework for support of
-    Quality of Service (QoS) in packet networks. Central to the architectural framework
-    is a set of generic network mechanisms (or QoS building blocks) for controlling
-    the network service response to a service request, which can be specific to a
-    network element, or for signalling between network elements, or for controlling
-    and administering traffic across a network. Distributed across three logical planes
-    (namely the Control Plane, Data Plane and Management Plane), the building blocks
-    can be used in combination to form various approaches for delivering the satisfactory
-    collective effect of varying service performance required by a range of applications,
-    such as file transfer and multimedia conferencing.
+  content: This Recommendation provides an architectural framework for support of Quality of Service (QoS) in packet networks. Central to the architectural framework is a set of generic network mechanisms (or QoS building blocks) for controlling the network service response to a service request, which can be specific to a network element, or for signalling between network elements, or for controlling and administering traffic across a network. Distributed across three logical planes (namely the Control Plane, Data Plane and Management Plane), the building blocks can be used in combination to form various approaches for delivering the satisfactory collective effect of varying service performance required by a range of applications, such as file transfer and multimedia conferencing.
 status:
   stage:
     content: Published
@@ -100,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -111,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

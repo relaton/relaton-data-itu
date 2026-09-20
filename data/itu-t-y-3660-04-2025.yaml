@@ -1,16 +1,16 @@
----
 id: ITUTY3660042025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Big data driven networking – Functional requirements and functional architecture
-    of operation aspect for public network integrated non-public network service
+  content: Big data driven networking – Functional requirements and functional architecture of operation aspect for public network integrated non-public network service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3660-202504-I
+  content: https://handle.itu.int/11.1002/1000/16310
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3660-202504-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3660 (04/2025)
   type: ITU
@@ -51,19 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3660 specifies the functional requirements and
-    the architecture of the operational aspect of public network integrated non-public
-    (PNI-NPN) services based on big-data-driven networking (bDDN) to better enable
-    bDDN, which is a type of future network framework that collects big data from
-    networks and applications, and generates big data intelligence based on that data,
-    to adapt to PNI-NPN service operations.\r\nNon-public networks (NPNs) are designed
-    for non-public use. Distinguished from public networks that provide network services
-    to the general public, NPNs are dedicated to verticals such as industrial factories
-    and campuses, and provide coverage in specific geographic areas to maintain the
-    customized services. PNI-NPN is deployed with the help of public network by network
-    slices or sharing partial network functions. Usually, PNI-NPN has flexible networking
-    topologies and provide customized services, which bring challenges in the aspect
-    of service operation.\r\n\r\n"
+  content: "Recommendation ITU-T Y.3660 specifies the functional requirements and the architecture of the operational aspect of public network integrated non-public (PNI-NPN) services based on big-data-driven networking (bDDN) to better enable bDDN, which is a type of future network framework that collects big data from networks and applications, and generates big data intelligence based on that data, to adapt to PNI-NPN service operations.\r\nNon-public networks (NPNs) are designed for non-public use. Distinguished from public networks that provide network services to the general public, NPNs are dedicated to verticals such as industrial factories and campuses, and provide coverage in specific geographic areas to maintain the customized services. PNI-NPN is deployed with the help of public network by network slices or sharing partial network functions. Usually, PNI-NPN has flexible networking topologies and provide customized services, which bring challenges in the aspect of service operation.\r\n\r\n"
 status:
   stage:
     content: Published
@@ -123,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -154,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -165,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -176,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -187,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

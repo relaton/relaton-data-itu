@@ -1,13 +1,14 @@
----
 id: ITUTMSuppl217101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Results of an investigation of the service availability performance of
-    international leased circuits made in 1982
+  content: Results of an investigation of the service availability performance of international leased circuits made in 1982
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/5894
 docidentifier:
 - content: ITU-T M Suppl. 2.17 (10/1984)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Results of an investigation of the service availability performance
-        of international leased circuits made in 1982
+      content: Results of an investigation of the service availability performance of international leased circuits made in 1982
     docidentifier:
     - content: M Suppl. 2.17 (11/1988)
       type: ITU

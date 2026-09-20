@@ -1,4 +1,3 @@
----
 id: ITUTI377102000
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.377-200010-I
+  content: https://handle.itu.int/11.1002/1000/5172
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.377-200010-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.377 (10/2000)
   type: ITU
@@ -50,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the network capabilities to support the registration
-    and communication of information required for charging and accounting of ATM connections
-    in order to support the charging and accounting principles as defined in Recommendation
-    D.224. It specifies the events to be registered, for each event the parameters
-    to be registered and the requirements related to the communication of this information
-    to an external system.
+  content: This Recommendation specifies the network capabilities to support the registration and communication of information required for charging and accounting of ATM connections in order to support the charging and accounting principles as defined in Recommendation D.224. It specifies the events to be registered, for each event the parameters to be registered and the requirements related to the communication of this information to an external system.
 status:
   stage:
     content: Published
@@ -75,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

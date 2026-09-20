@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl100022026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum
-    key distribution networks
+  content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum key distribution networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup100-202602-I
+  content: https://handle.itu.int/11.1002/1000/16783
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup100-202602-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 100 (02/2026)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "ITU-T has approved a series of quantum key distribution network (QKDN)-related
-    Recommendations, which focus on maximizing the service provision capability of
-    QKDN. But in certain scenarios, the key provisioning capability of QKDN may still
-    fail to meet the key supply demands of cryptographic applications. In particular,
-    it can be exceedingly challenging for a single QKD node to handle highly concurrent
-    key supply requests while maintaining an acceptable service level.\r\nTo address
-    this challenge, QKDN multi-point coordination (QKDNmc) is introduced in this Supplement
-    100 to ITU-T Y series Recommendations. QKDNmc is an enhancement of the QKDN functionality
-    whereby two or more QKD nodes are coordinated by the QKDN, typically within the
-    same trusted boundary, to collaboratively provide enhanced key provisioning services
-    to one application node, thereby significantly improving key provisioning capabilities.\r\nFocusing
-    on QKDNmc, this Supplement presents an overview and relevant use cases, intended
-    to facilitate a deeper understanding of the technical benefits of QKDNmc and to
-    guide the development of related standardization work.\r\n"
+  content: "ITU-T has approved a series of quantum key distribution network (QKDN)-related Recommendations, which focus on maximizing the service provision capability of QKDN. But in certain scenarios, the key provisioning capability of QKDN may still fail to meet the key supply demands of cryptographic applications. In particular, it can be exceedingly challenging for a single QKD node to handle highly concurrent key supply requests while maintaining an acceptable service level.\r\nTo address this challenge, QKDN multi-point coordination (QKDNmc) is introduced in this Supplement 100 to ITU-T Y series Recommendations. QKDNmc is an enhancement of the QKDN functionality whereby two or more QKD nodes are coordinated by the QKDN, typically within the same trusted boundary, to collaboratively provide enhanced key provisioning services to one application node, thereby significantly improving key provisioning capabilities.\r\nFocusing on QKDNmc, this Supplement presents an overview and relevant use cases, intended to facilitate a deeper understanding of the technical benefits of QKDNmc and to guide the development of related standardization work.\r\n"
 status:
   stage:
     content: Published

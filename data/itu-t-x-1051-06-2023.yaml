@@ -1,16 +1,16 @@
----
 id: ITUTX1051062023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information security, cybersecurity and privacy protection – Information
-    security controls based on ISO/IEC 27002 for telecommunications organizations
+  content: Information security, cybersecurity and privacy protection – Information security controls based on ISO/IEC 27002 for telecommunications organizations
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1051-202306-I
+  content: https://handle.itu.int/11.1002/1000/15559
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1051-202306-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1051 (06/2023)
   type: ITU
@@ -54,22 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation | International Standard:\r\na)establishes guidelines
-    and general principles for initiating, implementing, maintaining and improving
-    information security controls in telecommunications organizations based on ISO/IEC
-    27002;\r\nb)provides an implementation baseline of information security controls
-    within telecommunications organizations to ensure the confidentiality, integrity
-    and availability of telecommunications facilities, services and information handled,
-    processed or stored by the facilities and services.\r\nAs a result of implementing
-    this Recommendation | International Standard, telecommunications organizations,
-    both within and between jurisdictions, will:\r\na)be able to ensure the confidentiality,
-    integrity and availability of global telecommunications facilities, services and
-    the information handled, processed or stored within global facilities and services;\r\nb)have
-    adopted secure collaborative processes and controls ensuring the lowering of risks
-    in the delivery of telecommunications services;\r\nc)be able to deliver information
-    security in an effective and efficient manner;\r\nd)have adopted a consistent
-    holistic approach to information security;\r\ne)be able to improve the security
-    culture of organizations, raise staff awareness and increase public trust.\r\n"
+  content: "This Recommendation | International Standard:\r\na)establishes guidelines and general principles for initiating, implementing, maintaining and improving information security controls in telecommunications organizations based on ISO/IEC 27002;\r\nb)provides an implementation baseline of information security controls within telecommunications organizations to ensure the confidentiality, integrity and availability of telecommunications facilities, services and information handled, processed or stored by the facilities and services.\r\nAs a result of implementing this Recommendation | International Standard, telecommunications organizations, both within and between jurisdictions, will:\r\na)be able to ensure the confidentiality, integrity and availability of global telecommunications facilities, services and the information handled, processed or stored within global facilities and services;\r\nb)have adopted secure collaborative processes and controls ensuring the lowering of risks in the delivery of telecommunications services;\r\nc)be able to deliver information security in an effective and efficient manner;\r\nd)have adopted a consistent holistic approach to information security;\r\ne)be able to improve the security culture of organizations, raise staff awareness and increase public trust.\r\n"
 status:
   stage:
     content: Published
@@ -97,9 +82,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology - Security techniques - Code of practice for
-        Information security controls based on ISO/IEC 27002 for telecommunications
-        organizations
+      content: Information technology - Security techniques - Code of practice for Information security controls based on ISO/IEC 27002 for telecommunications organizations
     docidentifier:
     - content: X.1051 (04/2016)
       type: ITU
@@ -109,9 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Security techniques – Information security
-        management guidelines for telecommunications organizations based on ISO/IEC
-        27002
+      content: Information technology – Security techniques – Information security management guidelines for telecommunications organizations based on ISO/IEC 27002
     docidentifier:
     - content: X.1051 (02/2008)
       type: ITU
@@ -121,8 +102,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information security management system – Requirements for telecommunications
-        (ISMS-T)
+      content: Information security management system – Requirements for telecommunications (ISMS-T)
     docidentifier:
     - content: X.1051 (07/2004)
       type: ITU
@@ -132,8 +112,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1051 – Supplement on information security management users'
-        guide for Recommendation ITU-T X.1051
+      content: ITU-T X.1051 – Supplement on information security management users' guide for Recommendation ITU-T X.1051
     docidentifier:
     - content: X Suppl. 13 (09/2018)
       type: ITU
@@ -143,8 +122,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1051 – Supplement on code of practice for information security
-        controls for telecommunication organizations
+      content: ITU-T X.1051 – Supplement on code of practice for information security controls for telecommunication organizations
     docidentifier:
     - content: X Suppl. 34 (01/2019)
       type: ITU
@@ -154,8 +132,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1051 – Supplement on critical security controls for information
-        and network security management by telecommunication organizations
+      content: ITU-T X.1051 – Supplement on critical security controls for information and network security management by telecommunication organizations
     docidentifier:
     - content: X Suppl. 36 (09/2021)
       type: ITU

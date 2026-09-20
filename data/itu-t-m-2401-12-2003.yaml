@@ -1,17 +1,16 @@
----
 id: ITUTM2401122003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Error performance limits and procedures for bringing-into-service and maintenance
-    of multi-operator international paths and sections within an optical transport
-    network
+  content: Error performance limits and procedures for bringing-into-service and maintenance of multi-operator international paths and sections within an optical transport network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.2401-200312-I
+  content: https://handle.itu.int/11.1002/1000/7050
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.2401-200312-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.2401 (12/2003)
   type: ITU
@@ -52,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation gives error performance objectives, limits and procedures
-    for bringing-into-service (BIS) and maintenance of multi-operator international
-    ODUk Paths and OTUk Sections in an Optical Transport Network (OTN).
+  content: This Recommendation gives error performance objectives, limits and procedures for bringing-into-service (BIS) and maintenance of multi-operator international ODUk Paths and OTUk Sections in an Optical Transport Network (OTN).
 status:
   stage:
     content: Published

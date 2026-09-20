@@ -1,16 +1,16 @@
----
 id: ITUTI2311111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Circuit-mode bearer service categories : Circuit-mode 64 kbit/s unrestricted,
-    8 kHz structured bearer service'
+  content: 'Circuit-mode bearer service categories : Circuit-mode 64 kbit/s unrestricted, 8 kHz structured bearer service'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.231.1-198811-I
+  content: https://handle.itu.int/11.1002/1000/1132
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.231.1-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.231.1 (11/1988)
   type: ITU
@@ -51,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the circuit-mode 64 kbit/s unrestricted,
-    8 kHz structured bearer service
+  content: This Recommendation specifies the circuit-mode 64 kbit/s unrestricted, 8 kHz structured bearer service
 status:
   stage:
     content: Published
@@ -72,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

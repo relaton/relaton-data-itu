@@ -1,16 +1,16 @@
----
 id: ITUTT176021998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Application programming interface (API) for digital storage media command
-    and control (DSM-CC)
+  content: Application programming interface (API) for digital storage media command and control (DSM-CC)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.176-199802-I
+  content: https://handle.itu.int/11.1002/1000/4215
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.176-199802-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.176 (02/1998)
   type: ITU
@@ -51,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the Application Programming Interface (API)
-    of DSM-CC for the use in basic multimedia applications.
+  content: This Recommendation specifies the Application Programming Interface (API) of DSM-CC for the use in basic multimedia applications.
 status:
   stage:
     content: Published

@@ -1,4 +1,3 @@
----
 id: ITUTX1250122025
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1250-202512-I
+  content: https://handle.itu.int/11.1002/1000/16495
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1250-202512-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1250 (12/2025)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1250 outlines key provisions for developing and
-    deploying structured, interoperable identity management systems within telecommunications
-    and information technology (IT) networks, ensuring privacy and compliance with
-    regional policies. It covers topics such as structured identity management models
-    for secure and efficient identity exchanges, the protection and provisioning of
-    identity attributes, and the discovery of identity service providers. It also
-    addresses interoperability between identity platforms, security measures for threat
-    mitigation, auditing for compliance and the importance of usability and scalability.
-    The overall goal is to create robust, transparent, and adaptable identity management
-    systems that enhance trust, security, and user experience in digital interactions
-    while aligning with regulatory standards.\r\n"
+  content: "Recommendation ITU-T X.1250 outlines key provisions for developing and deploying structured, interoperable identity management systems within telecommunications and information technology (IT) networks, ensuring privacy and compliance with regional policies. It covers topics such as structured identity management models for secure and efficient identity exchanges, the protection and provisioning of identity attributes, and the discovery of identity service providers. It also addresses interoperability between identity platforms, security measures for threat mitigation, auditing for compliance and the importance of usability and scalability. The overall goal is to create robust, transparent, and adaptable identity management systems that enhance trust, security, and user experience in digital interactions while aligning with regulatory standards.\r\n"
 status:
   stage:
     content: Published
@@ -90,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1250 series – Supplement on overview of identity management
-        in the context of cybersecurity
+      content: ITU-T X.1250 series – Supplement on overview of identity management in the context of cybersecurity
     docidentifier:
     - content: X Suppl. 7 (02/2009)
       type: ITU

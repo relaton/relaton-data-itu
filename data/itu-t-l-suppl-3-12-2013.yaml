@@ -1,16 +1,16 @@
----
 id: ITUTLSuppl3122013
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T L.1430 – Guidance on practical application of ITU-T L.1430 to a real-time
-    navigation service
+  content: ITU-T L.1430 – Guidance on practical application of ITU-T L.1430 to a real-time navigation service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup3-201312-I
+  content: https://handle.itu.int/11.1002/1000/12141
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup3-201312-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 3 (12/2013)
   type: ITU
@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The real-time navigation service (RNS) is composed of satellite navigation
-    system-based software which provides real-time information of the optimal route
-    to the destination according to traffic conditions throughout the travel as well
-    as the available parking spaces nearby. The transport sector is expected to save
-    on energy consumption by adopting RNS.\r\nBased on the experiences from a Korean
-    study, Supplement 3 to the L-series Recommendations describes how to indirectly
-    estimate energy consumption reduction and greenhouse gas (GHG) abatement potential
-    related to RNS. Future revisions may look into direct estimation methods. This
-    Supplement is bounded to Recommendation ITU-T L.1430, but gives further guidance
-    on boundary setting, GHG accounting and baseline scenario development, and on
-    measurement, verification and monitoring methods from the information and communication
-    technology (ICT) based RNS project perspective.\r\nWhereas Recommendation ITU-T
-    L.1430 focuses on the net environmental impact of ICT services from the entire
-    life cycle perspective, this Supplement describes only the environmental impact
-    of RNS during the use stage compared to one in a baseline scenario."
+  content: "The real-time navigation service (RNS) is composed of satellite navigation system-based software which provides real-time information of the optimal route to the destination according to traffic conditions throughout the travel as well as the available parking spaces nearby. The transport sector is expected to save on energy consumption by adopting RNS.\r\nBased on the experiences from a Korean study, Supplement 3 to the L-series Recommendations describes how to indirectly estimate energy consumption reduction and greenhouse gas (GHG) abatement potential related to RNS. Future revisions may look into direct estimation methods. This Supplement is bounded to Recommendation ITU-T L.1430, but gives further guidance on boundary setting, GHG accounting and baseline scenario development, and on measurement, verification and monitoring methods from the information and communication technology (ICT) based RNS project perspective.\r\nWhereas Recommendation ITU-T L.1430 focuses on the net environmental impact of ICT services from the entire life cycle perspective, this Supplement describes only the environmental impact of RNS during the use stage compared to one in a baseline scenario."
 status:
   stage:
     content: Published

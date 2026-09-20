@@ -1,4 +1,3 @@
----
 id: ITUTX1141062006
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1141-200606-I
+  content: https://handle.itu.int/11.1002/1000/8844
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1141-200606-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1141 (06/2006)
   type: ITU
@@ -50,26 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: SAML is an XML-based framework for exchanging security information. This
-    security information is expressed in the form of assertions about subjects, where
-    a subject is an entity (either human or computer) that has an identity in some
-    security domain. A single assertion might contain several different internal statements
-    about authentication, authorization and attributes. This Recommendation defines
-    a protocol by which clients can request assertions from SAML authorities and get
-    a response from them. This protocol, consisting of XML-based request and response
-    message formats, can be bound to many different underlying communications and
-    transport protocols; SAML currently defines one binding to SOAP over HTTP. In
-    creating their responses, SAML authorities can use various sources of information,
-    such as external policy stores and assertions that were received as input in requests.
-    This Recommendation defines SAML assertions elements, subjects, conditions, processing
-    rules and statements. Additionally, it develops a comprehensive SAML metadata
-    profile that includes associated namespace, common data types, processing rules
-    and signature processing. Several protocol bindings such as SOAP, PAOS (reverse
-    SOAP), HTTP redirect, HTTP POST, among others, are also developed. This Recommendation
-    provides a comprehensive list of SAML profiles such as web browser SSO profile
-    and single logout profile to enable the wide adoption of SAML 2.0 in the industry.
-    Guidelines for authentication context and conformance are also provided.This Recommendation
-    is technically equivalent and compatible with the OASIS SAML 2.0 standard.
+  content: SAML is an XML-based framework for exchanging security information. This security information is expressed in the form of assertions about subjects, where a subject is an entity (either human or computer) that has an identity in some security domain. A single assertion might contain several different internal statements about authentication, authorization and attributes. This Recommendation defines a protocol by which clients can request assertions from SAML authorities and get a response from them. This protocol, consisting of XML-based request and response message formats, can be bound to many different underlying communications and transport protocols; SAML currently defines one binding to SOAP over HTTP. In creating their responses, SAML authorities can use various sources of information, such as external policy stores and assertions that were received as input in requests. This Recommendation defines SAML assertions elements, subjects, conditions, processing rules and statements. Additionally, it develops a comprehensive SAML metadata profile that includes associated namespace, common data types, processing rules and signature processing. Several protocol bindings such as SOAP, PAOS (reverse SOAP), HTTP redirect, HTTP POST, among others, are also developed. This Recommendation provides a comprehensive list of SAML profiles such as web browser SSO profile and single logout profile to enable the wide adoption of SAML 2.0 in the industry. Guidelines for authentication context and conformance are also provided.This Recommendation is technically equivalent and compatible with the OASIS SAML 2.0 standard.
 status:
   stage:
     content: Published

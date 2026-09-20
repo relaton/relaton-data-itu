@@ -1,4 +1,3 @@
----
 id: ITUTLSuppl1022013
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup1-201302-I
+  content: https://handle.itu.int/11.1002/1000/11908
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup1-201302-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 1 (02/2013)
   type: ITU
@@ -50,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Telecommunication technologies play a large and increasing role in modern
-    society; we depend increasingly on constant streams of information in our work
-    and free time for data access and entertainment. Every day, more people access
-    high speed networks via wired and wireless channels, and the amount of energy
-    to deliver all those new services is also growing rapidly. \r\nWithout an increase
-    of energy efficiency, this would lead to a dramatic increase in energy use for
-    all new services and customers. Scaling existing technological solutions is not
-    enough. Not only do we need to implement changes in energy efficiency but we also
-    have to implement them rapidly.\r\nThis Supplement on energy efficiency for telecommunication
-    equipment reviews the concepts for energy efficiency in application to networking
-    devices; it presents a concept of place in a network as a base for classification,
-    describes a process for creating a single metric for energy efficiency which reflects
-    the qualities of equipment scalability with traffic levels and provides testing
-    topologies and traffic pattern descriptions.\r\n"
+  content: "Telecommunication technologies play a large and increasing role in modern society; we depend increasingly on constant streams of information in our work and free time for data access and entertainment. Every day, more people access high speed networks via wired and wireless channels, and the amount of energy to deliver all those new services is also growing rapidly. \r\nWithout an increase of energy efficiency, this would lead to a dramatic increase in energy use for all new services and customers. Scaling existing technological solutions is not enough. Not only do we need to implement changes in energy efficiency but we also have to implement them rapidly.\r\nThis Supplement on energy efficiency for telecommunication equipment reviews the concepts for energy efficiency in application to networking devices; it presents a concept of place in a network as a base for classification, describes a process for creating a single metric for energy efficiency which reflects the qualities of equipment scalability with traffic levels and provides testing topologies and traffic pattern descriptions.\r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl5031999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Number portability – Capability set 2 requirements for service provider
-    portabilty (Query on release and Dropback)
+  content: Number portability – Capability set 2 requirements for service provider portabilty (Query on release and Dropback)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup5-199903-I
+  content: https://handle.itu.int/11.1002/1000/4726
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup5-199903-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 5 (03/1999)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement describes the requirements to support Service Provider
-    Portability in a Signalling System No. 7 network for Number Portability Capability
-    Set 2 (NPCS-2) with the methods "Query on Release" and "Dropback".
+  content: This Supplement describes the requirements to support Service Provider Portability in a Signalling System No. 7 network for Number Portability Capability Set 2 (NPCS-2) with the methods "Query on Release" and "Dropback".
 status:
   stage:
     content: Published

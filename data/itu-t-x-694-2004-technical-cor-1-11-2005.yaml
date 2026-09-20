@@ -1,10 +1,11 @@
----
 id: ITUTX6942004TechnicalCor1112005
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.694-200511-S!Cor1
+  content: https://handle.itu.int/11.1002/1000/8639
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.694-200511-S!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.694 (2004) Technical Cor. 1 (11/2005)
   type: ITU
@@ -48,13 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This technical corrigendum corrects three defects found in the ASN.1 module
-    defined in Annex A. It renames two ASN.1 types in order to avoid their possible
-    confusion with an ASN.1 reserved word. It adds a version arc to the OID of that
-    ASN.1 module to facilitate the handling of other versions of the specification.
-    It also corrects errors in the application of XER encoding instructions in the
-    ASN.1 module specified in ITU-T Rec. X.694 | ISO/IEC 8825-5. This technical corrigendum
-    does not change the "bits-on-the-line".
+  content: This technical corrigendum corrects three defects found in the ASN.1 module defined in Annex A. It renames two ASN.1 types in order to avoid their possible confusion with an ASN.1 reserved word. It adds a version arc to the OID of that ASN.1 module to facilitate the handling of other versions of the specification. It also corrects errors in the application of XER encoding instructions in the ASN.1 module specified in ITU-T Rec. X.694 | ISO/IEC 8825-5. This technical corrigendum does not change the "bits-on-the-line".
 status:
   stage:
     content: Withdrawal
@@ -74,8 +69,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: Mapping W3C XML schema
-        definitions into ASN.1'
+      content: 'Information technology - ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1'
     docidentifier:
     - content: X.694 (02/2021)
       type: ITU
@@ -93,8 +87,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema
-        definitions into ASN.1'
+      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1'
     docidentifier:
     - content: X.694 (08/2015)
       type: ITU
@@ -120,8 +113,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema
-        definitions into ASN.1'
+      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1'
     docidentifier:
     - content: X.694 (11/2008)
       type: ITU
@@ -141,8 +133,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema
-        definitions into ASN.1'
+      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1'
     docidentifier:
     - content: X.694 (01/2004)
       type: ITU

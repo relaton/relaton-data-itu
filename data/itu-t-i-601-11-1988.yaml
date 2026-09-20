@@ -1,16 +1,16 @@
----
 id: ITUTI601111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General maintenance principles of ISDN subscriber access and subscriber
-    installation
+  content: General maintenance principles of ISDN subscriber access and subscriber installation
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.601-198811-I
+  content: https://handle.itu.int/11.1002/1000/1323
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.601-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.601 (11/1988)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

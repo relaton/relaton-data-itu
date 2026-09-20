@@ -1,4 +1,3 @@
----
 id: ITUTG722092012
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,7 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.722-201209-I
+  content: https://handle.itu.int/11.1002/1000/11673
 docidentifier:
 - content: ITU-T G.722 (09/2012)
   type: ITU
@@ -50,143 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.722 describes the characteristics of an audio wideband
-    (WB, 50 to 7 000 Hz) coding system which may be used for a variety of higher quality
-    speech applications. The coding system uses sub-band adaptive differential pulse
-    code modulation (SB-ADPCM) within a bit rate of 64 kbit/s. The system is henceforth
-    referred to as 64 kbit/s (7 kHz) audio-coding. In the SB ADPCM technique used,
-    the frequency band is split into two sub-bands (higher and lower) and the signals
-    in each sub-band are encoded using ADPCM. The system has three basic modes of
-    operation corresponding to the bit rates used for 7 kHz audio-coding: 64, 56 and
-    48 kbit/s. The latter two modes allow an auxiliary data channel of 8 and 16 kbit/s,
-    respectively, to be provided within 64 kbit/s by making use of bits from the lower
-    sub-band. Erratum 1 was incorporated in this new edition, as well as some additional
-    typos identified within the main body of ITU-T G.722.\r\nAnnex A provides three
-    frequency masks that can be used to simplify evaluation of the mass produced equipment
-    using ITU-T G.722 codecs, and make easier checks carried out during installation.
-    The masks therein are specifically not intended to supplant any requirements of
-    this Recommendation, but rather to suggest the needs of acceptance testing for
-    production quantities of equipment using ITU-T G.722 codecs. They concern the
-    measure of the signal-to-total distortion ratio in a loop with SB-ADPCM. Thus,
-    these specifications do not aim at taking the place of the test digital sequences
-    of the ITU-T G.722 algorithm, but rather to ensure, once these sequences have
-    been checked on a first model, that the quality of the equipment using these codecs
-    is maintained.\r\nAnnex B describes a scalable superwideband (SWB, 50 14 000 Hz)
-    speech and audio-coding algorithm operating at 64, 80 and 96 kbit/s. The ITU-T
-    G.722 superwideband extension codec is interoperable with ITU-T G.722. The output
-    of the ITU-T G.722 SWB coder has a bandwidth of 50 14 000 Hz. The coder operates
-    with 5 ms frames, has an algorithmic delay of 12.3125 ms and a worst case complexity
-    of 22.76 WMOPS. By default, the encoder input and decoder output are sampled at
-    32 kHz. The superwideband encoder for improved ITU-T G.722 64 kbit/s core produces
-    an embedded bitstream structured in two layers corresponding to two available
-    bit rates from 80 to 96 kbit/s. The superwideband encoder for improved ITU-T G.722
-    56 kbit/s core produces an embedded bitstream structured in one layer corresponding
-    to one available bit rate of 64 kbit/s. This 64 kbit/s mode is also scalable with
-    the 80 kbit/s and 96 kbit/s modes. The bitstream can be truncated at the decoder
-    side or by any component of the communication system to instantaneously adjust
-    the bit rate to the desired value (96 kbit/s – 80 kbit/s – 64 kbit/s) with no
-    need for out-of-band signalling. The underlying algorithm includes three main
-    parts: higher band enhancements, bandwidth extension (BWE) and transform coding
-    in modified discrete cosine transform (MDCT) domain based on algebraic vector
-    quantization (AVQ). In this revised version, an update was done to the text vectors
-    of Annex B, so they can better assist in checking compliance of implementations.\r\nAnnex
-    C describes an alternative implementation of ITU-T G.722 Annex B based on floating-point
-    arithmetic. While Annex B provides a bit-exact, fixed-point specification with
-    the fixed-point C source code available from the ITU-T, alternative floating implementation
-    is useful for platforms equipped with floating-point processors. This alternative
-    floating-point arithmetic was found to be fully interoperable with Annex B in
-    all configurations including the cross configurations.\r\nAnnex D describes a
-    stereo extension of the wideband codec ITU-T G.722 and its superwideband extension,
-    ITU-T G.722 Annex B. It is optimized for the transmission of stereo signals with
-    limited additional bitrate, while keeping full compatibility with both codecs.
-    Annex D operates from 64 to 128 kbit/s with four superwideband stereo bitrates
-    at 80, 96, 112 and 128 kbit/s and two wideband stereo bitrates at 64 and 80 kbit/s.
-    The wideband stereo modes are backward compatible with legacy ITU-T G.722, while
-    the superwideband modes offer the backward compatibility with both mono wideband
-    ITU-T G.722 and superwideband ITU-T G.722 Annex B. The stereo codec operates on
-    5 ms frames with an algorithmic delay of 13.625 ms for wideband stereo and 15.9375
-    ms for superwideband stereo. The encoder input and decoder output are sampled
-    at 16 kHz and 32 kHz for wideband and superwideband operating modes respectively.
-    The underlying algorithm includes three main parts: stereo parameter analysis
-    and down-mix at the encoder and stereo synthesis at the decoder. The first stereo
-    extension layer is an 8 kbit/s layer comprising the basic stereo parameters, wideband
-    inter-channel time difference/inter-channel phase difference/inter-channel coherence
-    and sub-band inter-channel level differences. The second stereo layer, also an
-    8 kbit/s layer, enhances the stereo image by encoding low frequency sub-band inter-channel
-    phase differences. Finally, the third stereo layer is a 16 kbit/s layer. In this
-    last layer, the inter-channel phase differences of a larger bandwidth are transmitted
-    which allow to further improve the stereo image. The bitstream can be truncated
-    by the decoder, or by any components of the communication system, to instantaneously
-    adjust the bitrate to the desired value, including wideband ITU-T G.722 and superwideband
-    ITU T G.722 Annex B bitrates, with no need for out-of-band signalling.\r\nNetworking
-    aspects and test sequences for the main body algorithm are addressed in Appendices
-    I and II respectively to this Recommendation. In this new edition, Appendix II
-    was updated to reflect a restructuring of the test sequences for ITU-T G.722 main
-    body.\r\nPacket loss concealment (PLC) algorithms, also known as frame erasure
-    concealment algorithms, hide transmission losses in audio systems where the input
-    signal is encoded and packetized, sent over a network, received and decoded before
-    play out. PLC algorithms can be found in most standard recent speech coders. ITU-T
-    G.722 was initially designed without such a feature. Therefore, Appendices III
-    and IV provide two PLC mechanisms for ITU-T G.722. The algorithms in both appendices
-    were verified to have high quality performance with alternative quality/complexity
-    trade offs. At an additional complexity of 2.8 WMOPS worst-case and 2 WMOPS average
-    compared with the ITU-T G.722 decoder without PLC, the ITU-T G.722 PLC algorithm
-    described in Appendix III provides better speech quality whereas the ITU-T G.722
-    PLC specified in ITU T G.722 Appendix IV provides lower complexity adding almost
-    no additional complexity to that of the main body ITU-T G.722 decoding (worst-case
-    additional complexity is 0.07 WMOPS).\r\nThe algorithm in Appendix III performs
-    the packet loss concealment in the 16 kHz output domain of the ITU-T G.722 decoder.
-    Periodic waveform extrapolation is used to fill in the waveform of lost packets,
-    mixing with filtered noise according to signal characteristics prior to the loss.
-    The extrapolated 16 kHz signal is passed through the QMF analysis filter bank,
-    and the sub-band signals are passed to partial sub-band ADPCM encoders to update
-    the states of the sub-band ADPCM decoders. Additional processing takes place for
-    each packet loss in order to provide a smooth transition from the extrapolated
-    waveform to the waveform decoded from the received packets. Among other things,
-    the states of the sub-band ADPCM decoders are phase aligned with the first received
-    packet after a packet loss, and the decoded waveform is time-warped in order to
-    align with the extrapolated waveform before the two are overlap-added to smooth
-    the transition. For protracted packet loss, the algorithm gradually mutes the
-    output. The algorithm operates on an intrinsic 10-ms frame size. It can operate
-    on any packet or frame size that is a multiple of 10 ms. The longer input frame
-    becomes a super frame, for which the packet loss concealment is called an appropriate
-    number of times at its intrinsic frame size of 10 ms. It results in no additional
-    delay when compared with regular ITU-T G.722 decoding using the same frame size.\r\nIn
-    Appendix IV, the decoder comprises three stages: lower sub-band decoding, higher
-    sub-band decoding and quadrature mirror filter (QMF) synthesis. In the absence
-    of frame erasures, the decoder structure is identical to ITU-T G.722, except for
-    the storage of the two decoded signals, of the higher and lower sub-bands. In
-    case of frame erasures, the decoder is informed by the bad frame indication (BFI)
-    signalling. It then performs an analysis of the past lower-band reconstructed
-    signal and extrapolates the missing signal using linear predictive coding (LPC),
-    pitch-synchronous period repetition and adaptive muting. Once a good frame is
-    received, the decoded signal is cross-faded with the extrapolated signal. In the
-    higher sub-band, the decoder repeats the previous frame pitch synchronously, with
-    adaptive muting and high pass post-processing. The adaptive differential pulse
-    code modulation (ADPCM) states are updated after each frame erasure.\r\nAppendix
-    V defines a coding scheme for mid-side (MS) stereo using the superwideband extension
-    defined in Annex B of [ITU-T G.722]. By introducing the mid-side stereo coding
-    into stereo terminals, interoperability with the monaural devices could be obtained
-    in very low complexity. The basic coding scheme is as follows: two channels of
-    the left-right (LR) stereo are converted to those of the mid-side stereo and then
-    the signals of each channel are independently encoded using ITU T G.722 Annex
-    B; then, at the decoder side, the mid-side channels of the bitstream from the
-    encoder are decoded respectively and then the decoded signals of the mid-side
-    channels are reversed to those of the LR channels. The LR-MS conversion and its
-    inverse are conducted in a conventional way. On the encoder side, two additional
-    arithmetic operations per sample are required for the LR MS conversion and one
-    operator for the MS-LR conversion in the decoder. In an STL2009 (see ITU T G.191)
-    basic operator implementation, the conversion complexity amounts to about 0.2
-    WMOPS in total. The coding algorithm for each channel is identical to the one
-    in Recommendation ITU T G.722 Annex B.\r\nAnnexes B, C and D contain an electronic
-    attachment provided with the ANSI C source code, which is an integral part of
-    these annexes. ANSI C source code is also provided as an integral part of Appendices
-    III and IV. \r\nNOTE – An ANSI-C code reference implementation for the algorithm
-    in the main body of ITU-T G.722 is found in the ITU-T G722 module of the ITU-T
-    G.191 Software Tools Library.\r\nTest sequences are provided for compliance testing
-    of the ITU-T G.722 algorithm in the main body of this Recommendation. Test vectors
-    are provided to assist in checking the correct operation of Annexes B, C and D
-    and Appendices III and IV."
+  content: "Recommendation ITU-T G.722 describes the characteristics of an audio wideband (WB, 50 to 7 000 Hz) coding system which may be used for a variety of higher quality speech applications. The coding system uses sub-band adaptive differential pulse code modulation (SB-ADPCM) within a bit rate of 64 kbit/s. The system is henceforth referred to as 64 kbit/s (7 kHz) audio-coding. In the SB ADPCM technique used, the frequency band is split into two sub-bands (higher and lower) and the signals in each sub-band are encoded using ADPCM. The system has three basic modes of operation corresponding to the bit rates used for 7 kHz audio-coding: 64, 56 and 48 kbit/s. The latter two modes allow an auxiliary data channel of 8 and 16 kbit/s, respectively, to be provided within 64 kbit/s by making use of bits from the lower sub-band. Erratum 1 was incorporated in this new edition, as well as some additional typos identified within the main body of ITU-T G.722.\r\nAnnex A provides three frequency masks that can be used to simplify evaluation of the mass produced equipment using ITU-T G.722 codecs, and make easier checks carried out during installation. The masks therein are specifically not intended to supplant any requirements of this Recommendation, but rather to suggest the needs of acceptance testing for production quantities of equipment using ITU-T G.722 codecs. They concern the measure of the signal-to-total distortion ratio in a loop with SB-ADPCM. Thus, these specifications do not aim at taking the place of the test digital sequences of the ITU-T G.722 algorithm, but rather to ensure, once these sequences have been checked on a first model, that the quality of the equipment using these codecs is maintained.\r\nAnnex B describes a scalable superwideband (SWB, 50 14 000 Hz) speech and audio-coding algorithm operating at 64, 80 and 96 kbit/s. The ITU-T G.722 superwideband extension codec is interoperable with ITU-T G.722. The output of the ITU-T G.722 SWB coder has a bandwidth of 50 14 000 Hz. The coder operates with 5 ms frames, has an algorithmic delay of 12.3125 ms and a worst case complexity of 22.76 WMOPS. By default, the encoder input and decoder output are sampled at 32 kHz. The superwideband encoder for improved ITU-T G.722 64 kbit/s core produces an embedded bitstream structured in two layers corresponding to two available bit rates from 80 to 96 kbit/s. The superwideband encoder for improved ITU-T G.722 56 kbit/s core produces an embedded bitstream structured in one layer corresponding to one available bit rate of 64 kbit/s. This 64 kbit/s mode is also scalable with the 80 kbit/s and 96 kbit/s modes. The bitstream can be truncated at the decoder side or by any component of the communication system to instantaneously adjust the bit rate to the desired value (96 kbit/s – 80 kbit/s – 64 kbit/s) with no need for out-of-band signalling. The underlying algorithm includes three main parts: higher band enhancements, bandwidth extension (BWE) and transform coding in modified discrete cosine transform (MDCT) domain based on algebraic vector quantization (AVQ). In this revised version, an update was done to the text vectors of Annex B, so they can better assist in checking compliance of implementations.\r\nAnnex C describes an alternative implementation of ITU-T G.722 Annex B based on floating-point arithmetic. While Annex B provides a bit-exact, fixed-point specification with the fixed-point C source code available from the ITU-T, alternative floating implementation is useful for platforms equipped with floating-point processors. This alternative floating-point arithmetic was found to be fully interoperable with Annex B in all configurations including the cross configurations.\r\nAnnex D describes a stereo extension of the wideband codec ITU-T G.722 and its superwideband extension, ITU-T G.722 Annex B. It is optimized for the transmission of stereo signals with limited additional bitrate, while keeping full compatibility with both codecs. Annex D operates from 64 to 128 kbit/s with four superwideband stereo bitrates at 80, 96, 112 and 128 kbit/s and two wideband stereo bitrates at 64 and 80 kbit/s. The wideband stereo modes are backward compatible with legacy ITU-T G.722, while the superwideband modes offer the backward compatibility with both mono wideband ITU-T G.722 and superwideband ITU-T G.722 Annex B. The stereo codec operates on 5 ms frames with an algorithmic delay of 13.625 ms for wideband stereo and 15.9375 ms for superwideband stereo. The encoder input and decoder output are sampled at 16 kHz and 32 kHz for wideband and superwideband operating modes respectively. The underlying algorithm includes three main parts: stereo parameter analysis and down-mix at the encoder and stereo synthesis at the decoder. The first stereo extension layer is an 8 kbit/s layer comprising the basic stereo parameters, wideband inter-channel time difference/inter-channel phase difference/inter-channel coherence and sub-band inter-channel level differences. The second stereo layer, also an 8 kbit/s layer, enhances the stereo image by encoding low frequency sub-band inter-channel phase differences. Finally, the third stereo layer is a 16 kbit/s layer. In this last layer, the inter-channel phase differences of a larger bandwidth are transmitted which allow to further improve the stereo image. The bitstream can be truncated by the decoder, or by any components of the communication system, to instantaneously adjust the bitrate to the desired value, including wideband ITU-T G.722 and superwideband ITU T G.722 Annex B bitrates, with no need for out-of-band signalling.\r\nNetworking aspects and test sequences for the main body algorithm are addressed in Appendices I and II respectively to this Recommendation. In this new edition, Appendix II was updated to reflect a restructuring of the test sequences for ITU-T G.722 main body.\r\nPacket loss concealment (PLC) algorithms, also known as frame erasure concealment algorithms, hide transmission losses in audio systems where the input signal is encoded and packetized, sent over a network, received and decoded before play out. PLC algorithms can be found in most standard recent speech coders. ITU-T G.722 was initially designed without such a feature. Therefore, Appendices III and IV provide two PLC mechanisms for ITU-T G.722. The algorithms in both appendices were verified to have high quality performance with alternative quality/complexity trade offs. At an additional complexity of 2.8 WMOPS worst-case and 2 WMOPS average compared with the ITU-T G.722 decoder without PLC, the ITU-T G.722 PLC algorithm described in Appendix III provides better speech quality whereas the ITU-T G.722 PLC specified in ITU T G.722 Appendix IV provides lower complexity adding almost no additional complexity to that of the main body ITU-T G.722 decoding (worst-case additional complexity is 0.07 WMOPS).\r\nThe algorithm in Appendix III performs the packet loss concealment in the 16 kHz output domain of the ITU-T G.722 decoder. Periodic waveform extrapolation is used to fill in the waveform of lost packets, mixing with filtered noise according to signal characteristics prior to the loss. The extrapolated 16 kHz signal is passed through the QMF analysis filter bank, and the sub-band signals are passed to partial sub-band ADPCM encoders to update the states of the sub-band ADPCM decoders. Additional processing takes place for each packet loss in order to provide a smooth transition from the extrapolated waveform to the waveform decoded from the received packets. Among other things, the states of the sub-band ADPCM decoders are phase aligned with the first received packet after a packet loss, and the decoded waveform is time-warped in order to align with the extrapolated waveform before the two are overlap-added to smooth the transition. For protracted packet loss, the algorithm gradually mutes the output. The algorithm operates on an intrinsic 10-ms frame size. It can operate on any packet or frame size that is a multiple of 10 ms. The longer input frame becomes a super frame, for which the packet loss concealment is called an appropriate number of times at its intrinsic frame size of 10 ms. It results in no additional delay when compared with regular ITU-T G.722 decoding using the same frame size.\r\nIn Appendix IV, the decoder comprises three stages: lower sub-band decoding, higher sub-band decoding and quadrature mirror filter (QMF) synthesis. In the absence of frame erasures, the decoder structure is identical to ITU-T G.722, except for the storage of the two decoded signals, of the higher and lower sub-bands. In case of frame erasures, the decoder is informed by the bad frame indication (BFI) signalling. It then performs an analysis of the past lower-band reconstructed signal and extrapolates the missing signal using linear predictive coding (LPC), pitch-synchronous period repetition and adaptive muting. Once a good frame is received, the decoded signal is cross-faded with the extrapolated signal. In the higher sub-band, the decoder repeats the previous frame pitch synchronously, with adaptive muting and high pass post-processing. The adaptive differential pulse code modulation (ADPCM) states are updated after each frame erasure.\r\nAppendix V defines a coding scheme for mid-side (MS) stereo using the superwideband extension defined in Annex B of [ITU-T G.722]. By introducing the mid-side stereo coding into stereo terminals, interoperability with the monaural devices could be obtained in very low complexity. The basic coding scheme is as follows: two channels of the left-right (LR) stereo are converted to those of the mid-side stereo and then the signals of each channel are independently encoded using ITU T G.722 Annex B; then, at the decoder side, the mid-side channels of the bitstream from the encoder are decoded respectively and then the decoded signals of the mid-side channels are reversed to those of the LR channels. The LR-MS conversion and its inverse are conducted in a conventional way. On the encoder side, two additional arithmetic operations per sample are required for the LR MS conversion and one operator for the MS-LR conversion in the decoder. In an STL2009 (see ITU T G.191) basic operator implementation, the conversion complexity amounts to about 0.2 WMOPS in total. The coding algorithm for each channel is identical to the one in Recommendation ITU T G.722 Annex B.\r\nAnnexes B, C and D contain an electronic attachment provided with the ANSI C source code, which is an integral part of these annexes. ANSI C source code is also provided as an integral part of Appendices III and IV. \r\nNOTE – An ANSI-C code reference implementation for the algorithm in the main body of ITU-T G.722 is found in the ITU-T G722 module of the ITU-T G.191 Software Tools Library.\r\nTest sequences are provided for compliance testing of the ITU-T G.722 algorithm in the main body of this Recommendation. Test vectors are provided to assist in checking the correct operation of Annexes B, C and D and Appendices III and IV."
 status:
   stage:
     content: Published
@@ -206,8 +69,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex E – An alternative implementation of stereo superwideband
-        extension using floating point
+      content: New Annex E – An alternative implementation of stereo superwideband extension using floating point
     docidentifier:
     - content: G.722 (2012) Amd. 1 (10/2014)
       type: ITU
@@ -277,8 +139,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Testing signal-to-total distortion ratio for 7 kHz audio-codecs at
-        64 kbit/s Recommendation G.722 connected back-to-back
+      content: Testing signal-to-total distortion ratio for 7 kHz audio-codecs at 64 kbit/s Recommendation G.722 connected back-to-back
     docidentifier:
     - content: G.722 (1988) Annex A (03/1993)
       type: ITU
@@ -288,8 +149,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital test sequences for the verification of the G.722 64 kbit/s
-        SB-ADPCM 7 kHz codec
+      content: Digital test sequences for the verification of the G.722 64 kbit/s SB-ADPCM 7 kHz codec
     docidentifier:
     - content: G.722 (1988) App. II (11/1988)
       type: ITU
@@ -327,8 +187,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Certain methods of avoiding the transmission of excessive noise between
-        interconnected systems
+      content: Certain methods of avoiding the transmission of excessive noise between interconnected systems
     docidentifier:
     - content: G Suppl. 4 (12/1972)
       type: ITU
@@ -348,8 +207,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Loss-frequency response of channel-translating equipment used in some
-        countries for international circuits
+      content: Loss-frequency response of channel-translating equipment used in some countries for international circuits
     docidentifier:
     - content: G Suppl. 7 (12/1972)
       type: ITU
@@ -359,8 +217,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Method proposed by the Belgian telephone administration for interconnection
-        between coaxial and symmetric pair systems
+      content: Method proposed by the Belgian telephone administration for interconnection between coaxial and symmetric pair systems
     docidentifier:
     - content: G Suppl. 8 (12/1972)
       type: ITU
@@ -380,8 +237,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital crosstalk measurement (method used by the Administrations of
-        France, the Netherlands and Spain)
+      content: Digital crosstalk measurement (method used by the Administrations of France, the Netherlands and Spain)
     docidentifier:
     - content: G Suppl. 19 (10/1984)
       type: ITU
@@ -401,8 +257,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Estimating the signal load margin of FDM wideband amplifier equipment
-        and transmission systems
+      content: Estimating the signal load margin of FDM wideband amplifier equipment and transmission systems
     docidentifier:
     - content: G Suppl. 26 (10/1984)
       type: ITU
@@ -422,9 +277,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems
-        and data-over-voice (DOV) systems during the transition from an analogue to
-        a digital network
+      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems and data-over-voice (DOV) systems during the transition from an analogue to a digital network
     docidentifier:
     - content: G Suppl. 28 (10/1984)
       type: ITU
@@ -504,8 +357,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guide on the use of the ITU-T Recommendations related to optical fibres
-        and systems technology
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres and systems technology
     docidentifier:
     - content: G Suppl. 42 (10/2018)
       type: ITU
@@ -545,8 +397,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G-PON interoperability test plan between optical line terminations
-        and optical network units
+      content: G-PON interoperability test plan between optical line terminations and optical network units
     docidentifier:
     - content: G Suppl. 46 (05/2009)
       type: ITU
@@ -566,9 +417,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: '10-Gigabit-capable passive optical networks: Interface between media
-        access control with serializer/deserializer and physical medium dependent
-        sublayers'
+      content: '10-Gigabit-capable passive optical networks: Interface between media access control with serializer/deserializer and physical medium dependent sublayers'
     docidentifier:
     - content: G Suppl. 48 (06/2010)
       type: ITU
@@ -758,8 +607,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on sub 1 Gbit/s services transport over optical transport
-        network
+      content: Supplement on sub 1 Gbit/s services transport over optical transport network
     docidentifier:
     - content: G Suppl. 70 (09/2020)
       type: ITU
@@ -769,8 +617,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optical line termination capabilities for supporting cooperative dynamic
-        bandwidth assignment
+      content: Optical line termination capabilities for supporting cooperative dynamic bandwidth assignment
     docidentifier:
     - content: G Suppl. 71 (12/2023)
       type: ITU
@@ -790,8 +637,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Influencing factors on quality of experience for multiview video (MVV)
-        services
+      content: Influencing factors on quality of experience for multiview video (MVV) services
     docidentifier:
     - content: G Suppl. 73 (10/2021)
       type: ITU
@@ -831,9 +677,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors
-        on quality of experience (QoE) for video customized alerting tone (CAT) and
-        video customized ringing signal (CRS) services
+      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors on quality of experience (QoE) for video customized alerting tone (CAT) and video customized ringing signal (CRS) services
     docidentifier:
     - content: G Suppl. 77 (06/2022)
       type: ITU
@@ -863,8 +707,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use case and requirements of fibre-based in-premises networking for
-        home application (FIP4H)
+      content: Use case and requirements of fibre-based in-premises networking for home application (FIP4H)
     docidentifier:
     - content: G Suppl. 80 (07/2024)
       type: ITU
@@ -894,8 +737,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on the use of options in the precision time protocol profile
-        with full timing support from the network
+      content: Supplement on the use of options in the precision time protocol profile with full timing support from the network
     docidentifier:
     - content: G Suppl. 83 (10/2025)
       type: ITU
@@ -945,8 +787,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Point to multipoint passive optical access system requirements and
-        transmission technologies above 50 Gbit/s per wavelength
+      content: Point to multipoint passive optical access system requirements and transmission technologies above 50 Gbit/s per wavelength
     docidentifier:
     - content: G Suppl. 88 (10/2025)
       type: ITU
@@ -976,8 +817,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases and requirements of fibre-in-premises for small and medium
-        enterprise applications
+      content: Use cases and requirements of fibre-in-premises for small and medium enterprise applications
     docidentifier:
     - content: G Suppl. 91 (10/2025)
       type: ITU

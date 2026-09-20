@@ -1,16 +1,16 @@
----
 id: ITUTT171101996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Protocols for interactive audiovisual services: Coded representation of
-    multimedia and hypermedia objects'
+  content: 'Protocols for interactive audiovisual services: Coded representation of multimedia and hypermedia objects'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.171-199610-I
+  content: https://handle.itu.int/11.1002/1000/3901
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.171-199610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.171 (10/1996)
   type: ITU
@@ -54,8 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides an encoding for multimedia/hypermedia information
-    to be used and interchanged by applications in a wide range of domains.
+  content: This Recommendation provides an encoding for multimedia/hypermedia information to be used and interchanged by applications in a wide range of domains.
 status:
   stage:
     content: Published

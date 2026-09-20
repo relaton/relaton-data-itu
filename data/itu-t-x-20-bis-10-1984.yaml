@@ -1,13 +1,14 @@
----
 id: ITUTX20bis101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Use on public data networks of data terminal equipment (DTE) which is designed
-    for interfacing to asynchronous duplex V-series modems
+  content: Use on public data networks of data terminal equipment (DTE) which is designed for interfacing to asynchronous duplex V-series modems
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6886
 docidentifier:
 - content: ITU-T X.20 bis (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use on public data networks of Data Terminal Equipment (DTE) which
-        is designed for interfacing to asynchronous duplex V-Series modems
+      content: Use on public data networks of Data Terminal Equipment (DTE) which is designed for interfacing to asynchronous duplex V-Series modems
     docidentifier:
     - content: X.20 bis (11/1988)
       type: ITU
@@ -78,8 +78,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use on public data networks of data terminal equipment (DTE) which
-        is designed for interfacing to asynchronous duplex V-Series modems
+      content: Use on public data networks of data terminal equipment (DTE) which is designed for interfacing to asynchronous duplex V-Series modems
     docidentifier:
     - content: X.20 bis (11/1980)
       type: ITU
@@ -89,9 +88,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: V.21-compatible interface between data terminal equipment (DTE) and
-        data circuit-terminating equipment (DCE) for start-stop transmission services
-        on public data networks
+      content: V.21-compatible interface between data terminal equipment (DTE) and data circuit-terminating equipment (DCE) for start-stop transmission services on public data networks
     docidentifier:
     - content: X.20 bis (10/1976)
       type: ITU

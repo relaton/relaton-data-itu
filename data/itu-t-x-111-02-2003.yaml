@@ -1,4 +1,3 @@
----
 id: ITUTX111022003
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.111-200302-I
+  content: https://handle.itu.int/11.1002/1000/6231
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.111-200302-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.111 (02/2003)
   type: ITU
@@ -50,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this Recommendation is to provide network operators with
-    the information necessary to ensure that Frame Relay data traffic can be routed
-    effectively and efficiently across the International Public Data Network. Guidelines
-    and general principles for the planning of Public Frame Relay Data networks and
-    the routing of International Frame Relay Traffic are provided. In particular guidance
-    on the incorporation of service requirements into the network routing process
-    is provided. Principles for routing in the case of Frame Relay/ATM interworking
-    are also provided.
+  content: The purpose of this Recommendation is to provide network operators with the information necessary to ensure that Frame Relay data traffic can be routed effectively and efficiently across the International Public Data Network. Guidelines and general principles for the planning of Public Frame Relay Data networks and the routing of International Frame Relay Traffic are provided. In particular guidance on the incorporation of service requirements into the network routing process is provided. Principles for routing in the case of Frame Relay/ATM interworking are also provided.
 status:
   stage:
     content: Published

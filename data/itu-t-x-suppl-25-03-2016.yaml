@@ -1,16 +1,16 @@
----
 id: ITUTXSuppl25032016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1231 - Supplement on guidance to assist in countering spam for
-    mobile phone developers
+  content: ITU-T X.1231 - Supplement on guidance to assist in countering spam for mobile phone developers
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup25-201603-I
+  content: https://handle.itu.int/11.1002/1000/12854
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup25-201603-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 25 (03/2016)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "As mobile phones are widely used nowadays, malicious attackers tend to
-    send spam intentionally to mobile application users, which causes financial problems
-    and creates privacy issues. This Supplement 25 to Recommendation ITU-T X.1231
-    provides guidance to assist in countering spam for mobile phone developers. In
-    addition, this Supplement describes the following elements:\r\n\r\n- Security
-    threats of mobile phones with application level aspects;\r\n\r\n- Guidance to
-    assist in countering spam for mobile phone developers.\r\n"
+  content: "As mobile phones are widely used nowadays, malicious attackers tend to send spam intentionally to mobile application users, which causes financial problems and creates privacy issues. This Supplement 25 to Recommendation ITU-T X.1231 provides guidance to assist in countering spam for mobile phone developers. In addition, this Supplement describes the following elements:\r\n\r\n- Security threats of mobile phones with application level aspects;\r\n\r\n- Guidance to assist in countering spam for mobile phone developers.\r\n"
 status:
   stage:
     content: Published

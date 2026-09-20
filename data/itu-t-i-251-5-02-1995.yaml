@@ -1,16 +1,16 @@
----
 id: ITUTI2515021995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Number identification supplementary services : Connected Line Identification
-    Presentation (COLP)'
+  content: 'Number identification supplementary services : Connected Line Identification Presentation (COLP)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.251.5-199502-I
+  content: https://handle.itu.int/11.1002/1000/1171
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.251.5-199502-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.251.5 (02/1995)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Connected Line Identification Presentation (COLP) is a supplementary service
-    offered to the calling party which provides the connected party's ISDN number
-    possibly with sub-address information to the calling party.
+  content: Connected Line Identification Presentation (COLP) is a supplementary service offered to the calling party which provides the connected party's ISDN number possibly with sub-address information to the calling party.
 status:
   stage:
     content: Published
@@ -73,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Number identification supplementary services : Connected Line Identification
-        Presentation (COLP)'
+      content: 'Number identification supplementary services : Connected Line Identification Presentation (COLP)'
     docidentifier:
     - content: I.251.5 (11/1988)
       type: ITU
@@ -84,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTM3071012018
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3071-201801-I
+  content: https://handle.itu.int/11.1002/1000/13479
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3071-201801-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3071 (01/2018)
   type: ITU
@@ -50,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation introduced a new network management functional architecture
-    with the cloud computing technology. In this Recommendation, the background and
-    basic concept of cloud-based network management are provided. This Recommendation
-    also provides the cloud-based network management functional architecture, including
-    the basic components of the cloud-based network management functional architecture,
-    their functionalities and the relationship between the components.
+  content: This Recommendation introduced a new network management functional architecture with the cloud computing technology. In this Recommendation, the background and basic concept of cloud-based network management are provided. This Recommendation also provides the cloud-based network management functional architecture, including the basic components of the cloud-based network management functional architecture, their functionalities and the relationship between the components.
 status:
   stage:
     content: Published

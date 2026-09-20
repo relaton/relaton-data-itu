@@ -1,16 +1,16 @@
----
 id: ITUTK40112019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Protection against lightning electromagnetic impulses in telecommunication
-    centres
+  content: Protection against lightning electromagnetic impulses in telecommunication centres
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.40-201911-I
+  content: https://handle.itu.int/11.1002/1000/14069
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.40-201911-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.40 (11/2019)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T K.40 proposes guidelines for the design of an effective
-    protective system for a telecommunication structure against lightning electromagnetic
-    pulse (LEMP). The concept of lightning protection zones is introduced as a framework
-    where specific protective measures are merged: earthing, bonding, cable routing,
-    shielding, coordinated SPD system and isolating interfaces. Information about
-    simulating the LEMP effects and a shopping list for the protective measures in
-    existing and new buildings are also given.'
+  content: 'Recommendation ITU-T K.40 proposes guidelines for the design of an effective protective system for a telecommunication structure against lightning electromagnetic pulse (LEMP). The concept of lightning protection zones is introduced as a framework where specific protective measures are merged: earthing, bonding, cable routing, shielding, coordinated SPD system and isolating interfaces. Information about simulating the LEMP effects and a shopping list for the protective measures in existing and new buildings are also given.'
 status:
   stage:
     content: Published
@@ -77,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Protection against lightning electromagnetic impulses in telecommunication
-        centres
+      content: Protection against lightning electromagnetic impulses in telecommunication centres
     docidentifier:
     - content: K.40 (01/2018)
       type: ITU
@@ -98,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -119,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -130,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -141,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -152,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -183,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

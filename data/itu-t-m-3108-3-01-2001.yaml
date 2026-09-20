@@ -1,16 +1,16 @@
----
 id: ITUTM31083012001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'TMN management services for dedicated and reconfigurable circuits network
-    : Information model for management of virtual private network service'
+  content: 'TMN management services for dedicated and reconfigurable circuits network : Information model for management of virtual private network service'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3108.3-200101-I
+  content: https://handle.itu.int/11.1002/1000/5290
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3108.3-200101-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3108.3 (01/2001)
   type: ITU
@@ -51,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a GDMO-based information model to support
-    the management of the Virtual Private Network Service as outlined in ITU-T M.3208.3.
+  content: This Recommendation provides a GDMO-based information model to support the management of the Virtual Private Network Service as outlined in ITU-T M.3208.3.
 status:
   stage:
     content: Published

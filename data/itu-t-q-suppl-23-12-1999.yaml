@@ -1,17 +1,16 @@
----
 id: ITUTQSuppl23121999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Supplement to ITU-T Q.1901 Recommendation – Technical Report TRQ.3010:
-    Operation of the bearer independant call control (BICC) protocol with AAL type
-    2 signalling protocol (CS-1)'
+  content: 'Supplement to ITU-T Q.1901 Recommendation – Technical Report TRQ.3010: Operation of the bearer independant call control (BICC) protocol with AAL type 2 signalling protocol (CS-1)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup23-199912-I
+  content: https://handle.itu.int/11.1002/1000/5004
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup23-199912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 23 (12/1999)
   type: ITU
@@ -52,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement to ITU-T Recommendation Q.1901 describes the general aspects
-    of the operation of the Bearer Independent Call Control (BICC) protocol with AAL
-    type 2 signalling protocol, Capability Set 1 (CS-1), used to control AAL type
-    2 Bearer Connections.
+  content: This Supplement to ITU-T Recommendation Q.1901 describes the general aspects of the operation of the Bearer Independent Call Control (BICC) protocol with AAL type 2 signalling protocol, Capability Set 1 (CS-1), used to control AAL type 2 Bearer Connections.
 status:
   stage:
     content: Published

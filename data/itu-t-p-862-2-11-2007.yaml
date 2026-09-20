@@ -1,16 +1,16 @@
----
 id: ITUTP8622112007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Wideband extension to Recommendation P.862 for the assessment of wideband
-    telephone networks and speech codecs
+  content: Wideband extension to Recommendation P.862 for the assessment of wideband telephone networks and speech codecs
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.862.2-200711-W
+  content: https://handle.itu.int/11.1002/1000/9275
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.862.2-200711-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T P.862.2 (11/2007)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "ITU-T Recommendation P.862.2 describes a simple extension to the perceptual
-    evaluation of listening speech quality (PESQ) algorithm defined in ITU-T Recommendation
-    P.862. It allows ITU-T Recommendation P.862 to be applied to the evaluation of
-    conditions, such as speech codecs, where the listener uses wideband headphones.
-    (In contrast, ITU-T Recommendation P.862 assumes a standard IRS-type narrow-band
-    telephone handset which attenuates strongly below 300 Hz and above 3100 Hz.).\r\nThis
-    Recommendation is mainly intended for use with wideband audio systems (50-7000
-    Hz), although it may also be applied to systems with a narrower bandwidth."
+  content: "ITU-T Recommendation P.862.2 describes a simple extension to the perceptual evaluation of listening speech quality (PESQ) algorithm defined in ITU-T Recommendation P.862. It allows ITU-T Recommendation P.862 to be applied to the evaluation of conditions, such as speech codecs, where the listener uses wideband headphones. (In contrast, ITU-T Recommendation P.862 assumes a standard IRS-type narrow-band telephone handset which attenuates strongly below 300 Hz and above 3100 Hz.).\r\nThis Recommendation is mainly intended for use with wideband audio systems (50-7000 Hz), although it may also be applied to systems with a narrower bandwidth."
 status:
   stage:
     content: Withdrawal
@@ -86,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Wideband extension to Recommendation P.862 for the assessment of wideband
-        telephone networks and speech codecs
+      content: Wideband extension to Recommendation P.862 for the assessment of wideband telephone networks and speech codecs
     docidentifier:
     - content: P.862.2 (11/2005)
       type: ITU

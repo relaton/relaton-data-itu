@@ -1,16 +1,16 @@
----
 id: ITUTXSuppl23092014
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1037 - Supplement on security management guidelines for the implementation
-    of an IPv6 environment in telecommunication organizations
+  content: ITU-T X.1037 - Supplement on security management guidelines for the implementation of an IPv6 environment in telecommunication organizations
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup23-201409-I
+  content: https://handle.itu.int/11.1002/1000/12332
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup23-201409-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 23 (09/2014)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 23 to ITU-T X-series Recommendations provides security management
-    guidelines for the implementation of IPv6 environment in telecommunication organizations
-    in order to ensure the protection of information in the networks and protection
-    of the supporting network infrastructure when transitioning from IPv4 to IPv6
-    and implementing an IPv6 environment.
+  content: Supplement 23 to ITU-T X-series Recommendations provides security management guidelines for the implementation of IPv6 environment in telecommunication organizations in order to ensure the protection of information in the networks and protection of the supporting network infrastructure when transitioning from IPv4 to IPv6 and implementing an IPv6 environment.
 status:
   stage:
     content: Published

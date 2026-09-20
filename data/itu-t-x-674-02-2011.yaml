@@ -1,16 +1,16 @@
----
 id: ITUTX674022011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for the registration of arcs under the Alerting object identifier
-    arc
+  content: Procedures for the registration of arcs under the Alerting object identifier arc
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.674-201102-I
+  content: https://handle.itu.int/11.1002/1000/11054
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.674-201102-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.674 (02/2011)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.674 provides for the registration of object identifier
-    (OID) arcs which enable identification of different kinds of alerts and alerting
-    agencies. This Recommendation specifies the information and justification to be
-    provided when requesting an OID for alerting purposes, and the procedures for
-    the operation of the Registration Authority.
+  content: Recommendation ITU-T X.674 provides for the registration of object identifier (OID) arcs which enable identification of different kinds of alerts and alerting agencies. This Recommendation specifies the information and justification to be provided when requesting an OID for alerting purposes, and the procedures for the operation of the Registration Authority.
 status:
   stage:
     content: Published

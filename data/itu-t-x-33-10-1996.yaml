@@ -1,16 +1,16 @@
----
 id: ITUTX33101996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Access to packet-switched data transmission services via frame relaying
-    data transmission services
+  content: Access to packet-switched data transmission services via frame relaying data transmission services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.33-199610-I
+  content: https://handle.itu.int/11.1002/1000/3695
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.33-199610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.33 (10/1996)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines services available and signalling procedures
-    operated at the S/T reference point of an ISDN and at the DTE-DCE interface of
-    an FRPDN for access to packet switched data transmission service via the ISDN-FRBS
-    and the FRPDN.
+  content: This Recommendation defines services available and signalling procedures operated at the S/T reference point of an ISDN and at the DTE-DCE interface of an FRPDN for access to packet switched data transmission service via the ISDN-FRBS and the FRPDN.
 status:
   stage:
     content: Published

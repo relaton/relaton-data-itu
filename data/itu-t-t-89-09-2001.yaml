@@ -1,16 +1,16 @@
----
 id: ITUTT89092001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Application profiles for Recommendation T.88 – Lossy/lossless coding of
-    bi-level images (JBIG2) for facsimile
+  content: Application profiles for Recommendation T.88 – Lossy/lossless coding of bi-level images (JBIG2) for facsimile
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.89-200109-I
+  content: https://handle.itu.int/11.1002/1000/5528
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.89-200109-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.89 (09/2001)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation, "Application Profiles for Recommendation T.88", specifies
-    application profiles of the JBIG2 coding scheme, defined in ITU-T Rec. T.88 |
-    ISO/IEC 14492, for facsimile applications. The JBIG2 Recommendation specifies
-    a collection of standard encoder/decoder components, referenced as a tool kit,
-    that are used in generating and decoding JBIG2 conformant data streams. JBIG2
-    has standardized seven profiles, and encourages definition of additional application
-    profiles to satisfy further needs of various application environments.
+  content: This Recommendation, "Application Profiles for Recommendation T.88", specifies application profiles of the JBIG2 coding scheme, defined in ITU-T Rec. T.88 | ISO/IEC 14492, for facsimile applications. The JBIG2 Recommendation specifies a collection of standard encoder/decoder components, referenced as a tool kit, that are used in generating and decoding JBIG2 conformant data streams. JBIG2 has standardized seven profiles, and encourages definition of additional application profiles to satisfy further needs of various application environments.
 status:
   stage:
     content: Published
@@ -77,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application profiles for Recommendation T.88 – Lossy/lossless coding
-        of bi-level images (JBIG2) for facsimile apparatus
+      content: Application profiles for Recommendation T.88 – Lossy/lossless coding of bi-level images (JBIG2) for facsimile apparatus
     docidentifier:
     - content: T.89 (11/2000)
       type: ITU

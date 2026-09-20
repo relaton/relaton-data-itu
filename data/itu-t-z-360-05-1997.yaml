@@ -1,16 +1,16 @@
----
 id: ITUTZ360051997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Graphic GDMO: A graphic notation for the Guidelines for the Definition
-    of Managed Objects'
+  content: 'Graphic GDMO: A graphic notation for the Guidelines for the Definition of Managed Objects'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Z.360-199705-I
+  content: https://handle.itu.int/11.1002/1000/4009
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Z.360-199705-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Z.360 (05/1997)
   type: ITU
@@ -51,26 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation prescribes a graphic notation to provide an overview
-    of GDMO/GRM specifications.GDMO, Guidelines for the Definition of Managed Objects,
-    is a formalism defined in Recommendation X.722 to define managed objects in Telecommunications
-    Management Network (TMN). Attributes for representing relationships are defined
-    in Recommendation X.732. The GDMO formalism is extended with a general relationship
-    notation in Recommendation X.725 (General Relationship Model). The overall object
-    structure is defined by GDMO/GRM, while the syntax of the data is defined using
-    Abstract Syntax Notation One (ASN.1), Recommendations X.208 or X.680. The three
-    languages are widely used by many ITU Study Groups for the specification of managed
-    objects for many application areas. The languages are purely alphanumeric and
-    the alphanumeric specifications using GDMO/GRM/ASN.1 are hard to overview.Current
-    Recommendations using GDMO/GRM use various kinds of informal illustrations to
-    provide overviews of different aspects of the specifications. However, they frequently
-    use the same symbol for different notions, different symbols for the same notion,
-    and can sometimes be misleading as to the contents of the specifications. Therefore,
-    a standardized graphic notation was felt needed. The graphic notation shall be
-    true to the notions of the alphanumeric notations.This Recommendation is based
-    on:· an approved Requirement document, found in Appendix II;·????????????evaluation
-    of some existing graphic notations, which did not meet the requirements;·????????????trial
-    use on several Recommendations and other application areas.
+  content: This Recommendation prescribes a graphic notation to provide an overview of GDMO/GRM specifications.GDMO, Guidelines for the Definition of Managed Objects, is a formalism defined in Recommendation X.722 to define managed objects in Telecommunications Management Network (TMN). Attributes for representing relationships are defined in Recommendation X.732. The GDMO formalism is extended with a general relationship notation in Recommendation X.725 (General Relationship Model). The overall object structure is defined by GDMO/GRM, while the syntax of the data is defined using Abstract Syntax Notation One (ASN.1), Recommendations X.208 or X.680. The three languages are widely used by many ITU Study Groups for the specification of managed objects for many application areas. The languages are purely alphanumeric and the alphanumeric specifications using GDMO/GRM/ASN.1 are hard to overview.Current Recommendations using GDMO/GRM use various kinds of informal illustrations to provide overviews of different aspects of the specifications. However, they frequently use the same symbol for different notions, different symbols for the same notion, and can sometimes be misleading as to the contents of the specifications. Therefore, a standardized graphic notation was felt needed. The graphic notation shall be true to the notions of the alphanumeric notations.This Recommendation is based on:· an approved Requirement document, found in Appendix II;·????????????evaluation of some existing graphic notations, which did not meet the requirements;·????????????trial use on several Recommendations and other application areas.
 status:
   stage:
     content: Published

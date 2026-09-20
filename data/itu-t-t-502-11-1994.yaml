@@ -1,16 +1,16 @@
----
 id: ITUTT502111994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Document application profile PM-11 for the interchange of simple structure,
-    character content documents in processable and formatted forms
+  content: Document application profile PM-11 for the interchange of simple structure, character content documents in processable and formatted forms
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.502-199411-I
+  content: https://handle.itu.int/11.1002/1000/2577
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.502-199411-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.502 (11/1994)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation specifies an ODA Document Application Profile (DAP)[XS1]
-    named PM-11.This Profile specifies interchange format for the transfer of structured
-    documents between equipment designed for word or document processing. Such documents
-    contain character content.The documents that can be interchanged using this Profile
-    range from memos and letters to simple structured documents. This Profile provides
-    a comprehensive level of features for the transfer of documents between these
-    systems.A document structured in accordance with this Profile is represented for
-    interchange by the Open Document Interchange Format (ODIF)[XS2], as defined in
-    Recommendation T.415.                 Page: 4  [XS1]A: Document Application Profile
-    (DAP)Page: 4  [XS2]A: Open Document Interchange Format (ODIF)'
+  content: 'This Recommendation specifies an ODA Document Application Profile (DAP)[XS1] named PM-11.This Profile specifies interchange format for the transfer of structured documents between equipment designed for word or document processing. Such documents contain character content.The documents that can be interchanged using this Profile range from memos and letters to simple structured documents. This Profile provides a comprehensive level of features for the transfer of documents between these systems.A document structured in accordance with this Profile is represented for interchange by the Open Document Interchange Format (ODIF)[XS2], as defined in Recommendation T.415.                 Page: 4  [XS1]A: Document Application Profile (DAP)Page: 4  [XS2]A: Open Document Interchange Format (ODIF)'
 status:
   stage:
     content: Published
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document application profile PM-11 for the interchange of character
-        content documents in processable and formatted forms
+      content: Document application profile PM-11 for the interchange of character content documents in processable and formatted forms
     docidentifier:
     - content: T.502 (03/1993)
       type: ITU
@@ -91,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document application profile PM-11 for the interchange of character
-        content documents in processable and formatted forms
+      content: Document application profile PM-11 for the interchange of character content documents in processable and formatted forms
     docidentifier:
     - content: T.502 (01/1991)
       type: ITU
@@ -102,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document application profile PM1 for the interchange of processable
-        form documents
+      content: Document application profile PM1 for the interchange of processable form documents
     docidentifier:
     - content: T.502 (11/1988)
       type: ITU

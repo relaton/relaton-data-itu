@@ -1,16 +1,16 @@
----
 id: ITUTK962014Amd1122014
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Appendix II - Alternative duration measurement method for 1.2/50-8/20 and
-    10/700 surge generator impulses
+  content: Appendix II - Alternative duration measurement method for 1.2/50-8/20 and 10/700 surge generator impulses
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.96-201412-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/12442
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.96-201412-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.96 (2014) Amd. 1 (12/2014)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The time to half value of a double exponential surge, simulating a lightning
-    impulse, is traditionally measured from a virtual zero point to the 50% amplitude
-    decay point of the waveform, as explained in clause I.3. The time duration of
-    electrostatic discharge (ESD) and electrical fast transient (EFT) impulses is
-    measured as the time for which the impulse exceeds the 50% amplitude level. The
-    time measured from virtual zero will always be longer than the time between the
-    two waveform 50% points. Edition 3 of IEC 61000-4-5 (2014) departs from the traditional
-    lightning surge time to half value measurement by specifying the use of the time
-    between the two waveform 50% points for the 1.2/50\x1E8/20 and 10/700 surge generator
-    waveforms. Amendment 1 to Recommendation ITU-T K.96 introduces Appendix II, which
-    discusses the time value changes caused by the Edition 3 approach and how other
-    standards can be referenced to maintain the tradition measurement method."
+  content: The time to half value of a double exponential surge, simulating a lightning impulse, is traditionally measured from a virtual zero point to the 50% amplitude decay point of the waveform, as explained in clause I.3. The time duration of electrostatic discharge (ESD) and electrical fast transient (EFT) impulses is measured as the time for which the impulse exceeds the 50% amplitude level. The time measured from virtual zero will always be longer than the time between the two waveform 50% points. Edition 3 of IEC 61000-4-5 (2014) departs from the traditional lightning surge time to half value measurement by specifying the use of the time between the two waveform 50% points for the 1.2/508/20 and 10/700 surge generator waveforms. Amendment 1 to Recommendation ITU-T K.96 introduces Appendix II, which discusses the time value changes caused by the Edition 3 approach and how other standards can be referenced to maintain the tradition measurement method.
 status:
   stage:
     content: Published
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Surge protective components: Overview of surge mitigation functions
-        and technologies'
+      content: 'Surge protective components: Overview of surge mitigation functions and technologies'
     docidentifier:
     - content: K.96 (02/2014)
       type: ITU
@@ -93,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -114,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -125,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -136,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -147,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -178,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTE453081994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Facsimile image quality as corrupted by transmission-induced scan line
-    errors
+  content: Facsimile image quality as corrupted by transmission-induced scan line errors
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.453-199408-I
+  content: https://handle.itu.int/11.1002/1000/500
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.453-199408-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.453 (08/1994)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Transmission-induced scan line errors are one of the important impairments
-    perceived by customers in non-Error Correction Mode (see Recommendations T.4 and
-    T.30) Group 3 facsimile. This proposed text develops a set of scan line related
-    performance metrics that can help benchmark the performance of transmission networks
-    with respect to Group 3 facsimile.In this text, certain criteria are developed
-    for declaring a received facsimile page Error-Free, Errored, and Severely-Errored.
-    These criteria are based on the number and distribution of errored scan lines
-    and were developed based on customer perception studies of facsimile images.
+  content: Transmission-induced scan line errors are one of the important impairments perceived by customers in non-Error Correction Mode (see Recommendations T.4 and T.30) Group 3 facsimile. This proposed text develops a set of scan line related performance metrics that can help benchmark the performance of transmission networks with respect to Group 3 facsimile.In this text, certain criteria are developed for declaring a received facsimile page Error-Free, Errored, and Severely-Errored. These criteria are based on the number and distribution of errored scan lines and were developed based on customer perception studies of facsimile images.
 status:
   stage:
     content: Published
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

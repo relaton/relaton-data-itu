@@ -1,4 +1,3 @@
----
 id: ITUTT45022000
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.45-200002-I
+  content: https://handle.itu.int/11.1002/1000/4844
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.45-200002-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.45 (02/2000)
   type: ITU
@@ -50,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation, "Run-length colour encoding", specifies a run-length
-    encoding procedure which has been optimised for the encoding of lists of colour
-    values. Use of T.45 to encode the colour values of the T.88 (JBIG2) related colour
-    tag procedure is one targeted application. Recommendation T.88 has been shown
-    to be particularly effective in the coding of coloured text when the colours of
-    the foreground layer associated with a T.88 encoded MRC mask layer (i.e. text
-    shapes) are represented by colour tags (i.e. colour values). Use of the Recommendation
-    T.88 together with the colour tag provision can realise more than twice the compression
-    gains associated with conventional bitmap image encoding of text colours. The
-    colour tag provision takes advantage of the fact that T.88 codes text regions
-    by generating discrete symbols (i.e. symbols are used to represent text characters)
-    and the text characters are usually a single flat colour. Colour tagging uses
-    a single colour value (i.e. a colour tag) to represent the colour of each T.88
-    symbol occurrence, one colour value for each corresponding mask layer (X, Y, ID)
-    symbol triplet. The colour values are ordered identically to the symbol occurrences.
-    The ordered list of foreground layer colour tags (i.e. colour values) are compressed
-    using T.45 "Run-length colour encoding".
+  content: This Recommendation, "Run-length colour encoding", specifies a run-length encoding procedure which has been optimised for the encoding of lists of colour values. Use of T.45 to encode the colour values of the T.88 (JBIG2) related colour tag procedure is one targeted application. Recommendation T.88 has been shown to be particularly effective in the coding of coloured text when the colours of the foreground layer associated with a T.88 encoded MRC mask layer (i.e. text shapes) are represented by colour tags (i.e. colour values). Use of the Recommendation T.88 together with the colour tag provision can realise more than twice the compression gains associated with conventional bitmap image encoding of text colours. The colour tag provision takes advantage of the fact that T.88 codes text regions by generating discrete symbols (i.e. symbols are used to represent text characters) and the text characters are usually a single flat colour. Colour tagging uses a single colour value (i.e. a colour tag) to represent the colour of each T.88 symbol occurrence, one colour value for each corresponding mask layer (X, Y, ID) symbol triplet. The colour values are ordered identically to the symbol occurrences. The ordered list of foreground layer colour tags (i.e. colour values) are compressed using T.45 "Run-length colour encoding".
 status:
   stage:
     content: Published

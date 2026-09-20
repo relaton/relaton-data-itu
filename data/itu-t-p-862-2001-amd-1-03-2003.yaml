@@ -1,16 +1,14 @@
----
 id: ITUTP8622001Amd1032003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Revised Annex A: Source code for reference implementation and conformance
-    tests'
+  content: 'Revised Annex A: Source code for reference implementation and conformance tests'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.862-200303-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/6258
 docidentifier:
 - content: ITU-T P.862 (2001) Amd. 1 (03/2003)
   type: ITU
@@ -51,20 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Annex A replaces the previous Annex A to ITU-T Rec. P.862 (February
-    2001), which defines the Perceptual Evaluation of Speech Quality (PESQ) model
-    for objective speech quality measurement for telephone networks and speech codecs.
-    It clarifies the sampling rate that must be offered by implementations of PESQ,
-    and sets out an extended set of conformance tests that support this.It is not
-    anticipated that this Annex A will affect any existing implementations of PESQ.
-    Future implementations of PESQ that only offer 8 kHz sampling rate are accepted
-    as valid and must meet the new conformance test 1(b) proposed below. Future implementations
-    at 16 kHz sampling rate must also meet the new conformance test 2(a).The ANSI-C
-    reference implementation of PESQ remains unchanged.The only files that are modified
-    relative to ITU-T Rec. P.862 (02/2001) are:\r\n• supp23_16k.txt, supp23_16k.bat,
-    supp23_8k.txt, supp23_8k.bat;\r\n• voipref_16k.txt, voipref_16k.bat, voipref_8k.txt,
-    voipref_8k.bat;\r\n• process.bat.These files are available for free on ITU Publications
-    website at www.itu.int, under P.862 as \"P.862 (2001) Amendment 1\"."
+  content: "This Annex A replaces the previous Annex A to ITU-T Rec. P.862 (February 2001), which defines the Perceptual Evaluation of Speech Quality (PESQ) model for objective speech quality measurement for telephone networks and speech codecs. It clarifies the sampling rate that must be offered by implementations of PESQ, and sets out an extended set of conformance tests that support this.It is not anticipated that this Annex A will affect any existing implementations of PESQ. Future implementations of PESQ that only offer 8 kHz sampling rate are accepted as valid and must meet the new conformance test 1(b) proposed below. Future implementations at 16 kHz sampling rate must also meet the new conformance test 2(a).The ANSI-C reference implementation of PESQ remains unchanged.The only files that are modified relative to ITU-T Rec. P.862 (02/2001) are:\r\n• supp23_16k.txt, supp23_16k.bat, supp23_8k.txt, supp23_8k.bat;\r\n• voipref_16k.txt, voipref_16k.bat, voipref_8k.txt, voipref_8k.bat;\r\n• process.bat.These files are available for free on ITU Publications website at www.itu.int, under P.862 as \"P.862 (2001) Amendment 1\"."
 status:
   stage:
     content: Withdrawal
@@ -100,8 +85,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Revised Annex A – Reference implementations and conformance testing
-        for ITU-T Recs P.862, P.862.1 and P.862.2
+      content: Revised Annex A – Reference implementations and conformance testing for ITU-T Recs P.862, P.862.1 and P.862.2
     docidentifier:
     - content: P.862 (2001) Amd. 2 (11/2005)
       type: ITU
@@ -111,9 +95,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Perceptual evaluation of speech quality (PESQ): An objective method
-        for end-to-end speech quality assessment of narrow-band telephone networks
-        and speech codecs'
+      content: 'Perceptual evaluation of speech quality (PESQ): An objective method for end-to-end speech quality assessment of narrow-band telephone networks and speech codecs'
     docidentifier:
     - content: P.862 (02/2001)
       type: ITU

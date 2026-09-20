@@ -1,16 +1,16 @@
----
 id: ITUTX1415032026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security requirements of distributed ledger technology (DLT) gateway for
-    interoperability
+  content: Security requirements of distributed ledger technology (DLT) gateway for interoperability
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1415-202603-I
+  content: https://handle.itu.int/11.1002/1000/16748
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1415-202603-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1415 (03/2026)
   type: ITU
@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the rapid advancement and widespread adoption of blockchain technology,
-    it has become clear that a single blockchain system cannot effectively cater to
-    the diverse needs of various distributed applications. As a result, the demand
-    for blockchain interoperability solutions has become increasingly apparent. As
-    blockchain-based services continue to emerge across different industries and sectors,
-    the need for seamless interaction and interoperability between disparate blockchain
-    networks has become crucial.\r\nThe distributed ledger technology (DLT) gateway
-    is designed to provide unified interfaces and adhere to standard protocols, allowing
-    blockchain applications to interact with and harness the functionalities of other
-    blockchain networks. It establishes a common language and set of rules that enable
-    smooth interoperability, eliminating the barriers that exist between different
-    blockchain platforms.\r\nRecommendation ITU-T X.1415 focuses on proposing security
-    requirements for the DLT gateway. By addressing security concerns and establishing
-    a robust security framework, it aims to ensure the safe and reliable operation
-    of the DLT gateway.\r\n"
+  content: "With the rapid advancement and widespread adoption of blockchain technology, it has become clear that a single blockchain system cannot effectively cater to the diverse needs of various distributed applications. As a result, the demand for blockchain interoperability solutions has become increasingly apparent. As blockchain-based services continue to emerge across different industries and sectors, the need for seamless interaction and interoperability between disparate blockchain networks has become crucial.\r\nThe distributed ledger technology (DLT) gateway is designed to provide unified interfaces and adhere to standard protocols, allowing blockchain applications to interact with and harness the functionalities of other blockchain networks. It establishes a common language and set of rules that enable smooth interoperability, eliminating the barriers that exist between different blockchain platforms.\r\nRecommendation ITU-T X.1415 focuses on proposing security requirements for the DLT gateway. By addressing security concerns and establishing a robust security framework, it aims to ensure the safe and reliable operation of the DLT gateway.\r\n"
 status:
   stage:
     content: Published

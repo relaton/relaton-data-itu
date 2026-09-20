@@ -1,4 +1,3 @@
----
 id: ITUTT70111092020
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.701.11-202009-I
+  content: https://handle.itu.int/11.1002/1000/14358
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.701.11-202009-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.701.11 (09/2020)
   type: ITU
@@ -53,14 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.701.11 gives guidance on how to create text alternatives
-    (also known as \"alt-text\") and what information to put in text alternatives.\r\nThis
-    Recommendation applies to all still images that are used in any type of electronic
-    document. It also applies to individual images within a slide show. The alternative
-    text guidance provided in this Recommendation is not applicable to moving images
-    (e.g., movies).\r\nThis Recommendation is a twin text with ISO/IEC 20071-11:2019
-    \"Information technology – User interface component accessibility – Part 11: Guidance
-    on text alternatives for images\", prepared by ISO/IEC JTC1 SC35 \"User interfaces\"."
+  content: "Recommendation ITU-T T.701.11 gives guidance on how to create text alternatives (also known as \"alt-text\") and what information to put in text alternatives.\r\nThis Recommendation applies to all still images that are used in any type of electronic document. It also applies to individual images within a slide show. The alternative text guidance provided in this Recommendation is not applicable to moving images (e.g., movies).\r\nThis Recommendation is a twin text with ISO/IEC 20071-11:2019 \"Information technology – User interface component accessibility – Part 11: Guidance on text alternatives for images\", prepared by ISO/IEC JTC1 SC35 \"User interfaces\"."
 status:
   stage:
     content: Published

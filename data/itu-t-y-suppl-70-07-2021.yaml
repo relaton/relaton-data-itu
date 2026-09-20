@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl70072021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.3800-series – Quantum key distribution networks - Applications
-    of machine learning
+  content: ITU-T Y.3800-series – Quantum key distribution networks - Applications of machine learning
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup70-202107-I
+  content: https://handle.itu.int/11.1002/1000/14757
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup70-202107-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 70 (07/2021)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: For quantum key distribution networks (QKDNs), Supplement 70 to ITU-T Y-series
-    Recommendations presents the applications of machine learning (ML) in the quantum
-    layer, the key management layer and the management and control layers of QKDN
-    including the use case background, issues, role of ML in QKDN, use case analysis,
-    as well as benefits and impact.
+  content: For quantum key distribution networks (QKDNs), Supplement 70 to ITU-T Y-series Recommendations presents the applications of machine learning (ML) in the quantum layer, the key management layer and the management and control layers of QKDN including the use case background, issues, role of ML in QKDN, use case analysis, as well as benefits and impact.
 status:
   stage:
     content: Published

@@ -1,13 +1,14 @@
----
 id: ITUTV31bis101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Electrical characteristics for single-current interchange circuits using
-    optocouplers
+  content: Electrical characteristics for single-current interchange circuits using optocouplers
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6863
 docidentifier:
 - content: ITU-T V.31 bis (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electrical characteristics for single-current interchange circuits
-        using optocouplers
+      content: Electrical characteristics for single-current interchange circuits using optocouplers
     docidentifier:
     - content: V.31 bis (11/1988)
       type: ITU

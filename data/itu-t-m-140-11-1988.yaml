@@ -1,16 +1,16 @@
----
 id: ITUTM140111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Designations of international circuits, groups, group and line links, digital
-    blocks, digital paths, data transmission systems and related information
+  content: Designations of international circuits, groups, group and line links, digital blocks, digital paths, data transmission systems and related information
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1400-198811-S
+  content: https://handle.itu.int/11.1002/1000/1488
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1400-198811-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.140 (11/1988)
   type: ITU
@@ -246,8 +246,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T M.1400-series – Supplement on directory of external terminology
-        schemas
+      content: ITU-T M.1400-series – Supplement on directory of external terminology schemas
     docidentifier:
     - content: M Suppl. 7 (05/2008)
       type: ITU

@@ -1,7 +1,9 @@
----
 id: ITUTV291976Amd1091977
 schema_version: v1.5.6
 type: standard
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/10678
 docidentifier:
 - content: ITU-T V.29 (1976) Amd. 1 (09/1977)
   type: ITU
@@ -61,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 9600 bits per second modem standardized for use on point-to-point 4-wire
-        leased telephone-type circuits
+      content: 9600 bits per second modem standardized for use on point-to-point 4-wire leased telephone-type circuits
     docidentifier:
     - content: V.29 (11/1988)
       type: ITU
@@ -72,8 +73,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 9600 bits per second modem standardized for use on point-to-point 4-wire
-        leased telephone-type circuits
+      content: 9600 bits per second modem standardized for use on point-to-point 4-wire leased telephone-type circuits
     docidentifier:
     - content: V.29 (10/1984)
       type: ITU
@@ -83,8 +83,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 9600 bits per second modem standardized for use on point-to-point 4-wire
-        leased telephone-type circuits
+      content: 9600 bits per second modem standardized for use on point-to-point 4-wire leased telephone-type circuits
     docidentifier:
     - content: V.29 (11/1980)
       type: ITU

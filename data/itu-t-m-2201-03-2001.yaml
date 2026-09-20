@@ -1,16 +1,16 @@
----
 id: ITUTM2201032001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance objectives, allocations and limits for bringing-into-service
-    and maintenance of international ATM virtual path and virtual channel connections
+  content: Performance objectives, allocations and limits for bringing-into-service and maintenance of international ATM virtual path and virtual channel connections
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.2201-200103-I
+  content: https://handle.itu.int/11.1002/1000/5431
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.2201-200103-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.2201 (03/2001)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides performance objectives, allocations and limits,
-    and measurement procedures for bringing-into-service and maintenance of international
-    end-to-end permanent and semi-permanent ATM Virtual Path Connections (VPCs), Virtual
-    Channel Connections (VCCs), and connection portions that form part of an international
-    ATM VPC or VCC. Error, delay and availability performance aspects are addressed.
-    Some of the performance objectives depend on the user's selection of Quality of
-    Service (QoS) class, definitions of which are given in ITU-T I.356 and ITU-T I.371.
+  content: This Recommendation provides performance objectives, allocations and limits, and measurement procedures for bringing-into-service and maintenance of international end-to-end permanent and semi-permanent ATM Virtual Path Connections (VPCs), Virtual Channel Connections (VCCs), and connection portions that form part of an international ATM VPC or VCC. Error, delay and availability performance aspects are addressed. Some of the performance objectives depend on the user's selection of Quality of Service (QoS) class, definitions of which are given in ITU-T I.356 and ITU-T I.371.
 status:
   stage:
     content: Published

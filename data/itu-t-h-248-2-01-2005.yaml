@@ -1,16 +1,16 @@
----
 id: ITUTH2482012005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Gateway control protocol: Facsimile, text conversation and call discrimination
-    packages'
+  content: 'Gateway control protocol: Facsimile, text conversation and call discrimination packages'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.248.2-200501-S
+  content: https://handle.itu.int/11.1002/1000/7443
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.248.2-200501-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.248.2 (01/2005)
   type: ITU
@@ -51,29 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines packages that extend the applicability of
-    the H.248.1 Gateway Control Protocol Recommendation. Specifically, this Recommendation
-    describes packages for fax, text telephone, call type discrimination, and data
-    call detection for use with the H.248.1 Gateway Control Protocol. As defined in
-    ITU-T Rec. H.248.1, a \"package\" is an extension to H.248.1 that supports specific
-    behaviour.\r\nThe packages are intended for control over gateway functions for
-    transport of facsimile or text conversation between different network environments.
-    Extensions can be made for other kinds of data transport.\r\n• The Call Type Discrimination
-    package defines control and monitoring of a line for the signalling protocols
-    used in the beginning of a session of data transmission for fax, text telephony
-    or data. This package has been revised to enable the MG to autonomously determine
-    the call type to be supported.\r\n• The Text Telephone package defines control
-    of a text telephone session in any of the modes supported by the automoding text
-    telephone Recommendation, ITU-T Rec. V.18. \r\n• The Fax package defines control
-    of a fax transmission.\r\n• The Fax/Textphone/Modem Tones Detection package defines
-    control over a termination for detection of any signals from a fax, text telephone
-    or data modem during a connection in voice mode.\r\n• The Text Conversation package
-    defines control over a real-time interactive text conversation session using a
-    universal presentation format and transferred with a transport method from a multimedia
-    protocol in any network environment.\r\n• The IP Fax package defines control over
-    facsimile transmission in a packet network.All the packages have been editorially
-    modified to align with the H.248.1 Packages Template.\r\nNOTE - This Recommendation
-    has been renumbered. It was previously known as ITU-T Rec. H.248, Annex F."
+  content: "This Recommendation defines packages that extend the applicability of the H.248.1 Gateway Control Protocol Recommendation. Specifically, this Recommendation describes packages for fax, text telephone, call type discrimination, and data call detection for use with the H.248.1 Gateway Control Protocol. As defined in ITU-T Rec. H.248.1, a \"package\" is an extension to H.248.1 that supports specific behaviour.\r\nThe packages are intended for control over gateway functions for transport of facsimile or text conversation between different network environments. Extensions can be made for other kinds of data transport.\r\n• The Call Type Discrimination package defines control and monitoring of a line for the signalling protocols used in the beginning of a session of data transmission for fax, text telephony or data. This package has been revised to enable the MG to autonomously determine the call type to be supported.\r\n• The Text Telephone package defines control of a text telephone session in any of the modes supported by the automoding text telephone Recommendation, ITU-T Rec. V.18. \r\n• The Fax package defines control of a fax transmission.\r\n• The Fax/Textphone/Modem Tones Detection package defines control over a termination for detection of any signals from a fax, text telephone or data modem during a connection in voice mode.\r\n• The Text Conversation package defines control over a real-time interactive text conversation session using a universal presentation format and transferred with a transport method from a multimedia protocol in any network environment.\r\n• The IP Fax package defines control over facsimile transmission in a packet network.All the packages have been editorially modified to align with the H.248.1 Packages Template.\r\nNOTE - This Recommendation has been renumbered. It was previously known as ITU-T Rec. H.248, Annex F."
 status:
   stage:
     content: Withdrawal
@@ -93,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Facsimile, text conversation and call discrimination
-        packages'
+      content: 'Gateway control protocol: Facsimile, text conversation and call discrimination packages'
     docidentifier:
     - content: H.248.2 (03/2013)
       type: ITU
@@ -114,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Facsimile, text conversation and call discrimination
-        packages'
+      content: 'Gateway control protocol: Facsimile, text conversation and call discrimination packages'
     docidentifier:
     - content: H.248.2 (11/2000)
       type: ITU
@@ -135,9 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -157,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -168,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -179,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -190,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -211,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -242,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

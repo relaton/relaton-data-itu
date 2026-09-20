@@ -1,16 +1,16 @@
----
 id: ITUTJSuppl13112023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T J.1036 – Factual subscriber-base reporting and protected content
-    delivery in conditional access system – Test methods
+  content: ITU-T J.1036 – Factual subscriber-base reporting and protected content delivery in conditional access system – Test methods
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.Sup13-202311-I
+  content: https://handle.itu.int/11.1002/1000/15783
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.Sup13-202311-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J Suppl. 13 (11/2023)
   type: ITU
@@ -51,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 13 to ITU-T J-series provides the clause-by-clause test procedures
-    and expected results for each clause of Recommendation ITU-T J.1036 such as log
-    requirements, reports requirements, database requirements, security requirements
-    and more. By applying these test procedures on conditional access system (CAS),
-    two major concerns, 'underreporting of subscribers' and 'content piracy', leading
-    to revenue loss to broadcasters, content providers and the governments', can easily
-    be ascertained.\r\nCAS having sub-standard solutions can be prone to manipulations
-    and vulnerable to hacking, leading to loss of revenue to the concerned broadcasters
-    and the government. Therefore, it is necessary to use tested and certified CAS
-    systems to ensure factual reporting of the subscriber-base and protected delivery
-    of content to authorised subscribers. The purpose of this Supplement is to frame
-    the testing methodology against the various technical requirements of CAS.\r\nIn
-    addition to developing a framework for standardization (i.e., technical requirements),
-    some countries have issued provisions for assuring broadcasters and content providers
-    that each CAS system has to conform to certain technical features and get tested
-    by a certified lab before deployment so that piracy and other malpractices can
-    be minimized.\r\n\r\n"
+  content: "Supplement 13 to ITU-T J-series provides the clause-by-clause test procedures and expected results for each clause of Recommendation ITU-T J.1036 such as log requirements, reports requirements, database requirements, security requirements and more. By applying these test procedures on conditional access system (CAS), two major concerns, 'underreporting of subscribers' and 'content piracy', leading to revenue loss to broadcasters, content providers and the governments', can easily be ascertained.\r\nCAS having sub-standard solutions can be prone to manipulations and vulnerable to hacking, leading to loss of revenue to the concerned broadcasters and the government. Therefore, it is necessary to use tested and certified CAS systems to ensure factual reporting of the subscriber-base and protected delivery of content to authorised subscribers. The purpose of this Supplement is to frame the testing methodology against the various technical requirements of CAS.\r\nIn addition to developing a framework for standardization (i.e., technical requirements), some countries have issued provisions for assuring broadcasters and content providers that each CAS system has to conform to certain technical features and get tested by a certified lab before deployment so that piracy and other malpractices can be minimized.\r\n\r\n"
 status:
   stage:
     content: Published

@@ -1,13 +1,14 @@
----
 id: ITUTM1375101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Maintenance of international data transmission systems operating in the
-    range 48 kbit/s to 64 kbit/s
+  content: Maintenance of international data transmission systems operating in the range 48 kbit/s to 64 kbit/s
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/5845
 docidentifier:
 - content: ITU-T M.1375 (10/1984)
   type: ITU
@@ -97,8 +98,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Maintenance of international data transmission systems operating at
-        48 kbit/s and above
+      content: Maintenance of international data transmission systems operating at 48 kbit/s and above
     docidentifier:
     - content: M.1375 (11/1988)
       type: ITU

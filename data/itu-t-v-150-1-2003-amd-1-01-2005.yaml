@@ -1,16 +1,16 @@
----
 id: ITUTV15012003Amd1012005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Modification to SSE reason identifier codes to support voice band data
-    and text relay
+  content: Modification to SSE reason identifier codes to support voice band data and text relay
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.150.1-200501-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/7466
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.150.1-200501-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.150.1 (2003) Amd. 1 (01/2005)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment to ITU-T Rec. V.150.1 adds new code definitions to the SSE
-    Protocol Reason Identifier Codes (RIC) contained in Table 12/V.150.1, which are
-    intended to support the SSE protocol in ITU-T Rec. V.152 and the Text Relay.
+  content: This amendment to ITU-T Rec. V.150.1 adds new code definitions to the SSE Protocol Reason Identifier Codes (RIC) contained in Table 12/V.150.1, which are intended to support the SSE protocol in ITU-T Rec. V.152 and the Text Relay.
 status:
   stage:
     content: Published
@@ -99,8 +97,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of
-        V-series DCEs'
+      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of V-series DCEs'
     docidentifier:
     - content: V.150.1 (01/2003)
       type: ITU

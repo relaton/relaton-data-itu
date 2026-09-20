@@ -1,13 +1,14 @@
----
 id: ITUTQ2101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signal receivers for automatic and semi-automatic working, used for manual
-    working
+  content: Signal receivers for automatic and semi-automatic working, used for manual working
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/5933
 docidentifier:
 - content: ITU-T Q.2 (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signal receivers for automatic and semi-automatic working, used for
-        manual working
+      content: Signal receivers for automatic and semi-automatic working, used for manual working
     docidentifier:
     - content: Q.2 (11/1988)
       type: ITU
@@ -78,8 +78,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signal receivers for automatic and semi-automatic working, used for
-        manual working
+      content: Signal receivers for automatic and semi-automatic working, used for manual working
     docidentifier:
     - content: Q.2 (11/1980)
       type: ITU
@@ -89,8 +88,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signal receivers for automatic and semi-automatic working, used for
-        manual working
+      content: Signal receivers for automatic and semi-automatic working, used for manual working
     docidentifier:
     - content: Q.2 (10/1976)
       type: ITU
@@ -130,8 +128,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Number portability – Capability set 1 requirements for service provider
-        portability (All call query and Onward routing)
+      content: Number portability – Capability set 1 requirements for service provider portability (All call query and Onward routing)
     docidentifier:
     - content: Q Suppl. 4 (05/1998)
       type: ITU
@@ -141,8 +138,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Number portability – Capability set 2 requirements for service provider
-        portabilty (Query on release and Dropback)
+      content: Number portability – Capability set 2 requirements for service provider portabilty (Query on release and Dropback)
     docidentifier:
     - content: Q Suppl. 5 (03/1999)
       type: ITU
@@ -152,8 +148,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2001: General aspects for the development of
-        unified signalling requirements'
+      content: 'Technical Report TRQ.2001: General aspects for the development of unified signalling requirements'
     docidentifier:
     - content: Q Suppl. 7 (03/1999)
       type: ITU
@@ -163,8 +158,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2400: Transport control signalling requirements
-        – Signalling requirements for AAL Type 2 link control capability set 1'
+      content: 'Technical Report TRQ.2400: Transport control signalling requirements – Signalling requirements for AAL Type 2 link control capability set 1'
     docidentifier:
     - content: Q Suppl. 8 (03/1999)
       type: ITU
@@ -174,8 +168,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2000: Roadmap for the TRQ.2xxx-series Technical
-        Reports'
+      content: 'Technical Report TRQ.2000: Roadmap for the TRQ.2xxx-series Technical Reports'
     docidentifier:
     - content: Q Suppl. 9 (03/2004)
       type: ITU
@@ -205,8 +198,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2100: Coordinated call control and bearer control
-        signalling requirements – Root-party coordinated call and bearer control'
+      content: 'Technical Report TRQ.2100: Coordinated call control and bearer control signalling requirements – Root-party coordinated call and bearer control'
     docidentifier:
     - content: Q Suppl. 12 (12/1999)
       type: ITU
@@ -216,8 +208,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2110: Coordinated call control and bearer control
-        signalling requirements – Leaf-party coordinated call and bearer control'
+      content: 'Technical Report TRQ.2110: Coordinated call control and bearer control signalling requirements – Leaf-party coordinated call and bearer control'
     docidentifier:
     - content: Q Suppl. 13 (12/1999)
       type: ITU
@@ -227,8 +218,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2120: Coordinated call control and bearer control
-        signalling requirements – Third-party coordinated call and bearer control'
+      content: 'Technical Report TRQ.2120: Coordinated call control and bearer control signalling requirements – Third-party coordinated call and bearer control'
     docidentifier:
     - content: Q Suppl. 14 (12/1999)
       type: ITU
@@ -238,8 +228,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2130: Coordinated call control and bearer control
-        signalling requirements for leaf initiated join service'
+      content: 'Technical Report TRQ.2130: Coordinated call control and bearer control signalling requirements for leaf initiated join service'
     docidentifier:
     - content: Q Suppl. 15 (12/1999)
       type: ITU
@@ -249,8 +238,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2140: Signalling requirements for the support
-        of narrowband services via broadband transport technologies'
+      content: 'Technical Report TRQ.2140: Signalling requirements for the support of narrowband services via broadband transport technologies'
     docidentifier:
     - content: Q Suppl. 16 (12/1999)
       type: ITU
@@ -260,8 +248,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2200: Call control signalling requirements –
-        Party call control'
+      content: 'Technical Report TRQ.2200: Call control signalling requirements – Party call control'
     docidentifier:
     - content: Q Suppl. 17 (12/1999)
       type: ITU
@@ -271,8 +258,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2230: Call control signalling requirements –
-        Join call service'
+      content: 'Technical Report TRQ.2230: Call control signalling requirements – Join call service'
     docidentifier:
     - content: Q Suppl. 18 (12/1999)
       type: ITU
@@ -282,8 +268,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2300: Bearer control signalling requirements
-        – Root-party bearer control'
+      content: 'Technical Report TRQ.2300: Bearer control signalling requirements – Root-party bearer control'
     docidentifier:
     - content: Q Suppl. 19 (12/1999)
       type: ITU
@@ -293,8 +278,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2310: Bearer control signalling requirements
-        – Leaf-party bearer control'
+      content: 'Technical Report TRQ.2310: Bearer control signalling requirements – Leaf-party bearer control'
     docidentifier:
     - content: Q Suppl. 20 (12/1999)
       type: ITU
@@ -304,8 +288,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2320: Bearer control signalling requirements
-        – Third-party bearer control'
+      content: 'Technical Report TRQ.2320: Bearer control signalling requirements – Third-party bearer control'
     docidentifier:
     - content: Q Suppl. 21 (12/1999)
       type: ITU
@@ -315,8 +298,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.3000: Operation of the bearer independant call
-        control (BICC) protocol with digital subscriber signalling system No. 2 (DSS2)'
+      content: 'Technical Report TRQ.3000: Operation of the bearer independant call control (BICC) protocol with digital subscriber signalling system No. 2 (DSS2)'
     docidentifier:
     - content: Q Suppl. 22 (12/1999)
       type: ITU
@@ -326,9 +308,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.3020: Operation of the bearer independant call
-        control (BICC) protocol with broadband integrated services digital network
-        user part (B-ISUP) for AAL Type 1 adaptation'
+      content: 'Technical Report TRQ.3020: Operation of the bearer independant call control (BICC) protocol with broadband integrated services digital network user part (B-ISUP) for AAL Type 1 adaptation'
     docidentifier:
     - content: Q Suppl. 24 (12/1999)
       type: ITU
@@ -338,9 +318,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -350,8 +328,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU
@@ -361,8 +338,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report: Signalling and protocol framework for an emerging
-        environment (SPFEE) – Specifications for service access'
+      content: 'Technical Report: Signalling and protocol framework for an emerging environment (SPFEE) – Specifications for service access'
     docidentifier:
     - content: Q Suppl. 28 (12/1999)
       type: ITU
@@ -382,9 +358,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2141.0: Signalling requirements for the support
-        of narrow-band services over broadband transport technologies – Capability
-        set 2 (CS-2)'
+      content: 'Technical Report TRQ.2141.0: Signalling requirements for the support of narrow-band services over broadband transport technologies – Capability set 2 (CS-2)'
     docidentifier:
     - content: Q Suppl. 31 (12/2000)
       type: ITU
@@ -394,9 +368,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2141.1: Signalling requirements for the support
-        of narrowband services via broadband transport technologies – CS-2 signalling
-        flows'
+      content: 'Technical Report TRQ.2141.1: Signalling requirements for the support of narrowband services via broadband transport technologies – CS-2 signalling flows'
     docidentifier:
     - content: Q Suppl. 32 (11/2002)
       type: ITU
@@ -406,8 +378,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2401: Transport control signalling requirements
-        – Signalling requirements for AAL type 2 link control capability set 2'
+      content: 'Technical Report TRQ.2401: Transport control signalling requirements – Signalling requirements for AAL type 2 link control capability set 2'
     docidentifier:
     - content: Q Suppl. 33 (12/2000)
       type: ITU
@@ -417,8 +388,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2410: Signalling Requirements Capability Set
-        1 for the support of IP Bearer Control in BICC networks'
+      content: 'Technical Report TRQ.2410: Signalling Requirements Capability Set 1 for the support of IP Bearer Control in BICC networks'
     docidentifier:
     - content: Q Suppl. 34 (12/2000)
       type: ITU
@@ -428,8 +398,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2500: Signalling Requirements for the support
-        of the call bearer control interface (CS-1)'
+      content: 'Technical Report TRQ.2500: Signalling Requirements for the support of the call bearer control interface (CS-1)'
     docidentifier:
     - content: Q Suppl. 35 (12/2000)
       type: ITU
@@ -439,8 +408,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.3030: Operation of the bearer independent call
-        control (BICC) protocol (CS-2) with IP bearer control protocol (IPBCP)'
+      content: 'Technical Report TRQ.3030: Operation of the bearer independent call control (BICC) protocol (CS-2) with IP bearer control protocol (IPBCP)'
     docidentifier:
     - content: Q Suppl. 36 (12/2000)
       type: ITU
@@ -460,8 +428,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2600: BICC signalling transport requirements
-        – Capability set 1'
+      content: 'Technical Report TRQ.2600: BICC signalling transport requirements – Capability set 1'
     docidentifier:
     - content: Q Suppl. 38 (05/2001)
       type: ITU
@@ -471,8 +438,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2700: Requirements for signalling in access networks
-        that support BICC'
+      content: 'Technical Report TRQ.2700: Requirements for signalling in access networks that support BICC'
     docidentifier:
     - content: Q Suppl. 39 (03/2002)
       type: ITU
@@ -482,8 +448,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report: Reference document on API/object interface between
-        network control and application layer'
+      content: 'Technical Report: Reference document on API/object interface between network control and application layer'
     docidentifier:
     - content: Q Suppl. 40 (11/2002)
       type: ITU
@@ -493,8 +458,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2003: Roadmap to the BICC protocol Recommendations,
-        BICC interworking Recommendations, and BICC requirement Supplements'
+      content: 'Technical Report TRQ.2003: Roadmap to the BICC protocol Recommendations, BICC interworking Recommendations, and BICC requirement Supplements'
     docidentifier:
     - content: Q Suppl. 41 (11/2002)
       type: ITU
@@ -504,8 +468,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2402: Transport control signalling requirements
-        – Signalling requirements for AAL type 2 link control Capability Set 3'
+      content: 'Technical Report TRQ.2402: Transport control signalling requirements – Signalling requirements for AAL type 2 link control Capability Set 3'
     docidentifier:
     - content: Q Suppl. 42 (09/2003)
       type: ITU
@@ -515,9 +478,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2415: Transport control signalling requirements
-        – Signalling requirements for IP connection control in radio access networks
-        Capability Set 1'
+      content: 'Technical Report TRQ.2415: Transport control signalling requirements – Signalling requirements for IP connection control in radio access networks Capability Set 1'
     docidentifier:
     - content: Q Suppl. 43 (09/2003)
       type: ITU
@@ -527,9 +488,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2800: Transport control signalling requirements
-        – Signalling requirements for AAL type 2 to IP interworking Capability Set
-        1'
+      content: 'Technical Report TRQ.2800: Transport control signalling requirements – Signalling requirements for AAL type 2 to IP interworking Capability Set 1'
     docidentifier:
     - content: Q Suppl. 44 (09/2003)
       type: ITU
@@ -539,9 +498,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2815: Requirements for interworking BICC/ISUP
-        network with originating/destination networks based on Session Initiation
-        Protocol and Session Description Protocol'
+      content: 'Technical Report TRQ.2815: Requirements for interworking BICC/ISUP network with originating/destination networks based on Session Initiation Protocol and Session Description Protocol'
     docidentifier:
     - content: Q Suppl. 45 (09/2003)
       type: ITU
@@ -551,8 +508,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2830: ATM-MPLS network interworking signalling
-        requirements'
+      content: 'Technical Report TRQ.2830: ATM-MPLS network interworking signalling requirements'
     docidentifier:
     - content: Q Suppl. 46 (09/2003)
       type: ITU
@@ -562,8 +518,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Emergency services for IMT-2000 networks – Requirements for harmonization
-        and convergence
+      content: Emergency services for IMT-2000 networks – Requirements for harmonization and convergence
     docidentifier:
     - content: Q Suppl. 47 (11/2003)
       type: ITU
@@ -573,8 +528,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guideline document for specifying API/object interface between network
-        control and application layer
+      content: Guideline document for specifying API/object interface between network control and application layer
     docidentifier:
     - content: Q Suppl. 48 (03/2004)
       type: ITU
@@ -594,8 +548,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Technical Report TRQ.2145: Requirements for a Narrow-band Signalling
-        Syntax (NSS)'
+      content: 'Technical Report TRQ.2145: Requirements for a Narrow-band Signalling Syntax (NSS)'
     docidentifier:
     - content: Q Suppl. 50 (03/2004)
       type: ITU
@@ -625,8 +578,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling requirements to support the International Emergency Preference
-        Scheme (IEPS)
+      content: Signalling requirements to support the International Emergency Preference Scheme (IEPS)
     docidentifier:
     - content: Q Suppl. 53 (09/2005)
       type: ITU
@@ -666,8 +618,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling requirements to support the emergency telecommunications
-        service (ETS) in IP networks
+      content: Signalling requirements to support the emergency telecommunications service (ETS) in IP networks
     docidentifier:
     - content: Q Suppl. 57 (01/2008)
       type: ITU
@@ -697,8 +648,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Evaluation of signalling protocols to support ITU-T Y.2171 admission
-        control priority levels
+      content: Evaluation of signalling protocols to support ITU-T Y.2171 admission control priority levels
     docidentifier:
     - content: Q Suppl. 61 (04/2010)
       type: ITU
@@ -708,8 +658,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of the work of standards development organizations and other
-        organizations on the emergency telecommunications service
+      content: Overview of the work of standards development organizations and other organizations on the emergency telecommunications service
     docidentifier:
     - content: Q Suppl. 62 (02/2014)
       type: ITU
@@ -719,8 +668,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling protocol mappings in support of the Emergency Telecommunications
-        Service in IP networks
+      content: Signalling protocol mappings in support of the Emergency Telecommunications Service in IP networks
     docidentifier:
     - content: Q Suppl. 63 (06/2013)
       type: ITU
@@ -750,8 +698,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report on emergency telecommunication service (ETS) interoperability
-        limitations
+      content: Technical Report on emergency telecommunication service (ETS) interoperability limitations
     docidentifier:
     - content: Q Suppl. 68 (12/2015)
       type: ITU
@@ -761,8 +708,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Framework for interconnection between VoLTE-based networks and other
-        networks supporting emergency call
+      content: Framework for interconnection between VoLTE-based networks and other networks supporting emergency call
     docidentifier:
     - content: Q Suppl. 69 (11/2025)
       type: ITU
@@ -772,8 +718,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling requirements for IMS and GSM/UMTS network supporting multi-device
-        emergency telecommunications service
+      content: Signalling requirements for IMS and GSM/UMTS network supporting multi-device emergency telecommunications service
     docidentifier:
     - content: Q Suppl. 70 (06/2019)
       type: ITU
@@ -783,8 +728,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling requirements for IP multimedia subsystem (IMS) emergency
-        call in support of multiple access
+      content: Signalling requirements for IP multimedia subsystem (IMS) emergency call in support of multiple access
     docidentifier:
     - content: Q Suppl. 72 (11/2025)
       type: ITU
@@ -794,8 +738,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for permissive versus restrictive system implementations
-        to address counterfeit, stolen and illegal mobile devices
+      content: Guidelines for permissive versus restrictive system implementations to address counterfeit, stolen and illegal mobile devices
     docidentifier:
     - content: Q Suppl. 73 (03/2021)
       type: ITU
@@ -805,8 +748,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Roadmap for the ITU-T Q.5050-series - Combat of counterfeit ICT and
-        stolen mobile devices
+      content: Roadmap for the ITU-T Q.5050-series - Combat of counterfeit ICT and stolen mobile devices
     docidentifier:
     - content: Q Suppl. 74 (03/2021)
       type: ITU
@@ -826,8 +768,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling requirements of service function chaining (SFC) with non-uniformly
-        encoded service index in service forwarding path (SFP) changing scenarios
+      content: Signalling requirements of service function chaining (SFC) with non-uniformly encoded service index in service forwarding path (SFP) changing scenarios
     docidentifier:
     - content: Q Suppl. 78 (02/2025)
       type: ITU
@@ -837,8 +778,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Implementation of software-defined wide area networking (SD-WAN) service
-        based on segment routing IPv6 (SRv6)
+      content: Implementation of software-defined wide area networking (SD-WAN) service based on segment routing IPv6 (SRv6)
     docidentifier:
     - content: Q Suppl. 79 (11/2025)
       type: ITU
@@ -848,8 +788,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling requirements for broadband network gateway pool based on
-        function decoupling
+      content: Signalling requirements for broadband network gateway pool based on function decoupling
     docidentifier:
     - content: Q Suppl. 80 (03/2026)
       type: ITU
@@ -859,8 +798,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling requirements for inter-domain software-defined wide area
-        networking service
+      content: Signalling requirements for inter-domain software-defined wide area networking service
     docidentifier:
     - content: Q Suppl. 81 (03/2026)
       type: ITU
@@ -880,8 +818,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines on combating counterfeit, tampered and stolen mobile devices
-        in the African Region
+      content: Guidelines on combating counterfeit, tampered and stolen mobile devices in the African Region
     docidentifier:
     - content: Q Suppl. 83 (07/2026)
       type: ITU

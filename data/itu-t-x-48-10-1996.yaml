@@ -1,16 +1,16 @@
----
 id: ITUTX48101996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for the provision of a basic multicast service for data terminal
-    equipments (DTEs) using Recommendation X.25
+  content: Procedures for the provision of a basic multicast service for data terminal equipments (DTEs) using Recommendation X.25
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.48-199610-I
+  content: https://handle.itu.int/11.1002/1000/3691
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.48-199610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.48 (10/1996)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the procedures for a Data Terminal Equipment
-    (DTE) opereating in accordance with Recommendation X.25 to participate in a multicast
-    data transmission service described in Recommendation X.6. The overriding goal
-    of this Recommendation is to make no changes to the DTE which wishes to participate
-    in this service
+  content: This Recommendation specifies the procedures for a Data Terminal Equipment (DTE) opereating in accordance with Recommendation X.25 to participate in a multicast data transmission service described in Recommendation X.6. The overriding goal of this Recommendation is to make no changes to the DTE which wishes to participate in this service
 status:
   stage:
     content: Published

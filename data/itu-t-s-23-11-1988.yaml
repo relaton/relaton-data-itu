@@ -1,16 +1,16 @@
----
 id: ITUTS23111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Automatic request of the answerback of the terminal of the calling party,
-    by the telex terminal of the called party or by the international network
+  content: Automatic request of the answerback of the terminal of the calling party, by the telex terminal of the called party or by the international network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-S.23-198811-S
+  content: https://handle.itu.int/11.1002/1000/2461
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-S.23-198811-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T S.23 (11/1988)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Automatic request of the answerback of the terminal of the calling
-        party, by the telex terminal of the called party or by the international network
+      content: Automatic request of the answerback of the terminal of the calling party, by the telex terminal of the called party or by the international network
     docidentifier:
     - content: S.23 (03/1993)
       type: ITU

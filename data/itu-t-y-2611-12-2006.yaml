@@ -1,4 +1,3 @@
----
 id: ITUTY2611122006
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.2611-200612-I
+  content: https://handle.itu.int/11.1002/1000/8970
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.2611-200612-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.2611 (12/2006)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation Y.2611 specifies a high-level architecture for future
-    packet-based networks (FPBNs). This Recommendation also specifies the relationship
-    between an FPBN and the NGN strata and the interfaces in an FPBN.In order to be
-    able to provide a full suite of services (examples of which include data, video
-    and voice telephony services) to their customers, operators may need to utilize
-    both connectionless packet switched (cl-ps) and connection-oriented packet-switched
-    (co-ps) transport modes. This is because each mode is well suited to the transport
-    of some services and not so well suited to the transport of others.FPBNs provide
-    the topmost layer(s) of the transport stratum as defined in ITU-T Recommendation
-    Y.2011. The services mentioned above form part of the service stratum as defined
-    in ITU-T Recommendation Y.2011.
+  content: ITU-T Recommendation Y.2611 specifies a high-level architecture for future packet-based networks (FPBNs). This Recommendation also specifies the relationship between an FPBN and the NGN strata and the interfaces in an FPBN.In order to be able to provide a full suite of services (examples of which include data, video and voice telephony services) to their customers, operators may need to utilize both connectionless packet switched (cl-ps) and connection-oriented packet-switched (co-ps) transport modes. This is because each mode is well suited to the transport of some services and not so well suited to the transport of others.FPBNs provide the topmost layer(s) of the transport stratum as defined in ITU-T Recommendation Y.2011. The services mentioned above form part of the service stratum as defined in ITU-T Recommendation Y.2011.
 status:
   stage:
     content: Published
@@ -90,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000 series – Supplement on service scenarios for convergence
-        services in a multiple network and application service provider environment
+      content: ITU-T Y.2000 series – Supplement on service scenarios for convergence services in a multiple network and application service provider environment
     docidentifier:
     - content: Y Suppl. 3 (01/2008)
       type: ITU
@@ -101,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in
-        next generation networks
+      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in next generation networks
     docidentifier:
     - content: Y Suppl. 6 (09/2008)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and
-        consortia
+      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and consortia
     docidentifier:
     - content: Y Suppl. 8 (01/2010)
       type: ITU
@@ -143,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on distributed service network (DSN)
-        use cases
+      content: ITU-T Y.2000-series – Supplement on distributed service network (DSN) use cases
     docidentifier:
     - content: Y Suppl. 10 (01/2010)
       type: ITU
@@ -154,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2600-series – Supplement on scenarios for independent scalable
-        control plane (iSCP) in future packet-based networks (FPBN)
+      content: ITU-T Y.2600-series – Supplement on scenarios for independent scalable control plane (iSCP) in future packet-based networks (FPBN)
     docidentifier:
     - content: Y Suppl. 11 (01/2010)
       type: ITU
@@ -165,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series - Supplement on scenarios for the evolution of
-        NGN network capabilities to include information storage, processing and delivery
+      content: ITU-T Y.2000-series - Supplement on scenarios for the evolution of NGN network capabilities to include information storage, processing and delivery
     docidentifier:
     - content: Y Suppl. 13 (01/2011)
       type: ITU
@@ -176,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile
-        convergence
+      content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile convergence
     docidentifier:
     - content: Y Suppl. 14 (01/2011)
       type: ITU
@@ -187,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Profile-based application adaptation service
-        using next generation networks
+      content: ITU-T Y.2000-series – Profile-based application adaptation service using next generation networks
     docidentifier:
     - content: Y Suppl. 15 (10/2011)
       type: ITU
@@ -198,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series - Supplement on N-screen service scenarios for
-        fixed mobile convergence
+      content: ITU-T Y.2000-series - Supplement on N-screen service scenarios for fixed mobile convergence
     docidentifier:
     - content: Y Suppl. 24 (11/2013)
       type: ITU
@@ -209,9 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2600-series – Scenario and requirements of reconfigurable networking
-        based on minimum network functions and network polymorphism in future packet
-        based networks
+      content: ITU-T Y.2600-series – Scenario and requirements of reconfigurable networking based on minimum network functions and network polymorphism in future packet based networks
     docidentifier:
     - content: Y Suppl. 26 (12/2015)
       type: ITU
@@ -221,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Device independent screen-free service models
-        and scenarios
+      content: ITU-T Y.2000-series – Device independent screen-free service models and scenarios
     docidentifier:
     - content: Y Suppl. 51 (11/2018)
       type: ITU
@@ -252,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -263,8 +241,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -274,8 +251,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

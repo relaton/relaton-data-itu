@@ -1,16 +1,16 @@
----
 id: ITUTXSuppl2092007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.800-X.849 series – Supplement on security baseline for network
-    operators
+  content: ITU-T X.800-X.849 series – Supplement on security baseline for network operators
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup2-200709-I
+  content: https://handle.itu.int/11.1002/1000/9360
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup2-200709-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 2 (09/2007)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 2 to ITU-T X.800 series of Recommendations defines a security
-    baseline against which network operators can assess their network and information
-    security status in terms of readiness and ability to collaborate with other entities
-    (operators, users and law enforcement authorities) to counteract information security
-    threats. This supplement can be used by network operators to provide meaningful
-    criteria against which each network operator can be assessed if required.
+  content: Supplement 2 to ITU-T X.800 series of Recommendations defines a security baseline against which network operators can assess their network and information security status in terms of readiness and ability to collaborate with other entities (operators, users and law enforcement authorities) to counteract information security threats. This supplement can be used by network operators to provide meaningful criteria against which each network operator can be assessed if required.
 status:
   stage:
     content: Published

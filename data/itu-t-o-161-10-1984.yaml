@@ -1,13 +1,14 @@
----
 id: ITUTO161101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specification for an in-service code violation monitor for digital transmission
-    systems
+  content: Specification for an in-service code violation monitor for digital transmission systems
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/5899
 docidentifier:
 - content: ITU-T O.161 (10/1984)
   type: ITU
@@ -77,8 +78,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification for an in-service code violation monitor for digital
-        transmission systems
+      content: Specification for an in-service code violation monitor for digital transmission systems
     docidentifier:
     - content: O.161 (11/1980)
       type: ITU

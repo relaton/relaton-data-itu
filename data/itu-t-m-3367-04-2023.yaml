@@ -1,16 +1,16 @@
----
 id: ITUTM3367042023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements for robot-based on-site smart patrol of telecommunication
-    networks
+  content: Requirements for robot-based on-site smart patrol of telecommunication networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3367-202304-I
+  content: https://handle.itu.int/11.1002/1000/15515
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3367-202304-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3367 (04/2023)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3367 introduces requirements for intelligent maintenance
-    robots (IMRs) based on-site smart patrol of telecommunication networks, includes
-    the network elements to be patrolled, requirements for management function of
-    IMR-based patrol and related management interfaces.
+  content: Recommendation ITU-T M.3367 introduces requirements for intelligent maintenance robots (IMRs) based on-site smart patrol of telecommunication networks, includes the network elements to be patrolled, requirements for management function of IMR-based patrol and related management interfaces.
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl36122000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.3030: Operation of the bearer independent call control
-    (BICC) protocol (CS-2) with IP bearer control protocol (IPBCP)'
+  content: 'Technical Report TRQ.3030: Operation of the bearer independent call control (BICC) protocol (CS-2) with IP bearer control protocol (IPBCP)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup36-200012-I
+  content: https://handle.itu.int/11.1002/1000/5469
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup36-200012-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 36 (12/2000)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement to ITU-T Recommendation Q.1902 describes the general aspects
-    of the operation of the Bearer Independent Call Control (BICC) protocol Capability
-    Set 2 (CS-2) with IP Bearer Control Protocol, used to control IP Bearer Connections.
+  content: This Supplement to ITU-T Recommendation Q.1902 describes the general aspects of the operation of the Bearer Independent Call Control (BICC) protocol Capability Set 2 (CS-2) with IP Bearer Control Protocol, used to control IP Bearer Connections.
 status:
   stage:
     content: Published

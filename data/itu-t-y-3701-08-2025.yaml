@@ -1,16 +1,16 @@
----
 id: ITUTY3701082025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data handling – Functional requirements of collaborative data processing
-    in data platforms
+  content: Data handling – Functional requirements of collaborative data processing in data platforms
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3701-202508-I
+  content: https://handle.itu.int/11.1002/1000/16451
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3701-202508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3701 (08/2025)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3701 provides the functional requirements for collaborative
-    data processing in data platforms. It describes the framework for enabling multiple
-    users and systems to work together on large datasets through integrated data pipelines,
-    shared workspaces, distributed provenance tracking and secure access control.
-    This Recommendation extends established big data activities and roles – such as
-    collaborative data processing (CDP) provider, data service provider and CDP customer
-    – to ensure scalable, reliable and efficient collaborative processing within a
-    big data ecosystem. \r\n"
+  content: "Recommendation ITU-T Y.3701 provides the functional requirements for collaborative data processing in data platforms. It describes the framework for enabling multiple users and systems to work together on large datasets through integrated data pipelines, shared workspaces, distributed provenance tracking and secure access control. This Recommendation extends established big data activities and roles – such as collaborative data processing (CDP) provider, data service provider and CDP customer – to ensure scalable, reliable and efficient collaborative processing within a big data ecosystem. \r\n"
 status:
   stage:
     content: Published
@@ -98,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -129,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -140,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -151,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -162,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

@@ -1,17 +1,16 @@
----
 id: ITUTJ187072002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Transport mechanism for component-coded digital high-definition television
-    signals using MPEG-2 video coding including all service elements for contribution
-    and primary distribution
+  content: Transport mechanism for component-coded digital high-definition television signals using MPEG-2 video coding including all service elements for contribution and primary distribution
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.187-200207-I
+  content: https://handle.itu.int/11.1002/1000/6116
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.187-200207-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.187 (07/2002)
   type: ITU
@@ -52,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the general transport mechanism for conveying
-    all the service elements required for contribution and primary distribution applications
-    of TV programs whose vertical resolution is quite high compared to 525/60 or 625/50
-    television systems (e.g. 1125/60 system) using the MPEG-2 4:2:2 profile or Main
-    profile at High level compression. The service elements provided to MPEG-2 coding
-    systems are assumed to be (4:2:2) component video signals, studio quality audio
-    signals and various data signals, e.g. time code. This Recommendation ensures
-    the compatibility on the level of the bit-stream into a decoder. It is based on
-    and is in conformity with the MPEG-2 standard ITU-T Rec. H.222.0 | ISO/IEC 13818-1.
+  content: This Recommendation specifies the general transport mechanism for conveying all the service elements required for contribution and primary distribution applications of TV programs whose vertical resolution is quite high compared to 525/60 or 625/50 television systems (e.g. 1125/60 system) using the MPEG-2 4:2:2 profile or Main profile at High level compression. The service elements provided to MPEG-2 coding systems are assumed to be (4:2:2) component video signals, studio quality audio signals and various data signals, e.g. time code. This Recommendation ensures the compatibility on the level of the bit-stream into a decoder. It is based on and is in conformity with the MPEG-2 standard ITU-T Rec. H.222.0 | ISO/IEC 13818-1.
 status:
   stage:
     content: Published
@@ -88,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -99,10 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -112,9 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -134,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -145,8 +129,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -156,8 +139,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -167,8 +149,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -178,8 +159,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -189,8 +169,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -200,8 +179,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

@@ -1,10 +1,11 @@
----
 id: ITUTX6902002TechnicalCor1052007
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.690-200705-S!Cor1
+  content: https://handle.itu.int/11.1002/1000/9108
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.690-200705-S!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.690 (2002) Technical Cor. 1 (05/2007)
   type: ITU
@@ -48,9 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Technical Corrigendum 1 to ITU-T Recommendation X.690 | ISO/IEC 8825-1
-    clarifies the text defining the CER encoding of the last fragment of a bitstring,
-    octetstring or restricted character string.
+  content: Technical Corrigendum 1 to ITU-T Recommendation X.690 | ISO/IEC 8825-1 clarifies the text defining the CER encoding of the last fragment of a bitstring, octetstring or restricted character string.
 status:
   stage:
     content: Withdrawal
@@ -70,9 +69,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology - ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (02/2021)
       type: ITU
@@ -92,9 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (08/2015)
       type: ITU
@@ -120,9 +115,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (11/2008)
       type: ITU
@@ -152,9 +145,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (07/2002)
       type: ITU
@@ -190,9 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (12/1997)
       type: ITU
@@ -226,9 +215,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (07/1994)
       type: ITU

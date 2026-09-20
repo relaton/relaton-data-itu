@@ -1,13 +1,14 @@
----
 id: ITUTX57101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Method of transmitting a single lower speed data channel on a 64 kbit/s
-    data stream 29
+  content: Method of transmitting a single lower speed data channel on a 64 kbit/s data stream 29
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6909
 docidentifier:
 - content: ITU-T X.57 (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Method of transmitting a single lower speed data channel on a 64 kbit/s
-        data stream
+      content: Method of transmitting a single lower speed data channel on a 64 kbit/s data stream
     docidentifier:
     - content: X.57 (11/1988)
       type: ITU

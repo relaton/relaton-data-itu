@@ -1,16 +1,16 @@
----
 id: ITUTK41051998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Resistibility of internal interfaces of telecommunication centres to surge
-    overvoltages
+  content: Resistibility of internal interfaces of telecommunication centres to surge overvoltages
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.41-199805-W
+  content: https://handle.itu.int/11.1002/1000/4354
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.41-199805-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.41 (05/1998)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies test methods and levels for the resistibility
-    test against surge overvoltages on internal interface lines within a telecom centre
-    interconnecting the several system blocks. The tests simulate surge overvoltages
-    caused by magnetic fields from lightning strokes in or near the telecom building.
+  content: This Recommendation specifies test methods and levels for the resistibility test against surge overvoltages on internal interface lines within a telecom centre interconnecting the several system blocks. The tests simulate surge overvoltages caused by magnetic fields from lightning strokes in or near the telecom building.
 status:
   stage:
     content: Withdrawal

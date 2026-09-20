@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl27012016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.4400 series – Smart sustainable cities - Setting the framework
-    for an ICT architecture
+  content: ITU-T Y.4400 series – Smart sustainable cities - Setting the framework for an ICT architecture
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup27-201601-I
+  content: https://handle.itu.int/11.1002/1000/12753
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup27-201601-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 27 (01/2016)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Supplement describes the architecture terminology and the ICT architectural
-    framework of a smart sustainable city. From the views of software engineering,
-    communication and modular ICT architecture, it presents and concludes on corresponding
-    architecture views and guides. \r\n\r\nIt is applicable to ICT architecture for
-    Smart Sustainable Cities.\r\n"
+  content: "This Supplement describes the architecture terminology and the ICT architectural framework of a smart sustainable city. From the views of software engineering, communication and modular ICT architecture, it presents and concludes on corresponding architecture views and guides. \r\n\r\nIt is applicable to ICT architecture for Smart Sustainable Cities.\r\n"
 status:
   stage:
     content: Published

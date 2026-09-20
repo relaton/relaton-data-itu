@@ -1,16 +1,16 @@
----
 id: ITUTJ1036072023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Factual subscriber-base reporting and protected content delivery in conditional
-    access system – Requirements
+  content: Factual subscriber-base reporting and protected content delivery in conditional access system – Requirements
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.1036-202307-I
+  content: https://handle.itu.int/11.1002/1000/15581
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.1036-202307-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.1036 (07/2023)
   type: ITU
@@ -51,33 +51,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The objective of Recommendation ITU-T J.1036 is to address two major concerns
-    related to conditional access system (CAS), namely underreporting of subscriber
-    numbers and content piracy leading to revenue loss to broadcasters, content providers
-    and the governments.\nMost countries have implemented digital addressable systems
-    (DAS) for distribution platforms such as cable TV, direct to home (DTH), Internet
-    protocol television (IPTV), and headend in the sky (HITS), DAS enables subscribers
-    to have a choice and option to select their channels and packages. Conditional
-    access system (CAS) and subscriber management system (SMS) are integral parts
-    of a DAS environment. While CAS is responsible for encrypting the content and
-    its delivery in a secure and encrypted manner only to authorised subscribers,
-    SMS handles the subscriber management functions. The quality of service depends
-    on the CAS and SMS systems deployed by the distribution platform owner (DPO).
-    \nSince content providers and broadcasters have no control over the CAS and SMS,
-    as these are deployed at the DPO end, they often complain about the loss of revenue
-    due to various malpractices such as under-reporting of subscriber-base, distribution
-    of channels to unauthorised users, and content piracy.\nTherefore, it is necessary
-    to frame benchmarks for the CAS systems prescribing technical specifications focusing
-    on functional requirements to ensure factual reporting of the subscriber-base
-    and protected delivery of content to authorised subscribers. Creating a framework
-    that prevents the deployment of sub-standard CAS will bring preventive control
-    from potential threats and revenue losses arising due to the vulnerability of
-    such systems, bring economic efficiency, improve quality of service, and improve
-    the end-consumer experience.\nThis Recommendation thus elaborates the various
-    functional requirements of the CAS such as log requirements, reports requirements,
-    database requirements, security requirements, service requirements and more. Compliance
-    with these requirements in CAS performance will address the concerns mentioned
-    above.\n"
+  content: |
+    The objective of Recommendation ITU-T J.1036 is to address two major concerns related to conditional access system (CAS), namely underreporting of subscriber numbers and content piracy leading to revenue loss to broadcasters, content providers and the governments.
+    Most countries have implemented digital addressable systems (DAS) for distribution platforms such as cable TV, direct to home (DTH), Internet protocol television (IPTV), and headend in the sky (HITS), DAS enables subscribers to have a choice and option to select their channels and packages. Conditional access system (CAS) and subscriber management system (SMS) are integral parts of a DAS environment. While CAS is responsible for encrypting the content and its delivery in a secure and encrypted manner only to authorised subscribers, SMS handles the subscriber management functions. The quality of service depends on the CAS and SMS systems deployed by the distribution platform owner (DPO). 
+    Since content providers and broadcasters have no control over the CAS and SMS, as these are deployed at the DPO end, they often complain about the loss of revenue due to various malpractices such as under-reporting of subscriber-base, distribution of channels to unauthorised users, and content piracy.
+    Therefore, it is necessary to frame benchmarks for the CAS systems prescribing technical specifications focusing on functional requirements to ensure factual reporting of the subscriber-base and protected delivery of content to authorised subscribers. Creating a framework that prevents the deployment of sub-standard CAS will bring preventive control from potential threats and revenue losses arising due to the vulnerability of such systems, bring economic efficiency, improve quality of service, and improve the end-consumer experience.
+    This Recommendation thus elaborates the various functional requirements of the CAS such as log requirements, reports requirements, database requirements, security requirements, service requirements and more. Compliance with these requirements in CAS performance will address the concerns mentioned above.
 status:
   stage:
     content: Published
@@ -105,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -116,10 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -129,9 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -151,8 +124,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -162,8 +134,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -173,8 +144,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -184,8 +154,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -195,8 +164,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -206,8 +174,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -217,8 +184,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T J.1036 – Factual subscriber-base reporting and protected content
-        delivery in conditional access system – Test methods
+      content: ITU-T J.1036 – Factual subscriber-base reporting and protected content delivery in conditional access system – Test methods
     docidentifier:
     - content: J Suppl. 13 (11/2023)
       type: ITU
@@ -228,8 +194,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

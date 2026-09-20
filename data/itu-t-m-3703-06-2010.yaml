@@ -1,16 +1,16 @@
----
 id: ITUTM3703062010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Common management services - Alarm management – Protocol neutral requirements
-    and analysis
+  content: Common management services - Alarm management – Protocol neutral requirements and analysis
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3703-201006-I
+  content: https://handle.itu.int/11.1002/1000/10862
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3703-201006-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3703 (06/2010)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3703 provides the requirements and analysis for
-    one of the common management services - alarm management. The functional requirements
-    for the alarm management interface include the management functions for alarm
-    forwarding and filtering, clearing of alarms, storage and retrieval of alarms
-    in/from the agent, configuration of alarms, alarm acknowledgement and alarm notification
-    failure. In the analysis part, the detailed information model supporting the above
-    functions across the management interface is provided.
+  content: Recommendation ITU-T M.3703 provides the requirements and analysis for one of the common management services - alarm management. The functional requirements for the alarm management interface include the management functions for alarm forwarding and filtering, clearing of alarms, storage and retrieval of alarms in/from the agent, configuration of alarms, alarm acknowledgement and alarm notification failure. In the analysis part, the detailed information model supporting the above functions across the management interface is provided.
 status:
   stage:
     content: Published

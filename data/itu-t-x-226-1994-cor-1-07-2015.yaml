@@ -1,10 +1,11 @@
----
 id: ITUTX2261994Cor1072015
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.226-201507-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/12477
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.226-201507-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.226 (1994) Cor. 1 (07/2015)
   type: ITU
@@ -45,9 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 1 to Recommendation ITU-T X.226 (1994) provides corrections
-    to various problems. \r\nThis corrigendum applies only to Recommendation ITU-T
-    X.226 and not to its common text specification ISO/IEC 8823-1.\r\n"
+  content: "Corrigendum 1 to Recommendation ITU-T X.226 (1994) provides corrections to various problems. \r\nThis corrigendum applies only to Recommendation ITU-T X.226 and not to its common text specification ISO/IEC 8823-1.\r\n"
 status:
   stage:
     content: Published
@@ -97,8 +96,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Connection-oriented
-        Presentation protocol: Protocol specification'
+      content: 'Information technology – Open Systems Interconnection – Connection-oriented Presentation protocol: Protocol specification'
     docidentifier:
     - content: X.226 (07/1994)
       type: ITU
@@ -108,8 +106,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Presentation protocol specification for Open Systems Interconnection
-        for CCITT applications
+      content: Presentation protocol specification for Open Systems Interconnection for CCITT applications
     docidentifier:
     - content: X.226 (11/1988)
       type: ITU

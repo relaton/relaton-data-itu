@@ -1,4 +1,3 @@
----
 id: ITUTI211101984
 schema_version: v1.5.6
 type: standard
@@ -7,6 +6,9 @@ title:
   script: Latn
   content: Bearer services supported by an ISDN
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/5252
 docidentifier:
 - content: ITU-T I.211 (10/1984)
   type: ITU

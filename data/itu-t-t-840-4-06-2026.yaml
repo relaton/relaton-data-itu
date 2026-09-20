@@ -1,4 +1,3 @@
----
 id: ITUTT8404062026
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.840.4-202606-I
+  content: https://handle.itu.int/11.1002/1000/16817
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.840.4-202606-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.840.4 (06/2026)
   type: ITU
@@ -53,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.840.4 | ISO/IEC 6048-4 specifies testing procedures
-    for the image coding technology Rec. ITUT T.840.1 | ISO/IEC 6048-1, known as JPEG
-    AI learning-based image coding.\r\nThis Recommendation | International Standard
-    was developed collaboratively with ISO/IEC JTC 1/SC 29, and corresponds with ISO/IEC
-    6048-4 as common text.\r\n"
+  content: "Recommendation ITU-T T.840.4 | ISO/IEC 6048-4 specifies testing procedures for the image coding technology Rec. ITUT T.840.1 | ISO/IEC 6048-1, known as JPEG AI learning-based image coding.\r\nThis Recommendation | International Standard was developed collaboratively with ISO/IEC JTC 1/SC 29, and corresponds with ISO/IEC 6048-4 as common text.\r\n"
 status:
   stage:
     content: Published

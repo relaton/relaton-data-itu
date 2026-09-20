@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl79112023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end
-    cryptographic services with non-quantum cryptography
+  content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end cryptographic services with non-quantum cryptography
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup79-202311-I
+  content: https://handle.itu.int/11.1002/1000/15785
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup79-202311-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 79 (11/2023)
   type: ITU
@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Based on Recommendation ITU-T Y.3800, many study items have been successfully
-    developed and others are still being developed. However, in cases where mobile
-    objects (i.e., autonomous car, mobile phone, etc.) are to be supplied with a quantum
-    key distribution (QKD) service, there is a difficulty to establish and maintain
-    a quantum channel with them in a stable manner. Key supply agent-keys (KSAkeys)
-    are not able to be supported in this situation.\r\nKSA-keys generated from a quantum
-    key distribution network (QKDN) to mobile objects can be delivered through a user
-    network using modern cryptography technology (especially a key exchange protocol).\r\nTherefore,
-    the integration of a QKDN with non-quantum cryptography will enable the QKDN and
-    service providers to bring the cryptography service to a much wider range of businesses.\r\nFor
-    this purpose, the relationship between the QKDN and end-to-end (E2E) cryptography
-    services will be introduced in this Supplement. Then, relative use cases for the
-    integration of QKDN with non-quantum cryptography will be described. Finally,
-    based on the analysis of the detailed attributes of use cases, implications for
-    further study will be identified.\r\n"
+  content: "Based on Recommendation ITU-T Y.3800, many study items have been successfully developed and others are still being developed. However, in cases where mobile objects (i.e., autonomous car, mobile phone, etc.) are to be supplied with a quantum key distribution (QKD) service, there is a difficulty to establish and maintain a quantum channel with them in a stable manner. Key supply agent-keys (KSAkeys) are not able to be supported in this situation.\r\nKSA-keys generated from a quantum key distribution network (QKDN) to mobile objects can be delivered through a user network using modern cryptography technology (especially a key exchange protocol).\r\nTherefore, the integration of a QKDN with non-quantum cryptography will enable the QKDN and service providers to bring the cryptography service to a much wider range of businesses.\r\nFor this purpose, the relationship between the QKDN and end-to-end (E2E) cryptography services will be introduced in this Supplement. Then, relative use cases for the integration of QKDN with non-quantum cryptography will be described. Finally, based on the analysis of the detailed attributes of use cases, implications for further study will be identified.\r\n"
 status:
   stage:
     content: Published

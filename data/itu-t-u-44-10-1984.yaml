@@ -1,13 +1,14 @@
----
 id: ITUTU44101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Multi-address calls in real time for broadcast purposes in the international
-    telex service
+  content: Multi-address calls in real time for broadcast purposes in the international telex service
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6807
 docidentifier:
 - content: ITU-T U.44 (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Multi-address calls in real time for broadcast purposes in the international
-        telex service
+      content: Multi-address calls in real time for broadcast purposes in the international telex service
     docidentifier:
     - content: U.44 (11/1988)
       type: ITU

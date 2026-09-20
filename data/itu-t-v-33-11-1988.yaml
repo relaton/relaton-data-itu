@@ -1,16 +1,16 @@
----
 id: ITUTV33111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 14 400 bits per second modem standardized for use on point-to-point 4-wire
-    leased telephone-type circuits
+  content: 14 400 bits per second modem standardized for use on point-to-point 4-wire leased telephone-type circuits
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.33-198811-I
+  content: https://handle.itu.int/11.1002/1000/2755
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.33-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.33 (11/1988)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 14 400 bits per second modem standardized for use on point-to-point
-        4-wire leased telephone-type circuits
+      content: 14 400 bits per second modem standardized for use on point-to-point 4-wire leased telephone-type circuits
     docidentifier:
     - content: V.33 (08/1985)
       type: ITU

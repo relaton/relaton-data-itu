@@ -1,4 +1,3 @@
----
 id: ITUTY1550012019
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1550-201901-I
+  content: https://handle.itu.int/11.1002/1000/13848
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1550-201901-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1550 (01/2019)
   type: ITU
@@ -50,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: As network service providers seek to take advantage of the scale, flexible
-    deployment and cost reductions first realized in cloud computing, they have begun
-    to define new architectures for their infrastructure in order to realize network
-    function virtualization (NFV). At the same time, measurement functions will be
-    implemented for deployment as virtual functions. Recommendation ITU-T Y.1550 makes
-    recommendations in key areas such as on-demand deployment and accuracy considerations.
-    Development of virtualized measurement systems in areas highly relevant to SG
-    12 work are in the early stages, so this Recommendation is timely.
+  content: As network service providers seek to take advantage of the scale, flexible deployment and cost reductions first realized in cloud computing, they have begun to define new architectures for their infrastructure in order to realize network function virtualization (NFV). At the same time, measurement functions will be implemented for deployment as virtual functions. Recommendation ITU-T Y.1550 makes recommendations in key areas such as on-demand deployment and accuracy considerations. Development of virtualized measurement systems in areas highly relevant to SG 12 work are in the early stages, so this Recommendation is timely.
 status:
   stage:
     content: Published
@@ -97,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -108,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -119,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

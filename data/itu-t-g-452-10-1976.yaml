@@ -1,13 +1,14 @@
----
 id: ITUTG452101976
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interconnection of two radiotelephone circuits by means of a 4-wire landline
-    circuit
+  content: Interconnection of two radiotelephone circuits by means of a 4-wire landline circuit
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/9970
 docidentifier:
 - content: ITU-T G.452 (10/1976)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interconnection of two radiotelephone circuits by means of a four-wire
-        land-line circuit
+      content: Interconnection of two radiotelephone circuits by means of a four-wire land-line circuit
     docidentifier:
     - content: G.612 (12/1972)
       type: ITU

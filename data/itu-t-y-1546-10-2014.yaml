@@ -1,4 +1,3 @@
----
 id: ITUTY1546102014
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1546-201410-I
+  content: https://handle.itu.int/11.1002/1000/12328
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1546-201410-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1546 (10/2014)
   type: ITU
@@ -50,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Ubiquitous wireless access to IP-based networks in many areas raises the
-    scenario of multiple communications opportunities, possibly among both free and
-    subscription network services. Recommendation ITU-T Y.1546 provides common reference
-    events and parameters for attachment and hand-over performance. The mapping between
-    the set of common events and technology-specific protocol events are provided
-    in Annex A and Annex B, and these will be expanded as needed.
+  content: Ubiquitous wireless access to IP-based networks in many areas raises the scenario of multiple communications opportunities, possibly among both free and subscription network services. Recommendation ITU-T Y.1546 provides common reference events and parameters for attachment and hand-over performance. The mapping between the set of common events and technology-specific protocol events are provided in Annex A and Annex B, and these will be expanded as needed.
 status:
   stage:
     content: Published
@@ -105,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -116,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -127,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

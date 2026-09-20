@@ -1,10 +1,11 @@
----
 id: ITUTM31602008Amd1032016
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3160-201603-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/12782
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3160-201603-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3160 (2008) Amd. 1 (03/2016)
   type: ITU
@@ -45,14 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In the current in-force Recommendation ITU-T M.3160 “Generic, protocol-neutral
-    management information model”, the top object and naming rules are not explicitly
-    defined. It is not clear which class the protection group object class is derived
-    from. Though it is thought that it may be derived from the Top, but it is not
-    mentioned in M.3160. There are no operations to manage the objects defined in
-    M.3160. \r\n\r\nAmendment 1 to Recommendation ITU-T M.3160  added the “Top” class
-    definition, modified the “Protection Group” class definition by adding some figures
-    and the protection switch operations."
+  content: "In the current in-force Recommendation ITU-T M.3160 “Generic, protocol-neutral management information model”, the top object and naming rules are not explicitly defined. It is not clear which class the protection group object class is derived from. Though it is thought that it may be derived from the Top, but it is not mentioned in M.3160. There are no operations to manage the objects defined in M.3160. \r\n\r\nAmendment 1 to Recommendation ITU-T M.3160  added the “Top” class definition, modified the “Protection Group” class definition by adding some figures and the protection switch operations."
 status:
   stage:
     content: Published
@@ -72,8 +66,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix II on positioning Recommendation ITU-T M.3160 to Recommendation
-        ITU-T M.1401
+      content: New Appendix II on positioning Recommendation ITU-T M.3160 to Recommendation ITU-T M.1401
     docidentifier:
     - content: M.3160 (2008) Amd. 2 (09/2016)
       type: ITU

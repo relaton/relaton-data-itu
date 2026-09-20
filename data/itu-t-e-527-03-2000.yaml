@@ -1,16 +1,16 @@
----
 id: ITUTE527032000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Dimensioning at a circuit group with multi-slot bearer services and overflow
-    traffic
+  content: Dimensioning at a circuit group with multi-slot bearer services and overflow traffic
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.527-200003-I
+  content: https://handle.itu.int/11.1002/1000/4980
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.527-200003-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.527 (03/2000)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation deals with dimensioning methods for a set of circuit
-    groups handling multi-slot bearer services which consist of first-choice groups
-    and an overflow group to which overflow traffic from the first-choice groups are
-    offered. For this purpose, this Recommendation provides example methods for calculating
-    peakedness of the overflow traffic and example methods for calculating individual
-    call blocking probabilities of the overflow group.
+  content: This Recommendation deals with dimensioning methods for a set of circuit groups handling multi-slot bearer services which consist of first-choice groups and an overflow group to which overflow traffic from the first-choice groups are offered. For this purpose, this Recommendation provides example methods for calculating peakedness of the overflow traffic and example methods for calculating individual call blocking probabilities of the overflow group.
 status:
   stage:
     content: Published
@@ -76,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Dimensioning at a circuit group with multi-slot bearer services and
-        overflow traffic
+      content: Dimensioning at a circuit group with multi-slot bearer services and overflow traffic
     docidentifier:
     - content: E.527 (04/1995)
       type: ITU
@@ -87,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

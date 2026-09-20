@@ -1,16 +1,16 @@
----
 id: ITUTX281061999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Elements of management information related to
-    the OSI Physical Layer
+  content: Information technology – Elements of management information related to the OSI Physical Layer
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.281-199906-I
+  content: https://handle.itu.int/11.1002/1000/4690
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.281-199906-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.281 (06/1999)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This revised Recommendation | International Standard provides the specificaiton
-    of management information related to the Physical Layer. This includes the managed
-    objects class definition of Physical Layer managed objects, the relationship of
-    the managed objects and attributes to both the operation of the layer and to other
-    objects and attributes of the layer, and the allowable actions on the attributes
-    of Physical Layer managed objects.
+  content: This revised Recommendation | International Standard provides the specificaiton of management information related to the Physical Layer. This includes the managed objects class definition of Physical Layer managed objects, the relationship of the managed objects and attributes to both the operation of the layer and to other objects and attributes of the layer, and the allowable actions on the attributes of Physical Layer managed objects.
 status:
   stage:
     content: Published
@@ -79,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Elements of management information related
-        to the OSI Physical Layer
+      content: Information technology – Elements of management information related to the OSI Physical Layer
     docidentifier:
     - content: X.281 (11/1995)
       type: ITU

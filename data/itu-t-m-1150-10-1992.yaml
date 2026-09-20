@@ -1,16 +1,16 @@
----
 id: ITUTM1150101992
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Maritime mobile telecommunication store-and-forward services (packet mode)
-    via satellite
+  content: Maritime mobile telecommunication store-and-forward services (packet mode) via satellite
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1150-199210-S
+  content: https://handle.itu.int/11.1002/1000/1462
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1150-199210-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1150 (10/1992)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Maintenance aspects of maritime/land mobile telecommunication store-and-forward
-        services (packet mode) via satellite
+      content: Maintenance aspects of maritime/land mobile telecommunication store-and-forward services (packet mode) via satellite
     docidentifier:
     - content: M.1150 (04/1997)
       type: ITU

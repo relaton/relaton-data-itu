@@ -1,16 +1,16 @@
----
 id: ITUTZ168052012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Testing and Test Control Notation version 3: TTCN-3 mapping from CORBA
-    IDL'
+  content: 'Testing and Test Control Notation version 3: TTCN-3 mapping from CORBA IDL'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Z.168-201205-S
+  content: https://handle.itu.int/11.1002/1000/11603
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Z.168-201205-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Z.168 (05/2012)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU T Z.168 defines the mapping rules for CORBA IDL  to
-    TTCN-3 (as defined in Recommendation ITU T Z.161) to enable testing of CORBA-based
-    systems. The principles of mapping CORBA IDL to TTCN-3 can be also used for the
-    mapping of interface specification languages of other object /component-based
-    technologies.\r\nThe specification of other mappings is outside the scope of this
-    Recommendation.\r\nThe first revision of the Recommendation contains amendments
-    (i.e., mapping of CORBA system exceptions), clarifications and editorial corrections.\r\nThis
-    second revision of the Recommendation contains amendments, clarifications, corrigenda
-    and editorial corrections.\r\nThis Recommendation is technically aligned with
-    ETSI ES 201 873-8 V4.4.1 (2012).\r\n"
+  content: "Recommendation ITU T Z.168 defines the mapping rules for CORBA IDL  to TTCN-3 (as defined in Recommendation ITU T Z.161) to enable testing of CORBA-based systems. The principles of mapping CORBA IDL to TTCN-3 can be also used for the mapping of interface specification languages of other object /component-based technologies.\r\nThe specification of other mappings is outside the scope of this Recommendation.\r\nThe first revision of the Recommendation contains amendments (i.e., mapping of CORBA system exceptions), clarifications and editorial corrections.\r\nThis second revision of the Recommendation contains amendments, clarifications, corrigenda and editorial corrections.\r\nThis Recommendation is technically aligned with ETSI ES 201 873-8 V4.4.1 (2012).\r\n"
 status:
   stage:
     content: Withdrawal
@@ -120,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 mapping from CORBA
-        IDL'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 mapping from CORBA IDL'
     docidentifier:
     - content: Z.168 (03/2011)
       type: ITU
@@ -131,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 mapping from CORBA
-        IDL'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 mapping from CORBA IDL'
     docidentifier:
     - content: Z.168 (11/2007)
       type: ITU
@@ -142,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

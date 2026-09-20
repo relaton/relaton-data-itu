@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl93092025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Supplement to ITU-T Y.4120 – Security threats and requirements of Internet
-    of things (IoT) applications for smart retail stores
+  content: Supplement to ITU-T Y.4120 – Security threats and requirements of Internet of things (IoT) applications for smart retail stores
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup93-202509-I
+  content: https://handle.itu.int/11.1002/1000/16522
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup93-202509-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 93 (09/2025)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.4120 provides requirements for the Internet of
-    things (IoT) applications for smart retail stores. The smart retail store is one
-    of the important application fields for the IoT. More and more smart retail stores
-    rely on various IoT devices and are closely integrated with electronic shelf labels,
-    product management systems and other digital infrastructure, resulting in complex
-    structures and diverse applications in smart retail stores.\r\nHowever, as the
-    deployment of IoT in retail environments expands, smart retail stores are increasingly
-    exposed to a range of security challenges. Sufficient consideration of these emerging
-    security threats and corresponding security requirements are needed. This Supplement
-    93 to ITU-T Y-series Recommendations identifies security threats and requirements
-    for IoT applications for smart retail stores. The purpose is to improve the security
-    protection capabilities of the smart retail stores during operations and maintenance.\r\n"
+  content: "Recommendation ITU-T Y.4120 provides requirements for the Internet of things (IoT) applications for smart retail stores. The smart retail store is one of the important application fields for the IoT. More and more smart retail stores rely on various IoT devices and are closely integrated with electronic shelf labels, product management systems and other digital infrastructure, resulting in complex structures and diverse applications in smart retail stores.\r\nHowever, as the deployment of IoT in retail environments expands, smart retail stores are increasingly exposed to a range of security challenges. Sufficient consideration of these emerging security threats and corresponding security requirements are needed. This Supplement 93 to ITU-T Y-series Recommendations identifies security threats and requirements for IoT applications for smart retail stores. The purpose is to improve the security protection capabilities of the smart retail stores during operations and maintenance.\r\n"
 status:
   stage:
     content: Published

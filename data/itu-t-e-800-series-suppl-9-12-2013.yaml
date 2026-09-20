@@ -1,16 +1,16 @@
----
 id: ITUTE800seriesSuppl9122013
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Supplement 9 to ITU-T E.800-series Recommendations (Guidelines on regulatory
-    aspects of QoS)
+  content: Supplement 9 to ITU-T E.800-series Recommendations (Guidelines on regulatory aspects of QoS)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.800SerSup9-201312-S
+  content: https://handle.itu.int/11.1002/1000/12112
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.800SerSup9-201312-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E-800 series Suppl. 9 (12/2013)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 9 to ITU-T E.800-series Recommendations provides guidelines
-    on regulatory aspects of quality of service (QoS) and it focuses on end-to-end
-    QoS as perceived by the user when using modern mobile and broadband services.
-    Network performance is outside the scope of this supplement.
+  content: Supplement 9 to ITU-T E.800-series Recommendations provides guidelines on regulatory aspects of quality of service (QoS) and it focuses on end-to-end QoS as perceived by the user when using modern mobile and broadband services. Network performance is outside the scope of this supplement.
 status:
   stage:
     content: Withdrawal

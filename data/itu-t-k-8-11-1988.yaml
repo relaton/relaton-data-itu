@@ -1,16 +1,16 @@
----
 id: ITUTK8111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Separation in the soil between telecommunication cables and earthing system
-    of power facilities
+  content: Separation in the soil between telecommunication cables and earthing system of power facilities
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.8-198811-I
+  content: https://handle.itu.int/11.1002/1000/1410
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.8-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.8 (11/1988)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation deals with planning and constructing buried telecommunication
-    cables. It gives information about:\r\n- the locations where earth potential rise
-    (EPR) may occur;\r\n- the duration of EPR in different types of power networks;\r\n-
-    \"safe distances\" between telecommunication cables and power installations;\r\n-
-    measures to be taken if the safe distance is not achieved.Reference is made to
-    the Directives, Vol. II and III."
+  content: "This Recommendation deals with planning and constructing buried telecommunication cables. It gives information about:\r\n- the locations where earth potential rise (EPR) may occur;\r\n- the duration of EPR in different types of power networks;\r\n- \"safe distances\" between telecommunication cables and power installations;\r\n- measures to be taken if the safe distance is not achieved.Reference is made to the Directives, Vol. II and III."
 status:
   stage:
     content: Published
@@ -106,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -127,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -138,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -149,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -160,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -191,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

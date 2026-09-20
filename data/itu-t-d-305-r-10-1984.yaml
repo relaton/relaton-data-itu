@@ -1,13 +1,14 @@
----
 id: ITUTD305R101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Remuneration for facilities used for the switched-transit handling of intercontinental
-    telephone traffic in a country in Europe or the Mediterranean Basin
+  content: Remuneration for facilities used for the switched-transit handling of intercontinental telephone traffic in a country in Europe or the Mediterranean Basin
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/2280
 docidentifier:
 - content: ITU-T D.305 R (10/1984)
   type: ITU
@@ -62,9 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Remuneration for facilities used for the switched-transit handling
-        of intercontinental telephone traffic in a country in Europe or the Mediterranean
-        Basin
+      content: Remuneration for facilities used for the switched-transit handling of intercontinental telephone traffic in a country in Europe or the Mediterranean Basin
     docidentifier:
     - content: D.305 R (11/1988)
       type: ITU

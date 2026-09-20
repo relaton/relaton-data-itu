@@ -1,10 +1,11 @@
----
 id: ITUTG709Y13312016Cor2112019
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.709-201911-S!Cor2
+  content: https://handle.itu.int/11.1002/1000/13995
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.709-201911-S!Cor2!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.709/Y.1331 (2016) Cor. 2 (11/2019)
   type: ITU
@@ -45,21 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Corrigendum 2 contains corrections to the fifth edition (06/2016)
-    of ITU-T Recommendation G.709/Y.1331, related to the:\r\n\r\n-         Terms defined
-    elsewhere (3.1).\r\n\r\n-         B100G MOTUm interface principal information
-    containment relationships (6.2).\r\n\r\n-         Maximum number of ODTUCn.1 and
-    ODTUCn.ts instances that can be multiplexed into an ODTUGCn in Figure 7-1 (7.1).\r\n\r\n-
-    \        Multiplexing of ODUk into OPUCn specification (7.4).\r\n\r\n-         Update
-    of FlexE terminology (3.1.6, 12.2.6, 17.11, Appendix XIV).\r\n\r\n-         Omission
-    of a payload type code point value for 50GBASE-R mapping into ODUflex (15.9.2.1.1).\r\n\r\n-
-    \        Atomic function that is processing PMI overhead (16).\r\n\r\n-         50GBASE-R
-    mapping into OPUflex (17.13.3).\r\n\r\n-         Mapping ODU1 into ODTU12 (19.5.1).\r\n\r\n-
-    \        Cm,max and Cn,max equations 19-7, 19-13, 20-7 and 20-13 (19.6, 20.5).\r\n\r\n-
-    \        Non-applicability of specifications in Annexes E.4 and F.3 to 100GBASE-R
-    (E.4, E.4.1, E.4.2, E.4.3, F.3.2.1, F.3.3).\r\n\r\n-         Non-applicability
-    of Ethernet LF insertion specification in G.709 (E.4.2).\r\n\r\n-         OTUCn
-    sub rates (OTUCn-M) Applications (Appendix XIII).\r\n\r\n \r\n"
+  content: "This Corrigendum 2 contains corrections to the fifth edition (06/2016) of ITU-T Recommendation G.709/Y.1331, related to the:\r\n\r\n-         Terms defined elsewhere (3.1).\r\n\r\n-         B100G MOTUm interface principal information containment relationships (6.2).\r\n\r\n-         Maximum number of ODTUCn.1 and ODTUCn.ts instances that can be multiplexed into an ODTUGCn in Figure 7-1 (7.1).\r\n\r\n-         Multiplexing of ODUk into OPUCn specification (7.4).\r\n\r\n-         Update of FlexE terminology (3.1.6, 12.2.6, 17.11, Appendix XIV).\r\n\r\n-         Omission of a payload type code point value for 50GBASE-R mapping into ODUflex (15.9.2.1.1).\r\n\r\n-         Atomic function that is processing PMI overhead (16).\r\n\r\n-         50GBASE-R mapping into OPUflex (17.13.3).\r\n\r\n-         Mapping ODU1 into ODTU12 (19.5.1).\r\n\r\n-         Cm,max and Cn,max equations 19-7, 19-13, 20-7 and 20-13 (19.6, 20.5).\r\n\r\n-         Non-applicability of specifications in Annexes E.4 and F.3 to 100GBASE-R (E.4, E.4.1, E.4.2, E.4.3, F.3.2.1, F.3.3).\r\n\r\n-         Non-applicability of Ethernet LF insertion specification in G.709 (E.4.2).\r\n\r\n-         OTUCn sub rates (OTUCn-M) Applications (Appendix XIII).\r\n\r\n \r\n"
 status:
   stage:
     content: Withdrawal
@@ -397,8 +384,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Certain methods of avoiding the transmission of excessive noise between
-        interconnected systems
+      content: Certain methods of avoiding the transmission of excessive noise between interconnected systems
     docidentifier:
     - content: G Suppl. 4 (12/1972)
       type: ITU
@@ -418,8 +404,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Loss-frequency response of channel-translating equipment used in some
-        countries for international circuits
+      content: Loss-frequency response of channel-translating equipment used in some countries for international circuits
     docidentifier:
     - content: G Suppl. 7 (12/1972)
       type: ITU
@@ -429,8 +414,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Method proposed by the Belgian telephone administration for interconnection
-        between coaxial and symmetric pair systems
+      content: Method proposed by the Belgian telephone administration for interconnection between coaxial and symmetric pair systems
     docidentifier:
     - content: G Suppl. 8 (12/1972)
       type: ITU
@@ -450,8 +434,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital crosstalk measurement (method used by the Administrations of
-        France, the Netherlands and Spain)
+      content: Digital crosstalk measurement (method used by the Administrations of France, the Netherlands and Spain)
     docidentifier:
     - content: G Suppl. 19 (10/1984)
       type: ITU
@@ -471,8 +454,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Estimating the signal load margin of FDM wideband amplifier equipment
-        and transmission systems
+      content: Estimating the signal load margin of FDM wideband amplifier equipment and transmission systems
     docidentifier:
     - content: G Suppl. 26 (10/1984)
       type: ITU
@@ -492,9 +474,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems
-        and data-over-voice (DOV) systems during the transition from an analogue to
-        a digital network
+      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems and data-over-voice (DOV) systems during the transition from an analogue to a digital network
     docidentifier:
     - content: G Suppl. 28 (10/1984)
       type: ITU
@@ -574,8 +554,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guide on the use of the ITU-T Recommendations related to optical fibres
-        and systems technology
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres and systems technology
     docidentifier:
     - content: G Suppl. 42 (10/2018)
       type: ITU
@@ -615,8 +594,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G-PON interoperability test plan between optical line terminations
-        and optical network units
+      content: G-PON interoperability test plan between optical line terminations and optical network units
     docidentifier:
     - content: G Suppl. 46 (05/2009)
       type: ITU
@@ -636,9 +614,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: '10-Gigabit-capable passive optical networks: Interface between media
-        access control with serializer/deserializer and physical medium dependent
-        sublayers'
+      content: '10-Gigabit-capable passive optical networks: Interface between media access control with serializer/deserializer and physical medium dependent sublayers'
     docidentifier:
     - content: G Suppl. 48 (06/2010)
       type: ITU
@@ -828,8 +804,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on sub 1 Gbit/s services transport over optical transport
-        network
+      content: Supplement on sub 1 Gbit/s services transport over optical transport network
     docidentifier:
     - content: G Suppl. 70 (09/2020)
       type: ITU
@@ -839,8 +814,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optical line termination capabilities for supporting cooperative dynamic
-        bandwidth assignment
+      content: Optical line termination capabilities for supporting cooperative dynamic bandwidth assignment
     docidentifier:
     - content: G Suppl. 71 (12/2023)
       type: ITU
@@ -860,8 +834,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Influencing factors on quality of experience for multiview video (MVV)
-        services
+      content: Influencing factors on quality of experience for multiview video (MVV) services
     docidentifier:
     - content: G Suppl. 73 (10/2021)
       type: ITU
@@ -901,9 +874,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors
-        on quality of experience (QoE) for video customized alerting tone (CAT) and
-        video customized ringing signal (CRS) services
+      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors on quality of experience (QoE) for video customized alerting tone (CAT) and video customized ringing signal (CRS) services
     docidentifier:
     - content: G Suppl. 77 (06/2022)
       type: ITU
@@ -933,8 +904,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use case and requirements of fibre-based in-premises networking for
-        home application (FIP4H)
+      content: Use case and requirements of fibre-based in-premises networking for home application (FIP4H)
     docidentifier:
     - content: G Suppl. 80 (07/2024)
       type: ITU
@@ -964,8 +934,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on the use of options in the precision time protocol profile
-        with full timing support from the network
+      content: Supplement on the use of options in the precision time protocol profile with full timing support from the network
     docidentifier:
     - content: G Suppl. 83 (10/2025)
       type: ITU
@@ -1015,8 +984,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Point to multipoint passive optical access system requirements and
-        transmission technologies above 50 Gbit/s per wavelength
+      content: Point to multipoint passive optical access system requirements and transmission technologies above 50 Gbit/s per wavelength
     docidentifier:
     - content: G Suppl. 88 (10/2025)
       type: ITU
@@ -1046,8 +1014,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases and requirements of fibre-in-premises for small and medium
-        enterprise applications
+      content: Use cases and requirements of fibre-in-premises for small and medium enterprise applications
     docidentifier:
     - content: G Suppl. 91 (10/2025)
       type: ITU

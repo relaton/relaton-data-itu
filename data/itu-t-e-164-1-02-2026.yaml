@@ -1,16 +1,16 @@
----
 id: ITUTE1641022026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Criteria and procedures for the reservation, assignment and reclamation
-    of E.164 country codes and associated identification codes
+  content: Criteria and procedures for the reservation, assignment and reclamation of E.164 country codes and associated identification codes
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.164.1-202602-I
+  content: https://handle.itu.int/11.1002/1000/16473
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.164.1-202602-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.164.1 (02/2026)
   type: ITU
@@ -51,33 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T E.164 describes the international public telecommunication
-    numbering plan. Recommendation ITU-T E.190 describes the general principles to
-    be utilized in the assignment of ITU-T E-series international telecommunication
-    Numbering, Naming, Addressing and Identification (NNAI) resources. Recommendation
-    ITU-T E.164.1 describes the procedures and criteria for the reservation, assignment
-    and reclamation of E.164 country codes and associated identification code (IC)
-    assignments. The criteria and procedures are provided as a basis for the effective
-    and efficient utilization of the available E.164 numbering resources. Such assignments
-    require a collaborative effort between the Director of the Telecommunication Standardization
-    Bureau (TSB) and the appropriate ITU-T study group (SG) to endeavour to ensure
-    that the assignments meet the needs of the telecommunication market. The development
-    of these criteria and procedures are in accordance with the principles contained
-    in Recommendation ITU-T E.190 and the numbering plan formats detailed in Recommendation
-    ITUT E.164. While processing E.164 resource applications, any conflicts between
-    these Recommendations that are identified will be resolved by the following: Those
-    statements contained in Recommendation ITU-T E.190 take precedence over Recommendation
-    ITU-T E.164, and those statements contained in Recommendation ITU-T E.164 take
-    precedence over this Recommendation.\r\nThe Director of TSB assigns and reclaims
-    E.164 country codes for Geographic Areas, Global Services (ITU specified or Other
-    Global Services), Global Satellite Services (GSS), Networks and for IoT/M2M services/applications.
-    The Director of TSB is also responsible for the assignment and reclamation of
-    identification codes (ICs) for some E.164 categories. The assignment of subsequent
-    digits is normally not the purview of ITU-T but is the purview of the assignee.
-    However, there may be unique circumstances by which it is jointly agreed by the
-    Director of TSB and the appropriate ITU-T study group (SG) that subsequent digits
-    are to be centrally administered, e.g., universal international freephone numbers
-    (UIFNs).\r\n"
+  content: "Recommendation ITU-T E.164 describes the international public telecommunication numbering plan. Recommendation ITU-T E.190 describes the general principles to be utilized in the assignment of ITU-T E-series international telecommunication Numbering, Naming, Addressing and Identification (NNAI) resources. Recommendation ITU-T E.164.1 describes the procedures and criteria for the reservation, assignment and reclamation of E.164 country codes and associated identification code (IC) assignments. The criteria and procedures are provided as a basis for the effective and efficient utilization of the available E.164 numbering resources. Such assignments require a collaborative effort between the Director of the Telecommunication Standardization Bureau (TSB) and the appropriate ITU-T study group (SG) to endeavour to ensure that the assignments meet the needs of the telecommunication market. The development of these criteria and procedures are in accordance with the principles contained in Recommendation ITU-T E.190 and the numbering plan formats detailed in Recommendation ITUT E.164. While processing E.164 resource applications, any conflicts between these Recommendations that are identified will be resolved by the following: Those statements contained in Recommendation ITU-T E.190 take precedence over Recommendation ITU-T E.164, and those statements contained in Recommendation ITU-T E.164 take precedence over this Recommendation.\r\nThe Director of TSB assigns and reclaims E.164 country codes for Geographic Areas, Global Services (ITU specified or Other Global Services), Global Satellite Services (GSS), Networks and for IoT/M2M services/applications. The Director of TSB is also responsible for the assignment and reclamation of identification codes (ICs) for some E.164 categories. The assignment of subsequent digits is normally not the purview of ITU-T but is the purview of the assignee. However, there may be unique circumstances by which it is jointly agreed by the Director of TSB and the appropriate ITU-T study group (SG) that subsequent digits are to be centrally administered, e.g., universal international freephone numbers (UIFNs).\r\n"
 status:
   stage:
     content: Published
@@ -97,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Criteria and procedures for the reservation, assignment and reclamation
-        of E.164 country codes and associated identification codes (ICs)
+      content: Criteria and procedures for the reservation, assignment and reclamation of E.164 country codes and associated identification codes (ICs)
     docidentifier:
     - content: E.164.1 (09/2008)
       type: ITU
@@ -108,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Criteria and procedures for the reservation, assignment and reclamation
-        of E.164 country codes and associated identification codes (ICs)
+      content: Criteria and procedures for the reservation, assignment and reclamation of E.164 country codes and associated identification codes (ICs)
     docidentifier:
     - content: E.164.1 (05/2006)
       type: ITU
@@ -119,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Criteria and procedures for the reservation, assignment and reclamation
-        of E.164 country codes and associated identification codes (ICs)
+      content: Criteria and procedures for the reservation, assignment and reclamation of E.164 country codes and associated identification codes (ICs)
     docidentifier:
     - content: E.164.1 (02/2005)
       type: ITU
@@ -130,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Criteria and procedures for the reservation, assignment and reclamation
-        of E.164 country codes and associated identification codes (ICs)
+      content: Criteria and procedures for the reservation, assignment and reclamation of E.164 country codes and associated identification codes (ICs)
     docidentifier:
     - content: E.164.1 (10/2003)
       type: ITU
@@ -141,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Criteria and procedures for the reservation, assignment and reclamation
-        of E.164 country codes and associated Identification Codes (ICs)
+      content: Criteria and procedures for the reservation, assignment and reclamation of E.164 country codes and associated Identification Codes (ICs)
     docidentifier:
     - content: E.164.1 (03/1998)
       type: ITU
@@ -152,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.100 series – Framework of disaster management for disaster
-        relief system
+      content: ITU-T E.100 series – Framework of disaster management for disaster relief system
     docidentifier:
     - content: E-100 series Suppl. 1 (02/2019)
       type: ITU
@@ -163,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

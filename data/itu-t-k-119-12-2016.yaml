@@ -1,16 +1,16 @@
----
 id: ITUTK119122016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Conformance assessment of radio base stations regarding lightning protection
-    and earthing
+  content: Conformance assessment of radio base stations regarding lightning protection and earthing
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.119-201612-I
+  content: https://handle.itu.int/11.1002/1000/13135
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.119-201612-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.119 (12/2016)
   type: ITU
@@ -51,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides the technical requirements and measurement
-    methods to assess the validity and reliability of the lightning protection and
-    earthing system of radio base stations (RBSs). It focuses on the quality control
-    in the process of construction, acceptance, inspection and maintenance.\r\n\r\nNormally,
-    the conformance assessment is carried out during and immediately after the construction
-    period and it results in the commissioning of the installation to start its operation.
-    Routine inspections are scheduled in order to assure the maintenance of the lightning
-    protection and earthing characteristics, during the operation life of the installation.
-    \r\n\r\nDepending on the function and installation location, the lightning protection
-    system of a RBS can be partitioned into 4 parts which consist of air-termination
-    and down conductor system, earthing system, equipotential bonding network and
-    surge protective devices (SPDs). The conformance assessment is directed to these
-    parts, and may consist in visual inspection, measurement, analysis and other applicable
-    methods.\r\n\r\nThe assessment requirements of each part for commissioning and
-    routine inspections are presented in Clause 8 to 11 separately. In addition, management
-    rules are introduced in Clause 12, which are effective for conformance maintenance
-    during the operation life of the RBS. \r\n"
+  content: "This Recommendation provides the technical requirements and measurement methods to assess the validity and reliability of the lightning protection and earthing system of radio base stations (RBSs). It focuses on the quality control in the process of construction, acceptance, inspection and maintenance.\r\n\r\nNormally, the conformance assessment is carried out during and immediately after the construction period and it results in the commissioning of the installation to start its operation. Routine inspections are scheduled in order to assure the maintenance of the lightning protection and earthing characteristics, during the operation life of the installation. \r\n\r\nDepending on the function and installation location, the lightning protection system of a RBS can be partitioned into 4 parts which consist of air-termination and down conductor system, earthing system, equipotential bonding network and surge protective devices (SPDs). The conformance assessment is directed to these parts, and may consist in visual inspection, measurement, analysis and other applicable methods.\r\n\r\nThe assessment requirements of each part for commissioning and routine inspections are presented in Clause 8 to 11 separately. In addition, management rules are introduced in Clause 12, which are effective for conformance maintenance during the operation life of the RBS. \r\n"
 status:
   stage:
     content: Published
@@ -87,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -108,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -119,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -130,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -141,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -172,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

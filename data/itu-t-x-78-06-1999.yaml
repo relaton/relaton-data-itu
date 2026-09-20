@@ -1,16 +1,16 @@
----
 id: ITUTX78061999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interworking procedures between networks providing frame relay data transmission
-    services via B-ISDN
+  content: Interworking procedures between networks providing frame relay data transmission services via B-ISDN
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.78-199906-I
+  content: https://handle.itu.int/11.1002/1000/3099
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.78-199906-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.78 (06/1999)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the procedures for interworking case of concatenation
-    of networks providing FRDTS via B-ISDN. It includes reference configurations,
-    protocol stacks and detailed signalling procedures. This Recommendation may be
-    used in the case where frame relay links between networks providing FRDTS services
-    are transferred over B-ISDN networks as backbone networks. Interworking scenario
-    used in this Recommendation is Network interworking scenario as specified in Recommendation
-    I.555, and port access method of interworking as specified in the X.300-series
-    Recommendations.
+  content: This Recommendation defines the procedures for interworking case of concatenation of networks providing FRDTS via B-ISDN. It includes reference configurations, protocol stacks and detailed signalling procedures. This Recommendation may be used in the case where frame relay links between networks providing FRDTS services are transferred over B-ISDN networks as backbone networks. Interworking scenario used in this Recommendation is Network interworking scenario as specified in Recommendation I.555, and port access method of interworking as specified in the X.300-series Recommendations.
 status:
   stage:
     content: Published

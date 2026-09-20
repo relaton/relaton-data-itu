@@ -1,16 +1,16 @@
----
 id: ITUTI2582021995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Mobility and modification supplementary services : In-call modification
-    (IM)'
+  content: 'Mobility and modification supplementary services : In-call modification (IM)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.258.2-199502-I
+  content: https://handle.itu.int/11.1002/1000/1221
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.258.2-199502-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.258.2 (02/1995)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The In-call Modification (IM) supplementary service enables a user to change
-    within an established (i.e. active) call from one type of call characterized by
-    one set of bearer capability, low layer and/or high layer capabilities to another
-    type of call with another set without changing the end-to-end connection from
-    a user/network-access point of view.Further in-call modification(s) back to the
-    original or to another call type shall be possible.As a network option, the user
-    can choose, when invoking the supplementary service, that the network automatically
-    modifies the call back to the original call type at the end of the modified part
-    of the connection.
+  content: The In-call Modification (IM) supplementary service enables a user to change within an established (i.e. active) call from one type of call characterized by one set of bearer capability, low layer and/or high layer capabilities to another type of call with another set without changing the end-to-end connection from a user/network-access point of view.Further in-call modification(s) back to the original or to another call type shall be possible.As a network option, the user can choose, when invoking the supplementary service, that the network automatically modifies the call back to the original call type at the end of the modified part of the connection.
 status:
   stage:
     content: Published
@@ -79,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

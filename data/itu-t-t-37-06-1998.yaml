@@ -1,16 +1,16 @@
----
 id: ITUTT37061998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for the transfer of facsimile data via store-and-forward on
-    the Internet
+  content: Procedures for the transfer of facsimile data via store-and-forward on the Internet
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.37-199806-I
+  content: https://handle.itu.int/11.1002/1000/4392
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.37-199806-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.37 (06/1998)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation T.37 describes the technical features necessary for the
-    Store-and-Forward 'Simple' mode of operation of facsimile document transmission
-    via Internet Mail. The general guidelines for the modes of operation of facsimile
-    over the Internet are contained in Recommendation F.185.
+  content: Recommendation T.37 describes the technical features necessary for the Store-and-Forward 'Simple' mode of operation of facsimile document transmission via Internet Mail. The general guidelines for the modes of operation of facsimile over the Internet are contained in Recommendation F.185.
 status:
   stage:
     content: Published

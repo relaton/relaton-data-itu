@@ -1,16 +1,16 @@
----
 id: ITUTD50Suppl1042011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General considerations for traffic measurement and options for international
-    internet connectivity
+  content: General considerations for traffic measurement and options for international internet connectivity
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.50-201104-I!Sup1
+  content: https://handle.itu.int/11.1002/1000/11320
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.50-201104-I!Sup1!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.50 Suppl. 1 (04/2011)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplement provides considerations and options for traffic measurement
-    in support of the provisions of Recommendation D.50. It identifies different approaches
-    for measuring IP traffic flow at the interconnect (at the Border Gateway Protocol
-    interconnect or other interconnect point) between networks operated by administrations
-    and operating agencies authorized by Member States. IP traffic flows can be measured
-    at different points, including at the Border Gateway Protocol (BGP) interconnect
-    point (for example by hardware or software within or external to BGP routers or
-    related equipment). This Supplement is not intended to imply the need for any
-    changes in the IETF Border Gateway Protocol (BGP). Options for traffic measurement
-    that are not addressed in this Supplement are for further study.
+  content: This supplement provides considerations and options for traffic measurement in support of the provisions of Recommendation D.50. It identifies different approaches for measuring IP traffic flow at the interconnect (at the Border Gateway Protocol interconnect or other interconnect point) between networks operated by administrations and operating agencies authorized by Member States. IP traffic flows can be measured at different points, including at the Border Gateway Protocol (BGP) interconnect point (for example by hardware or software within or external to BGP routers or related equipment). This Supplement is not intended to imply the need for any changes in the IETF Border Gateway Protocol (BGP). Options for traffic measurement that are not addressed in this Supplement are for further study.
 status:
   stage:
     content: Published
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for reducing the costs of international Internet connectivity
-        for the Central African Backbone (CAB) project
+      content: Guidelines for reducing the costs of international Internet connectivity for the Central African Backbone (CAB) project
     docidentifier:
     - content: D.50 Suppl. 3 (04/2025)
       type: ITU
@@ -91,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Supplement 2: Guidelines for reducing the costs of international Internet
-        connectivity'
+      content: 'Supplement 2: Guidelines for reducing the costs of international Internet connectivity'
     docidentifier:
     - content: D.50 Suppl. 2 (05/2013)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix I – General considerations for charging criteria and options
-        for international Internet connectivity
+      content: New Appendix I – General considerations for charging criteria and options for international Internet connectivity
     docidentifier:
     - content: D.50 (2000) Amd. 1 (06/2004)
       type: ITU

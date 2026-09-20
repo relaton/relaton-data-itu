@@ -1,10 +1,11 @@
----
 id: ITUTX5092019Cor2102023
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.509-202310-I!Cor2
+  content: https://handle.itu.int/11.1002/1000/15705
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.509-202310-I!Cor2!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.509 (2019) Cor. 2 (10/2023)
   type: ITU
@@ -48,8 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 2 to ITU-T X.509 (2019) | ISO/IEC 9594-8:2020 covers resolution
-    to defect reports 434 and 435.\r\n\r\n"
+  content: "Corrigendum 2 to ITU-T X.509 (2019) | ISO/IEC 9594-8:2020 covers resolution to defect reports 434 and 435.\r\n\r\n"
 status:
   stage:
     content: Published
@@ -95,8 +95,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – The Directory:
-        Public-key and attribute certificate frameworks'
+      content: 'Information technology – Open Systems Interconnection – The Directory: Public-key and attribute certificate frameworks'
     docidentifier:
     - content: X.509 (10/2019)
       type: ITU
@@ -106,8 +105,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – The Directory:
-        Public-key and attribute certificate frameworks'
+      content: 'Information technology – Open Systems Interconnection – The Directory: Public-key and attribute certificate frameworks'
     docidentifier:
     - content: X.509 (10/2016)
       type: ITU
@@ -141,8 +139,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – The Directory:
-        Public-key and attribute certificate frameworks'
+      content: 'Information technology – Open Systems Interconnection – The Directory: Public-key and attribute certificate frameworks'
     docidentifier:
     - content: X.509 (10/2012)
       type: ITU
@@ -176,8 +173,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open systems interconnection – The Directory:
-        Public-key and attribute certificate frameworks'
+      content: 'Information technology – Open systems interconnection – The Directory: Public-key and attribute certificate frameworks'
     docidentifier:
     - content: X.509 (11/2008)
       type: ITU
@@ -219,8 +215,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – The Directory:
-        Public-key and attribute certificate frameworks'
+      content: 'Information technology – Open Systems Interconnection – The Directory: Public-key and attribute certificate frameworks'
     docidentifier:
     - content: X.509 (08/2005)
       type: ITU
@@ -270,8 +265,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – The Directory:
-        Public-key and attribute certificate frameworks'
+      content: 'Information technology – Open Systems Interconnection – The Directory: Public-key and attribute certificate frameworks'
     docidentifier:
     - content: X.509 (03/2000)
       type: ITU
@@ -329,8 +323,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – The Directory:
-        Authentication framework'
+      content: 'Information technology – Open Systems Interconnection – The Directory: Authentication framework'
     docidentifier:
     - content: X.509 (08/1997)
       type: ITU
@@ -340,8 +333,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – The directory:
-        authentication framework'
+      content: 'Information technology – Open Systems Interconnection – The directory: authentication framework'
     docidentifier:
     - content: X.509 (11/1993)
       type: ITU

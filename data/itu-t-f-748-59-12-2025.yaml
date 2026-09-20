@@ -1,16 +1,16 @@
----
 id: ITUTF74859122025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Framework and requirements for human-machine interaction-based explainable
-    decision support system
+  content: Framework and requirements for human-machine interaction-based explainable decision support system
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.748.59-202512-I
+  content: https://handle.itu.int/11.1002/1000/16584
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.748.59-202512-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.748.59 (12/2025)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.59 defines the framework and requirements for
-    an explainable decision support system based on human-machine interaction.\r\nRecently,
-    generative artificial intelligence (AI) technology has attracted significant attention
-    in the field of information and communications technology (ICT). This technology
-    enables users to ask questions in expert domains and receive reasonably satisfying
-    answers in natural language. However, a major limitation is the lack of explainability
-    – users are not provided with any explanation for the answers generated. \r\nTo
-    address this issue and improve question-answering systems in expert domains, explainable
-    decision support system has been designed. This system not only delivers answers
-    but also provides natural language explanations through interaction with human
-    users. User feedback is also incorporated into the system to improve the quality
-    of future responses. \r\n\r\n"
+  content: "Recommendation ITU-T F.748.59 defines the framework and requirements for an explainable decision support system based on human-machine interaction.\r\nRecently, generative artificial intelligence (AI) technology has attracted significant attention in the field of information and communications technology (ICT). This technology enables users to ask questions in expert domains and receive reasonably satisfying answers in natural language. However, a major limitation is the lack of explainability – users are not provided with any explanation for the answers generated. \r\nTo address this issue and improve question-answering systems in expert domains, explainable decision support system has been designed. This system not only delivers answers but also provides natural language explanations through interaction with human users. User feedback is also incorporated into the system to improve the quality of future responses. \r\n\r\n"
 status:
   stage:
     content: Published
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission
-        services
+      content: Definitions relating to telegraph, telematic and data transmission services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -123,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based
-        on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU

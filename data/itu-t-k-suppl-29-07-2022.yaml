@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl29072022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Electromagnetic field strength inside and outside of electric vehicles
-    using wireless power transfer technology
+  content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup29-202207-I
+  content: https://handle.itu.int/11.1002/1000/15083
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup29-202207-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 29 (07/2022)
   type: ITU
@@ -51,19 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In the near future, the electric vehicle may become the means of transport
-    used most frequently by the general public. Electromagnetic field (EMF) exposure
-    levels from electric vehicles causes some concern to the general public so they
-    should be assessed for the various types of vehicles.\r\nSupplement 29 to ITU-T
-    K series Recommendations considers a particular electric vehicle using dynamic
-    wireless power transfer (WPT) technology to charge its battery with the power
-    delivered from the coils installed underground. In this case, passengers and drivers
-    may be exposed to an EMF inside and outside the vehicle when it is stationary
-    or moving. In each case, two different EMF measurement protocols need to be applied
-    to evaluate human exposure levels to EMF. This Supplement includes the evaluation
-    results of EMF exposure levels based on exposure limits inside and outside the
-    electric vehicles known by the commercial name of OLEV (on-line electric vehicles)
-    developed in the Republic of Korea."
+  content: "In the near future, the electric vehicle may become the means of transport used most frequently by the general public. Electromagnetic field (EMF) exposure levels from electric vehicles causes some concern to the general public so they should be assessed for the various types of vehicles.\r\nSupplement 29 to ITU-T K series Recommendations considers a particular electric vehicle using dynamic wireless power transfer (WPT) technology to charge its battery with the power delivered from the coils installed underground. In this case, passengers and drivers may be exposed to an EMF inside and outside the vehicle when it is stationary or moving. In each case, two different EMF measurement protocols need to be applied to evaluate human exposure levels to EMF. This Supplement includes the evaluation results of EMF exposure levels based on exposure limits inside and outside the electric vehicles known by the commercial name of OLEV (on-line electric vehicles) developed in the Republic of Korea."
 status:
   stage:
     content: Published

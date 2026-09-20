@@ -1,16 +1,16 @@
----
 id: ITUTK50072016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Safe limits for operating voltages and currents of telecommunication systems
-    powered over the network
+  content: Safe limits for operating voltages and currents of telecommunication systems powered over the network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.50-201607-S
+  content: https://handle.itu.int/11.1002/1000/12871
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.50-201607-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.50 (07/2016)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides guidance on voltages and currents that may
-    safely be used to power telecommunication systems that are part of the telecommunications
-    service providers’ network. These systems use the paired-conductor cables of the
-    network or specific power feeding cables to provide power to equipment at remote
-    locations. This equipment and the current carrying conductors can be accessed
-    in the energized state by service or skilled personnel without using insulated
-    gloves or tools. For safety reasons, system types operating at hazardous voltages
-    are not intended to pass beyond the public network interface between the service
-    provider and the end customer. These hazardous voltage systems are not intended
-    to be part of the subscriber's installation, and are not accessible to users of
-    the network. They are located in the networks between different telecommunication
-    centres, between a telecommunication centre and a telecommunications access facility/node,
-    and between a telecommunication centre and public network interfaces. This Recommendation
-    covers only systems that use continuous dc powering.
+  content: This Recommendation provides guidance on voltages and currents that may safely be used to power telecommunication systems that are part of the telecommunications service providers’ network. These systems use the paired-conductor cables of the network or specific power feeding cables to provide power to equipment at remote locations. This equipment and the current carrying conductors can be accessed in the energized state by service or skilled personnel without using insulated gloves or tools. For safety reasons, system types operating at hazardous voltages are not intended to pass beyond the public network interface between the service provider and the end customer. These hazardous voltage systems are not intended to be part of the subscriber's installation, and are not accessible to users of the network. They are located in the networks between different telecommunication centres, between a telecommunication centre and a telecommunications access facility/node, and between a telecommunication centre and public network interfaces. This Recommendation covers only systems that use continuous dc powering.
 status:
   stage:
     content: Withdrawal
@@ -116,8 +103,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Safe limits for operating voltages and currents of telecommunication
-        systems powered over the network
+      content: Safe limits for operating voltages and currents of telecommunication systems powered over the network
     docidentifier:
     - content: K.50 (01/2018)
       type: ITU
@@ -127,8 +113,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Safe limits for operating voltages and currents of telecommunication
-        systems powered over the network
+      content: Safe limits for operating voltages and currents of telecommunication systems powered over the network
     docidentifier:
     - content: K.50 (12/2016)
       type: ITU
@@ -138,8 +123,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Safe limits of operating voltages and currents for telecommunication
-        systems powered over the network
+      content: Safe limits of operating voltages and currents for telecommunication systems powered over the network
     docidentifier:
     - content: K.50 (02/2000)
       type: ITU
@@ -149,8 +133,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -170,8 +153,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -181,8 +163,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -192,8 +173,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -203,8 +183,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -234,8 +213,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

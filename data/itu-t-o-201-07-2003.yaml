@@ -1,16 +1,16 @@
----
 id: ITUTO201072003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Q-factor test equipment to estimate the transmission performance of optical
-    channels
+  content: Q-factor test equipment to estimate the transmission performance of optical channels
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-O.201-200307-I
+  content: https://handle.itu.int/11.1002/1000/6300
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-O.201-200307-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T O.201 (07/2003)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the requirements of Q-factor measurement
-    equipment (QFME) currently based on the level shifting method used for estimating
-    the digital transmission performance of an optical channel.
+  content: This Recommendation describes the requirements of Q-factor measurement equipment (QFME) currently based on the level shifting method used for estimating the digital transmission performance of an optical channel.
 status:
   stage:
     content: Published

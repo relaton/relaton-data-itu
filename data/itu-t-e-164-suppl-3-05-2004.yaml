@@ -1,16 +1,16 @@
----
 id: ITUTE164Suppl3052004
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Operational and administrative issues associated with national implementations
-    of the ENUM functions
+  content: Operational and administrative issues associated with national implementations of the ENUM functions
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.164-200405-S!Sup3
+  content: https://handle.itu.int/11.1002/1000/7392
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.164-200405-S!Sup3!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.164 Suppl. 3 (05/2004)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement provides background, tutorial and guidance information
-    on a broad range of operational and administrative issues associated with the
-    inclusion of E.164 numbers into the DNS (i.e., the inclusion of ENUM domain names
-    based on E.164 numbers). It contains considerations of and potential consequences
-    arising from such issues. This Supplement does not attempt to provide solutions
-    for these issues; such solutions are left to the prerogative of Administrations
-    for whom a range of oversight responsibilities is proposed in this Supplement.
-    This Supplement describes the various issues and provides some guidance considering
-    various ways to address each issue. Please refer to the Recommendation(s) in which
-    TSB processes and procedures relating to requests for delegations of domain names
-    corresponding to E.164 country codes are specified.
+  content: This Supplement provides background, tutorial and guidance information on a broad range of operational and administrative issues associated with the inclusion of E.164 numbers into the DNS (i.e., the inclusion of ENUM domain names based on E.164 numbers). It contains considerations of and potential consequences arising from such issues. This Supplement does not attempt to provide solutions for these issues; such solutions are left to the prerogative of Administrations for whom a range of oversight responsibilities is proposed in this Supplement. This Supplement describes the various issues and provides some guidance considering various ways to address each issue. Please refer to the Recommendation(s) in which TSB processes and procedures relating to requests for delegations of domain names corresponding to E.164 country codes are specified.
 status:
   stage:
     content: Withdrawal
@@ -101,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidance with regard to the selection of numbers for helplines for
-        children
+      content: Guidance with regard to the selection of numbers for helplines for children
     docidentifier:
     - content: E.164 Suppl. 5 (11/2009)
       type: ITU
@@ -112,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex A: Clarification and explanation of the structure and
-        function of international ITU-T E.164-numbers'
+      content: 'Revised Annex A: Clarification and explanation of the structure and function of international ITU-T E.164-numbers'
     docidentifier:
     - content: E.164 (2010) Amd. 1 (06/2011)
       type: ITU
@@ -131,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with the implementation
-        of ENUM for non-geographic country codes
+      content: Operational and administrative issues associated with the implementation of ENUM for non-geographic country codes
     docidentifier:
     - content: E.164 Suppl. 4 (05/2004)
       type: ITU
@@ -190,8 +177,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidance with regard to the selection of numbers for helplines for
-        children
+      content: Guidance with regard to the selection of numbers for helplines for children
     docidentifier:
     - content: E.164 Suppl. 5 (05/2008)
       type: ITU
@@ -231,8 +217,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with the implementation
-        of ENUM for non-geographic country codes
+      content: Operational and administrative issues associated with the implementation of ENUM for non-geographic country codes
     docidentifier:
     - content: E.164 Suppl. 4 (05/2003)
       type: ITU
@@ -242,8 +227,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with national implementations
-        of the ENUM functions
+      content: Operational and administrative issues associated with national implementations of the ENUM functions
     docidentifier:
     - content: E.164 Suppl. 3 (05/2002)
       type: ITU

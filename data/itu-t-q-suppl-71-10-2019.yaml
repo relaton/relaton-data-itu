@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl71102019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Testing methodologies of Internet related performance measurements including
-    e2e bit rate within the fixed and mobile operators' networks
+  content: Testing methodologies of Internet related performance measurements including e2e bit rate within the fixed and mobile operators' networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup71-201910-I
+  content: https://handle.itu.int/11.1002/1000/14125
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup71-201910-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 71 (10/2019)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 71 to ITU-T Q-series Recommendations describes the testing procedures
-    of data transmission speed within the fixed and mobile operators' networks which
-    can be established at the national or international level, providing customers
-    of the existing public telecom networks the possibility to estimate the access
-    related performance. The proposed methodology is based on the concept of the ITU-T
-    Q.3960 (2016), "Framework of Internet related performance measurements".
+  content: Supplement 71 to ITU-T Q-series Recommendations describes the testing procedures of data transmission speed within the fixed and mobile operators' networks which can be established at the national or international level, providing customers of the existing public telecom networks the possibility to estimate the access related performance. The proposed methodology is based on the concept of the ITU-T Q.3960 (2016), "Framework of Internet related performance measurements".
 status:
   stage:
     content: Published

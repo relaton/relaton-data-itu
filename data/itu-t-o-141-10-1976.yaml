@@ -1,13 +1,14 @@
----
 id: ITUTO141101976
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Description and basic specification for a semi-automatic in-circuit echo
-    suppressor testing system (ESTS)
+  content: Description and basic specification for a semi-automatic in-circuit echo suppressor testing system (ESTS)
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/10192
 docidentifier:
 - content: ITU-T O.141 (10/1976)
   type: ITU
@@ -72,8 +73,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Description and basic specification for a semiautomatic in-circuit
-        echo suppressor testing system (ESTS)
+      content: Description and basic specification for a semiautomatic in-circuit echo suppressor testing system (ESTS)
     docidentifier:
     - content: O.141 (10/1984)
       type: ITU
@@ -83,8 +83,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Description and basic specification for a semiautomatic in-circuit
-        echo suppressor testing system (ESTS)
+      content: Description and basic specification for a semiautomatic in-circuit echo suppressor testing system (ESTS)
     docidentifier:
     - content: O.141 (11/1980)
       type: ITU

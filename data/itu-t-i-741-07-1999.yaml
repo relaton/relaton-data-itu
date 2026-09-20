@@ -1,16 +1,16 @@
----
 id: ITUTI741071999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interworking and interconnection between ATM and switched telephone networks
-    for the transmission of speech, voiceband data and audio signals
+  content: Interworking and interconnection between ATM and switched telephone networks for the transmission of speech, voiceband data and audio signals
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.741-199907-I
+  content: https://handle.itu.int/11.1002/1000/4724
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.741-199907-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.741 (07/1999)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation provides requirements for the interworking and interconnection
-    functions between public ATM and other types of public switched telephone networks
-    (including wireless networks) for the transmission of speech, voiceband data and
-    audio signals. The functions include: interfaces of TDM to ATM networks, TDM to
-    ATM conversion, transport, multiplexing, switching and echo cancellation.'
+  content: 'This Recommendation provides requirements for the interworking and interconnection functions between public ATM and other types of public switched telephone networks (including wireless networks) for the transmission of speech, voiceband data and audio signals. The functions include: interfaces of TDM to ATM networks, TDM to ATM conversion, transport, multiplexing, switching and echo cancellation.'
 status:
   stage:
     content: Published
@@ -75,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

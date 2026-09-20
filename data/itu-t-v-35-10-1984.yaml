@@ -1,4 +1,3 @@
----
 id: ITUTV35101984
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.35-198410-W
+  content: https://handle.itu.int/11.1002/1000/2757
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.35-198410-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.35 (10/1984)
   type: ITU
@@ -64,8 +65,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Data transmission at 48 kilobits per second using 60-108 kHz group
-        band circuits
+      content: Data transmission at 48 kilobits per second using 60-108 kHz group band circuits
     docidentifier:
     - content: V.35 (11/1980)
       type: ITU
@@ -75,8 +75,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Data transmission at 48 kilobits per second using 60- 108 kHz group
-        band circuits
+      content: Data transmission at 48 kilobits per second using 60- 108 kHz group band circuits
     docidentifier:
     - content: V.35 (10/1976)
       type: ITU

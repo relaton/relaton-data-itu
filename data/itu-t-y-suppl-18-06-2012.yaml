@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl18062012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2700-series - Supplement on next generation network certificate
-    management
+  content: ITU-T Y.2700-series - Supplement on next generation network certificate management
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup18-201206-I
+  content: https://handle.itu.int/11.1002/1000/11690
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup18-201206-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 18 (06/2012)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 18 to ITU-T Y-series Recommendations provides guidelines for
-    managing ITU-T X.509 certificates for NGN security based on the trust model defined
-    in ITU-T Y.2701 to supplement the information in ITU-T Y.2704. This Supplement
-    is applicable to any next generation network (NGN) using certificates based on
-    the framework for public key infrastructure (PKI) and privilege management infrastructure
-    (PMI) specified in ITU-T X.509 for identification, authentication, privilege/attribute
-    management and/or encryption between network elements and between user end-devices
-    and the NGN provider customer premises equipment (CPE) provisioning element.
+  content: Supplement 18 to ITU-T Y-series Recommendations provides guidelines for managing ITU-T X.509 certificates for NGN security based on the trust model defined in ITU-T Y.2701 to supplement the information in ITU-T Y.2704. This Supplement is applicable to any next generation network (NGN) using certificates based on the framework for public key infrastructure (PKI) and privilege management infrastructure (PMI) specified in ITU-T X.509 for identification, authentication, privilege/attribute management and/or encryption between network elements and between user end-devices and the NGN provider customer premises equipment (CPE) provisioning element.
 status:
   stage:
     content: Published

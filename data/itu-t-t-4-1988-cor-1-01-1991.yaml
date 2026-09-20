@@ -1,7 +1,9 @@
----
 id: ITUTT41988Cor1011991
 schema_version: v1.5.6
 type: standard
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/2525
 docidentifier:
 - content: ITU-T T.4 (1988) Cor. 1 (01/1991)
   type: ITU
@@ -79,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Restriction on horizontal image size for JPEG data streams, support
-        for additional spatial resolutions and new Annex H on mixed raster content
+      content: Restriction on horizontal image size for JPEG data streams, support for additional spatial resolutions and new Annex H on mixed raster content
     docidentifier:
     - content: T.4 (1999) Amd. 1 (02/2000)
       type: ITU
@@ -180,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Incorporation of the optional error correction mode and the optional
-        error limiting mode
+      content: Incorporation of the optional error correction mode and the optional error limiting mode
     docidentifier:
     - content: T.4 (1984) Amd. 1 (07/1987)
       type: ITU

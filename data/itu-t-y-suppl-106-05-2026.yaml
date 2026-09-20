@@ -1,17 +1,16 @@
----
 id: ITUTYSuppl106052026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.4221 – Supplement on security requirements for sensing devices
-    to access Internet of things (IoT)-based electric power infrastructure monitoring
-    systems
+  content: ITU-T Y.4221 – Supplement on security requirements for sensing devices to access Internet of things (IoT)-based electric power infrastructure monitoring systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup106-202605-I
+  content: https://handle.itu.int/11.1002/1000/16823
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup106-202605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 106 (05/2026)
   type: ITU
@@ -52,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Internet of things (IoT)-based electric power infrastructure monitoring
-    system (IoT-EPIMS) relies on a large number of sensing devices for data acquisition
-    and operational control. With the digitalization of the electric power industry,
-    the number and diversity of sensing devices have been increasing, especially different
-    security requirements stemming from the different electric power services.\r\nTo
-    enhance the security of IoT-EPIMS, this Supplement expands on ITU-T Y.4221. It
-    identifies the entities involved in the interactions for sensing devices to access
-    IoT-EPIMS, and the security risks associated with these entities and interactions.
-    It specifies the security requirements for these entities. Furthermore, use cases
-    are provided in Appendix I.\r\n"
+  content: "The Internet of things (IoT)-based electric power infrastructure monitoring system (IoT-EPIMS) relies on a large number of sensing devices for data acquisition and operational control. With the digitalization of the electric power industry, the number and diversity of sensing devices have been increasing, especially different security requirements stemming from the different electric power services.\r\nTo enhance the security of IoT-EPIMS, this Supplement expands on ITU-T Y.4221. It identifies the entities involved in the interactions for sensing devices to access IoT-EPIMS, and the security risks associated with these entities and interactions. It specifies the security requirements for these entities. Furthermore, use cases are provided in Appendix I.\r\n"
 status:
   stage:
     content: Published

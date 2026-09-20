@@ -1,10 +1,11 @@
----
 id: ITUTX7401992TechnicalCor1041995
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.740-199504-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/3083
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.740-199504-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.740 (1992) Technical Cor. 1 (04/1995)
   type: ITU
@@ -48,10 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This technical corrigendum corrects the conformance statement in clause
-    13 and the implementation Conformance Statement proformas (ICS). These changes
-    will ensure this Recommendation aligns with the Amendment 1 applied to each of
-    Recommendations X.730 to X.736 inclusive for conformance.
+  content: This technical corrigendum corrects the conformance statement in clause 13 and the implementation Conformance Statement proformas (ICS). These changes will ensure this Recommendation aligns with the Amendment 1 applied to each of Recommendations X.730 to X.736 inclusive for conformance.
 status:
   stage:
     content: Published
@@ -87,8 +85,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Systems Management:
-        Security audit trail function'
+      content: 'Information technology – Open Systems Interconnection – Systems Management: Security audit trail function'
     docidentifier:
     - content: X.740 (09/1992)
       type: ITU

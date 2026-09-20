@@ -1,4 +1,3 @@
----
 id: ITUTI356032000
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.356-200003-I
+  content: https://handle.itu.int/11.1002/1000/4959
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.356-200003-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.356 (03/2000)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines parameters for quantifying the ATM cell transfer
-    performance of a broadband ISDN connection. It includes adjusted parameter definitions
-    that might be used when cells do not conform with the negotiated traffic contract.
-    This Recommendation includes provisional performance objectives for cell transfer,
-    some of which depend on the user's selection of quality-of-service (QoS) class.
-    Recommendation includes the definitions for those QoS classes. Finally, each performance
-    objective is allocated to the individual national portions involved in providing
-    the international connection.Annexes A, B, C and D provide information about ATM
-    adaptation layer performance, information about factors contributing to cell transfer
-    delay and cell delay variation, information about performance measurement methods,
-    and information about QoS preferences conveyed through signalling.
+  content: This Recommendation defines parameters for quantifying the ATM cell transfer performance of a broadband ISDN connection. It includes adjusted parameter definitions that might be used when cells do not conform with the negotiated traffic contract. This Recommendation includes provisional performance objectives for cell transfer, some of which depend on the user's selection of quality-of-service (QoS) class. Recommendation includes the definitions for those QoS classes. Finally, each performance objective is allocated to the individual national portions involved in providing the international connection.Annexes A, B, C and D provide information about ATM adaptation layer performance, information about factors contributing to cell transfer delay and cell delay variation, information about performance measurement methods, and information about QoS preferences conveyed through signalling.
 status:
   stage:
     content: Published
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix V – Support of Y.1541 QoS classes 0 and 2 in ATM-based
-        networks
+      content: New Appendix V – Support of Y.1541 QoS classes 0 and 2 in ATM-based networks
     docidentifier:
     - content: I.356 (2000) Amd. 1 (02/2004)
       type: ITU
@@ -111,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTM3393102025
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3393-202510-I
+  content: https://handle.itu.int/11.1002/1000/16469
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3393-202510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3393 (10/2025)
   type: ITU
@@ -50,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3393 describes the requirements for the smart maintenance
-    of cell antennas. The requirements include framework, functional requirements
-    and related interfaces, which address the use of AI technology to process the
-    big data from the network side and calculate the predicted antenna position and
-    azimuth angle, and then provide correction proposals.\r\n"
+  content: "Recommendation ITU-T M.3393 describes the requirements for the smart maintenance of cell antennas. The requirements include framework, functional requirements and related interfaces, which address the use of AI technology to process the big data from the network side and calculate the predicted antenna position and azimuth angle, and then provide correction proposals.\r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTO150051996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General requirements for instrumentation for performance measurements on
-    digital transmission equipment
+  content: General requirements for instrumentation for performance measurements on digital transmission equipment
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-O.150-199605-I
+  content: https://handle.itu.int/11.1002/1000/3358
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-O.150-199605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T O.150 (05/1996)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation contains general requirements applicable to the O-Series
-    Recommendations for instrumentation for performance measurements on digital transmission
-    equipment.
+  content: This Recommendation contains general requirements applicable to the O-Series Recommendations for instrumentation for performance measurements on digital transmission equipment.
 status:
   stage:
     content: Published
@@ -81,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital test patterns for performance measurements on digital transmission
-        equipment
+      content: Digital test patterns for performance measurements on digital transmission equipment
     docidentifier:
     - content: O.150 (10/1992)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTF74874062026
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.748.74-202606-I
+  content: https://handle.itu.int/11.1002/1000/16816
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.748.74-202606-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.748.74 (06/2026)
   type: ITU
@@ -50,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Multimodal foundation models have achieved significant progress in integrating
-    and understanding diverse modalities such as text, images, audio and video. The
-    need for comprehensive and reliable evaluation becomes increasingly critical.
-    Effective assessment supports model trustworthiness, facilitates root-cause analysis
-    of failures, and ensures consistent performance across diverse application scenarios.
-    \r\nRecommendation ITU-T F.748.74 establishes a comprehensive framework for evaluating
-    multimodal foundation models, covering test scenarios, datasets, tools, workflows
-    and model capability requirements, which is applicable to providing references
-    for institutions engaged in the research, development and application of multimodal
-    foundation models.\r\n"
+  content: "Multimodal foundation models have achieved significant progress in integrating and understanding diverse modalities such as text, images, audio and video. The need for comprehensive and reliable evaluation becomes increasingly critical. Effective assessment supports model trustworthiness, facilitates root-cause analysis of failures, and ensures consistent performance across diverse application scenarios. \r\nRecommendation ITU-T F.748.74 establishes a comprehensive framework for evaluating multimodal foundation models, covering test scenarios, datasets, tools, workflows and model capability requirements, which is applicable to providing references for institutions engaged in the research, development and application of multimodal foundation models.\r\n"
 status:
   stage:
     content: Published
@@ -79,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission
-        services
+      content: Definitions relating to telegraph, telematic and data transmission services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -120,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based
-        on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU

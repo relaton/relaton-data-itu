@@ -1,4 +1,3 @@
----
 id: ITUTKSuppl17052019
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup17-201905-I
+  content: https://handle.itu.int/11.1002/1000/13936
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup17-201905-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 17 (05/2019)
   type: ITU
@@ -50,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 17 to ITU-T K-series Recommendations provides background information
-    that explains how the various lightning and power fault test configurations and
-    electrical values in Recommendation ITU-T K.44 were derived. Examples show how
-    test procedures can be minimized by knowing how the surge and power fault test
-    conditions can vary with time and voltage. How ITU-T Recommendation K.44 relates
-    to its dependent Recommendations is explained.
+  content: Supplement 17 to ITU-T K-series Recommendations provides background information that explains how the various lightning and power fault test configurations and electrical values in Recommendation ITU-T K.44 were derived. Examples show how test procedures can be minimized by knowing how the surge and power fault test conditions can vary with time and voltage. How ITU-T Recommendation K.44 relates to its dependent Recommendations is explained.
 status:
   stage:
     content: Published

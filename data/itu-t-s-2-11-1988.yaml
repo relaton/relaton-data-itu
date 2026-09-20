@@ -1,16 +1,16 @@
----
 id: ITUTS2111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Coding scheme using International Telegraph Alphabet No. 2 (ITA2) to allow
-    the transmission of capital and small letters
+  content: Coding scheme using International Telegraph Alphabet No. 2 (ITA2) to allow the transmission of capital and small letters
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-S.2-198811-I
+  content: https://handle.itu.int/11.1002/1000/2454
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-S.2-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T S.2 (11/1988)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Existing terminal equipment making use of International Telegraph Alphabet
-    no. 2 (ITA2) may not discriminate between capital and small letter printing. The
-    decision to print in all capital or all small letters is a national matter and
-    not affected by the received code combination of ITA2. This Recommendation specifies
-    a procedure whereby the terminal equipment may transmit information to allow the
-    receiving terminal to discriminate between capital and small letter printing.
+  content: Existing terminal equipment making use of International Telegraph Alphabet no. 2 (ITA2) may not discriminate between capital and small letter printing. The decision to print in all capital or all small letters is a national matter and not affected by the received code combination of ITA2. This Recommendation specifies a procedure whereby the terminal equipment may transmit information to allow the receiving terminal to discriminate between capital and small letter printing.
 status:
   stage:
     content: Published
@@ -76,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Transmission of capital and small letters within CCITT-defined services
-        which use International Telegraph Alphabet N°2
+      content: Transmission of capital and small letters within CCITT-defined services which use International Telegraph Alphabet N°2
     docidentifier:
     - content: S.2 (09/1986)
       type: ITU

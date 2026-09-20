@@ -1,4 +1,3 @@
----
 id: ITUTYSuppl33072020
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup33-202007-I
+  content: https://handle.itu.int/11.1002/1000/14360
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup33-202007-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 33 (07/2020)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 33 to ITU-T Y-series Recommendations seeks to provide municipalities
-    and interested stakeholders with a general overview of the stages and technical
-    specifications that need to be considered to effectively apply the notion of the
-    smart sustainable city (SSC) to their respective locations. It provides a guide
-    for the implementation of SSCs based on intensive use of information and communication
-    technologies (ICTs), and refers the reader to a series of thematic reports that
-    address the specific technical aspects involved in the design and operation of
-    SSC strategies. While building upon expertise available in the field, this Supplement
-    is intended to be as general and inclusive as possible. It aims to inform the
-    design of SSC strategies of any municipality, irrespective of its size, location
-    or resource availability, in both developed and developing countries. \r\n"
+  content: "Supplement 33 to ITU-T Y-series Recommendations seeks to provide municipalities and interested stakeholders with a general overview of the stages and technical specifications that need to be considered to effectively apply the notion of the smart sustainable city (SSC) to their respective locations. It provides a guide for the implementation of SSCs based on intensive use of information and communication technologies (ICTs), and refers the reader to a series of thematic reports that address the specific technical aspects involved in the design and operation of SSC strategies. While building upon expertise available in the field, this Supplement is intended to be as general and inclusive as possible. It aims to inform the design of SSC strategies of any municipality, irrespective of its size, location or resource availability, in both developed and developing countries. \r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTH46024122009
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Point-to-point media through network address translators and firewalls
-    within ITU-T H.323 systems
+  content: Point-to-point media through network address translators and firewalls within ITU-T H.323 systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.460.24-200912-I
+  content: https://handle.itu.int/11.1002/1000/10640
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.460.24-200912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.460.24 (12/2009)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T H.460.24 enables an ITU-T H.323 gatekeeper to formulate
-    a decision to enable direct media flows between ITU-T H.323 endpoints that reside
-    behind network address translator (NAT)/Firewall (FW) devices. This extension
-    is used in conjunction with Recommendation ITU-T H.460.18 to facilitate the traversal
-    of media across NAT/FW devices and Recommendation ITU-T H.460.23 to discover the
-    characteristics of NAT/FW devices sitting in front of ITU-T H.323 endpoints, reducing
-    the frequency with which media proxy devices (as described in Recommendation ITU-T
-    H.460.19) are needed by allowing direct media connectivity between the endpoints.
-    Connectivity is achieved via the formulation of an intelligent media transmission
-    decision and call signalling that instructs endpoints to initiate media flows
-    in such a manner that a reliable direct media pathway is established, even if
-    one or both endpoints reside behind a NAT/FW device.
+  content: Recommendation ITU-T H.460.24 enables an ITU-T H.323 gatekeeper to formulate a decision to enable direct media flows between ITU-T H.323 endpoints that reside behind network address translator (NAT)/Firewall (FW) devices. This extension is used in conjunction with Recommendation ITU-T H.460.18 to facilitate the traversal of media across NAT/FW devices and Recommendation ITU-T H.460.23 to discover the characteristics of NAT/FW devices sitting in front of ITU-T H.323 endpoints, reducing the frequency with which media proxy devices (as described in Recommendation ITU-T H.460.19) are needed by allowing direct media connectivity between the endpoints. Connectivity is achieved via the formulation of an intelligent media transmission decision and call signalling that instructs endpoints to initiate media flows in such a manner that a reliable direct media pathway is established, even if one or both endpoints reside behind a NAT/FW device.
 status:
   stage:
     content: Published
@@ -112,9 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -134,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -145,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -156,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -167,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -188,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -219,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

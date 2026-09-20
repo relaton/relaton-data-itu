@@ -1,4 +1,3 @@
----
 id: ITUTM1402082007
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1402-200708-S
+  content: https://handle.itu.int/11.1002/1000/9091
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1402-200708-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1402 (08/2007)
   type: ITU
@@ -50,25 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation M.1402 contains definitions of data for service management.
-    The data are defined in the way they are presented to the end users at their terminals,
-    and conceptual or internal data structures are not defined. Therefore, this Recommendation
-    defines an external terminology schema for the given application domain.This Recommendation
-    focuses on defining data for products, customers, accounts, contracts, deals,
-    addresses, prices, various segments and relationships between all these. Some
-    attributes that are essential for identifying objects and associations between
-    them are defined, as well.Order data and detailed mappings to network elements
-    are not covered. Also, billing, marketing, sales, retailer, distributor, number
-    management, device management, location management, logistics and finance are
-    not covered. Finally, alarms, trouble tickets, call records and other call centre
-    information are missing.As the data defined in this Recommendation are designed
-    for human usage, they are independent of the functions in which they are used.
-    Hence, the data may be applied in any functions, e.g., in customer requests, call
-    centres, billing, service platforms, etc.This Recommendation uses the notation
-    and conventions found in ITU-T Recommendation M.1401, "Formalization of interconnection
-    designations among operators' telecommunication networks".Appendix I explains
-    the creation of product and customer service databases.Appendix II explains creation
-    of interfaces to service platforms.
+  content: ITU-T Recommendation M.1402 contains definitions of data for service management. The data are defined in the way they are presented to the end users at their terminals, and conceptual or internal data structures are not defined. Therefore, this Recommendation defines an external terminology schema for the given application domain.This Recommendation focuses on defining data for products, customers, accounts, contracts, deals, addresses, prices, various segments and relationships between all these. Some attributes that are essential for identifying objects and associations between them are defined, as well.Order data and detailed mappings to network elements are not covered. Also, billing, marketing, sales, retailer, distributor, number management, device management, location management, logistics and finance are not covered. Finally, alarms, trouble tickets, call records and other call centre information are missing.As the data defined in this Recommendation are designed for human usage, they are independent of the functions in which they are used. Hence, the data may be applied in any functions, e.g., in customer requests, call centres, billing, service platforms, etc.This Recommendation uses the notation and conventions found in ITU-T Recommendation M.1401, "Formalization of interconnection designations among operators' telecommunication networks".Appendix I explains the creation of product and customer service databases.Appendix II explains creation of interfaces to service platforms.
 status:
   stage:
     content: Withdrawal
@@ -98,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T M.1400-series – Supplement on directory of external terminology
-        schemas
+      content: ITU-T M.1400-series – Supplement on directory of external terminology schemas
     docidentifier:
     - content: M Suppl. 7 (05/2008)
       type: ITU

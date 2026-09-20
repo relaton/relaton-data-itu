@@ -1,4 +1,3 @@
----
 id: ITUTKSuppl11092018
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup11-201809-I
+  content: https://handle.itu.int/11.1002/1000/13793
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup11-201809-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 11 (09/2018)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 11 to ITU-T K-series of Recommendations describes soft error
-    mitigation for field programmable gate arrays (FPGAs). FPGAs are a mainstream
-    component of recent large‑scale integrated circuits (LSIs), and many FPGAs are
-    used as the main component in equipment for communication. First, this Supplement
-    describes trends of soft error rates corresponding with the miniaturization of
-    manufacturing process rules for semiconductors, and outlines mitigation techniques
-    such as materials, physical layout and design tools that FPGA venders provide
-    to users. Second, this Supplement discusses the design methodology of communication
-    equipment, including consideration of reliability specification by using these
-    mitigation measures. Finally, this Supplement discusses recent trends for mitigation
-    measures for FPGAs.
+  content: Supplement 11 to ITU-T K-series of Recommendations describes soft error mitigation for field programmable gate arrays (FPGAs). FPGAs are a mainstream component of recent large‑scale integrated circuits (LSIs), and many FPGAs are used as the main component in equipment for communication. First, this Supplement describes trends of soft error rates corresponding with the miniaturization of manufacturing process rules for semiconductors, and outlines mitigation techniques such as materials, physical layout and design tools that FPGA venders provide to users. Second, this Supplement discusses the design methodology of communication equipment, including consideration of reliability specification by using these mitigation measures. Finally, this Supplement discusses recent trends for mitigation measures for FPGAs.
 status:
   stage:
     content: Published

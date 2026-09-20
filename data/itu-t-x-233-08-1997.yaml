@@ -1,16 +1,16 @@
----
 id: ITUTX233081997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Protocol for providing the connectionless-mode
-    network service: Protocol specification'
+  content: 'Information technology – Protocol for providing the connectionless-mode network service: Protocol specification'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.233-199708-I
+  content: https://handle.itu.int/11.1002/1000/3994
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.233-199708-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.233 (08/1997)
   type: ITU
@@ -54,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation | International Standard specifies a protocol which
-    is used to provide a connectionless-mode service as defined in the network service
-    definition and associated management functions. The specification consists of
-    the protocol mechanisms and PDU structure for the exchange of data between end
-    systems and intermediate systems using connectionless data transfers. The protocol
-    defines: data transfer, error reporting and echo function.This Recommendation
-    | International Standard includes a description of the mapping from the protocol
-    operation onto a generalized OSI data link service which can be used in conjunction
-    with real subnetworks.'
+  content: 'This Recommendation | International Standard specifies a protocol which is used to provide a connectionless-mode service as defined in the network service definition and associated management functions. The specification consists of the protocol mechanisms and PDU structure for the exchange of data between end systems and intermediate systems using connectionless data transfers. The protocol defines: data transfer, error reporting and echo function.This Recommendation | International Standard includes a description of the mapping from the protocol operation onto a generalized OSI data link service which can be used in conjunction with real subnetworks.'
 status:
   stage:
     content: Published
@@ -112,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Protocol for providing the connectionless-mode
-        network service: Protocol specification'
+      content: 'Information technology – Protocol for providing the connectionless-mode network service: Protocol specification'
     docidentifier:
     - content: X.233 (11/1993)
       type: ITU

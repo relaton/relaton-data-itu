@@ -1,16 +1,16 @@
----
 id: ITUTE721051999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Network grade of service parameters and target values for circuit-switched
-    services in the evolving ISDN
+  content: Network grade of service parameters and target values for circuit-switched services in the evolving ISDN
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.721-199905-I
+  content: https://handle.itu.int/11.1002/1000/4649
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.721-199905-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.721 (05/1999)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides network Grade of Service (GOS) parameters
-    for circuit-switched services in ISDN, based on the ISDN Grade of Service concept
-    and guidelines for selecting GOS parameters provided in Recommendation E.720.
-    The parameter values assume that the network and the components are fully operational
-    and take account of the evolving nature of the ISDN and Signalling System No.
-    7 capabilities.This version of this Recommendation includes revised parameters
-    for GOS target values for circuit-switched services in the evolving ISDN.
+  content: This Recommendation provides network Grade of Service (GOS) parameters for circuit-switched services in ISDN, based on the ISDN Grade of Service concept and guidelines for selecting GOS parameters provided in Recommendation E.720. The parameter values assume that the network and the components are fully operational and take account of the evolving nature of the ISDN and Signalling System No. 7 capabilities.This version of this Recommendation includes revised parameters for GOS target values for circuit-switched services in the evolving ISDN.
 status:
   stage:
     content: Published
@@ -77,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Network grade of service parameters and target values for circuit-switched
-        services in the evolving ISDN
+      content: Network grade of service parameters and target values for circuit-switched services in the evolving ISDN
     docidentifier:
     - content: E.721 (08/1991)
       type: ITU
@@ -98,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

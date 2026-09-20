@@ -1,16 +1,16 @@
----
 id: ITUTM30504032007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Enhanced Telecom Operations Map (eTOM) – B2B integration: Using B2B inter-enterprise
-    integration with the eTOM'
+  content: 'Enhanced Telecom Operations Map (eTOM) – B2B integration: Using B2B inter-enterprise integration with the eTOM'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3050.4-200703-I
+  content: https://handle.itu.int/11.1002/1000/9090
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3050.4-200703-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3050.4 (03/2007)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation M.3050.x sub-series contain a reference framework
-    for categorizing the business activities that a service provider will use. The
-    Enhanced Telecom Operations Map(r) (or eTOM for short), which has been developed
-    by the TeleManagement Forum, describes the enterprise processes required by a
-    service provider and analyses them to different levels of detail according to
-    their significance and priority for the business. This business process approach
-    has built on the concepts of management services and functions in order to develop
-    a framework for categorizing all the business activities. This Recommendation
-    contains guidance on B2B integration
+  content: ITU-T Recommendation M.3050.x sub-series contain a reference framework for categorizing the business activities that a service provider will use. The Enhanced Telecom Operations Map(r) (or eTOM for short), which has been developed by the TeleManagement Forum, describes the enterprise processes required by a service provider and analyses them to different levels of detail according to their significance and priority for the business. This business process approach has built on the concepts of management services and functions in order to develop a framework for categorizing all the business activities. This Recommendation contains guidance on B2B integration
 status:
   stage:
     content: Published
@@ -79,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Enhanced Telecom Operations Map (eTOM) – B2B integration: Using B2B
-        inter-enterprise integration with the eTOM'
+      content: 'Enhanced Telecom Operations Map (eTOM) – B2B integration: Using B2B inter-enterprise integration with the eTOM'
     docidentifier:
     - content: M.3050.4 (06/2004)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTY1566072012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Quality of service mapping and interconnection between Ethernet, Internet
-    protocol and multiprotocol label switching networks
+  content: Quality of service mapping and interconnection between Ethernet, Internet protocol and multiprotocol label switching networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1566-201207-I
+  content: https://handle.itu.int/11.1002/1000/11689
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1566-201207-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1566 (07/2012)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Existing quality of service (QoS) class standardization for packet-based
-    layer 2 and layer 3 services is largely non binding or missing. Recommendation
-    ITU-T Y.1566 intends to simplify technical Ethernet, multiprotocol label switching
-    (MPLS) and internet protocol (IP) QoS interconnection negotiations. Four ordinary
-    classes and four auxiliary classes have been defined. This set of classes covers
-    a wide range of transport service offerings.\r\nThe Recommendation gives guidance
-    on how to deal with issues resulting from differences in QoS deployments of interconnecting
-    service providers, aiming at the preservation of the original intent of the service.\r\n"
+  content: "Existing quality of service (QoS) class standardization for packet-based layer 2 and layer 3 services is largely non binding or missing. Recommendation ITU-T Y.1566 intends to simplify technical Ethernet, multiprotocol label switching (MPLS) and internet protocol (IP) QoS interconnection negotiations. Four ordinary classes and four auxiliary classes have been defined. This set of classes covers a wide range of transport service offerings.\r\nThe Recommendation gives guidance on how to deal with issues resulting from differences in QoS deployments of interconnecting service providers, aiming at the preservation of the original intent of the service.\r\n"
 status:
   stage:
     content: Published
@@ -98,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -109,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -120,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

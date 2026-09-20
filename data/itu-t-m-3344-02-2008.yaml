@@ -1,16 +1,16 @@
----
 id: ITUTM3344022008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements and analysis for NGN appointment management across the business
-    to business and customer to business interfaces
+  content: Requirements and analysis for NGN appointment management across the business to business and customer to business interfaces
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3344-200802-S
+  content: https://handle.itu.int/11.1002/1000/9239
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3344-200802-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3344 (02/2008)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3344 contains the requirements and analysis for
-    appointment management for the business to business and customer to business interfaces
-    in support of NGN. \r\n\r\nThe requirements and analysis are provided using the
-    TMN interface specification methodology described in Recommendation ITU-T M.3020."
+  content: "Recommendation ITU-T M.3344 contains the requirements and analysis for appointment management for the business to business and customer to business interfaces in support of NGN. \r\n\r\nThe requirements and analysis are provided using the TMN interface specification methodology described in Recommendation ITU-T M.3020."
 status:
   stage:
     content: Withdrawal
@@ -74,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Requirements and analysis for NGN appointment management across the
-        business-to-business and customer-to-business interfaces
+      content: Requirements and analysis for NGN appointment management across the business-to-business and customer-to-business interfaces
     docidentifier:
     - content: M.3344 (01/2011)
       type: ITU

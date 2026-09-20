@@ -1,16 +1,16 @@
----
 id: ITUTX1145052017
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security framework and requirements for open capabilities of telecommunication
-    services
+  content: Security framework and requirements for open capabilities of telecommunication services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1145-201705-I
+  content: https://handle.itu.int/11.1002/1000/13260
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1145-201705-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1145 (05/2017)
   type: ITU
@@ -51,26 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Currently, due to the boom in over-the-top (OTT) services in the information
-    communication technology (ICT) domain, operators need to explore innovative ways
-    to cooperate with third party service providers and especially with information
-    technology (IT) service providers in order to avoid the traffic growth associated
-    with such services without the commensurate income increases. Open capabilities
-    of telecommunication services can bridge the operators' telecommunication services
-    capabilities and the third party service providers' customized service requirements,
-    thus becoming a win-win cooperation paradigm.\r\n\r\nAs the core asset for operators,
-    capabilities of telecommunication services should be opened in a secure way and
-    be fully protected, as both operators' business security and users' information
-    security are implicated. Without a comprehensive security mechanism, an unsecure/spiteful
-    application/service from a third party service provider using the capabilities
-    of telecommunication services may harm the operators' transmission network, business
-    system and even users' personally identifiable information (PII). Consequently,
-    in order to offer secure telecommunication service capabilities to cooperative
-    service providers, the security requirements for open capabilities of telecommunication
-    services need to be analysed exhaustively and an overall security framework needs
-    to be established.\r\n\r\nRecommendation ITU-T X.1145 focuses on an analysis of
-    the security requirements of open capabilities of telecommunication services and
-    provides a security framework.\r\n"
+  content: "Currently, due to the boom in over-the-top (OTT) services in the information communication technology (ICT) domain, operators need to explore innovative ways to cooperate with third party service providers and especially with information technology (IT) service providers in order to avoid the traffic growth associated with such services without the commensurate income increases. Open capabilities of telecommunication services can bridge the operators' telecommunication services capabilities and the third party service providers' customized service requirements, thus becoming a win-win cooperation paradigm.\r\n\r\nAs the core asset for operators, capabilities of telecommunication services should be opened in a secure way and be fully protected, as both operators' business security and users' information security are implicated. Without a comprehensive security mechanism, an unsecure/spiteful application/service from a third party service provider using the capabilities of telecommunication services may harm the operators' transmission network, business system and even users' personally identifiable information (PII). Consequently, in order to offer secure telecommunication service capabilities to cooperative service providers, the security requirements for open capabilities of telecommunication services need to be analysed exhaustively and an overall security framework needs to be established.\r\n\r\nRecommendation ITU-T X.1145 focuses on an analysis of the security requirements of open capabilities of telecommunication services and provides a security framework.\r\n"
 status:
   stage:
     content: Published

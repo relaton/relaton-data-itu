@@ -1,16 +1,16 @@
----
 id: ITUTD225121997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Charging and accounting principles to be applied to frame relay data transmission
-    service
+  content: Charging and accounting principles to be applied to frame relay data transmission service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.225-199712-I
+  content: https://handle.itu.int/11.1002/1000/4151
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.225-199712-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.225 (12/1997)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation sets out the general principles for charging and accounting
-    for the provision of Frame Relay Data Transmission Service (FRDTS) via dedicated
-    circuits (permanent virtual circuits) and by Switched Virtual Circuits. These
-    services are defined in Recommendation ITU-T X.36. The frame relaying bearer service
-    in the ISDN (including frame relaying multicast service) is described in Recommendation
-    ITU-T I.233.1.
+  content: This Recommendation sets out the general principles for charging and accounting for the provision of Frame Relay Data Transmission Service (FRDTS) via dedicated circuits (permanent virtual circuits) and by Switched Virtual Circuits. These services are defined in Recommendation ITU-T X.36. The frame relaying bearer service in the ISDN (including frame relaying multicast service) is described in Recommendation ITU-T I.233.1.
 status:
   stage:
     content: Published
@@ -76,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Charging and accounting principles to be applied to frame relay data
-        transmission service
+      content: Charging and accounting principles to be applied to frame relay data transmission service
     docidentifier:
     - content: D.225 (10/1996)
       type: ITU
@@ -107,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing
-        national tariffs
+      content: Handbook on the methodology for determining costs and establishing national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

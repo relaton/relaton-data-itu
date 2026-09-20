@@ -1,16 +1,16 @@
----
 id: ITUTX750101996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Systems Management:
-    Management knowledge management function'
+  content: 'Information technology – Open Systems Interconnection – Systems Management: Management knowledge management function'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.750-199610-I
+  content: https://handle.itu.int/11.1002/1000/3095
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.750-199610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.750 (10/1996)
   type: ITU
@@ -54,24 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'An Operations Systems (OS) can only interwork with another OS or Network
-    Element (NE) if it has knowledge about the precise management information and
-    management message types the other OS or NE is capable of supporting for management
-    interactions. There are many ways this knowledge can be obtained and inserted
-    into an OS or NE product''s software. This Recommendation provides the means to
-    specify knowledge management information and messages, that allow for the "on
-    line" transfer from one system to another the specific details of this information.
-    The administration of a management network will be made more efficient by the
-    use of systems that have this management knowledge capability because for example:
-    transfer of this knowledge is provided using standard X.700 knowledge management
-    messages thus precluding the need for vendors, who require their products to interwork,
-    to come to some local agreement for OSI systems management based messages, during
-    operational service checks can be made about the capability of an OS or NE; and
-    there is a standard way to augment the management information and messages that
-    an OS or NE; and there is a standard way to augment the management information
-    and messages that an OS or NE can support. An alternative to the use of X.700
-    messages is the use of X.500 Directory services and in support of this, this Recommendation
-    | International Standard defines Directory entries to hold this information.'
+  content: 'An Operations Systems (OS) can only interwork with another OS or Network Element (NE) if it has knowledge about the precise management information and management message types the other OS or NE is capable of supporting for management interactions. There are many ways this knowledge can be obtained and inserted into an OS or NE product''s software. This Recommendation provides the means to specify knowledge management information and messages, that allow for the "on line" transfer from one system to another the specific details of this information. The administration of a management network will be made more efficient by the use of systems that have this management knowledge capability because for example: transfer of this knowledge is provided using standard X.700 knowledge management messages thus precluding the need for vendors, who require their products to interwork, to come to some local agreement for OSI systems management based messages, during operational service checks can be made about the capability of an OS or NE; and there is a standard way to augment the management information and messages that an OS or NE; and there is a standard way to augment the management information and messages that an OS or NE can support. An alternative to the use of X.700 messages is the use of X.500 Directory services and in support of this, this Recommendation | International Standard defines Directory entries to hold this information.'
 status:
   stage:
     content: Published

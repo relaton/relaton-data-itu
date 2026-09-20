@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl28121999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report: Signalling and protocol framework for an emerging environment
-    (SPFEE) – Specifications for service access'
+  content: 'Technical Report: Signalling and protocol framework for an emerging environment (SPFEE) – Specifications for service access'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup28-199912-I
+  content: https://handle.itu.int/11.1002/1000/5009
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup28-199912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 28 (12/1999)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement specifies the (Session level) information and computational
-    model of the Consumer-Retailer reference point. It provides information and computational
-    specificationfor service access defined in Signalling and Protocol Framework for
-    an Evolving Environment (SPFEE). The information and computational specifications
-    are described in informal and formal description languages such as Interface Definition
-    Language (IDL).
+  content: This Supplement specifies the (Session level) information and computational model of the Consumer-Retailer reference point. It provides information and computational specificationfor service access defined in Signalling and Protocol Framework for an Evolving Environment (SPFEE). The information and computational specifications are described in informal and formal description languages such as Interface Definition Language (IDL).
 status:
   stage:
     content: Published

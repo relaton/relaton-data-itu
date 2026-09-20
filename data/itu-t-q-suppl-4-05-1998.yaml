@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl4051998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Number portability – Capability set 1 requirements for service provider
-    portability (All call query and Onward routing)
+  content: Number portability – Capability set 1 requirements for service provider portability (All call query and Onward routing)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup4-199805-I
+  content: https://handle.itu.int/11.1002/1000/4580
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup4-199805-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 4 (05/1998)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement describes the additions required to support Service Provider
-    Portability in a Signalling System Number No. 7 network for Number Portability
-    Capability Set 1 (NPCS-1).The Portability Number Call Control for Service Provider
-    Portability (PNCC-SPP) in a Signalling System Number No. 7 network provides the
-    core function to support portability for geographic numbers using the "onward
-    routing" and "all call query" methods.
+  content: This Supplement describes the additions required to support Service Provider Portability in a Signalling System Number No. 7 network for Number Portability Capability Set 1 (NPCS-1).The Portability Number Call Control for Service Provider Portability (PNCC-SPP) in a Signalling System Number No. 7 network provides the core function to support portability for geographic numbers using the "onward routing" and "all call query" methods.
 status:
   stage:
     content: Published

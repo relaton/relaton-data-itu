@@ -1,17 +1,16 @@
----
 id: ITUTX247101996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Protocol specification
-    for the Association Control Service Element: Protocol Implementation Conformance
-    Statement (PICS) proforma'
+  content: 'Information technology – Open Systems Interconnection – Protocol specification for the Association Control Service Element: Protocol Implementation Conformance Statement (PICS) proforma'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.247-199610-I
+  content: https://handle.itu.int/11.1002/1000/3751
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.247-199610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.247 (10/1996)
   type: ITU
@@ -55,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes the protocol implementation
-    conformance statement for the OSI association control service element protocol
-    (see ITU-T Rec. X.852 | ISO/IEC 9805-1). The PICS present, in a tabular form,
-    the mandatory and optional elements of the ACSE protocol. The PICS are utilized
-    to represent the choices and features of a particular implementation of OSI ACSE.
+  content: This Recommendation | International Standard describes the protocol implementation conformance statement for the OSI association control service element protocol (see ITU-T Rec. X.852 | ISO/IEC 9805-1). The PICS present, in a tabular form, the mandatory and optional elements of the ACSE protocol. The PICS are utilized to represent the choices and features of a particular implementation of OSI ACSE.
 status:
   stage:
     content: Published
@@ -79,9 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Protocol specification
-        for the Association Control Service Element: Protocol Implementation Conformance
-        Statement (PICS) proforma'
+      content: 'Information technology – Open Systems Interconnection – Protocol specification for the Association Control Service Element: Protocol Implementation Conformance Statement (PICS) proforma'
     docidentifier:
     - content: X.247 (07/1994)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTX371Y1402022001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General arrangements for interworking between Public Data Networks and
-    the Internet
+  content: General arrangements for interworking between Public Data Networks and the Internet
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.371-200102-I
+  content: https://handle.itu.int/11.1002/1000/5339
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.371-200102-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.371/Y.1402 (02/2001)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines general arrangements for interworking between
-    Public Data Networks and the Internet. It includes reference configurations, general
-    packet handling and other general arrangements required for various interworking
-    cases where PSPDNs and networks providing FRDTS are involved.
+  content: This Recommendation defines general arrangements for interworking between Public Data Networks and the Internet. It includes reference configurations, general packet handling and other general arrangements required for various interworking cases where PSPDNs and networks providing FRDTS are involved.
 status:
   stage:
     content: Published

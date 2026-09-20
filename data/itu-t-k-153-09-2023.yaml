@@ -1,16 +1,16 @@
----
 id: ITUTK153092023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidance on determining the compliance boundaries (exclusion zones) of
-    radio transmitter installations
+  content: Guidance on determining the compliance boundaries (exclusion zones) of radio transmitter installations
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.153-202309-I
+  content: https://handle.itu.int/11.1002/1000/15596
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.153-202309-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.153 (09/2023)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Exclusion zones are described by the compliance boundaries around radio
-    base stations and transmitting stations in which the electromagnetic fields may
-    exceed the radio frequency electromagnetic field (RF-EMF) exposure limits. The
-    general public shall not have access to those areas. Exclusion zones are also
-    defined for occupational exposure. Those areas are generally positioned on rooftops
-    in urban or suburban locations. Their shape and dimensions may differ depending
-    on the regulations.\r\nRecommendation ITU-T K.153 includes information on how
-    the exclusion zones should be determined based on the data concerning operating
-    frequencies and equivalent isotropically radiated power (EIRP) on each of the
-    operating frequencies. It also includes information on cases in which there are
-    no exclusion zones. For example, on masts, especially in rural areas, there is
-    no need for any materialization as the general public does not have access to
-    this zone and access for workers is also limited and usually exists only in the
-    front of the transmitting antennas. Furthermore, some other transmitters do not
-    need any compliance boundary as the installed power level is so low that they
-    are compliant even when touching the transmitter.\r\n"
+  content: "Exclusion zones are described by the compliance boundaries around radio base stations and transmitting stations in which the electromagnetic fields may exceed the radio frequency electromagnetic field (RF-EMF) exposure limits. The general public shall not have access to those areas. Exclusion zones are also defined for occupational exposure. Those areas are generally positioned on rooftops in urban or suburban locations. Their shape and dimensions may differ depending on the regulations.\r\nRecommendation ITU-T K.153 includes information on how the exclusion zones should be determined based on the data concerning operating frequencies and equivalent isotropically radiated power (EIRP) on each of the operating frequencies. It also includes information on cases in which there are no exclusion zones. For example, on masts, especially in rural areas, there is no need for any materialization as the general public does not have access to this zone and access for workers is also limited and usually exists only in the front of the transmitting antennas. Furthermore, some other transmitters do not need any compliance boundary as the installed power level is so low that they are compliant even when touching the transmitter.\r\n"
 status:
   stage:
     content: Published
@@ -86,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -107,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -118,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -129,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -140,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -171,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

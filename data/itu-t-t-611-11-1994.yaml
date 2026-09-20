@@ -1,16 +1,16 @@
----
 id: ITUTT611111994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Programming Communication Interface (PCI) APPLI/COM for facsimile Group
-    3, facsimile Group 4, teletex, telex, E-mail and file transfer services
+  content: Programming Communication Interface (PCI) APPLI/COM for facsimile Group 3, facsimile Group 4, teletex, telex, E-mail and file transfer services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.611-199411-I
+  content: https://handle.itu.int/11.1002/1000/2619
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.611-199411-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.611 (11/1994)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation as approved in 1992 defines a Programming Communication
-    Interface called "APPLI/COM", providing unified access to Telefax Group 3, Telefax
-    Group 4, telex and teletex services.Recommendation T.611 has been revised for
-    clarity and to include E-mail services in general, Message Handling Systems (MHS),
-    as described in the ITU-T X.400-series of Recommendations, in particular and File
-    Transfer Services.Special consideration has been taken to assure backwards compatibility
-    with the 1992 version of this Recommendation.
+  content: This Recommendation as approved in 1992 defines a Programming Communication Interface called "APPLI/COM", providing unified access to Telefax Group 3, Telefax Group 4, telex and teletex services.Recommendation T.611 has been revised for clarity and to include E-mail services in general, Message Handling Systems (MHS), as described in the ITU-T X.400-series of Recommendations, in particular and File Transfer Services.Special consideration has been taken to assure backwards compatibility with the 1992 version of this Recommendation.
 status:
   stage:
     content: Published
@@ -77,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Programmable communication interface (PCI) APPLI/COM for facsimile
-        group 3, facsimile group 4, teletex and telex services
+      content: Programmable communication interface (PCI) APPLI/COM for facsimile group 3, facsimile group 4, teletex and telex services
     docidentifier:
     - content: T.611 (09/1992)
       type: ITU

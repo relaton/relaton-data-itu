@@ -1,16 +1,16 @@
----
 id: ITUTI3711061997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Traffic control and congestion control in B-ISDN: Conformance definitions
-    for ABT and ABR'
+  content: 'Traffic control and congestion control in B-ISDN: Conformance definitions for ABT and ABR'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.371.1-199706-W
+  content: https://handle.itu.int/11.1002/1000/4107
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.371.1-199706-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.371.1 (06/1997)
   type: ITU
@@ -46,11 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation I.371 states that conformance definitions for ABT and ABR
-    are required.This Recommendation specifies the ABT/DT and ABT/IT conformance definitions
-    and the ABR conformance definition for the explicit rate mode. Appendices provide
-    information on source, destination and network reference behaviours for ABR explicit
-    cell rate and binary modes.
+  content: Recommendation I.371 states that conformance definitions for ABT and ABR are required.This Recommendation specifies the ABT/DT and ABT/IT conformance definitions and the ABR conformance definition for the explicit rate mode. Appendices provide information on source, destination and network reference behaviours for ABR explicit cell rate and binary modes.
 status:
   stage:
     content: Withdrawal

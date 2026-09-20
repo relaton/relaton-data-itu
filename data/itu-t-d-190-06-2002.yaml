@@ -1,16 +1,16 @@
----
 id: ITUTD190062002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Exchange of international traffic accounting data between Administrations
-    using electronic data interchange (EDI) techniques
+  content: Exchange of international traffic accounting data between Administrations using electronic data interchange (EDI) techniques
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.190-200206-I
+  content: https://handle.itu.int/11.1002/1000/5705
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.190-200206-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.190 (06/2002)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this Recommendation is to promote a set of common data standards
-    which can be used by Administrations to exchange traffic accounting and settlement
-    data with each other using Electronic Data Interchange (EDI) techniques.The use
-    of EDI techniques is expected to provide a faster and more secure means of exchanging
-    data, and to reduce costs by automating the process for entering data received
-    from other Administrations to computer systems.SourceITU-T Recommendation D.190
-    was prepared by ITU-T Study Group 3 (2001-2004) and approved under the WTSA Resolution
-    1 procedure on 14 June 2002.
+  content: The purpose of this Recommendation is to promote a set of common data standards which can be used by Administrations to exchange traffic accounting and settlement data with each other using Electronic Data Interchange (EDI) techniques.The use of EDI techniques is expected to provide a faster and more secure means of exchanging data, and to reduce costs by automating the process for entering data received from other Administrations to computer systems.SourceITU-T Recommendation D.190 was prepared by ITU-T Study Group 3 (2001-2004) and approved under the WTSA Resolution 1 procedure on 14 June 2002.
 status:
   stage:
     content: Published
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Exchange of international traffic accounting data between Administrations
-        using electronic data interchange (EDI) techniques
+      content: Exchange of international traffic accounting data between Administrations using electronic data interchange (EDI) techniques
     docidentifier:
     - content: D.190 (09/1995)
       type: ITU
@@ -149,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing
-        national tariffs
+      content: Handbook on the methodology for determining costs and establishing national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

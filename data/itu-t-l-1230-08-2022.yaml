@@ -1,16 +1,16 @@
----
 id: ITUTL1230082022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specifications of 10 kVAC input and up to 400 VDC output integrated power
-    system in data centre and telecommunication room
+  content: Specifications of 10 kVAC input and up to 400 VDC output integrated power system in data centre and telecommunication room
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.1230-202208-I
+  content: https://handle.itu.int/11.1002/1000/15025
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.1230-202208-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L.1230 (08/2022)
   type: ITU
@@ -51,19 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: With the development of big data and cloud computing technology, the quantity
-    and total capacity of the data centre and telecommunication room as well as information
-    and communication technology (ICT) equipment power density is increasing rapidly.
-    Furthermore, it has been found that the traditional power systems had the disadvantages
-    of low energy efficiency, high energy consumption and maintenance difficulties
-    in existing data centre and telecommunication rooms. It is therefore necessary
-    to develop a new structure of the whole power system which integrates the traditional
-    10 kVAC voltage distribution equipment, transformer, low voltage distribution
-    equipment and up to 400 VDC equipment. In the new structure the distribution system
-    of each voltage level is simplified, so that the maintenance work is reduced,
-    and the reliability of the whole power system is improved. Recommendation ITU-T
-    L.1230 includes system composition, general requirements, and monitoring system,
-    etc. of 10 kVAC input and up to 400 VDC.
+  content: With the development of big data and cloud computing technology, the quantity and total capacity of the data centre and telecommunication room as well as information and communication technology (ICT) equipment power density is increasing rapidly. Furthermore, it has been found that the traditional power systems had the disadvantages of low energy efficiency, high energy consumption and maintenance difficulties in existing data centre and telecommunication rooms. It is therefore necessary to develop a new structure of the whole power system which integrates the traditional 10 kVAC voltage distribution equipment, transformer, low voltage distribution equipment and up to 400 VDC equipment. In the new structure the distribution system of each voltage level is simplified, so that the maintenance work is reduced, and the reliability of the whole power system is improved. Recommendation ITU-T L.1230 includes system composition, general requirements, and monitoring system, etc. of 10 kVAC input and up to 400 VDC.
 status:
   stage:
     content: Published
@@ -113,9 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Implementation guidance for small- and medium-sized enterprises on
-        information and communication technology supply chain due diligence concerning
-        conflict minerals
+      content: Implementation guidance for small- and medium-sized enterprises on information and communication technology supply chain due diligence concerning conflict minerals
     docidentifier:
     - content: L Suppl. 21 (04/2016)
       type: ITU
@@ -135,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Circular economy in information and communication technology; definition
-        of approaches, concepts and metrics
+      content: Circular economy in information and communication technology; definition of approaches, concepts and metrics
     docidentifier:
     - content: L Suppl. 28 (10/2016)
       type: ITU
@@ -146,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement for eco-specifications and rating criteria for mobile phones
-        eco-rating programmes
+      content: Supplement for eco-specifications and rating criteria for mobile phones eco-rating programmes
     docidentifier:
     - content: L Suppl. 32 (10/2016)
       type: ITU
@@ -157,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Assessment of energy consumption of information and communication technology
-        services
+      content: Assessment of energy consumption of information and communication technology services
     docidentifier:
     - content: L Suppl. 33 (10/2016)
       type: ITU
@@ -168,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Requirements on energy efficiency measurement models and the role of
-        artificial intelligence and big data
+      content: Requirements on energy efficiency measurement models and the role of artificial intelligence and big data
     docidentifier:
     - content: L Suppl. 41 (05/2021)
       type: ITU
@@ -179,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines on the environmental efficiency of machine learning processes
-        in supply chain management
+      content: Guidelines on the environmental efficiency of machine learning processes in supply chain management
     docidentifier:
     - content: L Suppl. 42 (05/2021)
       type: ITU
@@ -190,9 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Smart energy saving of 5G base stations: Traffic forecasting and strategy
-        optimization of 5G wireless network energy consumption based on artificial
-        intelligence and other emerging technologies'
+      content: 'Smart energy saving of 5G base stations: Traffic forecasting and strategy optimization of 5G wireless network energy consumption based on artificial intelligence and other emerging technologies'
     docidentifier:
     - content: L Suppl. 43 (05/2021)
       type: ITU
@@ -212,8 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Examples of resource saving within the information and communication
-        technology sector
+      content: Examples of resource saving within the information and communication technology sector
     docidentifier:
     - content: L Suppl. 47 (07/2022)
       type: ITU
@@ -223,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview on adaptation to climate change for information and communication
-        technology networks
+      content: Overview on adaptation to climate change for information and communication technology networks
     docidentifier:
     - content: L Suppl. 49 (07/2022)
       type: ITU
@@ -244,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines on the implementation of environmental efficiency criteria
-        for artificial intelligence and other emerging technologies
+      content: Guidelines on the implementation of environmental efficiency criteria for artificial intelligence and other emerging technologies
     docidentifier:
     - content: L Suppl. 53 (10/2022)
       type: ITU
@@ -255,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidance for assessing the greenhouse gas emissions consequences of
-        the financial effects generated by information and communication technology
+      content: Guidance for assessing the greenhouse gas emissions consequences of the financial effects generated by information and communication technology
     docidentifier:
     - content: L Suppl. 54 (10/2022)
       type: ITU
@@ -266,8 +241,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Environmental efficiency and impacts on United Nations Sustainable
-        Development Goals of data centres and cloud computing
+      content: Environmental efficiency and impacts on United Nations Sustainable Development Goals of data centres and cloud computing
     docidentifier:
     - content: L Suppl. 55 (10/2022)
       type: ITU
@@ -277,8 +251,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for connecting cities and communities with the Sustainable
-        Development Goals
+      content: Guidelines for connecting cities and communities with the Sustainable Development Goals
     docidentifier:
     - content: L Suppl. 56 (10/2022)
       type: ITU
@@ -288,8 +261,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T L.1331 – Supplement on study of multi-dimensional network energy
-        efficiency metrics
+      content: ITU-T L.1331 – Supplement on study of multi-dimensional network energy efficiency metrics
     docidentifier:
     - content: L Suppl. 62 (06/2026)
       type: ITU
@@ -299,9 +271,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T L.1060 – Supplement on specific principles for the green supply
-        chain management of information and communication technology manufacturing
-        industry
+      content: ITU-T L.1060 – Supplement on specific principles for the green supply chain management of information and communication technology manufacturing industry
     docidentifier:
     - content: L Suppl. 63 (06/2026)
       type: ITU
@@ -311,8 +281,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: National experiences with respect to ITU-T L.1xx-series optical fibre
-        cables, installation methods, and test methods
+      content: National experiences with respect to ITU-T L.1xx-series optical fibre cables, installation methods, and test methods
     docidentifier:
     - content: L Suppl. 65 (07/2026)
       type: ITU

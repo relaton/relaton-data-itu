@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl57012008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signalling requirements to support the emergency telecommunications service
-    (ETS) in IP networks
+  content: Signalling requirements to support the emergency telecommunications service (ETS) in IP networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup57-200801-I
+  content: https://handle.itu.int/11.1002/1000/9361
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup57-200801-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 57 (01/2008)
   type: ITU
@@ -51,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplement identifies the signalling requirements to support preferential
-    capabilities within IP networks for the emergency telecommunications service (ETS).
+  content: This supplement identifies the signalling requirements to support preferential capabilities within IP networks for the emergency telecommunications service (ETS).
 status:
   stage:
     content: Published

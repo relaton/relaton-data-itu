@@ -1,16 +1,16 @@
----
 id: ITUTH844072016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Conformance of ITU-T H.810 personal health devices: PAN/LAN/TAN interface
-    Part 4: Continua Design Guidelines: Manager'
+  content: 'Conformance of ITU-T H.810 personal health devices: PAN/LAN/TAN interface Part 4: Continua Design Guidelines: Manager'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.844-201607-S
+  content: https://handle.itu.int/11.1002/1000/12937
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.844-201607-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.844 (07/2016)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.844 is a transposition of Continua Test Tool DG2013,
-    Test Suite Structure & Test Purposes, PAN-LAN-TAN Interface; Part 4: Continua
-    Design Guidelines. Manager (Version 1.6, 2014-01-24), that was developed by the
-    Continua Health Alliance. A number of versions of this specification existed before
-    transposition. \r\n\r\nThis Recommendation includes an electronic attachment with
-    the protocol implementation conformance statements (PICS) and the protocol implementation
-    extra information for testing (PIXIT) required for the implementation of Annex
-    A.\r\n"
+  content: "Recommendation ITU-T H.844 is a transposition of Continua Test Tool DG2013, Test Suite Structure & Test Purposes, PAN-LAN-TAN Interface; Part 4: Continua Design Guidelines. Manager (Version 1.6, 2014-01-24), that was developed by the Continua Health Alliance. A number of versions of this specification existed before transposition. \r\n\r\nThis Recommendation includes an electronic attachment with the protocol implementation conformance statements (PICS) and the protocol implementation extra information for testing (PIXIT) required for the implementation of Annex A.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Conformance of ITU-T H.810 personal health system: Personal Health
-        Devices interface Part 4: Continua Design Guidelines: Personal Health Gateway'
+      content: 'Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 4: Continua Design Guidelines: Personal Health Gateway'
     docidentifier:
     - content: H.844 (11/2019)
       type: ITU
@@ -89,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Conformance of ITU-T H.810 personal health system: Personal Health
-        Devices interface Part 4: Continua Design Guidelines: Personal Health Gateway'
+      content: 'Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 4: Continua Design Guidelines: Personal Health Gateway'
     docidentifier:
     - content: H.844 (08/2018)
       type: ITU
@@ -100,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Conformance of ITU-T H.810 personal health system: Personal Health
-        Devices interface Part 4: Continua Design Guidelines: Personal Health Gateway'
+      content: 'Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 4: Continua Design Guidelines: Personal Health Gateway'
     docidentifier:
     - content: H.844 (04/2017)
       type: ITU
@@ -111,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Conformance of ITU-T H.810 personal health devices: PAN/LAN/TAN interface
-        Part 4: Continua Design Guidelines: Manager'
+      content: 'Conformance of ITU-T H.810 personal health devices: PAN/LAN/TAN interface Part 4: Continua Design Guidelines: Manager'
     docidentifier:
     - content: H.844 (01/2015)
       type: ITU
@@ -132,9 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -154,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -165,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -176,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -187,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -208,8 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -239,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

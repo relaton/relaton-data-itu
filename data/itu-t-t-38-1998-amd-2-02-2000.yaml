@@ -1,16 +1,16 @@
----
 id: ITUTT381998Amd2022000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: New Annexes D (SIP/SDP Call Establishment Procedures) and E (H.248 call
-    establishment procedures)
+  content: New Annexes D (SIP/SDP Call Establishment Procedures) and E (H.248 call establishment procedures)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.38-200002-S!Amd2
+  content: https://handle.itu.int/11.1002/1000/4841
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.38-200002-S!Amd2!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.38 (1998) Amd. 2 (02/2000)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment comprises new Annexes D and E. Annex D describes system
-    level requirements and procedures for internet aware facsimile implementations
-    and internet aware facsimile gateways conforming to ITU-T T.38 to establish calls
-    with other ITU-T T.38 implementations using the procedures defined in RFC 2543
-    (SIP) and RFC 2327 (SDP).Annex E describes system level requirements and procedures
-    for internet aware facsimile implementations and internet aware facsimile gateways
-    conforming to ITU-T T.38 to establish calls with other ITU-T T.38 implementations
-    using the procedures defined by ITU-T H.248.
+  content: This amendment comprises new Annexes D and E. Annex D describes system level requirements and procedures for internet aware facsimile implementations and internet aware facsimile gateways conforming to ITU-T T.38 to establish calls with other ITU-T T.38 implementations using the procedures defined in RFC 2543 (SIP) and RFC 2327 (SDP).Annex E describes system level requirements and procedures for internet aware facsimile implementations and internet aware facsimile gateways conforming to ITU-T T.38 to establish calls with other ITU-T T.38 implementations using the procedures defined by ITU-T H.248.
 status:
   stage:
     content: Withdrawal
@@ -136,8 +129,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Addition of vendor information in SIP/SDP call setup, corrections to
-        Annex C and Annex D, and enhanced implementation guidelines
+      content: Addition of vendor information in SIP/SDP call setup, corrections to Annex C and Annex D, and enhanced implementation guidelines
     docidentifier:
     - content: T.38 (2004) Amd. 1 (01/2005)
       type: ITU
@@ -205,8 +197,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Clarification on use of T.30 Indicator and TCP start-up, update of
-        Table 2, deletion of ASN.1 in Annex B
+      content: Clarification on use of T.30 Indicator and TCP start-up, update of Table 2, deletion of ASN.1 in Annex B
     docidentifier:
     - content: T.38 (1998) Amd. 4 (07/2001)
       type: ITU
@@ -216,9 +207,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Clarification of protocol version numbers, support for TPKT headers
-        and transmission of DTMF over RTP, and updated support for Internet-Aware
-        Fax devices and H.248.2
+      content: Clarification of protocol version numbers, support for TPKT headers and transmission of DTMF over RTP, and updated support for Internet-Aware Fax devices and H.248.2
     docidentifier:
     - content: T.38 (1998) Amd. 3 (11/2000)
       type: ITU
@@ -236,8 +225,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Revised Annex B on establishment procedures for facsimile communication
-        over IP networks
+      content: Revised Annex B on establishment procedures for facsimile communication over IP networks
     docidentifier:
     - content: T.38 (1998) Amd. 1 (04/1999)
       type: ITU

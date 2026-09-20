@@ -1,16 +1,16 @@
----
 id: ITUTX1820092024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security requirements for operation of IMT-2020/5G core network to support
-    vertical services
+  content: Security requirements for operation of IMT-2020/5G core network to support vertical services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1820-202409-I
+  content: https://handle.itu.int/11.1002/1000/15893
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1820-202409-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1820 (09/2024)
   type: ITU
@@ -51,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the development of the IMT-2020/5G system, vertical services have
-    become key scenarios for IMT-2020/5G. In vertical services for smart factories
-    and smart cities that use an IMT-2020/5G network, many user devices use vertical
-    services with massive machine-type communications and ultra-reliable low-latency
-    communications (URLLC).\r\nTo support vertical use cases which require ultra-reliability
-    and low latency, some IMT-2020/5G core network functions might be deployed at
-    local sites that are closer to vertical users, while other IMT2020/5G core network
-    functions are still deployed at a central site. Compared with the IMT2020/5G core
-    network deployed as a whole, the IMT-2020/5G core network operating in such deployment
-    may face specific security threats. \r\nTo ensure the security of the operation
-    of the IMT-2020/5G core network to support vertical services, specific security
-    threats need to be analysed and relevant security requirements need to be specified.\r\nRecommendation
-    ITU-T X.1820 analyses data security threats, network security threats and physical
-    security threats specific to the operation of the IMT-2020/5G core network, which
-    is deployed at both a central site and local sites to support vertical services.
-    It also specifies the relevant security requirements to mitigate the security
-    threats.\r\n"
+  content: "With the development of the IMT-2020/5G system, vertical services have become key scenarios for IMT-2020/5G. In vertical services for smart factories and smart cities that use an IMT-2020/5G network, many user devices use vertical services with massive machine-type communications and ultra-reliable low-latency communications (URLLC).\r\nTo support vertical use cases which require ultra-reliability and low latency, some IMT-2020/5G core network functions might be deployed at local sites that are closer to vertical users, while other IMT2020/5G core network functions are still deployed at a central site. Compared with the IMT2020/5G core network deployed as a whole, the IMT-2020/5G core network operating in such deployment may face specific security threats. \r\nTo ensure the security of the operation of the IMT-2020/5G core network to support vertical services, specific security threats need to be analysed and relevant security requirements need to be specified.\r\nRecommendation ITU-T X.1820 analyses data security threats, network security threats and physical security threats specific to the operation of the IMT-2020/5G core network, which is deployed at both a central site and local sites to support vertical services. It also specifies the relevant security requirements to mitigate the security threats.\r\n"
 status:
   stage:
     content: Published

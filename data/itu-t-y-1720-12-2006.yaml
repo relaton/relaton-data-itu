@@ -1,4 +1,3 @@
----
 id: ITUTY1720122006
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1720-200612-I
+  content: https://handle.itu.int/11.1002/1000/9012
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1720-200612-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1720 (12/2006)
   type: ITU
@@ -50,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation Y.1720 provides requirements and mechanisms for 1+1,
-    1:1, shared mesh, and packet 1+1 protection switching functionality for the user-plane
-    in MPLS layer networks. The mechanism defined herein is designed to support end-to-end
-    point-to-point LSPs. Protection switching functionality for multipoint-to-point
-    and point-to-multipoint LSP are for further study. m:n protection switching is
-    for further study. Hitless protection switching is outside the scope of this version
-    of the Recommendation.
+  content: ITU-T Recommendation Y.1720 provides requirements and mechanisms for 1+1, 1:1, shared mesh, and packet 1+1 protection switching functionality for the user-plane in MPLS layer networks. The mechanism defined herein is designed to support end-to-end point-to-point LSPs. Protection switching functionality for multipoint-to-point and point-to-multipoint LSP are for further study. m:n protection switching is for further study. Hitless protection switching is outside the scope of this version of the Recommendation.
 status:
   stage:
     content: Published
@@ -148,8 +143,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -159,8 +153,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -170,8 +163,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

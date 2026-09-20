@@ -1,16 +1,16 @@
----
 id: ITUTV100111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interconnection between public data networks (PDNs) and the public switched
-    telephone networks (PSTN)
+  content: Interconnection between public data networks (PDNs) and the public switched telephone networks (PSTN)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.100-198811-I
+  content: https://handle.itu.int/11.1002/1000/2711
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.100-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.100 (11/1988)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interconnection between public data networks (PDNs) and the public
-        switched telephone network (PSTN)
+      content: Interconnection between public data networks (PDNs) and the public switched telephone network (PSTN)
     docidentifier:
     - content: V.100 (10/1984)
       type: ITU

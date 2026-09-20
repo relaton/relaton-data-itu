@@ -1,16 +1,16 @@
----
 id: ITUTGSuppl37101998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Recommendation G.763 digital circuit multiplication equipment (DCME)
-    tutorial and dimensioning
+  content: ITU-T Recommendation G.763 digital circuit multiplication equipment (DCME) tutorial and dimensioning
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup37-199810-I
+  content: https://handle.itu.int/11.1002/1000/4557
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup37-199810-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 37 (10/1998)
   type: ITU
@@ -51,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplement gives tutorial information on DCME techniques and describes
-    various DCME dimensioning methods for different route characteristics.
+  content: This supplement gives tutorial information on DCME techniques and describes various DCME dimensioning methods for different route characteristics.
 status:
   stage:
     content: Published

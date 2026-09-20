@@ -1,16 +1,16 @@
----
 id: ITUTT505011991
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Document application profile PM-26 for the interchange of mixed content
-    documents in processable and formatted forms
+  content: Document application profile PM-26 for the interchange of mixed content documents in processable and formatted forms
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.505-199101-S
+  content: https://handle.itu.int/11.1002/1000/2584
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.505-199101-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.505 (01/1991)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document application profile PM-26 for the interchange of enhanced
-        structure, mixed content documents in processable and formatted forms
+      content: Document application profile PM-26 for the interchange of enhanced structure, mixed content documents in processable and formatted forms
     docidentifier:
     - content: T.505 (11/1994)
       type: ITU

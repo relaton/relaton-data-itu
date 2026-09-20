@@ -1,10 +1,11 @@
----
 id: ITUTV1522005Cor1092005
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.152-200509-S!Cor1
+  content: https://handle.itu.int/11.1002/1000/8557
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.152-200509-S!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.152 (2005) Cor. 1 (09/2005)
   type: ITU
@@ -75,9 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex B - Use of data signal detection and silence insertion in
-        voiceband data, and new Annex C on use of V.21 preamble for echo canceller
-        control in a V.152 gateway
+      content: New Annex B - Use of data signal detection and silence insertion in voiceband data, and new Annex C on use of V.21 preamble for echo canceller control in a V.152 gateway
     docidentifier:
     - content: V.152 (2005) Amd. 1 (03/2009)
       type: ITU

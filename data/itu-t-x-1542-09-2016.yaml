@@ -1,4 +1,3 @@
----
 id: ITUTX1542092016
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1542-201609-I
+  content: https://handle.itu.int/11.1002/1000/12852
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1542-201609-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1542 (09/2016)
   type: ITU
@@ -50,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In today’s network environment, computer networks are vulnerable to threats
-    from both inside and outside the organization. The firewall systems log session
-    information about selected incoming and outgoing transmission control protocol/Internet
-    protocol (TCP/IP) connections.\r\n\r\nHowever, those systems that are currently
-    available are not generally interoperable because each system has its own special
-    functionality, control mechanisms and session log formats.\r\n\r\nThe need most
-    security administrators face today is the maintaining of consistent session information
-    exchange format across diverse firewall systems and even varied infrastructures.\r\n\r\nRecommendation
-    ITU-T X.1542 describes the information model for the session information message
-    exchange format (SIMEF) and provides an associated data model specified with extensible
-    markup language (XML) schema. The SIMEF defines a data model representation for
-    sharing the transport layer session log information regarding the centralized
-    network security management and security information exchange system. The specification
-    of any transport protocol is beyond the scope of this Recommendation\r\n"
+  content: "In today’s network environment, computer networks are vulnerable to threats from both inside and outside the organization. The firewall systems log session information about selected incoming and outgoing transmission control protocol/Internet protocol (TCP/IP) connections.\r\n\r\nHowever, those systems that are currently available are not generally interoperable because each system has its own special functionality, control mechanisms and session log formats.\r\n\r\nThe need most security administrators face today is the maintaining of consistent session information exchange format across diverse firewall systems and even varied infrastructures.\r\n\r\nRecommendation ITU-T X.1542 describes the information model for the session information message exchange format (SIMEF) and provides an associated data model specified with extensible markup language (XML) schema. The SIMEF defines a data model representation for sharing the transport layer session log information regarding the centralized network security management and security information exchange system. The specification of any transport protocol is beyond the scope of this Recommendation\r\n"
 status:
   stage:
     content: Published

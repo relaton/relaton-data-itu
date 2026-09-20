@@ -1,4 +1,3 @@
----
 id: ITUTX1215012019
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1215-201901-I
+  content: https://handle.itu.int/11.1002/1000/13849
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1215-201901-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1215 (01/2019)
   type: ITU
@@ -50,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1215 provides various use cases for how the structured
-    threat information expression (STIX) language may be used to support cyber threat
-    intelligence (CTI) and information sharing.\r\n\r\nThis Recommendation also describes
-    concepts and functionality of the STIX language. It is targeted to support a range
-    of use cases involved in cyber threat management, including analysing cyber threats,
-    specifying indicator patterns for cyber threats, managing response activities
-    and sharing cyber threat information. With this kind of information, a security
-    decision can be made on how to best defend against the threat. It is intended
-    to support both more effective analysis and the continued exchange of cyber threat
-    information. The STIX suite of specifications [b-STIX2.0] is maintained under
-    the responsibility of the Organization for the Advancement of Structured Information
-    Standards (OASIS).\r\n"
+  content: "Recommendation ITU-T X.1215 provides various use cases for how the structured threat information expression (STIX) language may be used to support cyber threat intelligence (CTI) and information sharing.\r\n\r\nThis Recommendation also describes concepts and functionality of the STIX language. It is targeted to support a range of use cases involved in cyber threat management, including analysing cyber threats, specifying indicator patterns for cyber threats, managing response activities and sharing cyber threat information. With this kind of information, a security decision can be made on how to best defend against the threat. It is intended to support both more effective analysis and the continued exchange of cyber threat information. The STIX suite of specifications [b-STIX2.0] is maintained under the responsibility of the Organization for the Advancement of Structured Information Standards (OASIS).\r\n"
 status:
   stage:
     content: Published

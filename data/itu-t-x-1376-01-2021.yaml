@@ -1,16 +1,16 @@
----
 id: ITUTX1376012021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security-related misbehaviour detection mechanism using big data for connected
-    vehicles
+  content: Security-related misbehaviour detection mechanism using big data for connected vehicles
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1376-202101-I
+  content: https://handle.itu.int/11.1002/1000/14448
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1376-202101-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1376 (01/2021)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1376 describes a security-related misbehaviour
-    detection mechanism for connected vehicles to help stakeholders to utilize automotive
-    data to improve vehicle security. \r\n\r\nAs connectivity of vehicles increases,
-    the number of vulnerabilities is rising due to the development of complex technology.
-    These vulnerabilities bring more threats to connected vehicles. Analysis of a
-    large amount of automotive data is very useful for assessing security of connected
-    vehicles. \r\n"
+  content: "Recommendation ITU-T X.1376 describes a security-related misbehaviour detection mechanism for connected vehicles to help stakeholders to utilize automotive data to improve vehicle security. \r\n\r\nAs connectivity of vehicles increases, the number of vulnerabilities is rising due to the development of complex technology. These vulnerabilities bring more threats to connected vehicles. Analysis of a large amount of automotive data is very useful for assessing security of connected vehicles. \r\n"
 status:
   stage:
     content: Published

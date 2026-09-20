@@ -1,10 +1,11 @@
----
 id: ITUTT422003Cor1032004
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.42-200403-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/7240
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.42-200403-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.42 (2003) Cor. 1 (03/2004)
   type: ITU
@@ -45,25 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a colour data representation method in order
-    to make it possible to interchange continuous-tone colour image data over facsimile
-    communication services such as Group 4 and Group 3 facsimile. This Corrigendum
-    fixes errors in the description of D65 illuminant data and aligns them with ISO
-    13655. Variables X0, Y0 and Z0 are changed to "X0 ? 95.047; Y0 ? 100.000; Z0 ?
-    108.883" in the , in 6.2.2.2 (White point and illuminant data) and in Appendix
-    I ("Method for colorimetric calculation from spectral measurement"). Values of
-    Table I.2/T.42 are replaced with correct values in ISO 13655.CIELAB space is selected
-    as the basic colour space mainly for hard copy (printed) application. CIE Illuminant
-    D50 and its perfectly diffuse reflecting white point (X0 = 96.422; Y0 = 100.000;
-    Z0 = 82.521) is selected as the basic illuminant and white point, respectively.
-    The default gamut range chosen is L* = [0, 100], a* = [-85, 85], b* = [-75, 125].
-    The exact expression is in terms of offset and range. The YCC space based on sYCC
-    is selected also as the basic colour space mainly for soft copy (displayed) application.
-    CIE illuminant D65 and its perfectly diffuse reflecting white point (X0 = 95.047;
-    Y0 = 100.000; Z0 = 108.883) is the illuminant and white point respectively. The
-    default gamut chosen is Y = [0, 1], Cb = [-0.5, 0.5], Cr = [-0.5, 0.5]. The exact
-    expression is in terms of offset and range.The main difference from the previous
-    version is the following:- ITU-YCC addition.
+  content: This Recommendation defines a colour data representation method in order to make it possible to interchange continuous-tone colour image data over facsimile communication services such as Group 4 and Group 3 facsimile. This Corrigendum fixes errors in the description of D65 illuminant data and aligns them with ISO 13655. Variables X0, Y0 and Z0 are changed to "X0 ? 95.047; Y0 ? 100.000; Z0 ? 108.883" in the , in 6.2.2.2 (White point and illuminant data) and in Appendix I ("Method for colorimetric calculation from spectral measurement"). Values of Table I.2/T.42 are replaced with correct values in ISO 13655.CIELAB space is selected as the basic colour space mainly for hard copy (printed) application. CIE Illuminant D50 and its perfectly diffuse reflecting white point (X0 = 96.422; Y0 = 100.000; Z0 = 82.521) is selected as the basic illuminant and white point, respectively. The default gamut range chosen is L* = [0, 100], a* = [-85, 85], b* = [-75, 125]. The exact expression is in terms of offset and range. The YCC space based on sYCC is selected also as the basic colour space mainly for soft copy (displayed) application. CIE illuminant D65 and its perfectly diffuse reflecting white point (X0 = 95.047; Y0 = 100.000; Z0 = 108.883) is the illuminant and white point respectively. The default gamut chosen is Y = [0, 1], Cb = [-0.5, 0.5], Cr = [-0.5, 0.5]. The exact expression is in terms of offset and range.The main difference from the previous version is the following:- ITU-YCC addition.
 status:
   stage:
     content: Published

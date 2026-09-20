@@ -1,16 +1,16 @@
----
 id: ITUTJ1304012022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Functional requirements for service collaboration between cable television
-    operators and OTT service providers
+  content: Functional requirements for service collaboration between cable television operators and OTT service providers
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.1304-202201-I
+  content: https://handle.itu.int/11.1002/1000/14843
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.1304-202201-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.1304 (01/2022)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T J.1304 is intended to define functional requirements
-    for a cable television operator to provide an over-the-top (OTT) service to cable
-    television customers in conjunction with their cable television services, video
-    on demand (VOD) service, high-speed cable internet and so on by collaboration
-    with an OTT service provider. As a reference architecture, the system architecture
-    and interfaces between a cable television operator and one or more OTT service
-    provider(s) are specified. To exemplify the collaboration patterns of a cable
-    television operator with an OTT provider, this Recommendation also describes the
-    configuration patterns of relevant entities including a user, a cable television
-    operator and one or more OTT service provider(s).
+  content: Recommendation ITU-T J.1304 is intended to define functional requirements for a cable television operator to provide an over-the-top (OTT) service to cable television customers in conjunction with their cable television services, video on demand (VOD) service, high-speed cable internet and so on by collaboration with an OTT service provider. As a reference architecture, the system architecture and interfaces between a cable television operator and one or more OTT service provider(s) are specified. To exemplify the collaboration patterns of a cable television operator with an OTT provider, this Recommendation also describes the configuration patterns of relevant entities including a user, a cable television operator and one or more OTT service provider(s).
 status:
   stage:
     content: Published
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -91,10 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -104,9 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -126,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -137,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -148,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -159,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -170,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -181,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -192,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

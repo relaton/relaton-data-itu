@@ -1,10 +1,11 @@
----
 id: ITUTV751996Cor1012005
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.75-200501-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/7463
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.75-200501-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.75 (1996) Cor. 1 (01/2005)
   type: ITU
@@ -45,12 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This corrigendum addresses corrections and clarifications in ITU-T Rec.
-    V.75 (1996) concerning errors and omissions in Tables 3 and 6, positioning of
-    segmentation/reassembly header, negotiation of suspend/resume option, usage of
-    H.245 "portNumber", normative references, and update of the ASN.1 regarding N401
-    Value Range, H.245 codepoints for V.42 bis on an ERM channel, and codepoint for
-    G.729 Annex B.
+  content: This corrigendum addresses corrections and clarifications in ITU-T Rec. V.75 (1996) concerning errors and omissions in Tables 3 and 6, positioning of segmentation/reassembly header, negotiation of suspend/resume option, usage of H.245 "portNumber", normative references, and update of the ASN.1 regarding N401 Value Range, H.245 codepoints for V.42 bis on an ERM channel, and codepoint for G.729 Annex B.
 status:
   stage:
     content: Published

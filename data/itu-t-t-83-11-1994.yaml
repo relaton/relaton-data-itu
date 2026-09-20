@@ -1,16 +1,14 @@
----
 id: ITUTT83111994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Digital compression and coding of continuous-tone
-    still images: Compliance testing'
+  content: 'Information technology – Digital compression and coding of continuous-tone still images: Compliance testing'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.83-199411-I
+  content: https://handle.itu.int/11.1002/1000/2635
 docidentifier:
 - content: ITU-T T.83 (11/1994)
   type: ITU
@@ -54,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard, Digital Compression and Coding
-    of Continuous-tone Still Images, is published as two parts:ITU-T Rec. T.81 | ISO/IEC
-    10918-1 "Requirements and guidelines" sets out requirements and implementation
-    guidelines for continuous-tone still image encoding and decoding processes, and
-    for the coded representation of compressed image data. These processes and representations
-    are intended to be generic, that is, to be applicable to a broad range of applications
-    for colour and grayscale still images within communications and computer systems.This
-    part, ITU-T Rec. T.83 | ISO/IEC 10918-2 "Compliance testing" sets out tests for
-    determining whether implementations comply with the requirements for the various
-    encoding and decoding processes specified in ITU-T Rec. T.81 | ISO/IEC 10918-1.
-    ITU-T Rec. T.83 | ISO/IEC 10918-2 also specifies tests for determining whether
-    any specific instance of compressed data complies with the ITU-T Rec. T.81 | ISO/IEC
-    10918-1 specification for compressed data format.
+  content: This Recommendation | International Standard, Digital Compression and Coding of Continuous-tone Still Images, is published as two parts:ITU-T Rec. T.81 | ISO/IEC 10918-1 "Requirements and guidelines" sets out requirements and implementation guidelines for continuous-tone still image encoding and decoding processes, and for the coded representation of compressed image data. These processes and representations are intended to be generic, that is, to be applicable to a broad range of applications for colour and grayscale still images within communications and computer systems.This part, ITU-T Rec. T.83 | ISO/IEC 10918-2 "Compliance testing" sets out tests for determining whether implementations comply with the requirements for the various encoding and decoding processes specified in ITU-T Rec. T.81 | ISO/IEC 10918-1. ITU-T Rec. T.83 | ISO/IEC 10918-2 also specifies tests for determining whether any specific instance of compressed data complies with the ITU-T Rec. T.81 | ISO/IEC 10918-1 specification for compressed data format.
 status:
   stage:
     content: Published

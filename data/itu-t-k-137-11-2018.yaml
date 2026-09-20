@@ -1,16 +1,16 @@
----
 id: ITUTK137112018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Electromagnetic compatibility requirements and measurement methods for
-    wire-line telecommunication network equipment
+  content: Electromagnetic compatibility requirements and measurement methods for wire-line telecommunication network equipment
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.137-201811-S
+  content: https://handle.itu.int/11.1002/1000/13716
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.137-201811-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.137 (11/2018)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies the electromagnetic compatibility common
-    requirements and the test methods for wire-line telecommunication network equipment,
-    used in a public telecommunication networks to provide telecommunications services:
-    voice, data, audio and video to the end-users, using all applicable media and
-    all kinds of wire-line access technologies, such as DSL, POTS, Ethernet, E1, fibre
-    or others.\r\n\r\nTest conditions for all kinds of wire-line telecommunication
-    network equipment are described, e.g. access equipment, router and switching equipment,
-    optical transmission equipment, data centre and cloud computing equipment and
-    power supply equipment (including HVDC).\r\n\r\nThis Recommendation describes
-    the specific testing levels to be applied to wire-line telecommunication in different
-    environments, such as telecommunication centres, customer premises and outside
-    plants."
+  content: "This Recommendation specifies the electromagnetic compatibility common requirements and the test methods for wire-line telecommunication network equipment, used in a public telecommunication networks to provide telecommunications services: voice, data, audio and video to the end-users, using all applicable media and all kinds of wire-line access technologies, such as DSL, POTS, Ethernet, E1, fibre or others.\r\n\r\nTest conditions for all kinds of wire-line telecommunication network equipment are described, e.g. access equipment, router and switching equipment, optical transmission equipment, data centre and cloud computing equipment and power supply equipment (including HVDC).\r\n\r\nThis Recommendation describes the specific testing levels to be applied to wire-line telecommunication in different environments, such as telecommunication centres, customer premises and outside plants."
 status:
   stage:
     content: Withdrawal
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic compatibility requirements and measurement methods
-        for wireline telecommunication network equipment
+      content: Electromagnetic compatibility requirements and measurement methods for wireline telecommunication network equipment
     docidentifier:
     - content: K.137 (01/2022)
       type: ITU
@@ -93,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -114,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -125,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -136,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -147,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -178,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

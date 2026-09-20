@@ -1,16 +1,16 @@
----
 id: ITUTT8401032025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – JPEG AI learning-based image coding system: Core
-    coding system'
+  content: 'Information technology – JPEG AI learning-based image coding system: Core coding system'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.840.1-202503-I
+  content: https://handle.itu.int/11.1002/1000/16265
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.840.1-202503-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.840.1 (03/2025)
   type: ITU
@@ -54,23 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.840.1 | ISO/IEC 6048-1 specifies an image coding
-    technology known as JPEG AI learning-based image coding (JPEG AI) and it has been
-    designed with multi-task goal. It facilitates the compression and processing of
-    images for both human and machine vision. This Recommendation | International
-    Standard describes the JPEG AI learning-based standard for the creation of an
-    image from the parsed single-stream, which contains the compact compressed domain
-    representation, targeting both human visualization, with significant compression
-    efficiency improvement over image coding standards in common use at equivalent
-    subjective quality, and effective performance for image processing and computer
-    vision tasks.\r\nCore coding system describes the JPEG AI standard for the human
-    vision reconstruction task and thus specifies the parsing of the coded stream
-    and the image reconstruction process. \r\nThe trainable model parameters, which
-    are an integral part of this Recommendation | International Standard, are not
-    contained in the Specification due to their size. Instead, the trained model parameters
-    are available at:  and  (see subclause 18.2).\r\nThis Recommendation | International
-    Standard was developed collaboratively with ISO/IEC JTC 1/SC 29, and corresponds
-    with ISO/IEC 6048-1 as common text.\r\n"
+  content: "Recommendation ITU-T T.840.1 | ISO/IEC 6048-1 specifies an image coding technology known as JPEG AI learning-based image coding (JPEG AI) and it has been designed with multi-task goal. It facilitates the compression and processing of images for both human and machine vision. This Recommendation | International Standard describes the JPEG AI learning-based standard for the creation of an image from the parsed single-stream, which contains the compact compressed domain representation, targeting both human visualization, with significant compression efficiency improvement over image coding standards in common use at equivalent subjective quality, and effective performance for image processing and computer vision tasks.\r\nCore coding system describes the JPEG AI standard for the human vision reconstruction task and thus specifies the parsing of the coded stream and the image reconstruction process. \r\nThe trainable model parameters, which are an integral part of this Recommendation | International Standard, are not contained in the Specification due to their size. Instead, the trained model parameters are available at:  and  (see subclause 18.2).\r\nThis Recommendation | International Standard was developed collaboratively with ISO/IEC JTC 1/SC 29, and corresponds with ISO/IEC 6048-1 as common text.\r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl15092018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge testing
-    factors
+  content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge testing factors
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup15-201809-I
+  content: https://handle.itu.int/11.1002/1000/13794
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup15-201809-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 15 (09/2018)
   type: ITU
@@ -51,19 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation K.44 defines DC power interface ports, which are connected
-    by cables that are internal to the building. There are two types of DC powering
-    system considered; floating and earth bonded. Floating DC supplies will inherently
-    develop a common-mode surge on both conductors. Earth bonded DC supplies will
-    inherently develop differential-mode surges on the unbonded polarity connection.
-    Earth bonding can be single point at either the supply powering source or the
-    powered equipment or multipoint. If the internal cable connecting the power source
-    and the powered load runs for any distance the series inductance of the cable
-    needs to be considered. Ports with electronic control could either go high or
-    low impedance during a surge producing either a voltage stress test or a current
-    stress test. The interaction of these factors is considered in this Supplement
-    to make K.20 and K.21 equipment designers and testers aware of the surge stress
-    levels.
+  content: ITU-T Recommendation K.44 defines DC power interface ports, which are connected by cables that are internal to the building. There are two types of DC powering system considered; floating and earth bonded. Floating DC supplies will inherently develop a common-mode surge on both conductors. Earth bonded DC supplies will inherently develop differential-mode surges on the unbonded polarity connection. Earth bonding can be single point at either the supply powering source or the powered equipment or multipoint. If the internal cable connecting the power source and the powered load runs for any distance the series inductance of the cable needs to be considered. Ports with electronic control could either go high or low impedance during a surge producing either a voltage stress test or a current stress test. The interaction of these factors is considered in this Supplement to make K.20 and K.21 equipment designers and testers aware of the surge stress levels.
 status:
   stage:
     content: Published

@@ -1,4 +1,3 @@
----
 id: ITUTX1581092012
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1581-201209-I
+  content: https://handle.itu.int/11.1002/1000/11616
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1581-201209-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1581 (09/2012)
   type: ITU
@@ -50,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1581 specifies a transport protocol for real-time
-    inter-network defence (RID) based upon the passing of RID messages over hypertext
-    transfer protocol/transport layer security (HTTP/TLS). This is achieved by listing
-    the relevant clauses of IETF RFC 6546 and showing whether they are normative or
-    informative.
+  content: Recommendation ITU-T X.1581 specifies a transport protocol for real-time inter-network defence (RID) based upon the passing of RID messages over hypertext transfer protocol/transport layer security (HTTP/TLS). This is achieved by listing the relevant clauses of IETF RFC 6546 and showing whether they are normative or informative.
 status:
   stage:
     content: Published

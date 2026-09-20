@@ -1,17 +1,14 @@
----
 id: ITUTP862022001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Perceptual evaluation of speech quality (PESQ): An objective method for
-    end-to-end speech quality assessment of narrow-band telephone networks and speech
-    codecs'
+  content: 'Perceptual evaluation of speech quality (PESQ): An objective method for end-to-end speech quality assessment of narrow-band telephone networks and speech codecs'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.862-200102-W
+  content: https://handle.itu.int/11.1002/1000/5374
 docidentifier:
 - content: ITU-T P.862 (02/2001)
   type: ITU
@@ -52,18 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes an objective method for predicting the subjective
-    quality of 3.1 kHz (narrow-band) handset telephony and narrow-band speech codecs.
-    This Recommendation presents a high-level description of the method, advice on
-    how to use it, and part of the results from a Study Group 12 benchmark carried
-    out in the period 1999-2000. An ANSI-C reference implementation, described in
-    Annex A, is provided in separate files and form an integral part of this Recommendation.
-    A conformance testing procedure is also specified in Annex A to allow a user to
-    validate that an alternative implementation of the model is correct. This ANSI-C
-    reference implementation shall take precedence in case of conflicts between the
-    high-level description as given in this Recommendation and the ANSI-C reference
-    implementaion. This Recommendation includes an electornic attachment containing
-    an ANSI-C reference implementation of PESQ and conformance testing data.
+  content: This Recommendation describes an objective method for predicting the subjective quality of 3.1 kHz (narrow-band) handset telephony and narrow-band speech codecs. This Recommendation presents a high-level description of the method, advice on how to use it, and part of the results from a Study Group 12 benchmark carried out in the period 1999-2000. An ANSI-C reference implementation, described in Annex A, is provided in separate files and form an integral part of this Recommendation. A conformance testing procedure is also specified in Annex A to allow a user to validate that an alternative implementation of the model is correct. This ANSI-C reference implementation shall take precedence in case of conflicts between the high-level description as given in this Recommendation and the ANSI-C reference implementaion. This Recommendation includes an electornic attachment containing an ANSI-C reference implementation of PESQ and conformance testing data.
 status:
   stage:
     content: Withdrawal
@@ -99,8 +85,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Revised Annex A – Reference implementations and conformance testing
-        for ITU-T Recs P.862, P.862.1 and P.862.2
+      content: Revised Annex A – Reference implementations and conformance testing for ITU-T Recs P.862, P.862.1 and P.862.2
     docidentifier:
     - content: P.862 (2001) Amd. 2 (11/2005)
       type: ITU
@@ -110,8 +95,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex A: Source code for reference implementation and conformance
-        tests'
+      content: 'Revised Annex A: Source code for reference implementation and conformance tests'
     docidentifier:
     - content: P.862 (2001) Amd. 1 (03/2003)
       type: ITU

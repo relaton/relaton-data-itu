@@ -1,16 +1,16 @@
----
 id: ITUTM1016111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Assessment of the service availability performance of international leased
-    circuits
+  content: Assessment of the service availability performance of international leased circuits
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1016-198811-I
+  content: https://handle.itu.int/11.1002/1000/1443
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1016-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1016 (11/1988)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Assessment of the service availability performance of international
-        leased circuits
+      content: Assessment of the service availability performance of international leased circuits
     docidentifier:
     - content: M.1016 (10/1984)
       type: ITU

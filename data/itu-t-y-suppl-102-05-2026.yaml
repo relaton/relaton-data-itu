@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl102052026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.4208 – Supplement on use cases of edge computing-based Internet
-    of things
+  content: ITU-T Y.4208 – Supplement on use cases of edge computing-based Internet of things
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup102-202605-I
+  content: https://handle.itu.int/11.1002/1000/16820
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup102-202605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 102 (05/2026)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Edge-computing-based Internet of Things (IoT) is crucial for navigating
-    the evolving global digital economy and advancing digital transformation across
-    sectors. Edge-computing-based Internet of Things refers to an architectural paradigm
-    in which data processing, analysis, and decision-making are performed at or near
-    the data source rather than relying primarily on centralized cloud computing,
-    thereby reducing latency, optimizing bandwidth usage, improving efficiency, and
-    enhancing data privacy and security.\r\nSupplement 102 to ITU-T Y-series Recommendations
-    defines the types of edge-computing-based Internet of Things, recommended templates,
-    and classification schemes of use cases. Several use cases are illustrated in
-    detail. It also identifies observations on the development of edge-computing-based
-    Internet of Things, along with considerations on its standardization.\r\n"
+  content: "Edge-computing-based Internet of Things (IoT) is crucial for navigating the evolving global digital economy and advancing digital transformation across sectors. Edge-computing-based Internet of Things refers to an architectural paradigm in which data processing, analysis, and decision-making are performed at or near the data source rather than relying primarily on centralized cloud computing, thereby reducing latency, optimizing bandwidth usage, improving efficiency, and enhancing data privacy and security.\r\nSupplement 102 to ITU-T Y-series Recommendations defines the types of edge-computing-based Internet of Things, recommended templates, and classification schemes of use cases. Several use cases are illustrated in detail. It also identifies observations on the development of edge-computing-based Internet of Things, along with considerations on its standardization.\r\n"
 status:
   stage:
     content: Published

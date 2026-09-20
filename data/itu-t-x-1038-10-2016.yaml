@@ -1,4 +1,3 @@
----
 id: ITUTX1038102016
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1038-201610-I
+  content: https://handle.itu.int/11.1002/1000/13058
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1038-201610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1038 (10/2016)
   type: ITU
@@ -50,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1038 supports security protection and provides security
-    requirements and a reference architecture for software-defined networking (SDN).
-    This Recommendation identifies new security threats as well as traditional network
-    security threats to SDN, defines security requirements, provides possible security
-    countermeasures against new security threats, and designs a security reference
-    architecture for SDN.
+  content: Recommendation ITU-T X.1038 supports security protection and provides security requirements and a reference architecture for software-defined networking (SDN). This Recommendation identifies new security threats as well as traditional network security threats to SDN, defines security requirements, provides possible security countermeasures against new security threats, and designs a security reference architecture for SDN.
 status:
   stage:
     content: Published

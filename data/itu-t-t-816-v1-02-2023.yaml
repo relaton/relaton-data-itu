@@ -1,16 +1,16 @@
----
 id: ITUTT816V1022023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – JPEG 2000 image coding system: Extensions for
-    coding of discontinuous media'
+  content: 'Information technology – JPEG 2000 image coding system: Extensions for coding of discontinuous media'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.816-202302-I
+  content: https://handle.itu.int/11.1002/1000/15206
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.816-202302-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.816 (V1) (02/2023)
   type: ITU
@@ -54,23 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Rec. ITU-T T.816 | ISO/IEC 15444-17 provides extensions of the scalable
-    image coding tools described in Rec. ITU-T T.800 | ISO/IEC 15444-1 and Rec. ITU-T
-    T.801 | ISO/IEC 15444-2, of two types. First, new wavelet-like image transforms
-    known as \"breakpoint-dependent\" transforms are defined, whose underlying basis
-    functions can be discontinuous at defined locations within the image component
-    to which they are applied. Second, new scalable coding tools are described for
-    a new type of image component known as a \"breakpoint component\", which provides
-    a successively refinable and hierarchical description of the breakpoint locations
-    used by the breakpoint-dependent transforms. Any non-initial component or components
-    within a codestream conforming to this Recommendation | International Standard
-    can be breakpoint components and any of the components in the codestream other
-    than breakpoint components can use a breakpoint-dependent transform that depends
-    upon one of the breakpoint components in the same codestream. These new tools
-    together allow for the scalable coding of imagery that naturally exhibits strong
-    discontinuities in the spatial domain. An important example of such imagery is
-    depth maps.\r\nThis Recommendation was developed jointly with ISO/IEC JTC 1/SC
-    29/WG 1 (JPEG) and is common text with ISO/IEC 15444-17."
+  content: "Rec. ITU-T T.816 | ISO/IEC 15444-17 provides extensions of the scalable image coding tools described in Rec. ITU-T T.800 | ISO/IEC 15444-1 and Rec. ITU-T T.801 | ISO/IEC 15444-2, of two types. First, new wavelet-like image transforms known as \"breakpoint-dependent\" transforms are defined, whose underlying basis functions can be discontinuous at defined locations within the image component to which they are applied. Second, new scalable coding tools are described for a new type of image component known as a \"breakpoint component\", which provides a successively refinable and hierarchical description of the breakpoint locations used by the breakpoint-dependent transforms. Any non-initial component or components within a codestream conforming to this Recommendation | International Standard can be breakpoint components and any of the components in the codestream other than breakpoint components can use a breakpoint-dependent transform that depends upon one of the breakpoint components in the same codestream. These new tools together allow for the scalable coding of imagery that naturally exhibits strong discontinuities in the spatial domain. An important example of such imagery is depth maps.\r\nThis Recommendation was developed jointly with ISO/IEC JTC 1/SC 29/WG 1 (JPEG) and is common text with ISO/IEC 15444-17."
 status:
   stage:
     content: Published

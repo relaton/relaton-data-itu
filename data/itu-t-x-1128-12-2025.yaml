@@ -1,4 +1,3 @@
----
 id: ITUTX1128122025
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1128-202512-I
+  content: https://handle.itu.int/11.1002/1000/16479
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1128-202512-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1128 (12/2025)
   type: ITU
@@ -50,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Mobile terminals, especially smartphones, are changing people's work and
-    lifestyle. For example, mobile payments are experiencing rapid growth as consumers
-    use mobile terminals as part of their modern dynamic lifestyles, more enterprises
-    support employees accessing enterprise services with personal mobile terminals,
-    etc. However, mobile terminal security is a big challenge for mobile application
-    services as such. For example, users may unknowingly expose their terminals to
-    malware and put sensitive data at risk of data breaches. \r\nRecommendation ITU-T
-    X.1128 provides security features to assess mobile terminal security and information
-    on how relevant entities could use the security features in this Recommendation.\r\n"
+  content: "Mobile terminals, especially smartphones, are changing people's work and lifestyle. For example, mobile payments are experiencing rapid growth as consumers use mobile terminals as part of their modern dynamic lifestyles, more enterprises support employees accessing enterprise services with personal mobile terminals, etc. However, mobile terminal security is a big challenge for mobile application services as such. For example, users may unknowingly expose their terminals to malware and put sensitive data at risk of data breaches. \r\nRecommendation ITU-T X.1128 provides security features to assess mobile terminal security and information on how relevant entities could use the security features in this Recommendation.\r\n"
 status:
   stage:
     content: Published
@@ -88,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1120-X.1139 series - Supplement on a secure application distribution
-        framework for communication devices
+      content: ITU-T X.1120-X.1139 series - Supplement on a secure application distribution framework for communication devices
     docidentifier:
     - content: X Suppl. 24 (09/2014)
       type: ITU

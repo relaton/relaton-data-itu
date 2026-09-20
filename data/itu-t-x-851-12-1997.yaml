@@ -1,16 +1,16 @@
----
 id: ITUTX851121997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Systems Interconnection – Service definition
-    for the Commitment, Concurrency and Recovery service element
+  content: Information technology – Open Systems Interconnection – Service definition for the Commitment, Concurrency and Recovery service element
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.851-199712-I
+  content: https://handle.itu.int/11.1002/1000/4186
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.851-199712-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.851 (12/1997)
   type: ITU
@@ -54,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes the application
-    layer service for OSI commitment, concurrency and recovery service element. OSI
-    CCR provides a service by which a set of actions are grouped together to form
-    an "atomic action", where either the entire set of actions performed or none is
-    performed.
+  content: This Recommendation | International Standard describes the application layer service for OSI commitment, concurrency and recovery service element. OSI CCR provides a service by which a set of actions are grouped together to form an "atomic action", where either the entire set of actions performed or none is performed.
 status:
   stage:
     content: Published
@@ -78,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Service definition
-        for the commitment, concurrency and recovery service element
+      content: Information technology – Open Systems Interconnection – Service definition for the commitment, concurrency and recovery service element
     docidentifier:
     - content: X.851 (11/1993)
       type: ITU

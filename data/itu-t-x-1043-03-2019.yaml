@@ -1,16 +1,16 @@
----
 id: ITUTX1043032019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security framework and requirements for service function chaining based
-    on software-defined networking
+  content: Security framework and requirements for service function chaining based on software-defined networking
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1043-201903-I
+  content: https://handle.itu.int/11.1002/1000/13872
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1043-201903-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1043 (03/2019)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1043 analyses security threats to and defines security
-    requirements for software-defined networking (SDN) based service function chaining.
-    The corresponding security countermeasures are also given. This Recommendation
-    aims to help understanding of security risks encountered when using the SDN-based
-    service function chaining and implementation of secured SDN-based service function
-    chains.
+  content: Recommendation ITU-T X.1043 analyses security threats to and defines security requirements for software-defined networking (SDN) based service function chaining. The corresponding security countermeasures are also given. This Recommendation aims to help understanding of security risks encountered when using the SDN-based service function chaining and implementation of secured SDN-based service function chains.
 status:
   stage:
     content: Published
@@ -76,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1403 – Supplement on rationale and initial approach of a decentralized
-        identity system (DIS) based on verifiable data
+      content: ITU-T X.1403 – Supplement on rationale and initial approach of a decentralized identity system (DIS) based on verifiable data
     docidentifier:
     - content: X Suppl. 45 (12/2025)
       type: ITU

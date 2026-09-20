@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl53092005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signalling requirements to support the International Emergency Preference
-    Scheme (IEPS)
+  content: Signalling requirements to support the International Emergency Preference Scheme (IEPS)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup53-200509-I
+  content: https://handle.itu.int/11.1002/1000/8620
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup53-200509-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 53 (09/2005)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement is an information document intended to identify the signalling
-    requirements required to support the International Emergency Preference Scheme
-    (IEPS). IEPS is described in ITU-T Rec. E.106 and allows authorized users to have
-    access to the International Telephone Service while the service is restricted
-    due to damage, congestion, and/or other faults. IEPS capabilities provide authorized
-    users with preferential call and connection handling.
+  content: This Supplement is an information document intended to identify the signalling requirements required to support the International Emergency Preference Scheme (IEPS). IEPS is described in ITU-T Rec. E.106 and allows authorized users to have access to the International Telephone Service while the service is restricted due to damage, congestion, and/or other faults. IEPS capabilities provide authorized users with preferential call and connection handling.
 status:
   stage:
     content: Published

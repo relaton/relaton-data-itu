@@ -1,16 +1,16 @@
----
 id: ITUTY3325012023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Framework for high-level AI-based management communicating with external
-    management systems
+  content: Framework for high-level AI-based management communicating with external management systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3325-202301-I
+  content: https://handle.itu.int/11.1002/1000/15240
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3325-202301-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3325 (01/2023)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3325 describes the requirements for a reference
-    model of such interactions including interface and metadata. After the IMT-2020
-    technology and network virtualization technology spread, the appearance of emerging
-    services such as multimedia services (high resolution, AR, VR, etc.) and IoT is
-    expected. Since huge amount of traffic of these new coming services will be incurred
-    to the network, the importance of network flexibility and stability will increase.
-    Network operators intend to improve network operations such as provisioning, resource
-    control, failure detection and recovery, and so on. Automatic network management
-    supported by recent AI technologies called AI-based networks will play an essential
-    role in such an era. \r\nOn the other hand, a service provider needs to manage
-    service dynamically based on service and network status for better quality of
-    service (QoS). In order for service providers to use the information managed by
-    AI-based networks effectively, a common interface between a system of service
-    providers over AI-based networks and AI-based networks is required.\r\n"
+  content: "Recommendation ITU-T Y.3325 describes the requirements for a reference model of such interactions including interface and metadata. After the IMT-2020 technology and network virtualization technology spread, the appearance of emerging services such as multimedia services (high resolution, AR, VR, etc.) and IoT is expected. Since huge amount of traffic of these new coming services will be incurred to the network, the importance of network flexibility and stability will increase. Network operators intend to improve network operations such as provisioning, resource control, failure detection and recovery, and so on. Automatic network management supported by recent AI technologies called AI-based networks will play an essential role in such an era. \r\nOn the other hand, a service provider needs to manage service dynamically based on service and network status for better quality of service (QoS). In order for service providers to use the information managed by AI-based networks effectively, a common interface between a system of service providers over AI-based networks and AI-based networks is required.\r\n"
 status:
   stage:
     content: Published
@@ -104,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -135,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -146,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -157,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -168,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

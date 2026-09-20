@@ -1,7 +1,9 @@
----
 id: ITUTT4151988Amd1011991
 schema_version: v1.5.6
 type: standard
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/11100
 docidentifier:
 - content: ITU-T T.415 (1988) Amd. 1 (01/1991)
   type: ITU
@@ -77,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Document Architecture (ODA) and interchange
-        format: Open document interchange format (ODIF)'
+      content: 'Information technology – Open Document Architecture (ODA) and interchange format: Open document interchange format (ODIF)'
     docidentifier:
     - content: T.415 (03/1993)
       type: ITU
@@ -98,8 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Open document architecture (ODA) and interchange format – Open document
-        interchange format (ODIF)
+      content: Open document architecture (ODA) and interchange format – Open document interchange format (ODIF)
     docidentifier:
     - content: T.415 (11/1988)
       type: ITU

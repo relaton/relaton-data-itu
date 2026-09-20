@@ -1,10 +1,11 @@
----
 id: ITUTX12462015Amd1052022
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1246-202205-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/14988
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1246-202205-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1246 (2015) Amd. 1 (05/2022)
   type: ITU
@@ -45,31 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Voice communication is a fundamental service provided by telecommunication
-    networks. With the development of voice communication, voice spam has also been
-    increasing with numerous negative effects on end users and network operators.
-    In general, voice spam has content ranging from commercial advertisement to offensive
-    pornographic material, which has various kinds of negative effects on end users
-    and network operators. Voice spam may allure, annoy, bully or even intimidate
-    users as well as having negative effects on network resources. To avoid these
-    negative influences and to protect users' rights and maintain network stability,
-    network operators may wish to increase their efforts to counter voice spam.\r\nThe
-    objective of Recommendation ITU-T X.1246 is to review technical solutions to counter
-    voice spam without consideration of the risk to the authenticity of the spammer
-    identity. This Recommendation gives an overview of voice spam and summarizes the
-    existing anti-spam technologies which are used by users and telecommunication
-    networks alike as well as the collaboration mechanisms between them. Additional
-    proposed technical solutions are also recommended based on these anti-spam technologies
-    and collaboration mechanisms.\r\nAmendment 1 introduces the feedback mechanism
-    from the client, receiving a possible spam call (via voice, short message service
-    (SMS) or multimedia messaging service (MMS)) to its operator. It provides technical
-    requirements for telecommunication management systems and/or client support services
-    to receive notifications of income spam calls, voice or messages (SMS/MMS). Scenarios
-    of interactive interaction of clients with operators/service providers of telephone
-    communication networks about incoming spam calls and the necessary technical measures
-    to maintain such interaction are presented. Such interaction is based on making
-    a call to the anti-spam number provided by the telecom operator in advance by
-    the recipient of the spam call immediately after it is completed.\r\n"
+  content: "Voice communication is a fundamental service provided by telecommunication networks. With the development of voice communication, voice spam has also been increasing with numerous negative effects on end users and network operators. In general, voice spam has content ranging from commercial advertisement to offensive pornographic material, which has various kinds of negative effects on end users and network operators. Voice spam may allure, annoy, bully or even intimidate users as well as having negative effects on network resources. To avoid these negative influences and to protect users' rights and maintain network stability, network operators may wish to increase their efforts to counter voice spam.\r\nThe objective of Recommendation ITU-T X.1246 is to review technical solutions to counter voice spam without consideration of the risk to the authenticity of the spammer identity. This Recommendation gives an overview of voice spam and summarizes the existing anti-spam technologies which are used by users and telecommunication networks alike as well as the collaboration mechanisms between them. Additional proposed technical solutions are also recommended based on these anti-spam technologies and collaboration mechanisms.\r\nAmendment 1 introduces the feedback mechanism from the client, receiving a possible spam call (via voice, short message service (SMS) or multimedia messaging service (MMS)) to its operator. It provides technical requirements for telecommunication management systems and/or client support services to receive notifications of income spam calls, voice or messages (SMS/MMS). Scenarios of interactive interaction of clients with operators/service providers of telephone communication networks about incoming spam calls and the necessary technical measures to maintain such interaction are presented. Such interaction is based on making a call to the anti-spam number provided by the telecom operator in advance by the recipient of the spam call immediately after it is completed.\r\n"
 status:
   stage:
     content: Published
@@ -89,8 +66,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technologies involved in countering voice spam in telecommunication
-        organizations
+      content: Technologies involved in countering voice spam in telecommunication organizations
     docidentifier:
     - content: X.1246 (09/2015)
       type: ITU
@@ -100,8 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated
-        threats
+      content: ITU-T X.1240 series – Supplement on countering spam and associated threats
     docidentifier:
     - content: X Suppl. 6 (09/2009)
       type: ITU

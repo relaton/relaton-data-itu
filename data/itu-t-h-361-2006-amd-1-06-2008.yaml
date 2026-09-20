@@ -1,16 +1,16 @@
----
 id: ITUTH3612006Amd1062008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: New Annex A "IntServ/RSVP support for H.323 systems", Annex B "DiffServ
-    support for H.323 systems" and Annex C "Priority support for H.323 systems"
+  content: New Annex A "IntServ/RSVP support for H.323 systems", Annex B "DiffServ support for H.323 systems" and Annex C "Priority support for H.323 systems"
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.361-200806-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/9464
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.361-200806-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.361 (2006) Amd. 1 (06/2008)
   type: ITU
@@ -51,25 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to Recommendation ITU-T H.361 introduces three new annexes.Annex
-    A describes the procedures of H.323 quality of service (QoS) signalling when RSVP-based
-    QoS signalling is used in the transport plane. Resource reservation protocol (RSVP)
-    is the QoS signalling protocol used in the integrated services (IntServ) architecture.
-    RSVP is a path-based QoS mechanism which is used to reserve resources for both
-    individual flows and flow aggregates. RSVP can be used in a pure IntServ architecture
-    or can be coupled with differentiated services architecture (DiffServ) to provide
-    IntServ operation over DiffServ network. Annex A describes the procedures for
-    H.323 QoS to allow the use of RSVP in the transport plane.Annex B describes the
-    procedures of H.323 QoS signalling under the differentiated services (DiffServ)
-    architecture in the transport plane. DiffServ is a class-based QoS architecture
-    which supports in-band signalling. The signalling occurs via a value defined in
-    the differentiated services (DS) field of the IP header. This value is referred
-    to as the differentiated services code point (DSCP). The packet forwarding treatment
-    given to a packet in a network device is based on the DSCP value.Annex C describes
-    the QoS service priority support signalling used for H.323 systems. The service
-    priority mechanism defines procedures and constructs within the signalling plane
-    that are used to prioritize bearer traffic during periods of resource contention.
-    This allows traffic of higher priority to receive preferred QoS treatment.
+  content: Amendment 1 to Recommendation ITU-T H.361 introduces three new annexes.Annex A describes the procedures of H.323 quality of service (QoS) signalling when RSVP-based QoS signalling is used in the transport plane. Resource reservation protocol (RSVP) is the QoS signalling protocol used in the integrated services (IntServ) architecture. RSVP is a path-based QoS mechanism which is used to reserve resources for both individual flows and flow aggregates. RSVP can be used in a pure IntServ architecture or can be coupled with differentiated services architecture (DiffServ) to provide IntServ operation over DiffServ network. Annex A describes the procedures for H.323 QoS to allow the use of RSVP in the transport plane.Annex B describes the procedures of H.323 QoS signalling under the differentiated services (DiffServ) architecture in the transport plane. DiffServ is a class-based QoS architecture which supports in-band signalling. The signalling occurs via a value defined in the differentiated services (DS) field of the IP header. This value is referred to as the differentiated services code point (DSCP). The packet forwarding treatment given to a packet in a network device is based on the DSCP value.Annex C describes the QoS service priority support signalling used for H.323 systems. The service priority mechanism defines procedures and constructs within the signalling plane that are used to prioritize bearer traffic during periods of resource contention. This allows traffic of higher priority to receive preferred QoS treatment.
 status:
   stage:
     content: Published
@@ -89,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: End-to-end quality of service (QoS) and service priority signalling
-        in H.323 systems
+      content: End-to-end quality of service (QoS) and service priority signalling in H.323 systems
     docidentifier:
     - content: H.361 (05/2006)
       type: ITU
@@ -110,9 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -132,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -143,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -154,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -165,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -186,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -217,8 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

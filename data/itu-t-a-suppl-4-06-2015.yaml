@@ -1,4 +1,3 @@
----
 id: ITUTASuppl4062015
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-A.Sup4-201506-S
+  content: https://handle.itu.int/11.1002/1000/12580
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-A.Sup4-201506-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T A Suppl. 4 (06/2015)
   type: ITU
@@ -50,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 4 to the A series of ITU-T Recommendations specifies guidelines
-    on the organization and handling of meetings of ITU-T groups with remote participation.
+  content: Supplement 4 to the A series of ITU-T Recommendations specifies guidelines on the organization and handling of meetings of ITU-T groups with remote participation.
 status:
   stage:
     content: Withdrawal

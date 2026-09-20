@@ -1,16 +1,16 @@
----
 id: ITUTX1152052008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Secure end-to-end data communication techniques using trusted third party
-    services
+  content: Secure end-to-end data communication techniques using trusted third party services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1152-200805-I
+  content: https://handle.itu.int/11.1002/1000/9451
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1152-200805-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1152 (05/2008)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1152 defines basic interfaces, interactions and
-    security considerations for secure end-to-end data communication using on-line
-    trusted third party (TTP) services. This Recommendation also identifies online
-    TTP services which can be used to support secure end-to-end data communication
-    between two entities.
+  content: Recommendation ITU-T X.1152 defines basic interfaces, interactions and security considerations for secure end-to-end data communication using on-line trusted third party (TTP) services. This Recommendation also identifies online TTP services which can be used to support secure end-to-end data communication between two entities.
 status:
   stage:
     content: Published
@@ -75,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1152 – Supplement on use cases for contact tracing technologies
-        to prevent spread of infectious diseases
+      content: ITU-T X.1152 – Supplement on use cases for contact tracing technologies to prevent spread of infectious diseases
     docidentifier:
     - content: X Suppl. 38 (09/2022)
       type: ITU

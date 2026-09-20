@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl27121999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical Report – Overview of Signalling and Protocol Framework for an
-    Emerging Environment (SPFEE)
+  content: Technical Report – Overview of Signalling and Protocol Framework for an Emerging Environment (SPFEE)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup27-199912-I
+  content: https://handle.itu.int/11.1002/1000/5008
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup27-199912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 27 (12/1999)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement contains objectives, scope, requirements, approaches, and
-    introductory overview of Signalling and Protocol Framework for an Evolving Environment
-    (SPFEE). It provides a signalling and protocol framework for an evolving environment
-    [and related specification(s) where applicable] for those telecommunications-related
-    systems in the coming broadband and information era.Primary area of SPFEE is Session
-    related framework and specifications (e.g. interfaces provided for "clients" of
-    Session related components and those required from them to the underlying components).
-    SPFEE covers the control plane (signalling) aspects, with management plane aspects
-    also included as a part of the problem domain.
+  content: This Supplement contains objectives, scope, requirements, approaches, and introductory overview of Signalling and Protocol Framework for an Evolving Environment (SPFEE). It provides a signalling and protocol framework for an evolving environment [and related specification(s) where applicable] for those telecommunications-related systems in the coming broadband and information era.Primary area of SPFEE is Session related framework and specifications (e.g. interfaces provided for "clients" of Session related components and those required from them to the underlying components). SPFEE covers the control plane (signalling) aspects, with management plane aspects also included as a part of the problem domain.
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTT813062012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – JPEG 2000 image coding system: XML structural
-    representation and reference'
+  content: 'Information technology – JPEG 2000 image coding system: XML structural representation and reference'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.813-201206-I
+  content: https://handle.itu.int/11.1002/1000/11679
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.813-201206-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.813 (06/2012)
   type: ITU
@@ -54,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.813 | ISO/IEC 15444-14 specifies an XML document,
-    referred to as JPXML, which is designed primarily for representing JPEG 2000 file
-    format and codestream marker segments, and a reference method for embedding internal
-    binary data in a JPEG 2000 image.\r\nThis Recommendation | International Standard:\r\n–\tspecifies
-    an XML schema for general box file formats;\r\n–\tspecifies an XML schema for
-    JPEG 2000 family file formats and codestream segments;\r\n–\tspecifies a complete
-    referring location path to address to exact box or codestream data in an image;\r\n–\tprovides
-    guidance on processes for converting source image data to an XML structural document;\r\n–\tprovides
-    guidance on how to implement these processes in practice.\r\n"
+  content: "Recommendation ITU-T T.813 | ISO/IEC 15444-14 specifies an XML document, referred to as JPXML, which is designed primarily for representing JPEG 2000 file format and codestream marker segments, and a reference method for embedding internal binary data in a JPEG 2000 image.\r\nThis Recommendation | International Standard:\r\n–\tspecifies an XML schema for general box file formats;\r\n–\tspecifies an XML schema for JPEG 2000 family file formats and codestream segments;\r\n–\tspecifies a complete referring location path to address to exact box or codestream data in an image;\r\n–\tprovides guidance on processes for converting source image data to an XML structural document;\r\n–\tprovides guidance on how to implement these processes in practice.\r\n"
 status:
   stage:
     content: Published

@@ -1,13 +1,14 @@
----
 id: ITUTP45111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Measurement of the AEN value of a commercial telephone system (sending
-    and receiving) by comparison with the SRAEN
+  content: Measurement of the AEN value of a commercial telephone system (sending and receiving) by comparison with the SRAEN
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/8007
 docidentifier:
 - content: ITU-T P.45 (11/1980)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Measurement of the AEN value of a commercial telephone system (sending
-        and receiving) of comparison with the SRAEN
+      content: Measurement of the AEN value of a commercial telephone system (sending and receiving) of comparison with the SRAEN
     docidentifier:
     - content: P.45 (10/1976)
       type: ITU

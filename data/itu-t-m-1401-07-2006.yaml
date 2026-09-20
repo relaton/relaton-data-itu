@@ -1,16 +1,16 @@
----
 id: ITUTM1401072006
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Formalization of interconnection designations among operators' telecommunication
-    networks
+  content: Formalization of interconnection designations among operators' telecommunication networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1401-200607-I
+  content: https://handle.itu.int/11.1002/1000/8854
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1401-200607-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1401 (07/2006)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines designations and additional information intended
-    primarily for human-to-human communication between various Operators, i.e., network
-    operators or service providers.\r\nThis Recommendation contains data definitions
-    for designations of interconnections and other information about network resources
-    that are required to be communicated between operators.\r\nThis Recommendation
-    is developed in order to facilitate computerized interoperation between telecommunication
-    operators. For this use a more formal approach than M.1400 is required. See Appendix
-    III.\r\nNote that since ITU-T Rec. M.1400 does not formally specify data structures,
-    backward compatibility with existing implementations may not be ensured, but this
-    Recommendation is based on ITU-T Rec. M.1400. For further details, see Appendix
-    II.\r\n"
+  content: "This Recommendation defines designations and additional information intended primarily for human-to-human communication between various Operators, i.e., network operators or service providers.\r\nThis Recommendation contains data definitions for designations of interconnections and other information about network resources that are required to be communicated between operators.\r\nThis Recommendation is developed in order to facilitate computerized interoperation between telecommunication operators. For this use a more formal approach than M.1400 is required. See Appendix III.\r\nNote that since ITU-T Rec. M.1400 does not formally specify data structures, backward compatibility with existing implementations may not be ensured, but this Recommendation is based on ITU-T Rec. M.1400. For further details, see Appendix II.\r\n"
 status:
   stage:
     content: Published
@@ -81,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Formalization of interconnection designations among operators' telecommunication
-        networks
+      content: Formalization of interconnection designations among operators' telecommunication networks
     docidentifier:
     - content: M.1401 (05/2005)
       type: ITU
@@ -102,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T M.1400-series – Supplement on directory of external terminology
-        schemas
+      content: ITU-T M.1400-series – Supplement on directory of external terminology schemas
     docidentifier:
     - content: M Suppl. 7 (05/2008)
       type: ITU

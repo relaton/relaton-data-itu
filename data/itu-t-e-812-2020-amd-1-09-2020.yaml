@@ -1,10 +1,11 @@
----
 id: ITUTE8122020Amd1092020
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.812-202009-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/14489
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.812-202009-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.812 (2020) Amd. 1 (09/2020)
   type: ITU
@@ -45,18 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "End-user equipment, consumer premise equipment and its software have evolved
-    to become faster, more powerful and able to perform data collection. This has
-    enabled the crowdsourcing approach which seeks to increase the amount of technical
-    parameters which can be collected from end-users without modification to existing
-    hardware and software.\r\nIncreasingly, players such as regulators and service
-    providers have started to assess end-to-end quality of service (QoS) through a
-    crowdsourcing approach. However, assessment using data collected through the crowdsourcing
-    approach can be deployed in multiple ways and different approaches provide different
-    views of QoS.\r\nRecommendation ITU-T E.812 outlines the different crowdsourcing
-    approaches used to assess end-to-end QoS on both fixed and mobile broadband networks.\r\nAmendment
-    1 to Recommendation ITU-T E.812 introduces Appendix II (Use cases for the crowdsourcing
-    approach) and Appendix III (Practical approaches to fixed broadband crowdsourcing)."
+  content: "End-user equipment, consumer premise equipment and its software have evolved to become faster, more powerful and able to perform data collection. This has enabled the crowdsourcing approach which seeks to increase the amount of technical parameters which can be collected from end-users without modification to existing hardware and software.\r\nIncreasingly, players such as regulators and service providers have started to assess end-to-end quality of service (QoS) through a crowdsourcing approach. However, assessment using data collected through the crowdsourcing approach can be deployed in multiple ways and different approaches provide different views of QoS.\r\nRecommendation ITU-T E.812 outlines the different crowdsourcing approaches used to assess end-to-end QoS on both fixed and mobile broadband networks.\r\nAmendment 1 to Recommendation ITU-T E.812 introduces Appendix II (Use cases for the crowdsourcing approach) and Appendix III (Practical approaches to fixed broadband crowdsourcing)."
 status:
   stage:
     content: Published
@@ -76,8 +66,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Crowdsourcing approach for the assessment of end-to-end quality of
-        service in fixed and mobile broadband networks
+      content: Crowdsourcing approach for the assessment of end-to-end quality of service in fixed and mobile broadband networks
     docidentifier:
     - content: E.812 (05/2020)
       type: ITU
@@ -107,8 +96,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Curves showing the relation between the traffic offered and the number
-        of circuits required
+      content: Curves showing the relation between the traffic offered and the number of circuits required
     docidentifier:
     - content: E-800 series Suppl. 2 (11/1988)
       type: ITU
@@ -118,8 +106,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Teletraffic implications for international switching and operational
-        procedures resulting from a failure of a transmission facility
+      content: Teletraffic implications for international switching and operational procedures resulting from a failure of a transmission facility
     docidentifier:
     - content: E-800 series Suppl. 5 (11/1988)
       type: ITU
@@ -149,8 +136,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.800 series – QoS/QoE framework for the transition from network
-        oriented to service oriented operations
+      content: ITU-T E.800 series – QoS/QoE framework for the transition from network oriented to service oriented operations
     docidentifier:
     - content: E-800 series Suppl. 10 (01/2016)
       type: ITU
@@ -160,8 +146,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

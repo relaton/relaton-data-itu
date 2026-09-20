@@ -1,16 +1,16 @@
----
 id: ITUTX1146102017
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Secure protection guidelines for value-added services provided by telecommunication
-    operators
+  content: Secure protection guidelines for value-added services provided by telecommunication operators
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1146-201710-I
+  content: https://handle.itu.int/11.1002/1000/13368
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1146-201710-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1146 (10/2017)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the rapid development of network and user-terminal capability, more
-    and more telecom operators provide various services based on their network resources
-    to the users. These services are called value-added services, which add additional
-    value to basic telecommunication services (e.g., voice call, SMS, MMS and data
-    access). Typical value-added services are including Mobile Office Automation,
-    e-Reading, e-Commerce, etc. In many cases, the value-added services will involve
-    sensitive operations or critical dada, which will be the target of the malicious
-    attackers. Malicious users may utilize the service vulnerabilities to get benefits
-    or do harm to the service and other users. \r\n\r\nThis Recommendation provides
-    secure protection guidelines for value-added services provided by telecommunication
-    operators. In addition to analysing typical service scenarios, security threats
-    and attack methods, this Recommendation provides technical measures to counter
-    threats and attacks. This will help the operators to assure the security of the
-    value-added service, and will also protect the users’ benefits.\r\n"
+  content: "With the rapid development of network and user-terminal capability, more and more telecom operators provide various services based on their network resources to the users. These services are called value-added services, which add additional value to basic telecommunication services (e.g., voice call, SMS, MMS and data access). Typical value-added services are including Mobile Office Automation, e-Reading, e-Commerce, etc. In many cases, the value-added services will involve sensitive operations or critical dada, which will be the target of the malicious attackers. Malicious users may utilize the service vulnerabilities to get benefits or do harm to the service and other users. \r\n\r\nThis Recommendation provides secure protection guidelines for value-added services provided by telecommunication operators. In addition to analysing typical service scenarios, security threats and attack methods, this Recommendation provides technical measures to counter threats and attacks. This will help the operators to assure the security of the value-added service, and will also protect the users’ benefits.\r\n"
 status:
   stage:
     content: Published

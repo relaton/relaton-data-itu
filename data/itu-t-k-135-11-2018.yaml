@@ -1,16 +1,16 @@
----
 id: ITUTK135112018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Technical parameters for residual current operated protective devices with
-    automatic reclosing feature for telecom applications
+  content: Technical parameters for residual current operated protective devices with automatic reclosing feature for telecom applications
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.135-201811-I
+  content: https://handle.itu.int/11.1002/1000/13714
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.135-201811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.135 (11/2018)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation gives an overview of the parameters of residual current
-    operated protective devices with automatic-reclosing feature for telecom applications.\r\n\r\nSuch
-    devices with an automatic-reclosing feature, also known as trip-free devices,
-    are used in telecom applications based in central offices or in bureaux and/or
-    stations (herein referred to as “RCDAs”). They are usually mounted as supplementary
-    protection devices to other forms of protection against direct-contact. The parameters
-    reference built-in residual current operated protective devices with automatic-reclosing
-    (RCDA) functionality.\r\n"
+  content: "This Recommendation gives an overview of the parameters of residual current operated protective devices with automatic-reclosing feature for telecom applications.\r\n\r\nSuch devices with an automatic-reclosing feature, also known as trip-free devices, are used in telecom applications based in central offices or in bureaux and/or stations (herein referred to as “RCDAs”). They are usually mounted as supplementary protection devices to other forms of protection against direct-contact. The parameters reference built-in residual current operated protective devices with automatic-reclosing (RCDA) functionality.\r\n"
 status:
   stage:
     content: Published
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -99,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -110,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -121,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -132,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -163,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

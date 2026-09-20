@@ -1,16 +1,16 @@
----
 id: ITUTX833041995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Generic upper
-    layers security: Protecting transfer syntax specification'
+  content: 'Information technology – Open Systems Interconnection – Generic upper layers security: Protecting transfer syntax specification'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.833-199504-I
+  content: https://handle.itu.int/11.1002/1000/3117
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.833-199504-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.833 (04/1995)
   type: ITU
@@ -54,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard belongs to a series of Recommendations
-    which provide a set of facilities to aid the construction of OSI Upper Layer protocols
-    which support the provision of security services. This Recommendation | International
-    Standard defines the protecting transfer syntax, associated with Presentation
-    Layer support for security services in the Application Layer.
+  content: This Recommendation | International Standard belongs to a series of Recommendations which provide a set of facilities to aid the construction of OSI Upper Layer protocols which support the provision of security services. This Recommendation | International Standard defines the protecting transfer syntax, associated with Presentation Layer support for security services in the Application Layer.
 status:
   stage:
     content: Published
@@ -78,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on security baseline for network
-        operators
+      content: ITU-T X.800-X.849 series – Supplement on security baseline for network operators
     docidentifier:
     - content: X Suppl. 2 (09/2007)
       type: ITU
@@ -89,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing
-        system and network security
+      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing system and network security
     docidentifier:
     - content: X Suppl. 3 (04/2008)
       type: ITU
@@ -100,8 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national
-        IP-based public network security centre for developing countries
+      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national IP-based public network security centre for developing countries
     docidentifier:
     - content: X Suppl. 15 (09/2012)
       type: ITU
@@ -111,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on architectural systems for
-        security controls for preventing fraudulent activities in public carrier networks
+      content: ITU-T X.800-X.849 series – Supplement on architectural systems for security controls for preventing fraudulent activities in public carrier networks
     docidentifier:
     - content: X Suppl. 16 (09/2012)
       type: ITU

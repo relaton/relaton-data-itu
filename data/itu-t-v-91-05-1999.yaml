@@ -1,17 +1,16 @@
----
 id: ITUTV91051999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: A digital modem operating at data signalling rates of up to 64 000 bit/s
-    for use on a 4-wire circuit switched connection and on leased point-to-point 4-wire
-    digital circuits
+  content: A digital modem operating at data signalling rates of up to 64 000 bit/s for use on a 4-wire circuit switched connection and on leased point-to-point 4-wire digital circuits
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.91-199905-I
+  content: https://handle.itu.int/11.1002/1000/4555
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.91-199905-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.91 (05/1999)
   type: ITU
@@ -52,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the operation of a duplex digital modem for
-    use on a 4-wire circuit switched connection and on leased point-to-point 4-wire
-    digital circuits at data signalling rates of up to 64 000 bit/s. The modem is
-    specified in terms of coding, start-up sequences, operating procedures and DTE-DCE
-    interface functionalities. The modem includes an optional control channel and
-    support for transparent mode on unrestricted 64 000 bit/s channels. The network
-    interface of the modem and the signalling rate that is used to connect the modem
-    locally to a 4-wire connection are considered to be national matters and are hence
-    not specified.
+  content: This Recommendation specifies the operation of a duplex digital modem for use on a 4-wire circuit switched connection and on leased point-to-point 4-wire digital circuits at data signalling rates of up to 64 000 bit/s. The modem is specified in terms of coding, start-up sequences, operating procedures and DTE-DCE interface functionalities. The modem includes an optional control channel and support for transparent mode on unrestricted 64 000 bit/s channels. The network interface of the modem and the signalling rate that is used to connect the modem locally to a 4-wire connection are considered to be national matters and are hence not specified.
 status:
   stage:
     content: Published

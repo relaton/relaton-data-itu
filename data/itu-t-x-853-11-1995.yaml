@@ -1,17 +1,16 @@
----
 id: ITUTX853111995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Protocol for the
-    Commitment, Concurrency and Recovery service element: Protocol Implementation
-    Conformance Statement (PICS) proforma'
+  content: 'Information technology – Open Systems Interconnection – Protocol for the Commitment, Concurrency and Recovery service element: Protocol Implementation Conformance Statement (PICS) proforma'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.853-199511-I
+  content: https://handle.itu.int/11.1002/1000/3122
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.853-199511-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.853 (11/1995)
   type: ITU
@@ -55,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides the Protocol Implementation
-    Conformance Statement (PICS) proforma for the OSI Commitment, Concurrency and
-    Recovery (CCR) protocol specified in ITU-T Rec. X.852 | ISO/IEC 9805-1. The PICS
-    proforma represents, in tabular form, the mandatory and optional elements of the
-    CCR protocol. The PICS proforma is used to indicate the features and choices of
-    a particular implementation of the CCR protocol.
+  content: This Recommendation | International Standard provides the Protocol Implementation Conformance Statement (PICS) proforma for the OSI Commitment, Concurrency and Recovery (CCR) protocol specified in ITU-T Rec. X.852 | ISO/IEC 9805-1. The PICS proforma represents, in tabular form, the mandatory and optional elements of the CCR protocol. The PICS proforma is used to indicate the features and choices of a particular implementation of the CCR protocol.
 status:
   stage:
     content: Published

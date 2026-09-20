@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl14012011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile
-    convergence
+  content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile convergence
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup14-201101-I
+  content: https://handle.itu.int/11.1002/1000/11082
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup14-201101-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 14 (01/2011)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: One of the essential benefits of the NGN is a supporting of convergences
-    such as a fixed mobile convergence (called FMC), telecom-broadcasting converged
-    service like IPTV. ITU-T produced several Recommendations on FMC and IPTV, especially
-    in the ITU-T Y.2000 series of Recommendations. ITU-T is developing more detailed
-    aspects of supporting the FMC, taking consideration of the fact that various services
-    are waiting to utilize the FMC as their service infrastructure, which will extend
-    their service coverage as well as give more benefits to the user.This Supplement
-    to the ITU-T Y.2000-series Recommendations on the scope of service scenarios over
-    the FMC provides service scenarios which are used over FMC. This Supplement uses
-    the features of involved key elements of FMC to guide how services can be provided
-    in detail. This Supplement also introduces overall configurations and scenario
-    models to identify service scenarios over the FMC.
+  content: One of the essential benefits of the NGN is a supporting of convergences such as a fixed mobile convergence (called FMC), telecom-broadcasting converged service like IPTV. ITU-T produced several Recommendations on FMC and IPTV, especially in the ITU-T Y.2000 series of Recommendations. ITU-T is developing more detailed aspects of supporting the FMC, taking consideration of the fact that various services are waiting to utilize the FMC as their service infrastructure, which will extend their service coverage as well as give more benefits to the user.This Supplement to the ITU-T Y.2000-series Recommendations on the scope of service scenarios over the FMC provides service scenarios which are used over FMC. This Supplement uses the features of involved key elements of FMC to guide how services can be provided in detail. This Supplement also introduces overall configurations and scenario models to identify service scenarios over the FMC.
 status:
   stage:
     content: Published

@@ -1,10 +1,11 @@
----
 id: ITUTX7361992Amd1TechnicalCor1101996
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.736-199610-I!Amd1-Cor1
+  content: https://handle.itu.int/11.1002/1000/3788
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.736-199610-I!Amd1-Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.736 (1992) Amd. 1/Technical Cor. 1 (10/1996)
   type: ITU
@@ -48,20 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Current X.700-Series Recommendations | International Standards mandate
-    the use of CMIP and thus preclude the possibility of using other communications
-    protocols for the transfer of systems management messages between Operations Systems
-    (OS). This constrains industry from adoption of other applicable communications
-    solutions whilst still remaining compliant to OSI systems management functions.
-    This Technical corrigendum makes provision for other communications protocols
-    to be used although it does not specify what these are. It further corrects an
-    ambiguity that can cause an Operations Systems (OS) implementor to develop software
-    that will not work correctly with another vendor''s OS product for a small number
-    of message types.This Technical corrigendum involves changes on this Recommendation
-    | International Standard and other Recommendations | International Standards as
-    follows: CCITT Rec. X.701 | ISO/IEC 10040, CCITT Rec. X.730 | ISO/IEC 10164-1
-    to CCITT Rec. X.736 | ISO/IEC 10164-7, CCITT Rec. X.740 | ISO/IEC 10164-8 and
-    ITU-T Rec. X.741 | ISO/IEC 10164-9.'
+  content: 'Current X.700-Series Recommendations | International Standards mandate the use of CMIP and thus preclude the possibility of using other communications protocols for the transfer of systems management messages between Operations Systems (OS). This constrains industry from adoption of other applicable communications solutions whilst still remaining compliant to OSI systems management functions. This Technical corrigendum makes provision for other communications protocols to be used although it does not specify what these are. It further corrects an ambiguity that can cause an Operations Systems (OS) implementor to develop software that will not work correctly with another vendor''s OS product for a small number of message types.This Technical corrigendum involves changes on this Recommendation | International Standard and other Recommendations | International Standards as follows: CCITT Rec. X.701 | ISO/IEC 10040, CCITT Rec. X.730 | ISO/IEC 10164-1 to CCITT Rec. X.736 | ISO/IEC 10164-7, CCITT Rec. X.740 | ISO/IEC 10164-8 and ITU-T Rec. X.741 | ISO/IEC 10164-9.'
 status:
   stage:
     content: Published
@@ -91,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Systems Management:
-        Security alarm reporting function'
+      content: 'Information technology – Open Systems Interconnection – Systems Management: Security alarm reporting function'
     docidentifier:
     - content: X.736 (01/1992)
       type: ITU

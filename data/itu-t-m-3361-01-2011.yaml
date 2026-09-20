@@ -1,16 +1,16 @@
----
 id: ITUTM3361012011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements for business-to-government management interfaces - B2G interfaces
-    - Introduction
+  content: Requirements for business-to-government management interfaces - B2G interfaces - Introduction
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3361-201101-I
+  content: https://handle.itu.int/11.1002/1000/11031
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3361-201101-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3361 (01/2011)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3361 introduces the specification for high level
-    requirements of business-to-government (B2G) management interfaces, including
-    its general requirements, specific requirements, as well as security requirements.
-    This Recommendation also defines the concept of B2G management interfaces and
-    its relationship with existing business-to-business and customer-to-business management
-    interfaces (B2B and C2B) Recommendations.The B2G management interface has additional
-    requirements to those of B2B/C2B interfaces, which has impacts on the activities
-    of both the service provider/network operator (SP/NO) as well as on the National
-    Administrations/Government (G) activities.The interactions between SP/NO and G
-    entities are addressed in clauses 6 to 9. B2B and C2B interface specifications
-    will be reused in the development of the B2G management interface.
+  content: Recommendation ITU-T M.3361 introduces the specification for high level requirements of business-to-government (B2G) management interfaces, including its general requirements, specific requirements, as well as security requirements. This Recommendation also defines the concept of B2G management interfaces and its relationship with existing business-to-business and customer-to-business management interfaces (B2B and C2B) Recommendations.The B2G management interface has additional requirements to those of B2B/C2B interfaces, which has impacts on the activities of both the service provider/network operator (SP/NO) as well as on the National Administrations/Government (G) activities.The interactions between SP/NO and G entities are addressed in clauses 6 to 9. B2B and C2B interface specifications will be reused in the development of the B2G management interface.
 status:
   stage:
     content: Published

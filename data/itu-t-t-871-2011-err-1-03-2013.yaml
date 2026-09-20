@@ -1,10 +1,11 @@
----
 id: ITUTT8712011Err1032013
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.871-201303-I!Err1
+  content: https://handle.itu.int/11.1002/1000/11929
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.871-201303-I!Err1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.871 (2011) Err. 1 (03/2013)
   type: ITU
@@ -64,8 +65,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - Digital compression and coding of continuous-tone
-        still images: JPEG File Interchange Format (JFIF)'
+      content: 'Information technology - Digital compression and coding of continuous-tone still images: JPEG File Interchange Format (JFIF)'
     docidentifier:
     - content: T.871 (05/2011)
       type: ITU

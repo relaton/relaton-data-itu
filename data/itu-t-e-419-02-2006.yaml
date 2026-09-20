@@ -1,16 +1,16 @@
----
 id: ITUTE419022006
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Business oriented Key Performance Indicators for management of networks
-    and services
+  content: Business oriented Key Performance Indicators for management of networks and services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.419-200602-I
+  content: https://handle.itu.int/11.1002/1000/8734
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.419-200602-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.419 (02/2006)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The scope of this KPI Recommendation is to find areas where meaningful
-    measures can be identified and correlated to the broader business objectives.Often
-    measurements are taken because they are available not because they are meaningful.
-    It is envisaged that the model in this Recommendation will assist carriers to
-    direct operations areas to play a more key role in supporting the business. Network
-    management requires real-time monitoring of current network status and performance
-    and the ability to take prompt action to control the performance and resources
-    of the network and services when necessary. It should be noted that the complete
-    range of network status and performance parameters are not necessary for the introduction
-    of a network management capability
+  content: The scope of this KPI Recommendation is to find areas where meaningful measures can be identified and correlated to the broader business objectives.Often measurements are taken because they are available not because they are meaningful. It is envisaged that the model in this Recommendation will assist carriers to direct operations areas to play a more key role in supporting the business. Network management requires real-time monitoring of current network status and performance and the ability to take prompt action to control the performance and resources of the network and services when necessary. It should be noted that the complete range of network status and performance parameters are not necessary for the introduction of a network management capability
 status:
   stage:
     content: Published
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

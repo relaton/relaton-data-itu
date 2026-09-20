@@ -1,16 +1,16 @@
----
 id: ITUTE162041995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Capability for seven digit analysis of international E.164 numbers at Time
-    T
+  content: Capability for seven digit analysis of international E.164 numbers at Time T
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.162-199504-W
+  content: https://handle.itu.int/11.1002/1000/413
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.162-199504-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.162 (04/1995)
   type: ITU
@@ -46,10 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation outlines the requirement for increased digit analysis,
-    from six digits to seven digits, of the international E.164 number. This requirement
-    is in addition to previous requirements in Recommendations E.164 and E.165, associated
-    with Time T.
+  content: This Recommendation outlines the requirement for increased digit analysis, from six digits to seven digits, of the international E.164 number. This requirement is in addition to previous requirements in Recommendations E.164 and E.165, associated with Time T.
 status:
   stage:
     content: Withdrawal

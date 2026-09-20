@@ -1,16 +1,16 @@
----
 id: ITUTM560111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: International telephone circuits – Principles, definitions and relative
-    transmission levels
+  content: International telephone circuits – Principles, definitions and relative transmission levels
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.560-198811-I
+  content: https://handle.itu.int/11.1002/1000/1572
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.560-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.560 (11/1988)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: International telephone circuits – principles, definitions and relative
-        transmission levels
+      content: International telephone circuits – principles, definitions and relative transmission levels
     docidentifier:
     - content: M.560 (10/1984)
       type: ITU

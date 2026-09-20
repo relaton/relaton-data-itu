@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl15102011
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2000-series – Profile-based application adaptation service using
-    next generation networks
+  content: ITU-T Y.2000-series – Profile-based application adaptation service using next generation networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup15-201110-I
+  content: https://handle.itu.int/11.1002/1000/11447
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup15-201110-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 15 (10/2011)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The dynamic adaptation between various service environments using the application
-    profiles for the continuous service is a key issue of the profile-based application
-    adaptation service (PAAS) using NGN. PAAS offers an optimized service framework
-    for providing continuous services for users, which are multimedia, educational
-    broadcasting, game, etc., using the various devices that are not restricted by
-    the service environment of the user. This Supplement specifies the functional
-    model and service scenario of PAAS.
+  content: The dynamic adaptation between various service environments using the application profiles for the continuous service is a key issue of the profile-based application adaptation service (PAAS) using NGN. PAAS offers an optimized service framework for providing continuous services for users, which are multimedia, educational broadcasting, game, etc., using the various devices that are not restricted by the service environment of the user. This Supplement specifies the functional model and service scenario of PAAS.
 status:
   stage:
     content: Published

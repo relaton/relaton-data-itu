@@ -1,16 +1,16 @@
----
 id: ITUTX1210012014
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Overview of source-based security troubleshooting mechanisms for Internet
-    protocol-based networks
+  content: Overview of source-based security troubleshooting mechanisms for Internet protocol-based networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1210-201401-I
+  content: https://handle.itu.int/11.1002/1000/12043
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1210-201401-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1210 (01/2014)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1210 provides source-based security troubleshooting
-    mechanisms for security issues, as well as selection criteria and basic security
-    guidelines of troubleshooting mechanisms.\r\nSource-based troubleshooting security
-    issues in Internet protocol-based networks involve techniques used to discover
-    technical information concerning the ingress points, paths, partial paths or sources
-    of a packet or packets causing a problematic network event, generally for the
-    purposes of applying mitigation measures.\r\n"
+  content: "Recommendation ITU-T X.1210 provides source-based security troubleshooting mechanisms for security issues, as well as selection criteria and basic security guidelines of troubleshooting mechanisms.\r\nSource-based troubleshooting security issues in Internet protocol-based networks involve techniques used to discover technical information concerning the ingress points, paths, partial paths or sources of a packet or packets causing a problematic network event, generally for the purposes of applying mitigation measures.\r\n"
 status:
   stage:
     content: Published

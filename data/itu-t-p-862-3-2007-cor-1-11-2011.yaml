@@ -1,10 +1,11 @@
----
 id: ITUTP86232007Cor1112011
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.862.3-201111-W!Cor1
+  content: https://handle.itu.int/11.1002/1000/11464
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.862.3-201111-W!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T P.862.3 (2007) Cor. 1 (11/2011)
   type: ITU
@@ -64,8 +65,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application guide for objective quality measurement based on Recommendations
-        P.862, P.862.1 and P.862.2
+      content: Application guide for objective quality measurement based on Recommendations P.862, P.862.1 and P.862.2
     docidentifier:
     - content: P.862.3 (11/2007)
       type: ITU
@@ -75,8 +75,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application guide for objective quality measurement based on Recommendations
-        P.862, P.862.1 and P.862.2
+      content: Application guide for objective quality measurement based on Recommendations P.862, P.862.1 and P.862.2
     docidentifier:
     - content: P.862.3 (11/2005)
       type: ITU

@@ -1,13 +1,14 @@
----
 id: ITUTS2091986
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Transmission of capital and small letters within CCITT-defined services
-    which use International Telegraph Alphabet N°2
+  content: Transmission of capital and small letters within CCITT-defined services which use International Telegraph Alphabet N°2
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/10937
 docidentifier:
 - content: ITU-T S.2 (09/1986)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Coding scheme using International Telegraph Alphabet No. 2 (ITA2) to
-        allow the transmission of capital and small letters
+      content: Coding scheme using International Telegraph Alphabet No. 2 (ITA2) to allow the transmission of capital and small letters
     docidentifier:
     - content: S.2 (11/1988)
       type: ITU

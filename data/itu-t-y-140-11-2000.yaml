@@ -1,16 +1,16 @@
----
 id: ITUTY140112000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Global Information Infrastructure (GII): Reference points for interconnection
-    framework'
+  content: 'Global Information Infrastructure (GII): Reference points for interconnection framework'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.140-200011-I
+  content: https://handle.itu.int/11.1002/1000/5227
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.140-200011-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.140 (11/2000)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation sets the scene for interconnection within the framework
-    of the GII, a multi-operator, multi-provider and multi-vendor telecommunications
-    environment. The significance of interconnection in particular scenarios is dealt
-    with in Annexes A, B, C, D and E. These include PSTN/ISDN, PSTN/ISDN access network,
-    gateway architectures, service provider access and management systems/TMN. The
-    annexes, Appendix I and the bibliography list interconnection related Recommendations
-    and also standards developed by other organizations cooperating with ITU.
+  content: This Recommendation sets the scene for interconnection within the framework of the GII, a multi-operator, multi-provider and multi-vendor telecommunications environment. The significance of interconnection in particular scenarios is dealt with in Annexes A, B, C, D and E. These include PSTN/ISDN, PSTN/ISDN access network, gateway architectures, service provider access and management systems/TMN. The annexes, Appendix I and the bibliography list interconnection related Recommendations and also standards developed by other organizations cooperating with ITU.
 status:
   stage:
     content: Published
@@ -97,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -108,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -119,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

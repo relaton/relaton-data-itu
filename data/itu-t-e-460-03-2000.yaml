@@ -1,16 +1,16 @@
----
 id: ITUTE460032000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Measurements and metrics for monitoring the performance of V.34 Group 3
-    Facsimile
+  content: Measurements and metrics for monitoring the performance of V.34 Group 3 Facsimile
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.460-200003-I
+  content: https://handle.itu.int/11.1002/1000/4979
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.460-200003-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.460 (03/2000)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes measurements and metrics for monitoring the
-    performance of V.34 group 3 facsimile. There are two options in T.30 for V.34
-    fax over the PSTN. These are described in Annexes C and F of T.30. At present
-    no known implementations use Annex C/T.30; they use either Annex F/T.30 or some
-    other proprietary method. It is possible to map many of the measurements and metrics
-    from E.459 onto monitoring of V.34 fax.
+  content: This Recommendation describes measurements and metrics for monitoring the performance of V.34 group 3 facsimile. There are two options in T.30 for V.34 fax over the PSTN. These are described in Annexes C and F of T.30. At present no known implementations use Annex C/T.30; they use either Annex F/T.30 or some other proprietary method. It is possible to map many of the measurements and metrics from E.459 onto monitoring of V.34 fax.
 status:
   stage:
     content: Published
@@ -76,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

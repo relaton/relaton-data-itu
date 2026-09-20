@@ -1,16 +1,16 @@
----
 id: ITUTX1242022009
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Short message service (SMS) spam filtering system based on user-specified
-    rules
+  content: Short message service (SMS) spam filtering system based on user-specified rules
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1242-200902-I
+  content: https://handle.itu.int/11.1002/1000/9618
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1242-200902-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1242 (02/2009)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1242 describes the realization of the SMS spam filtering
-    system based on user-specified rules. It defines the structure of SMS spam filtering
-    system, SMS spam filtering functions, users' service management, communication
-    protocols and basic functional requirements of terminals with SMS functions.
+  content: Recommendation ITU-T X.1242 describes the realization of the SMS spam filtering system based on user-specified rules. It defines the structure of SMS spam filtering system, SMS spam filtering functions, users' service management, communication protocols and basic functional requirements of terminals with SMS functions.
 status:
   stage:
     content: Published
@@ -74,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated
-        threats
+      content: ITU-T X.1240 series – Supplement on countering spam and associated threats
     docidentifier:
     - content: X Suppl. 6 (09/2009)
       type: ITU
@@ -85,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T X.1242 – Supplement on guidelines on countermeasures against
-        short message service phishing and smishing attacks  '
+      content: 'ITU-T X.1242 – Supplement on guidelines on countermeasures against short message service phishing and smishing attacks  '
     docidentifier:
     - content: X Suppl. 29 (09/2017)
       type: ITU

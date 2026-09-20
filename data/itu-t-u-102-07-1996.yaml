@@ -1,16 +1,16 @@
----
 id: ITUTU102071996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Intex and similar services – Network requirements to effect interworking
-    between terminals operating at different speeds
+  content: Intex and similar services – Network requirements to effect interworking between terminals operating at different speeds
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-U.102-199607-I
+  content: https://handle.itu.int/11.1002/1000/3390
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-U.102-199607-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T U.102 (07/1996)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the network requirements to be met in order
-    to allow successful interworking of INTEX terminals operating at different information
-    transfer rates.
+  content: This Recommendation describes the network requirements to be met in order to allow successful interworking of INTEX terminals operating at different information transfer rates.
 status:
   stage:
     content: Published

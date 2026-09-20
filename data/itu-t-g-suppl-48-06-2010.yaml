@@ -1,16 +1,16 @@
----
 id: ITUTGSuppl48062010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: '10-Gigabit-capable passive optical networks: Interface between media access
-    control with serializer/deserializer and physical medium dependent sublayers'
+  content: '10-Gigabit-capable passive optical networks: Interface between media access control with serializer/deserializer and physical medium dependent sublayers'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup48-201006-I
+  content: https://handle.itu.int/11.1002/1000/10930
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup48-201006-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 48 (06/2010)
   type: ITU
@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 48 to ITU-T G-series Recommendations provides information on
-    the electrical interface between media access control (MAC) with serializer/deserializer
-    (SERDES) and physical media dependent (PMD) for a 10-Gigabit-capable passive optical
-    network (XG-PON) system with asymmetric nominal data rate of 9.95328 Gbit/s in
-    the downstream direction and 2.48832 Gbit/s in the upstream direction, hereinafter
-    referred to as XG-PON1.Information is provided in order to facilitate the interoperability
-    level and mass market use of the equipment based on the ITU-T G.987 series of
-    Recommendations. The information provided in this Supplement is complementary
-    to the physical layer requirements and specifications for the XG-PON physical
-    media dependent (PMD) layer for XG-PON described in Recommendation ITU-T G.987.2.
-    This scope of the information provided in this Supplement is focused on the elements
-    in the interface which are important to the XG-PON1 specific interface, and does
-    not intend to cover full specification for the mechanical and physical aspects
-    of the optical PMD, which can be found in various industry multi-source agreement
-    (MSA) PMD specifications for 10G optics.
+  content: Supplement 48 to ITU-T G-series Recommendations provides information on the electrical interface between media access control (MAC) with serializer/deserializer (SERDES) and physical media dependent (PMD) for a 10-Gigabit-capable passive optical network (XG-PON) system with asymmetric nominal data rate of 9.95328 Gbit/s in the downstream direction and 2.48832 Gbit/s in the upstream direction, hereinafter referred to as XG-PON1.Information is provided in order to facilitate the interoperability level and mass market use of the equipment based on the ITU-T G.987 series of Recommendations. The information provided in this Supplement is complementary to the physical layer requirements and specifications for the XG-PON physical media dependent (PMD) layer for XG-PON described in Recommendation ITU-T G.987.2. This scope of the information provided in this Supplement is focused on the elements in the interface which are important to the XG-PON1 specific interface, and does not intend to cover full specification for the mechanical and physical aspects of the optical PMD, which can be found in various industry multi-source agreement (MSA) PMD specifications for 10G optics.
 status:
   stage:
     content: Published

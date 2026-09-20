@@ -1,16 +1,16 @@
----
 id: ITUTI3661061998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Segmentation and Reassembly Service Specific Convergence Sublayer for the
-    AAL type 2
+  content: Segmentation and Reassembly Service Specific Convergence Sublayer for the AAL type 2
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.366.1-199806-I
+  content: https://handle.itu.int/11.1002/1000/4404
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.366.1-199806-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.366.1 (06/1998)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the Segmentation and Reassembly Service Specific
-    Convergence sublayer of the ATM Adaptation Layer (AAL) type 2 which provides for
-    the bandwidth-efficient transmission of low-rate, short, and variable length packets
-    in delay sensitive applications. On one or more AAL type 2 user information streams,
-    the Segmentation and Reassembly Service Specific Convergence sublayer may be deployed.
-    In this Recommendation, the sublayer structure and the procedures for the segmentation
-    and reassembly process, as well as the optional transmission error detection and
-    assured data transfer, are defined in depth.
+  content: This Recommendation specifies the Segmentation and Reassembly Service Specific Convergence sublayer of the ATM Adaptation Layer (AAL) type 2 which provides for the bandwidth-efficient transmission of low-rate, short, and variable length packets in delay sensitive applications. On one or more AAL type 2 user information streams, the Segmentation and Reassembly Service Specific Convergence sublayer may be deployed. In this Recommendation, the sublayer structure and the procedures for the segmentation and reassembly process, as well as the optional transmission error detection and assured data transfer, are defined in depth.
 status:
   stage:
     content: Published
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

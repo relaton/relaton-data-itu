@@ -1,13 +1,14 @@
----
 id: ITUTE402101976
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Publication by the ITU General Secretariat of the List of international
-    telephone routes
+  content: Publication by the ITU General Secretariat of the List of international telephone routes
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/9801
 docidentifier:
 - content: ITU-T E.402 (10/1976)
   type: ITU
@@ -92,8 +93,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Publication by the I. T .U. General Secretariat of the "List of international
-        telephone routes"
+      content: Publication by the I. T .U. General Secretariat of the "List of international telephone routes"
     docidentifier:
     - content: E.402 (12/1972)
       type: ITU

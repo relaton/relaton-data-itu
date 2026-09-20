@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl15121999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.2130: Coordinated call control and bearer control
-    signalling requirements for leaf initiated join service'
+  content: 'Technical Report TRQ.2130: Coordinated call control and bearer control signalling requirements for leaf initiated join service'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup15-199912-I
+  content: https://handle.itu.int/11.1002/1000/4996
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup15-199912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 15 (12/1999)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement specifies the signalling requirements for the Leaf Initiated
-    Join service capability. These signalling requirements cover the UNI and NNI interactions
-    (exchange of information flows) and internal serving node procedure requirements
-    for a serving node associated with a leaf and associated with the root of the
-    connection(s). The signalling requirements include LIJ call creation and release,
-    attachment of new parties by the root or by themselves ("leaf initiated join"),
-    and detachment of parties by the root or by themselves.
+  content: This Supplement specifies the signalling requirements for the Leaf Initiated Join service capability. These signalling requirements cover the UNI and NNI interactions (exchange of information flows) and internal serving node procedure requirements for a serving node associated with a leaf and associated with the root of the connection(s). The signalling requirements include LIJ call creation and release, attachment of new parties by the root or by themselves ("leaf initiated join"), and detachment of parties by the root or by themselves.
 status:
   stage:
     content: Published

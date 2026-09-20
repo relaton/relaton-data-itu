@@ -1,16 +1,16 @@
----
 id: ITUTLSuppl23042016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T L.1700 - Low-cost sustainable telecommunications for rural communications
-    in developing countries using microwave and millimetre radio links
+  content: ITU-T L.1700 - Low-cost sustainable telecommunications for rural communications in developing countries using microwave and millimetre radio links
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup23-201604-I
+  content: https://handle.itu.int/11.1002/1000/12963
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup23-201604-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 23 (04/2016)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Supplement 23 to ITU-T L-series of Recommendations provides technical
-    information about the use of microwave radio systems which are available for use
-    in telecommunication networks for rural communications in developing countries.
-    Example applications include: high-capacity backbone networks, synchronous digital
-    hierarchy (SDH) network systems, and use in enterprise networks and mobile backhauls.
-    The attractive features of microwave systems for rural communications in developing
-    countries are: independence from geographical features, such as mountains and
-    archipelagos; rapid system integration at a low cost; robustness against disasters;
-    and security against human interference.'
+  content: 'Supplement 23 to ITU-T L-series of Recommendations provides technical information about the use of microwave radio systems which are available for use in telecommunication networks for rural communications in developing countries. Example applications include: high-capacity backbone networks, synchronous digital hierarchy (SDH) network systems, and use in enterprise networks and mobile backhauls. The attractive features of microwave systems for rural communications in developing countries are: independence from geographical features, such as mountains and archipelagos; rapid system integration at a low cost; robustness against disasters; and security against human interference.'
 status:
   stage:
     content: Published

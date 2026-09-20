@@ -1,4 +1,3 @@
----
 id: ITUTD170Suppl4012012
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.170-201201-I!Sup4
+  content: https://handle.itu.int/11.1002/1000/11552
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.170-201201-I!Sup4!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.170 Suppl. 4 (01/2012)
   type: ITU
@@ -50,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 4 to Recommendation ITU-T D.170 is intended to set guidelines
-    to ensure the effective and efficient management of settlement statements.
+  content: Supplement 4 to Recommendation ITU-T D.170 is intended to set guidelines to ensure the effective and efficient management of settlement statements.
 status:
   stage:
     content: Published
@@ -81,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T D.170 - Supplement on guidelines for contents of an international
-        interconnection agreement
+      content: ITU-T D.170 - Supplement on guidelines for contents of an international interconnection agreement
     docidentifier:
     - content: D.170 Suppl. 3 (01/2012)
       type: ITU

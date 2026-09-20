@@ -1,16 +1,16 @@
----
 id: ITUTG9839062004
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: B-PON ONT management and control interface (OMCI) support for wireless
-    Local Area Network interfaces
+  content: B-PON ONT management and control interface (OMCI) support for wireless Local Area Network interfaces
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.983.9-200406-W
+  content: https://handle.itu.int/11.1002/1000/7343
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.983.9-200406-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.983.9 (06/2004)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the Optical Network Termination (ONT) management
-    and control interface (OMCI) specification for the support of wireless Local Area
-    Network interfaces on Broadband Passive Optical Network (B-PON) systems as defined
-    in ITU-T Rec. G.983.1.The OMCI specification is based on ITU-T Recs G.983.2 and
-    G.983.8, but provides the necessary enhancements to these Recommendations which
-    are needed to support the management of IEEE 802.11 interfaces.
+  content: This Recommendation provides the Optical Network Termination (ONT) management and control interface (OMCI) specification for the support of wireless Local Area Network interfaces on Broadband Passive Optical Network (B-PON) systems as defined in ITU-T Rec. G.983.1.The OMCI specification is based on ITU-T Recs G.983.2 and G.983.8, but provides the necessary enhancements to these Recommendations which are needed to support the management of IEEE 802.11 interfaces.
 status:
   stage:
     content: Withdrawal

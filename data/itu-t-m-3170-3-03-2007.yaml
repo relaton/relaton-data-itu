@@ -1,16 +1,16 @@
----
 id: ITUTM31703032007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Multi-technology network management: CORBA IDL solution set (TMF814) with
-    implementation statement templates and guidelines (TMF814A)'
+  content: 'Multi-technology network management: CORBA IDL solution set (TMF814) with implementation statement templates and guidelines (TMF814A)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3170.3-200703-I
+  content: https://handle.itu.int/11.1002/1000/9079
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3170.3-200703-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3170.3 (03/2007)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The multi-technology network management (MTNM) solution suite realizes
-    a TMN interface between the NML and EML according to ITU-T Recommendation M.3010
-    for the FCAPS management of multi-technology fixed transport, access and aggregation
-    networks.This Recommendation first explains the structure of the MTNM CORBA IDL
-    solution set (TMF814) and associated implementation statement templates and guidelines
-    (TMF814A), then refers to ITU-T Recommendation X.780.2, ITU-T Recommendation Q.816.2
-    and MTNM supporting documents for relating the TMF814 and TMF814A components to
-    key Recommendations on TMN and functional network architectures, and finally points
-    out MTNM interoperability in a multi-vendor network.This Recommendation wraps
-    TMF814 and TMF814A, and the associated MTNM supporting documents, by referencing
-    them normatively and relating them to key ITU-T Recommendations utilized by the
-    MTNM approach to CORBA and functional modelling. These relationships imply that
-    MTNM operations systems are TMN-compliant and TMN-conformant according to ITU-T
-    Recommendation M.3010. This Recommendation can also be used as a first lead-in
-    to the MTNM CORBA IDL solution set with implementation statement templates, interoperability
-    guidelines and MTNM feature matrices.
+  content: The multi-technology network management (MTNM) solution suite realizes a TMN interface between the NML and EML according to ITU-T Recommendation M.3010 for the FCAPS management of multi-technology fixed transport, access and aggregation networks.This Recommendation first explains the structure of the MTNM CORBA IDL solution set (TMF814) and associated implementation statement templates and guidelines (TMF814A), then refers to ITU-T Recommendation X.780.2, ITU-T Recommendation Q.816.2 and MTNM supporting documents for relating the TMF814 and TMF814A components to key Recommendations on TMN and functional network architectures, and finally points out MTNM interoperability in a multi-vendor network.This Recommendation wraps TMF814 and TMF814A, and the associated MTNM supporting documents, by referencing them normatively and relating them to key ITU-T Recommendations utilized by the MTNM approach to CORBA and functional modelling. These relationships imply that MTNM operations systems are TMN-compliant and TMN-conformant according to ITU-T Recommendation M.3010. This Recommendation can also be used as a first lead-in to the MTNM CORBA IDL solution set with implementation statement templates, interoperability guidelines and MTNM feature matrices.
 status:
   stage:
     content: Published

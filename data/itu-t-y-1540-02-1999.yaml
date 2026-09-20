@@ -1,16 +1,16 @@
----
 id: ITUTY1540021999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Internet protocol data communication service – IP packet transfer and availability
-    performance parameters
+  content: Internet protocol data communication service – IP packet transfer and availability performance parameters
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.380-199902-S
+  content: https://handle.itu.int/11.1002/1000/5302
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.380-199902-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1540 (02/1999)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines parameters that may be used in specifying and
-    assessing the performance of speed, accuracy, dependability, and availability
-    of IP packet transfer of international Internet Protocol (IP) data communication
-    service. The defined parameters apply to end-to-end, point-to-point IP service
-    and to the network portions that provide, or contribute to the provision of, such
-    service in accordance with the normative references specified in clause 2. Connectionless
-    transport is a distinguishing aspect of the IP service that is considered in this
-    Recommendation.
+  content: This Recommendation defines parameters that may be used in specifying and assessing the performance of speed, accuracy, dependability, and availability of IP packet transfer of international Internet Protocol (IP) data communication service. The defined parameters apply to end-to-end, point-to-point IP service and to the network portions that provide, or contribute to the provision of, such service in accordance with the normative references specified in clause 2. Connectionless transport is a distinguishing aspect of the IP service that is considered in this Recommendation.
 status:
   stage:
     content: Withdrawal
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex B: Additional search algorithms for IP-based capacity
-        parameters and methods of measurement'
+      content: 'Revised Annex B: Additional search algorithms for IP-based capacity parameters and methods of measurement'
     docidentifier:
     - content: Y.1540 (2019) Amd. 2 (03/2023)
       type: ITU
@@ -89,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex B - Additional search algorithm for IP-based capacity parameters
-        and methods of measurement
+      content: New Annex B - Additional search algorithm for IP-based capacity parameters and methods of measurement
     docidentifier:
     - content: Y.1540 (2019) Amd. 1 (02/2020)
       type: ITU
@@ -100,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Internet protocol data communication service – IP packet transfer and
-        availability performance parameters
+      content: Internet protocol data communication service – IP packet transfer and availability performance parameters
     docidentifier:
     - content: Y.1540 (12/2019)
       type: ITU
@@ -111,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Internet protocol data communication service – IP packet transfer and
-        availability performance parameters
+      content: Internet protocol data communication service – IP packet transfer and availability performance parameters
     docidentifier:
     - content: Y.1540 (07/2016)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix IX - Explanation of TCP-based measurement inadequacy to
-        meet normative requirements
+      content: New Appendix IX - Explanation of TCP-based measurement inadequacy to meet normative requirements
     docidentifier:
     - content: Y.1540 (2011) Amd. 1 (01/2016)
       type: ITU
@@ -133,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Internet protocol data communication service – IP packet transfer and
-        availability performance parameters
+      content: Internet protocol data communication service – IP packet transfer and availability performance parameters
     docidentifier:
     - content: Y.1540 (03/2011)
       type: ITU
@@ -144,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix VII - Packet performance parameters for optimization of
-        stream repair techniques and New Appendix VIII - IP-layer capacity framework
+      content: New Appendix VII - Packet performance parameters for optimization of stream repair techniques and New Appendix VIII - IP-layer capacity framework
     docidentifier:
     - content: Y.1540 (2007) Amd. 1 (03/2009)
       type: ITU
@@ -155,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Internet protocol data communication service – IP packet transfer and
-        availability performance parameters
+      content: Internet protocol data communication service – IP packet transfer and availability performance parameters
     docidentifier:
     - content: Y.1540 (11/2007)
       type: ITU
@@ -176,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Internet protocol data communication service – IP packet transfer and
-        availability performance parameters
+      content: Internet protocol data communication service – IP packet transfer and availability performance parameters
     docidentifier:
     - content: Y.1540 (12/2002)
       type: ITU
@@ -187,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Internet protocol data communication service – IP packet transfer and
-        availability performance parameters
+      content: Internet protocol data communication service – IP packet transfer and availability performance parameters
     docidentifier:
     - content: I.380 (02/1999)
       type: ITU
@@ -228,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -239,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -250,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

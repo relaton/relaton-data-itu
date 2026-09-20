@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl4012008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.1300 series – Supplement on transport requirements for T-MPLS OAM
-    and considerations for the application of IETF MPLS technology
+  content: ITU-T Y.1300 series – Supplement on transport requirements for T-MPLS OAM and considerations for the application of IETF MPLS technology
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup4-200801-S
+  content: https://handle.itu.int/11.1002/1000/9125
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup4-200801-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 4 (01/2008)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement provides the requirements for the operation, administration
-    and maintenance (OAM) functionality in T-MPLS layer networks. This Supplement
-    is designed primarily to support point-to-point and point-to-multipoint T-MPLS
-    connections.It is noted that this Supplement does not address the administration
-    aspects of OAM.
+  content: This Supplement provides the requirements for the operation, administration and maintenance (OAM) functionality in T-MPLS layer networks. This Supplement is designed primarily to support point-to-point and point-to-multipoint T-MPLS connections.It is noted that this Supplement does not address the administration aspects of OAM.
 status:
   stage:
     content: Withdrawal

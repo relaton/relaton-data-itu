@@ -1,17 +1,16 @@
----
 id: ITUTYSuppl107052026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.4811 – Supplement on the implementation of a converged service
-    for identification and authentication for Internet of things devices in a decentralized
-    environment
+  content: ITU-T Y.4811 – Supplement on the implementation of a converged service for identification and authentication for Internet of things devices in a decentralized environment
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup107-202605-I
+  content: https://handle.itu.int/11.1002/1000/16825
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup107-202605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 107 (05/2026)
   type: ITU
@@ -52,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.4811 defines a converged service for identification
-    and authentication for Internet of things (IoT) devices in a decentralized environment
-    (CSIADE), and provides its common characteristics, general requirements, functional
-    architecture, key capabilities and procedures. CSIADE allows IoT devices and IoT
-    services to identify and authenticate each other – whether they use the same or
-    different types of identification and authentication solutions – within decentralized
-    environments.\r\nSupplement 107 to ITU-T Y-series provides a set of implementation
-    guidelines for performing CSIADE as described in Recommendation ITU-T Y.4811.
-    The guidelines include:\r\n–that of CSIADE as a standalone system and as a subsystem
-    embedded in Internet of things (IoT) devices and services,\r\n–to improve compatibility
-    when using self-resolving identities for IoT devices and services,\r\n–to use
-    self-controllable storage to manage identities of IoT devices and services,\r\n–to
-    support online and offline endorsement for the identity of IoT devices and services,
-    and\r\n–to support multiple solutions of identification and authentication in
-    CSIADE.\r\nThis Supplement is designed to promote the adoption and deployment
-    of CSIADE.\r\n"
+  content: "Recommendation ITU-T Y.4811 defines a converged service for identification and authentication for Internet of things (IoT) devices in a decentralized environment (CSIADE), and provides its common characteristics, general requirements, functional architecture, key capabilities and procedures. CSIADE allows IoT devices and IoT services to identify and authenticate each other – whether they use the same or different types of identification and authentication solutions – within decentralized environments.\r\nSupplement 107 to ITU-T Y-series provides a set of implementation guidelines for performing CSIADE as described in Recommendation ITU-T Y.4811. The guidelines include:\r\n–that of CSIADE as a standalone system and as a subsystem embedded in Internet of things (IoT) devices and services,\r\n–to improve compatibility when using self-resolving identities for IoT devices and services,\r\n–to use self-controllable storage to manage identities of IoT devices and services,\r\n–to support online and offline endorsement for the identity of IoT devices and services, and\r\n–to support multiple solutions of identification and authentication in CSIADE.\r\nThis Supplement is designed to promote the adoption and deployment of CSIADE.\r\n"
 status:
   stage:
     content: Published

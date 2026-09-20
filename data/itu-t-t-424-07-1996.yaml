@@ -1,16 +1,16 @@
----
 id: ITUTT424071996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Document Architecture (ODA) and interchange
-    format: Temporal relationships and non-linear structures'
+  content: 'Information technology – Open Document Architecture (ODA) and interchange format: Temporal relationships and non-linear structures'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.424-199607-I
+  content: https://handle.itu.int/11.1002/1000/2555
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.424-199607-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.424 (07/1996)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard is one of two (Recommendations
-    T.422 and T.424) which are designed to support the interchange of processable
-    and formatted hypermedia documents (HyperODA). The non-linear structures are required
-    to enable an ODA document to be traversed in a non-linear fashion. It also supports
-    the use of a temporal dimension in ODA documents as well as future non-spatially
-    oriented content architectures .
+  content: This Recommendation | International Standard is one of two (Recommendations T.422 and T.424) which are designed to support the interchange of processable and formatted hypermedia documents (HyperODA). The non-linear structures are required to enable an ODA document to be traversed in a non-linear fashion. It also supports the use of a temporal dimension in ODA documents as well as future non-spatially oriented content architectures .
 status:
   stage:
     content: Published

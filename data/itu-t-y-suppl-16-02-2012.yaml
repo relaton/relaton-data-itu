@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl16022012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.1900-series – Supplement on guidelines on deployment of IP multicast
-    for IPTV content delivery
+  content: ITU-T Y.1900-series – Supplement on guidelines on deployment of IP multicast for IPTV content delivery
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup16-201202-I
+  content: https://handle.itu.int/11.1002/1000/11565
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup16-201202-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 16 (02/2012)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 16 to ITU-T Y-series Recommendations describes the technical
-    guidelines for the deployment of IP multicast technologies for IPTV content delivery.
-    The deployment guidelines identify the technical issues and considerations regarding
-    the capabilities of IP multicast from the perspective of supporting the IPTV services.
+  content: Supplement 16 to ITU-T Y-series Recommendations describes the technical guidelines for the deployment of IP multicast technologies for IPTV content delivery. The deployment guidelines identify the technical issues and considerations regarding the capabilities of IP multicast from the perspective of supporting the IPTV services.
 status:
   stage:
     content: Published

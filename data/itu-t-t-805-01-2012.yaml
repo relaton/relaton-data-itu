@@ -1,16 +1,16 @@
----
 id: ITUTT805012012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – JPEG 2000 image coding system: Compound image
-    file format'
+  content: 'Information technology – JPEG 2000 image coding system: Compound image file format'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.805-201201-I
+  content: https://handle.itu.int/11.1002/1000/11473
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.805-201201-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.805 (01/2012)
   type: ITU
@@ -54,24 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.805| International Standard ISO/IEC 15444-6 defines
-    a normative but optional file format for storing compound images using the JPEG
-    2000 file format family architecture. This format is an extension of the JP2 file
-    format defined in  Recommendation ITU-T T.800 | ISO/IEC 15444-1 Annex I and uses
-    boxes defined for both the JP2 file format and the JPX file format defined in
-    Recommendation ITU-T T.801 | ISO/IEC 15444-2 Annex M. This Recommendation | International
-    Standard is useful for applications storing multiple pages, images with mixed
-    content, and/or images that need more structure than provided in JP2. \r\nApplications
-    that implement this file format shall implement it as described in this Recommendation
-    | International Standard. This Recommendation | International Standard:\r\n–\tspecifies
-    a binary container for multiple bi-level and continuous-tone images used to represent
-    a compound image;\r\n–\tspecifies a mechanism by which multiple images can be
-    combined into a single compound image, based on the mixed raster content (MRC)
-    model;\r\n–\tspecifies a mechanism for grouping multiple images in a hierarchy
-    of layout objects, pages and page collections;\r\n–\tspecifies a mechanism for
-    storing JPEG 2000 and other compressed image data formats;\r\n–\tspecifies a mechanism
-    by which metadata can be included in files specified by this Recommendation |
-    International Standard.\r\n"
+  content: "Recommendation ITU-T T.805| International Standard ISO/IEC 15444-6 defines a normative but optional file format for storing compound images using the JPEG 2000 file format family architecture. This format is an extension of the JP2 file format defined in  Recommendation ITU-T T.800 | ISO/IEC 15444-1 Annex I and uses boxes defined for both the JP2 file format and the JPX file format defined in Recommendation ITU-T T.801 | ISO/IEC 15444-2 Annex M. This Recommendation | International Standard is useful for applications storing multiple pages, images with mixed content, and/or images that need more structure than provided in JP2. \r\nApplications that implement this file format shall implement it as described in this Recommendation | International Standard. This Recommendation | International Standard:\r\n–\tspecifies a binary container for multiple bi-level and continuous-tone images used to represent a compound image;\r\n–\tspecifies a mechanism by which multiple images can be combined into a single compound image, based on the mixed raster content (MRC) model;\r\n–\tspecifies a mechanism for grouping multiple images in a hierarchy of layout objects, pages and page collections;\r\n–\tspecifies a mechanism for storing JPEG 2000 and other compressed image data formats;\r\n–\tspecifies a mechanism by which metadata can be included in files specified by this Recommendation | International Standard.\r\n"
 status:
   stage:
     content: Published

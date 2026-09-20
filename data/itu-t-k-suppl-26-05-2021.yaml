@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl26052021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T K.114 - Analysis of electromagnetic compatibility requirements and
-    test methods of 5G active antenna system base stations
+  content: ITU-T K.114 - Analysis of electromagnetic compatibility requirements and test methods of 5G active antenna system base stations
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup26-202105-I
+  content: https://handle.itu.int/11.1002/1000/14755
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup26-202105-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 26 (05/2021)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The use of the active antenna system (AAS) is widespread within communication
-    systems and vertical industries. Its main benefit is higher beam-forming gain,
-    which can overcome the high path loss of higher carrier frequency. For the introduction
-    of AAS, especially the integrated antenna array, special attention should be paid
-    to corresponding electromagnetic compatibility test configuration and measurement
-    methods. Radiated immunity, as an example, will increase dramatically as the antenna
-    array gain cannot be distinguished. Supplement 26 to K-series Recommendations
-    also discusses other technical issues such as the radiated immunity test, communication
-    link establishment, performance assessment, and the electromagnetic field exposure
-    problem for test personnel. \r\n"
+  content: "The use of the active antenna system (AAS) is widespread within communication systems and vertical industries. Its main benefit is higher beam-forming gain, which can overcome the high path loss of higher carrier frequency. For the introduction of AAS, especially the integrated antenna array, special attention should be paid to corresponding electromagnetic compatibility test configuration and measurement methods. Radiated immunity, as an example, will increase dramatically as the antenna array gain cannot be distinguished. Supplement 26 to K-series Recommendations also discusses other technical issues such as the radiated immunity test, communication link establishment, performance assessment, and the electromagnetic field exposure problem for test personnel. \r\n"
 status:
   stage:
     content: Published

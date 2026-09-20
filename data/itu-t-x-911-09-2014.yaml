@@ -1,16 +1,16 @@
----
 id: ITUTX911092014
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open distributed processing – Reference model
-    – Enterprise language
+  content: Information technology – Open distributed processing – Reference model – Enterprise language
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.911-201409-I
+  content: https://handle.itu.int/11.1002/1000/12153
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.911-201409-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.911 (09/2014)
   type: ITU
@@ -54,25 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Rec. ITU-T X.911 | ISO/IEC 15414 provides:\r\na)\ta language (the enterprise
-    language) comprising concepts, structures, and rules for developing, representing
-    and reasoning about a specification of an open distributed processing (ODP) system
-    from the enterprise viewpoint (as defined in Rec. ITU-T X.903 | ISO/IEC 10746-3);\r\nb)\trules
-    which establish correspondences between the enterprise language and the other
-    viewpoint languages (defined in Rec. ITU-T X.903 | ISO/IEC 10746-3) to ensure
-    the overall consistency of a specification.\r\nThe language is specified to a
-    level of detail sufficient to enable the determination of the compliance of any
-    modelling language to this Recommendation | International Standard and to establish
-    requirements for new specification techniques.\r\nThis Recommendation | International
-    Standard is intended for use in preparing enterprise viewpoint specifications
-    of ODP systems, and in developing notations and tools to support such specifications.\r\nAs
-    specified in clause 5 of Rec. ITU-T X.903 | ISO/IEC 10746\x1E3, an enterprise
-    viewpoint specification defines the purpose, scope and policies of an ODP system.\r\nThis
-    Recommendation | International Standard is a refinement and extension of Rec.
-    ITU\x1ET X.903 | ISO/IEC 10746\x1E3, clauses 5 and 10, but does not replace them.\r\nThis
-    Recommendation | International Standard refines and extends the definition of
-    how ODP systems are specified from the enterprise viewpoint, and is intended for
-    the development or use of enterprise specifications of ODP systems."
+  content: "Rec. ITU-T X.911 | ISO/IEC 15414 provides:\r\na)\ta language (the enterprise language) comprising concepts, structures, and rules for developing, representing and reasoning about a specification of an open distributed processing (ODP) system from the enterprise viewpoint (as defined in Rec. ITU-T X.903 | ISO/IEC 10746-3);\r\nb)\trules which establish correspondences between the enterprise language and the other viewpoint languages (defined in Rec. ITU-T X.903 | ISO/IEC 10746-3) to ensure the overall consistency of a specification.\r\nThe language is specified to a level of detail sufficient to enable the determination of the compliance of any modelling language to this Recommendation | International Standard and to establish requirements for new specification techniques.\r\nThis Recommendation | International Standard is intended for use in preparing enterprise viewpoint specifications of ODP systems, and in developing notations and tools to support such specifications.\r\nAs specified in clause 5 of Rec. ITU-T X.903 | ISO/IEC 10746\x1e3, an enterprise viewpoint specification defines the purpose, scope and policies of an ODP system.\r\nThis Recommendation | International Standard is a refinement and extension of Rec. ITU\x1eT X.903 | ISO/IEC 10746\x1e3, clauses 5 and 10, but does not replace them.\r\nThis Recommendation | International Standard refines and extends the definition of how ODP systems are specified from the enterprise viewpoint, and is intended for the development or use of enterprise specifications of ODP systems."
 status:
   stage:
     content: Published
@@ -92,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open distributed processing – Reference model
-        – Enterprise language
+      content: Information technology – Open distributed processing – Reference model – Enterprise language
     docidentifier:
     - content: X.911 (05/2005)
       type: ITU
@@ -103,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Distributed Processing – Reference Model
-        – Enterprise language
+      content: Information technology – Open Distributed Processing – Reference Model – Enterprise language
     docidentifier:
     - content: X.911 (10/2001)
       type: ITU

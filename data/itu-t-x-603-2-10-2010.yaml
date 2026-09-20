@@ -1,16 +1,16 @@
----
 id: ITUTX6032102010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology - Relayed multicast protocol: Specification for
-    N-plex group applications'
+  content: 'Information technology - Relayed multicast protocol: Specification for N-plex group applications'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.603.2-201010-I
+  content: https://handle.itu.int/11.1002/1000/11007
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.603.2-201010-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.603.2 (10/2010)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes the Relayed Multicast
-    Protocol part 3 (RMCP-3) which is an application-layer relayed multicast protocol
-    that operates over the IP-based network where the IP multicast is not fully deployed.
-    The RMCP-3 constructs a relayed multicast tree for delivering user data from multiple
-    senders to multiple receivers. The relayed multicast tree consists of Multicast
-    Agent and Session Manager. The Multicast Agent relays many-to-many multicast data
-    along the relayed multicast tree, whereas the Session Manager manages the RMCP-3
-    session. This Recommendation | International Standard specifies the functions
-    and the procedures of the Multicast Agent and Session Manager. The RMCP-3 can
-    support applications requiring capability of many-to-many multicast data delivery.
-    Examples of such applications are multimedia conference, panel discussion, and
-    network gaming.
+  content: This Recommendation | International Standard describes the Relayed Multicast Protocol part 3 (RMCP-3) which is an application-layer relayed multicast protocol that operates over the IP-based network where the IP multicast is not fully deployed. The RMCP-3 constructs a relayed multicast tree for delivering user data from multiple senders to multiple receivers. The relayed multicast tree consists of Multicast Agent and Session Manager. The Multicast Agent relays many-to-many multicast data along the relayed multicast tree, whereas the Session Manager manages the RMCP-3 session. This Recommendation | International Standard specifies the functions and the procedures of the Multicast Agent and Session Manager. The RMCP-3 can support applications requiring capability of many-to-many multicast data delivery. Examples of such applications are multimedia conference, panel discussion, and network gaming.
 status:
   stage:
     content: Published

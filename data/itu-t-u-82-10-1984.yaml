@@ -1,13 +1,14 @@
----
 id: ITUTU82101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: International telex store and forward – Interconnection of telex store
-    and forward units
+  content: International telex store and forward – Interconnection of telex store and forward units
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6817
 docidentifier:
 - content: ITU-T U.82 (10/1984)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: International telex store and forward – Interconnection of telex store
-        and forward units
+      content: International telex store and forward – Interconnection of telex store and forward units
     docidentifier:
     - content: U.82 (11/1988)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTHSuppl2022002
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.Sup2-200202-S
+  content: https://handle.itu.int/11.1002/1000/6012
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.Sup2-200202-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H Suppl. 2 (02/2002)
   type: ITU
@@ -50,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement summarizes packages that have been standardized in the
-    time frame from June 2000 to February 2002. It identifies packages that meet H.248.x
-    sub-series requirements for package definition and are for general use by the
-    wider standards community.
+  content: This Supplement summarizes packages that have been standardized in the time frame from June 2000 to February 2002. It identifies packages that meet H.248.x sub-series requirements for package definition and are for general use by the wider standards community.
 status:
   stage:
     content: Withdrawal

@@ -1,10 +1,11 @@
----
 id: ITUTT4171993Amd2022000
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.417-200002-I!Amd2
+  content: https://handle.itu.int/11.1002/1000/4847
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.417-200002-I!Amd2!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.417 (1993) Amd. 2 (02/2000)
   type: ITU
@@ -48,12 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment to ITU-T Rec. T.417 | ISO/IEC 8613-7 introduces the optional
-    colour/grey-scale resolutions of 12 BMU (100 pels/25.4 mm), 6 BMU (200 pels/25.4
-    mm), 4 BMU (300 pels/25.4 mm), 3 BMU (400 pels/25.4 mm), 2 BMU (600 pels/25.4
-    mm), 1 BMU (1200 pels/25.4 mm) to the G4 facsimile. This amendment enables the
-    G4 colour facsimile terminal to handle the black and white optional resolution
-    and colour/grey-scale optional resolutions independently.
+  content: This amendment to ITU-T Rec. T.417 | ISO/IEC 8613-7 introduces the optional colour/grey-scale resolutions of 12 BMU (100 pels/25.4 mm), 6 BMU (200 pels/25.4 mm), 4 BMU (300 pels/25.4 mm), 3 BMU (400 pels/25.4 mm), 2 BMU (600 pels/25.4 mm), 1 BMU (1200 pels/25.4 mm) to the G4 facsimile. This amendment enables the G4 colour facsimile terminal to handle the black and white optional resolution and colour/grey-scale optional resolutions independently.
 status:
   stage:
     content: Published
@@ -89,8 +85,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Document Architecture (ODA) and interchange
-        format: Raster graphics content architectures'
+      content: 'Information technology – Open Document Architecture (ODA) and interchange format: Raster graphics content architectures'
     docidentifier:
     - content: T.417 (03/1993)
       type: ITU
@@ -128,8 +123,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Open document architecture (ODA) and interchange format – Raster graphics
-        content architectures
+      content: Open document architecture (ODA) and interchange format – Raster graphics content architectures
     docidentifier:
     - content: T.417 (11/1988)
       type: ITU

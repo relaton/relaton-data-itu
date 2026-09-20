@@ -1,16 +1,16 @@
----
 id: ITUTX1032122010
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Architecture of external interrelationships for a telecommunication IP-based
-    network security system
+  content: Architecture of external interrelationships for a telecommunication IP-based network security system
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1032-201012-I
+  content: https://handle.itu.int/11.1002/1000/10681
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1032-201012-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1032 (12/2010)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1032 proposes four models that make possible a review
-    of interrelationships between a telecommunication IP-based network security system
-    (TNSS) and various groups of external objects. Each object is considered in terms
-    of its main functions and its probable effect on TNSS construction and functioning
-    principles. This Recommendation provides a basis for developing detailed recommendations
-    on network security with regard to the effect on external objects.
+  content: Recommendation ITU-T X.1032 proposes four models that make possible a review of interrelationships between a telecommunication IP-based network security system (TNSS) and various groups of external objects. Each object is considered in terms of its main functions and its probable effect on TNSS construction and functioning principles. This Recommendation provides a basis for developing detailed recommendations on network security with regard to the effect on external objects.
 status:
   stage:
     content: Published

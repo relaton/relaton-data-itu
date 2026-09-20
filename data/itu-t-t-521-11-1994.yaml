@@ -1,16 +1,16 @@
----
 id: ITUTT521111994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Communication application profile BT0 for document bulk transfer based
-    on the session service
+  content: Communication application profile BT0 for document bulk transfer based on the session service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.521-199411-I
+  content: https://handle.itu.int/11.1002/1000/2594
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.521-199411-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.521 (11/1994)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation this defines communication application profile for G4 facsimile
-    apparatus. The definition of "additional document characteristics" in "application
-    capabilities" for colour and other extension is added as an option in this revision.
+  content: Recommendation this defines communication application profile for G4 facsimile apparatus. The definition of "additional document characteristics" in "application capabilities" for colour and other extension is added as an option in this revision.
 status:
   stage:
     content: Published
@@ -81,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Communication application profile BT0 for document bulk transfer based
-        on the session service
+      content: Communication application profile BT0 for document bulk transfer based on the session service
     docidentifier:
     - content: T.521 (09/1992)
       type: ITU
@@ -92,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Communication application profile BT0 for document bulk transfer based
-        on the session service (according to the rules defined in T.62 bis)
+      content: Communication application profile BT0 for document bulk transfer based on the session service (according to the rules defined in T.62 bis)
     docidentifier:
     - content: T.521 (11/1988)
       type: ITU

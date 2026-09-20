@@ -1,17 +1,16 @@
----
 id: ITUTQSuppl25121999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Supplement to ITU-T Q.2900 series Recommendations: Broadband integrated
-    services digital network (B-ISDN) – Digital subscriber signalling system No. 2
-    (DSS2) – User-network interface layer 3 – Overview of B-ISDN DSS2 signalling capabilities'
+  content: 'Supplement to ITU-T Q.2900 series Recommendations: Broadband integrated services digital network (B-ISDN) – Digital subscriber signalling system No. 2 (DSS2) – User-network interface layer 3 – Overview of B-ISDN DSS2 signalling capabilities'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup25-199912-I
+  content: https://handle.itu.int/11.1002/1000/5006
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup25-199912-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 25 (12/1999)
   type: ITU
@@ -52,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement provides an introduction to the capabilities included in
-    the access signalling protocols for the Broadband Integrated Services Digital
-    Network. Included is an overview of the capabilities supported, an introduction
-    to, and index of, Recommendations which provide the detailed protocol descriptions.
+  content: This Supplement provides an introduction to the capabilities included in the access signalling protocols for the Broadband Integrated Services Digital Network. Included is an overview of the capabilities supported, an introduction to, and index of, Recommendations which provide the detailed protocol descriptions.
 status:
   stage:
     content: Published

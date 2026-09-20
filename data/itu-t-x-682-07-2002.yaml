@@ -1,16 +1,16 @@
----
 id: ITUTX682072002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint
-    specification'
+  content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint specification'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.682-200207-S
+  content: https://handle.itu.int/11.1002/1000/6087
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.682-200207-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.682 (07/2002)
   type: ITU
@@ -54,10 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides the ASN.1 notation
-    for the general case of constraint and exception specification by which the data
-    values of a structured data type can be limited. The notation also provides for
-    signalling if and when a constraint is violated.
+  content: This Recommendation | International Standard provides the ASN.1 notation for the general case of constraint and exception specification by which the data values of a structured data type can be limited. The notation also provides for signalling if and when a constraint is violated.
 status:
   stage:
     content: Withdrawal
@@ -77,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Constraint
-        specification'
+      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Constraint specification'
     docidentifier:
     - content: X.682 (02/2021)
       type: ITU
@@ -104,8 +100,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint
-        specification'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint specification'
     docidentifier:
     - content: X.682 (08/2015)
       type: ITU
@@ -123,8 +118,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint
-        specification'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint specification'
     docidentifier:
     - content: X.682 (11/2008)
       type: ITU
@@ -158,8 +152,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint
-        specification'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint specification'
     docidentifier:
     - content: X.682 (12/1997)
       type: ITU
@@ -169,8 +162,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint
-        specification'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Constraint specification'
     docidentifier:
     - content: X.682 (07/1994)
       type: ITU

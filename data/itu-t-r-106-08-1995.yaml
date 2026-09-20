@@ -1,16 +1,16 @@
----
 id: ITUTR106081995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Muldex unit for telegraph and low speed data transmission using TDM bit
-    interleaving with an aggregate bit rate higher than 4800 bit/s
+  content: Muldex unit for telegraph and low speed data transmission using TDM bit interleaving with an aggregate bit rate higher than 4800 bit/s
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-R.106-199508-I
+  content: https://handle.itu.int/11.1002/1000/2366
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-R.106-199508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T R.106 (08/1995)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the general principles and parameters of the
-    muldex that is used to send telegraph signals and low-speed data using TDM bit-interleaving
-    with an aggregate bit rate higher than 4800 bit/s on an analogue telephone-type
-    circuit or a higher order TDM system. In this Recommendation telegraph TDM systems
-    are used for framing, and therefore there is no need to standardize a special
-    frame structure for the aggregate bit rates higher than 4800 bit/s.
+  content: This Recommendation defines the general principles and parameters of the muldex that is used to send telegraph signals and low-speed data using TDM bit-interleaving with an aggregate bit rate higher than 4800 bit/s on an analogue telephone-type circuit or a higher order TDM system. In this Recommendation telegraph TDM systems are used for framing, and therefore there is no need to standardize a special frame structure for the aggregate bit rates higher than 4800 bit/s.
 status:
   stage:
     content: Published

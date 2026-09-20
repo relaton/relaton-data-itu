@@ -1,16 +1,16 @@
----
 id: ITUTT808V2122022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – JPEG 2000 image coding system: Interactivity
-    tools, APIs and protocols'
+  content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.808-202212-S
+  content: https://handle.itu.int/11.1002/1000/15209
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.808-202212-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.808 (V2) (12/2022)
   type: ITU
@@ -54,25 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Rec. ITU-T T.808 | ISO/IEC 15444-9 provides a network protocol that allows
-    for the interactive and progressive transmission of JPEG 2000 coded data and files
-    from a server to a client. The first edition of this Recommendation | International
-    Standard dates to 2005. It has since then been supplemented by amendments and
-    corrigenda. Additionally, other members of the JPEG 2000 family of Recommendations
-    | International Standards, that are capable of being used with the network protocol
-    described in this Recommendation | International Standard have since been introduced.
-    This second edition incorporates the changes associated with these developments,
-    without modifying the original scope.\r\nThis Recommendation was developed jointly
-    with ISO/IEC JTC 1/SC 29/WG 1 (JPEG), and is common text with ISO/IEC 15444-9.\r\nThis
-    second edition cancels and replaces the first edition, which has been technically
-    revised.\r\nThe main changes compared to the previous edition are as follows:\r\n1.\tconsolidates
-    all outstanding amendments and corrigenda published since the first edition;\r\n2.\textends
-    support for the file format specified in Rec. ITU-T T.815 | ISO/IEC 15444-16;\r\n3.\tclarifies
-    normative server responsibilities in response to certain request fields documented
-    in Annex C;\r\n4.\tremoves the registration authority (Annex L); and\r\n5.\tadds
-    media type registration information (Annex O).\r\nThis Recommendation contains
-    an electronic attachment that is available from the ITU website at: https://handle.itu.int/11.1002/2000/7460,
-    and from the ISO website at: https://standards.iso.org/iso-iec/15444/-9\\ed-2/en\r\n"
+  content: "Rec. ITU-T T.808 | ISO/IEC 15444-9 provides a network protocol that allows for the interactive and progressive transmission of JPEG 2000 coded data and files from a server to a client. The first edition of this Recommendation | International Standard dates to 2005. It has since then been supplemented by amendments and corrigenda. Additionally, other members of the JPEG 2000 family of Recommendations | International Standards, that are capable of being used with the network protocol described in this Recommendation | International Standard have since been introduced. This second edition incorporates the changes associated with these developments, without modifying the original scope.\r\nThis Recommendation was developed jointly with ISO/IEC JTC 1/SC 29/WG 1 (JPEG), and is common text with ISO/IEC 15444-9.\r\nThis second edition cancels and replaces the first edition, which has been technically revised.\r\nThe main changes compared to the previous edition are as follows:\r\n1.\tconsolidates all outstanding amendments and corrigenda published since the first edition;\r\n2.\textends support for the file format specified in Rec. ITU-T T.815 | ISO/IEC 15444-16;\r\n3.\tclarifies normative server responsibilities in response to certain request fields documented in Annex C;\r\n4.\tremoves the registration authority (Annex L); and\r\n5.\tadds media type registration information (Annex O).\r\nThis Recommendation contains an electronic attachment that is available from the ITU website at: https://handle.itu.int/11.1002/2000/7460, and from the ISO website at: https://standards.iso.org/iso-iec/15444/-9\\ed-2/en\r\n"
 status:
   stage:
     content: Withdrawal
@@ -92,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity
-        tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
     docidentifier:
     - content: T.808 (V3) (06/2026)
       type: ITU
@@ -181,8 +162,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity
-        tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
     docidentifier:
     - content: T.808 (01/2005)
       type: ITU

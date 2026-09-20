@@ -1,16 +1,16 @@
----
 id: ITUTM2110041997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Bringing-into-service of international PDH paths, sections and transmission
-    systems and SDH paths and multiplex sections
+  content: Bringing-into-service of international PDH paths, sections and transmission systems and SDH paths and multiplex sections
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.2110-199704-S
+  content: https://handle.itu.int/11.1002/1000/4034
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.2110-199704-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.2110 (04/1997)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides procedures for bringing-into-service of international
-    PDH paths, sections and transmission systems and SDH paths and multiplex sections
-    with and without in-service monitoring.
+  content: This Recommendation provides procedures for bringing-into-service of international PDH paths, sections and transmission systems and SDH paths and multiplex sections with and without in-service monitoring.
 status:
   stage:
     content: Withdrawal
@@ -73,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Bringing into service international multi-operator paths, sections
-        and transmission systems
+      content: Bringing into service international multi-operator paths, sections and transmission systems
     docidentifier:
     - content: M.2110 (07/2002)
       type: ITU
@@ -84,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Bringing into service international digital paths, sections and transmission
-        systems
+      content: Bringing into service international digital paths, sections and transmission systems
     docidentifier:
     - content: M.2110 (10/1992)
       type: ITU
@@ -95,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Bringing international digital paths, section and line sections into
-        service
+      content: Bringing international digital paths, section and line sections into service
     docidentifier:
     - content: M.555 (11/1988)
       type: ITU

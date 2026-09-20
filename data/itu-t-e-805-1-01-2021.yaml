@@ -1,16 +1,16 @@
----
 id: ITUTE8051012021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Quality of service operational strategy for improved regulatory supervision
-    of providers of mobile telecommunication services
+  content: Quality of service operational strategy for improved regulatory supervision of providers of mobile telecommunication services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.805.1-202101-I
+  content: https://handle.itu.int/11.1002/1000/14589
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.805.1-202101-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.805.1 (01/2021)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T E.805.1 provides guidance to telecommunication regulators
-    on how to achieve their regulatory goals for quality of service (QoS) at reduced
-    regulatory effort and improved operational efficiency, thereby providing desired
-    benefits to consumers and providers of mobile telecommunication services. \r\n\r\nTelecommunication
-    regulators involved in QoS supervision often face challenges on how mobile QoS
-    within their respective jurisdictions can be enforced in a cost-effective manner
-    and over a desired turnaround time, while not compromising reliability in QoS
-    assessment outcomes. \r\n"
+  content: "Recommendation ITU-T E.805.1 provides guidance to telecommunication regulators on how to achieve their regulatory goals for quality of service (QoS) at reduced regulatory effort and improved operational efficiency, thereby providing desired benefits to consumers and providers of mobile telecommunication services. \r\n\r\nTelecommunication regulators involved in QoS supervision often face challenges on how mobile QoS within their respective jurisdictions can be enforced in a cost-effective manner and over a desired turnaround time, while not compromising reliability in QoS assessment outcomes. \r\n"
 status:
   stage:
     content: Published
@@ -98,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Curves showing the relation between the traffic offered and the number
-        of circuits required
+      content: Curves showing the relation between the traffic offered and the number of circuits required
     docidentifier:
     - content: E-800 series Suppl. 2 (11/1988)
       type: ITU
@@ -109,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Teletraffic implications for international switching and operational
-        procedures resulting from a failure of a transmission facility
+      content: Teletraffic implications for international switching and operational procedures resulting from a failure of a transmission facility
     docidentifier:
     - content: E-800 series Suppl. 5 (11/1988)
       type: ITU
@@ -140,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.800 series – QoS/QoE framework for the transition from network
-        oriented to service oriented operations
+      content: ITU-T E.800 series – QoS/QoE framework for the transition from network oriented to service oriented operations
     docidentifier:
     - content: E-800 series Suppl. 10 (01/2016)
       type: ITU
@@ -151,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

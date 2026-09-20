@@ -1,4 +1,3 @@
----
 id: ITUTE860062002
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.860-200206-I
+  content: https://handle.itu.int/11.1002/1000/6070
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.860-200206-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.860 (06/2002)
   type: ITU
@@ -50,24 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The liberalization and deregulation process that started during the last
-    decade in the telecommunication's environment is still running and it is cause
-    of meaningful changes. Increasing competition, favoured also by customer performance
-    requirements, produces big pressures upon service/network providers. The latter,
-    after having faced especially cost reductions for several years, nowadays try
-    to improve quality of service (QoS) in order to differentiate their products from
-    those of their competitors.In addition the situation is complicated by the increasing
-    demand of global services which involve in their provisioning several service/network
-    providers. Therefore, roles of all entities that take part to service provision
-    and their relationships have to be described. The scope is to state responsibilities
-    of each provider and to assure quality of service required from customer.A useful
-    tool in formalizing the mentioned inter-relationships between entities is Service
-    Level Agreement (SLA), that is the result of a negotiation between two or more
-    parties with the objective of reaching a common understanding about service delivered,
-    its quality, responsibilities, priorities, etc.This Recommendation describes a
-    generic structure of SLA adopting an approach independent from the type of service
-    and the technology used. That approach is useful especially in a multi-provider
-    environment which today has become reality.
+  content: The liberalization and deregulation process that started during the last decade in the telecommunication's environment is still running and it is cause of meaningful changes. Increasing competition, favoured also by customer performance requirements, produces big pressures upon service/network providers. The latter, after having faced especially cost reductions for several years, nowadays try to improve quality of service (QoS) in order to differentiate their products from those of their competitors.In addition the situation is complicated by the increasing demand of global services which involve in their provisioning several service/network providers. Therefore, roles of all entities that take part to service provision and their relationships have to be described. The scope is to state responsibilities of each provider and to assure quality of service required from customer.A useful tool in formalizing the mentioned inter-relationships between entities is Service Level Agreement (SLA), that is the result of a negotiation between two or more parties with the objective of reaching a common understanding about service delivered, its quality, responsibilities, priorities, etc.This Recommendation describes a generic structure of SLA adopting an approach independent from the type of service and the technology used. That approach is useful especially in a multi-provider environment which today has become reality.
 status:
   stage:
     content: Published
@@ -107,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Curves showing the relation between the traffic offered and the number
-        of circuits required
+      content: Curves showing the relation between the traffic offered and the number of circuits required
     docidentifier:
     - content: E-800 series Suppl. 2 (11/1988)
       type: ITU
@@ -118,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Teletraffic implications for international switching and operational
-        procedures resulting from a failure of a transmission facility
+      content: Teletraffic implications for international switching and operational procedures resulting from a failure of a transmission facility
     docidentifier:
     - content: E-800 series Suppl. 5 (11/1988)
       type: ITU
@@ -149,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.800 series – QoS/QoE framework for the transition from network
-        oriented to service oriented operations
+      content: ITU-T E.800 series – QoS/QoE framework for the transition from network oriented to service oriented operations
     docidentifier:
     - content: E-800 series Suppl. 10 (01/2016)
       type: ITU
@@ -160,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

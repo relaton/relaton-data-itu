@@ -1,16 +1,16 @@
----
 id: ITUTY4814092025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Functional requirements and architecture of access control service of Internet
-    of things (IoT) platform enabled by zero trust in decentralized environments
+  content: Functional requirements and architecture of access control service of Internet of things (IoT) platform enabled by zero trust in decentralized environments
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.4814-202509-I
+  content: https://handle.itu.int/11.1002/1000/16208
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.4814-202509-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.4814 (09/2025)
   type: ITU
@@ -51,24 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "There are many substantial challenges for Internet of things (IoT) platforms
-    in decentralized environments to making trust among IoT entities (such as IoT
-    devices, IoT services, IoT gateways) when they interact with each other. The traditional
-    access control solutions of IoT platforms (such as perimeter control, password
-    authentication, virtual private network) cannot fully cope with those challenges,
-    especially when IoT entities are deployed in decentralized environments.\r\nZero
-    trust (ZT) is a type of cybersecurity principle that provides a collection of
-    concepts and ideas designed to minimize uncertainty in enforcing accurate, least
-    privilege per-request access decisions in information systems and services in
-    the face of a network viewed as compromised (bNIST SP 800207). In ZT-based access
-    control solutions, it is no longer required to determine access rights by location
-    and security domain for IoT entities to discover and access other IoT entities
-    in the same or different IoT platforms. It is required to be determined for any
-    requests to discover and access any IoT entities in IoT platforms. Therefore,
-    ZT-based access control solutions are suitable for IoT platforms in decentralized
-    environments.\r\nRecommendation ITU-T Y.4814 introduces an access control service
-    of an IoT platform in decentralized environments as enabled by ZT, and specifies
-    its technical characteristics, functional requirements and architecture.\r\n"
+  content: "There are many substantial challenges for Internet of things (IoT) platforms in decentralized environments to making trust among IoT entities (such as IoT devices, IoT services, IoT gateways) when they interact with each other. The traditional access control solutions of IoT platforms (such as perimeter control, password authentication, virtual private network) cannot fully cope with those challenges, especially when IoT entities are deployed in decentralized environments.\r\nZero trust (ZT) is a type of cybersecurity principle that provides a collection of concepts and ideas designed to minimize uncertainty in enforcing accurate, least privilege per-request access decisions in information systems and services in the face of a network viewed as compromised (bNIST SP 800207). In ZT-based access control solutions, it is no longer required to determine access rights by location and security domain for IoT entities to discover and access other IoT entities in the same or different IoT platforms. It is required to be determined for any requests to discover and access any IoT entities in IoT platforms. Therefore, ZT-based access control solutions are suitable for IoT platforms in decentralized environments.\r\nRecommendation ITU-T Y.4814 introduces an access control service of an IoT platform in decentralized environments as enabled by ZT, and specifies its technical characteristics, functional requirements and architecture.\r\n"
 status:
   stage:
     content: Published
@@ -108,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - Setting the stage
-        for stakeholders' engagement
+      content: ITU-T Y.4000 series – Smart sustainable cities - Setting the stage for stakeholders' engagement
     docidentifier:
     - content: Y Suppl. 34 (07/2020)
       type: ITU
@@ -119,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series - An overview of smart cities and communities and
-        the role of information and communication technologies
+      content: ITU-T Y.4000-series - An overview of smart cities and communities and the role of information and communication technologies
     docidentifier:
     - content: Y Suppl. 45 (09/2017)
       type: ITU
@@ -130,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Methodology for building digital capabilities during enterprises' digital
-        transformation
+      content: Methodology for building digital capabilities during enterprises' digital transformation
     docidentifier:
     - content: Y Suppl. 52 (12/2018)
       type: ITU
@@ -151,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -172,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of blockchain for supporting Internet of things and smart
-        cities and communities in data processing and management aspects
+      content: Overview of blockchain for supporting Internet of things and smart cities and communities in data processing and management aspects
     docidentifier:
     - content: Y Suppl. 62 (07/2020)
       type: ITU
@@ -203,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -224,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -235,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -246,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

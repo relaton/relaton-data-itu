@@ -1,16 +1,16 @@
----
 id: ITUTG98310062004
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: B-PON ONT management and control interface (OMCI) support for Digital Subscriber
-    Line interfaces
+  content: B-PON ONT management and control interface (OMCI) support for Digital Subscriber Line interfaces
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.983.10-200406-W
+  content: https://handle.itu.int/11.1002/1000/7344
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.983.10-200406-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G.983.10 (06/2004)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation focuses on the OMCI specifications related to support
-    for ONUs with ADSL and VDSL interfaces.In the B-PON system defined in ITU-T Rec.
-    G.983.1 [1], the ONTs are located at the customer site and the ONUs are generally
-    located at the curb or cabinet. The B-PON element management system will only
-    manage ONTs/ONUs as part of the B-PON system through the OLT using the ONT management
-    and control interface (OMCI).The OMCI specifications are based on ITU-T Rec. G.983.2
-    [2]. Some enhancements are needed for the support of ADSL and VDSL interfaces.
-    This Recommendation covers configuration, fault and performance management enhancements
-    to ITU-T Rec. G.983.2. Attributes are taken from the G.99x series of Recommendations
-    which relate to DSL technology. This Recommendation uses the approach described
-    in ITU-T Rec. G.983.8 which focuses on other interfaces.
+  content: This Recommendation focuses on the OMCI specifications related to support for ONUs with ADSL and VDSL interfaces.In the B-PON system defined in ITU-T Rec. G.983.1 [1], the ONTs are located at the customer site and the ONUs are generally located at the curb or cabinet. The B-PON element management system will only manage ONTs/ONUs as part of the B-PON system through the OLT using the ONT management and control interface (OMCI).The OMCI specifications are based on ITU-T Rec. G.983.2 [2]. Some enhancements are needed for the support of ADSL and VDSL interfaces. This Recommendation covers configuration, fault and performance management enhancements to ITU-T Rec. G.983.2. Attributes are taken from the G.99x series of Recommendations which relate to DSL technology. This Recommendation uses the approach described in ITU-T Rec. G.983.8 which focuses on other interfaces.
 status:
   stage:
     content: Withdrawal

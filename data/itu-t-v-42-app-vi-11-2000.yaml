@@ -1,16 +1,16 @@
----
 id: ITUTV42AppVI112000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Additional information for V.42 implementers regarding answerer detection
-    patterns
+  content: Additional information for V.42 implementers regarding answerer detection patterns
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.42-200011-S!App6
+  content: https://handle.itu.int/11.1002/1000/5478
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.42-200011-S!App6!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.42 App. VI (11/2000)
   type: ITU
@@ -51,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This appendix gives non-normative additional information to indicate alternative
-    capabilities or procedures.
+  content: This appendix gives non-normative additional information to indicate alternative capabilities or procedures.
 status:
   stage:
     content: Withdrawal
@@ -80,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous
-        conversion
+      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous conversion
     docidentifier:
     - content: V.42 (03/2002)
       type: ITU
@@ -91,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous
-        conversion
+      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous conversion
     docidentifier:
     - content: V.42 (10/1996)
       type: ITU
@@ -102,8 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous
-        conversion
+      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous conversion
     docidentifier:
     - content: V.42 (03/1993)
       type: ITU
@@ -113,8 +109,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous
-        conversion
+      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous conversion
     docidentifier:
     - content: V.42 (11/1988)
       type: ITU

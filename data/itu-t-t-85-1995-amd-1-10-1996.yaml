@@ -1,10 +1,11 @@
----
 id: ITUTT851995Amd1101996
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.85-199610-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/3899
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.85-199610-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.85 (1995) Amd. 1 (10/1996)
   type: ITU
@@ -45,10 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation T.85 defines the application profile of Recommendation T.82
-    for facsimile.This Amendment contains the following two parts:· Part 1 - Editorial
-    corrections to the main body of Recommendation T.85.· Part 2 - A new appendix
-    to Recommendation T.85.
+  content: Recommendation T.85 defines the application profile of Recommendation T.82 for facsimile.This Amendment contains the following two parts:· Part 1 - Editorial corrections to the main body of Recommendation T.85.· Part 2 - A new appendix to Recommendation T.85.
 status:
   stage:
     content: Published
@@ -84,8 +82,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application profile for Recommendation T.82 – Progressive bi-level
-        image compression (JBIG coding scheme) for facsimile apparatus
+      content: Application profile for Recommendation T.82 – Progressive bi-level image compression (JBIG coding scheme) for facsimile apparatus
     docidentifier:
     - content: T.85 (08/1995)
       type: ITU

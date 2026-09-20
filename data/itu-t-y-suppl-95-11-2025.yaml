@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl95112025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.3000-series – Use cases of open service environment for future
-    networks
+  content: ITU-T Y.3000-series – Use cases of open service environment for future networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup95-202511-I
+  content: https://handle.itu.int/11.1002/1000/16714
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup95-202511-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 95 (11/2025)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 95 to ITU-T Y-series Recommendations provides an overview of
-    open service environment (OSE) for future networks, including related use cases
-    and typical procedures. The OSE allows applications to make use of service capabilities
-    with different types. Application developers will be able to create and provide
-    new applications via OSE regardless of the type of underlying network and/or equipment.
-    In future networks, within an OSE, each capability is able to function either
-    independently or in conjunction with other capabilities for the realization of
-    applications run in different usage scenarios.\r\n"
+  content: "Supplement 95 to ITU-T Y-series Recommendations provides an overview of open service environment (OSE) for future networks, including related use cases and typical procedures. The OSE allows applications to make use of service capabilities with different types. Application developers will be able to create and provide new applications via OSE regardless of the type of underlying network and/or equipment. In future networks, within an OSE, each capability is able to function either independently or in conjunction with other capabilities for the realization of applications run in different usage scenarios.\r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTT86V2022024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Digital compression and coding of continuous-tone
-    still images: APPn Markers'
+  content: 'Information technology – Digital compression and coding of continuous-tone still images: APPn Markers'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.86-202402-I
+  content: https://handle.itu.int/11.1002/1000/15849
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.86-202402-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.86 (V2) (02/2024)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation | International Standard provides definitions for
-    JPEG application specific markers (APPn) found in Rec. ITU-T T.81 | ISO/IEC 10918-1
-    and Rec. ITU-T T.84 | ISO/IEC 10918-3.\r\nThis second edition integrates the provisions
-    of Amendment 1 of ITU-T T.86 (2012) | ISO/IEC 10918-4 (2013) and cancels the provisions
-    concerning the registration authority processes originally defined in the first
-    edition.\r\nITU-T T.86 is a common text with ISO/IEC 10918-4.\r\n"
+  content: "This Recommendation | International Standard provides definitions for JPEG application specific markers (APPn) found in Rec. ITU-T T.81 | ISO/IEC 10918-1 and Rec. ITU-T T.84 | ISO/IEC 10918-3.\r\nThis second edition integrates the provisions of Amendment 1 of ITU-T T.86 (2012) | ISO/IEC 10918-4 (2013) and cancels the provisions concerning the registration authority processes originally defined in the first edition.\r\nITU-T T.86 is a common text with ISO/IEC 10918-4.\r\n"
 status:
   stage:
     content: Published
@@ -89,10 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Digital compression and coding of continuous-tone
-        still images: Registration of JPEG Profiles, SPIFF Profiles, SPIFF Tags, SPIFF
-        colour Spaces, APPn Markers, SPIFF Compression types and Registration authorities
-        (REGAUT)'
+      content: 'Information technology – Digital compression and coding of continuous-tone still images: Registration of JPEG Profiles, SPIFF Profiles, SPIFF Tags, SPIFF colour Spaces, APPn Markers, SPIFF Compression types and Registration authorities (REGAUT)'
     docidentifier:
     - content: T.86 (06/1998)
       type: ITU

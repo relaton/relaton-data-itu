@@ -1,16 +1,16 @@
----
 id: ITUTI525031993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interworking between ISDN and networks which operate at bit rates of less
-    than 64 kbit/s
+  content: Interworking between ISDN and networks which operate at bit rates of less than 64 kbit/s
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.525-199303-S
+  content: https://handle.itu.int/11.1002/1000/1314
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.525-199303-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.525 (03/1993)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interworking between networks operating at bit rates less than 64 kbit/s
-        with 64 kbit/s-based ISDN and B-ISDN
+      content: Interworking between networks operating at bit rates less than 64 kbit/s with 64 kbit/s-based ISDN and B-ISDN
     docidentifier:
     - content: I.525 (08/1996)
       type: ITU
@@ -81,8 +80,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

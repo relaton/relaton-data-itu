@@ -1,4 +1,3 @@
----
 id: ITUTM3042032025
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3042-202503-I
+  content: https://handle.itu.int/11.1002/1000/16277
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3042-202503-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3042 (03/2025)
   type: ITU
@@ -50,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3042 introduces the framework of communication
-    network health evaluation, definition of communication network health index, evaluation
-    objects and the weighted value of index scoring method. This Recommendation also
-    provides the communication network health evaluation process.\r\n"
+  content: "Recommendation ITU-T M.3042 introduces the framework of communication network health evaluation, definition of communication network health index, evaluation objects and the weighted value of index scoring method. This Recommendation also provides the communication network health evaluation process.\r\n"
 status:
   stage:
     content: Published

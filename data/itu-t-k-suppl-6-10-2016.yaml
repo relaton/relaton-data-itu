@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl6102016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T K.115 – Measuring shielding effectiveness using normalized site attenuation
-    in free space
+  content: ITU-T K.115 – Measuring shielding effectiveness using normalized site attenuation in free space
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup6-201610-I
+  content: https://handle.itu.int/11.1002/1000/13141
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup6-201610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 6 (10/2016)
   type: ITU
@@ -51,27 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "When estimating the effectiveness of the countermeasures described in
-    Recommendation ITU-T K.115 against high altitude electromagnetic pulse (HEMP)
-    or high power electromagnetic (HPEM) attacks, the actual shielding effectiveness
-    of buildings or structures must be taken into account. The methods for measuring
-    shielding effectiveness are defined by IEEE Std. 299 as the transmission loss
-    method or IEC 61587-3 as the insertion loss method. These methods need to use
-    the reference value measurements that are the standards for calculating shielding
-    effectiveness. However, the in-situ measurement of reference values is affected
-    by surrounding structures such as walls, floors, ceilings, and so on. Therefore,
-    the measured shielding effectiveness may be overestimated or underestimated when
-    the affected references are used. Also, the measurements are very time consuming
-    because measurements both with and without shielding are needed, and so in-situ
-    measurements need specific know-how and techniques for reproducibility.\r\nIn
-    order to solve these problems, improve reproducibility and reduce measurement
-    time, this supplement introduces a measurement method for shielding effectiveness
-    using normalized site attenuation (NSA) in free space. Because the NSA method
-    obtains the reference values by calculation, it is possible to measure the shielding
-    effectiveness continuously at any frequency, unlike the present situation where
-    the reference values are unobtainable by conventional methods due to the effects
-    of reflecting objects. An example of measurement using this method is given in
-    this supplement.\r\n"
+  content: "When estimating the effectiveness of the countermeasures described in Recommendation ITU-T K.115 against high altitude electromagnetic pulse (HEMP) or high power electromagnetic (HPEM) attacks, the actual shielding effectiveness of buildings or structures must be taken into account. The methods for measuring shielding effectiveness are defined by IEEE Std. 299 as the transmission loss method or IEC 61587-3 as the insertion loss method. These methods need to use the reference value measurements that are the standards for calculating shielding effectiveness. However, the in-situ measurement of reference values is affected by surrounding structures such as walls, floors, ceilings, and so on. Therefore, the measured shielding effectiveness may be overestimated or underestimated when the affected references are used. Also, the measurements are very time consuming because measurements both with and without shielding are needed, and so in-situ measurements need specific know-how and techniques for reproducibility.\r\nIn order to solve these problems, improve reproducibility and reduce measurement time, this supplement introduces a measurement method for shielding effectiveness using normalized site attenuation (NSA) in free space. Because the NSA method obtains the reference values by calculation, it is possible to measure the shielding effectiveness continuously at any frequency, unlike the present situation where the reference values are unobtainable by conventional methods due to the effects of reflecting objects. An example of measurement using this method is given in this supplement.\r\n"
 status:
   stage:
     content: Published

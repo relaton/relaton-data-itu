@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl3012008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2000 series – Supplement on service scenarios for convergence services
-    in a multiple network and application service provider environment
+  content: ITU-T Y.2000 series – Supplement on service scenarios for convergence services in a multiple network and application service provider environment
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup3-200801-I
+  content: https://handle.itu.int/11.1002/1000/9396
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup3-200801-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 3 (01/2008)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement defines service scenarios for convergence services in a
-    multiple network and application service provider environment, and it defines
-    convergence terminal capabilities for describing convergence service scenarios.
-    In addition, the deployment architecture for a multiple network and application
-    service provider environment is described. Finally, typical scenarios of convergence
-    services on the contents level and functional level, such as personal broadcasting
-    services and event driven services, are introduced.
+  content: This Supplement defines service scenarios for convergence services in a multiple network and application service provider environment, and it defines convergence terminal capabilities for describing convergence service scenarios. In addition, the deployment architecture for a multiple network and application service provider environment is described. Finally, typical scenarios of convergence services on the contents level and functional level, such as personal broadcasting services and event driven services, are introduced.
 status:
   stage:
     content: Published

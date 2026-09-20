@@ -1,16 +1,16 @@
----
 id: ITUTV300071999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: A 128 (144) kbit/s data circuit-terminating equipment standardized for
-    use on digital point-to-point leased circuits
+  content: A 128 (144) kbit/s data circuit-terminating equipment standardized for use on digital point-to-point leased circuits
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.300-199907-I
+  content: https://handle.itu.int/11.1002/1000/4725
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.300-199907-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.300 (07/1999)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the necessary functions of a 64, 128 and
-    144 kbit/s DCE for the provision of digital leased circuits. Interworking with
-    DCEs complying with Recommendation V.38 is covered. The recommended functions
-    also allow this DCE to be deployed as a remote access to a flexible multiplexer
-    as specified in Recommendation G.797.The V.24 and X.24 DTE-DCE interfaces are
-    specified in terms of functions and electrical characteristics. The use of additional
-    interfaces is not precluded. Core functions include scrambling of data, testing
-    facilities, optional aggregation function and optional multiplexing function.
-    This type of DCE may be part of a managed network.This Recommendation contains
-    three appendices providing information on complementary functions or applications
-    for this type of equipment.
+  content: This Recommendation specifies the necessary functions of a 64, 128 and 144 kbit/s DCE for the provision of digital leased circuits. Interworking with DCEs complying with Recommendation V.38 is covered. The recommended functions also allow this DCE to be deployed as a remote access to a flexible multiplexer as specified in Recommendation G.797.The V.24 and X.24 DTE-DCE interfaces are specified in terms of functions and electrical characteristics. The use of additional interfaces is not precluded. Core functions include scrambling of data, testing facilities, optional aggregation function and optional multiplexing function. This type of DCE may be part of a managed network.This Recommendation contains three appendices providing information on complementary functions or applications for this type of equipment.
 status:
   stage:
     content: Published

@@ -1,17 +1,16 @@
----
 id: ITUTV1522005Amd1032009
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: New Annex B - Use of data signal detection and silence insertion in voiceband
-    data, and new Annex C on use of V.21 preamble for echo canceller control in a
-    V.152 gateway
+  content: New Annex B - Use of data signal detection and silence insertion in voiceband data, and new Annex C on use of V.21 preamble for echo canceller control in a V.152 gateway
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.152-200903-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/9722
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.152-200903-S!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.152 (2005) Amd. 1 (03/2009)
   type: ITU
@@ -52,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Annex B to Recommendation ITU-T V.152 defines a method that uses data signal
-    detection and silence insertion in voiceband data that adds a means of providing
-    bandwidth savings during transmission. Annex C to Recommendation ITU-T V.152 addresses
-    a problem discovered during the implementation of V.152 gateways with the transmission
-    of facsimile terminals. While this issue has been resolved by an amendment to
-    Recommendation ITU-T T.30, due to the extremely large numbers of terminals deployed
-    in the field and the low probability that they would be corrected retroactively,
-    it was considered pre-emptive to include a solution in a V.152 media gateway.
+  content: Annex B to Recommendation ITU-T V.152 defines a method that uses data signal detection and silence insertion in voiceband data that adds a means of providing bandwidth savings during transmission. Annex C to Recommendation ITU-T V.152 addresses a problem discovered during the implementation of V.152 gateways with the transmission of facsimile terminals. While this issue has been resolved by an amendment to Recommendation ITU-T T.30, due to the extremely large numbers of terminals deployed in the field and the low probability that they would be corrected retroactively, it was considered pre-emptive to include a solution in a V.152 media gateway.
 status:
   stage:
     content: Withdrawal

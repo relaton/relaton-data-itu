@@ -1,16 +1,14 @@
----
 id: ITUTG7182008Amd1032009
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Floating point annex plus corrections to fixed-point C-code and description
-    text
+  content: Floating point annex plus corrections to fixed-point C-code and description text
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.718-200806-I
+  content: https://handle.itu.int/11.1002/1000/9687
 docidentifier:
 - content: ITU-T G.718 (2008) Amd. 1 (03/2009)
   type: ITU
@@ -51,76 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T G.718 describes a narrow-band (NB) and wideband (WB)
-    embedded variable bit-rate coding algorithm for speech and audio operating in
-    the range from 8 to 32 kbit/s which is designed to be robust to frame erasures.This
-    codec provides state-of-the-art NB speech quality over the lower bit rates and
-    state-of-the-art WB speech quality over the complete range of bit rates. In addition,
-    the ITU-T G.718 codec is designed to be highly robust to frame erasures, thereby
-    enhancing the speech quality when used in IP transport applications on fixed,
-    wireless and mobile networks. Despite its embedded nature, the codec also performs
-    well with both NB and WB generic audio signals.This codec has an embedded scalable
-    structure, enabling maximum flexibility in the transport of voice packets through
-    IP networks of today and in future media-aware networks. In addition, the embedded
-    structure of ITU-T G.718 will easily allow the codec to be extended to provide
-    a super-wideband and stereo capability through additional layers which are currently
-    under development. The bitstream may be truncated at the decoder side or by any
-    component of the communication system to instantaneously adjust the bit rate to
-    the desired value without the need for out-of-band signalling. The encoder produces
-    an embedded bitstream structured in five layers corresponding to the five available
-    bit rates: 8, 12, 16, 24 and 32 kbit/s.The ITU-T G.718 encoder can accept WB sampled
-    signals at 16 kHz, or NB signals sampled at either 16 or 8 kHz. Similarly, the
-    decoder output can be 16 kHz WB, in addition to 16 or 8 kHz NB. Input signals
-    sampled at 16 kHz, but with bandwidth limited to NB, are detected by the encoder.The
-    output of the ITU-T G.718 codec is capable of operating with a bandwidth of 300-3400
-    Hz at 8 and 12 kbit/s and 50-7000 Hz from 8 to 32 kbit/s.The high quality codec
-    core represents a significant performance improvement, providing 8 kbit/s wideband
-    clean speech quality equivalent to the ITU-T G.722.2 codec at 12.65 kbit/s whilst
-    the 8 kbit/s narrow-band codec operating mode provides clean speech quality equivalent
-    to the ITU-T G.729E codec at 11.8 kbit/s.The codec operates on 20-ms frames and
-    has a maximum algorithmic delay of 42.875 ms for wideband input and wideband output
-    signals. The maximum algorithmic delay for narrow-band input and narrow-band output
-    signals is 43.875 ms. The codec may also be employed in a low-delay mode when
-    the encoder and decoder maximum bit rates are set to 12 kbit/s. In this case,
-    the maximum algorithmic delay is reduced by 10 ms.The codec also incorporates
-    an alternate coding mode, with a minimum bit rate of 12.65 kbit/s, which is bitstream
-    interoperable with Recommendation ITU-T G.722.2, 3GPP AMR-WB and 3GPP2 VMR-WB
-    mobile WB speech coding standards. This option replaces layer 1 and layer 2, and
-    the layers 3-5 are similar to the default option with the exception that in layer
-    3 fewer bits are used to compensate for the extra bits of the 12.65 kbit/s core.
-    The decoder is further able to decode all other ITU-T G.722.2 operating modes.
-    Furthermore, a new annex to this Recommendation is under development that will
-    efficiently enable bit-stream interoperability with the 3GPP2 EVRC-WB codec. This
-    Recommendation also includes discontinuous transmission mode (DTX) and comfort
-    noise generation (CNG) algorithms that enable bandwidth savings during inactive
-    periods. An integrated noise reduction algorithm can be used provided that the
-    communication session is limited to 12 kbit/s.The underlying algorithm is based
-    on a two-stage coding structure: the lower two layers are based on code-excited
-    linear prediction (CELP) coding of the band (50-6400 Hz) where the core layer
-    takes advantage of signal classification to use optimized coding modes for each
-    frame. The higher layers encode the weighted error signal from the lower layers
-    using overlap-add modified discrete cosine transformation (MDCT) transform coding.
-    Several technologies are used to encode the MDCT coefficients to maximize performance
-    for both speech and music.Corrigendum 1 (11/2008) corrects a number of minor problems
-    that have been identified in the fixed-point ANSI C source code of the base text
-    of this Recommendation.Amendment 1 (03/2009) introduces some additional minor
-    corrections to the fixed-point ANSI C source code and to the text of the Recommendation.
-    It also describes an addition of a verification of the default value of the layer
-    5 unused bit, and the procedure of erasure of layer 5 if the bit does not have
-    the default value. Amendment 1 also introduces the new Annex A, which defines
-    an alternative implementation of the ITU-T G.718 algorithm using floating point
-    arithmetic to be used for implementation on DSP hardware optimized for floating-point
-    operations. The accompanying floating point ANSI C source code is fully interoperable
-    with the fixed-point code.While Corrigendum 2 (08/2009) includes further corrections
-    to address minor problems found in both the fixed and floating-point implementations,
-    its main benefit is in the streamlining of the fixed-point implementation which
-    reduces the complexity of the codec from 69 to 57 WMOPS whilst remaining bit-exact
-    with the original code on both steps of the characterization text. This 17% complexity
-    reduction is significant and will clearly make the G.718 more attractive to implement.This
-    Recommendation contains an electronic attachment with the ANSI C source code,
-    which is an integral part of this Recommendation.This edition integrates all changes
-    introduced by Corrigendum 1 (11/2008), Amendment 1 (03/2009) and Corrigendum 2
-    (08/2009), including the associated updated ANSI C source code.'
+  content: 'Recommendation ITU-T G.718 describes a narrow-band (NB) and wideband (WB) embedded variable bit-rate coding algorithm for speech and audio operating in the range from 8 to 32 kbit/s which is designed to be robust to frame erasures.This codec provides state-of-the-art NB speech quality over the lower bit rates and state-of-the-art WB speech quality over the complete range of bit rates. In addition, the ITU-T G.718 codec is designed to be highly robust to frame erasures, thereby enhancing the speech quality when used in IP transport applications on fixed, wireless and mobile networks. Despite its embedded nature, the codec also performs well with both NB and WB generic audio signals.This codec has an embedded scalable structure, enabling maximum flexibility in the transport of voice packets through IP networks of today and in future media-aware networks. In addition, the embedded structure of ITU-T G.718 will easily allow the codec to be extended to provide a super-wideband and stereo capability through additional layers which are currently under development. The bitstream may be truncated at the decoder side or by any component of the communication system to instantaneously adjust the bit rate to the desired value without the need for out-of-band signalling. The encoder produces an embedded bitstream structured in five layers corresponding to the five available bit rates: 8, 12, 16, 24 and 32 kbit/s.The ITU-T G.718 encoder can accept WB sampled signals at 16 kHz, or NB signals sampled at either 16 or 8 kHz. Similarly, the decoder output can be 16 kHz WB, in addition to 16 or 8 kHz NB. Input signals sampled at 16 kHz, but with bandwidth limited to NB, are detected by the encoder.The output of the ITU-T G.718 codec is capable of operating with a bandwidth of 300-3400 Hz at 8 and 12 kbit/s and 50-7000 Hz from 8 to 32 kbit/s.The high quality codec core represents a significant performance improvement, providing 8 kbit/s wideband clean speech quality equivalent to the ITU-T G.722.2 codec at 12.65 kbit/s whilst the 8 kbit/s narrow-band codec operating mode provides clean speech quality equivalent to the ITU-T G.729E codec at 11.8 kbit/s.The codec operates on 20-ms frames and has a maximum algorithmic delay of 42.875 ms for wideband input and wideband output signals. The maximum algorithmic delay for narrow-band input and narrow-band output signals is 43.875 ms. The codec may also be employed in a low-delay mode when the encoder and decoder maximum bit rates are set to 12 kbit/s. In this case, the maximum algorithmic delay is reduced by 10 ms.The codec also incorporates an alternate coding mode, with a minimum bit rate of 12.65 kbit/s, which is bitstream interoperable with Recommendation ITU-T G.722.2, 3GPP AMR-WB and 3GPP2 VMR-WB mobile WB speech coding standards. This option replaces layer 1 and layer 2, and the layers 3-5 are similar to the default option with the exception that in layer 3 fewer bits are used to compensate for the extra bits of the 12.65 kbit/s core. The decoder is further able to decode all other ITU-T G.722.2 operating modes. Furthermore, a new annex to this Recommendation is under development that will efficiently enable bit-stream interoperability with the 3GPP2 EVRC-WB codec. This Recommendation also includes discontinuous transmission mode (DTX) and comfort noise generation (CNG) algorithms that enable bandwidth savings during inactive periods. An integrated noise reduction algorithm can be used provided that the communication session is limited to 12 kbit/s.The underlying algorithm is based on a two-stage coding structure: the lower two layers are based on code-excited linear prediction (CELP) coding of the band (50-6400 Hz) where the core layer takes advantage of signal classification to use optimized coding modes for each frame. The higher layers encode the weighted error signal from the lower layers using overlap-add modified discrete cosine transformation (MDCT) transform coding. Several technologies are used to encode the MDCT coefficients to maximize performance for both speech and music.Corrigendum 1 (11/2008) corrects a number of minor problems that have been identified in the fixed-point ANSI C source code of the base text of this Recommendation.Amendment 1 (03/2009) introduces some additional minor corrections to the fixed-point ANSI C source code and to the text of the Recommendation. It also describes an addition of a verification of the default value of the layer 5 unused bit, and the procedure of erasure of layer 5 if the bit does not have the default value. Amendment 1 also introduces the new Annex A, which defines an alternative implementation of the ITU-T G.718 algorithm using floating point arithmetic to be used for implementation on DSP hardware optimized for floating-point operations. The accompanying floating point ANSI C source code is fully interoperable with the fixed-point code.While Corrigendum 2 (08/2009) includes further corrections to address minor problems found in both the fixed and floating-point implementations, its main benefit is in the streamlining of the fixed-point implementation which reduces the complexity of the codec from 69 to 57 WMOPS whilst remaining bit-exact with the original code on both steps of the characterization text. This 17% complexity reduction is significant and will clearly make the G.718 more attractive to implement.This Recommendation contains an electronic attachment with the ANSI C source code, which is an integral part of this Recommendation.This edition integrates all changes introduced by Corrigendum 1 (11/2008), Amendment 1 (03/2009) and Corrigendum 2 (08/2009), including the associated updated ANSI C source code.'
 status:
   stage:
     content: Published
@@ -140,8 +69,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C describing an alternative floating-point implementation
-        of the superwideband monaural extension
+      content: New Annex C describing an alternative floating-point implementation of the superwideband monaural extension
     docidentifier:
     - content: G.718 (2008) Amd. 3 (03/2013)
       type: ITU
@@ -161,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex B on superwideband scalable extension for ITU-T G.718 and
-        corrections to main body fixed-point C-code and description text
+      content: New Annex B on superwideband scalable extension for ITU-T G.718 and corrections to main body fixed-point C-code and description text
     docidentifier:
     - content: G.718 (2008) Amd. 2 (03/2010)
       type: ITU
@@ -192,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Frame error robust narrow-band and wideband embedded variable bit-rate
-        coding of speech and audio from 8-32 kbit/s
+      content: Frame error robust narrow-band and wideband embedded variable bit-rate coding of speech and audio from 8-32 kbit/s
     docidentifier:
     - content: G.718 (06/2008)
       type: ITU
@@ -203,8 +129,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Certain methods of avoiding the transmission of excessive noise between
-        interconnected systems
+      content: Certain methods of avoiding the transmission of excessive noise between interconnected systems
     docidentifier:
     - content: G Suppl. 4 (12/1972)
       type: ITU
@@ -224,8 +149,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Loss-frequency response of channel-translating equipment used in some
-        countries for international circuits
+      content: Loss-frequency response of channel-translating equipment used in some countries for international circuits
     docidentifier:
     - content: G Suppl. 7 (12/1972)
       type: ITU
@@ -235,8 +159,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Method proposed by the Belgian telephone administration for interconnection
-        between coaxial and symmetric pair systems
+      content: Method proposed by the Belgian telephone administration for interconnection between coaxial and symmetric pair systems
     docidentifier:
     - content: G Suppl. 8 (12/1972)
       type: ITU
@@ -256,8 +179,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital crosstalk measurement (method used by the Administrations of
-        France, the Netherlands and Spain)
+      content: Digital crosstalk measurement (method used by the Administrations of France, the Netherlands and Spain)
     docidentifier:
     - content: G Suppl. 19 (10/1984)
       type: ITU
@@ -277,8 +199,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Estimating the signal load margin of FDM wideband amplifier equipment
-        and transmission systems
+      content: Estimating the signal load margin of FDM wideband amplifier equipment and transmission systems
     docidentifier:
     - content: G Suppl. 26 (10/1984)
       type: ITU
@@ -298,9 +219,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems
-        and data-over-voice (DOV) systems during the transition from an analogue to
-        a digital network
+      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems and data-over-voice (DOV) systems during the transition from an analogue to a digital network
     docidentifier:
     - content: G Suppl. 28 (10/1984)
       type: ITU
@@ -380,8 +299,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guide on the use of the ITU-T Recommendations related to optical fibres
-        and systems technology
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres and systems technology
     docidentifier:
     - content: G Suppl. 42 (10/2018)
       type: ITU
@@ -421,8 +339,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G-PON interoperability test plan between optical line terminations
-        and optical network units
+      content: G-PON interoperability test plan between optical line terminations and optical network units
     docidentifier:
     - content: G Suppl. 46 (05/2009)
       type: ITU
@@ -442,9 +359,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: '10-Gigabit-capable passive optical networks: Interface between media
-        access control with serializer/deserializer and physical medium dependent
-        sublayers'
+      content: '10-Gigabit-capable passive optical networks: Interface between media access control with serializer/deserializer and physical medium dependent sublayers'
     docidentifier:
     - content: G Suppl. 48 (06/2010)
       type: ITU
@@ -634,8 +549,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on sub 1 Gbit/s services transport over optical transport
-        network
+      content: Supplement on sub 1 Gbit/s services transport over optical transport network
     docidentifier:
     - content: G Suppl. 70 (09/2020)
       type: ITU
@@ -645,8 +559,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optical line termination capabilities for supporting cooperative dynamic
-        bandwidth assignment
+      content: Optical line termination capabilities for supporting cooperative dynamic bandwidth assignment
     docidentifier:
     - content: G Suppl. 71 (12/2023)
       type: ITU
@@ -666,8 +579,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Influencing factors on quality of experience for multiview video (MVV)
-        services
+      content: Influencing factors on quality of experience for multiview video (MVV) services
     docidentifier:
     - content: G Suppl. 73 (10/2021)
       type: ITU
@@ -707,9 +619,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors
-        on quality of experience (QoE) for video customized alerting tone (CAT) and
-        video customized ringing signal (CRS) services
+      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors on quality of experience (QoE) for video customized alerting tone (CAT) and video customized ringing signal (CRS) services
     docidentifier:
     - content: G Suppl. 77 (06/2022)
       type: ITU
@@ -739,8 +649,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use case and requirements of fibre-based in-premises networking for
-        home application (FIP4H)
+      content: Use case and requirements of fibre-based in-premises networking for home application (FIP4H)
     docidentifier:
     - content: G Suppl. 80 (07/2024)
       type: ITU
@@ -770,8 +679,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on the use of options in the precision time protocol profile
-        with full timing support from the network
+      content: Supplement on the use of options in the precision time protocol profile with full timing support from the network
     docidentifier:
     - content: G Suppl. 83 (10/2025)
       type: ITU
@@ -821,8 +729,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Point to multipoint passive optical access system requirements and
-        transmission technologies above 50 Gbit/s per wavelength
+      content: Point to multipoint passive optical access system requirements and transmission technologies above 50 Gbit/s per wavelength
     docidentifier:
     - content: G Suppl. 88 (10/2025)
       type: ITU
@@ -852,8 +759,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases and requirements of fibre-in-premises for small and medium
-        enterprise applications
+      content: Use cases and requirements of fibre-in-premises for small and medium enterprise applications
     docidentifier:
     - content: G Suppl. 91 (10/2025)
       type: ITU

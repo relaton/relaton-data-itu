@@ -1,4 +1,3 @@
----
 id: ITUTE421Q60bis121972
 schema_version: v1.5.6
 type: standard
@@ -7,6 +6,9 @@ title:
   script: Latn
   content: Service quality observations
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/10809
 docidentifier:
 - content: ITU-T E.421/Q.60 bis (12/1972)
   type: ITU
@@ -106,8 +108,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

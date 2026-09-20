@@ -1,13 +1,14 @@
----
 id: ITUTM1370101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Setting up and lining up of international data transmission systems operating
-    in the range 48 kbit/s to 64 kbit/s
+  content: Setting up and lining up of international data transmission systems operating in the range 48 kbit/s to 64 kbit/s
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/5844
 docidentifier:
 - content: ITU-T M.1370 (10/1984)
   type: ITU
@@ -87,8 +88,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Setting up and lining up of international data transmission systems
-        operating at 48 kbit/s and above
+      content: Setting up and lining up of international data transmission systems operating at 48 kbit/s and above
     docidentifier:
     - content: M.1370 (11/1988)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTI3652111995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'B-ISDN ATM adaptation layer sublayers : Service-specific coordination
-    function to provide the connection-oriented network service'
+  content: 'B-ISDN ATM adaptation layer sublayers : Service-specific coordination function to provide the connection-oriented network service'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.365.2-199511-I
+  content: https://handle.itu.int/11.1002/1000/3252
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.365.2-199511-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.365.2 (11/1995)
   type: ITU
@@ -51,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'The ATM Adaptation Layer (AAL) is defined to enhance the services provided
-    by the ATM layer to support the functions required by the next higher layer. One
-    particular type of service supported by the AAL is the Connection Oriented Network
-    Service (CONS). The AAL for CONS comprises functions necessary to support CONS
-    data communications between peer entities in the user plane.The AAL for CONS consists
-    of a Segmentation And Reassembly (SAR) function, and a Convergence Sublayer which
-    is specified as two sublayers: a Common Part Convergence Sublayer (CPCS) and a
-    Service Specific Convergence Sublayer (SSCS). The CPCS is defined in Clause 6/I.363
-    [2], and is used as the underlying protocol for the service specific part for
-    CONS. The SSCS is functionally divided into two parts: the Service Specific Connection
-    Oriented Protocol (SSCOP), which provides an assured data transfer service, and
-    the Service Specific Coordination Function (SSCF). The SSCOP is defined in Recommendation
-    Q.2110 [4] and is suitable for use by various SSCFs. This Recommendation specifies
-    the SSCF for CONS.This Recommendation describes for the SSCF-CONS the mapping
-    of primitives from the Synchronization and Coordination Function (SCF) (defined
-    in Recommendation Q.923 [3]) to signals of the SSCOP and vice versa. It also specifies
-    the exchange of signals between Layer Management and the SSCF-CONS.'
+  content: 'The ATM Adaptation Layer (AAL) is defined to enhance the services provided by the ATM layer to support the functions required by the next higher layer. One particular type of service supported by the AAL is the Connection Oriented Network Service (CONS). The AAL for CONS comprises functions necessary to support CONS data communications between peer entities in the user plane.The AAL for CONS consists of a Segmentation And Reassembly (SAR) function, and a Convergence Sublayer which is specified as two sublayers: a Common Part Convergence Sublayer (CPCS) and a Service Specific Convergence Sublayer (SSCS). The CPCS is defined in Clause 6/I.363 [2], and is used as the underlying protocol for the service specific part for CONS. The SSCS is functionally divided into two parts: the Service Specific Connection Oriented Protocol (SSCOP), which provides an assured data transfer service, and the Service Specific Coordination Function (SSCF). The SSCOP is defined in Recommendation Q.2110 [4] and is suitable for use by various SSCFs. This Recommendation specifies the SSCF for CONS.This Recommendation describes for the SSCF-CONS the mapping of primitives from the Synchronization and Coordination Function (SCF) (defined in Recommendation Q.923 [3]) to signals of the SSCOP and vice versa. It also specifies the exchange of signals between Layer Management and the SSCF-CONS.'
 status:
   stage:
     content: Published
@@ -87,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

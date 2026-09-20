@@ -1,4 +1,3 @@
----
 id: ITUTLSuppl52102022
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup52-202210-I
+  content: https://handle.itu.int/11.1002/1000/15168
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup52-202210-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 52 (10/2022)
   type: ITU
@@ -50,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Supplement 52 to ITU-T L-series Recommendations proposes a set of good
-    practices to improve the energy efficiency of cyber-physical applications – making
-    use of Internet of things (IoT), artificial intelligence (AI), and digital twins.
-    First, the Supplement introduces the cyber-physical paradigm, engineering reference
-    framework, and a couple of system deployments models. Secondly, it defines three
-    end-to-end use case typologies to be addressed (i.e., monitoring applications
-    using smart IoT systems and AI software; smart applications using Edge computing
-    and cloud data centre; and simulation applications using digital twin pattern).
-    Energy efficiency practices are discussed adopting a circular value-chain model
-    that consists of three main steps: data storage; data transfer/move; and data
-    processing/analytics. Finally, this Supplement offers a set of recommended practices
-    relating to each component of the three end-to-end use case typologies.'
+  content: 'Supplement 52 to ITU-T L-series Recommendations proposes a set of good practices to improve the energy efficiency of cyber-physical applications – making use of Internet of things (IoT), artificial intelligence (AI), and digital twins. First, the Supplement introduces the cyber-physical paradigm, engineering reference framework, and a couple of system deployments models. Secondly, it defines three end-to-end use case typologies to be addressed (i.e., monitoring applications using smart IoT systems and AI software; smart applications using Edge computing and cloud data centre; and simulation applications using digital twin pattern). Energy efficiency practices are discussed adopting a circular value-chain model that consists of three main steps: data storage; data transfer/move; and data processing/analytics. Finally, this Supplement offers a set of recommended practices relating to each component of the three end-to-end use case typologies.'
 status:
   stage:
     content: Published

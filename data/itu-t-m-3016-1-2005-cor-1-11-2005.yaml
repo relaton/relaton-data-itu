@@ -1,10 +1,11 @@
----
 id: ITUTM301612005Cor1112005
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3016.1-200511-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/8623
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3016.1-200511-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3016.1 (2005) Cor. 1 (11/2005)
   type: ITU
@@ -45,8 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This corrigendum corrects a number of defects to ITU-T Rec. M.3016.1 that
-    have been identified and resolved.
+  content: This corrigendum corrects a number of defects to ITU-T Rec. M.3016.1 that have been identified and resolved.
 status:
   stage:
     content: Published

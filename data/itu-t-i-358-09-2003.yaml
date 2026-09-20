@@ -1,16 +1,16 @@
----
 id: ITUTI358092003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Call processing performance for switched virtual channel connections (VCCs)
-    in a B-ISDN
+  content: Call processing performance for switched virtual channel connections (VCCs) in a B-ISDN
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.358-200309-I
+  content: https://handle.itu.int/11.1002/1000/6980
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.358-200309-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.358 (09/2003)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines performance parameters and objectives for call
-    processing in B-ISDNs for switched Virtual Channel Connections (VCCs). The B-ISDN
-    call processing parameters defined in this Recommendation are applicable to point-to-point
-    (Type 1) and point-to-multipoint (Type 2) connection topologies. The QoS relevant
-    network performance objectives provided in this Recommendation are based on the
-    general principles and generic performance parameters of ITU-T Rec. I.350. New
-    performance-related aspects, associated with B-ISDN call processing functions
-    providing access or disengagement, include the addition or release of a party
-    to an existing B-ISDN connection. In a B-ISDN, a virtual connection can generally
-    be either a Virtual Channel Connection (VCC) or a Virtual Path Connection (VPC).
-    Since call processing capabilities are currently defined only for VCCs, a virtual
-    connection within the context of this Recommendation is a VCC.
+  content: This Recommendation defines performance parameters and objectives for call processing in B-ISDNs for switched Virtual Channel Connections (VCCs). The B-ISDN call processing parameters defined in this Recommendation are applicable to point-to-point (Type 1) and point-to-multipoint (Type 2) connection topologies. The QoS relevant network performance objectives provided in this Recommendation are based on the general principles and generic performance parameters of ITU-T Rec. I.350. New performance-related aspects, associated with B-ISDN call processing functions providing access or disengagement, include the addition or release of a party to an existing B-ISDN connection. In a B-ISDN, a virtual connection can generally be either a Virtual Channel Connection (VCC) or a Virtual Path Connection (VPC). Since call processing capabilities are currently defined only for VCCs, a virtual connection within the context of this Recommendation is a VCC.
 status:
   stage:
     content: Published
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Call processing performance for switched virtual channel connections
-        (VCCs) in a B-ISDN
+      content: Call processing performance for switched virtual channel connections (VCCs) in a B-ISDN
     docidentifier:
     - content: I.358 (06/1998)
       type: ITU
@@ -93,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

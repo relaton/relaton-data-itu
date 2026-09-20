@@ -1,16 +1,16 @@
----
 id: ITUTM2110072002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Bringing into service international multi-operator paths, sections and
-    transmission systems
+  content: Bringing into service international multi-operator paths, sections and transmission systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.2110-200207-I
+  content: https://handle.itu.int/11.1002/1000/6077
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.2110-200207-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.2110 (07/2002)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides procedures for bringing into service international
-    multi-operator paths, sections and transmission systems with and without in-service
-    monitoring. These tests and procedures are applicable whatever the technology
-    used.
+  content: This Recommendation provides procedures for bringing into service international multi-operator paths, sections and transmission systems with and without in-service monitoring. These tests and procedures are applicable whatever the technology used.
 status:
   stage:
     content: Published
@@ -74,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Bringing-into-service of international PDH paths, sections and transmission
-        systems and SDH paths and multiplex sections
+      content: Bringing-into-service of international PDH paths, sections and transmission systems and SDH paths and multiplex sections
     docidentifier:
     - content: M.2110 (04/1997)
       type: ITU
@@ -85,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Bringing into service international digital paths, sections and transmission
-        systems
+      content: Bringing into service international digital paths, sections and transmission systems
     docidentifier:
     - content: M.2110 (10/1992)
       type: ITU
@@ -96,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Bringing international digital paths, section and line sections into
-        service
+      content: Bringing international digital paths, section and line sections into service
     docidentifier:
     - content: M.555 (11/1988)
       type: ITU

@@ -1,10 +1,11 @@
----
 id: ITUTV15012003Cor1072003
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.150.1-200301-I
+  content: https://handle.itu.int/11.1002/1000/6483
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.150.1-200301-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.150.1 (2003) Cor. 1 (07/2003)
   type: ITU
@@ -74,8 +75,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Modification to SSE reason identifier codes to support voice band data
-        and text relay
+      content: Modification to SSE reason identifier codes to support voice band data and text relay
     docidentifier:
     - content: V.150.1 (2003) Amd. 1 (01/2005)
       type: ITU
@@ -93,8 +93,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of
-        V-series DCEs'
+      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of V-series DCEs'
     docidentifier:
     - content: V.150.1 (01/2003)
       type: ITU

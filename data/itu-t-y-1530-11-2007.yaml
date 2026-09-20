@@ -1,4 +1,3 @@
----
 id: ITUTY1530112007
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1530-200711-I
+  content: https://handle.itu.int/11.1002/1000/9268
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1530-200711-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1530 (11/2007)
   type: ITU
@@ -50,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation Y.1530 defines performance parameters and objectives
-    for point-to-point call processing for voice service provided by hybrid IP networks.
-    The parameter definitions are based on the principles and generic performance
-    parameters defined in ITU-T Recommendation I.350, and make use of relevant definitions
-    from ISDN call processing performance Recommendations where appropriate.
+  content: ITU-T Recommendation Y.1530 defines performance parameters and objectives for point-to-point call processing for voice service provided by hybrid IP networks. The parameter definitions are based on the principles and generic performance parameters defined in ITU-T Recommendation I.350, and make use of relevant definitions from ISDN call processing performance Recommendations where appropriate.
 status:
   stage:
     content: Published
@@ -104,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -115,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -126,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

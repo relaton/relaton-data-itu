@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl76102023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Common approaches and interfaces for data exchange between the central
-    equipment identity register and the equipment identity register
+  content: Common approaches and interfaces for data exchange between the central equipment identity register and the equipment identity register
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup76-202310-I
+  content: https://handle.itu.int/11.1002/1000/15780
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup76-202310-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 76 (10/2023)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "As defined in the ITU-T Q.5050 series of Recommendations, a central equipment
-    identity register (CEIR) can be used to combat counterfeit information and communication
-    technology (ICT) devices, to combat the use of stolen ICT devices and for other
-    purposes. However, implementing a CEIR is a complex project that involves and
-    impacts multiple stakeholders, and may require different processes in each country.\r\nTherefore,
-    to assist ITU members on implementation, Supplement 76 to ITU-T Q-series Recommendations
-    aims to identify current industry approaches on the data exchange between CEIR
-    and the equipment identity register (EIR) and propose common approaches and interfaces
-    on this topic.\r\n"
+  content: "As defined in the ITU-T Q.5050 series of Recommendations, a central equipment identity register (CEIR) can be used to combat counterfeit information and communication technology (ICT) devices, to combat the use of stolen ICT devices and for other purposes. However, implementing a CEIR is a complex project that involves and impacts multiple stakeholders, and may require different processes in each country.\r\nTherefore, to assist ITU members on implementation, Supplement 76 to ITU-T Q-series Recommendations aims to identify current industry approaches on the data exchange between CEIR and the equipment identity register (EIR) and propose common approaches and interfaces on this topic.\r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTX146091998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance objectives and quality of service classes applicable to frame
-    relay
+  content: Performance objectives and quality of service classes applicable to frame relay
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.146-199809-S
+  content: https://handle.itu.int/11.1002/1000/4464
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.146-199809-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.146 (09/1998)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the reference model, national/international
-    apportion model, frame relay service classes and their associated delay and loss
-    objectives, applicable to networks providing frame relay PVC or SVC service and
-    supporting frame relay service classes.
+  content: This Recommendation defines the reference model, national/international apportion model, frame relay service classes and their associated delay and loss objectives, applicable to networks providing frame relay PVC or SVC service and supporting frame relay service classes.
 status:
   stage:
     content: Withdrawal
@@ -74,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Performance objectives and quality of service classes applicable to
-        frame relay
+      content: Performance objectives and quality of service classes applicable to frame relay
     docidentifier:
     - content: X.146 (10/2000)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTX1126032017
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines on mitigating the negative effects of infected terminals in
-    mobile networks
+  content: Guidelines on mitigating the negative effects of infected terminals in mobile networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1126-201703-I
+  content: https://handle.itu.int/11.1002/1000/13194
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1126-201703-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1126 (03/2017)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1126 provides guidelines to mobile operators to
-    restrain the infected terminals by utilizing technologies in the mobile network
-    to protect both subscribers and mobile operators. This Recommendation describes
-    the characteristics and effects of malicious software caused by unhealthy ecosystems
-    in the mobile environment. Based on network-side technologies, this Recommendation
-    focuses on mitigating the vicious effects caused by infected terminals. This Recommendation
-    defines and organizes the mitigating measures and corresponding technologies.
+  content: Recommendation ITU-T X.1126 provides guidelines to mobile operators to restrain the infected terminals by utilizing technologies in the mobile network to protect both subscribers and mobile operators. This Recommendation describes the characteristics and effects of malicious software caused by unhealthy ecosystems in the mobile environment. Based on network-side technologies, this Recommendation focuses on mitigating the vicious effects caused by infected terminals. This Recommendation defines and organizes the mitigating measures and corresponding technologies.
 status:
   stage:
     content: Published
@@ -87,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1120-X.1139 series - Supplement on a secure application distribution
-        framework for communication devices
+      content: ITU-T X.1120-X.1139 series - Supplement on a secure application distribution framework for communication devices
     docidentifier:
     - content: X Suppl. 24 (09/2014)
       type: ITU

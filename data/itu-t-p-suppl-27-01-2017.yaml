@@ -1,16 +1,16 @@
----
 id: ITUTPSuppl27012017
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Application of ITU-T P.863 and ITU-T P.863.1 for speech processed by blind
-    bandwidth extension approaches
+  content: Application of ITU-T P.863 and ITU-T P.863.1 for speech processed by blind bandwidth extension approaches
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.Sup27-201701-I
+  content: https://handle.itu.int/11.1002/1000/13242
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.Sup27-201701-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T P Suppl. 27 (01/2017)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This document provides a method for the application of P.863 on speech
-    signals processed by blind bandwidth extension (BBE), in complement to existing
-    procedures given in P.863.1. When bandwidth extension techniques are used, not
-    only need the Reference Bandwidth be set but P.863 also has limited ability to
-    discriminate small bit rate and bandwidth improvements. These quality differences
-    are clearly distinguishable in Subjective tests. For P.863 tests, a complementing
-    bandwidth requirement check is needed and detailed.
+  content: This document provides a method for the application of P.863 on speech signals processed by blind bandwidth extension (BBE), in complement to existing procedures given in P.863.1. When bandwidth extension techniques are used, not only need the Reference Bandwidth be set but P.863 also has limited ability to discriminate small bit rate and bandwidth improvements. These quality differences are clearly distinguishable in Subjective tests. For P.863 tests, a complementing bandwidth requirement check is needed and detailed.
 status:
   stage:
     content: Published

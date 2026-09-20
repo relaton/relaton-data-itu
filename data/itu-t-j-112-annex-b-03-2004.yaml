@@ -1,16 +1,16 @@
----
 id: ITUTJ112AnnexB032004
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Data-over-cable service interface specifications: Radio-frequency interface
-    specification'
+  content: 'Data-over-cable service interface specifications: Radio-frequency interface specification'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.112-200403-I!AnnB
+  content: https://handle.itu.int/11.1002/1000/7193
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.112-200403-I!AnnB!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.112 Annex B (03/2004)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Annex B defines the radio-frequency interface specifications for high-speed
-    data-over-cable systems.There are two options for physical layer technology, which
-    have equal priority and are not required to be interoperable. One technology option
-    is based on the downstream multi-programme television distribution that is deployed
-    using 6 MHz channelling, and supports upstream transmission in the 5-42 MHz region.
-    The second technology option is based on a multi-programme television distribution
-    using 8 MHz channel spacing and supports upstream in the 5-65 MHz region. Both
-    options have equal status. The first of these options is defined in clauses B.4,
-    B.6 and B.7, whereas the second is defined by replacing the content of those clauses
-    with the content of Annex B.N.Annex B.O "Privacy for cable modem implementations"
-    to the former Annex B/J.112 is removed because it became the stand-alone ITU-T
-    Rec. J.125.
+  content: Annex B defines the radio-frequency interface specifications for high-speed data-over-cable systems.There are two options for physical layer technology, which have equal priority and are not required to be interoperable. One technology option is based on the downstream multi-programme television distribution that is deployed using 6 MHz channelling, and supports upstream transmission in the 5-42 MHz region. The second technology option is based on a multi-programme television distribution using 8 MHz channel spacing and supports upstream in the 5-65 MHz region. Both options have equal status. The first of these options is defined in clauses B.4, B.6 and B.7, whereas the second is defined by replacing the content of those clauses with the content of Annex B.N.Annex B.O "Privacy for cable modem implementations" to the former Annex B/J.112 is removed because it became the stand-alone ITU-T Rec. J.125.
 status:
   stage:
     content: Published
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Data-over-cable service interface specifications: Radio-frequency
-        interface specification using QAM technique'
+      content: 'Data-over-cable service interface specifications: Radio-frequency interface specification using QAM technique'
     docidentifier:
     - content: J.112 Annex C (02/2002)
       type: ITU
@@ -101,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Data-over-cable service interface specifications: Radio-frequency
-        interface specification'
+      content: 'Data-over-cable service interface specifications: Radio-frequency interface specification'
     docidentifier:
     - content: J.112 Annex B (03/2001)
       type: ITU
@@ -112,8 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Digital Video Broadcasting: DVB interaction channel for Cable TV (CATV)
-        distribution systems'
+      content: 'Digital Video Broadcasting: DVB interaction channel for Cable TV (CATV) distribution systems'
     docidentifier:
     - content: J.112 Annex A (03/2001)
       type: ITU
@@ -133,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -144,10 +129,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -157,9 +139,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -179,8 +159,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -190,8 +169,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -201,8 +179,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -212,8 +189,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -223,8 +199,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -234,8 +209,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -245,8 +219,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

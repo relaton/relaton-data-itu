@@ -1,16 +1,14 @@
----
 id: ITUTP8622001Amd2112005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Revised Annex A – Reference implementations and conformance testing for
-    ITU-T Recs P.862, P.862.1 and P.862.2
+  content: Revised Annex A – Reference implementations and conformance testing for ITU-T Recs P.862, P.862.1 and P.862.2
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.862-200511-W!Amd2
+  content: https://handle.itu.int/11.1002/1000/8725
 docidentifier:
 - content: ITU-T P.862 (2001) Amd. 2 (11/2005)
   type: ITU
@@ -51,11 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This revision to Annex A/P.862 describes the revised ANSI C reference implementation
-    of PESQ, which includes modes of operation for Recommendation P.862.1 (narrowband
-    MOS-LQO mapping) and Recommendation P.862.2 (the wideband extension). It also
-    describes the conformance testing procedures for P.862 and P.862.2. This revision
-    replaces Annex A to P.862 (February 2001) and Amendment 1 to P.862 (March 2003).
+  content: This revision to Annex A/P.862 describes the revised ANSI C reference implementation of PESQ, which includes modes of operation for Recommendation P.862.1 (narrowband MOS-LQO mapping) and Recommendation P.862.2 (the wideband extension). It also describes the conformance testing procedures for P.862 and P.862.2. This revision replaces Annex A to P.862 (February 2001) and Amendment 1 to P.862 (March 2003).
 status:
   stage:
     content: Withdrawal
@@ -91,8 +85,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex A: Source code for reference implementation and conformance
-        tests'
+      content: 'Revised Annex A: Source code for reference implementation and conformance tests'
     docidentifier:
     - content: P.862 (2001) Amd. 1 (03/2003)
       type: ITU
@@ -102,9 +95,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Perceptual evaluation of speech quality (PESQ): An objective method
-        for end-to-end speech quality assessment of narrow-band telephone networks
-        and speech codecs'
+      content: 'Perceptual evaluation of speech quality (PESQ): An objective method for end-to-end speech quality assessment of narrow-band telephone networks and speech codecs'
     docidentifier:
     - content: P.862 (02/2001)
       type: ITU

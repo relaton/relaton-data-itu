@@ -1,16 +1,16 @@
----
 id: ITUTM31081031999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'TMN management services for dedicated and reconfigurable circuits network
-    : Information model for management of leased circuit and reconfigurable services'
+  content: 'TMN management services for dedicated and reconfigurable circuits network : Information model for management of leased circuit and reconfigurable services'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3108.1-199903-I
+  content: https://handle.itu.int/11.1002/1000/4629
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3108.1-199903-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3108.1 (03/1999)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a GDMO-based information model to support
-    the management of the leased circuit service as outlined in Recommendation M.3208.1.
-    Appendix I provides a protocol-independent version of this information model in
-    "structured" English. Appendix II provides a mapping from the management functions
-    in Recommendation M.3208.1 to the Managed Objects defined in this Recommendation.
-    Appendix III provides a Unified Modelling Language (UML) view of the same information
-    model.
+  content: This Recommendation provides a GDMO-based information model to support the management of the leased circuit service as outlined in Recommendation M.3208.1. Appendix I provides a protocol-independent version of this information model in "structured" English. Appendix II provides a mapping from the management functions in Recommendation M.3208.1 to the Managed Objects defined in this Recommendation. Appendix III provides a Unified Modelling Language (UML) view of the same information model.
 status:
   stage:
     content: Published

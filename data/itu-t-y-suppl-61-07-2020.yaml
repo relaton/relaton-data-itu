@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl61072020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Features of application programming interfaces for Internet of things data
-    in smart cities and communities
+  content: Features of application programming interfaces for Internet of things data in smart cities and communities
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup61-202007-I
+  content: https://handle.itu.int/11.1002/1000/14368
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup61-202007-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 61 (07/2020)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A growing number of smart cities and administrations are inclined to collaborate
-    and mutualize their efforts and resources for Internet of things (IoT) deployments
-    and open data sharing. This Supplement 61 to ITU-T Y-series Recommendations studies
-    the concept and potential of developing secured open and interoperable application
-    programming interfaces (APIs) in the context of IoT deployment and open data management
-    in smart cities. Supplement 61 to ITU-T Y-series Recommendations analyses current
-    solutions implemented by administrations around the world, where applicable, including
-    those adopted by smart cities, to share their data through open and interoperable
-    interfaces. Supplement 61 to ITU-T Y-series Recommendations subsequently specifies
-    open and interoperable APIs for secured open data architecture and to support
-    IoT data interoperability for smart cities. Supplement 61 to ITU-T Y-series Recommendations
-    concludes by mapping the specified APIs with relevant work performed by other
-    international standards development organizations (SDOs) and alliances, to help
-    consolidate the standards developed on the topic.
+  content: A growing number of smart cities and administrations are inclined to collaborate and mutualize their efforts and resources for Internet of things (IoT) deployments and open data sharing. This Supplement 61 to ITU-T Y-series Recommendations studies the concept and potential of developing secured open and interoperable application programming interfaces (APIs) in the context of IoT deployment and open data management in smart cities. Supplement 61 to ITU-T Y-series Recommendations analyses current solutions implemented by administrations around the world, where applicable, including those adopted by smart cities, to share their data through open and interoperable interfaces. Supplement 61 to ITU-T Y-series Recommendations subsequently specifies open and interoperable APIs for secured open data architecture and to support IoT data interoperability for smart cities. Supplement 61 to ITU-T Y-series Recommendations concludes by mapping the specified APIs with relevant work performed by other international standards development organizations (SDOs) and alliances, to help consolidate the standards developed on the topic.
 status:
   stage:
     content: Published

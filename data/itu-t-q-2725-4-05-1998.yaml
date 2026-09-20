@@ -1,16 +1,16 @@
----
 id: ITUTQ27254051998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Extensions to the signalling system No. 7 B-ISDN user part – Modification
-    procedures with negotiation
+  content: Extensions to the signalling system No. 7 B-ISDN user part – Modification procedures with negotiation
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.2725.4-199805-W
+  content: https://handle.itu.int/11.1002/1000/4381
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.2725.4-199805-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q.2725.4 (05/1998)
   type: ITU
@@ -46,10 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation extends the modification capabilities specified in
-    Recommendation ITU-T Q.2725.3, concerned with modification of Peak Cell Rate (PCR),
-    Sustainable Cell Rate (SCR) and Maximum Burst Size (MBS), to support negotiation
-    capabilities specified in Recommendation ITU-T Q.2725.1.
+  content: This Recommendation extends the modification capabilities specified in Recommendation ITU-T Q.2725.3, concerned with modification of Peak Cell Rate (PCR), Sustainable Cell Rate (SCR) and Maximum Burst Size (MBS), to support negotiation capabilities specified in Recommendation ITU-T Q.2725.1.
 status:
   stage:
     content: Withdrawal

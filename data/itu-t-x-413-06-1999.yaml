@@ -1,16 +1,16 @@
----
 id: ITUTX413061999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Message Handling Systems (MHS): Message store
-    – Abstract service definition'
+  content: 'Information technology – Message Handling Systems (MHS): Message store – Abstract service definition'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.413-199906-I
+  content: https://handle.itu.int/11.1002/1000/4854
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.413-199906-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.413 (06/1999)
   type: ITU
@@ -54,18 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is one of a series defining Message Handling in a distributed
-    open systems environment. It defines the Message Store (MS) service which supports
-    message retrieval from the MS, and message submission through the MS in a Message
-    Handling System. It also provides message administration services.This edition
-    has been revised to provide improved support in the following areas:- improved
-    handling of authentication mechanisms when binding to the MS;- new attributes
-    and procedures for managing multiple certificates in delivered and submitted messages;-
-    improved handling of message tokens;- a new set of security errors;- facilities
-    for recording the signature verification status of delivered messages;- additional
-    matching rules;- additional attributes for correlating delivery reports.In addition,
-    minor errors habe been removed, Message Store procedures have been revised and
-    extended, and numerous clarifications have been introduced.
+  content: This Recommendation is one of a series defining Message Handling in a distributed open systems environment. It defines the Message Store (MS) service which supports message retrieval from the MS, and message submission through the MS in a Message Handling System. It also provides message administration services.This edition has been revised to provide improved support in the following areas:- improved handling of authentication mechanisms when binding to the MS;- new attributes and procedures for managing multiple certificates in delivered and submitted messages;- improved handling of message tokens;- a new set of security errors;- facilities for recording the signature verification status of delivered messages;- additional matching rules;- additional attributes for correlating delivery reports.In addition, minor errors habe been removed, Message Store procedures have been revised and extended, and numerous clarifications have been introduced.
 status:
   stage:
     content: Published
@@ -129,8 +118,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Message Handling Systems (MHS) – Message
-        store: Abstract service definition'
+      content: 'Information technology – Message Handling Systems (MHS) – Message store: Abstract service definition'
     docidentifier:
     - content: X.413 (04/1995)
       type: ITU
@@ -140,8 +128,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Message Handling Systems (MHS) – Message
-        store: Abstract service definition'
+      content: 'Information technology – Message Handling Systems (MHS) – Message store: Abstract service definition'
     docidentifier:
     - content: X.413 (09/1992)
       type: ITU

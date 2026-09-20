@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl72072020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Signalling requirements for IP multimedia subsystem (IMS) emergency telecommunications
-    service in support of multiple accesses
+  content: Signalling requirements for IP multimedia subsystem (IMS) emergency telecommunications service in support of multiple accesses
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup72-202007-S
+  content: https://handle.itu.int/11.1002/1000/14388
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup72-202007-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 72 (07/2020)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 72 to ITU-T Q-series Recommendations specifies the signalling
-    requirements for Internet protocol (IP) multimedia subsystem (IMS) emergency telecommunications
-    service in support of multiple access including fixed broadband, wireless fidelity
-    (Wi-Fi), fourth generation (4G) and fifth generation (5G) networks. \r\n"
+  content: "Supplement 72 to ITU-T Q-series Recommendations specifies the signalling requirements for Internet protocol (IP) multimedia subsystem (IMS) emergency telecommunications service in support of multiple access including fixed broadband, wireless fidelity (Wi-Fi), fourth generation (4G) and fifth generation (5G) networks. \r\n"
 status:
   stage:
     content: Withdrawal
@@ -74,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling requirements for IP multimedia subsystem (IMS) emergency
-        call in support of multiple access
+      content: Signalling requirements for IP multimedia subsystem (IMS) emergency call in support of multiple access
     docidentifier:
     - content: Q Suppl. 72 (11/2025)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTM3641101994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Management information model for the management of the data link and network
-    layer of the ISDN D-channel
+  content: Management information model for the management of the data link and network layer of the ISDN D-channel
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3641-199410-I
+  content: https://handle.itu.int/11.1002/1000/1541
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3641-199410-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3641 (10/1994)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the management information model of the Q3-interface
-    in a TMN [8] for the management of the D-channels in an ISDN switch. In particular,
-    it focuses on the fault and performance management of the data link and network
-    layer of ISDN D-channels. Managed objects are specified by using the OSI-management
-    templates of Recommendation X.722 [5]. These specifications are based on the prosaic
-    description of the D-channel management aspects as provided by Recommendation
-    M.3640
+  content: This Recommendation provides the management information model of the Q3-interface in a TMN [8] for the management of the D-channels in an ISDN switch. In particular, it focuses on the fault and performance management of the data link and network layer of ISDN D-channels. Managed objects are specified by using the OSI-management templates of Recommendation X.722 [5]. These specifications are based on the prosaic description of the D-channel management aspects as provided by Recommendation M.3640
 status:
   stage:
     content: Published

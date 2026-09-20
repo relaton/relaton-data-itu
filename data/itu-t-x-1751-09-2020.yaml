@@ -1,16 +1,16 @@
----
 id: ITUTX1751092020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security guidelines for big data lifecycle management by telecommunication
-    operators
+  content: Security guidelines for big data lifecycle management by telecommunication operators
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1751-202009-I
+  content: https://handle.itu.int/11.1002/1000/14267
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1751-202009-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1751 (09/2020)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1751 analyses security vulnerabilities and establishes
-    security guidelines for big data lifecycle management by telecommunication operators.
-    \r\n\r\nWith rapid development of big data technology, the value of data has substantially
-    increased. Big data bring new opportunities to telecommunication services. Previously,
-    data were siloed and managed independently in different telecommunication service
-    systems. Data aggregation and fusion trends are inevitable with the construction
-    of big data services. In the process of data fusion convergence, data flow on
-    platforms and in-service processes. Data face various security vulnerabilities
-    at different stages of their lifecycle. \r\n\r\nRecommendation ITU-T X.1751 introduces
-    specific characteristics of telecommunication big data services and data categories,
-    analyses security vulnerabilities of big data lifecycle management and specifies
-    security guidelines for telecommunication operators. \r\n"
+  content: "Recommendation ITU-T X.1751 analyses security vulnerabilities and establishes security guidelines for big data lifecycle management by telecommunication operators. \r\n\r\nWith rapid development of big data technology, the value of data has substantially increased. Big data bring new opportunities to telecommunication services. Previously, data were siloed and managed independently in different telecommunication service systems. Data aggregation and fusion trends are inevitable with the construction of big data services. In the process of data fusion convergence, data flow on platforms and in-service processes. Data face various security vulnerabilities at different stages of their lifecycle. \r\n\r\nRecommendation ITU-T X.1751 introduces specific characteristics of telecommunication big data services and data categories, analyses security vulnerabilities of big data lifecycle management and specifies security guidelines for telecommunication operators. \r\n"
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl7031999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.2001: General aspects for the development of unified
-    signalling requirements'
+  content: 'Technical Report TRQ.2001: General aspects for the development of unified signalling requirements'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup7-199903-I
+  content: https://handle.itu.int/11.1002/1000/4728
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup7-199903-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 7 (03/1999)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplement specifies the general aspects for the development of unified
-    signalling requirements. The general aspects are defined in terms of business
-    models, information object models, functional entity models and engineering models.This
-    supplement is intended to specify the essential features and models required to
-    develop functional entity actions for session control, resource control, call
-    control, bearer control and transport control.
+  content: This supplement specifies the general aspects for the development of unified signalling requirements. The general aspects are defined in terms of business models, information object models, functional entity models and engineering models.This supplement is intended to specify the essential features and models required to develop functional entity actions for session control, resource control, call control, bearer control and transport control.
 status:
   stage:
     content: Published

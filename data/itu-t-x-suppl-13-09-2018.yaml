@@ -1,16 +1,16 @@
----
 id: ITUTXSuppl13092018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1051 – Supplement on information security management users' guide
-    for Recommendation ITU-T X.1051
+  content: ITU-T X.1051 – Supplement on information security management users' guide for Recommendation ITU-T X.1051
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup13-201809-I
+  content: https://handle.itu.int/11.1002/1000/13730
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup13-201809-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 13 (09/2018)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement provides interpretable guidance for users of ITU-T X.1051
-    with additional explanations and implementation guidance for each clause and control
-    specified in ITU-T X.1051. This Supplement is intended to assist telecommunications
-    organizations in the implementation of information security controls based on
-    ITU-T X.1051.
+  content: This Supplement provides interpretable guidance for users of ITU-T X.1051 with additional explanations and implementation guidance for each clause and control specified in ITU-T X.1051. This Supplement is intended to assist telecommunications organizations in the implementation of information security controls based on ITU-T X.1051.
 status:
   stage:
     content: Published
@@ -75,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1051 – Supplement on information security management users'
-        guide for Recommendation ITU-T X.1051
+      content: ITU-T X.1051 – Supplement on information security management users' guide for Recommendation ITU-T X.1051
     docidentifier:
     - content: X Suppl. 13 (09/2012)
       type: ITU

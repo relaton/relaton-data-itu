@@ -1,16 +1,16 @@
----
 id: ITUTX2131995Amd2032000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Addition of the authority and format identifier for ITU-T international
-    network designators
+  content: Addition of the authority and format identifier for ITU-T international network designators
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.213-200003-S!Amd2
+  content: https://handle.itu.int/11.1002/1000/5024
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.213-200003-S!Amd2!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.213 (1995) Amd. 2 (03/2000)
   type: ITU
@@ -54,10 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 2 to ITU-T Rec. X.213 | ISO/IEC 8348 defines a new Authority
-    and Format Identifier (AFI) for use when Network Service Access Point (NSAP) addresses
-    and Group Network Addresses (GNAs) are based on International Network Designators
-    assigned by ITU-T in accordance with ITU-T E.191-1.
+  content: Amendment 2 to ITU-T Rec. X.213 | ISO/IEC 8348 defines a new Authority and Format Identifier (AFI) for use when Network Service Access Point (NSAP) addresses and Group Network Addresses (GNAs) are based on International Network Designators assigned by ITU-T in accordance with ITU-T E.191-1.
 status:
   stage:
     content: Withdrawal
@@ -77,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Network service
-        definition
+      content: Information technology – Open Systems Interconnection – Network service definition
     docidentifier:
     - content: X.213 (10/2001)
       type: ITU
@@ -98,8 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Network service
-        definition
+      content: Information technology – Open Systems Interconnection – Network service definition
     docidentifier:
     - content: X.213 (11/1995)
       type: ITU
@@ -109,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Addition of group network addressing and connectionless-mode multicast
-        services
+      content: Addition of group network addressing and connectionless-mode multicast services
     docidentifier:
     - content: X.213 (1992) Amd. 1 (04/1995)
       type: ITU
@@ -128,8 +122,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Network service definition for Opens Systems
-        Interconnection
+      content: Information technology – Network service definition for Opens Systems Interconnection
     docidentifier:
     - content: X.213 (09/1992)
       type: ITU
@@ -139,8 +132,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Network service definition for Open Systems Interconnection for CCITT
-        applications
+      content: Network service definition for Open Systems Interconnection for CCITT applications
     docidentifier:
     - content: X.213 (11/1988)
       type: ITU
@@ -150,8 +142,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Network Service Definition for Open Systems Interconnection (OSI) for
-        CCITT Applications
+      content: Network Service Definition for Open Systems Interconnection (OSI) for CCITT Applications
     docidentifier:
     - content: X.213 (06/1986)
       type: ITU
@@ -161,8 +152,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Network Service Definition for Open Systems Interconnection (OSI) for
-        CCITT Applications
+      content: Network Service Definition for Open Systems Interconnection (OSI) for CCITT Applications
     docidentifier:
     - content: X.213 (10/1984)
       type: ITU

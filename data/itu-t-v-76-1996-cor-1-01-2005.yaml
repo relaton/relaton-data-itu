@@ -1,10 +1,11 @@
----
 id: ITUTV761996Cor1012005
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.76-200501-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/7464
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.76-200501-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.76 (1996) Cor. 1 (01/2005)
   type: ITU
@@ -45,9 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This corrigendum addresses corrections and clarifications in ITU-T Rec.
-    V.76 (1996) concerning CRC calculation when using suspend/resume, N401 timer value
-    and reuse of DLCI values.
+  content: This corrigendum addresses corrections and clarifications in ITU-T Rec. V.76 (1996) concerning CRC calculation when using suspend/resume, N401 timer value and reuse of DLCI values.
 status:
   stage:
     content: Published

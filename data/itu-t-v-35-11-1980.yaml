@@ -1,13 +1,14 @@
----
 id: ITUTV35111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Data transmission at 48 kilobits per second using 60-108 kHz group band
-    circuits
+  content: Data transmission at 48 kilobits per second using 60-108 kHz group band circuits
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/8421
 docidentifier:
 - content: ITU-T V.35 (11/1980)
   type: ITU
@@ -72,8 +73,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Data transmission at 48 kilobits per second using 60- 108 kHz group
-        band circuits
+      content: Data transmission at 48 kilobits per second using 60- 108 kHz group band circuits
     docidentifier:
     - content: V.35 (10/1976)
       type: ITU

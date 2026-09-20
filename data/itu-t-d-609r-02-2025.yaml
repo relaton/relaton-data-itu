@@ -1,4 +1,3 @@
----
 id: ITUTD609R022025
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.609R-202502-I
+  content: https://handle.itu.int/11.1002/1000/15895
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.609R-202502-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.609R (02/2025)
   type: ITU
@@ -50,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Regional Recommendation ITU-T D.609R provides guidelines for determining
-    the size of fees associated with authorizations/licences.\r\n"
+  content: "Regional Recommendation ITU-T D.609R provides guidelines for determining the size of fees associated with authorizations/licences.\r\n"
 status:
   stage:
     content: Published
@@ -91,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing
-        national tariffs
+      content: Handbook on the methodology for determining costs and establishing national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

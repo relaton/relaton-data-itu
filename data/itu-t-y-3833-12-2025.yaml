@@ -1,4 +1,3 @@
----
 id: ITUTY3833122025
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3833-202512-I
+  content: https://handle.itu.int/11.1002/1000/16626
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3833-202512-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3833 (12/2025)
   type: ITU
@@ -50,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3833 specifies the quantum key distribution network
-    (QKDN) dependability assessment conceptual model, indicators and dependability
-    assessment process.\r\nWith the increasing services supported by QKDN, and various
-    requirements for the interoperation and coordination between QKDN and the corresponding
-    user networks, it is urgent to discuss QKDN's robustness and carry out the necessary
-    standardization works.\r\nQKDN users expect a continuously stable keys supply
-    supported by QKDN, which brings strict requirements for robust QKDN operation.
-    Network dependability assessment of QKDN is to evaluate the availability performance
-    and its influencing factors, such as reliability, maintainability of network functions
-    and components, quality of connections, so as to avoid destructive failures in
-    QKDN. Besides, it can improve the level of effectiveness, precision, and automation
-    of the QKDN management in QKDN operation and maintenance.\r\n\r\n"
+  content: "Recommendation ITU-T Y.3833 specifies the quantum key distribution network (QKDN) dependability assessment conceptual model, indicators and dependability assessment process.\r\nWith the increasing services supported by QKDN, and various requirements for the interoperation and coordination between QKDN and the corresponding user networks, it is urgent to discuss QKDN's robustness and carry out the necessary standardization works.\r\nQKDN users expect a continuously stable keys supply supported by QKDN, which brings strict requirements for robust QKDN operation. Network dependability assessment of QKDN is to evaluate the availability performance and its influencing factors, such as reliability, maintainability of network functions and components, quality of connections, so as to avoid destructive failures in QKDN. Besides, it can improve the level of effectiveness, precision, and automation of the QKDN management in QKDN operation and maintenance.\r\n\r\n"
 status:
   stage:
     content: Published
@@ -101,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -112,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications
-        of machine learning
+      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications of machine learning
     docidentifier:
     - content: Y Suppl. 70 (07/2021)
       type: ITU
@@ -143,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution
-        networks
+      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 74 (03/2023)
       type: ITU
@@ -154,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -165,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end
-        cryptographic services with non-quantum cryptography
+      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end cryptographic services with non-quantum cryptography
     docidentifier:
     - content: Y Suppl. 79 (11/2023)
       type: ITU
@@ -186,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -197,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -218,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -259,8 +241,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum
-        key distribution networks
+      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 100 (02/2026)
       type: ITU

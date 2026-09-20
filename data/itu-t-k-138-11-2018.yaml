@@ -1,16 +1,16 @@
----
 id: ITUTK138112018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Quality estimation methods and application guidelines for mitigation measures
-    based on particle radiation tests
+  content: Quality estimation methods and application guidelines for mitigation measures based on particle radiation tests
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.138-201811-S
+  content: https://handle.itu.int/11.1002/1000/13717
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.138-201811-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.138 (11/2018)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes the reliability estimation methods based
-    on the results of a neutron irradiation test taking into account the severity
-    of the effect caused by soft errors. The soft error rate in the natural environment
-    has to be calculated from the number of soft errors that occur during a neutron
-    irradiation test. The severity of the impact of a soft error on telecommunications
-    systems, such as the impact on the client signal and control system is analysed
-    from the error logs created during the test. \r\n\r\nAdditional mitigation measures
-    should be applied if the equipment is less reliable than the target level. This
-    Recommendation also provides guidelines for applying these mitigation measures
-    in light of the results of soft error tests.\r\n"
+  content: "This Recommendation describes the reliability estimation methods based on the results of a neutron irradiation test taking into account the severity of the effect caused by soft errors. The soft error rate in the natural environment has to be calculated from the number of soft errors that occur during a neutron irradiation test. The severity of the impact of a soft error on telecommunications systems, such as the impact on the client signal and control system is analysed from the error logs created during the test. \r\n\r\nAdditional mitigation measures should be applied if the equipment is less reliable than the target level. This Recommendation also provides guidelines for applying these mitigation measures in light of the results of soft error tests.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Quality estimation methods and application guidelines for mitigation
-        measures based on particle radiation tests
+      content: Quality estimation methods and application guidelines for mitigation measures based on particle radiation tests
     docidentifier:
     - content: K.138 (01/2022)
       type: ITU
@@ -91,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -112,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -123,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -134,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -145,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -176,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

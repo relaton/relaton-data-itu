@@ -1,16 +1,16 @@
----
 id: ITUTX691112008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – ASN.1 encoding rules: Specification of Packed
-    Encoding Rules (PER)'
+  content: 'Information technology – ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.691-200811-S
+  content: https://handle.itu.int/11.1002/1000/9609
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.691-200811-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.691 (11/2008)
   type: ITU
@@ -54,10 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes a set of encoding
-    rules that can be applied to values of all ASN.1 types to achieve a much more
-    compact representation than that achieved by the Basic Encoding Rules and its
-    derivatives (described in ITU-T Rec. X.690 | ISO/IEC 8825-1).
+  content: This Recommendation | International Standard describes a set of encoding rules that can be applied to values of all ASN.1 types to achieve a much more compact representation than that achieved by the Basic Encoding Rules and its derivatives (described in ITU-T Rec. X.690 | ISO/IEC 8825-1).
 status:
   stage:
     content: Withdrawal
@@ -77,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: Specification of Packed
-        Encoding Rules (PER)'
+      content: 'Information technology - ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
     docidentifier:
     - content: X.691 (02/2021)
       type: ITU
@@ -96,8 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Packed
-        Encoding Rules (PER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
     docidentifier:
     - content: X.691 (08/2015)
       type: ITU
@@ -193,8 +188,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Packed
-        Encoding Rules (PER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
     docidentifier:
     - content: X.691 (07/2002)
       type: ITU
@@ -238,8 +232,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Packed
-        Encoding Rules (PER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
     docidentifier:
     - content: X.691 (12/1997)
       type: ITU
@@ -265,8 +258,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – ASN.1 encoding rules – Specification of Packed
-        Encoding Rules (PER)
+      content: Information technology – ASN.1 encoding rules – Specification of Packed Encoding Rules (PER)
     docidentifier:
     - content: X.691 (04/1995)
       type: ITU

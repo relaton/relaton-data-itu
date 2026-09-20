@@ -1,17 +1,16 @@
----
 id: ITUTV22bis111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 2400 bits per second duplex modem using the frequency division technique
-    standardized for use on the general switched telephone network and on point-to-point
-    2-wire leased telephone-type circuits
+  content: 2400 bits per second duplex modem using the frequency division technique standardized for use on the general switched telephone network and on point-to-point 2-wire leased telephone-type circuits
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.22bis-198811-I
+  content: https://handle.itu.int/11.1002/1000/2733
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.22bis-198811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.22 bis (11/1988)
   type: ITU
@@ -71,9 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 2400 bits per second duplex modem using the frequency division technique
-        standardized for use on the general switched telephone network and on point-to-point
-        2-wire leased telephone-type circuits
+      content: 2400 bits per second duplex modem using the frequency division technique standardized for use on the general switched telephone network and on point-to-point 2-wire leased telephone-type circuits
     docidentifier:
     - content: V.22 bis (10/1984)
       type: ITU

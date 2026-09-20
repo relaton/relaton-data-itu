@@ -1,16 +1,16 @@
----
 id: ITUTE1120022025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Assignment procedures for international telecommunication numbering, naming,
-    addressing and identification (NNAI) resources
+  content: Assignment procedures for international telecommunication numbering, naming, addressing and identification (NNAI) resources
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.1120-202502-I
+  content: https://handle.itu.int/11.1002/1000/15520
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.1120-202502-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.1120 (02/2025)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T E.1120 specifies procedures to be used by an applicant,
-    the Director of the Telecommunication Standardization Bureau (TSB) and the appropriate
-    ITU-T Study Group1 (currently ITU-T SG2), for the assignment of:\r\n–ITU-T E.164
-    identification codes (ICs) associated within the shared country codes (CCs) for
-    the networks category of ITU-T E.164, whose combination is designated CC + IC.\r\n–ITU-T
-    E.212 shared mobile country codes for networks and their respective mobile network
-    codes.\r\n–ITU-T E.118.1 assigned global issuer identifier numbers (IINs).\r\n–ITU-T
-    E.218 shared terrestrial trunk radio access mobile network codes.\r\n"
+  content: "Recommendation ITU-T E.1120 specifies procedures to be used by an applicant, the Director of the Telecommunication Standardization Bureau (TSB) and the appropriate ITU-T Study Group1 (currently ITU-T SG2), for the assignment of:\r\n–ITU-T E.164 identification codes (ICs) associated within the shared country codes (CCs) for the networks category of ITU-T E.164, whose combination is designated CC + IC.\r\n–ITU-T E.212 shared mobile country codes for networks and their respective mobile network codes.\r\n–ITU-T E.118.1 assigned global issuer identifier numbers (IINs).\r\n–ITU-T E.218 shared terrestrial trunk radio access mobile network codes.\r\n"
 status:
   stage:
     content: Published
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.1100-series – Operational aspects for the implementation of
-        ITU-T E.164 country code 888
+      content: ITU-T E.1100-series – Operational aspects for the implementation of ITU-T E.164 country code 888
     docidentifier:
     - content: E.1100 series Suppl. 1 (03/2012)
       type: ITU
@@ -89,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTH323072003
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.323-200307-S
+  content: https://handle.itu.int/11.1002/1000/6465
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.323-200307-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.323 (07/2003)
   type: ITU
@@ -50,57 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes terminals and other entities that provide
-    multimedia communications services over Packet Based Networks (PBN) which may
-    not provide a guaranteed Quality of Service. H.323 entities may provide real-time
-    audio, video and/or data communications. Support for audio is mandatory, while
-    data and video are optional, but if supported, the ability to use a specified
-    common mode of operation is required, so that all terminals supporting that media
-    type can interwork.\r\nThe packet based network over which H.323 entities communicate
-    may be a point-to-point connection, a single network segment, or an internetwork
-    having multiple segments with complex topologies.\r\nH.323 entities may be used
-    in point-to-point, multipoint, or broadcast (as described in ITU T Rec. H.332)
-    configurations. They may interwork with H.310 terminals on B-ISDN, H.320 terminals
-    on N-ISDN, H.321 terminals on B-ISDN, H.322 terminals on Guaranteed Quality of
-    Service LANs, H.324 terminals on GSTN and wireless networks, V.70 terminals on
-    GSTN, and voice terminals on GSTN or ISDN through the use of Gateways.\r\nH.323
-    entities may be integrated into personal computers or implemented in stand-alone
-    devices such as videotelephones.\r\nNote that the title of H.323 (1996) was \"Visual
-    telephone systems and equipment for local area networks which provide a non-guaranteed
-    quality of service\". The title changed in Version 2 to be consistent with its
-    expanded scope.\r\nProducts claiming compliance with Version 1 of H.323 shall
-    comply with all of the mandatory requirements of H.323 (1996) which references
-    ITU T Recs H.225.0 (1996) and H.245 (1997). Version 1 products shall be identified
-    by H.225.0 messages containing a protocolIdentifier = {itu-t (0) recommendation
-    (0) h (8) 2250 version (0) 1} and H.245 messages containing a protocolIdentifier
-    = {itu-t (0) recommendation (0) h (8) 245 version (0) 2}.\r\nProducts claiming
-    compliance with Version 2 of H.323 shall comply with all of the mandatory requirements
-    of this Recommendation, H.323 (1998), which references ITU T Recs H.225.0 (1998)
-    and H.245 (1998 or later). Version 2 products shall be identified by H.225.0 messages
-    containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 2250 version
-    (0) 2} and H.245 messages containing a protocolIdentifier = {itu-t (0) recommendation
-    (0) h (8) 245 version (0) x}, where \"x\" is 3 or higher.\r\nProducts claiming
-    compliance with Version 3 of H.323 shall comply with all of the mandatory requirements
-    of this Recommendation, H.323 (1999), which references ITU T Recs H.225.0 (1999)
-    and H.245 (1999 or later). Version 3 products shall be identified by H.225.0 messages
-    containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 2250 version
-    (0) 3} and H.245 messages containing a protocolIdentifier = {itu-t (0) recommendation
-    (0) h (8) 245 version (0) x}, where \"x\" is 5 or higher.\r\nProducts claiming
-    compliance with Version 4 of H.323 shall comply with all of the mandatory requirements
-    of this Recommendation, H.323 (2000), which references ITU T Recs H.225.0 (2000)
-    and H.245 (2000 or later). Version 4 products shall be identified by H.225.0 messages
-    containing a protocolIdentifier = {itu t (0) recommendation (0) h (8) 2250 version
-    (0) 4} and H.245 messages containing a protocolIdentifier = {itu-t (0) recommendation
-    (0) h (8) 245 version (0) x}, where \"x\" is 7 or higher.\r\nProducts claiming
-    compliance with Version 5 of H.323 shall comply with all of the mandatory requirements
-    of this Recommendation, H.323 (2003), which references ITU-T Recs H.225.0 (2003)
-    and H.245 (02/2003 or later). Version 5 products shall be identified by H.225.0
-    messages containing a protocolIdentifier = {itu t (0) recommendation (0) h (8)
-    2250 version (0) 5} and H.245 messages containing a protocolIdentifier = {itu-t
-    (0) recommendation (0) h (8) 245 version (0) x}, where \"x\" is 9 or higher.\r\nThis
-    version of ITU-T Rec. H.323 integrates without further modifications Annexes M3
-    (07/2001), P (01/2003), Q (07/2001) and R (07/2001), as well as Annex O, approved
-    independently 07/2003.\r\n"
+  content: "This Recommendation describes terminals and other entities that provide multimedia communications services over Packet Based Networks (PBN) which may not provide a guaranteed Quality of Service. H.323 entities may provide real-time audio, video and/or data communications. Support for audio is mandatory, while data and video are optional, but if supported, the ability to use a specified common mode of operation is required, so that all terminals supporting that media type can interwork.\r\nThe packet based network over which H.323 entities communicate may be a point-to-point connection, a single network segment, or an internetwork having multiple segments with complex topologies.\r\nH.323 entities may be used in point-to-point, multipoint, or broadcast (as described in ITU T Rec. H.332) configurations. They may interwork with H.310 terminals on B-ISDN, H.320 terminals on N-ISDN, H.321 terminals on B-ISDN, H.322 terminals on Guaranteed Quality of Service LANs, H.324 terminals on GSTN and wireless networks, V.70 terminals on GSTN, and voice terminals on GSTN or ISDN through the use of Gateways.\r\nH.323 entities may be integrated into personal computers or implemented in stand-alone devices such as videotelephones.\r\nNote that the title of H.323 (1996) was \"Visual telephone systems and equipment for local area networks which provide a non-guaranteed quality of service\". The title changed in Version 2 to be consistent with its expanded scope.\r\nProducts claiming compliance with Version 1 of H.323 shall comply with all of the mandatory requirements of H.323 (1996) which references ITU T Recs H.225.0 (1996) and H.245 (1997). Version 1 products shall be identified by H.225.0 messages containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 2250 version (0) 1} and H.245 messages containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 245 version (0) 2}.\r\nProducts claiming compliance with Version 2 of H.323 shall comply with all of the mandatory requirements of this Recommendation, H.323 (1998), which references ITU T Recs H.225.0 (1998) and H.245 (1998 or later). Version 2 products shall be identified by H.225.0 messages containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 2250 version (0) 2} and H.245 messages containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 245 version (0) x}, where \"x\" is 3 or higher.\r\nProducts claiming compliance with Version 3 of H.323 shall comply with all of the mandatory requirements of this Recommendation, H.323 (1999), which references ITU T Recs H.225.0 (1999) and H.245 (1999 or later). Version 3 products shall be identified by H.225.0 messages containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 2250 version (0) 3} and H.245 messages containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 245 version (0) x}, where \"x\" is 5 or higher.\r\nProducts claiming compliance with Version 4 of H.323 shall comply with all of the mandatory requirements of this Recommendation, H.323 (2000), which references ITU T Recs H.225.0 (2000) and H.245 (2000 or later). Version 4 products shall be identified by H.225.0 messages containing a protocolIdentifier = {itu t (0) recommendation (0) h (8) 2250 version (0) 4} and H.245 messages containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 245 version (0) x}, where \"x\" is 7 or higher.\r\nProducts claiming compliance with Version 5 of H.323 shall comply with all of the mandatory requirements of this Recommendation, H.323 (2003), which references ITU-T Recs H.225.0 (2003) and H.245 (02/2003 or later). Version 5 products shall be identified by H.225.0 messages containing a protocolIdentifier = {itu t (0) recommendation (0) h (8) 2250 version (0) 5} and H.245 messages containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 245 version (0) x}, where \"x\" is 9 or higher.\r\nThis version of ITU-T Rec. H.323 integrates without further modifications Annexes M3 (07/2001), P (01/2003), Q (07/2001) and R (07/2001), as well as Annex O, approved independently 07/2003.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -160,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex M4 – Tunnelling of narrowband signalling syntax (NSS) for
-        H.323
+      content: New Annex M4 – Tunnelling of narrowband signalling syntax (NSS) for H.323
     docidentifier:
     - content: H.323 (2003) Amd. 2 (01/2005)
       type: ITU
@@ -171,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex D – Real-time facsimile over H.323 systems: Transport
-        of facsimile signals using RTP'
+      content: 'Revised Annex D – Real-time facsimile over H.323 systems: Transport of facsimile signals using RTP'
     docidentifier:
     - content: H.323 (2003) Amd. 1 (01/2005)
       type: ITU
@@ -320,8 +269,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Visual telephone systems and equipment for local area networks which
-        provide a non-guaranteed quality of service
+      content: Visual telephone systems and equipment for local area networks which provide a non-guaranteed quality of service
     docidentifier:
     - content: H.323 (11/1996)
       type: ITU
@@ -341,9 +289,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -373,8 +319,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -384,8 +329,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -395,8 +339,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -406,8 +349,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -427,8 +369,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -458,8 +399,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

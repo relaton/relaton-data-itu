@@ -1,16 +1,16 @@
----
 id: ITUTH2250091999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Call signalling protocols and media stream packetization for packet-based
-    multimedia communication systems
+  content: Call signalling protocols and media stream packetization for packet-based multimedia communication systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.225.0-199909-S
+  content: https://handle.itu.int/11.1002/1000/4762
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.225.0-199909-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.225.0 (09/1999)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation covers the technical requirements for narrow-band
-    visual telephone services defined in H.200/AV.120-series Recommendations. In situations
-    where the transmission path includes one or more packet-based networks, each of
-    which is configured and managed to provide a non-guaranteed Quality of Service
-    (QOS) which is not equivalent to that of N-ISDN, additional protection or recovery
-    mechanisms, beyond those mandated by Recommendation H.320, need to be provided
-    in the terminals. It is noted that Recommendation H.322 addresses the use of some
-    other LANs which are able to provide the underlying performance not assumed by
-    the H.323/H.225.0\r\nRecommendations.\r\nThis Recommendation describes how audio,
-    video, data, and control information on a packet-based network can be managed
-    to provide conversational services in H.323 equipment."
+  content: "This Recommendation covers the technical requirements for narrow-band visual telephone services defined in H.200/AV.120-series Recommendations. In situations where the transmission path includes one or more packet-based networks, each of which is configured and managed to provide a non-guaranteed Quality of Service (QOS) which is not equivalent to that of N-ISDN, additional protection or recovery mechanisms, beyond those mandated by Recommendation H.320, need to be provided in the terminals. It is noted that Recommendation H.322 addresses the use of some other LANs which are able to provide the underlying performance not assumed by the H.323/H.225.0\r\nRecommendations.\r\nThis Recommendation describes how audio, video, data, and control information on a packet-based network can be managed to provide conversational services in H.323 equipment."
 status:
   stage:
     content: Withdrawal
@@ -81,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Call signalling protocols and media stream packetization for packet-based
-        multimedia communication systems
+      content: Call signalling protocols and media stream packetization for packet-based multimedia communication systems
     docidentifier:
     - content: H.225.0 (V8) (03/2022)
       type: ITU
@@ -102,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Call signalling protocols and media stream packetization for packet-based
-        multimedia communication systems
+      content: Call signalling protocols and media stream packetization for packet-based multimedia communication systems
     docidentifier:
     - content: H.225.0 (12/2009)
       type: ITU
@@ -113,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Updating connected party information after third party pause and re-routing
-        and procedures related to echo control
+      content: Updating connected party information after third party pause and re-routing and procedures related to echo control
     docidentifier:
     - content: H.225.0 (2006) Amd. 1 (01/2007)
       type: ITU
@@ -124,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Call signalling protocols and media stream packetization for packet-based
-        multimedia communication systems
+      content: Call signalling protocols and media stream packetization for packet-based multimedia communication systems
     docidentifier:
     - content: H.225.0 (05/2006)
       type: ITU
@@ -135,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Call signalling protocols and media stream packetization for packet-based
-        multimedia communication systems
+      content: Call signalling protocols and media stream packetization for packet-based multimedia communication systems
     docidentifier:
     - content: H.225.0 (07/2003)
       type: ITU
@@ -156,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Call signalling protocols and media stream packetization for packet-based
-        multimedia communication systems
+      content: Call signalling protocols and media stream packetization for packet-based multimedia communication systems
     docidentifier:
     - content: H.225.0 (11/2000)
       type: ITU
@@ -187,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Call signalling protocols and media stream packetization for packet-based
-        multimedia communication systems
+      content: Call signalling protocols and media stream packetization for packet-based multimedia communication systems
     docidentifier:
     - content: H.225.0 (02/1998)
       type: ITU
@@ -198,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Media stream packetization and synchronization on non-guaranteed quality
-        of service LANs
+      content: Media stream packetization and synchronization on non-guaranteed quality of service LANs
     docidentifier:
     - content: H.225.0 (11/1996)
       type: ITU
@@ -219,9 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -241,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -252,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -263,8 +241,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -274,8 +251,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -295,8 +271,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -326,8 +301,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

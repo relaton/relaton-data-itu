@@ -1,16 +1,16 @@
----
 id: ITUTH2461998Amd1092005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Usage of H.243 multipoint control messages and support for Unicode characters
-    in H.320 systems
+  content: Usage of H.243 multipoint control messages and support for Unicode characters in H.320 systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.246-200509-S!Amd1
+  content: https://handle.itu.int/11.1002/1000/8569
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.246-200509-S!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.246 (1998) Amd. 1 (09/2005)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Rec. H.246 describes gateways which provide protocol interworking
-    between H-Series multimedia terminals and other H-Series multimedia terminals,
-    voice/voiceband terminals on GSTN or ISDN, V.70 terminals on the GSTN, and multi-call
-    applications on the GSTN. H.246 gateways provide the required translation of control
-    and media streams to allow interworking between terminals running different protocols.This
-    Amendment 1 revises Annex A/H.246 (H.323-H.320 interworking) and introduces some
-    editorial changes in the main body of the Recommendation. It introduces a number
-    of enhancements and clarifications to the previous version, primarily the description
-    on the usage of H.243 multipoint control messages and Unicode characters in H.32x
-    systems.
+  content: ITU-T Rec. H.246 describes gateways which provide protocol interworking between H-Series multimedia terminals and other H-Series multimedia terminals, voice/voiceband terminals on GSTN or ISDN, V.70 terminals on the GSTN, and multi-call applications on the GSTN. H.246 gateways provide the required translation of control and media streams to allow interworking between terminals running different protocols.This Amendment 1 revises Annex A/H.246 (H.323-H.320 interworking) and introduces some editorial changes in the main body of the Recommendation. It introduces a number of enhancements and clarifications to the previous version, primarily the description on the usage of H.243 multipoint control messages and Unicode characters in H.32x systems.
 status:
   stage:
     content: Withdrawal
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Mapping of user priority level and country/international network of
-        call origination between H.225 and ISUP
+      content: Mapping of user priority level and country/international network of call origination between H.225 and ISUP
     docidentifier:
     - content: H.246 (2006) Amd. 1 (01/2007)
       type: ITU
@@ -91,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interworking of H-series multimedia terminals with H-series multimedia
-        terminals and voice/voiceband terminals on GSTN, ISDN and PLMN
+      content: Interworking of H-series multimedia terminals with H-series multimedia terminals and voice/voiceband terminals on GSTN, ISDN and PLMN
     docidentifier:
     - content: H.246 (05/2006)
       type: ITU
@@ -152,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interworking of H-series multimedia terminals with H-series multimedia
-        terminals and voice/voiceband terminals on GSTN and ISDN
+      content: Interworking of H-series multimedia terminals with H-series multimedia terminals and voice/voiceband terminals on GSTN and ISDN
     docidentifier:
     - content: H.246 (02/1998)
       type: ITU
@@ -173,9 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -195,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -206,8 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -217,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -228,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -249,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -280,8 +261,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

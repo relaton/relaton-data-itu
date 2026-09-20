@@ -1,10 +1,11 @@
----
 id: ITUTX7121992TechnicalCor1101996
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.712-199610-I!Crs
+  content: https://handle.itu.int/11.1002/1000/3777
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.712-199610-I!Crs!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.712 (1992) Technical Cor. 1 (10/1996)
   type: ITU
@@ -83,9 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Common management
-        information protocol: Protocol Implementation Conformance Statement (PICS)
-        proforma'
+      content: 'Information technology – Open Systems Interconnection – Common management information protocol: Protocol Implementation Conformance Statement (PICS) proforma'
     docidentifier:
     - content: X.712 (09/1992)
       type: ITU

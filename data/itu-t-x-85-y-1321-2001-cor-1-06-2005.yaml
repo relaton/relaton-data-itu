@@ -1,10 +1,11 @@
----
 id: ITUTX85Y13212001Cor1062005
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.85-200506-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/8533
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.85-200506-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.85/Y.1321 (2001) Cor. 1 (06/2005)
   type: ITU
@@ -45,8 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This corrigendum to ITU-T Rec. X.85/Y.1321 specifies a revision of the
-    computation of 32/16-bit FCS.
+  content: This corrigendum to ITU-T Rec. X.85/Y.1321 specifies a revision of the computation of 32/16-bit FCS.
 status:
   stage:
     content: Published

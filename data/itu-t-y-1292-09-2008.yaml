@@ -1,16 +1,16 @@
----
 id: ITUTY1292092008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Customizable IP networks (CIP): Framework for the requirements and capabilities
-    related to the customization of IP service networks by customers'
+  content: 'Customizable IP networks (CIP): Framework for the requirements and capabilities related to the customization of IP service networks by customers'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1292-200809-I
+  content: https://handle.itu.int/11.1002/1000/9533
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1292-200809-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1292 (09/2008)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Y.1292 describes the framework for requirements and
-    capabilities to enable the customization of IP networks and related IP service
-    and IP transfer capability to meet the customer's needs. Such a framework includes
-    the service requirements and functional requirements and capabilities as well
-    as the architectural considerations.In addition, this Recommendation identifies
-    the application scenarios and service procedures applicable to the context of
-    customization using the capabilities made available to and/or performed by the
-    customer of IP services.
+  content: Recommendation ITU-T Y.1292 describes the framework for requirements and capabilities to enable the customization of IP networks and related IP service and IP transfer capability to meet the customer's needs. Such a framework includes the service requirements and functional requirements and capabilities as well as the architectural considerations.In addition, this Recommendation identifies the application scenarios and service procedures applicable to the context of customization using the capabilities made available to and/or performed by the customer of IP services.
 status:
   stage:
     content: Published
@@ -98,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -109,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -120,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

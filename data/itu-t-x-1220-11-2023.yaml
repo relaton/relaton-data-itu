@@ -1,4 +1,3 @@
----
 id: ITUTX1220112023
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1220-202311-I
+  content: https://handle.itu.int/11.1002/1000/15709
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1220-202311-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1220 (11/2023)
   type: ITU
@@ -50,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1220 provides a framework for the protection of
-    storage against malware attacks on hosts, which bypass network protection and
-    endpoint protection. The framework also considers attacks caused by human errors
-    or social engineering. The framework consists of a host and a storage protection
-    server. The storage protection server works separately from the host, stores data
-    in the storage, and provides a network drive to the host.\r\nWhen an application
-    on the host requests data, the storage protection server provides real data or
-    fake data depending on whether the application is listed or not in a pre-registered
-    application list that is managed on the storage protection server with the objective
-    of protecting data in the storage against malware attacks that encrypt, tamper,
-    or steal data. The storage protection server allows pre-registered applications
-    to create, modify or delete data in the storage while preventing other applications
-    from performing those operations. It provides pre-registered applications with
-    read-write access to real data from the storage, and non-registered applications
-    with read-only access to fake data. In addition, there is synergy if the framework
-    is applied together with network protection and endpoint protection, as they provide
-    different types of protection.\r\n"
+  content: "Recommendation ITU-T X.1220 provides a framework for the protection of storage against malware attacks on hosts, which bypass network protection and endpoint protection. The framework also considers attacks caused by human errors or social engineering. The framework consists of a host and a storage protection server. The storage protection server works separately from the host, stores data in the storage, and provides a network drive to the host.\r\nWhen an application on the host requests data, the storage protection server provides real data or fake data depending on whether the application is listed or not in a pre-registered application list that is managed on the storage protection server with the objective of protecting data in the storage against malware attacks that encrypt, tamper, or steal data. The storage protection server allows pre-registered applications to create, modify or delete data in the storage while preventing other applications from performing those operations. It provides pre-registered applications with read-write access to real data from the storage, and non-registered applications with read-only access to fake data. In addition, there is synergy if the framework is applied together with network protection and endpoint protection, as they provide different types of protection.\r\n"
 status:
   stage:
     content: Published

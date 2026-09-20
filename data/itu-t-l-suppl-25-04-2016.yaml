@@ -1,16 +1,16 @@
----
 id: ITUTLSuppl25042016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T L.1502 - Best practices for infrastructure adaptation to climate
-    change
+  content: ITU-T L.1502 - Best practices for infrastructure adaptation to climate change
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup25-201604-I
+  content: https://handle.itu.int/11.1002/1000/12893
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup25-201604-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 25 (04/2016)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Supplement provides general principles and illustrates best practices
-    on how ICT infrastructure can be adapted to cope with the effects of climate change.\r\n\r\nExamples
-    cited provide countermeasures to climate vulnerabilities identified in the Checklist
-    in Recommendation L.1502. These are: temperature rise, humidity,     wind loading,
-    sea level rise, rainfall, floods, landslides, snow and ice fall, lightning strike
-    and species damage.\r\n\r\nContinuity of electric power supply is an important
-    consideration in the event of electric grid failure, or failure of any other primary
-    source of power. Functions that before were all in the same local system will
-    have some of their functions possibly located hundreds kilometres away, in a data
-    centre. Such data centres may belong to services other than telecommunications.
-    This will pose new challenges to primary service availability and continuity in
-    case of occurrence of extreme events such as loss of power.\r\n"
+  content: "This Supplement provides general principles and illustrates best practices on how ICT infrastructure can be adapted to cope with the effects of climate change.\r\n\r\nExamples cited provide countermeasures to climate vulnerabilities identified in the Checklist in Recommendation L.1502. These are: temperature rise, humidity,     wind loading, sea level rise, rainfall, floods, landslides, snow and ice fall, lightning strike and species damage.\r\n\r\nContinuity of electric power supply is an important consideration in the event of electric grid failure, or failure of any other primary source of power. Functions that before were all in the same local system will have some of their functions possibly located hundreds kilometres away, in a data centre. Such data centres may belong to services other than telecommunications. This will pose new challenges to primary service availability and continuity in case of occurrence of extreme events such as loss of power.\r\n"
 status:
   stage:
     content: Published

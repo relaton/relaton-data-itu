@@ -1,16 +1,16 @@
----
 id: ITUTV42032002
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Error-correcting procedures for DCEs using asynchronous-to-synchronous
-    conversion
+  content: Error-correcting procedures for DCEs using asynchronous-to-synchronous conversion
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.42-200203-I
+  content: https://handle.itu.int/11.1002/1000/5692
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.42-200203-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.42 (03/2002)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes error-correcting protocols for use with V-series
-    duplex DCEs to accept start-stop data from the DTE and transmit in synchronous
-    mode. This Recommendation contains and HDLC-based protocol referred to as the
-    Link Access Procedure for Modems (LAPM). This revised version of the Recommendation
-    adds the capability for suspension and resumption of error correction in support
-    of the V.92 modem-on-hold feature. The negotiation parameters for V.44 data compression
-    are added for reference. This revision also gives guidance on the use of answerer
-    detection patterns in a new Appendix VI. Annex A and Appendix V of the previous
-    versions are now deleted in the 2002 revision. The remaining annex and appendixes
-    have not been renumbered.
+  content: This Recommendation describes error-correcting protocols for use with V-series duplex DCEs to accept start-stop data from the DTE and transmit in synchronous mode. This Recommendation contains and HDLC-based protocol referred to as the Link Access Procedure for Modems (LAPM). This revised version of the Recommendation adds the capability for suspension and resumption of error correction in support of the V.92 modem-on-hold feature. The negotiation parameters for V.44 data compression are added for reference. This revision also gives guidance on the use of answerer detection patterns in a new Appendix VI. Annex A and Appendix V of the previous versions are now deleted in the 2002 revision. The remaining annex and appendixes have not been renumbered.
 status:
   stage:
     content: Published
@@ -88,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Additional information for V.42 implementers regarding answerer detection
-        patterns
+      content: Additional information for V.42 implementers regarding answerer detection patterns
     docidentifier:
     - content: V.42 App. VI (11/2000)
       type: ITU
@@ -99,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous
-        conversion
+      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous conversion
     docidentifier:
     - content: V.42 (10/1996)
       type: ITU
@@ -110,8 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous
-        conversion
+      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous conversion
     docidentifier:
     - content: V.42 (03/1993)
       type: ITU
@@ -121,8 +109,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous
-        conversion
+      content: Error-correcting procedures for DCEs using asynchronous-to-synchronous conversion
     docidentifier:
     - content: V.42 (11/1988)
       type: ITU

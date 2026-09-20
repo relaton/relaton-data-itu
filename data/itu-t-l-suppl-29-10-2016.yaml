@@ -1,16 +1,16 @@
----
 id: ITUTLSuppl29102016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T L.1700 – Low-cost sustainable telecommunication for rural communications
-    in developing countries using cellular radio technologies
+  content: ITU-T L.1700 – Low-cost sustainable telecommunication for rural communications in developing countries using cellular radio technologies
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup29-201610-I
+  content: https://handle.itu.int/11.1002/1000/13152
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup29-201610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 29 (10/2016)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Supplement identifies a low-cost sustainable solution using cellular
-    radio technologies consisting of base station system and backhaul for potential
-    users of digital services in remote or rural areas. '
+  content: 'This Supplement identifies a low-cost sustainable solution using cellular radio technologies consisting of base station system and backhaul for potential users of digital services in remote or rural areas. '
 status:
   stage:
     content: Published

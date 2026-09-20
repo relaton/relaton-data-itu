@@ -1,16 +1,16 @@
----
 id: ITUTX1450102018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines on hybrid authentication and key management mechanisms in the
-    client-server model
+  content: Guidelines on hybrid authentication and key management mechanisms in the client-server model
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1450-201810-I
+  content: https://handle.itu.int/11.1002/1000/13729
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1450-201810-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1450 (10/2018)
   type: ITU
@@ -51,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Client and server are often asymmetric regarding security credential management.
-    Since in most cases there are many clients and a few servers, server credentials
-    are distributed and managed with relatively low cost, but client credentials are
-    apparently not. As most mobile services increasingly communicate security and
-    privacy sensitive data, industry need to provide secure channel in client-server
-    model using secure yet cost-effective methods addressing such asymmetric security
-    requirements.\r\n\r\nPasswords could be effective in terms of client credential
-    management, and guidelines such as [ITU‑T X.1151] are available for password-authenticated
-    key exchange protocols. When client credentials are compromised, however, the
-    adversary could impersonate not only clients but also service providers. Such
-    server impersonation attacks could be mitigated by using public key techniques
-    for server authentication with low credential management cost. \r\n\r\nRecommendation
-    ITU-T X.1450 provides guidelines for hybrid authentication and key exchange mechanisms
-    in the client-server model. The underlying mechanism suggests the use of shared
-    secrets and public key techniques for authentication and key exchange. This Recommendation
-    covers service scenarios, and security threats and methods to mitigate such attacks.
-    \r\n"
+  content: "Client and server are often asymmetric regarding security credential management. Since in most cases there are many clients and a few servers, server credentials are distributed and managed with relatively low cost, but client credentials are apparently not. As most mobile services increasingly communicate security and privacy sensitive data, industry need to provide secure channel in client-server model using secure yet cost-effective methods addressing such asymmetric security requirements.\r\n\r\nPasswords could be effective in terms of client credential management, and guidelines such as [ITU‑T X.1151] are available for password-authenticated key exchange protocols. When client credentials are compromised, however, the adversary could impersonate not only clients but also service providers. Such server impersonation attacks could be mitigated by using public key techniques for server authentication with low credential management cost. \r\n\r\nRecommendation ITU-T X.1450 provides guidelines for hybrid authentication and key exchange mechanisms in the client-server model. The underlying mechanism suggests the use of shared secrets and public key techniques for authentication and key exchange. This Recommendation covers service scenarios, and security threats and methods to mitigate such attacks. \r\n"
 status:
   stage:
     content: Published

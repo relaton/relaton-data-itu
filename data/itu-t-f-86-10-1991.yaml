@@ -1,4 +1,3 @@
----
 id: ITUTF86101991
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.86-199110-W
+  content: https://handle.itu.int/11.1002/1000/733
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.86-199110-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.86 (10/1991)
   type: ITU
@@ -45,8 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the service requirements and operational procedures
-    for interworking between the international telex service and the videotex service
+  content: This Recommendation defines the service requirements and operational procedures for interworking between the international telex service and the videotex service
 status:
   stage:
     content: Withdrawal

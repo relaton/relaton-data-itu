@@ -1,4 +1,3 @@
----
 id: ITUTF743122009
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.743-200912-S
+  content: https://handle.itu.int/11.1002/1000/10615
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.743-200912-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.743 (12/2009)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of Recommendation ITU-T F.743 is to define a visual surveillance
-    service based on IP networks. The visual surveillance service provides the display
-    and storage of the video captured by multiple remote cameras over an IP network
-    for multiple users. It also provides other functionalities such as remote control
-    and alarming. This Recommendation provides the service description, a brief functional
-    model, application scenarios and requirements for the visual surveillance service.
-    The requirements for the visual surveillance service are derived from the scenarios
-    of different applications that a visual surveillance service can support. Therefore,
-    the service requirements meet the needs of different kinds of users and enables
-    interoperability among visual surveillance systems of different telecom operators
-    and units of different vendors.
+  content: The purpose of Recommendation ITU-T F.743 is to define a visual surveillance service based on IP networks. The visual surveillance service provides the display and storage of the video captured by multiple remote cameras over an IP network for multiple users. It also provides other functionalities such as remote control and alarming. This Recommendation provides the service description, a brief functional model, application scenarios and requirements for the visual surveillance service. The requirements for the visual surveillance service are derived from the scenarios of different applications that a visual surveillance service can support. Therefore, the service requirements meet the needs of different kinds of users and enables interoperability among visual surveillance systems of different telecom operators and units of different vendors.
 status:
   stage:
     content: Withdrawal
@@ -90,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission
-        services
+      content: Definitions relating to telegraph, telematic and data transmission services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -131,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based
-        on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU

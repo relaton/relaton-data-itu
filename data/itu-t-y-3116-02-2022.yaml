@@ -1,16 +1,16 @@
----
 id: ITUTY3116022022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Traffic typization IMT-2020 management based on an artificial intelligence
-    approach
+  content: Traffic typization IMT-2020 management based on an artificial intelligence approach
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3116-202202-I
+  content: https://handle.itu.int/11.1002/1000/14855
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3116-202202-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3116 (02/2022)
   type: ITU
@@ -51,19 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: At present, the standardization of IMT-2020 networks aims at dealing with
-    architectural issues (infrastructure and new services), analysing and ensuring
-    signalling at the management level and ensuring the quality and security of IoT
-    services. As is well known, according to ITU-R Recommendation ITU-R M.2083-0 "IMT
-    Vision – Framework and overall objectives of the future development of IMT for
-    2020 and beyond", one of the IMT-2020 infrastructure technologies is software-defined
-    networking (SDN). Given the heterogeneous nature of the traffic, it is necessary
-    to ensure efficient and effective infrastructure management. With a view to increasing
-    the effectiveness of the automation of management, the use of artificial intelligence
-    (AI) technologies needs to be considered for traffic detection and typization.
-    In this way, Recommendation ITU-T Y.3116 considers an overview of machine learning
-    (ML) technologies for traffic detection and a method for the traffic typization
-    and recognition for IMT-2020 management based on an ML approach.
+  content: At present, the standardization of IMT-2020 networks aims at dealing with architectural issues (infrastructure and new services), analysing and ensuring signalling at the management level and ensuring the quality and security of IoT services. As is well known, according to ITU-R Recommendation ITU-R M.2083-0 "IMT Vision – Framework and overall objectives of the future development of IMT for 2020 and beyond", one of the IMT-2020 infrastructure technologies is software-defined networking (SDN). Given the heterogeneous nature of the traffic, it is necessary to ensure efficient and effective infrastructure management. With a view to increasing the effectiveness of the automation of management, the use of artificial intelligence (AI) technologies needs to be considered for traffic detection and typization. In this way, Recommendation ITU-T Y.3116 considers an overview of machine learning (ML) technologies for traffic detection and a method for the traffic typization and recognition for IMT-2020 management based on an ML approach.
 status:
   stage:
     content: Published
@@ -83,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization and open source activities related to network softwarization
-        of IMT-2020
+      content: Standardization and open source activities related to network softwarization of IMT-2020
     docidentifier:
     - content: Y Suppl. 44 (07/2017)
       type: ITU
@@ -114,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3100-series – Awareness on use cases and migration aspects
-        of IMT-2020
+      content: ITU-T Y.3100-series – Awareness on use cases and migration aspects of IMT-2020
     docidentifier:
     - content: Y Suppl. 64 (07/2020)
       type: ITU
@@ -135,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -166,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -177,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -188,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -199,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -230,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3100-series – Guidance for migrating existing mobile network
-        technologies to IMT-2020 and beyond
+      content: ITU-T Y.3100-series – Guidance for migrating existing mobile network technologies to IMT-2020 and beyond
     docidentifier:
     - content: Y Suppl. 111 (07/2026)
       type: ITU

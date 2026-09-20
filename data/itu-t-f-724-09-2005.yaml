@@ -1,16 +1,16 @@
----
 id: ITUTF724092005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Service description and requirements for videotelephony services over IP
-    networks
+  content: Service description and requirements for videotelephony services over IP networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.724-200509-I
+  content: https://handle.itu.int/11.1002/1000/8591
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.724-200509-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.724 (09/2005)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this Recommendation is to define the videotelephony services
-    provided over IP networks. The services enable two users in different locations
-    to have conversational communications over IP networks. The service description,
-    function model, service profiles, application scenarios and requirements of the
-    IP videotelephony services are provided. The IP videotelephony services are one
-    class of the generic services identified in ITU-T Rec. F.720, and their description
-    follows the methodology described in ITU-T Rec. F.701. The requirements for the
-    IP videotelephony services are derived from the scenarios for different applications
-    the said services can support. Therefore, the services requirements accommodate
-    the demands of different kinds of users and assist in enabling intercommunications
-    between the services provided by different telecom operators and/or different
-    IP videotelephony systems.
+  content: The purpose of this Recommendation is to define the videotelephony services provided over IP networks. The services enable two users in different locations to have conversational communications over IP networks. The service description, function model, service profiles, application scenarios and requirements of the IP videotelephony services are provided. The IP videotelephony services are one class of the generic services identified in ITU-T Rec. F.720, and their description follows the methodology described in ITU-T Rec. F.701. The requirements for the IP videotelephony services are derived from the scenarios for different applications the said services can support. Therefore, the services requirements accommodate the demands of different kinds of users and assist in enabling intercommunications between the services provided by different telecom operators and/or different IP videotelephony systems.
 status:
   stage:
     content: Published
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission
-        services
+      content: Definitions relating to telegraph, telematic and data transmission services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -123,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based
-        on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTX42032000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures and methods for accessing a public data network from a DTE operating
-    under control of a generalized polling protocol
+  content: Procedures and methods for accessing a public data network from a DTE operating under control of a generalized polling protocol
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.42-200003-S
+  content: https://handle.itu.int/11.1002/1000/5020
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.42-200003-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.42 (03/2000)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation puts forth the definition and framework for providing
-    access to a Public Data Network (PDN) by a DTE operating under the control of
-    a generalized polling protocol, via the use of a Packet Assembly/Disassembly (PAD)
-    device situated within (or associated with) the PDN. The PAD supporting the generalized
-    polling protocol aspect is referred to as a \"GPAD\". The generalized polling
-    environment provides support for access, along with basic requirements necessary
-    within the PAD to enable the selection and modification of the protocol Aspect.
-    This Recommendation has been developed in realization that a well-established
-    base of 10s of 1000s of DTEs operating under control of a generalized polled protocol
-    have need to access a PDN. This Recommendation enables these terminals to communicate
-    over the public data network. This work is also an expansion on related work undertaken
-    in ITU-T X.8 and X.28.\r\nThe revision to this Recommendation has introduced the
-    definition and framework for higher layer protocol communication via ITU-T X.42.
-    \ In particular, this will allow Internet Protocol enabled (IP) devices to access
-    their corresponding networks over the generalized polling protocol defined under
-    ITU-T X.42.\r\n"
+  content: "This Recommendation puts forth the definition and framework for providing access to a Public Data Network (PDN) by a DTE operating under the control of a generalized polling protocol, via the use of a Packet Assembly/Disassembly (PAD) device situated within (or associated with) the PDN. The PAD supporting the generalized polling protocol aspect is referred to as a \"GPAD\". The generalized polling environment provides support for access, along with basic requirements necessary within the PAD to enable the selection and modification of the protocol Aspect. This Recommendation has been developed in realization that a well-established base of 10s of 1000s of DTEs operating under control of a generalized polled protocol have need to access a PDN. This Recommendation enables these terminals to communicate over the public data network. This work is also an expansion on related work undertaken in ITU-T X.8 and X.28.\r\nThe revision to this Recommendation has introduced the definition and framework for higher layer protocol communication via ITU-T X.42.  In particular, this will allow Internet Protocol enabled (IP) devices to access their corresponding networks over the generalized polling protocol defined under ITU-T X.42.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -86,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures and methods for accessing a public data network from a DTE
-        operating under control of a generalized polling protocol
+      content: Procedures and methods for accessing a public data network from a DTE operating under control of a generalized polling protocol
     docidentifier:
     - content: X.42 (10/2003)
       type: ITU
@@ -97,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures and methods for accessing a public data network from a DTE
-        operating under control of a generalized polling protocol
+      content: Procedures and methods for accessing a public data network from a DTE operating under control of a generalized polling protocol
     docidentifier:
     - content: X.42 (10/1996)
       type: ITU

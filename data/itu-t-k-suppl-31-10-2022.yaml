@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl31102022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T K.118 – Requirements for lightning protection of fibre to the distribution
-    point equipment – Modelling earth potential rise
+  content: ITU-T K.118 – Requirements for lightning protection of fibre to the distribution point equipment – Modelling earth potential rise
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup31-202210-I
+  content: https://handle.itu.int/11.1002/1000/15167
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup31-202210-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 31 (10/2022)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Since the publication of Recommendation ITU-T K.118 (2016), Requirements
-    for lightning protection of fibre to the distribution point equipment, the system,
-    often called G.fast (fast access to subscriber terminals) with reverse power feed
-    (RPF), has had extensive deployment. This Supplement provides an assessment of
-    earth potential rise (EPR) levels at the cabling link ends to the distribution
-    point unit (DPU) and the customer premises equipment (CPE).\r\nElectrical lightning
-    stresses on the connected equipment at the link ends are considered to arise from
-    the lightning disturbances on the CPE powering source, differential EPR of the
-    link ends and possibly magnetic induction to the link cable. This Supplement mainly
-    concerns itself with the link end EPR values.\r\n"
+  content: "Since the publication of Recommendation ITU-T K.118 (2016), Requirements for lightning protection of fibre to the distribution point equipment, the system, often called G.fast (fast access to subscriber terminals) with reverse power feed (RPF), has had extensive deployment. This Supplement provides an assessment of earth potential rise (EPR) levels at the cabling link ends to the distribution point unit (DPU) and the customer premises equipment (CPE).\r\nElectrical lightning stresses on the connected equipment at the link ends are considered to arise from the lightning disturbances on the CPE powering source, differential EPR of the link ends and possibly magnetic induction to the link cable. This Supplement mainly concerns itself with the link end EPR values.\r\n"
 status:
   stage:
     content: Published

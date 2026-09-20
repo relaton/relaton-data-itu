@@ -1,16 +1,16 @@
----
 id: ITUTV8112000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for starting sessions of data transmission over the public switched
-    telephone network
+  content: Procedures for starting sessions of data transmission over the public switched telephone network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.8-200011-I
+  content: https://handle.itu.int/11.1002/1000/5242
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.8-200011-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.8 (11/2000)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines signals to be exchanged between DCEs over the
-    PSTN when a session of data transmission needs to be established, but before signals
-    are exchanged which are specific to a particular Recommendation. It provides means
-    to automatically determine the best available operational mode between two DCEs
-    connected via the PSTN, provides a timely indication to Circuit Multiplication
-    Equipments on the V-series modulation to be employed in a new session of data
-    transmission, provides a means to enable a PSTN call to be passed on automatically
-    to an appropriate DCE, and provides signals for interacting with PSTN echo-control
-    equipment.This Recommendation was revised in 1998 and 1999 to define additional
-    call function types, define procedures for the exchange of non-standard facilities
-    information and add support for PCM modulation modes.This Recommendation was revised
-    in 2000 to provide support for V.92 features, correct errors in the 1999 version,
-    clarify the use of the prot0 octet, and add clause 10 to address compatibility
-    with future revisions of this Recommendation.
+  content: This Recommendation defines signals to be exchanged between DCEs over the PSTN when a session of data transmission needs to be established, but before signals are exchanged which are specific to a particular Recommendation. It provides means to automatically determine the best available operational mode between two DCEs connected via the PSTN, provides a timely indication to Circuit Multiplication Equipments on the V-series modulation to be employed in a new session of data transmission, provides a means to enable a PSTN call to be passed on automatically to an appropriate DCE, and provides signals for interacting with PSTN echo-control equipment.This Recommendation was revised in 1998 and 1999 to define additional call function types, define procedures for the exchange of non-standard facilities information and add support for PCM modulation modes.This Recommendation was revised in 2000 to provide support for V.92 features, correct errors in the 1999 version, clarify the use of the prot0 octet, and add clause 10 to address compatibility with future revisions of this Recommendation.
 status:
   stage:
     content: Published
@@ -84,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for starting sessions of data transmission over the public
-        switched telephone network
+      content: Procedures for starting sessions of data transmission over the public switched telephone network
     docidentifier:
     - content: V.8 (05/1999)
       type: ITU
@@ -95,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for starting sessions of data transmission over the public
-        switched telephone network
+      content: Procedures for starting sessions of data transmission over the public switched telephone network
     docidentifier:
     - content: V.8 (02/1998)
       type: ITU
@@ -106,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for starting sessions of data transmission over the general
-        switched telephone network
+      content: Procedures for starting sessions of data transmission over the general switched telephone network
     docidentifier:
     - content: V.8 (09/1994)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTD115062004
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Tariff principles and accounting for the International Freephone Service
-    (IFS)
+  content: Tariff principles and accounting for the International Freephone Service (IFS)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.115-200406-I
+  content: https://handle.itu.int/11.1002/1000/7257
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.115-200406-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.115 (06/2004)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation sets out the general principles for charging and international
-    accounting to be applied by Administrations for the provision of the international
-    freephone service which is described in ITU-T Rec. E.152.With regard to tariff
-    and accounting principles, the International Freephone Service (IFS) is a service
-    where the subscriber can be allocated a special (freephone) number and the charges
-    for all calls to this number are paid by the respective subscriber instead of
-    by the originating caller.
+  content: This Recommendation sets out the general principles for charging and international accounting to be applied by Administrations for the provision of the international freephone service which is described in ITU-T Rec. E.152.With regard to tariff and accounting principles, the International Freephone Service (IFS) is a service where the subscriber can be allocated a special (freephone) number and the charges for all calls to this number are paid by the respective subscriber instead of by the originating caller.
 status:
   stage:
     content: Published
@@ -77,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Tariff principles and accounting for the International Freephone Service
-        (IFS)
+      content: Tariff principles and accounting for the International Freephone Service (IFS)
     docidentifier:
     - content: D.115 (10/1996)
       type: ITU
@@ -88,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Tariff principles and accounting for the international freephone service
-        (IFS)
+      content: Tariff principles and accounting for the international freephone service (IFS)
     docidentifier:
     - content: D.115 (11/1988)
       type: ITU
@@ -119,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing
-        national tariffs
+      content: Handbook on the methodology for determining costs and establishing national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

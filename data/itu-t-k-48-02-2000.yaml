@@ -1,16 +1,16 @@
----
 id: ITUTK48022000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: EMC requirements for each telecommunication network equipment – Product
-    family Recommendation
+  content: EMC requirements for each telecommunication network equipment – Product family Recommendation
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.48-200002-S
+  content: https://handle.itu.int/11.1002/1000/4911
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.48-200002-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.48 (02/2000)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the emission and immunity requirements for
-    switching, transmission, power and supervisory equipment. It also describes operational
-    conditions for emission and immunity testing. Performance criteria for immunity
-    tests are also specified.
+  content: This Recommendation specifies the emission and immunity requirements for switching, transmission, power and supervisory equipment. It also describes operational conditions for emission and immunity testing. Performance criteria for immunity tests are also specified.
 status:
   stage:
     content: Withdrawal
@@ -84,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: EMC requirements for each telecommunication equipment – Product family
-        Recommendation
+      content: EMC requirements for each telecommunication equipment – Product family Recommendation
     docidentifier:
     - content: K.48 (07/2003)
       type: ITU

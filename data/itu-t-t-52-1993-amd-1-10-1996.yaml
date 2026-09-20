@@ -1,10 +1,11 @@
----
 id: ITUTT521993Amd1101996
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.52-199610-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/3898
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.52-199610-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.52 (1993) Amd. 1 (10/1996)
   type: ITU
@@ -45,10 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In order to align the names of characters from Recommendation T.52 to those
-    of ISO/IEC 10646-1, and respecting the naming rules of T.52, some editorial changes
-    are made. In this Amendment, the Greek supplementary set is placed by a new version
-    offered by the Greek Administration.
+  content: In order to align the names of characters from Recommendation T.52 to those of ISO/IEC 10646-1, and respecting the naming rules of T.52, some editorial changes are made. In this Amendment, the Greek supplementary set is placed by a new version offered by the Greek Administration.
 status:
   stage:
     content: Published

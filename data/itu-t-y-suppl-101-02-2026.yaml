@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl101022026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.3302 series – Functional architecture of software-defined networking
-    for massive data transmission service
+  content: ITU-T Y.3302 series – Functional architecture of software-defined networking for massive data transmission service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup101-202602-I
+  content: https://handle.itu.int/11.1002/1000/16784
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup101-202602-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 101 (02/2026)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 101 to ITU-T Y-series Recommendations provides resource prediction
-    capability for massive data transmission (MDT) service to improve the data transmission
-    efficiency and avoid the influence of ongoing services in the software-defined
-    networking (SDN) control layer based on the functional architecture in Recommendation
-    ITU-T Y.3302, which can make the MDT service more cost efficient and optimize
-    the network resource utilization. This Supplement focuses on introducing the resource
-    prediction functional component and defining the procedure of the MDT service
-    with the newly added functional component.\r\n"
+  content: "Supplement 101 to ITU-T Y-series Recommendations provides resource prediction capability for massive data transmission (MDT) service to improve the data transmission efficiency and avoid the influence of ongoing services in the software-defined networking (SDN) control layer based on the functional architecture in Recommendation ITU-T Y.3302, which can make the MDT service more cost efficient and optimize the network resource utilization. This Supplement focuses on introducing the resource prediction functional component and defining the procedure of the MDT service with the newly added functional component.\r\n"
 status:
   stage:
     content: Published

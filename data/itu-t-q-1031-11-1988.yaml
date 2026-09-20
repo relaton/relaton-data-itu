@@ -1,16 +1,16 @@
----
 id: ITUTQ1031111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General signalling requirements on interworking between the ISDN or PSTN
-    and the PLMN
+  content: General signalling requirements on interworking between the ISDN or PSTN and the PLMN
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.1031-198811-W
+  content: https://handle.itu.int/11.1002/1000/1786
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.1031-198811-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q.1031 (11/1988)
   type: ITU
@@ -65,8 +65,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interworking of the international automatic land mobile service and
-        the public switched telephone network
+      content: Interworking of the international automatic land mobile service and the public switched telephone network
     docidentifier:
     - content: Q.70 (10/1984)
       type: ITU

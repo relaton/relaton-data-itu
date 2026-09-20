@@ -1,16 +1,16 @@
----
 id: ITUTX725111995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Structure of management
-    information: General Relationship Model'
+  content: 'Information technology – Open Systems Interconnection – Structure of management information: General Relationship Model'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.725-199511-I
+  content: https://handle.itu.int/11.1002/1000/3064
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.725-199511-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.725 (11/1995)
   type: ITU
@@ -54,13 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides a model for the definition,
-    representation and management of relationships between resources and the notational
-    "tools" for specifying these. In addition, the definitions of general management
-    information that may be used in the representation of relationships are specified.
-    Finally guidelines for the development of conformance statement proformas are
-    provided. The capability afforded by this Recommendation | International Standard
-    is important for those concerned with specifying a management information model.
+  content: This Recommendation | International Standard provides a model for the definition, representation and management of relationships between resources and the notational "tools" for specifying these. In addition, the definitions of general management information that may be used in the representation of relationships are specified. Finally guidelines for the development of conformance statement proformas are provided. The capability afforded by this Recommendation | International Standard is important for those concerned with specifying a management information model.
 status:
   stage:
     content: Published

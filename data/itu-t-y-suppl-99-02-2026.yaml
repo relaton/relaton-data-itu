@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl99022026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2300 series – Use cases of service-oriented capability enhancement
-    in next generation network evolution (NGNe)
+  content: ITU-T Y.2300 series – Use cases of service-oriented capability enhancement in next generation network evolution (NGNe)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup99-202602-I
+  content: https://handle.itu.int/11.1002/1000/16782
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup99-202602-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 99 (02/2026)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Emerging services, such as cross-domain data storage applications, artificial
-    intelligence (AI) training and inference applications, scientific computing applications,
-    and intelligent video applications, have increased dramatically. These application
-    services demand enhanced next generation network evolution (NGNe) to support service-oriented
-    transport and integrated resource scheduling capabilities. \r\nSupplement 99 to
-    ITU-T Y series Recommendations describes use cases of service-oriented capability
-    enhancement in NGNe and addresses the necessities of potential requirements.\r\n"
+  content: "Emerging services, such as cross-domain data storage applications, artificial intelligence (AI) training and inference applications, scientific computing applications, and intelligent video applications, have increased dramatically. These application services demand enhanced next generation network evolution (NGNe) to support service-oriented transport and integrated resource scheduling capabilities. \r\nSupplement 99 to ITU-T Y series Recommendations describes use cases of service-oriented capability enhancement in NGNe and addresses the necessities of potential requirements.\r\n"
 status:
   stage:
     content: Published

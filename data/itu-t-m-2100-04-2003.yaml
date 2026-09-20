@@ -1,16 +1,16 @@
----
 id: ITUTM2100042003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Performance limits for bringing-into-service and maintenance of international
-    multi-operator PDH paths and connections
+  content: Performance limits for bringing-into-service and maintenance of international multi-operator PDH paths and connections
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.2100-200304-I
+  content: https://handle.itu.int/11.1002/1000/6308
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.2100-200304-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.2100 (04/2003)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides limits for bringing-into-service and maintenance
-    of international multi-operator PDH paths which operate at or above the primary
-    rate, and connections which operate below the primary rate. Error, timing and
-    availability performance are considered. A method for deriving ES and SES from
-    in-service measurement is given for all hierarchical levels. Sections are not
-    covered by this Recommendation. BIS limits and maintenance procedures for radio
-    sections are described in the relevant ITU-R Recommendations.
+  content: This Recommendation provides limits for bringing-into-service and maintenance of international multi-operator PDH paths which operate at or above the primary rate, and connections which operate below the primary rate. Error, timing and availability performance are considered. A method for deriving ES and SES from in-service measurement is given for all hierarchical levels. Sections are not covered by this Recommendation. BIS limits and maintenance procedures for radio sections are described in the relevant ITU-R Recommendations.
 status:
   stage:
     content: Published
@@ -77,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Performance limits for bringing-into-service and maintenance of international
-        PDH paths, sections and transmission systems
+      content: Performance limits for bringing-into-service and maintenance of international PDH paths, sections and transmission systems
     docidentifier:
     - content: M.2100 (07/1995)
       type: ITU
@@ -88,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Performance limits for bringing-into-service and maintenance of international
-        digital paths, sections and transmission systems
+      content: Performance limits for bringing-into-service and maintenance of international digital paths, sections and transmission systems
     docidentifier:
     - content: M.2100 (10/1992)
       type: ITU
@@ -99,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Performance limits for bringing-into-service and maintenance of international
-        digital paths, sections and line sections
+      content: Performance limits for bringing-into-service and maintenance of international digital paths, sections and line sections
     docidentifier:
     - content: M.550 (11/1988)
       type: ITU

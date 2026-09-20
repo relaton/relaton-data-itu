@@ -1,16 +1,16 @@
----
 id: ITUTH262022012
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Generic coding of moving pictures and associated
-    audio information: Video'
+  content: 'Information technology – Generic coding of moving pictures and associated audio information: Video'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.262-201202-I
+  content: https://handle.itu.int/11.1002/1000/11627
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.262-201202-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.262 (02/2012)
   type: ITU
@@ -54,39 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation ITU-T H.262| International Standard ISO/IEC 13812-2
-    specifies coded representation of video data and the decoding process required
-    to reconstruct pictures. It provides a generic video coding scheme which serves
-    a wide range of applications, bit rates, picture resolutions and qualities. Its
-    basic coding algorithm is a hybrid of motion compensated prediction and DCT. Pictures
-    to be coded can be either interlaced or progressive. Necessary algorithmic elements
-    are integrated into a single syntax, and a limited number of subsets are defined
-    in terms of Profile (functionalities) and Level (parameters) to facilitate practical
-    use of this generic video coding standard.\r\nThis third edition of this Recommendation
-    | International Standard consists of Rec. ITU-T H.262 (1995) | ISO/IEC 13818 2:1996,
-    subsequently altered by four corrigenda and eleven amendments:\r\n1.\tA first
-    corrigendum adding a slice picture identifier, allowing an application to define
-    default colour description parameters, removing a prohibition of field-structured
-    DCT coding in progressive frames, clarifying ambiguity on restricted range of
-    reconstructed motion vectors, clarifying ambiguity of VBV at boundaries of sequences,
-    and making various minor corrections.\r\n2.\tA second corrigendum altering the
-    inverse discrete cosine transform requirements, altering temporal_reference for
-    low delay, and making various minor corrections.\r\n3.\tA first amendment providing
-    a method of obtaining and registering copyright identifiers.\r\n4.\tA second amendment
-    defining a 4:2:2 profile.\r\n5.\tA third amendment adding a camera parameters
-    extension and a multi-view profile.\r\n6.\tA fourth amendment adding an ITU-T
-    extension.\r\n7.\tA fifth amendment adding a high level to the 4:2:2 profile.\r\n8.\tA
-    sixth amendment reducing the upper bound for the number of lines per frame in
-    the high level of all profiles from 1152 to 1088.\r\n9.\tA third corrigendum clarifying
-    the description of the handling of reserved extension data.\r\n10.\tA seventh
-    amendment providing an ability to send supplemental \"content description data\".\r\n11.\tA
-    fourth corrigendum clarifying and correcting the specification of aspects relating
-    to inverse discrete cosine transform precision.\r\n12.\tAn eighth amendment updating
-    and enhancing the specification of support for colour spaces.\r\n13.\tA ninth
-    amendment specifying an additional level to support the 1080@50p/60p video format.\r\n14.\tA
-    tenth amendment specifying a 'frame packing arrangement' signalling for stereoscopic
-    3D content.\r\n15.\tAn eleventh amendment adding the definition of a side-by-side
-    frame packing arrangement with quincunx sampling.\r\n"
+  content: "This Recommendation ITU-T H.262| International Standard ISO/IEC 13812-2 specifies coded representation of video data and the decoding process required to reconstruct pictures. It provides a generic video coding scheme which serves a wide range of applications, bit rates, picture resolutions and qualities. Its basic coding algorithm is a hybrid of motion compensated prediction and DCT. Pictures to be coded can be either interlaced or progressive. Necessary algorithmic elements are integrated into a single syntax, and a limited number of subsets are defined in terms of Profile (functionalities) and Level (parameters) to facilitate practical use of this generic video coding standard.\r\nThis third edition of this Recommendation | International Standard consists of Rec. ITU-T H.262 (1995) | ISO/IEC 13818 2:1996, subsequently altered by four corrigenda and eleven amendments:\r\n1.\tA first corrigendum adding a slice picture identifier, allowing an application to define default colour description parameters, removing a prohibition of field-structured DCT coding in progressive frames, clarifying ambiguity on restricted range of reconstructed motion vectors, clarifying ambiguity of VBV at boundaries of sequences, and making various minor corrections.\r\n2.\tA second corrigendum altering the inverse discrete cosine transform requirements, altering temporal_reference for low delay, and making various minor corrections.\r\n3.\tA first amendment providing a method of obtaining and registering copyright identifiers.\r\n4.\tA second amendment defining a 4:2:2 profile.\r\n5.\tA third amendment adding a camera parameters extension and a multi-view profile.\r\n6.\tA fourth amendment adding an ITU-T extension.\r\n7.\tA fifth amendment adding a high level to the 4:2:2 profile.\r\n8.\tA sixth amendment reducing the upper bound for the number of lines per frame in the high level of all profiles from 1152 to 1088.\r\n9.\tA third corrigendum clarifying the description of the handling of reserved extension data.\r\n10.\tA seventh amendment providing an ability to send supplemental \"content description data\".\r\n11.\tA fourth corrigendum clarifying and correcting the specification of aspects relating to inverse discrete cosine transform precision.\r\n12.\tAn eighth amendment updating and enhancing the specification of support for colour spaces.\r\n13.\tA ninth amendment specifying an additional level to support the 1080@50p/60p video format.\r\n14.\tA tenth amendment specifying a 'frame packing arrangement' signalling for stereoscopic 3D content.\r\n15.\tAn eleventh amendment adding the definition of a side-by-side frame packing arrangement with quincunx sampling.\r\n"
 status:
   stage:
     content: Published
@@ -180,8 +148,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Generic coding of moving pictures and associated
-        audio information: Video'
+      content: 'Information technology – Generic coding of moving pictures and associated audio information: Video'
     docidentifier:
     - content: H.262 (02/2000)
       type: ITU
@@ -259,8 +226,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Generic coding of moving pictures and associated
-        audio information: Video'
+      content: 'Information technology – Generic coding of moving pictures and associated audio information: Video'
     docidentifier:
     - content: H.262 (07/1995)
       type: ITU
@@ -270,8 +236,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application profile – Sign language and lip-reading real-time conversation
-        using low bit rate video communication
+      content: Application profile – Sign language and lip-reading real-time conversation using low bit rate video communication
     docidentifier:
     - content: H Suppl. 1 (05/1999)
       type: ITU
@@ -291,9 +256,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -313,8 +276,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -324,8 +286,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -335,8 +296,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -346,8 +306,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -367,8 +326,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -398,8 +356,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

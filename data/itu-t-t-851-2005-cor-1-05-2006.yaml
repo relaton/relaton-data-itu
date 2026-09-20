@@ -1,10 +1,11 @@
----
 id: ITUTT8512005Cor1052006
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.851-200605-I!Cor1
+  content: https://handle.itu.int/11.1002/1000/8816
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.851-200605-I!Cor1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.851 (2005) Cor. 1 (05/2006)
   type: ITU
@@ -45,9 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This corrigendum provides corrections to three errors that were discovered
-    in ITU-T Rec. T.851: An incorrect code assignment in Table 2, and incorrect assignment
-    blocks in Figures 10-1 and 10-10.'
+  content: 'This corrigendum provides corrections to three errors that were discovered in ITU-T Rec. T.851: An incorrect code assignment in Table 2, and incorrect assignment blocks in Figures 10-1 and 10-10.'
 status:
   stage:
     content: Published
@@ -67,8 +66,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T T.81 (JPEG-1)-based still-image coding using an alternative arithmetic
-        coder
+      content: ITU-T T.81 (JPEG-1)-based still-image coding using an alternative arithmetic coder
     docidentifier:
     - content: T.851 (09/2005)
       type: ITU

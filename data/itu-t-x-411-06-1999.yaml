@@ -1,16 +1,16 @@
----
 id: ITUTX411061999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Message Handling Systems (MHS): Message Transfer
-    System: Abstract Service Definition and Procedures'
+  content: 'Information technology – Message Handling Systems (MHS): Message Transfer System: Abstract Service Definition and Procedures'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.411-199906-I
+  content: https://handle.itu.int/11.1002/1000/4852
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.411-199906-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.411 (06/1999)
   type: ITU
@@ -54,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard contains an improved version
-    of the P3 Register operation which introduces support for the Restricted Delivery
-    element of service and adds general extensibility to the Register operation. The
-    ASN.1 has been fully revised to use the new Recommendations X.680 and X.880, while
-    retaining complete compatibility with the 1988 and 1992 P1 and P3 protocols. This
-    Recommendation | International Standard incorporates enhancements on use of ISO/IEC
-    10646 characters in OR-addresses, new values of error codes for security and security
-    defect resolution, using Version 3 certificates, business class messaging extensions,
-    fax cover page, and use of 1997 Directory.
+  content: This Recommendation | International Standard contains an improved version of the P3 Register operation which introduces support for the Restricted Delivery element of service and adds general extensibility to the Register operation. The ASN.1 has been fully revised to use the new Recommendations X.680 and X.880, while retaining complete compatibility with the 1988 and 1992 P1 and P3 protocols. This Recommendation | International Standard incorporates enhancements on use of ISO/IEC 10646 characters in OR-addresses, new values of error codes for security and security defect resolution, using Version 3 certificates, business class messaging extensions, fax cover page, and use of 1997 Directory.
 status:
   stage:
     content: Published
@@ -116,8 +108,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Message Handling Systems (MHS): Message transfer
-        system: Abstract service definition and procedures'
+      content: 'Information technology – Message Handling Systems (MHS): Message transfer system: Abstract service definition and procedures'
     docidentifier:
     - content: X.411 (11/1995)
       type: ITU
@@ -127,8 +118,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Message Handling Systems (MHS): Message transfer
-        system: Abstract service definition and procedures'
+      content: 'Information technology – Message Handling Systems (MHS): Message transfer system: Abstract service definition and procedures'
     docidentifier:
     - content: X.411 (09/1992)
       type: ITU
@@ -138,8 +128,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Message handling systems: Message transfer system: abstract service
-        definition and procedures'
+      content: 'Message handling systems: Message transfer system: abstract service definition and procedures'
     docidentifier:
     - content: X.411 (11/1988)
       type: ITU

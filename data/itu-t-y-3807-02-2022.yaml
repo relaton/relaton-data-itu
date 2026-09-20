@@ -1,4 +1,3 @@
----
 id: ITUTY3807022022
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3807-202202-I
+  content: https://handle.itu.int/11.1002/1000/14864
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3807-202202-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3807 (02/2022)
   type: ITU
@@ -50,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3800 specifies an overview on networks supporting
-    quantum key distribution (QKD). For the purpose of design, deployment, operation
-    and maintenance to support QKD network (QKDN) implementation, the required quality
-    level of quantum key distribution service should be identified and quantified.\r\nRecommendation
-    ITU-T Y.3806 describes high-level and functional quality of service (QoS) requirements
-    for QKDN. \r\nRecommendation ITU-T Y.3807 describes QoS and network performance
-    (NP) on QKDN and specifies the associated relative parameters for QoS and their
-    definitions. \r\nThis Recommendation helps to quantify what kind of QoS requirements
-    should be monitored and measured for this purpose; QoS parameters. \r\n"
+  content: "Recommendation ITU-T Y.3800 specifies an overview on networks supporting quantum key distribution (QKD). For the purpose of design, deployment, operation and maintenance to support QKD network (QKDN) implementation, the required quality level of quantum key distribution service should be identified and quantified.\r\nRecommendation ITU-T Y.3806 describes high-level and functional quality of service (QoS) requirements for QKDN. \r\nRecommendation ITU-T Y.3807 describes QoS and network performance (NP) on QKDN and specifies the associated relative parameters for QoS and their definitions. \r\nThis Recommendation helps to quantify what kind of QoS requirements should be monitored and measured for this purpose; QoS parameters. \r\n"
 status:
   stage:
     content: Published
@@ -98,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -109,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications
-        of machine learning
+      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications of machine learning
     docidentifier:
     - content: Y Suppl. 70 (07/2021)
       type: ITU
@@ -140,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution
-        networks
+      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 74 (03/2023)
       type: ITU
@@ -151,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -162,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end
-        cryptographic services with non-quantum cryptography
+      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end cryptographic services with non-quantum cryptography
     docidentifier:
     - content: Y Suppl. 79 (11/2023)
       type: ITU
@@ -183,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -194,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -215,8 +201,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -256,8 +241,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum
-        key distribution networks
+      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 100 (02/2026)
       type: ITU

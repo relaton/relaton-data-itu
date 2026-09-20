@@ -1,16 +1,16 @@
----
 id: ITUTY3402122025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Coordination of networking and computing in IMT-2020 networks and beyond
-    – Management and orchestration
+  content: Coordination of networking and computing in IMT-2020 networks and beyond – Management and orchestration
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3402-202512-I
+  content: https://handle.itu.int/11.1002/1000/16621
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3402-202512-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3402 (12/2025)
   type: ITU
@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The IMT-2020 network and beyond has the potential to close the loop of
-    all mobile services by seamlessly integrating network and computing resources.
-    This convergence of networking and computing brings several strong advantages,
-    particularly in the realms of orchestration efficiency and capability invocation.
-    Combining the capability of network and computing, the capabilities based on the
-    perception, control and management of computing resources can be introduced to
-    enhance the management and orchestration (M&O), in the context of IMT-2020 and
-    beyond. M&O for coordination of networking and computing provides the capability
-    to jointly schedule service requests to optimal service endpoints along the network
-    path and guarantee the quality of service (QoS) for end users.\r\nRecommendation
-    ITU-T Y.3402 specifies design principles, requirements and framework of management
-    and orchestration for coordination of networking and computing in IMT-2020 networks
-    and beyond, to satisfy various experience of multi users by utilizing computing
-    resources.\r\n"
+  content: "The IMT-2020 network and beyond has the potential to close the loop of all mobile services by seamlessly integrating network and computing resources. This convergence of networking and computing brings several strong advantages, particularly in the realms of orchestration efficiency and capability invocation. Combining the capability of network and computing, the capabilities based on the perception, control and management of computing resources can be introduced to enhance the management and orchestration (M&O), in the context of IMT-2020 and beyond. M&O for coordination of networking and computing provides the capability to jointly schedule service requests to optimal service endpoints along the network path and guarantee the quality of service (QoS) for end users.\r\nRecommendation ITU-T Y.3402 specifies design principles, requirements and framework of management and orchestration for coordination of networking and computing in IMT-2020 networks and beyond, to satisfy various experience of multi users by utilizing computing resources.\r\n"
 status:
   stage:
     content: Published
@@ -104,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -135,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -146,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -157,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -168,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

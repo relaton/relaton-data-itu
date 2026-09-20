@@ -1,4 +1,3 @@
----
 id: ITUTYSuppl35052016
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup35-201605-I
+  content: https://handle.itu.int/11.1002/1000/12866
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup35-201605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 35 (05/2016)
   type: ITU
@@ -50,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement to ITU-T Recommendation Y.3033 presents a set of service
-    scenarios and use cases supported by data aware networking including 1) content
-    dissemination, 2) sensor networking, 3) vehicular networking, 4) automated driving,
-    5) networking in a disaster area, 6) advanced metering infrastructure in smart
-    grid, 7) proactive video caching, 8) in-network data processing, 9) multihoming,
-    and 10) traffic engineering. It provides informative illustrations and descriptions
-    of how data aware networking can be designed, deployed, and operated to support
-    the data aware networking services. In addition, the benefits of data aware networks
-    to the scenarios and use cases, and several migration paths from current networks
-    to data aware networks are elaborated.
+  content: This Supplement to ITU-T Recommendation Y.3033 presents a set of service scenarios and use cases supported by data aware networking including 1) content dissemination, 2) sensor networking, 3) vehicular networking, 4) automated driving, 5) networking in a disaster area, 6) advanced metering infrastructure in smart grid, 7) proactive video caching, 8) in-network data processing, 9) multihoming, and 10) traffic engineering. It provides informative illustrations and descriptions of how data aware networking can be designed, deployed, and operated to support the data aware networking services. In addition, the benefits of data aware networks to the scenarios and use cases, and several migration paths from current networks to data aware networks are elaborated.
 status:
   stage:
     content: Published

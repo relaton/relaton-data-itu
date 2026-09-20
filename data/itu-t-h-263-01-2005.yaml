@@ -1,4 +1,3 @@
----
 id: ITUTH263012005
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.263-200501-I
+  content: https://handle.itu.int/11.1002/1000/7497
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.263-200501-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.263 (01/2005)
   type: ITU
@@ -50,31 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies a coded representation that can be used
-    for compressing the moving picture component of audio-visual services at low bit
-    rates. The basic configuration of the video source coding algorithm is based on
-    ITU-T Rec. H.261 and is a hybrid of inter-picture prediction to utilize temporal
-    redundancy and transform coding of the remaining signal to reduce spatial redundancy.
-    The source coder can operate on five standardized video source formats: sub-QCIF,
-    QCIF, CIF, 4CIF and 16CIF, and can also operate using a broad range of custom
-    video formats.The decoder has motion compensation capability, allowing optional
-    incorporation of this technique in the coder. Half pixel precision is used for
-    the motion compensation, as opposed to ITU-T Rec. H.261 where full pixel precision
-    and a loopfilter are used. Variable length coding is used for the symbols to be
-    transmitted.In addition to the basic video source coding algorithm, eighteen negotiable
-    coding options are included for improved compression performance and the support
-    of additional capabilities. Additional supplemental information may also be included
-    in the bitstream for enhanced display capability and for external usage.This third
-    edition of H.263 integrates Annexes U, V, W and X, which were approved and published
-    separately before, with a number of corrections and clarifications:\r\n• correction
-    of Figure 8;\r\n• clarification in Table 1 regarding BPPmaxKb table and Picture
-    Padding;\r\n• clarification in clause 5.3.2 regarding macroblock stuffing preceding
-    a start code;\r\n• clarification regarding interaction between H.263 Annex J and
-    IDCT rounding error;\r\n• clarification in Annex N regarding parsability of the
-    GN/MBA field in BCM;\r\n• clarification in Annex O regarding direct bi-dir predicted
-    MBs and picture extrapolation;\r\n• clarification on the use of B pictures with
-    intra reference pictures in Annex O;\r\n• clarification on the use of Annex P
-    with Annex N;\r\n• correction of Figure U.7 in Annex U."
+  content: "This Recommendation specifies a coded representation that can be used for compressing the moving picture component of audio-visual services at low bit rates. The basic configuration of the video source coding algorithm is based on ITU-T Rec. H.261 and is a hybrid of inter-picture prediction to utilize temporal redundancy and transform coding of the remaining signal to reduce spatial redundancy. The source coder can operate on five standardized video source formats: sub-QCIF, QCIF, CIF, 4CIF and 16CIF, and can also operate using a broad range of custom video formats.The decoder has motion compensation capability, allowing optional incorporation of this technique in the coder. Half pixel precision is used for the motion compensation, as opposed to ITU-T Rec. H.261 where full pixel precision and a loopfilter are used. Variable length coding is used for the symbols to be transmitted.In addition to the basic video source coding algorithm, eighteen negotiable coding options are included for improved compression performance and the support of additional capabilities. Additional supplemental information may also be included in the bitstream for enhanced display capability and for external usage.This third edition of H.263 integrates Annexes U, V, W and X, which were approved and published separately before, with a number of corrections and clarifications:\r\n• correction of Figure 8;\r\n• clarification in Table 1 regarding BPPmaxKb table and Picture Padding;\r\n• clarification in clause 5.3.2 regarding macroblock stuffing preceding a start code;\r\n• clarification regarding interaction between H.263 Annex J and IDCT rounding error;\r\n• clarification in Annex N regarding parsability of the GN/MBA field in BCM;\r\n• clarification in Annex O regarding direct bi-dir predicted MBs and picture extrapolation;\r\n• clarification on the use of B pictures with intra reference pictures in Annex O;\r\n• clarification on the use of Annex P with Annex N;\r\n• correction of Figure U.7 in Annex U."
 status:
   stage:
     content: Published
@@ -194,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application profile – Sign language and lip-reading real-time conversation
-        using low bit rate video communication
+      content: Application profile – Sign language and lip-reading real-time conversation using low bit rate video communication
     docidentifier:
     - content: H Suppl. 1 (05/1999)
       type: ITU
@@ -215,9 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -237,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -248,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -259,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -270,8 +241,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -291,8 +261,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -322,8 +291,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTX1036112007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Framework for creation, storage, distribution and enforcement of policies
-    for network security
+  content: Framework for creation, storage, distribution and enforcement of policies for network security
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1036-200711-I
+  content: https://handle.itu.int/11.1002/1000/9255
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1036-200711-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1036 (11/2007)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation X.1036 establishes a set of network security policies
-    that will drive the security controls of a system or a service. It also specifies
-    the framework for the creation, storage, distribution and enforcement of policies
-    for network security that can be applied to various network conditions and devices.
+  content: ITU-T Recommendation X.1036 establishes a set of network security policies that will drive the security controls of a system or a service. It also specifies the framework for the creation, storage, distribution and enforcement of policies for network security that can be applied to various network conditions and devices.
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTX696082015
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology - ASN.1 encoding rules: Specification of Octet
-    Encoding Rules (OER)'
+  content: 'Information technology - ASN.1 encoding rules: Specification of Octet Encoding Rules (OER)'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.696-201508-S
+  content: https://handle.itu.int/11.1002/1000/12487
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.696-201508-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.696 (08/2015)
   type: ITU
@@ -54,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.696 | ISO/IEC 8825-7 specifies two sets of binary
-    encoding rules that can be applied to values of all ASN.1 types using less processing
-    resources than the Basic Encoding Rules and its derivatives (described in Rec.
-    ITU‑T X.690 | ISO/IEC 8825-1) and the Packed Encoding Rules (described in Rec.
-    ITU-T X.691 | ISO/IEC 8825‑2).\r\n"
+  content: "Recommendation ITU-T X.696 | ISO/IEC 8825-7 specifies two sets of binary encoding rules that can be applied to values of all ASN.1 types using less processing resources than the Basic Encoding Rules and its derivatives (described in Rec. ITU‑T X.690 | ISO/IEC 8825-1) and the Packed Encoding Rules (described in Rec. ITU-T X.691 | ISO/IEC 8825‑2).\r\n"
 status:
   stage:
     content: Withdrawal
@@ -78,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: Specification of Octet
-        Encoding Rules (OER)'
+      content: 'Information technology - ASN.1 encoding rules: Specification of Octet Encoding Rules (OER)'
     docidentifier:
     - content: X.696 (02/2021)
       type: ITU

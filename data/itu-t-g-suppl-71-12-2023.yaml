@@ -1,16 +1,16 @@
----
 id: ITUTGSuppl71122023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Optical line termination capabilities for supporting cooperative dynamic
-    bandwidth assignment
+  content: Optical line termination capabilities for supporting cooperative dynamic bandwidth assignment
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup71-202312-I
+  content: https://handle.itu.int/11.1002/1000/15854
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup71-202312-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 71 (12/2023)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 71 to ITU-T G-series Recommendations describes the passive
-    optical network optical line termination or passive optical network (PON) OLT
-    capabilities needed for applying cooperative dynamic bandwidth assignment (CO
-    DBA) both in a generic sense and for specific use cases. It explains the interactions
-    of the optical line termination (OLT) with the external entity sending information
-    for CO DBA, the way to interpret such information, and the needs for coordination
-    on choosing values for configurable parameters. The specific use case described
-    in this version of the Supplement is mobile fronthaul (MFH) over PON by using
-    O-RAN's cooperative transport interface (CTI) for the interaction between the
-    PON OLT and mobile distributed units (DUs).\r\n"
+  content: "Supplement 71 to ITU-T G-series Recommendations describes the passive optical network optical line termination or passive optical network (PON) OLT capabilities needed for applying cooperative dynamic bandwidth assignment (CO DBA) both in a generic sense and for specific use cases. It explains the interactions of the optical line termination (OLT) with the external entity sending information for CO DBA, the way to interpret such information, and the needs for coordination on choosing values for configurable parameters. The specific use case described in this version of the Supplement is mobile fronthaul (MFH) over PON by using O-RAN's cooperative transport interface (CTI) for the interaction between the PON OLT and mobile distributed units (DUs).\r\n"
 status:
   stage:
     content: Published
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optical line termination capabilities for supporting cooperative dynamic
-        bandwidth assignment
+      content: Optical line termination capabilities for supporting cooperative dynamic bandwidth assignment
     docidentifier:
     - content: G Suppl. 71 (04/2021)
       type: ITU

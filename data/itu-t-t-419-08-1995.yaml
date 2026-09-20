@@ -1,16 +1,16 @@
----
 id: ITUTT419081995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Document Architecture (ODA) and interchange
-    format: Audio content architectures'
+  content: 'Information technology – Open Document Architecture (ODA) and interchange format: Audio content architectures'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.419-199508-I
+  content: https://handle.itu.int/11.1002/1000/2551
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.419-199508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.419 (08/1995)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes an additional content
-    architecture to support the addition of audio content to documents conforming
-    to the Recommendation T.410-Series (ODA). The audio content may be processable
-    or formatted and consist of speech as well as other types of audio. Provision
-    is made for the support of all ITU-standardized audio and speech coding formats
-    as well as those standardized by other international organizations.
+  content: This Recommendation | International Standard describes an additional content architecture to support the addition of audio content to documents conforming to the Recommendation T.410-Series (ODA). The audio content may be processable or formatted and consist of speech as well as other types of audio. Provision is made for the support of all ITU-standardized audio and speech coding formats as well as those standardized by other international organizations.
 status:
   stage:
     content: Published

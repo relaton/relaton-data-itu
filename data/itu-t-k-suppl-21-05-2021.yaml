@@ -1,16 +1,16 @@
----
 id: ITUTKSuppl21052021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T K.21 – Rationale for setting resistibility requirements of telecommunication
-    equipment installed in customer premises against lightning
+  content: ITU-T K.21 – Rationale for setting resistibility requirements of telecommunication equipment installed in customer premises against lightning
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.Sup21-202105-I
+  content: https://handle.itu.int/11.1002/1000/14751
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.Sup21-202105-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K Suppl. 21 (05/2021)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 21 to ITU-T K-series Recommendations includes the technical
-    information (rationale) on resistibility against lightning contained in Recommendation
-    ITU-T K.21, \"Resistibility of telecommunication equipment installed in customer
-    premises to overvoltages and overcurrents\". \r\n"
+  content: "Supplement 21 to ITU-T K-series Recommendations includes the technical information (rationale) on resistibility against lightning contained in Recommendation ITU-T K.21, \"Resistibility of telecommunication equipment installed in customer premises to overvoltages and overcurrents\". \r\n"
 status:
   stage:
     content: Published
@@ -74,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Rationale for setting resistibility requirements of telecommunication
-        equipment installed in customer premises against lightning
+      content: Rationale for setting resistibility requirements of telecommunication equipment installed in customer premises against lightning
     docidentifier:
     - content: K Suppl. 21 (10/2020)
       type: ITU

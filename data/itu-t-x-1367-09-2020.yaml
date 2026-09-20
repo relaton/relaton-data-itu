@@ -1,16 +1,16 @@
----
 id: ITUTX1367092020
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Standard format for Internet of things error logs for security incident
-    operations
+  content: Standard format for Internet of things error logs for security incident operations
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1367-202009-I
+  content: https://handle.itu.int/11.1002/1000/14263
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1367-202009-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1367 (09/2020)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "There are two issues to handle security incidents from the Internet of
-    things (IoT) ecosystem: The first is the incompatibility of protocols between
-    computer networks using transmission control protocol/Internet protocol (TCP/IP)
-    and IoT edge devices. The second is the lack of compatibility of error codes among
-    edge device manufacturers. \r\n\r\nRecommendation ITU-T X.1367 specifies a standardized
-    error log format that can be placed in a protocol payload, such as syslog (see
-    IETF RFC 5424) to be used for converting an error log information issued by an
-    edge device to the standard error log format.  \r\n\r\nThis Recommendation also
-    specifies a standardized error code table to solve the second issue. As a result,
-    security incidents across computer networks and networks for IoT edge devices
-    can be integrally managed. \r\n"
+  content: "There are two issues to handle security incidents from the Internet of things (IoT) ecosystem: The first is the incompatibility of protocols between computer networks using transmission control protocol/Internet protocol (TCP/IP) and IoT edge devices. The second is the lack of compatibility of error codes among edge device manufacturers. \r\n\r\nRecommendation ITU-T X.1367 specifies a standardized error log format that can be placed in a protocol payload, such as syslog (see IETF RFC 5424) to be used for converting an error log information issued by an edge device to the standard error log format.  \r\n\r\nThis Recommendation also specifies a standardized error code table to solve the second issue. As a result, security incidents across computer networks and networks for IoT edge devices can be integrally managed. \r\n"
 status:
   stage:
     content: Published

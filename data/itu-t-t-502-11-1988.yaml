@@ -1,16 +1,16 @@
----
 id: ITUTT502111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Document application profile PM1 for the interchange of processable form
-    documents
+  content: Document application profile PM1 for the interchange of processable form documents
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.502-198811-S
+  content: https://handle.itu.int/11.1002/1000/2574
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.502-198811-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.502 (11/1988)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document application profile PM-11 for the interchange of simple structure,
-        character content documents in processable and formatted forms
+      content: Document application profile PM-11 for the interchange of simple structure, character content documents in processable and formatted forms
     docidentifier:
     - content: T.502 (11/1994)
       type: ITU
@@ -81,8 +80,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document application profile PM-11 for the interchange of character
-        content documents in processable and formatted forms
+      content: Document application profile PM-11 for the interchange of character content documents in processable and formatted forms
     docidentifier:
     - content: T.502 (03/1993)
       type: ITU
@@ -92,8 +90,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document application profile PM-11 for the interchange of character
-        content documents in processable and formatted forms
+      content: Document application profile PM-11 for the interchange of character content documents in processable and formatted forms
     docidentifier:
     - content: T.502 (01/1991)
       type: ITU

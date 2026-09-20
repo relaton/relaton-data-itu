@@ -1,16 +1,16 @@
----
 id: ITUTX207111993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Systems Interconnection – Application layer
-    structure
+  content: Information technology – Open Systems Interconnection – Application layer structure
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.207-199311-I
+  content: https://handle.itu.int/11.1002/1000/2821
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.207-199311-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.207 (11/1993)
   type: ITU
@@ -54,38 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides a framework for the
-    development of OSI application layer Recommandations | International Standard.
-    The framework provided is flexible and modular, to allow reuse and coordination
-    of application layer Recommendations | International Standard. This Recommendation
-    | International Standard does not specify services and protocols for OSI.  IntroductionThis
-    Recommendation | International Standard is a refinement of the description of
-    the OSI Application Layer contained in ITU-T Rec. X.200 | ISO/IEC 7498-1.The purpose
-    of this Recommendation | International Standard is to facilitate a coherent and
-    modular approach to Application Layer standardization. It defines a set of architectural
-    principles and concepts that provide a basis for structuring and relating the
-    specifications contained in Application Layer Recommendations and Standards. It
-    defines the internal structure of the Application Layer, providing a framework
-    for the development of Application Layer Recommendations and Standards. It also
-    describes the general principles underlying the operation of application-protocols.The
-    following subjects are covered by this Recommendation | International Standard:a)
-    the relationship between distributed information processing and OSI communication
-    services;b) the structure of application-entities;c) the OSI-service and protocol
-    structure in the Application Layer; andd) ASO-context and application-context.This
-    Recommendation | International Standard only considers those aspects of distributed
-    information processing for an application which are relevant for the derivation
-    of generic requirements for the structuring of Application Layer communications.The
-    architectural framework specified in this Recommendation | International Standard
-    embodies concepts that may not be fully supported by existing Application Layer
-    Recommendations and Standards. However, these concepts have been specified so
-    as to provide a basis for the development of future Application Layer Recommendations
-    and Standards which, it is anticipated, will require their use.This Recommendation
-    | International Standard may be subject to future expansion, particularly with
-    regard to multi-peer communication, security, application-context management,
-    recovery, and Open Distributed Processing.A companion Technical Report, which
-    is currently under development, will provide guidance on applying this Application
-    Layer Structure during the creation of Application Layer service and protocol
-    Recommendations and Standards.
+  content: This Recommendation | International Standard provides a framework for the development of OSI application layer Recommandations | International Standard. The framework provided is flexible and modular, to allow reuse and coordination of application layer Recommendations | International Standard. This Recommendation | International Standard does not specify services and protocols for OSI.  IntroductionThis Recommendation | International Standard is a refinement of the description of the OSI Application Layer contained in ITU-T Rec. X.200 | ISO/IEC 7498-1.The purpose of this Recommendation | International Standard is to facilitate a coherent and modular approach to Application Layer standardization. It defines a set of architectural principles and concepts that provide a basis for structuring and relating the specifications contained in Application Layer Recommendations and Standards. It defines the internal structure of the Application Layer, providing a framework for the development of Application Layer Recommendations and Standards. It also describes the general principles underlying the operation of application-protocols.The following subjects are covered by this Recommendation | International Standard:a) the relationship between distributed information processing and OSI communication services;b) the structure of application-entities;c) the OSI-service and protocol structure in the Application Layer; andd) ASO-context and application-context.This Recommendation | International Standard only considers those aspects of distributed information processing for an application which are relevant for the derivation of generic requirements for the structuring of Application Layer communications.The architectural framework specified in this Recommendation | International Standard embodies concepts that may not be fully supported by existing Application Layer Recommendations and Standards. However, these concepts have been specified so as to provide a basis for the development of future Application Layer Recommendations and Standards which, it is anticipated, will require their use.This Recommendation | International Standard may be subject to future expansion, particularly with regard to multi-peer communication, security, application-context management, recovery, and Open Distributed Processing.A companion Technical Report, which is currently under development, will provide guidance on applying this Application Layer Structure during the creation of Application Layer service and protocol Recommendations and Standards.
 status:
   stage:
     content: Published

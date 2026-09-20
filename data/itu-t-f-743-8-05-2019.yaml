@@ -1,16 +1,16 @@
----
 id: ITUTF7438052019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements for a cloud computing platform supporting a visual surveillance
-    system
+  content: Requirements for a cloud computing platform supporting a visual surveillance system
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.743.8-201905-I
+  content: https://handle.itu.int/11.1002/1000/13898
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.743.8-201905-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.743.8 (05/2019)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T F.743.8 specifies the requirements for a cloud computing
-    platform supporting visual surveillance. Cloud computing is an emerging technology
-    aimed at providing various computing services over the Internet. Using virtualization
-    technology, a cloud computing platform realizes a ubiquitous and flexible shared
-    resources pool that can be rapidly provisioned and released with minimal management
-    effort or service-provider interaction based on the needs of users. By using the
-    cloud computing technology, the visual surveillance system can conveniently manage
-    various functional components and services, such as video distribution, video
-    transcoding and intelligent video processing. This Recommendation provides the
-    application scenarios and requirements for a cloud computing platform supporting
-    a visual surveillance system.
+  content: Recommendation ITU-T F.743.8 specifies the requirements for a cloud computing platform supporting visual surveillance. Cloud computing is an emerging technology aimed at providing various computing services over the Internet. Using virtualization technology, a cloud computing platform realizes a ubiquitous and flexible shared resources pool that can be rapidly provisioned and released with minimal management effort or service-provider interaction based on the needs of users. By using the cloud computing technology, the visual surveillance system can conveniently manage various functional components and services, such as video distribution, video transcoding and intelligent video processing. This Recommendation provides the application scenarios and requirements for a cloud computing platform supporting a visual surveillance system.
 status:
   stage:
     content: Published
@@ -81,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission
-        services
+      content: Definitions relating to telegraph, telematic and data transmission services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based
-        on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU

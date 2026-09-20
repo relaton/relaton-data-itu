@@ -1,17 +1,16 @@
----
 id: ITUTX327111993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: General arrangements for interworking between Packet-Switched Public Data
-    Networks (PSPDNs) and private data networks for the provision of data transmission
-    services
+  content: General arrangements for interworking between Packet-Switched Public Data Networks (PSPDNs) and private data networks for the provision of data transmission services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.327-199311-I
+  content: https://handle.itu.int/11.1002/1000/2931
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.327-199311-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.327 (11/1993)
   type: ITU
@@ -52,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the interworking arrangements between PSPDNs
-    and private data networks for the provision of data transmission services. These
-    interworking arrangements include the capabilities required to support the network
-    service for Open Systems Interconnection for ITU-T applications as described in
-    Recommendation X.213. The current Recommendation has taken into account the market
-    demand for the PSPDN to provide the gateway function allowing interconnection
-    on a peer-to-peer basis between the public and private network.
+  content: This Recommendation describes the interworking arrangements between PSPDNs and private data networks for the provision of data transmission services. These interworking arrangements include the capabilities required to support the network service for Open Systems Interconnection for ITU-T applications as described in Recommendation X.213. The current Recommendation has taken into account the market demand for the PSPDN to provide the gateway function allowing interconnection on a peer-to-peer basis between the public and private network.
 status:
   stage:
     content: Published
@@ -78,9 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: General arrangements for interworking between packet switched public
-        data networks (PSPDNs) and private data networks for the provision of data
-        transmission services
+      content: General arrangements for interworking between packet switched public data networks (PSPDNs) and private data networks for the provision of data transmission services
     docidentifier:
     - content: X.327 (11/1988)
       type: ITU

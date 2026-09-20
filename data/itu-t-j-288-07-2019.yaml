@@ -1,16 +1,16 @@
----
 id: ITUTJ288072019
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Encapsulation of type length value (TLV) packet for cable transmission
-    systems
+  content: Encapsulation of type length value (TLV) packet for cable transmission systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.288-201907-I
+  content: https://handle.itu.int/11.1002/1000/13971
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.288-201907-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.288 (07/2019)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.288 proposes an encapsulation scheme for type length
-    value (TLV), a data structure specified in Recommendation ITU‑R BT.1869, for cable
-    transmission systems designed on the basis of Recommendation ITU-T J.83.\r\n\r\nMany
-    of the existing digital broadcasting systems use the Motion Picture Experts Group
-    version 2 (MPEG-2) transport stream (TS) as their input format. In contrast, variable-length
-    packets formats such as TLV are specified for transmitting Internet protocol (IP)
-    packets efficiently over broadcasting channels as aggregates of variable-length
-    packets. In order to transmit TLV with the existing Recommendation ITU-T J.83
-    transmission system, it is necessary that variable-length TLV packets be fragmented
-    and encapsulated into fixed-length 188-byte packets.\r\n\r\n "
+  content: "Recommendation ITU-T J.288 proposes an encapsulation scheme for type length value (TLV), a data structure specified in Recommendation ITU‑R BT.1869, for cable transmission systems designed on the basis of Recommendation ITU-T J.83.\r\n\r\nMany of the existing digital broadcasting systems use the Motion Picture Experts Group version 2 (MPEG-2) transport stream (TS) as their input format. In contrast, variable-length packets formats such as TLV are specified for transmitting Internet protocol (IP) packets efficiently over broadcasting channels as aggregates of variable-length packets. In order to transmit TLV with the existing Recommendation ITU-T J.83 transmission system, it is necessary that variable-length TLV packets be fragmented and encapsulated into fixed-length 188-byte packets.\r\n\r\n "
 status:
   stage:
     content: Published
@@ -80,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Encapsulation of type length value (TLV) packet for cable transmission
-        systems
+      content: Encapsulation of type length value (TLV) packet for cable transmission systems
     docidentifier:
     - content: J.288 (03/2016)
       type: ITU
@@ -91,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -102,10 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -115,9 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -137,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -148,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -159,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -170,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -181,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -192,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -203,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

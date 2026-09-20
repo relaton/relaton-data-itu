@@ -1,16 +1,16 @@
----
 id: ITUTD7011992
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Concept and implementation of "one-stop shopping" for international private
-    leased telecommunication circuits
+  content: Concept and implementation of "one-stop shopping" for international private leased telecommunication circuits
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-D.7-199201-I
+  content: https://handle.itu.int/11.1002/1000/331
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-D.7-199201-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T D.7 (01/1992)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides the general principles and procedures for
-    the implementation of \"one-stop shopping\" (OSS) for international private leased
-    telecommunication circuits (IPLC).\r\n"
+  content: "This Recommendation provides the general principles and procedures for the implementation of \"one-stop shopping\" (OSS) for international private leased telecommunication circuits (IPLC).\r\n"
 status:
   stage:
     content: Published
@@ -93,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing
-        national tariffs
+      content: Handbook on the methodology for determining costs and establishing national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

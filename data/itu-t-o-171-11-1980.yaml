@@ -1,13 +1,14 @@
----
 id: ITUTO171111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specification for instrumentation to measure timing-'jitter on digital
-    equipment
+  content: Specification for instrumentation to measure timing-'jitter on digital equipment
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/7998
 docidentifier:
 - content: ITU-T O.171 (11/1980)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Timing jitter and wander measuring equipment for digital systems which
-        are based on the plesiochronous digital hierarchy (PDH)
+      content: Timing jitter and wander measuring equipment for digital systems which are based on the plesiochronous digital hierarchy (PDH)
     docidentifier:
     - content: O.171 (04/1997)
       type: ITU
@@ -98,8 +98,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification for instrumentation to measure timing jitter on digital
-        equipment
+      content: Specification for instrumentation to measure timing jitter on digital equipment
     docidentifier:
     - content: O.171 (10/1984)
       type: ITU

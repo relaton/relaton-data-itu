@@ -1,16 +1,16 @@
----
 id: ITUTT812082007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – JPEG 2000 image coding system: An entry level
-    JPEG 2000 encoder'
+  content: 'Information technology – JPEG 2000 image coding system: An entry level JPEG 2000 encoder'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.812-200708-I
+  content: https://handle.itu.int/11.1002/1000/9234
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.812-200708-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.812 (08/2007)
   type: ITU
@@ -54,15 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of ITU-T Rec. T.812 | ISO/IEC 15444-13 is to define a normative
-    entry level JPEG 2000 encoder providing one or more optional complete encoding
-    paths that use various features defined in the JPEG 2000 specifications. This
-    Recommendation | International Standard provides for an entry-level encoder that
-    can be used in various applications with guidelines on its use, based on patents
-    for which royalty and license fee free declarations are available.This Recommendation
-    | International Standard defines a set of lossless (bit-preserving) and lossy
-    compression methods for coding bi-level, continuous-tone greyscale, palletized
-    colour, or continuous-tone colour digital still images.
+  content: The purpose of ITU-T Rec. T.812 | ISO/IEC 15444-13 is to define a normative entry level JPEG 2000 encoder providing one or more optional complete encoding paths that use various features defined in the JPEG 2000 specifications. This Recommendation | International Standard provides for an entry-level encoder that can be used in various applications with guidelines on its use, based on patents for which royalty and license fee free declarations are available.This Recommendation | International Standard defines a set of lossless (bit-preserving) and lossy compression methods for coding bi-level, continuous-tone greyscale, palletized colour, or continuous-tone colour digital still images.
 status:
   stage:
     content: Published

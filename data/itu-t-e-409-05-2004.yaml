@@ -1,16 +1,16 @@
----
 id: ITUTE409052004
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Incident organization and security incident handling: Guidelines for telecommunication
-    organizations'
+  content: 'Incident organization and security incident handling: Guidelines for telecommunication organizations'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.409-200405-I
+  content: https://handle.itu.int/11.1002/1000/6491
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.409-200405-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.409 (05/2004)
   type: ITU
@@ -51,43 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this Recommendation is to analyse, structure and suggest
-    a method for establishing an incident management organization within a telecommunication
-    organization involved in the provision of international telecommunications, where
-    the flow and structure of an incident are focused. The flow and the handling are
-    useful in determining whether an event is to be classified as an event, an incident,
-    a security incident or a crisis. The flow also covers the critical first decisions
-    that have to be made. Computer crime follows in the wake of the heavily increased
-    use of computers in international telecommunications. Over the last years, computer
-    crime has literally exploded, as confirmed by several international and national
-    surveys. In the majority of countries, there are no exact figures on the number
-    of computer break-ins or security incidents, especially those related to international
-    telecommunications.Most telecommunication organizations or companies do not have
-    any specialized organization for handling Information and Communication Networks
-    (ICN) security incidents (although they may have a general crisis team for handling
-    crises of any type). When an ICN security incident occurs it is handled ad hoc,
-    i.e., the person who detects an ICN security incident takes the responsibility
-    to handle it as best as (s)he can. In some organizations the tendency is to forget
-    and cover up ICN security incidents as they may affect production, availability
-    and revenues.Often, when an ICN security incident is detected, the person who
-    detects it does not know who to report it to. This may result in the system or
-    network's administrator deploying a workaround or quick fix just to get rid of
-    the problem. They do not have the delegated authority, time or expertise to correct
-    the system so that the ICN security incident does not recur. These are the main
-    reasons why it is better to have a trained unit or group that can handle security
-    incidents in a prompt and correct manner. Furthermore, many of the issues may
-    be in areas as diverse as media relations, legal, law enforcement, market share,
-    or financial.When reporting or handling an incident, the use of different taxonomies
-    leads to misunderstanding. This may, in turn, result in an ICN security incident
-    getting neither the proper attention, nor the prompt handling, that is needed
-    in order to stop, contain and prevent the incident from recurring. This may lead
-    to serious consequences for the affected organization (victim).To be able to succeed
-    in incident handling and incident reporting, it is necessary to have an understanding
-    of how incidents are detected, handled and resolved. By establishing a general
-    structure for incidents (i.e., physical, administrative or organizational, and
-    logical incidents) it is possible to obtain a general picture of the structure
-    and flow of an incident. A uniform terminology is the base for a common understanding
-    of words and terms.
+  content: The purpose of this Recommendation is to analyse, structure and suggest a method for establishing an incident management organization within a telecommunication organization involved in the provision of international telecommunications, where the flow and structure of an incident are focused. The flow and the handling are useful in determining whether an event is to be classified as an event, an incident, a security incident or a crisis. The flow also covers the critical first decisions that have to be made. Computer crime follows in the wake of the heavily increased use of computers in international telecommunications. Over the last years, computer crime has literally exploded, as confirmed by several international and national surveys. In the majority of countries, there are no exact figures on the number of computer break-ins or security incidents, especially those related to international telecommunications.Most telecommunication organizations or companies do not have any specialized organization for handling Information and Communication Networks (ICN) security incidents (although they may have a general crisis team for handling crises of any type). When an ICN security incident occurs it is handled ad hoc, i.e., the person who detects an ICN security incident takes the responsibility to handle it as best as (s)he can. In some organizations the tendency is to forget and cover up ICN security incidents as they may affect production, availability and revenues.Often, when an ICN security incident is detected, the person who detects it does not know who to report it to. This may result in the system or network's administrator deploying a workaround or quick fix just to get rid of the problem. They do not have the delegated authority, time or expertise to correct the system so that the ICN security incident does not recur. These are the main reasons why it is better to have a trained unit or group that can handle security incidents in a prompt and correct manner. Furthermore, many of the issues may be in areas as diverse as media relations, legal, law enforcement, market share, or financial.When reporting or handling an incident, the use of different taxonomies leads to misunderstanding. This may, in turn, result in an ICN security incident getting neither the proper attention, nor the prompt handling, that is needed in order to stop, contain and prevent the incident from recurring. This may lead to serious consequences for the affected organization (victim).To be able to succeed in incident handling and incident reporting, it is necessary to have an understanding of how incidents are detected, handled and resolved. By establishing a general structure for incidents (i.e., physical, administrative or organizational, and logical incidents) it is possible to obtain a general picture of the structure and flow of an incident. A uniform terminology is the base for a common understanding of words and terms.
 status:
   stage:
     content: Published
@@ -107,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

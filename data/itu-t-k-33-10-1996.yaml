@@ -1,16 +1,16 @@
----
 id: ITUTK33101996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Limits for people safety related to coupling into telecommunications system
-    from a.c. electric power and a.c. electrified railway installations in fault conditions
+  content: Limits for people safety related to coupling into telecommunications system from a.c. electric power and a.c. electrified railway installations in fault conditions
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.33-199610-W
+  content: https://handle.itu.int/11.1002/1000/3874
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.33-199610-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.33 (10/1996)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation gives limiting values of voltages on a telecommunications
-    line caused by a fault occurring on a nearby a.c. electric power or a.c. electrified
-    railway line, shows the way these values have been developed and provides guidance
-    on how to calculate limiting values also in cases where the given values are not
-    applicable.
+  content: This Recommendation gives limiting values of voltages on a telecommunications line caused by a fault occurring on a nearby a.c. electric power or a.c. electrified railway line, shows the way these values have been developed and provides guidance on how to calculate limiting values also in cases where the given values are not applicable.
 status:
   stage:
     content: Withdrawal

@@ -1,16 +1,16 @@
----
 id: ITUTE1681022005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Assignment procedures for universal personal telecommunications (UPT) numbers
-    in the provisioning of the international UPT service
+  content: Assignment procedures for universal personal telecommunications (UPT) numbers in the provisioning of the international UPT service
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.168.1-200502-W
+  content: https://handle.itu.int/11.1002/1000/7432
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.168.1-200502-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.168.1 (02/2005)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation details the assignment procedures for Universal Personal
-    Telecommunications (UPT) numbers, in the provisioning of the international UPT
-    service as defined in ITU-T Rec. E.168. The assignment procedures in this Recommendation
-    are applicable only to UPT Scenario 3 as defined in ITU-T Rec. E.168. The assignment
-    of numbering resources to applicants under E.168.1 is the function/responsibility
-    of the centralized ITU Numbering Administration Group (ITU-NAG) within the ITU-TSB.
+  content: This Recommendation details the assignment procedures for Universal Personal Telecommunications (UPT) numbers, in the provisioning of the international UPT service as defined in ITU-T Rec. E.168. The assignment procedures in this Recommendation are applicable only to UPT Scenario 3 as defined in ITU-T Rec. E.168. The assignment of numbering resources to applicants under E.168.1 is the function/responsibility of the centralized ITU Numbering Administration Group (ITU-NAG) within the ITU-TSB.
 status:
   stage:
     content: Withdrawal
@@ -76,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Assignment procedures for universal personal telecommunications (UPT)
-        numbers in the provisioning of the international UPT service
+      content: Assignment procedures for universal personal telecommunications (UPT) numbers in the provisioning of the international UPT service
     docidentifier:
     - content: E.168.1 (05/2002)
       type: ITU

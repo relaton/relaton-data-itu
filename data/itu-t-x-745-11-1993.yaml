@@ -1,16 +1,16 @@
----
 id: ITUTX745111993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Systems Management:
-    Test management function'
+  content: 'Information technology – Open Systems Interconnection – Systems Management: Test management function'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.745-199311-I
+  content: https://handle.itu.int/11.1002/1000/3088
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.745-199311-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.745 (11/1993)
   type: ITU
@@ -54,10 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies a model and managed
-    objects for the invocation of tests on remote resources. Tests may be controlled
-    and subject to monitoring, suspension and resumption during application or uncontrolled
-    and where results are returned until complete.
+  content: This Recommendation | International Standard specifies a model and managed objects for the invocation of tests on remote resources. Tests may be controlled and subject to monitoring, suspension and resumption during application or uncontrolled and where results are returned until complete.
 status:
   stage:
     content: Published

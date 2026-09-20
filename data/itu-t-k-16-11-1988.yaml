@@ -1,16 +1,16 @@
----
 id: ITUTK16111988
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Simplified calculation method for estimating the effect of magnetic induction
-    from power lines on remote-fed repeaters in coaxial pair telecommunication systems
+  content: Simplified calculation method for estimating the effect of magnetic induction from power lines on remote-fed repeaters in coaxial pair telecommunication systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.16-198811-W
+  content: https://handle.itu.int/11.1002/1000/1382
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.16-198811-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.16 (11/1988)
   type: ITU
@@ -46,28 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The article mentioned in reference [1] contains a general treatise covering
-    all possible cases of magnetic induction and permitting calculation of the location-dependent
-    variation of the induced voltages and currents for full or partial exposure to
-    induction of a route. This Recommendation gives general information on how to
-    find an equivalent circuit which permits rapid estimation of the maxima of the
-    voltages and currents in cable conductors for any length and location of exposure.
-    The lumped capacitances and the transfer impedance of the equivalent circuit must
-    be appropriately chosen. Only two groups of parameters are required here, depending
-    upon whether the length of the exposed section is shorter than, or equal to, or
-    greater than half the length of the power-feeding section. The manner of switching
-    from the complex formulae given in [1] to the simplified calculation is explained
-    in Annex A.To check the usefulness of this universally applicable equivalent circuit,
-    the maxima of the voltages and currents induced on the conductors of a cable when
-    the outer conductors are at floating potential are calculated in Annex B for some
-    of the exposure values evaluated numerically in the article mentioned above. They
-    are also entered in the diagrams. It will be seen that the calculation procedure
-    shown in this Annex B gives sufficiently accurate results for practical purposes.Annex
-    C shows how the equivalent circuit must be modified in cases where the outer conductors
-    of the coaxial pairs are earthed at the terminals and at the repeater points.A
-    similar calculation method for the effects of magnetic induction of power lines
-    on telecommunication systems installed on coaxial pair cables whose outer conductor
-    is insulated is described in the article mentioned in reference [2].
+  content: The article mentioned in reference [1] contains a general treatise covering all possible cases of magnetic induction and permitting calculation of the location-dependent variation of the induced voltages and currents for full or partial exposure to induction of a route. This Recommendation gives general information on how to find an equivalent circuit which permits rapid estimation of the maxima of the voltages and currents in cable conductors for any length and location of exposure. The lumped capacitances and the transfer impedance of the equivalent circuit must be appropriately chosen. Only two groups of parameters are required here, depending upon whether the length of the exposed section is shorter than, or equal to, or greater than half the length of the power-feeding section. The manner of switching from the complex formulae given in [1] to the simplified calculation is explained in Annex A.To check the usefulness of this universally applicable equivalent circuit, the maxima of the voltages and currents induced on the conductors of a cable when the outer conductors are at floating potential are calculated in Annex B for some of the exposure values evaluated numerically in the article mentioned above. They are also entered in the diagrams. It will be seen that the calculation procedure shown in this Annex B gives sufficiently accurate results for practical purposes.Annex C shows how the equivalent circuit must be modified in cases where the outer conductors of the coaxial pairs are earthed at the terminals and at the repeater points.A similar calculation method for the effects of magnetic induction of power lines on telecommunication systems installed on coaxial pair cables whose outer conductor is insulated is described in the article mentioned in reference [2].
 status:
   stage:
     content: Withdrawal
@@ -87,9 +66,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Simplified calculation method for estimating the effect of magnetic
-        induction from power lines on remote-fed repeaters in coaxial pair telecommunication
-        systems
+      content: Simplified calculation method for estimating the effect of magnetic induction from power lines on remote-fed repeaters in coaxial pair telecommunication systems
     docidentifier:
     - content: K.16 (10/1984)
       type: ITU
@@ -99,9 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Simplified calculation method for estimating the effect of magnetic
-        induction from power lines on remote-fed repeaters in coaxial pair telecommunication
-        systems
+      content: Simplified calculation method for estimating the effect of magnetic induction from power lines on remote-fed repeaters in coaxial pair telecommunication systems
     docidentifier:
     - content: K.16 (11/1980)
       type: ITU
@@ -111,9 +86,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Simplified calculation method for estimating the effect of magnetic
-        induction from power lines on remote-fed repeaters in coaxial-pair telecommunication
-        systems
+      content: Simplified calculation method for estimating the effect of magnetic induction from power lines on remote-fed repeaters in coaxial-pair telecommunication systems
     docidentifier:
     - content: K.16 (10/1976)
       type: ITU

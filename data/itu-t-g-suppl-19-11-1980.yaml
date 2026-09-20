@@ -1,13 +1,14 @@
----
 id: ITUTGSuppl19111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Digital crosstalk measurement (method used by the Administrations of France,
-    the Netherlands and Spain)
+  content: Digital crosstalk measurement (method used by the Administrations of France, the Netherlands and Spain)
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/7749
 docidentifier:
 - content: ITU-T G Suppl. 19 (11/1980)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital crosstalk measurement (method used by the Administrations of
-        France, the Netherlands and Spain)
+      content: Digital crosstalk measurement (method used by the Administrations of France, the Netherlands and Spain)
     docidentifier:
     - content: G Suppl. 19 (10/1984)
       type: ITU

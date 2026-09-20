@@ -1,16 +1,16 @@
----
 id: ITUTX786012022
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines for implementation conformance statement proformas associated
-    with REST-based management systems
+  content: Guidelines for implementation conformance statement proformas associated with REST-based management systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.786-202201-I
+  content: https://handle.itu.int/11.1002/1000/14836
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.786-202201-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.786 (01/2022)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.786 establishes guidelines for implementation conformance
-    statement (ICS) proformas for interface systems based on representational state
-    transfer (REST). Recommendation ITU-T X.786 provides an overview and constructions
-    for the open application programming interface (OpenAPI) specification (OAS),
-    and provides several proformas (tables) for each OAS syntax component to be used
-    in REST-based interfaces. Instructions on how to complete the columns in the conformance
-    tables are also provided. Examples of REST-based interface ICSs are provided in
-    appendices.
+  content: Recommendation ITU-T X.786 establishes guidelines for implementation conformance statement (ICS) proformas for interface systems based on representational state transfer (REST). Recommendation ITU-T X.786 provides an overview and constructions for the open application programming interface (OpenAPI) specification (OAS), and provides several proformas (tables) for each OAS syntax component to be used in REST-based interfaces. Instructions on how to complete the columns in the conformance tables are also provided. Examples of REST-based interface ICSs are provided in appendices.
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTM1539031999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Management of the grade of network maintenance services at the Maintenance
-    Service Customer Contact Point (MSCC)
+  content: Management of the grade of network maintenance services at the Maintenance Service Customer Contact Point (MSCC)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1539-199903-I
+  content: https://handle.itu.int/11.1002/1000/4627
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1539-199903-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1539 (03/1999)
   type: ITU
@@ -51,35 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the guidelines for the management of the Grade
-    Of network[1] Maintenance Services (GOMS) at the Maintenance Service Customer
-    Contact point (MSCC).For any Maintenance Service (MS), the MSCC is a conceptual
-    point at which a Maintenance Service Provider (MSP) and each of its Maintenance
-    Service Customers (MSCs) can interact in order to provide, use, operate, measure,
-    retain, manage, invoice, etc., the MS concerned according to the GOMS which has
-    been established in a contract or in an informal agreement.In this Recommendation,
-    the following subjects are covered:a) the GOMS general aspects, from the point
-    of view of an MSC and the point of view of an MSP requirements; b) the fundamental
-    QOS criteria, methodologies, performance parameters, their indices and measurements,
-    adopted for any MS and its Maintenance Service Elements (MSEs), including the
-    associated set of maintenance processes and their specific procedures; c) the
-    description of a consistent set of standardized Operational Procedures Selection
-    for the management, achievement and improvement of the GOMS (OPSG) and the relevant
-    main performance parameters/indices, which must ensure that for any MS and its
-    individual network and service elements or any other support function [i.e. Operations,
-    Administration Maintenance and Provisioning (OAM&P)], each process involved together
-    with relevant procedures, are properly carried out and managed in order to completely
-    achieve the agreed GOMS objective of this particular MS at the MSCC.In the appendices,
-    some examples of the application of an OPSG to specific managed areas regarding
-    telecommunications services are also shown for a better understanding between
-    an MSC and an MSP for any GOMS conformance testing. In a competitive market environment,
-    for a specific end-to-end MS, the suggested guidelines will ensure the improvement
-    of the efficiency and the effectiveness of all operational resources involved.
-    The management of the GOMS also ensures to both MSC and MSP a significant optimization
-    of all relevant operational costs.        [1] The word "network" is used here
-    to emphasize that the Maintenance Services are related to the entire telecommunication
-    network and it will be avoided further within the text. A brief overview of the
-    main Maintenance Services is shown in Annex A.
+  content: This Recommendation provides the guidelines for the management of the Grade Of network[1] Maintenance Services (GOMS) at the Maintenance Service Customer Contact point (MSCC).For any Maintenance Service (MS), the MSCC is a conceptual point at which a Maintenance Service Provider (MSP) and each of its Maintenance Service Customers (MSCs) can interact in order to provide, use, operate, measure, retain, manage, invoice, etc., the MS concerned according to the GOMS which has been established in a contract or in an informal agreement.In this Recommendation, the following subjects are covered:a) the GOMS general aspects, from the point of view of an MSC and the point of view of an MSP requirements; b) the fundamental QOS criteria, methodologies, performance parameters, their indices and measurements, adopted for any MS and its Maintenance Service Elements (MSEs), including the associated set of maintenance processes and their specific procedures; c) the description of a consistent set of standardized Operational Procedures Selection for the management, achievement and improvement of the GOMS (OPSG) and the relevant main performance parameters/indices, which must ensure that for any MS and its individual network and service elements or any other support function [i.e. Operations, Administration Maintenance and Provisioning (OAM&P)], each process involved together with relevant procedures, are properly carried out and managed in order to completely achieve the agreed GOMS objective of this particular MS at the MSCC.In the appendices, some examples of the application of an OPSG to specific managed areas regarding telecommunications services are also shown for a better understanding between an MSC and an MSP for any GOMS conformance testing. In a competitive market environment, for a specific end-to-end MS, the suggested guidelines will ensure the improvement of the efficiency and the effectiveness of all operational resources involved. The management of the GOMS also ensures to both MSC and MSP a significant optimization of all relevant operational costs.        [1] The word "network" is used here to emphasize that the Maintenance Services are related to the entire telecommunication network and it will be avoided further within the text. A brief overview of the main Maintenance Services is shown in Annex A.
 status:
   stage:
     content: Published

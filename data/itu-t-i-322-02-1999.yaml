@@ -1,4 +1,3 @@
----
 id: ITUTI322021999
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.322-199902-I
+  content: https://handle.itu.int/11.1002/1000/4578
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.322-199902-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.322 (02/1999)
   type: ITU
@@ -50,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a Generic Protocol Reference Model (GPRM) used
-    to describe heterogeneous transport networks based on the deployment of overlaid
-    switching and transmission techniques. GPRM models the interconnection and exchange
-    of information, including information pertaining to the user, control and management
-    functions.
+  content: This Recommendation defines a Generic Protocol Reference Model (GPRM) used to describe heterogeneous transport networks based on the deployment of overlaid switching and transmission techniques. GPRM models the interconnection and exchange of information, including information pertaining to the user, control and management functions.
 status:
   stage:
     content: Published
@@ -74,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

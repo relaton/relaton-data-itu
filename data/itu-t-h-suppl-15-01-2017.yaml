@@ -1,16 +1,16 @@
----
 id: ITUTHSuppl15012017
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ
-    transfer characteristics
+  content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.Sup15-201701-I
+  content: https://handle.itu.int/11.1002/1000/13243
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.Sup15-201701-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H Suppl. 15 (01/2017)
   type: ITU
@@ -51,25 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This document provides guidance on the processing of High Dynamic Range
-    (HDR) and Wide Colour Gamut (WCG) video content. The purpose of this document
-    is to provide a set of publicly referenceable recommended guidelines for the operation
-    of AVC or HEVC video coding systems adapted for compressing HDR/WCG video for
-    consumer distribution applications. This document includes a description of processing
-    steps for converting from 4:4:4 RGB linear light representation video signals
-    into non-constant luminance (NCL) Y¢CbCr video signals that use the Perceptual
-    Quantizer (PQ) transfer function defined in SMPTE ST 2084 and Rec. ITU-R BT.2100.
-    Although the focus of this document is primarily on 4:2:0 Y¢CbCr 10 bit representations,
-    these guidelines may also apply to other representations with higher bit depth
-    or other colour formats, such as 4:4:4 Y¢CbCr 12 bit video. In addition, this
-    document provides some high-level recommendations for compressing these signals
-    using either the AVC or HEVC video coding standards. A description of post-decoding
-    processing steps is also included for converting these NCL Y¢CbCr signals back
-    to a linear light, 4:4:4 RGB representation.\r\n\r\nThis Supplement was jointly
-    developed by ITU-T Study Group 16 and ISO/IEC JTC1 SC29/WG11 and may be found
-    as ISO/IEC TR 23008-14 \"Information technology – High efficiency coding and media
-    delivery in heterogeneous environments – Part 14: Conversion and coding practices
-    for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics\".\r\n"
+  content: "This document provides guidance on the processing of High Dynamic Range (HDR) and Wide Colour Gamut (WCG) video content. The purpose of this document is to provide a set of publicly referenceable recommended guidelines for the operation of AVC or HEVC video coding systems adapted for compressing HDR/WCG video for consumer distribution applications. This document includes a description of processing steps for converting from 4:4:4 RGB linear light representation video signals into non-constant luminance (NCL) Y¢CbCr video signals that use the Perceptual Quantizer (PQ) transfer function defined in SMPTE ST 2084 and Rec. ITU-R BT.2100. Although the focus of this document is primarily on 4:2:0 Y¢CbCr 10 bit representations, these guidelines may also apply to other representations with higher bit depth or other colour formats, such as 4:4:4 Y¢CbCr 12 bit video. In addition, this document provides some high-level recommendations for compressing these signals using either the AVC or HEVC video coding standards. A description of post-decoding processing steps is also included for converting these NCL Y¢CbCr signals back to a linear light, 4:4:4 RGB representation.\r\n\r\nThis Supplement was jointly developed by ITU-T Study Group 16 and ISO/IEC JTC1 SC29/WG11 and may be found as ISO/IEC TR 23008-14 \"Information technology – High efficiency coding and media delivery in heterogeneous environments – Part 14: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics\".\r\n"
 status:
   stage:
     content: Published

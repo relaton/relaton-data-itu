@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl69052021
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Web-based data model for Internet of things and smart city systems and
-    services
+  content: Web-based data model for Internet of things and smart city systems and services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup69-202105-I
+  content: https://handle.itu.int/11.1002/1000/14732
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup69-202105-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 69 (05/2021)
   type: ITU
@@ -51,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Data models play a critical role in data, applications, systems, and businesses
-    across various industries as they provide the definition and format of data to
-    support data, computer systems, and related businesses. Supplement 69 to ITU-T
-    Y-series Recommendations provides a web-based data model for Internet of things
-    (IoT) and smart cities. More specifically, this Supplement covers the following:
-    – Suggestions for generic considerations of data format; – Necessity for a new
-    type of metadata for interoperability; – Necessity and importance for a common
-    data model for bridging existing data models; – Necessity, importance, and adequacy
-    of microdata formats for data management in web environments; – Fundamental concepts
-    and background of current web environments and microdata formats in terms of structuring
-    and managing data in detail; – A new category of metadata, called procedural metadata,
-    and its basic principles. \r\n"
+  content: "Data models play a critical role in data, applications, systems, and businesses across various industries as they provide the definition and format of data to support data, computer systems, and related businesses. Supplement 69 to ITU-T Y-series Recommendations provides a web-based data model for Internet of things (IoT) and smart cities. More specifically, this Supplement covers the following: – Suggestions for generic considerations of data format; – Necessity for a new type of metadata for interoperability; – Necessity and importance for a common data model for bridging existing data models; – Necessity, importance, and adequacy of microdata formats for data management in web environments; – Fundamental concepts and background of current web environments and microdata formats in terms of structuring and managing data in detail; – A new category of metadata, called procedural metadata, and its basic principles. \r\n"
 status:
   stage:
     content: Published

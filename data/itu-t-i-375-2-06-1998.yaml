@@ -1,16 +1,16 @@
----
 id: ITUTI3752061998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Network capabilities to support multimedia services : Example of multimedia
-    retrieval service class – Video-on-demand service using an ATM-based network'
+  content: 'Network capabilities to support multimedia services : Example of multimedia retrieval service class – Video-on-demand service using an ATM-based network'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.375.2-199806-I
+  content: https://handle.itu.int/11.1002/1000/4407
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.375.2-199806-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.375.2 (06/1998)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies network requirements for one type of multimedia
-    retrieval services, namely the Video-on-demand service. The Network capabilities
-    to support the service are described by means of reference configurations and
-    corresponding network architectures. Functional blocks in the architecture are
-    identified and the physical and logical relationships among these blocks are described.
-    Although assumptions must necessarily be made regarding the functionality of Customer
-    Premises Equipment (CPE), specific requirements for CPE are outside the scope
-    of this Recommendation.This Recommendation focuses on IN-based solutions. Non-IN-based
-    solutions are also included, but in much less detail.General aspects of network
-    capabilities to support multimedia services covering all service classes are provided
-    in a separate Recommendation, I.375.1.
+  content: This Recommendation specifies network requirements for one type of multimedia retrieval services, namely the Video-on-demand service. The Network capabilities to support the service are described by means of reference configurations and corresponding network architectures. Functional blocks in the architecture are identified and the physical and logical relationships among these blocks are described. Although assumptions must necessarily be made regarding the functionality of Customer Premises Equipment (CPE), specific requirements for CPE are outside the scope of this Recommendation.This Recommendation focuses on IN-based solutions. Non-IN-based solutions are also included, but in much less detail.General aspects of network capabilities to support multimedia services covering all service classes are provided in a separate Recommendation, I.375.1.
 status:
   stage:
     content: Published
@@ -81,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

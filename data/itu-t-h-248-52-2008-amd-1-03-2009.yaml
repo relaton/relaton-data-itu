@@ -1,4 +1,3 @@
----
 id: ITUTH248522008Amd1032009
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.248.52-200806-I
+  content: https://handle.itu.int/11.1002/1000/9699
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.248.52-200806-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.248.52 (2008) Amd. 1 (03/2009)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides H.248 packages for different Quality of Service
-    (QoS) support mechanisms. The QoS Class package may be used in various areas with
-    relations to QoS e.g. Media Gateway level admission control functions. The Differentiated
-    Services package is specifically designed to support QoS marking for IPv4 or IPv6
-    based H.248 streams/terminations, but limited to the 6-bit DiffServ field within
-    the IP header. The General IP Header QoS Octet package allows QoS marking and
-    modification of the entire 8-bit field, related to QoS protocol control information
-    elements in IPv4 and IPv6 packet headers.H.248.52 (06/2008) Amendment 1 (03/2009),
-    which is integrated in this edition, defined a new version of the Differentiated
-    Services package, which clarifies the procedures for copying DSCP values from
-    ingress packets to egress ones.
+  content: This Recommendation provides H.248 packages for different Quality of Service (QoS) support mechanisms. The QoS Class package may be used in various areas with relations to QoS e.g. Media Gateway level admission control functions. The Differentiated Services package is specifically designed to support QoS marking for IPv4 or IPv6 based H.248 streams/terminations, but limited to the 6-bit DiffServ field within the IP header. The General IP Header QoS Octet package allows QoS marking and modification of the entire 8-bit field, related to QoS protocol control information elements in IPv4 and IPv6 packet headers.H.248.52 (06/2008) Amendment 1 (03/2009), which is integrated in this edition, defined a new version of the Differentiated Services package, which clarifies the procedures for copying DSCP values from ingress packets to egress ones.
 status:
   stage:
     content: Published
@@ -100,9 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -133,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -144,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -155,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -176,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -207,8 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

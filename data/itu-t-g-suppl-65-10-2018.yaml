@@ -1,4 +1,3 @@
----
 id: ITUTGSuppl65102018
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup65-201810-I
+  content: https://handle.itu.int/11.1002/1000/13822
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup65-201810-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 65 (10/2018)
   type: ITU
@@ -50,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 65 to the G-series Recommendations describesthe mathematical
-    modelling and simulation analyses to support the developmentof ITU-T Recommendations
-    on the transport of time over packet networks. Themain purpose of this Supplement
-    is to document this work, as it forms thebasis for the requirements in the relevant
-    Recommendations.\r\n\r\nBoth time-domain and frequency domain models and analysesare
-    described.\r\n\r\nSince SyncE noise accumulation results are needed as an inputto
-    the simulation of time error accumulation, models and simulation analysesfor SyncE
-    noise generation and accumulation are also described. The modellingand simulation
-    work described here is limited to steady-state behaviour,non-enhanced clocks,
-    full-timing support from the network, and frequencyprovided by the physical layer
-    by SyncE. Simulation cases that do not havethese limitations are for further study.\r\n"
+  content: "Supplement 65 to the G-series Recommendations describesthe mathematical modelling and simulation analyses to support the developmentof ITU-T Recommendations on the transport of time over packet networks. Themain purpose of this Supplement is to document this work, as it forms thebasis for the requirements in the relevant Recommendations.\r\n\r\nBoth time-domain and frequency domain models and analysesare described.\r\n\r\nSince SyncE noise accumulation results are needed as an inputto the simulation of time error accumulation, models and simulation analysesfor SyncE noise generation and accumulation are also described. The modellingand simulation work described here is limited to steady-state behaviour,non-enhanced clocks, full-timing support from the network, and frequencyprovided by the physical layer by SyncE. Simulation cases that do not havethese limitations are for further study.\r\n"
 status:
   stage:
     content: Published

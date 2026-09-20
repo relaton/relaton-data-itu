@@ -1,4 +1,3 @@
----
 id: ITUTI2542081992
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-I.254.2-199208-I
+  content: https://handle.itu.int/11.1002/1000/1199
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-I.254.2-199208-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T I.254.2 (08/1992)
   type: ITU
@@ -70,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Multiparty supplementary services : Three-Party Supplementary Service
-        (3PTY)'
+      content: 'Multiparty supplementary services : Three-Party Supplementary Service (3PTY)'
     docidentifier:
     - content: I.254.2 (11/1988)
       type: ITU
@@ -81,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined
-        in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

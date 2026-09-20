@@ -1,16 +1,16 @@
----
 id: ITUTV1512006Amd1082007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: New Annex E 'Payload format and signalling syntax for real-time text transported
-    within an audio stream' and related changes
+  content: New Annex E 'Payload format and signalling syntax for real-time text transported within an audio stream' and related changes
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.151-200605-I
+  content: https://handle.itu.int/11.1002/1000/9235
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.151-200605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.151 (2006) Amd. 1 (08/2007)
   type: ITU
@@ -70,8 +70,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for the end-to-end connection of analogue PSTN text telephones
-        over an IP network utilizing text relay
+      content: Procedures for the end-to-end connection of analogue PSTN text telephones over an IP network utilizing text relay
     docidentifier:
     - content: V.151 (05/2006)
       type: ITU

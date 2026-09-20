@@ -1,16 +1,16 @@
----
 id: ITUTX1163052015
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Security requirements and mechanisms of peer-to-peer-based telecommunication
-    networks
+  content: Security requirements and mechanisms of peer-to-peer-based telecommunication networks
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1163-201505-I
+  content: https://handle.itu.int/11.1002/1000/12476
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1163-201505-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1163 (05/2015)
   type: ITU
@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Because of the obvious merits of peer-to-peer (P2P) networks (such as
-    lower cost, scalability and fault tolerance), some operators began to consider
-    the possibility of constructing the next-generation kernel network based on P2P.
-    In order to implement an operable and manageable P2P-based telecommunication network,
-    the security solution must be a critical part of it.\r\nThe distributed service
-    network (DSN) defined in Recommendations ITU-T Y.2206 and ITU-T Y.2080 is designed
-    as a telecommunication network based on P2P. The capability requirements and the
-    functional architecture are defined in Recommendations ITU-T Y.2206 and ITU-T
-    Y.2080, respectively; however, the security aspects are not addressed in either
-    of these two Recommendations. The security requirements and mechanisms defined
-    in Recommendation ITU-T X.1163 complement the DSN-related work.\r\nRecommendation
-    ITU-T X.1163 provides a security guideline for a telecommunication network based
-    on P2P technology. It briefly introduces the characteristics of the network, it
-    also analyses the security requirements of the network and the services, and it
-    specifies the security mechanisms to fulfil these requirements.\r\n"
+  content: "Because of the obvious merits of peer-to-peer (P2P) networks (such as lower cost, scalability and fault tolerance), some operators began to consider the possibility of constructing the next-generation kernel network based on P2P. In order to implement an operable and manageable P2P-based telecommunication network, the security solution must be a critical part of it.\r\nThe distributed service network (DSN) defined in Recommendations ITU-T Y.2206 and ITU-T Y.2080 is designed as a telecommunication network based on P2P. The capability requirements and the functional architecture are defined in Recommendations ITU-T Y.2206 and ITU-T Y.2080, respectively; however, the security aspects are not addressed in either of these two Recommendations. The security requirements and mechanisms defined in Recommendation ITU-T X.1163 complement the DSN-related work.\r\nRecommendation ITU-T X.1163 provides a security guideline for a telecommunication network based on P2P technology. It briefly introduces the characteristics of the network, it also analyses the security requirements of the network and the services, and it specifies the security mechanisms to fulfil these requirements.\r\n"
 status:
   stage:
     content: Published

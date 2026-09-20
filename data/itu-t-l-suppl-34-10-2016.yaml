@@ -1,16 +1,16 @@
----
 id: ITUTLSuppl34102016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Example of hybrid lice cycle assessment of the aggregated second order
-    effects of selected information and communication technology services
+  content: Example of hybrid lice cycle assessment of the aggregated second order effects of selected information and communication technology services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-L.Sup34-201610-I
+  content: https://handle.itu.int/11.1002/1000/13157
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.Sup34-201610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L Suppl. 34 (10/2016)
   type: ITU
@@ -51,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 34 to ITU-T L-series Recommendations presents three case studies
-    of the life cycle assessment (LCA) of the second order effects of some selected
-    information and communication technology (ICT) services running upon three different
-    primary subscription services: the 4th Generation Long Term Evolution (4G LTE)
-    service, the 3rd Generation Wideband Code Division Multiple Access (3G W CDMA)
-    service, and an optical fixed Internet protocol (IP) network (broadband NW), all
-    provided by Nippon Telegraph and Telephone Corporation (NTT) groups in Japan.
-    \r\nThe goal of these case studies is to clarify the second order effects per
-    private subscriber of the ICT services in compliance with ITU-T L.1410 for the
-    assessed ICT services. The second order effects of each target scenario, e.g.,
-    e-mail, video/music on demand and games, provided by each ICT service are evaluated
-    by comparative analyses between each target scenario and corresponding reference
-    scenarios, which are defined as a private subscriber's behaviour when not using
-    an ICT service. Both scenarios are defined in a questionnaire investigation given
-    to users. The total second order effects per subscriber for each ICT service are
-    obtained by aggregating the results of these comparative analyses based on hybrid
-    LCA.\r\n"
+  content: "Supplement 34 to ITU-T L-series Recommendations presents three case studies of the life cycle assessment (LCA) of the second order effects of some selected information and communication technology (ICT) services running upon three different primary subscription services: the 4th Generation Long Term Evolution (4G LTE) service, the 3rd Generation Wideband Code Division Multiple Access (3G W CDMA) service, and an optical fixed Internet protocol (IP) network (broadband NW), all provided by Nippon Telegraph and Telephone Corporation (NTT) groups in Japan. \r\nThe goal of these case studies is to clarify the second order effects per private subscriber of the ICT services in compliance with ITU-T L.1410 for the assessed ICT services. The second order effects of each target scenario, e.g., e-mail, video/music on demand and games, provided by each ICT service are evaluated by comparative analyses between each target scenario and corresponding reference scenarios, which are defined as a private subscriber's behaviour when not using an ICT service. Both scenarios are defined in a questionnaire investigation given to users. The total second order effects per subscriber for each ICT service are obtained by aggregating the results of these comparative analyses based on hybrid LCA.\r\n"
 status:
   stage:
     content: Published

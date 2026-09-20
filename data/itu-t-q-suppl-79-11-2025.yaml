@@ -1,16 +1,16 @@
----
 id: ITUTQSuppl79112025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Implementation of software-defined wide area networking (SD-WAN) service
-    based on segment routing IPv6 (SRv6)
+  content: Implementation of software-defined wide area networking (SD-WAN) service based on segment routing IPv6 (SRv6)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Q.Sup79-202511-I
+  content: https://handle.itu.int/11.1002/1000/16677
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Q.Sup79-202511-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Q Suppl. 79 (11/2025)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 79 to ITU-T Q-series Recommendations provides an implementation
-    of the software-defined wide area networking (SD-WAN) service based on segment
-    routing IPv6 (SRv6).\r\nThis Supplement gives more detailed information flow and
-    concrete information message parameters of SD-WAN services based on SRv6 to better
-    understand the signalling procedures of SD-WAN information flow and illustrate
-    the benefits of SD-WAN services.\r\n"
+  content: "Supplement 79 to ITU-T Q-series Recommendations provides an implementation of the software-defined wide area networking (SD-WAN) service based on segment routing IPv6 (SRv6).\r\nThis Supplement gives more detailed information flow and concrete information message parameters of SD-WAN services based on SRv6 to better understand the signalling procedures of SD-WAN information flow and illustrate the benefits of SD-WAN services.\r\n"
 status:
   stage:
     content: Published

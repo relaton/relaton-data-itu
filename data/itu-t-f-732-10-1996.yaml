@@ -1,4 +1,3 @@
----
 id: ITUTF732101996
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.732-199610-I
+  content: https://handle.itu.int/11.1002/1000/3858
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.732-199610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.732 (10/1996)
   type: ITU
@@ -50,19 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation encompasses a broad range of related services, including
-    the videoconference service, and also the audiographic conference service, the
-    videophone conference service and CDH (Collaborative Document Handling). It is
-    part of a general framework for Recommendations on multimedia services.This Recommendation
-    refers to Recommendation F.702 (Multimedia conference services) and contains only
-    those parts that require complements or choices between options in order to apply
-    it specifically to B-ISDN and to take full advantage of its enhanced capabilities.Because
-    in the coming years the broadband conference rooms will have to interwork with
-    the existing narrow-band systems, a large part of this Recommendation is devoted
-    to the various possible configurations for interworking (see clause 8). Thus,
-    when B-ISDN is interconnected with 64 kbit/s-based ISDN, it will also have to
-    provide the services which are currently provided by this network, and insure
-    interworking with existing narrow-band terminals.
+  content: This Recommendation encompasses a broad range of related services, including the videoconference service, and also the audiographic conference service, the videophone conference service and CDH (Collaborative Document Handling). It is part of a general framework for Recommendations on multimedia services.This Recommendation refers to Recommendation F.702 (Multimedia conference services) and contains only those parts that require complements or choices between options in order to apply it specifically to B-ISDN and to take full advantage of its enhanced capabilities.Because in the coming years the broadband conference rooms will have to interwork with the existing narrow-band systems, a large part of this Recommendation is devoted to the various possible configurations for interworking (see clause 8). Thus, when B-ISDN is interconnected with 64 kbit/s-based ISDN, it will also have to provide the services which are currently provided by this network, and insure interworking with existing narrow-band terminals.
 status:
   stage:
     content: Published
@@ -82,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission
-        services
+      content: Definitions relating to telegraph, telematic and data transmission services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -123,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based
-        on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU

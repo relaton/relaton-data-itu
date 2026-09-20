@@ -1,16 +1,16 @@
----
 id: ITUTX738111993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Systems management:
-    Summarization function'
+  content: 'Information technology – Open Systems Interconnection – Systems management: Summarization function'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.738-199311-I
+  content: https://handle.itu.int/11.1002/1000/3080
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.738-199311-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.738 (11/1993)
   type: ITU
@@ -54,10 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies methods to observe
-    and report on attribute values for performance related purposes. Attributes may
-    be of the same or different types. Result of observations may be provided through
-    notifications as they are collected or "buffered" and provided en bloc.
+  content: This Recommendation | International Standard specifies methods to observe and report on attribute values for performance related purposes. Attributes may be of the same or different types. Result of observations may be provided through notifications as they are collected or "buffered" and provided en bloc.
 status:
   stage:
     content: Published

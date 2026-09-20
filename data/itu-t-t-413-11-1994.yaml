@@ -1,16 +1,16 @@
----
 id: ITUTT413111994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Document Architecture (ODA) and interchange
-    format: Abstract interface for the manipulation of ODA documents'
+  content: 'Information technology – Open Document Architecture (ODA) and interchange format: Abstract interface for the manipulation of ODA documents'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.413-199411-I
+  content: https://handle.itu.int/11.1002/1000/2539
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.413-199411-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.413 (11/1994)
   type: ITU
@@ -54,10 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes an abstract interface
-    that supports manipulation of ODA documents and the functions that are applicable
-    to document fragments in order to facilitate the handling of ODA documents and
-    to support applications
+  content: This Recommendation | International Standard describes an abstract interface that supports manipulation of ODA documents and the functions that are applicable to document fragments in order to facilitate the handling of ODA documents and to support applications
 status:
   stage:
     content: Published

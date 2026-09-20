@@ -1,4 +1,3 @@
----
 id: ITUTE164Suppl5052008
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.164-200805-S!Sup5
+  content: https://handle.itu.int/11.1002/1000/9521
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.164-200805-S!Sup5!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.164 Suppl. 5 (05/2008)
   type: ITU
@@ -50,18 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 5 to Recommendation ITU-T E.164 reviews and examines the idea
-    of harmonizing an approach to the selection of national numbers on a global basis.
-    National Administrations are invited to consider such global harmonization of
-    numbers associated with helplines, specifically those helplines that are aimed
-    at providing assistance for children.Statement by Nigeria:Nigeria stated that
-    there is a need for Administrations to note that, while it is feasible that if
-    a user were to dial 116 111 the system would be capable of accepting this as a
-    call to 116, the reverse is not applicable since it is not feasible that if a
-    user dials 116, the system would be capable of accepting this as a call to 116
-    111 and therefore will not direct the call accordingly as desired. Based on the
-    above, the ITU should call for a better harmonizable global number, for the Study
-    Period 2009-2012.
+  content: Supplement 5 to Recommendation ITU-T E.164 reviews and examines the idea of harmonizing an approach to the selection of national numbers on a global basis. National Administrations are invited to consider such global harmonization of numbers associated with helplines, specifically those helplines that are aimed at providing assistance for children.Statement by Nigeria:Nigeria stated that there is a need for Administrations to note that, while it is feasible that if a user were to dial 116 111 the system would be capable of accepting this as a call to 116, the reverse is not applicable since it is not feasible that if a user dials 116, the system would be capable of accepting this as a call to 116 111 and therefore will not direct the call accordingly as desired. Based on the above, the ITU should call for a better harmonizable global number, for the Study Period 2009-2012.
 status:
   stage:
     content: Withdrawal
@@ -101,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidance with regard to the selection of numbers for helplines for
-        children
+      content: Guidance with regard to the selection of numbers for helplines for children
     docidentifier:
     - content: E.164 Suppl. 5 (11/2009)
       type: ITU
@@ -112,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Revised Annex A: Clarification and explanation of the structure and
-        function of international ITU-T E.164-numbers'
+      content: 'Revised Annex A: Clarification and explanation of the structure and function of international ITU-T E.164-numbers'
     docidentifier:
     - content: E.164 (2010) Amd. 1 (06/2011)
       type: ITU
@@ -131,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with the implementation
-        of ENUM for non-geographic country codes
+      content: Operational and administrative issues associated with the implementation of ENUM for non-geographic country codes
     docidentifier:
     - content: E.164 Suppl. 4 (05/2004)
       type: ITU
@@ -150,8 +137,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with national implementations
-        of the ENUM functions
+      content: Operational and administrative issues associated with national implementations of the ENUM functions
     docidentifier:
     - content: E.164 Suppl. 3 (05/2004)
       type: ITU
@@ -231,8 +217,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with the implementation
-        of ENUM for non-geographic country codes
+      content: Operational and administrative issues associated with the implementation of ENUM for non-geographic country codes
     docidentifier:
     - content: E.164 Suppl. 4 (05/2003)
       type: ITU
@@ -242,8 +227,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and administrative issues associated with national implementations
-        of the ENUM functions
+      content: Operational and administrative issues associated with national implementations of the ENUM functions
     docidentifier:
     - content: E.164 Suppl. 3 (05/2002)
       type: ITU

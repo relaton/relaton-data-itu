@@ -1,16 +1,16 @@
----
 id: ITUTT43071997
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Colour and gray-scale image representations using lossless coding scheme
-    for facsimile
+  content: Colour and gray-scale image representations using lossless coding scheme for facsimile
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.43-199707-I
+  content: https://handle.itu.int/11.1002/1000/3949
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.43-199707-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.43 (07/1997)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a colour data representation method in order
-    to make it possible to interchange colour and gray-scale image data using Recommendation
-    T.82 coding scheme over facsimile communication services such as Group 3 and Group
-    4 facsimile. In this Recommendation, three types of images are treated. The first
-    one is one bit per colour CMY(K) or RGB image. The second one is palettized colour
-    image in which palette tables are specified with CIELAB colour space defined in
-    Recommendation T.42. The last one is continuous-tone colour and gray-scale image
-    specified with CIELAB colour space defined in Recommendation T.42.
+  content: This Recommendation defines a colour data representation method in order to make it possible to interchange colour and gray-scale image data using Recommendation T.82 coding scheme over facsimile communication services such as Group 3 and Group 4 facsimile. In this Recommendation, three types of images are treated. The first one is one bit per colour CMY(K) or RGB image. The second one is palettized colour image in which palette tables are specified with CIELAB colour space defined in Recommendation T.42. The last one is continuous-tone colour and gray-scale image specified with CIELAB colour space defined in Recommendation T.42.
 status:
   stage:
     content: Published

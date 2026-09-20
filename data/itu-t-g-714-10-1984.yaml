@@ -1,13 +1,14 @@
----
 id: ITUTG714101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Separate performance characteristics for the send and receive sides of
-    PCM channels applicable to 4-wire voice-frequency interfaces
+  content: Separate performance characteristics for the send and receive sides of PCM channels applicable to 4-wire voice-frequency interfaces
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/3945
 docidentifier:
 - content: ITU-T G.714 (10/1984)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Separate performance characteristics for the encoding and decoding
-        sides of PCM channels applicable to 4-wire voice-frequency interfaces
+      content: Separate performance characteristics for the encoding and decoding sides of PCM channels applicable to 4-wire voice-frequency interfaces
     docidentifier:
     - content: G.714 (11/1988)
       type: ITU

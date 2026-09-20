@@ -1,16 +1,16 @@
----
 id: ITUTM3341122003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements for QoS/SLA management over the TMN X-interface for IP-based
-    services
+  content: Requirements for QoS/SLA management over the TMN X-interface for IP-based services
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3341-200312-I
+  content: https://handle.itu.int/11.1002/1000/7053
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3341-200312-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3341 (12/2003)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation addresses end-to-end Quality of Service (QoS) information
-    collection, aggregation and exchange between Service Customers, Service Providers
-    and Network Operators. In the context of this Recommendation, Service Providers
-    (SPs) include Telecom SPs, Internet SPs, Application SPs and Content SPs. Service
-    Customers include end-Customers and other SPs. Functions and interfaces required
-    to ensure end-to-end QoS classes are specified for the complete service life cycle.
+  content: This Recommendation addresses end-to-end Quality of Service (QoS) information collection, aggregation and exchange between Service Customers, Service Providers and Network Operators. In the context of this Recommendation, Service Providers (SPs) include Telecom SPs, Internet SPs, Application SPs and Content SPs. Service Customers include end-Customers and other SPs. Functions and interfaces required to ensure end-to-end QoS classes are specified for the complete service life cycle.
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTM1230051996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Method to improve the management of operations and maintenance processes
-    in the international telephone network
+  content: Method to improve the management of operations and maintenance processes in the international telephone network
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.1230-199605-I
+  content: https://handle.itu.int/11.1002/1000/3351
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.1230-199605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.1230 (05/1996)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes general guidelines for Telecommunications
-    Operators in order that they can improve the QOS and NP through the optimization
-    of Operation and Maintenance (O&M) processes focusing on the customer satisfaction
-    of the telephone service. The proposed method foresees the correlation between
-    the assessment performance results of the international telephone network with
-    a general index which represents the difficulty levels of O&M environment.
+  content: This Recommendation describes general guidelines for Telecommunications Operators in order that they can improve the QOS and NP through the optimization of Operation and Maintenance (O&M) processes focusing on the customer satisfaction of the telephone service. The proposed method foresees the correlation between the assessment performance results of the international telephone network with a general index which represents the difficulty levels of O&M environment.
 status:
   stage:
     content: Published

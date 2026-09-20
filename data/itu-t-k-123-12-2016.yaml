@@ -1,16 +1,16 @@
----
 id: ITUTK123122016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Electromagnetic compatibility requirements for electrical equipment in
-    telecommunication facilities
+  content: Electromagnetic compatibility requirements for electrical equipment in telecommunication facilities
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.123-201612-S
+  content: https://handle.itu.int/11.1002/1000/13139
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.123-201612-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.123 (12/2016)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T K.123 describes the requirements for radiated and
-    conducted emissions from electrical systems installed in telecommunication facilities.
-    Electrical systems in the scope of this Recommendation include rectifiers that
-    supply direct current (DC) voltages of up to 400 V, power conditioning systems
-    (PCSs) including grid connected power converters (GCPCs), uninterruptible power
-    supplies (UPSs) and inverter driven electrical equipment including the air conditioners
-    needed for the operation of telecommunication systems. Their electrical systems
-    include power conversion devices and may generate conducted and radiated electromagnetic
-    disturbances and cause degradation of the performance of telecommunication systems.
+  content: Recommendation ITU-T K.123 describes the requirements for radiated and conducted emissions from electrical systems installed in telecommunication facilities. Electrical systems in the scope of this Recommendation include rectifiers that supply direct current (DC) voltages of up to 400 V, power conditioning systems (PCSs) including grid connected power converters (GCPCs), uninterruptible power supplies (UPSs) and inverter driven electrical equipment including the air conditioners needed for the operation of telecommunication systems. Their electrical systems include power conversion devices and may generate conducted and radiated electromagnetic disturbances and cause degradation of the performance of telecommunication systems.
 status:
   stage:
     content: Withdrawal
@@ -87,8 +79,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic compatibility requirements for electrical equipment
-        in telecommunication facilities
+      content: Electromagnetic compatibility requirements for electrical equipment in telecommunication facilities
     docidentifier:
     - content: K.123 (08/2022)
       type: ITU
@@ -98,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic compatibility requirements for electrical equipment
-        in telecommunication facilities
+      content: Electromagnetic compatibility requirements for electrical equipment in telecommunication facilities
     docidentifier:
     - content: K.123 (07/2019)
       type: ITU
@@ -109,8 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -130,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -141,8 +129,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -152,8 +139,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -163,8 +149,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -194,8 +179,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTX723111993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Structure of management
-    information: Generic management information'
+  content: 'Information technology – Open Systems Interconnection – Structure of management information: Generic management information'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.723-199311-I
+  content: https://handle.itu.int/11.1002/1000/3062
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.723-199311-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.723 (11/1993)
   type: ITU
@@ -54,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation documents management information that is applicable
-    to more than one open system resource by documenting those common structures as
-    generic definitions. These generic definitions may be used in the specification
-    of managed objects for technology specific use such as OSI layers. In general,
-    use of OSI layer specific use will require.
+  content: This Recommendation documents management information that is applicable to more than one open system resource by documenting those common structures as generic definitions. These generic definitions may be used in the specification of managed objects for technology specific use such as OSI layers. In general, use of OSI layer specific use will require.
 status:
   stage:
     content: Published

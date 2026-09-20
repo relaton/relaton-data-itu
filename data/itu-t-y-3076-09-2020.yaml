@@ -1,4 +1,3 @@
----
 id: ITUTY3076092020
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3076-202009-I
+  content: https://handle.itu.int/11.1002/1000/14395
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3076-202009-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3076 (09/2020)
   type: ITU
@@ -50,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3076 specifies the requirements and architecture
-    for ICN-enabled edge network in IMT-2020. From the service and network operation
-    point of view, it discusses detailed requirements of ICN-enabled edge network
-    in IMT-2020. It provides architecture of ICN-enabled edge network and it describes
-    the key functions and interfaces to satisfy the requirements of ICN-enabled edge
-    network. \r\n"
+  content: "Recommendation ITU-T Y.3076 specifies the requirements and architecture for ICN-enabled edge network in IMT-2020. From the service and network operation point of view, it discusses detailed requirements of ICN-enabled edge network in IMT-2020. It provides architecture of ICN-enabled edge network and it describes the key functions and interfaces to satisfy the requirements of ICN-enabled edge network. \r\n"
 status:
   stage:
     content: Published
@@ -75,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information-centric networking - Overview, standardization gaps and
-        proof-of-concept
+      content: Information-centric networking - Overview, standardization gaps and proof-of-concept
     docidentifier:
     - content: Y Suppl. 47 (04/2018)
       type: ITU
@@ -86,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Proof-of-concept for data service using information centric networking
-        in IMT-2020
+      content: Proof-of-concept for data service using information centric networking in IMT-2020
     docidentifier:
     - content: Y Suppl. 48 (07/2018)
       type: ITU
@@ -107,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Y.3000-series – Network 2030 services: Capabilities, performance
-        and design of new communication services for the Network 2030 applications'
+      content: 'ITU-T Y.3000-series – Network 2030 services: Capabilities, performance and design of new communication services for the Network 2030 applications'
     docidentifier:
     - content: Y Suppl. 66 (07/2020)
       type: ITU
@@ -118,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Representative use cases and key network requirements
-        for Network 2030
+      content: ITU-T Y.3000-series – Representative use cases and key network requirements for Network 2030
     docidentifier:
     - content: Y Suppl. 67 (07/2020)
       type: ITU
@@ -139,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -170,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -181,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -192,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -203,8 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

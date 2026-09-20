@@ -1,13 +1,14 @@
----
 id: ITUTD51F51111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Accounting procedure to be applied when a circuit carrying VF telegraphy
-    is replaced by another having a different routing
+  content: Accounting procedure to be applied when a circuit carrying VF telegraphy is replaced by another having a different routing
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/7561
 docidentifier:
 - content: ITU-T D.51/F.51 (11/1980)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Accounting procedure to be applied when a circuit carrying VF telegraphy
-        is replaced by another having a different routing
+      content: Accounting procedure to be applied when a circuit carrying VF telegraphy is replaced by another having a different routing
     docidentifier:
     - content: F.51 (10/1976)
       type: ITU
@@ -73,8 +73,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Accounting procedure to be applied when a circuit carrying v.f. telegraphy
-        is replaced by another having a different routing
+      content: Accounting procedure to be applied when a circuit carrying v.f. telegraphy is replaced by another having a different routing
     docidentifier:
     - content: F.51 (12/1972)
       type: ITU

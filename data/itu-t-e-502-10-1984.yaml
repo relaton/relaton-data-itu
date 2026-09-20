@@ -1,13 +1,14 @@
----
 id: ITUTE502101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Traffic and operational requirements for SPC (especially digital) telecommunication
-    exchanges
+  content: Traffic and operational requirements for SPC (especially digital) telecommunication exchanges
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/3468
 docidentifier:
 - content: ITU-T E.502 (10/1984)
   type: ITU
@@ -87,8 +88,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Traffic measurement requirements for SPC (especially digital) telecommunication
-        exchanges
+      content: Traffic measurement requirements for SPC (especially digital) telecommunication exchanges
     docidentifier:
     - content: E.502 (11/1988)
       type: ITU
@@ -98,8 +98,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

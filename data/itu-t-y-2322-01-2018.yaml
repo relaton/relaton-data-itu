@@ -1,16 +1,16 @@
----
 id: ITUTY2322012018
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: The functional architecture of virtualized control network entities management
-    and orchestration in next generation network evolution
+  content: The functional architecture of virtualized control network entities management and orchestration in next generation network evolution
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.2322-201801-I
+  content: https://handle.itu.int/11.1002/1000/13463
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.2322-201801-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.2322 (01/2018)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The evolved NGN adopts the technology of network function virtualization.
-    This Recommendation will focus on the functions, functional entities and reference
-    points of VCNMO (Virtualized Control Network entities Management and Orchestrator)
-    and its subcomponents in the architecture of VCN.This Recommendation defines the
-    functional architecture of VCNMO and specifies the related reference points of
-    VCNMO, which includes orchestrator, VCNM and VIM of VCN.The architecture design
-    of this recommendation will fulfill the requirements proposed by ITU-T Y.2320.The
-    high level description of functions and reference points related to orchestrator,
-    VCNM and VIM in this recommendation are consistent with the functions and reference
-    points standardized in ITU-T Y.2321.
+  content: The evolved NGN adopts the technology of network function virtualization. This Recommendation will focus on the functions, functional entities and reference points of VCNMO (Virtualized Control Network entities Management and Orchestrator) and its subcomponents in the architecture of VCN.This Recommendation defines the functional architecture of VCNMO and specifies the related reference points of VCNMO, which includes orchestrator, VCNM and VIM of VCN.The architecture design of this recommendation will fulfill the requirements proposed by ITU-T Y.2320.The high level description of functions and reference points related to orchestrator, VCNM and VIM in this recommendation are consistent with the functions and reference points standardized in ITU-T Y.2321.
 status:
   stage:
     content: Published
@@ -90,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000 series – Supplement on service scenarios for convergence
-        services in a multiple network and application service provider environment
+      content: ITU-T Y.2000 series – Supplement on service scenarios for convergence services in a multiple network and application service provider environment
     docidentifier:
     - content: Y Suppl. 3 (01/2008)
       type: ITU
@@ -101,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in
-        next generation networks
+      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in next generation networks
     docidentifier:
     - content: Y Suppl. 6 (09/2008)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and
-        consortia
+      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and consortia
     docidentifier:
     - content: Y Suppl. 8 (01/2010)
       type: ITU
@@ -143,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on distributed service network (DSN)
-        use cases
+      content: ITU-T Y.2000-series – Supplement on distributed service network (DSN) use cases
     docidentifier:
     - content: Y Suppl. 10 (01/2010)
       type: ITU
@@ -154,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series - Supplement on scenarios for the evolution of
-        NGN network capabilities to include information storage, processing and delivery
+      content: ITU-T Y.2000-series - Supplement on scenarios for the evolution of NGN network capabilities to include information storage, processing and delivery
     docidentifier:
     - content: Y Suppl. 13 (01/2011)
       type: ITU
@@ -165,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile
-        convergence
+      content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile convergence
     docidentifier:
     - content: Y Suppl. 14 (01/2011)
       type: ITU
@@ -176,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Profile-based application adaptation service
-        using next generation networks
+      content: ITU-T Y.2000-series – Profile-based application adaptation service using next generation networks
     docidentifier:
     - content: Y Suppl. 15 (10/2011)
       type: ITU
@@ -187,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series - Supplement on N-screen service scenarios for
-        fixed mobile convergence
+      content: ITU-T Y.2000-series - Supplement on N-screen service scenarios for fixed mobile convergence
     docidentifier:
     - content: Y Suppl. 24 (11/2013)
       type: ITU
@@ -198,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Device independent screen-free service models
-        and scenarios
+      content: ITU-T Y.2000-series – Device independent screen-free service models and scenarios
     docidentifier:
     - content: Y Suppl. 51 (11/2018)
       type: ITU
@@ -229,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -240,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -251,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -272,8 +251,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2300-series – Use cases of network resource sharing based on
-        distributed ledger technology for supporting large-scale deep learning models
+      content: ITU-T Y.2300-series – Use cases of network resource sharing based on distributed ledger technology for supporting large-scale deep learning models
     docidentifier:
     - content: Y Suppl. 94 (11/2025)
       type: ITU
@@ -303,8 +281,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2300 series – Use cases of service-oriented capability enhancement
-        in next generation network evolution (NGNe)
+      content: ITU-T Y.2300 series – Use cases of service-oriented capability enhancement in next generation network evolution (NGNe)
     docidentifier:
     - content: Y Suppl. 99 (02/2026)
       type: ITU

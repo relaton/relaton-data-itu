@@ -1,17 +1,16 @@
----
 id: ITUTXSuppl43092024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Supplement to ITU-T X.1813 - Security deployment scenarios for cellular
-    vehicle-to-everything (C-V2X) services supporting ultra-reliable and low latency
-    communication (URLLC)
+  content: Supplement to ITU-T X.1813 - Security deployment scenarios for cellular vehicle-to-everything (C-V2X) services supporting ultra-reliable and low latency communication (URLLC)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.Sup43-202409-I
+  content: https://handle.itu.int/11.1002/1000/16182
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.Sup43-202409-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X Suppl. 43 (09/2024)
   type: ITU
@@ -52,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 43 to ITU-T X series Recommendations describes the security
-    threats and deployment scenarios for cellular vehicle-to-everything (C-V2X) services
-    supporting ultra-reliable and low-latency communication (URLLC). \r\nMeeting low
-    latency in URLLC is a critical condition for C-V2X services and autonomous driving
-    services to provide secure and safe driving experiences to passengers. Network
-    security problems regarding URLLC bring not only inefficient service performance
-    but also can also cause critical accidents affecting passengers and other people.
-    \r\nTo address this security problem, this Supplement identifies security threats
-    which arise when providing C-V2X services and that result in degradation of URLLC
-    performance. In addition, this Supplement describes security deployment scenarios
-    for C-V2X services to address the security threats.\r\n"
+  content: "Supplement 43 to ITU-T X series Recommendations describes the security threats and deployment scenarios for cellular vehicle-to-everything (C-V2X) services supporting ultra-reliable and low-latency communication (URLLC). \r\nMeeting low latency in URLLC is a critical condition for C-V2X services and autonomous driving services to provide secure and safe driving experiences to passengers. Network security problems regarding URLLC bring not only inefficient service performance but also can also cause critical accidents affecting passengers and other people. \r\nTo address this security problem, this Supplement identifies security threats which arise when providing C-V2X services and that result in degradation of URLLC performance. In addition, this Supplement describes security deployment scenarios for C-V2X services to address the security threats.\r\n"
 status:
   stage:
     content: Published

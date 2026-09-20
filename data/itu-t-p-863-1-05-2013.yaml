@@ -1,4 +1,3 @@
----
 id: ITUTP8631052013
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.863.1-201305-S
+  content: https://handle.itu.int/11.1002/1000/11935
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.863.1-201305-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T P.863.1 (05/2013)
   type: ITU
@@ -50,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.863.1 provides important remarks that should be
-    taken into account in the objective quality evaluation of speech conforming to
-    Recommendation ITU-T P.863. Users of ITU T P.863 should understand and follow
-    the guidance given in this Recommendation.\r\nThis Recommendation is a supplementary
-    guide for users of Recommendation ITU T P.863, which describes a means of estimating
-    listening speech quality by using reference and degraded speech samples. The scope
-    of Recommendation ITU-T P.863 is clearly defined in itself. This Recommendation
-    does not extend or narrow that scope; rather, it provides necessary and important
-    information for obtaining stable, reliable, and meaningful objective measurement
-    results in practice.\r\n"
+  content: "Recommendation ITU-T P.863.1 provides important remarks that should be taken into account in the objective quality evaluation of speech conforming to Recommendation ITU-T P.863. Users of ITU T P.863 should understand and follow the guidance given in this Recommendation.\r\nThis Recommendation is a supplementary guide for users of Recommendation ITU T P.863, which describes a means of estimating listening speech quality by using reference and degraded speech samples. The scope of Recommendation ITU-T P.863 is clearly defined in itself. This Recommendation does not extend or narrow that scope; rather, it provides necessary and important information for obtaining stable, reliable, and meaningful objective measurement results in practice.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -99,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations relating to transmission characteristics for analogue
-        handset telephones
+      content: Considerations relating to transmission characteristics for analogue handset telephones
     docidentifier:
     - content: P Suppl. 10 (11/1988)
       type: ITU
@@ -110,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for placement of microphones and loudspeakers in telephone
-        conference rooms and for group audio terminals (GATs)
+      content: Guidelines for placement of microphones and loudspeakers in telephone conference rooms and for group audio terminals (GATs)
     docidentifier:
     - content: P Suppl. 16 (11/1988)
       type: ITU
@@ -121,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Examples of measurements of handset receive-frequency responses: dependence
-        on earcap leakage losses'
+      content: 'Examples of measurements of handset receive-frequency responses: dependence on earcap leakage losses'
     docidentifier:
     - content: P Suppl. 20 (03/1993)
       type: ITU
@@ -162,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
-        telemeeting quality
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty telemeeting quality
     docidentifier:
     - content: P Suppl. 26 (09/2017)
       type: ITU
@@ -173,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application of ITU-T P.863 and ITU-T P.863.1 for speech processed by
-        blind bandwidth extension approaches
+      content: Application of ITU-T P.863 and ITU-T P.863.1 for speech processed by blind bandwidth extension approaches
     docidentifier:
     - content: P Suppl. 27 (01/2017)
       type: ITU
@@ -184,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations for the development of new QoS and QoE related objective
-        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+      content: Considerations for the development of new QoS and QoE related objective models to be embedded in Recommendations prepared by ITU-T Study Group 12
     docidentifier:
     - content: P Suppl. 28 (09/2020)
       type: ITU
@@ -205,8 +191,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Subjective quality evaluation of audiovisual communication in videotelephony
-        services
+      content: Subjective quality evaluation of audiovisual communication in videotelephony services
     docidentifier:
     - content: P Suppl. 31 (01/2025)
       type: ITU

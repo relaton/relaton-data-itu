@@ -1,16 +1,16 @@
----
 id: ITUTM31643102025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Interface for on-site generic telecommunication smart maintenance - REST-based
-    design
+  content: Interface for on-site generic telecommunication smart maintenance - REST-based design
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-M.3164.3-202510-I
+  content: https://handle.itu.int/11.1002/1000/16465
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-M.3164.3-202510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T M.3164.3 (10/2025)
   type: ITU
@@ -51,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3164.3 specifies the design phase of the interface
-    specification for on-site generic telecommunication smart maintenance (TSM) at
-    the protocol-specific level. It describes the interface specification guidelines
-    using Representational State Transfer (REST) technology and also defines the interactive
-    control information exchanged through this TSM interface in YAML Ain't Markup
-    Language (YAML)/JavaScript Object Notation (JSON) format.\r\n"
+  content: "Recommendation ITU-T M.3164.3 specifies the design phase of the interface specification for on-site generic telecommunication smart maintenance (TSM) at the protocol-specific level. It describes the interface specification guidelines using Representational State Transfer (REST) technology and also defines the interactive control information exchanged through this TSM interface in YAML Ain't Markup Language (YAML)/JavaScript Object Notation (JSON) format.\r\n"
 status:
   stage:
     content: Published

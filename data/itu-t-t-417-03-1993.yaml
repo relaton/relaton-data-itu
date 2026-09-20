@@ -1,16 +1,16 @@
----
 id: ITUTT417031993
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Document Architecture (ODA) and interchange
-    format: Raster graphics content architectures'
+  content: 'Information technology – Open Document Architecture (ODA) and interchange format: Raster graphics content architectures'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.417-199303-I
+  content: https://handle.itu.int/11.1002/1000/2548
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.417-199303-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.417 (03/1993)
   type: ITU
@@ -54,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is one of the Recommendations of the T.410-Series.
-    It defines the raster graphics content architecture used to include images in
-    a document. Image coding methods used in the raster graphics content architecture
-    include methods used in the facsimile environments as well as methods used in
-    non-facsimile environments.
+  content: This Recommendation is one of the Recommendations of the T.410-Series. It defines the raster graphics content architecture used to include images in a document. Image coding methods used in the raster graphics content architecture include methods used in the facsimile environments as well as methods used in non-facsimile environments.
 status:
   stage:
     content: Published
@@ -130,8 +126,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Open document architecture (ODA) and interchange format – Raster graphics
-        content architectures
+      content: Open document architecture (ODA) and interchange format – Raster graphics content architectures
     docidentifier:
     - content: T.417 (11/1988)
       type: ITU

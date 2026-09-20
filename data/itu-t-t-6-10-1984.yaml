@@ -1,13 +1,14 @@
----
 id: ITUTT6101984
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Facsimile coding schemes and coding control functions for Group 4 facsimile
-    apparatus
+  content: Facsimile coding schemes and coding control functions for Group 4 facsimile apparatus
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/6336
 docidentifier:
 - content: ITU-T T.6 (10/1984)
   type: ITU
@@ -67,8 +68,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Facsimile coding schemes and coding control functions for Group 4 facsimile
-        apparatus
+      content: Facsimile coding schemes and coding control functions for Group 4 facsimile apparatus
     docidentifier:
     - content: T.6 (11/1988)
       type: ITU

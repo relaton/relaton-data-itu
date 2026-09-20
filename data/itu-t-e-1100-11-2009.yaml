@@ -1,16 +1,16 @@
----
 id: ITUTE1100112009
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Specification of an international numbering resource for use in the provisioning
-    of international help lines
+  content: Specification of an international numbering resource for use in the provisioning of international help lines
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-E.1100-200911-I
+  content: https://handle.itu.int/11.1002/1000/9116
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-E.1100-200911-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T E.1100 (11/2009)
   type: ITU
@@ -51,9 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T E.1100 specifies a country code that is available
-    for use by entities who wish to offer a help line utilizing three digits behind
-    the country code, and who meet the associated requirements, stated in this Recommendation
+  content: Recommendation ITU-T E.1100 specifies a country code that is available for use by entities who wish to offer a help line utilizing three digits behind the country code, and who meet the associated requirements, stated in this Recommendation
 status:
   stage:
     content: Published
@@ -73,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.1100-series – Operational aspects for the implementation of
-        ITU-T E.164 country code 888
+      content: ITU-T E.1100-series – Operational aspects for the implementation of ITU-T E.164 country code 888
     docidentifier:
     - content: E.1100 series Suppl. 1 (03/2012)
       type: ITU
@@ -84,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
-        E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

@@ -1,16 +1,16 @@
----
 id: ITUTK143072023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidance on safety relating to the use of surge protective devices and
-    surge protective components in telecommunication terminal equipment
+  content: Guidance on safety relating to the use of surge protective devices and surge protective components in telecommunication terminal equipment
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-K.143-202307-I
+  content: https://handle.itu.int/11.1002/1000/15604
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-K.143-202307-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T K.143 (07/2023)
   type: ITU
@@ -51,15 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "It is necessary to clarify the electrical requirements for surge protective
-    devices (SPDs) and surge protective components (SPCs) in order to realize both
-    the resistibility and safety of telecommunication systems. Recommendation ITU-T
-    K.143 analyses the influence on human safety of lightning measures bridging across
-    insulation in equipment by surge suppressors. It provides guidance for the design
-    of lightning protection and requirements on surge suppressor in equipment from
-    the human safety standpoint. Requirements for SPDs/SPCs in multiservice surge
-    protective devices external to the equipment and SPDs installed on lines in a
-    building lie outside the scope of this Recommendation.\r\n"
+  content: "It is necessary to clarify the electrical requirements for surge protective devices (SPDs) and surge protective components (SPCs) in order to realize both the resistibility and safety of telecommunication systems. Recommendation ITU-T K.143 analyses the influence on human safety of lightning measures bridging across insulation in equipment by surge suppressors. It provides guidance for the design of lightning protection and requirements on surge suppressor in equipment from the human safety standpoint. Requirements for SPDs/SPCs in multiservice surge protective devices external to the equipment and SPDs installed on lines in a building lie outside the scope of this Recommendation.\r\n"
 status:
   stage:
     content: Published
@@ -79,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidance on safety relating to the use of surge protective devices
-        and surge protective components in telecommunication terminal equipment
+      content: Guidance on safety relating to the use of surge protective devices and surge protective components in telecommunication terminal equipment
     docidentifier:
     - content: K.143 (11/2019)
       type: ITU
@@ -90,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
-        cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -111,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic
-        fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -122,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of
-        requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -133,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
-        mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -144,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
-        guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -175,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles
-        using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

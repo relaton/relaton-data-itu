@@ -1,4 +1,3 @@
----
 id: ITUTY1542072006
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.1542-200607-S
+  content: https://handle.itu.int/11.1002/1000/8862
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.1542-200607-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.1542 (07/2006)
   type: ITU
@@ -50,12 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation considers various approaches toward achieving end-to-end
-    (UNI-UNI) IP network performance objectives. Detailed examples are provided as
-    to how some approaches might work in practice, including how service providers
-    might handle cases where the aggregated impairments exceed those specified in
-    a requested QoS class (such as those of ITU-T Rec. Y.1541). The pros and cons
-    of each approach are summarized
+  content: This Recommendation considers various approaches toward achieving end-to-end (UNI-UNI) IP network performance objectives. Detailed examples are provided as to how some approaches might work in practice, including how service providers might handle cases where the aggregated impairments exceed those specified in a requested QoS class (such as those of ITU-T Rec. Y.1541). The pros and cons of each approach are summarized
 status:
   stage:
     content: Withdrawal
@@ -85,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix V - Additional considerations for achieving end-to-end
-        performance objectives in an NGN environment
+      content: New Appendix V - Additional considerations for achieving end-to-end performance objectives in an NGN environment
     docidentifier:
     - content: Y.1542 (2006) Amd. 1 (03/2009)
       type: ITU
@@ -116,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -127,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -138,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

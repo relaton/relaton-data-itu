@@ -1,16 +1,16 @@
----
 id: ITUTX508102024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – The Directory:
-    Key management and public-key infrastructure establishment and maintenance'
+  content: 'Information technology – Open Systems Interconnection – The Directory: Key management and public-key infrastructure establishment and maintenance'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.508-202410-I
+  content: https://handle.itu.int/11.1002/1000/16196
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.508-202410-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.508 (10/2024)
   type: ITU
@@ -54,16 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.508 | ISO/IEC 9594-12 is intended to fill the gap
-    between Recommendation ITU-T X.509 | ISO/IEC 9594-8 and Recommendation ITU-T X.510
-    | ISO/IEC 9594-11 by giving a description of selected cryptographic algorithms
-    with references to more detailed specifications. To establish the theory behind
-    the cryptographic algorithm, an informative annex gives in introduction to the
-    supporting mathematics. Also, some considerations on migration to post quantum
-    algorithm are included.\r\nSection 3 provides a best practice guideline for establishing
-    and maintaining a public-key infrastructure (PKI) with emphasis on environments
-    outside the traditional PKI environments, such as guidance for establishing a
-    PKI for networks of Internet of things (IoT) and smart grid.\r\n"
+  content: "Recommendation ITU-T X.508 | ISO/IEC 9594-12 is intended to fill the gap between Recommendation ITU-T X.509 | ISO/IEC 9594-8 and Recommendation ITU-T X.510 | ISO/IEC 9594-11 by giving a description of selected cryptographic algorithms with references to more detailed specifications. To establish the theory behind the cryptographic algorithm, an informative annex gives in introduction to the supporting mathematics. Also, some considerations on migration to post quantum algorithm are included.\r\nSection 3 provides a best practice guideline for establishing and maintaining a public-key infrastructure (PKI) with emphasis on environments outside the traditional PKI environments, such as guidance for establishing a PKI for networks of Internet of things (IoT) and smart grid.\r\n"
 status:
   stage:
     content: Published

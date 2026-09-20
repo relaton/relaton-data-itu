@@ -1,16 +1,16 @@
----
 id: ITUTT107081995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Enhanced man machine interface for videotex and other retrieval services
-    (VEMMI)
+  content: Enhanced man machine interface for videotex and other retrieval services (VEMMI)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.107-199508-I
+  content: https://handle.itu.int/11.1002/1000/2493
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.107-199508-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.107 (08/1995)
   type: ITU
@@ -51,22 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the syntax to be used by videotex or other
-    retrieval services for implementation of an enhanced man machine interface (VEMMI).The
-    VEMMI is a means to improve the ergonomics and interactivity of retrieval systems
-    using graphical dialogue elements such as application bar, button bar, pop-up
-    menus, dialogue box.The standard plane continues to receive the standard data
-    of the underlying platform. Standard Videotex Applications can therefore run also
-    on a VEMMI terminal. The VEMMI objects plane receives VEMMI objects. An automatic
-    switching mechanism between standard mode and VEMMI mode is provided.This Recommendation
-    defines datatypes (VEMMI-high quality text, VEMMI bitmaps) and allows the integration
-    of other widely used datatypes (e.g. JPEG, BMP, WAVE, MIDI, Videotex) in the VEMMI
-    dialogue. Also operative objects are defined to extent the capabilities of a VEMMI
-    application during runtime.VEMMI objects can be distributed between a host and
-    a VEMMI terminal to improve the performance of interactive applications. The VEMMI
-    application can control (save, load, update) VEMMI objects on the terminal.This
-    Recommendation contains the service description, the service elements and their
-    coding.
+  content: This Recommendation specifies the syntax to be used by videotex or other retrieval services for implementation of an enhanced man machine interface (VEMMI).The VEMMI is a means to improve the ergonomics and interactivity of retrieval systems using graphical dialogue elements such as application bar, button bar, pop-up menus, dialogue box.The standard plane continues to receive the standard data of the underlying platform. Standard Videotex Applications can therefore run also on a VEMMI terminal. The VEMMI objects plane receives VEMMI objects. An automatic switching mechanism between standard mode and VEMMI mode is provided.This Recommendation defines datatypes (VEMMI-high quality text, VEMMI bitmaps) and allows the integration of other widely used datatypes (e.g. JPEG, BMP, WAVE, MIDI, Videotex) in the VEMMI dialogue. Also operative objects are defined to extent the capabilities of a VEMMI application during runtime.VEMMI objects can be distributed between a host and a VEMMI terminal to improve the performance of interactive applications. The VEMMI application can control (save, load, update) VEMMI objects on the terminal.This Recommendation contains the service description, the service elements and their coding.
 status:
   stage:
     content: Published

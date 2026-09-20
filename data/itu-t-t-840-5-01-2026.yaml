@@ -1,16 +1,16 @@
----
 id: ITUTT8405012026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology — JPEG AI learning-based image coding system: File
-    format'
+  content: 'Information technology — JPEG AI learning-based image coding system: File format'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.840.5-202601-I
+  content: https://handle.itu.int/11.1002/1000/16660
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.840.5-202601-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.840.5 (01/2026)
   type: ITU
@@ -54,11 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.840.5 | ISO/IEC 6048-5 specifies the container
-    file format for the JPEG AI learning-based image coding technology as defined
-    in Rec. ITU-T T.840.1 | ISO/IEC 6048-1.\r\nThis Recommendation | International
-    Standard was developed collaboratively by ITU-T Study Group 21 and ISO/IEC JTC 1/SC
-    29, and is published as common text Rec. ITU-T T.840.5 | ISO/IEC 6048-5.\r\n"
+  content: "Recommendation ITU-T T.840.5 | ISO/IEC 6048-5 specifies the container file format for the JPEG AI learning-based image coding technology as defined in Rec. ITU-T T.840.1 | ISO/IEC 6048-1.\r\nThis Recommendation | International Standard was developed collaboratively by ITU-T Study Group 21 and ISO/IEC JTC 1/SC 29, and is published as common text Rec. ITU-T T.840.5 | ISO/IEC 6048-5.\r\n"
 status:
   stage:
     content: Published

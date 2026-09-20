@@ -1,16 +1,16 @@
----
 id: ITUTT808012005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – JPEG 2000 image coding system: Interactivity
-    tools, APIs and protocols'
+  content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.808-200501-S
+  content: https://handle.itu.int/11.1002/1000/7460
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.808-200501-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.808 (01/2005)
   type: ITU
@@ -54,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this Recommendation | International Standard is to provide
-    a network protocol that allows for the interactive and progressive transmission
-    of JPEG 2000 coded data and files from a server to a client. This protocol allows
-    a client to request only the portions of an image (by region, quality or resolution
-    level) that are applicable to the client's needs. The protocol also allows the
-    client to access metadata or other content from the file.
+  content: The purpose of this Recommendation | International Standard is to provide a network protocol that allows for the interactive and progressive transmission of JPEG 2000 coded data and files from a server to a client. This protocol allows a client to request only the portions of an image (by region, quality or resolution level) that are applicable to the client's needs. The protocol also allows the client to access metadata or other content from the file.
 status:
   stage:
     content: Withdrawal
@@ -79,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity
-        tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
     docidentifier:
     - content: T.808 (V3) (06/2026)
       type: ITU
@@ -90,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity
-        tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
     docidentifier:
     - content: T.808 (V2) (12/2022)
       type: ITU

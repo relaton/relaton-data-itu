@@ -1,4 +1,3 @@
----
 id: ITUTY3500082014
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3500-201408-I
+  content: https://handle.itu.int/11.1002/1000/12210
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3500-201408-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3500 (08/2014)
   type: ITU
@@ -53,12 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation | International Standard provides an overview of cloud
-    computing, and defines related terms.\r\nThe terms and definitions provided in
-    this Recommendation | International Standard:\r\n–\tcover commonly used terms
-    and definitions in cloud computing standards;\r\n–\twill not cover all terms and
-    definitions used in cloud computing standards; and\r\n–\tdo not preclude the definition
-    of additional terms for use in cloud computing standards."
+  content: "This Recommendation | International Standard provides an overview of cloud computing, and defines related terms.\r\nThe terms and definitions provided in this Recommendation | International Standard:\r\n–\tcover commonly used terms and definitions in cloud computing standards;\r\n–\twill not cover all terms and definitions used in cloud computing standards; and\r\n–\tdo not preclude the definition of additional terms for use in cloud computing standards."
 status:
   stage:
     content: Published
@@ -78,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3500-series – Requirements and challenges regarding provision
-        and consumption of cloud computing services in developing countries
+      content: ITU-T Y.3500-series – Requirements and challenges regarding provision and consumption of cloud computing services in developing countries
     docidentifier:
     - content: Y Suppl. 46 (11/2017)
       type: ITU
@@ -119,8 +114,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -150,8 +144,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -161,8 +154,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -172,8 +164,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -183,8 +174,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU

@@ -1,4 +1,3 @@
----
 id: ITUTP370081996
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-P.370-199608-I
+  content: https://handle.itu.int/11.1002/1000/3634
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.370-199608-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T P.370 (08/1996)
   type: ITU
@@ -50,23 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation has been updated from Recommendation P.37, Coupling
-    Hearing Aids to Telephone sets.Clause 4 covers inductive coupling and is technically
-    similar to the original Recommendation P.37. Clause 4 however now includes the
-    relevant figures that were previously referred out to other Recommendations. It
-    presents recommended levels and frequency characteristics for the inductive field
-    at the telephone earphone relative to a sound level presented at the same earphone.Clause
-    5 covers additional amplification that may be provided for the benefit of hearing
-    impaired users, and only editorial changes have been made to the text originally
-    contained in Recommendation P.37. Limits for the additional amplification and
-    range of volume control are given. Frequency response is also covered.Clause 6
-    introduces the possibility of electrical coupling of a telephone set to a hearing
-    aid. It is compatible with IEC Publication 118 Part 6, which covers the characteristics
-    of hearing aid electrical input circuits. The electrical output level relative
-    to the sound level in the same telephone's earphone is given in this Recommendation,
-    together with frequency response, source impedance and maximum output level.Technically
-    this Recommendation is compatible with similar documents recently drafted within
-    ETSI covering the same subjects.
+  content: This Recommendation has been updated from Recommendation P.37, Coupling Hearing Aids to Telephone sets.Clause 4 covers inductive coupling and is technically similar to the original Recommendation P.37. Clause 4 however now includes the relevant figures that were previously referred out to other Recommendations. It presents recommended levels and frequency characteristics for the inductive field at the telephone earphone relative to a sound level presented at the same earphone.Clause 5 covers additional amplification that may be provided for the benefit of hearing impaired users, and only editorial changes have been made to the text originally contained in Recommendation P.37. Limits for the additional amplification and range of volume control are given. Frequency response is also covered.Clause 6 introduces the possibility of electrical coupling of a telephone set to a hearing aid. It is compatible with IEC Publication 118 Part 6, which covers the characteristics of hearing aid electrical input circuits. The electrical output level relative to the sound level in the same telephone's earphone is given in this Recommendation, together with frequency response, source impedance and maximum output level.Technically this Recommendation is compatible with similar documents recently drafted within ETSI covering the same subjects.
 status:
   stage:
     content: Published
@@ -96,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Magnetic field strength around the earcap of telephone handsets which
-        provide for coupling to hearing aids
+      content: Magnetic field strength around the earcap of telephone handsets which provide for coupling to hearing aids
     docidentifier:
     - content: P.37 (11/1988)
       type: ITU
@@ -107,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Magnetic field strength around the earcap of telephone handsets which
-        provide for coupling to hearing aids
+      content: Magnetic field strength around the earcap of telephone handsets which provide for coupling to hearing aids
     docidentifier:
     - content: P.37 (10/1984)
       type: ITU
@@ -118,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations relating to transmission characteristics for analogue
-        handset telephones
+      content: Considerations relating to transmission characteristics for analogue handset telephones
     docidentifier:
     - content: P Suppl. 10 (11/1988)
       type: ITU
@@ -129,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for placement of microphones and loudspeakers in telephone
-        conference rooms and for group audio terminals (GATs)
+      content: Guidelines for placement of microphones and loudspeakers in telephone conference rooms and for group audio terminals (GATs)
     docidentifier:
     - content: P Suppl. 16 (11/1988)
       type: ITU
@@ -140,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Examples of measurements of handset receive-frequency responses: dependence
-        on earcap leakage losses'
+      content: 'Examples of measurements of handset receive-frequency responses: dependence on earcap leakage losses'
     docidentifier:
     - content: P Suppl. 20 (03/1993)
       type: ITU
@@ -181,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty
-        telemeeting quality
+      content: Scenarios for the subjective evaluation of audio and audiovisual multiparty telemeeting quality
     docidentifier:
     - content: P Suppl. 26 (09/2017)
       type: ITU
@@ -192,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Considerations for the development of new QoS and QoE related objective
-        models to be embedded in Recommendations prepared by ITU-T Study Group 12
+      content: Considerations for the development of new QoS and QoE related objective models to be embedded in Recommendations prepared by ITU-T Study Group 12
     docidentifier:
     - content: P Suppl. 28 (09/2020)
       type: ITU
@@ -203,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Subjective quality evaluation of audiovisual communication in videotelephony
-        services
+      content: Subjective quality evaluation of audiovisual communication in videotelephony services
     docidentifier:
     - content: P Suppl. 31 (01/2025)
       type: ITU

@@ -1,17 +1,16 @@
----
 id: ITUTJSuppl2111998
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission
-    systems for interactive cable television services" – Example of digital video
-    broadcasting (DVB) interaction channel for cable television distribution
+  content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.Sup2-199811-I
+  content: https://handle.itu.int/11.1002/1000/4651
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.Sup2-199811-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J Suppl. 2 (11/1998)
   type: ITU
@@ -52,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Supplement gives guidelines for use of the DVB interaction channel
-    for Cable TV distribution systems (CATV) specification of Annex A/J.112 [2].\r\nHybrid
-    Fibre Coax (HFC) networks are a sub-class of CATV networks in which the subscribers
-    are divided into groups by using optical transmission technology in the trunk
-    network.\r\nThe CATV infrastructures can support the implementation of the RC
-    for interactive services suitable for DVB systems.\r\nCATV can be used to implement
-    interactive services in the DVB environment, providing a bidirectional communication
-    path between the user terminal and the service provider."
+  content: "This Supplement gives guidelines for use of the DVB interaction channel for Cable TV distribution systems (CATV) specification of Annex A/J.112 [2].\r\nHybrid Fibre Coax (HFC) networks are a sub-class of CATV networks in which the subscribers are divided into groups by using optical transmission technology in the trunk network.\r\nThe CATV infrastructures can support the implementation of the RC for interactive services suitable for DVB systems.\r\nCATV can be used to implement interactive services in the DVB environment, providing a bidirectional communication path between the user terminal and the service provider."
 status:
   stage:
     content: Published

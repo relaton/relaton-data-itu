@@ -1,4 +1,3 @@
----
 id: ITUTZ100AnnexF3112000
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Z.100-200011-S!AnnF3
+  content: https://handle.itu.int/11.1002/1000/5577
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Z.100-200011-S!AnnF3!PDF-E&type=items
 docidentifier:
 - content: ITU-T Z.100 Annex F3 (11/2000)
   type: ITU
@@ -50,40 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Scope-objectiveThis Recommendation defines SDL (Specification and Description
-    Language) intended for unambiguous specification and description of telecommunication
-    systems. The scope of SDL is elaborated in clause 1. This Recommendation is a
-    reference manual for the language.CoverageSDL has concepts for behaviour, data
-    description and (particularly for larger systems) structuring. The basis of behaviour
-    description is extended finite state machines communicating by messages. Data
-    description is based on data types for values and objects. The basis for structuring
-    is hierarchical decomposition and type hierarchies. These foundations of SDL are
-    elaborated in the respective main clauses of this Recommendation. A distinctive
-    feature of SDL is the graphical representation.ApplicationsSDL is applicable within
-    standard bodies and industry. The main applications areas for which SDL has been
-    designed are stated in 1.2, but SDL is generally suitable for describing reactive
-    systems. The range of application is from requirement description to implementation.Status/StabilityThis
-    Recommendation is the complete language reference manual supported by guidelines
-    for its usage in Supplement 1. Annex F gives a formal definition of SDL semantics.
-    The main text of this Recommendation is stable and needs to be issued immediately
-    to meet market needs, but further study is required to complete Annex F. Appendix
-    I records the status of ITU-T Rec.Z.100, and should be updated as further studies
-    are completed. Although further language extensions are anticipated in the future,
-    SDL-2000 as defined in this Recommendation should meet most user needs for some
-    years. The current version is based on wide user experience of SDL and recent
-    additional user needs.The main text is accompanied by annexes:? Annex A Index
-    of non-terminals? Annex B Reserved for future use (Annex B (03/93) is no longer
-    valid)? Annex C Reserved for future use (Annex C (03/93) is no longer in force)?
-    Annex D SDL predefined data? Annex E Reserved for examples? Annex F SDL Formal
-    Definition (published separately)? Appendix I Status of ITU-T Rec. Z.100, related
-    documents and Recommendations? Appendix II Guidelines for the maintenance of SDL?
-    Appendix III Systematic conversion of SDL-92 to SDL-2000ITU-T Rec. Z.100 has also
-    an independently published supplement:? Z.100 Supplement 1 SDL+ methodology: use
-    of MSC and SDL (with ASN.1)Associated workOne method for SDL usage within standards
-    is described in ITU-T Rec. Q.65. A recommended strategy for introducing a formal
-    description technique like SDL in standards is available in ITU-T Rec. Z.110.
-    For references to additional material on SDL, and information on industrial usage
-    of SDL, see http://www.sdl-forum.org.'
+  content: 'Scope-objectiveThis Recommendation defines SDL (Specification and Description Language) intended for unambiguous specification and description of telecommunication systems. The scope of SDL is elaborated in clause 1. This Recommendation is a reference manual for the language.CoverageSDL has concepts for behaviour, data description and (particularly for larger systems) structuring. The basis of behaviour description is extended finite state machines communicating by messages. Data description is based on data types for values and objects. The basis for structuring is hierarchical decomposition and type hierarchies. These foundations of SDL are elaborated in the respective main clauses of this Recommendation. A distinctive feature of SDL is the graphical representation.ApplicationsSDL is applicable within standard bodies and industry. The main applications areas for which SDL has been designed are stated in 1.2, but SDL is generally suitable for describing reactive systems. The range of application is from requirement description to implementation.Status/StabilityThis Recommendation is the complete language reference manual supported by guidelines for its usage in Supplement 1. Annex F gives a formal definition of SDL semantics. The main text of this Recommendation is stable and needs to be issued immediately to meet market needs, but further study is required to complete Annex F. Appendix I records the status of ITU-T Rec.Z.100, and should be updated as further studies are completed. Although further language extensions are anticipated in the future, SDL-2000 as defined in this Recommendation should meet most user needs for some years. The current version is based on wide user experience of SDL and recent additional user needs.The main text is accompanied by annexes:? Annex A Index of non-terminals? Annex B Reserved for future use (Annex B (03/93) is no longer valid)? Annex C Reserved for future use (Annex C (03/93) is no longer in force)? Annex D SDL predefined data? Annex E Reserved for examples? Annex F SDL Formal Definition (published separately)? Appendix I Status of ITU-T Rec. Z.100, related documents and Recommendations? Appendix II Guidelines for the maintenance of SDL? Appendix III Systematic conversion of SDL-92 to SDL-2000ITU-T Rec. Z.100 has also an independently published supplement:? Z.100 Supplement 1 SDL+ methodology: use of MSC and SDL (with ASN.1)Associated workOne method for SDL usage within standards is described in ITU-T Rec. Q.65. A recommended strategy for introducing a formal description technique like SDL in standards is available in ITU-T Rec. Z.110. For references to additional material on SDL, and information on industrial usage of SDL, see http://www.sdl-forum.org.'
 status:
   stage:
     content: Withdrawal
@@ -103,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: Dynamic semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Dynamic semantics'
     docidentifier:
     - content: Z.100 Annex F3 (06/2021)
       type: ITU
@@ -114,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: Static semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Static semantics'
     docidentifier:
     - content: Z.100 Annex F2 (06/2021)
       type: ITU
@@ -125,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: General overview'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: General overview'
     docidentifier:
     - content: Z.100 Annex F1 (10/2019)
       type: ITU
@@ -146,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010
-        formal definition: Dynamic semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010 formal definition: Dynamic semantics'
     docidentifier:
     - content: Z.100 Annex F3 (10/2019)
       type: ITU
@@ -157,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010
-        formal definition: Static semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010 formal definition: Static semantics'
     docidentifier:
     - content: Z.100 Annex F2 (10/2019)
       type: ITU
@@ -248,8 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: Dynamic semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Dynamic semantics'
     docidentifier:
     - content: Z.100 Annex F3 (01/2015)
       type: ITU
@@ -259,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: Static semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Static semantics'
     docidentifier:
     - content: Z.100 Annex F2 (01/2015)
       type: ITU
@@ -270,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
-        formal definition: General overview'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: General overview'
     docidentifier:
     - content: Z.100 Annex F1 (01/2015)
       type: ITU
@@ -625,8 +585,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

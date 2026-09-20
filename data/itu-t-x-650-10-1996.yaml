@@ -1,16 +1,16 @@
----
 id: ITUTX650101996
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Basic Reference
-    Model: Naming and addressing'
+  content: 'Information technology – Open Systems Interconnection – Basic Reference Model: Naming and addressing'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.650-199610-I
+  content: https://handle.itu.int/11.1002/1000/3772
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.650-199610-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.650 (10/1996)
   type: ITU
@@ -54,10 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides the architectural
-    principles for identification (naming) and location (addressing) of objects for
-    the purpose of interconnection within the Open System Interconnection Environment
-    (OSIE).
+  content: This Recommendation | International Standard provides the architectural principles for identification (naming) and location (addressing) of objects for the purpose of interconnection within the Open System Interconnection Environment (OSIE).
 status:
   stage:
     content: Published
@@ -77,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Open Systems Interconnection (OSI) – Reference model for naming and
-        addressing
+      content: Open Systems Interconnection (OSI) – Reference model for naming and addressing
     docidentifier:
     - content: X.650 (01/1992)
       type: ITU

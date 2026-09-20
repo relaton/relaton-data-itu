@@ -1,16 +1,16 @@
----
 id: ITUTX7802032007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: TMN guidelines for defining service-oriented CORBA managed objects and
-    façade objects
+  content: TMN guidelines for defining service-oriented CORBA managed objects and façade objects
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.780.2-200703-I
+  content: https://handle.itu.int/11.1002/1000/9086
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.780.2-200703-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.780.2 (03/2007)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a set of TMN CORBA managed object and façade
-    object modelling guidelines required to support service-oriented interfaces. It
-    specifies how service-oriented CORBA TMN interfaces are to be defined. It covers
-    IDL repertoire, information modelling in IDL and IDL style conventions. It also
-    provides guidelines on redesigning fine-grained and coarse-grained interfaces
-    to service-oriented interfaces. An IDL module is provided defining basic data
-    types, exceptions, notification constructs, a base CORBA struct to be included
-    by every service-oriented managed object and a base CORBA interface to be inherited
-    by every service-oriented CORBA interface. This Recommendation and ITU-T Recommendation
-    Q.816.2 together compose a framework for CORBA-based service-oriented TMN interfaces
-    with a wide range of applications.
+  content: This Recommendation defines a set of TMN CORBA managed object and façade object modelling guidelines required to support service-oriented interfaces. It specifies how service-oriented CORBA TMN interfaces are to be defined. It covers IDL repertoire, information modelling in IDL and IDL style conventions. It also provides guidelines on redesigning fine-grained and coarse-grained interfaces to service-oriented interfaces. An IDL module is provided defining basic data types, exceptions, notification constructs, a base CORBA struct to be included by every service-oriented managed object and a base CORBA interface to be inherited by every service-oriented CORBA interface. This Recommendation and ITU-T Recommendation Q.816.2 together compose a framework for CORBA-based service-oriented TMN interfaces with a wide range of applications.
 status:
   stage:
     content: Published

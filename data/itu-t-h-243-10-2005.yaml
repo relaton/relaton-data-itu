@@ -1,16 +1,16 @@
----
 id: ITUTH243102005
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for establishing communication between three or more audiovisual
-    terminals using digital channels up to 1920 kbit/s
+  content: Procedures for establishing communication between three or more audiovisual terminals using digital channels up to 1920 kbit/s
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.243-200510-S
+  content: https://handle.itu.int/11.1002/1000/8566
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.243-200510-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H.243 (10/2005)
   type: ITU
@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation concerns the system operation for a conference call
-    between three or more audiovisual terminals conforming to ITU-T Rec. H.320.This
-    revised version of ITU-T Rec. H.243 introduces a number of enhancements and clarifications
-    to the previous version, primarily the description on the usage of Unicode characters
-    in H.320 systems.
+  content: This Recommendation concerns the system operation for a conference call between three or more audiovisual terminals conforming to ITU-T Rec. H.320.This revised version of ITU-T Rec. H.243 introduces a number of enhancements and clarifications to the previous version, primarily the description on the usage of Unicode characters in H.320 systems.
 status:
   stage:
     content: Withdrawal
@@ -75,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for establishing communication between three or more audiovisual
-        terminals using digital channels up to 1920 kbit/s
+      content: Procedures for establishing communication between three or more audiovisual terminals using digital channels up to 1920 kbit/s
     docidentifier:
     - content: H.243 (05/2019)
       type: ITU
@@ -94,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for establishing communication between three or more audiovisual
-        terminals using digital channels up to 1920 kbit/s
+      content: Procedures for establishing communication between three or more audiovisual terminals using digital channels up to 1920 kbit/s
     docidentifier:
     - content: H.243 (02/2000)
       type: ITU
@@ -105,8 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for establishing communication between three or more audiovisual
-        terminals using digital channels up to 1920 kbit/s
+      content: Procedures for establishing communication between three or more audiovisual terminals using digital channels up to 1920 kbit/s
     docidentifier:
     - content: H.243 (07/1997)
       type: ITU
@@ -116,8 +109,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for establishing communication between three or more audiovisual
-        terminals using digital channels up to 1920 kbit/s
+      content: Procedures for establishing communication between three or more audiovisual terminals using digital channels up to 1920 kbit/s
     docidentifier:
     - content: H.243 (03/1996)
       type: ITU
@@ -127,8 +119,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for establishing communication between three or more audiovisual
-        terminals using digital channels up to 2 Mbit/s
+      content: Procedures for establishing communication between three or more audiovisual terminals using digital channels up to 2 Mbit/s
     docidentifier:
     - content: H.243 (03/1993)
       type: ITU
@@ -148,9 +139,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
-        ISUP in support of emergency telecommunications service (ETS)/international
-        emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -170,8 +159,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
-        gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -181,8 +169,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
-        2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -192,8 +179,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
-        2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -203,8 +189,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
-        PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -224,8 +209,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG
-        video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -255,8 +239,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis
-        of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

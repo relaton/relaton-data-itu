@@ -1,13 +1,14 @@
----
 id: ITUTVSuppl2111980
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: List of contributions on data transmission tests reported during the study
-    period 1977-1980
+  content: List of contributions on data transmission tests reported during the study period 1977-1980
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/8435
 docidentifier:
 - content: ITU-T V Suppl. 2 (11/1980)
   type: ITU
@@ -62,8 +63,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: List of contributions on data transmission tests reported during the
-        study period 1973-1976
+      content: List of contributions on data transmission tests reported during the study period 1973-1976
     docidentifier:
     - content: V Suppl. 2 (10/1976)
       type: ITU

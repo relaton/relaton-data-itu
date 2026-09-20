@@ -1,16 +1,16 @@
----
 id: ITUTGSuppl91102025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Use cases and requirements of fibre-in-premises for small and medium enterprise
-    applications
+  content: Use cases and requirements of fibre-in-premises for small and medium enterprise applications
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-G.Sup91-202510-I
+  content: https://handle.itu.int/11.1002/1000/16670
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup91-202510-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T G Suppl. 91 (10/2025)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 91 to ITU-T G-series Recommendations collects the use cases
-    and summarizes the corresponding network requirements for fibre-in-premises (FIP)
-    system in small and medium enterprise (SME) applications. The value of this in-premises
-    fibre-based technology networking for SME scenarios is also analysed.\r\n"
+  content: "Supplement 91 to ITU-T G-series Recommendations collects the use cases and summarizes the corresponding network requirements for fibre-in-premises (FIP) system in small and medium enterprise (SME) applications. The value of this in-premises fibre-based technology networking for SME scenarios is also analysed.\r\n"
 status:
   stage:
     content: Published

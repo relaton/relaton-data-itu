@@ -1,16 +1,16 @@
----
 id: ITUTX737111995
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Systems Management:
-    Confidence and diagnostic test categories'
+  content: 'Information technology – Open Systems Interconnection – Systems Management: Confidence and diagnostic test categories'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.737-199511-I
+  content: https://handle.itu.int/11.1002/1000/3079
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.737-199511-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.737 (11/1995)
   type: ITU
@@ -54,17 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies a number of generally
-    useful "test categories" such as "connection request", loop back test and data
-    integrity test. For each of these, a standard approach is used in terms of the
-    components of the test category such as the purpose of the test, the resources,
-    as defined in Recommendation X.745, test environment and content of result report,
-    etc. The "inheritance" relationship among test object classes (representing test
-    categories) is defined and the specifications of these as managed objects, included.
-    This Recommendation | International Standard provides a means for other, notably
-    TMN related groups, to use the same method for test category specification. This
-    Recommendation | International Standard should be considered with the Test Management
-    Function in Recommendation X.745.
+  content: This Recommendation | International Standard specifies a number of generally useful "test categories" such as "connection request", loop back test and data integrity test. For each of these, a standard approach is used in terms of the components of the test category such as the purpose of the test, the resources, as defined in Recommendation X.745, test environment and content of result report, etc. The "inheritance" relationship among test object classes (representing test categories) is defined and the specifications of these as managed objects, included. This Recommendation | International Standard provides a means for other, notably TMN related groups, to use the same method for test category specification. This Recommendation | International Standard should be considered with the Test Management Function in Recommendation X.745.
 status:
   stage:
     content: Published

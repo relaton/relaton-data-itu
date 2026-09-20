@@ -1,16 +1,16 @@
----
 id: ITUTT421111994
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Document Architecture (ODA) and interchange
-    format: Tabular structures and tabular layout'
+  content: 'Information technology – Open Document Architecture (ODA) and interchange format: Tabular structures and tabular layout'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.421-199411-I
+  content: https://handle.itu.int/11.1002/1000/2553
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.421-199411-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.421 (11/1994)
   type: ITU
@@ -54,19 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard:- defines a document architecture,
-    in order to allow presentation and processing of tabular material, that can be
-    used in conjunction with the document architecture defined in Recommendation T.412
-    (1993);- defines two types of components, the grid logical component and the grid
-    frame component, which are characterized by association with grids;- defines the
-    layout attributes and layout directive attributes, in order to allow representation
-    of tabular layout, applicable to this document architecture;- defines the presentation
-    attributes, in order to allow presentation of tabular layout, applicable to the
-    content architectures defined in Recommendation T.416 (1993), Recommendation T.417
-    (1993) and Recommendation T.418 (1993);- describes reference models of the document
-    layout process and the document imaging process which, together with the document
-    processing model described in Recommendation T.412 (1993), determine representation
-    and presentation of tabular layout.
+  content: This Recommendation | International Standard:- defines a document architecture, in order to allow presentation and processing of tabular material, that can be used in conjunction with the document architecture defined in Recommendation T.412 (1993);- defines two types of components, the grid logical component and the grid frame component, which are characterized by association with grids;- defines the layout attributes and layout directive attributes, in order to allow representation of tabular layout, applicable to this document architecture;- defines the presentation attributes, in order to allow presentation of tabular layout, applicable to the content architectures defined in Recommendation T.416 (1993), Recommendation T.417 (1993) and Recommendation T.418 (1993);- describes reference models of the document layout process and the document imaging process which, together with the document processing model described in Recommendation T.412 (1993), determine representation and presentation of tabular layout.
 status:
   stage:
     content: Published

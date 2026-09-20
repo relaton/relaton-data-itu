@@ -1,16 +1,16 @@
----
 id: ITUTYSuppl86012025
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.4471 – Functional architecture for supporting connected vehicle
-    formations with edge computing
+  content: ITU-T Y.4471 – Functional architecture for supporting connected vehicle formations with edge computing
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.Sup86-202501-I
+  content: https://handle.itu.int/11.1002/1000/16218
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.Sup86-202501-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y Suppl. 86 (01/2025)
   type: ITU
@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 86 to ITU-T Y-series Recommendations provides the functional
-    architecture for supporting connected vehicle formations with edge computing,
-    including functional architecture, functional entity and reference point, which
-    is a supplementary to Recommendation ITU-T Y.4471.\r\n"
+  content: "Supplement 86 to ITU-T Y-series Recommendations provides the functional architecture for supporting connected vehicle formations with edge computing, including functional architecture, functional entity and reference point, which is a supplementary to Recommendation ITU-T Y.4471.\r\n"
 status:
   stage:
     content: Published

@@ -1,10 +1,11 @@
----
 id: ITUTT321995Amd1071996
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.32-199607-I!Amd1
+  content: https://handle.itu.int/11.1002/1000/3379
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.32-199607-I!Amd1!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.32 (1995) Amd. 1 (07/1996)
   type: ITU
@@ -45,9 +46,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment includes extensions to support the features in future Recommendation
-    T.30:- T.85 single-progression sequential image coding (DF, Table 21/T.32);- V.34
-    modems (new Annex C/T.32).
+  content: This amendment includes extensions to support the features in future Recommendation T.30:- T.85 single-progression sequential image coding (DF, Table 21/T.32);- V.34 modems (new Annex C/T.32).
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTZ141072001
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'The Tree and Tabular Combined Notation version 3 (TTCN-3): Tabular presentation
-    format'
+  content: 'The Tree and Tabular Combined Notation version 3 (TTCN-3): Tabular presentation format'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Z.141-200107-S
+  content: https://handle.itu.int/11.1002/1000/5476
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Z.141-200107-S!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Z.141 (07/2001)
   type: ITU
@@ -51,8 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the Tabular presentation format of the Tree
-    and Tabular combined notation version 3 (TTCN-3).
+  content: This Recommendation defines the Tabular presentation format of the Tree and Tabular combined notation version 3 (TTCN-3).
 status:
   stage:
     content: Withdrawal
@@ -72,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 tabular presentation
-        format (TFT)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 tabular presentation format (TFT)'
     docidentifier:
     - content: Z.162 (11/2007)
       type: ITU
@@ -83,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3 (TTCN-3): Tabular presentation
-        format (TFT)'
+      content: 'Testing and Test Control Notation version 3 (TTCN-3): Tabular presentation format (TFT)'
     docidentifier:
     - content: Z.141 (03/2006)
       type: ITU
@@ -94,8 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3 (TTCN-3): Tabular presentation
-        format'
+      content: 'Testing and Test Control Notation version 3 (TTCN-3): Tabular presentation format'
     docidentifier:
     - content: Z.141 (02/2003)
       type: ITU
@@ -105,8 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

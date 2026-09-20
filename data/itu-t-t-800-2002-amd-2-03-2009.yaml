@@ -1,4 +1,3 @@
----
 id: ITUTT8002002Amd2032009
 schema_version: v1.5.6
 type: standard
@@ -9,7 +8,9 @@ title:
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-T.800-200903-S!Amd2
+  content: https://handle.itu.int/11.1002/1000/9719
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-T.800-200903-S!Amd2!PDF-E&type=items
 docidentifier:
 - content: ITU-T T.800 (2002) Amd. 2 (03/2009)
   type: ITU
@@ -53,19 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T T.800 | ISO/IEC 15444-1 describes the core elements
-    of a flexible image compression system known as "JPEG 2000".Amendment 2 to this
-    Recommendation | International Standard adds profiles for the support of post-production
-    and archival formats. There are two cinema profiles and one video profile.The
-    cinema profiles are intended for use from camera capture through the production
-    chain on to the final distribution masters. The cinematic profiles are designed
-    such that it could also be used to archive the final distribution masters but
-    with higher quality layers. In this way, the content can be retrieved for future
-    editing without appreciable quality loss.The video archive is intended for similar
-    purposes but is limited to only (5,3) kernel support. The reason for limited support
-    is that the current broadcast profiles are limited to (9,7) due to the contribution
-    nature of the broadcast market. The lossless kernel is better suited for archival
-    applications and therefore is better placed in this amendment.
+  content: Recommendation ITU-T T.800 | ISO/IEC 15444-1 describes the core elements of a flexible image compression system known as "JPEG 2000".Amendment 2 to this Recommendation | International Standard adds profiles for the support of post-production and archival formats. There are two cinema profiles and one video profile.The cinema profiles are intended for use from camera capture through the production chain on to the final distribution masters. The cinematic profiles are designed such that it could also be used to archive the final distribution masters but with higher quality layers. In this way, the content can be retrieved for future editing without appreciable quality loss.The video archive is intended for similar purposes but is limited to only (5,3) kernel support. The reason for limited support is that the current broadcast profiles are limited to (9,7) due to the contribution nature of the broadcast market. The lossless kernel is better suited for archival applications and therefore is better placed in this amendment.
 status:
   stage:
     content: Withdrawal
@@ -85,8 +74,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - JPEG 2000 image coding system: Core coding
-        system'
+      content: 'Information technology - JPEG 2000 image coding system: Core coding system'
     docidentifier:
     - content: T.800 (V4) (07/2024)
       type: ITU
@@ -96,8 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding
-        system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
     docidentifier:
     - content: T.800 (V3) (06/2019)
       type: ITU
@@ -107,8 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding
-        system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
     docidentifier:
     - content: T.800 (11/2015)
       type: ITU
@@ -138,8 +124,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - JPEG 2000 image coding system: Core coding
-        system: Correction of equation G-9'
+      content: 'Information technology - JPEG 2000 image coding system: Core coding system: Correction of equation G-9'
     docidentifier:
     - content: T.800 (2002) Cor. 3 (10/2014)
       type: ITU
@@ -159,8 +144,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Enhancements for digital cinema and archive profiles (additional frame
-        rates)
+      content: Enhancements for digital cinema and archive profiles (additional frame rates)
     docidentifier:
     - content: T.800 (2002) Amd. 5 (01/2012)
       type: ITU
@@ -228,8 +212,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding
-        system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
     docidentifier:
     - content: T.800 (08/2002)
       type: ITU

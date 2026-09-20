@@ -1,10 +1,11 @@
----
 id: ITUTX7231993TechnicalCor2022000
 schema_version: v1.5.6
 type: standard
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.723-200002-I!Cor2
+  content: https://handle.itu.int/11.1002/1000/4891
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.723-200002-I!Cor2!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.723 (1993) Technical Cor. 2 (02/2000)
   type: ITU
@@ -48,12 +49,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard (1993) documents management
-    information that is applicable to more than one open system resource by documenting
-    those common structures as generic definitions. These generic definitions may
-    be used in the specification of managed objects for technology-specific use such
-    as OSI layers.This Technical Corrigendum 2 revises the text to include ASN.1:1997
-    in clause 13.
+  content: This Recommendation | International Standard (1993) documents management information that is applicable to more than one open system resource by documenting those common structures as generic definitions. These generic definitions may be used in the specification of managed objects for technology-specific use such as OSI layers.This Technical Corrigendum 2 revises the text to include ASN.1:1997 in clause 13.
 status:
   stage:
     content: Published
@@ -81,8 +77,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Structure
-        of management information: Generic management information'
+      content: 'Information technology – Open Systems Interconnection – Structure of management information: Generic management information'
     docidentifier:
     - content: X.723 (11/1993)
       type: ITU

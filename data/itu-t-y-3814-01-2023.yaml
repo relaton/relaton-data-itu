@@ -1,16 +1,16 @@
----
 id: ITUTY3814012023
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Quantum key distribution networks – functional requirements and architecture
-    for machine learning enablement
+  content: Quantum key distribution networks – functional requirements and architecture for machine learning enablement
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-Y.3814-202301-I
+  content: https://handle.itu.int/11.1002/1000/15244
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.3814-202301-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.3814 (01/2023)
   type: ITU
@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A quantum key distribution network (QKDN) is expected to maintain stable
-    operations and meet the requirements of various cryptographic applications efficiently.
-    Due to the advantages of machine learning (ML) related to autonomous learning,
-    it can help to overcome the challenges of QKDN in terms of quantum layer performances,
-    key management layer performances and QKDN control and management efficiency.
-    Based on the functional requirements and architecture of QKDN stated in Recommendations
-    ITU-T Y.3801 and ITU-T Y.3802, this Recommendation specifies one possible set
-    of functional requirements and a possible architecture for an ML-enabled QKDN
-    (QKDNml), including an overview and the functional requirements, architecture
-    and operational procedures of QKDNml.
+  content: A quantum key distribution network (QKDN) is expected to maintain stable operations and meet the requirements of various cryptographic applications efficiently. Due to the advantages of machine learning (ML) related to autonomous learning, it can help to overcome the challenges of QKDN in terms of quantum layer performances, key management layer performances and QKDN control and management efficiency. Based on the functional requirements and architecture of QKDN stated in Recommendations ITU-T Y.3801 and ITU-T Y.3802, this Recommendation specifies one possible set of functional requirements and a possible architecture for an ML-enabled QKDN (QKDNml), including an overview and the functional requirements, architecture and operational procedures of QKDNml.
 status:
   stage:
     content: Published
@@ -108,8 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -119,8 +109,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications
-        of machine learning
+      content: ITU-T Y.3800-series – Quantum key distribution networks - Applications of machine learning
     docidentifier:
     - content: Y Suppl. 70 (07/2021)
       type: ITU
@@ -150,8 +139,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution
-        networks
+      content: ITU-T Y.3800-series – Standardization roadmap on quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 74 (03/2023)
       type: ITU
@@ -161,8 +149,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled
-        future networks
+      content: ITU-T Y.3000 series – Quantum key distribution networks – Quantum-enabled future networks
     docidentifier:
     - content: Y Suppl. 75 (03/2023)
       type: ITU
@@ -172,8 +159,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end
-        cryptographic services with non-quantum cryptography
+      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end cryptographic services with non-quantum cryptography
     docidentifier:
     - content: Y Suppl. 79 (11/2023)
       type: ITU
@@ -193,8 +179,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet
-        of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -204,8 +189,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating
-        artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU
@@ -225,8 +209,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3000-series – Use cases of open service environment for future
-        networks
+      content: ITU-T Y.3000-series – Use cases of open service environment for future networks
     docidentifier:
     - content: Y Suppl. 95 (11/2025)
       type: ITU
@@ -266,8 +249,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum
-        key distribution networks
+      content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 100 (02/2026)
       type: ITU

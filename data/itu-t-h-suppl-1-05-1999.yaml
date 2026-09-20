@@ -1,16 +1,16 @@
----
 id: ITUTHSuppl1051999
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Application profile – Sign language and lip-reading real-time conversation
-    using low bit rate video communication
+  content: Application profile – Sign language and lip-reading real-time conversation using low bit rate video communication
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-H.Sup1-199905-I
+  content: https://handle.itu.int/11.1002/1000/4834
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-H.Sup1-199905-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T H Suppl. 1 (05/1999)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Sign language and lip-reading are two important application areas of video
-    communication. For the successful transmission of the components of visual language,
-    certain quality requirements must be met.This supplement is an application profile
-    document that gives the background to the requirements and offers as well guidance
-    on how these requirements can be met. The purpose of this supplement is not to
-    propose new video coding schemes, but rather to indicate how current and future
-    video coding schemes can be applied to these two areas of application, with good
-    results.
+  content: Sign language and lip-reading are two important application areas of video communication. For the successful transmission of the components of visual language, certain quality requirements must be met.This supplement is an application profile document that gives the background to the requirements and offers as well guidance on how these requirements can be met. The purpose of this supplement is not to propose new video coding schemes, but rather to indicate how current and future video coding schemes can be applied to these two areas of application, with good results.
 status:
   stage:
     content: Published

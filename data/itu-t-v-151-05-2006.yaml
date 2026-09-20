@@ -1,16 +1,16 @@
----
 id: ITUTV151052006
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for the end-to-end connection of analogue PSTN text telephones
-    over an IP network utilizing text relay
+  content: Procedures for the end-to-end connection of analogue PSTN text telephones over an IP network utilizing text relay
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-V.151-200605-I
+  content: https://handle.itu.int/11.1002/1000/7005
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-V.151-200605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T V.151 (05/2006)
   type: ITU
@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the inter-operation of two PSTN to IP Network
-    gateways that facilitate the end-to-end connection of analogue text telephone
-    terminals over an IP network utilizing text relay.Amendment 1 introduces Annex
-    E, which defines the RTP payload format for the transport of text as T.140 character
-    data over IP networks, removing the need to make a reference to an historic RFC
-    published by the IETF. It also includes minor editorial changes throughout the
-    document to make references to the newly introduced Annex, removing references
-    to the RFC.
+  content: This Recommendation defines the inter-operation of two PSTN to IP Network gateways that facilitate the end-to-end connection of analogue text telephone terminals over an IP network utilizing text relay.Amendment 1 introduces Annex E, which defines the RTP payload format for the transport of text as T.140 character data over IP networks, removing the need to make a reference to an historic RFC published by the IETF. It also includes minor editorial changes throughout the document to make references to the newly introduced Annex, removing references to the RFC.
 status:
   stage:
     content: Published
@@ -78,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex E 'Payload format and signalling syntax for real-time text
-        transported within an audio stream' and related changes
+      content: New Annex E 'Payload format and signalling syntax for real-time text transported within an audio stream' and related changes
     docidentifier:
     - content: V.151 (2006) Amd. 1 (08/2007)
       type: ITU

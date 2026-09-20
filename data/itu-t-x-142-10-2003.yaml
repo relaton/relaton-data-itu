@@ -1,16 +1,16 @@
----
 id: ITUTX142102003
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Quality of service metrics for characterizing Frame Relay/ATM service interworking
-    performance
+  content: Quality of service metrics for characterizing Frame Relay/ATM service interworking performance
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.142-200310-I
+  content: https://handle.itu.int/11.1002/1000/7013
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.142-200310-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.142 (10/2003)
   type: ITU
@@ -51,17 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines quality of service metrics for characterizing
-    performance in the case of FR/ATM service interworking. The specified metrics
-    can be used to quantify the performance of either the FR/ATM interworking function/unit
-    or the quality of the end-to-end data connection. This Recommendation is complementary
-    to ITU-T Rec. X.140 as it is a specific case of the general techniques described
-    therein for assessing performance.The specified metrics allow users and network
-    operators to assess the performance from a user perspective. The metrics provide
-    a simple manner by which either users or network operators could characterize
-    the end-to-end performance.The defined metrics are not intended to be a replacement
-    for the frame layer or ATM layer primary performance parameters but can be used
-    to provide a user-oriented perspective of end-to-end performance.
+  content: This Recommendation defines quality of service metrics for characterizing performance in the case of FR/ATM service interworking. The specified metrics can be used to quantify the performance of either the FR/ATM interworking function/unit or the quality of the end-to-end data connection. This Recommendation is complementary to ITU-T Rec. X.140 as it is a specific case of the general techniques described therein for assessing performance.The specified metrics allow users and network operators to assess the performance from a user perspective. The metrics provide a simple manner by which either users or network operators could characterize the end-to-end performance.The defined metrics are not intended to be a replacement for the frame layer or ATM layer primary performance parameters but can be used to provide a user-oriented perspective of end-to-end performance.
 status:
   stage:
     content: Published

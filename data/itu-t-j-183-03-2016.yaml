@@ -1,16 +1,16 @@
----
 id: ITUTJ183032016
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Time-division multiplexing of multiple MPEG-2 transport streams and generic
-    formats of transport streams over cable television systems
+  content: Time-division multiplexing of multiple MPEG-2 transport streams and generic formats of transport streams over cable television systems
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-J.183-201603-I
+  content: https://handle.itu.int/11.1002/1000/12766
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-J.183-201603-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T J.183 (03/2016)
   type: ITU
@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation ITU-T J.183 describes a time-division multiplexing
-    (TDM) format for transmitting multiple MPEG-2 transport streams and/or generic
-    formats of transport streams by using a simple implementation of MPEG-2 systems
-    physical interface on cable television systems. The TDM frame encapsulates the
-    MPEG-2 transport streams and/or generic formats of transport streams, which are
-    packetized into 188-byte length prior to transmission. It also describes the framing
-    structure for high speed transmission by channel bonding technology.\r\n\r\nThe
-    format features interoperability with the existing satellite transmodulation format,
-    which is based on the specification of Annex C/J.83 and Annex C/J.84 (SMATV system
-    C(III)).\r\n\r\nIt may also be applicable to other transmission systems. When
-    this format is introduced into existing digital cable television systems, information
-    about the frame format is recommended to be transmitted by the network information
-    table simultaneously. It is necessary for the set-top box to identify the digital
-    channel containing multiple MPEG-2 transport streams and/or generic formats of
-    transport streams.\r\n"
+  content: "This Recommendation ITU-T J.183 describes a time-division multiplexing (TDM) format for transmitting multiple MPEG-2 transport streams and/or generic formats of transport streams by using a simple implementation of MPEG-2 systems physical interface on cable television systems. The TDM frame encapsulates the MPEG-2 transport streams and/or generic formats of transport streams, which are packetized into 188-byte length prior to transmission. It also describes the framing structure for high speed transmission by channel bonding technology.\r\n\r\nThe format features interoperability with the existing satellite transmodulation format, which is based on the specification of Annex C/J.83 and Annex C/J.84 (SMATV system C(III)).\r\n\r\nIt may also be applicable to other transmission systems. When this format is introduced into existing digital cable television systems, information about the frame format is recommended to be transmitted by the network information table simultaneously. It is necessary for the set-top box to identify the digital channel containing multiple MPEG-2 transport streams and/or generic formats of transport streams.\r\n"
 status:
   stage:
     content: Published
@@ -85,8 +71,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Time-division multiplexing of multiple MPEG-2 transport streams over
-        cable television systems
+      content: Time-division multiplexing of multiple MPEG-2 transport streams over cable television systems
     docidentifier:
     - content: J.183 (03/2001)
       type: ITU
@@ -96,8 +81,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation
-        J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -107,10 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112,
-        "Transmission systems for interactive cable television services" – Example
-        of digital video broadcasting (DVB) interaction channel for cable television
-        distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -120,9 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network
-        independent protocols" – Example of digital video broadcasting (DVB) systems
-        for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -142,8 +121,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions
-        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -153,8 +131,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -164,8 +141,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
-        Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -175,8 +151,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System
-        validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -186,8 +161,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
-        Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -197,8 +171,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks
-        based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -208,8 +181,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the
-        converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

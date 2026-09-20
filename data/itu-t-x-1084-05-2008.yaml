@@ -1,16 +1,16 @@
----
 id: ITUTX1084052008
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: 'Telebiometrics system mechanism – Part 1: General biometric authentication
-    protocol and system model profiles for telecommunications systems'
+  content: 'Telebiometrics system mechanism – Part 1: General biometric authentication protocol and system model profiles for telecommunications systems'
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-X.1084-200805-I
+  content: https://handle.itu.int/11.1002/1000/9448
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.1084-200805-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T X.1084 (05/2008)
   type: ITU
@@ -51,13 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Biometric technologies are developed in various products and populated
-    in application systems such as border control, physical access control, etc.,
-    for identity verification. These technologies are also expected to be applied
-    to open network systems for reliable user authentication. However, open network
-    systems need to manage risks in biometric products and system configurations for
-    secure remote services. Recommendation ITU-T X.1084 specifies biometric authentication
-    protocols and profiles for telecommunication systems in open networks.
+  content: Biometric technologies are developed in various products and populated in application systems such as border control, physical access control, etc., for identity verification. These technologies are also expected to be applied to open network systems for reliable user authentication. However, open network systems need to manage risks in biometric products and system configurations for secure remote services. Recommendation ITU-T X.1084 specifies biometric authentication protocols and profiles for telecommunication systems in open networks.
 status:
   stage:
     content: Published

@@ -1,16 +1,16 @@
----
 id: ITUTF852032000
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Universal Personal Telecommunication (UPT) – Service description (service
-    set 2)
+  content: Universal Personal Telecommunication (UPT) – Service description (service set 2)
   type: main
 source:
 - type: src
-  content: https://www.itu.int/rec/T-REC-F.852-200003-W
+  content: https://handle.itu.int/11.1002/1000/4989
+- type: pdf
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-F.852-200003-W!!PDF-E&type=items
 docidentifier:
 - content: ITU-T F.852 (03/2000)
   type: ITU
@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation "Universal Personal Telecommunication (UPT) - Service
-    Description (Service Set 2)" provides the service description and operational
-    provisions for Universal Personal Telecommunication (UPT) - Basic UPT service
-    scenario.It describes the main principles of UPT, for example personal mobility,
-    authentication and service profile management. It defines the UPT service aspects
-    from the user's perspective (e.g. numbering and charging aspects). It also describes
-    the essential features necessary to provide the UPT service, and the optional
-    features, which may be used to support additional enhancements.UPT Service Set
-    1 was a restricted scenario providing UPT service that supported provision of
-    telephone service over PSTN, ISDN and PLMN networks. UPT Service Set 1 is incorporated
-    in this Recommendation for UPT Service Set 2.UPT Service Set 2 - The Basic UPT
-    service scenario - incorporates more services and networks, moving towards full
-    universal service availability, terminal independence and operation across multiple
-    networks. In this scenario, for example, various data services may be provided
-    in addition to telephone service as in Service Set 1.
+  content: This Recommendation "Universal Personal Telecommunication (UPT) - Service Description (Service Set 2)" provides the service description and operational provisions for Universal Personal Telecommunication (UPT) - Basic UPT service scenario.It describes the main principles of UPT, for example personal mobility, authentication and service profile management. It defines the UPT service aspects from the user's perspective (e.g. numbering and charging aspects). It also describes the essential features necessary to provide the UPT service, and the optional features, which may be used to support additional enhancements.UPT Service Set 1 was a restricted scenario providing UPT service that supported provision of telephone service over PSTN, ISDN and PLMN networks. UPT Service Set 1 is incorporated in this Recommendation for UPT Service Set 2.UPT Service Set 2 - The Basic UPT service scenario - incorporates more services and networks, moving towards full universal service availability, terminal independence and operation across multiple networks. In this scenario, for example, various data services may be provided in addition to telephone service as in Service Set 1.
 status:
   stage:
     content: Withdrawal
