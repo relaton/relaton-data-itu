@@ -305,6 +305,24 @@ RSpec.describe ItuCrawler do
     end
   end
 
+  # rubyzip is not in the Gemfile. It comes from relaton, which sets its version.
+  # A pin here once blocked `bundle install` (rubyzip ~> 2.3 against relaton's
+  # ~> 3.4, now ~> 3.7). This spec fails if relaton drops rubyzip or if the API changes.
+  describe ".write_zip" do
+    it "packs index-v2.yaml into index-v2.zip with rubyzip 3" do
+      in_tmp_repo do
+        File.write ItuCrawler::INDEX_YAML, "- id: T-REC-A.1\n"
+        described_class.write_zip
+
+        expect(Gem.loaded_specs["rubyzip"].version.segments.first).to eq 3
+        Zip::File.open(ItuCrawler::INDEX_ZIP) do |zip|
+          expect(zip.entries.map(&:name)).to eq [ItuCrawler::INDEX_YAML]
+          expect(zip.read(ItuCrawler::INDEX_YAML)).to eq "- id: T-REC-A.1\n"
+        end
+      end
+    end
+  end
+
   describe ".run" do
     # Ordering, stated as behaviour rather than as a mock expectation: the seed
     # guard is a precondition on what the harvest READS, and the run it rejects

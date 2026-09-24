@@ -19,6 +19,6 @@ source "https://rubygems.org"
 gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"
 gem "pubid", git: "https://github.com/metanorma/pubid.git", branch: "main"
 
-# index generation + verification
+# index verification. rubyzip (for index-v2.zip) comes from relaton, which sets
+# its version. Do not pin it here: a pin blocks `bundle install` when relaton bumps it.
 gem "rspec", "~> 3.0"
-gem "rubyzip", "~> 2.3"
