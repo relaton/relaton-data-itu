@@ -1,3 +1,4 @@
+---
 id: ITUTX1901042026
 schema_version: v1.5.6
 type: standard
@@ -14,6 +15,9 @@ source:
 docidentifier:
 - content: ITU-T X.1901 (04/2026)
   type: ITU
+  primary: true
+- content: ISO/IEC 27566-1
+  type: ISO
   primary: true
 date:
 - type: published
