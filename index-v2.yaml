@@ -54443,6 +54443,14 @@
     - '0'
   :file: data/itu-r-p-2041-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: P
+    number: '2041'
+    parts:
+    - '1'
+  :file: data/itu-r-p-2041-1.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: M
@@ -54458,14 +54466,6 @@
     year: '2017'
     month: '03'
   :file: data/itu-t-y-2041-03-2017.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: P
-    number: '2041'
-    parts:
-    - '1'
-  :file: data/itu-r-p-2041-1.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -88980,6 +88980,14 @@
     series: P
     number: '311'
     parts:
+    - '20'
+  :file: data/itu-r-p-311-20.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: P
+    number: '311'
+    parts:
     - '7'
   :file: data/itu-r-p-311-7.yaml
 - :id:
@@ -89189,14 +89197,6 @@
     year: '1988'
     month: '11'
   :file: data/itu-t-z-311-11-1988.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: P
-    number: '311'
-    parts:
-    - '20'
-  :file: data/itu-r-p-311-20.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: T
@@ -100251,6 +100251,14 @@
     series: P
     number: '372'
     parts:
+    - '18'
+  :file: data/itu-r-p-372-18.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: P
+    number: '372'
+    parts:
     - '6'
   :file: data/itu-r-p-372-6.yaml
 - :id:
@@ -100293,14 +100301,6 @@
     year: '2005'
     month: '04'
   :file: data/itu-t-z-372-04-2005.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: P
-    number: '372'
-    parts:
-    - '18'
-  :file: data/itu-r-p-372-18.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: T
