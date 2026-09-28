@@ -185239,6 +185239,22 @@
     month: '06'
   :file: data/itu-t-g-987-4-06-2012.yaml
 - :id:
+    _type: pubid:itu:errata
+    number: '1'
+    year: '2026'
+    month: '09'
+    base:
+      _type: pubid:itu:amendment
+      number: '1'
+      base:
+        _type: pubid:itu:recommendation
+        sector: T
+        series: G
+        number: '987'
+        subseries: '2'
+        year: '2023'
+  :file: data/itu-t-g-987-2-2023-amd-1-err-1-09-2026.yaml
+- :id:
     _type: pubid:itu:recommendation
     sector: T
     series: G
