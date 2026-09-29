@@ -120180,6 +120180,14 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: T
+    series: P
+    number: '501'
+    year: '2026'
+    month: '07'
+  :file: data/itu-t-p-501-07-2026.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
     series: Q
     number: '5011'
     year: '2024'
@@ -185164,6 +185172,22 @@
       year: '2023'
   :file: data/itu-t-g-987-2-2023-amd-1-06-2023.yaml
 - :id:
+    _type: pubid:itu:errata
+    number: '1'
+    year: '2026'
+    month: '09'
+    base:
+      _type: pubid:itu:amendment
+      number: '1'
+      base:
+        _type: pubid:itu:recommendation
+        sector: T
+        series: G
+        number: '987'
+        subseries: '2'
+        year: '2023'
+  :file: data/itu-t-g-987-2-2023-amd-1-err-1-09-2026.yaml
+- :id:
     _type: pubid:itu:recommendation
     sector: T
     series: G
@@ -185244,16 +185268,13 @@
     year: '2026'
     month: '09'
     base:
-      _type: pubid:itu:amendment
-      number: '1'
-      base:
-        _type: pubid:itu:recommendation
-        sector: T
-        series: G
-        number: '987'
-        subseries: '2'
-        year: '2023'
-  :file: data/itu-t-g-987-2-2023-amd-1-err-1-09-2026.yaml
+      _type: pubid:itu:recommendation
+      sector: T
+      series: G
+      number: '987'
+      subseries: '2'
+      year: '2023'
+  :file: data/itu-t-g-987-2-2023-err-1-09-2026.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: T

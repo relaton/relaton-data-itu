@@ -1,24 +1,24 @@
 ---
-id: ITUTP501081996
+id: ITUTP501072026
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Test signals for use in telephonometry
+  content: Chinese (CN) reference speech sample in P.501 Annex D
   type: main
 source:
 - type: src
-  content: https://handle.itu.int/11.1002/1000/3635
+  content: https://handle.itu.int/11.1002/1000/16867
 - type: pdf
-  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.501-199608-S!!PDF-E&type=items
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.501-202607-P!Cor1!PDF-E&type=items
 docidentifier:
-- content: ITU-T P.501 (08/1996)
+- content: ITU-T P.501 (07/2026)
   type: ITU
   primary: true
 date:
 - type: published
-  at: '1996-08-30'
+  at: '2026-07-29'
 contributor:
 - role:
   - type: publisher
@@ -44,7 +44,7 @@ contributor:
     abbreviation:
       content: ITU-T
 edition:
-  content: '1'
+  content: '9.0'
 language:
 - en
 script:
@@ -52,12 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes test signals which are applicable for several purposes in telephonometry. This Recommendation gives a wide variety of test signals starting with low complexity test signals up to test signals with a high degree of complexity incorporating a lot of typical parameters of speech. Besides technical signals such as sine waves or noise, more speech-like signals are described.This Recommendation describes the principles of the signal construction for each type of test signal. Characteristic properties such as power density spectra, probability density functions or shaping filter responses are shown.This Recommendation gives an overview about the typical application of the test signals described. This overview is a guideline giving general application rules. The detailed description of the application however should be found in the individual Recommendations describing the measurement procedures for a certain application.In order to avoid problems in creating the test signals described, this Recommendation contains a CD-ROM where all test signals are stored.
 status:
   stage:
-    content: Withdrawal
+    content: Published
 copyright:
-- from: '1996'
+- from: '2026'
   owner:
   - organization:
       uri:
@@ -67,16 +66,6 @@ copyright:
       abbreviation:
         content: ITU
 relation:
-- type: hasEdition
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Chinese (CN) reference speech sample in P.501 Annex D
-    docidentifier:
-    - content: P.501 (07/2026)
-      type: ITU
-      primary: true
 - type: hasEdition
   bibitem:
     title:
@@ -211,6 +200,16 @@ relation:
       content: P.501 (2000) Err. 1 (09/2001)
     docidentifier:
     - content: P.501 (2000) Err. 1 (09/2001)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Test signals for use in telephonometry
+    docidentifier:
+    - content: P.501 (08/1996)
       type: ITU
       primary: true
 - type: complementOf
