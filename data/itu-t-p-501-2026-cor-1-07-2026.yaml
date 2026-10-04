@@ -1,5 +1,5 @@
 ---
-id: ITUTP5012025Cor1072026
+id: ITUTP5012026Cor1072026
 schema_version: v1.5.6
 type: standard
 title:
@@ -13,7 +13,7 @@ source:
 - type: pdf
   content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.501-202607-P!Cor1!PDF-E&type=items
 docidentifier:
-- content: ITU-T P.501 (2025) Cor. 1 (07/2026)
+- content: ITU-T P.501 (2026) Cor.1 (07/2026)
   type: ITU
   primary: true
 date:
@@ -54,7 +54,7 @@ abstract:
   script: Latn
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2026'
   owner:
@@ -66,6 +66,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Test signals for use in telephony and other speech-based applications
+    docidentifier:
+    - content: P.501 (07/2026)
+      type: ITU
+      primary: true
 - type: hasEdition
   bibitem:
     title:

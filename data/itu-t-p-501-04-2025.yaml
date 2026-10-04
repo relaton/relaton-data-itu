@@ -55,7 +55,7 @@ abstract:
   content: "Recommendation ITU-T P.501 describes test signals that are applicable for several purposes in telephony and other speech-based applications. Recommendation ITU-T P.501 gives a wide variety of test signals starting with low complexity test signals up to test signals with a high degree of complexity incorporating many typical parameters of speech. Besides technical signals, such as sine waves or noise, more speech-like signals are described.\r\nRecommendation ITU-T P.501 describes the principles of signal construction for each type of test signal. Characteristic properties, such as power density spectra, probability density functions or shaping filter responses, are shown.\r\nRecommendation ITU-T P.501 gives an overview of the typical application of the test signals described. This overview is a guideline giving general application rules. The detailed description of the application, however, should be found in the individual Recommendations describing the measurement procedures for specific applications.\r\nIn order to avoid problems in creating the test signals described, all these test signals are freely available for download from the ITU-T test signals database.\r\nAnnex A proposes two test signals [a pseudo noise sequence (PN-sequence) with a low crest factor and a logarithmically distributed multi-sine wave] for the measurement of terminal coupling loss (TCL).\r\nAnnex B provides speech files and noise sequences to be used in combination with objective speech quality evaluation methods. This speech material does not replace the speech material found in Supplement 23 to the ITUT P-series Recommendations.\r\nAnnex C provides speech files that are prepared for the use in standardized subjective tests (e.g., according to ITU-T P.800) and/or objective/perceptual-based speech quality prediction models.\r\nAnnex D provides speech files that are systematically composed from single sentences of a female and a male talker in different languages according to Annex C. Although much shorter, these samples are considered representative of longer sequences and are intended to be used with objective/perceptual-based speech quality prediction models.\r\nAnnex E provides a single speech file that is similar to the ones from Annex D, which is intended for use in technical measures like e.g., delay or frequency response, rather than for subjective or objective/perceptual-based testing.\r\nAppendix I provides a description of the processing applied to the speech signals in clause 7.3.\r\nAppendix II provides the Recommendation ITU-T P.863 (2018) reference scores on typical codec conditions for the reference samples of Annexes C and D.\r\nThis Recommendation includes an electronic attachment containing the set of freely available test signals described in the Recommendation.\r\n"
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2025'
   owner:
@@ -72,9 +72,19 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Chinese (CN) reference speech sample in P.501 Annex D
+      content: Test signals for use in telephony and other speech-based applications
     docidentifier:
     - content: P.501 (07/2026)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Chinese (CN) reference speech sample in P.501 Annex D
+    docidentifier:
+    - content: P.501 (2026) Cor.1 (07/2026)
       type: ITU
       primary: true
 - type: hasEdition

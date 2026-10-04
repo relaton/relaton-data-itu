@@ -109,10 +109,12 @@ relation:
       primary: true
 - type: hasEdition
   bibitem:
-    formattedref:
-      content: P.58 (1996) Err. 2 (07/2008)
+    title:
+    - language: en
+      script: Latn
+      content: Head and torso simulator for telephonometry
     docidentifier:
-    - content: P.58 (1996) Err. 2 (07/2008)
+    - content: P.58 (08/1996)
       type: ITU
       primary: true
 - type: hasEdition
@@ -125,12 +127,10 @@ relation:
       primary: true
 - type: hasEdition
   bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: Head and torso simulator for telephonometry
+    formattedref:
+      content: P.58 (1996) Err. 2 (07/2008)
     docidentifier:
-    - content: P.58 (08/1996)
+    - content: P.58 (1996) Err. 2 (07/2008)
       type: ITU
       primary: true
 - type: hasEdition

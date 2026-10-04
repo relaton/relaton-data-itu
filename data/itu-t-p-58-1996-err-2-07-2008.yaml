@@ -39,7 +39,7 @@ contributor:
     abbreviation:
       content: ITU-T
 edition:
-  content: '2.2'
+  content: '2.0'
 language:
 - en
 script:
@@ -113,20 +113,20 @@ relation:
       primary: true
 - type: hasEdition
   bibitem:
-    formattedref:
-      content: P.58 (1996) Err. 1 (01/2003)
-    docidentifier:
-    - content: P.58 (1996) Err. 1 (01/2003)
-      type: ITU
-      primary: true
-- type: hasEdition
-  bibitem:
     title:
     - language: en
       script: Latn
       content: Head and torso simulator for telephonometry
     docidentifier:
     - content: P.58 (08/1996)
+      type: ITU
+      primary: true
+- type: hasEdition
+  bibitem:
+    formattedref:
+      content: P.58 (1996) Err. 1 (01/2003)
+    docidentifier:
+    - content: P.58 (1996) Err. 1 (01/2003)
       type: ITU
       primary: true
 - type: hasEdition

@@ -5,13 +5,11 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Chinese (CN) reference speech sample in P.501 Annex D
+  content: Test signals for use in telephony and other speech-based applications
   type: main
 source:
 - type: src
-  content: https://handle.itu.int/11.1002/1000/16867
-- type: pdf
-  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-P.501-202607-P!Cor1!PDF-E&type=items
+  content: https://handle.itu.int/11.1002/1000/17114
 docidentifier:
 - content: ITU-T P.501 (07/2026)
   type: ITU
@@ -44,7 +42,7 @@ contributor:
     abbreviation:
       content: ITU-T
 edition:
-  content: '9.0'
+  content: '9'
 language:
 - en
 script:
@@ -66,6 +64,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Chinese (CN) reference speech sample in P.501 Annex D
+    docidentifier:
+    - content: P.501 (2026) Cor.1 (07/2026)
+      type: ITU
+      primary: true
 - type: hasEdition
   bibitem:
     title:
