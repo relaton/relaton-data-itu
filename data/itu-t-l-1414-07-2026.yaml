@@ -11,7 +11,7 @@ source:
 - type: src
   content: https://handle.itu.int/11.1002/1000/16892
 - type: pdf
-  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.1414-202607-P!!PDF-E&type=items
+  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-L.1414-202607-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T L.1414 (07/2026)
   type: ITU
@@ -254,16 +254,6 @@ relation:
       content: Guidelines for connecting cities and communities with the Sustainable Development Goals
     docidentifier:
     - content: L Suppl. 56 (10/2022)
-      type: ITU
-      primary: true
-- type: complementOf
-  bibitem:
-    title:
-    - language: en
-      script: Latn
-      content: ITU-T L.1331 – Supplement on study of multi-dimensional network energy efficiency metrics
-    docidentifier:
-    - content: L Suppl. 62 (06/2026)
       type: ITU
       primary: true
 - type: complementOf
