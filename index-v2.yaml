@@ -3439,6 +3439,18 @@
     month: '11'
   :file: data/itu-t-q-1004-11-1988.yaml
 - :id:
+    _type: pubid:itu:corrigendum
+    number: '1'
+    year: '2026'
+    month: '10'
+    base:
+      _type: pubid:itu:recommendation
+      sector: T
+      series: L
+      number: '1004'
+      year: '2025'
+  :file: data/itu-t-l-1004-2025-cor-1-10-2026.yaml
+- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: SF
@@ -29038,6 +29050,14 @@
     year: '2000'
     month: '10'
   :file: data/itu-t-y-1401-10-2000.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
+    series: L
+    number: '1401'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-l-1401-10-2026.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
