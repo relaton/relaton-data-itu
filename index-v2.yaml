@@ -67160,6 +67160,12 @@
     year: '2011'
   :file: data/itu-r-23-hdb-2011.yaml
 - :id:
+    _type: pubid:itu:handbook
+    sector: R
+    number: '23'
+    year: '2026'
+  :file: data/itu-r-23-hdb-2026.yaml
+- :id:
     _type: pubid:itu:recommendation
     sector: R
     series: R
@@ -67636,12 +67642,6 @@
     year: '2013'
     month: '11'
   :file: data/itu-t-y-suppl-23-11-2013.yaml
-- :id:
-    _type: pubid:itu:handbook
-    sector: R
-    number: '23'
-    year: '2026'
-  :file: data/itu-r-23-hdb-2026.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
