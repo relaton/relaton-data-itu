@@ -10,8 +10,6 @@ title:
 source:
 - type: src
   content: https://handle.itu.int/11.1002/1000/16506
-- type: pdf
-  content: https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-Y.4420-202605-I!!PDF-E&type=items
 docidentifier:
 - content: ITU-T Y.4420 (05/2026)
   type: ITU
@@ -165,6 +163,16 @@ relation:
       content: ITU-T Y-series – Supplement on use cases of smart cities and communities
     docidentifier:
     - content: Y Suppl. 56 (12/2019)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 59 (10/2026)
       type: ITU
       primary: true
 - type: complementOf

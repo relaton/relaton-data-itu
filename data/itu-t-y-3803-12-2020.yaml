@@ -90,6 +90,16 @@ relation:
     title:
     - language: en
       script: Latn
+      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond standardization roadmap
+    docidentifier:
+    - content: Y Suppl. 59 (10/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
       content: Framework for Internet of things ecosystem master plan
     docidentifier:
     - content: Y Suppl. 68 (05/2021)
@@ -253,6 +263,16 @@ relation:
       content: ITU-T Y.3800-series – Use cases of multi-point coordination in quantum key distribution networks
     docidentifier:
     - content: Y Suppl. 100 (02/2026)
+      type: ITU
+      primary: true
+- type: complementOf
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Supplement 115 to ITU-T Y.3800-series - Technical considerations of quantum network architecture
+    docidentifier:
+    - content: Y Suppl. 115 (10/2026)
       type: ITU
       primary: true
 place:
