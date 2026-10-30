@@ -50,7 +50,7 @@ abstract:
   content: "Corrigendum 1 to Recommendation ITU-T G.806 (2012) clarifies: \r\n–\tDegraded threshold (DEGTHR) for higher rate interfaces than STM-16. \r\n–\tWait To Restore (WTR) timer value.\r\n"
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2012'
   owner:
@@ -62,6 +62,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Characteristics of transport equipment - Description methodology and generic functionality
+    docidentifier:
+    - content: G.806 (10/2026)
+      type: ITU
+      primary: true
 - type: hasEdition
   bibitem:
     formattedref:

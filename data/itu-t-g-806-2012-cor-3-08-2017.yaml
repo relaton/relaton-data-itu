@@ -50,7 +50,7 @@ abstract:
   content: "Corrigendum 3 to Recommendation ITU-T G.806 updates: \r\n–\tTable 7-1 to correct the default values for MI_DEGTHR and MI_DEGM.\r\n–\tClause 5.6.3 and Table 7-1 for the use of MI_Active.\r\n"
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2017'
   owner:
@@ -62,6 +62,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Characteristics of transport equipment - Description methodology and generic functionality
+    docidentifier:
+    - content: G.806 (10/2026)
+      type: ITU
+      primary: true
 - type: hasEdition
   bibitem:
     formattedref:

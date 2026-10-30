@@ -55,7 +55,7 @@ abstract:
   content: "Recommendation ITU-T G.709.1 specifies common elements and signal structures used by various types of flexible optical transport network (FlexO) interfaces. \r\nEdition 3.0 removes short-reach interfaces which are moved to Recommendation ITU-T G.709.5. This Recommendation is renamed and focuses on common FlexO elements.\r\n"
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2024'
   owner:
@@ -67,6 +67,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Flexible OTN common elements
+    docidentifier:
+    - content: G.709.1 (10/2026)
+      type: ITU
+      primary: true
 - type: hasEdition
   bibitem:
     formattedref:

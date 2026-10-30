@@ -55,7 +55,7 @@ abstract:
   content: Recommendation ITU-T G.806 specifies the methodology, generic functionality and components that should be used in order to specify transport network functionality of network elements; it does not specify individual transport network equipment as such. It is the baseline Recommendation for other standards that specify the characteristics of equipment for specific transport networks (e.g., synchronous digital hierarchy (SDH), plesiochronous digital hierarchy (PDH)).
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2012'
   owner:
@@ -67,6 +67,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Characteristics of transport equipment - Description methodology and generic functionality
+    docidentifier:
+    - content: G.806 (10/2026)
+      type: ITU
+      primary: true
 - type: hasEdition
   bibitem:
     formattedref:

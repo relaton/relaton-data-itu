@@ -67994,6 +67994,18 @@
     month: '08'
   :file: data/itu-t-y-2301-08-2013.yaml
 - :id:
+    _type: pubid:itu:amendment
+    number: '1'
+    year: '2026'
+    month: '10'
+    base:
+      _type: pubid:itu:recommendation
+      sector: T
+      series: M
+      number: '2301'
+      year: '2002'
+  :file: data/itu-t-m-2301-2002-amd-1-10-2026.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: BT
@@ -89364,6 +89376,15 @@
 - :id:
     _type: pubid:itu:recommendation
     sector: T
+    series: M
+    number: '3111'
+    subseries: '2'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-m-3111-2-10-2026.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
     series: "Y"
     number: '3112'
     year: '2018'
@@ -95171,6 +95192,30 @@
   :file: data/itu-t-m-3375-03-2026.yaml
 - :id:
     _type: pubid:itu:recommendation
+    sector: T
+    series: M
+    number: '3376'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-m-3376-10-2026.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
+    series: M
+    number: '3377'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-m-3377-10-2026.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
+    series: M
+    number: '3378'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-m-3378-10-2026.yaml
+- :id:
+    _type: pubid:itu:recommendation
     sector: R
     series: F
     number: '338'
@@ -95357,6 +95402,14 @@
     year: '2025'
     month: '10'
   :file: data/itu-t-m-3393-10-2025.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
+    series: M
+    number: '3394'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-m-3394-10-2026.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
@@ -145085,6 +145138,46 @@
     month: '11'
   :file: data/itu-t-q-709-11-1988.yaml
 - :id:
+    _type: pubid:itu:amendment
+    number: '2'
+    year: '2026'
+    month: '10'
+    base:
+      _type: pubid:itu:recommendation
+      sector: T
+      series: G
+      number: '709'
+      subseries: '5'
+      year: '2024'
+  :file: data/itu-t-g-709-5-2024-amd-2-10-2026.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
+    series: G
+    number: '709'
+    subseries: '1'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-g-709-1-10-2026.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
+    series: G
+    number: '709'
+    subseries: '6'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-g-709-6-10-2026.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: T
+    series: G
+    number: '709'
+    subseries: '7'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-g-709-7-10-2026.yaml
+- :id:
     _type: pubid:itu:question
     sector: R
     number: '71'
@@ -165121,6 +165214,14 @@
   :file: data/itu-t-p-806-2014-amd-1-05-2015.yaml
 - :id:
     _type: pubid:itu:recommendation
+    sector: T
+    series: G
+    number: '806'
+    year: '2026'
+    month: '10'
+  :file: data/itu-t-g-806-10-2026.yaml
+- :id:
+    _type: pubid:itu:recommendation
     sector: R
     series: BT
     number: '807'
@@ -165243,6 +165344,18 @@
     year: '2023'
     month: '02'
   :file: data/itu-t-t-807-v2-02-2023.yaml
+- :id:
+    _type: pubid:itu:amendment
+    number: '1'
+    year: '2026'
+    month: '10'
+    base:
+      _type: pubid:itu:recommendation
+      sector: T
+      series: G
+      number: '807'
+      year: '2024'
+  :file: data/itu-t-g-807-2024-amd-1-10-2026.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -185737,6 +185850,18 @@
       number: '988'
       year: '2022'
   :file: data/itu-t-g-988-2022-amd-2-05-2025.yaml
+- :id:
+    _type: pubid:itu:amendment
+    number: '3'
+    year: '2026'
+    month: '08'
+    base:
+      _type: pubid:itu:recommendation
+      sector: T
+      series: G
+      number: '988'
+      year: '2022'
+  :file: data/itu-t-g-988-2022-amd-3-08-2026.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: T

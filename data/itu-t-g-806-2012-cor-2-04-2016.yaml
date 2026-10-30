@@ -50,7 +50,7 @@ abstract:
   content: Corrigendum 2 to Recommendation ITU-T G.806 (2012) modifies all SDL diagrams described in this Recommendation to align with the conventions specified in Recommendation ITU‑T Z.100 (2011) Specification and Description Language.
 status:
   stage:
-    content: Published
+    content: Withdrawal
 copyright:
 - from: '2016'
   owner:
@@ -62,6 +62,16 @@ copyright:
       abbreviation:
         content: ITU
 relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Characteristics of transport equipment - Description methodology and generic functionality
+    docidentifier:
+    - content: G.806 (10/2026)
+      type: ITU
+      primary: true
 - type: hasEdition
   bibitem:
     formattedref:
