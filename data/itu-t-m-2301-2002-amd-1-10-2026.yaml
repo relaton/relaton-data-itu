@@ -7,6 +7,9 @@ title:
   script: Latn
   content: Revision of the term connectivity
   type: main
+source:
+- type: src
+  content: https://handle.itu.int/11.1002/1000/17113
 docidentifier:
 - content: ITU-T M.2301 (2002) Amd. 1 (10/2026)
   type: ITU
@@ -14,10 +17,42 @@ docidentifier:
 date:
 - type: published
   at: '2026-10-29'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.itu.int
+    name:
+    - content: International Telecommunication Union
+    abbreviation:
+      content: ITU
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Telecommunication Union
+    subdivision:
+    - name:
+      - content: ITU-T Study Group 2
+      type: technical-committee
+      subtype: study-group
+    abbreviation:
+      content: ITU-T
+edition:
+  content: '1.1'
 language:
 - en
 script:
 - Latn
+abstract:
+- language: en
+  script: Latn
+status:
+  stage:
+    content: Published
 copyright:
 - from: '2026'
   owner:
@@ -28,6 +63,17 @@ copyright:
       - content: International Telecommunication Union
       abbreviation:
         content: ITU
+relation:
+- type: hasEdition
+  bibitem:
+    title:
+    - language: en
+      script: Latn
+      content: Performance objectives and procedures for provisioning and maintenance of IP-based networks
+    docidentifier:
+    - content: M.2301 (07/2002)
+      type: ITU
+      primary: true
 place:
 - city: Geneva
 ext:
