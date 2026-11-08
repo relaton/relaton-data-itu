@@ -52,7 +52,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines the requirements for an equipment to measure the performance of PCM equipments in analogue-to-digital (A-D), digital-to-analogue (D-A), analogue-to-analogue (A-A) and digital-to-digital (D-D) modes.
+  content: Defines the requirements for an equipment to measure the performance of
+    PCM equipments in analogue-to-digital (A-D), digital-to-analogue (D-A), analogue-to-analogue
+    (A-A) and digital-to-digital (D-D) modes.
 status:
   stage:
     content: Published
@@ -82,7 +84,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification for equipment to measure the performance of PCM encoders and decoders
+      content: Specification for equipment to measure the performance of PCM encoders
+        and decoders
     docidentifier:
     - content: O.133 (10/1984)
       type: ITU

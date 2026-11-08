@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the configurations of ISDN and B-ISDN customer accesses, and lists the relevant reference points for the access network interfaces. This Recommendation gives an overview of the relevants Recommendations mainly on Layer 1 aspect for ISDN and B-ISDN customer accesses.
+  content: This Recommendation describes the configurations of ISDN and B-ISDN customer
+    accesses, and lists the relevant reference points for the access network interfaces.
+    This Recommendation gives an overview of the relevants Recommendations mainly
+    on Layer 1 aspect for ISDN and B-ISDN customer accesses.
 status:
   stage:
     content: Published
@@ -72,7 +75,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of Recommendations on layer 1 for ISDN and B-ISDN customer accesses
+      content: Overview of Recommendations on layer 1 for ISDN and B-ISDN customer
+        accesses
     docidentifier:
     - content: I.414 (03/1993)
       type: ITU
@@ -82,7 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

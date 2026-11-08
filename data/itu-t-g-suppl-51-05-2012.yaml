@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Passive optical networks can generally be considered point-to-multipoint networks, much like wireless networks such as wireless fidelity (Wi-Fi), 2G-4G or the hybrid fibre coax (HFC) networks used by multiple system operators. Redundancy is generally not fundamental in these networks as contrasted with ring-based topologies.\r\nNonetheless, there are services such as business services, mobile backhaul and high-density residential services, which may justify the addition of passive optical network (PON) redundancy and protection switching.\r\nThe ITU-T G.984.1 specification outlines several topologies for achieving redundancy; these have been named Type A, Type B, Type C and Type D. Since the publication of that Recommendation, many other studies of different aspects of PON availability, redundancy and switching have been made available. \r\nSupplement 51 to ITU-T G-series Recommendations collects this information, and, guided by input from operators, distils it into use cases and methods that are recommended for adding redundancy and increasing the reliability of PON networks.\r\n"
+  content: "Passive optical networks can generally be considered point-to-multipoint
+    networks, much like wireless networks such as wireless fidelity (Wi-Fi), 2G-4G
+    or the hybrid fibre coax (HFC) networks used by multiple system operators. Redundancy
+    is generally not fundamental in these networks as contrasted with ring-based topologies.\r\nNonetheless,
+    there are services such as business services, mobile backhaul and high-density
+    residential services, which may justify the addition of passive optical network
+    (PON) redundancy and protection switching.\r\nThe ITU-T G.984.1 specification
+    outlines several topologies for achieving redundancy; these have been named Type
+    A, Type B, Type C and Type D. Since the publication of that Recommendation, many
+    other studies of different aspects of PON availability, redundancy and switching
+    have been made available. \r\nSupplement 51 to ITU-T G-series Recommendations
+    collects this information, and, guided by input from operators, distils it into
+    use cases and methods that are recommended for adding redundancy and increasing
+    the reliability of PON networks.\r\n"
 status:
   stage:
     content: Withdrawal

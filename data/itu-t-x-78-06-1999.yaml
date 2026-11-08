@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Interworking procedures between networks providing frame relay data transmission services via B-ISDN
+  content: Interworking procedures between networks providing frame relay data transmission
+    services via B-ISDN
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the procedures for interworking case of concatenation of networks providing FRDTS via B-ISDN. It includes reference configurations, protocol stacks and detailed signalling procedures. This Recommendation may be used in the case where frame relay links between networks providing FRDTS services are transferred over B-ISDN networks as backbone networks. Interworking scenario used in this Recommendation is Network interworking scenario as specified in Recommendation I.555, and port access method of interworking as specified in the X.300-series Recommendations.
+  content: This Recommendation defines the procedures for interworking case of concatenation
+    of networks providing FRDTS via B-ISDN. It includes reference configurations,
+    protocol stacks and detailed signalling procedures. This Recommendation may be
+    used in the case where frame relay links between networks providing FRDTS services
+    are transferred over B-ISDN networks as backbone networks. Interworking scenario
+    used in this Recommendation is Network interworking scenario as specified in Recommendation
+    I.555, and port access method of interworking as specified in the X.300-series
+    Recommendations.
 status:
   stage:
     content: Published

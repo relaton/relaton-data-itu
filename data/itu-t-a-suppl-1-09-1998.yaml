@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Supplement provides guidelines on the quality aspects of protocol related ITU-T Recommendation with the objective of:1) improving the quality of protocol related Recommendations; and2) helping to improve the interoperability of products based on these Recommendations.In order to encourage the widest possible use of ITU-T Protocol Related Recommendations, it is important that these Recommendations are of the highest possible quality. Several aspects of Quality that play an important role for users of these ITU-T Recommendations have been selected for this purpose. These are: readability, completeness, correctness, consistency, unambiguity, implementability and testability.Annex A of this Supplement contains a quality check-list to assist the developers of protocol related Recommendations in determining which sections of the Quality Guidelines have been addressed.'
+  content: 'This Supplement provides guidelines on the quality aspects of protocol
+    related ITU-T Recommendation with the objective of:1) improving the quality of
+    protocol related Recommendations; and2) helping to improve the interoperability
+    of products based on these Recommendations.In order to encourage the widest possible
+    use of ITU-T Protocol Related Recommendations, it is important that these Recommendations
+    are of the highest possible quality. Several aspects of Quality that play an important
+    role for users of these ITU-T Recommendations have been selected for this purpose.
+    These are: readability, completeness, correctness, consistency, unambiguity, implementability
+    and testability.Annex A of this Supplement contains a quality check-list to assist
+    the developers of protocol related Recommendations in determining which sections
+    of the Quality Guidelines have been addressed.'
 status:
   stage:
     content: Withdrawal

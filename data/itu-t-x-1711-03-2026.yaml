@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1711 specifies the framework of quantum key distribution (QKD) protocols in the quantum layer of a QKD network (QKDN). In a QKDN, QKD protocols instruct the QKD modules operating over the QKD link to produce QKD-keys via the quantum communication stage and the key distillation stage. This Recommendation gives an overview of QKD protocols in the quantum layer, specifies the QKD protocol architecture and introduces the operation of QKD protocols in general, which forms a framework for QKD protocols in QKDNs.\r\n"
+  content: "Recommendation ITU-T X.1711 specifies the framework of quantum key distribution
+    (QKD) protocols in the quantum layer of a QKD network (QKDN). In a QKDN, QKD protocols
+    instruct the QKD modules operating over the QKD link to produce QKD-keys via the
+    quantum communication stage and the key distillation stage. This Recommendation
+    gives an overview of QKD protocols in the quantum layer, specifies the QKD protocol
+    architecture and introduces the operation of QKD protocols in general, which forms
+    a framework for QKD protocols in QKDNs.\r\n"
 status:
   stage:
     content: Published

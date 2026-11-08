@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Evaluation of signalling protocols to support ITU-T Y.2171 admission control priority levels
+  content: Evaluation of signalling protocols to support ITU-T Y.2171 admission control
+    priority levels
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 61 to ITU-T Q-series Recommendations provides guidance on how existing signalling protocol extensions can be used to designate the admission control priority classifications for incoming calls/sessions into next generation networks. Specifically, this supplement defines the relationship between the designated values of these protocol extensions and the admission control priority levels/categories defined in Recommendation ITU-T Y.2171.
+  content: Supplement 61 to ITU-T Q-series Recommendations provides guidance on how
+    existing signalling protocol extensions can be used to designate the admission
+    control priority classifications for incoming calls/sessions into next generation
+    networks. Specifically, this supplement defines the relationship between the designated
+    values of these protocol extensions and the admission control priority levels/categories
+    defined in Recommendation ITU-T Y.2171.
 status:
   stage:
     content: Published

@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Website spoofing is a major threat for telecommunication organizations, especially for operators. It is recommended for telecommunication operators to adopt technologies to counter website spoofing to protect their customers and guard their reputation and revenue. Recommendation ITU-T X.1235 analyses the main measures to spoof a website and recommends technologies to identify spoofed websites. These measures can be regarded as guidelines for telecommunication organizations to protect websites from being spoofed. A similar approach may be implemented against spoofing of any website, including those of banks, insurance companies, Internet shops, etc.
+  content: Website spoofing is a major threat for telecommunication organizations,
+    especially for operators. It is recommended for telecommunication operators to
+    adopt technologies to counter website spoofing to protect their customers and
+    guard their reputation and revenue. Recommendation ITU-T X.1235 analyses the main
+    measures to spoof a website and recommends technologies to identify spoofed websites.
+    These measures can be regarded as guidelines for telecommunication organizations
+    to protect websites from being spoofed. A similar approach may be implemented
+    against spoofing of any website, including those of banks, insurance companies,
+    Internet shops, etc.
 status:
   stage:
     content: Published

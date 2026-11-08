@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies guidelines for defining CORBA-based interfaces to software objects representing manageable resources in a TMN. It covers information modelling guidelines, rules for translating models from GDMO, and IDL style conventions. It also provides an IDL module defining data types, superclasses, and notifications to be used in CORBA-based information model specifications.
+  content: This Recommendation specifies guidelines for defining CORBA-based interfaces
+    to software objects representing manageable resources in a TMN. It covers information
+    modelling guidelines, rules for translating models from GDMO, and IDL style conventions.
+    It also provides an IDL module defining data types, superclasses, and notifications
+    to be used in CORBA-based information model specifications.
 status:
   stage:
     content: Published

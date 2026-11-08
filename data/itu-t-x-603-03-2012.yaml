@@ -55,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The relayed multicast protocol (RMCP) is an application-layer protocol for providing end-to-end multicast services over an IP-based network environment. Recommendation ITU-T X.603 | International Standard ISO/IEC 16512-1 specifies basic concepts of a relayed multicast scheme, data delivery models, service scenarios, required protocol functions for protocol operation, and basic message structures for subsequent protocols. This Recommendation | International Standard can be used to specify detailed relayed multicast protocols for various application requirements.
+  content: The relayed multicast protocol (RMCP) is an application-layer protocol
+    for providing end-to-end multicast services over an IP-based network environment.
+    Recommendation ITU-T X.603 | International Standard ISO/IEC 16512-1 specifies
+    basic concepts of a relayed multicast scheme, data delivery models, service scenarios,
+    required protocol functions for protocol operation, and basic message structures
+    for subsequent protocols. This Recommendation | International Standard can be
+    used to specify detailed relayed multicast protocols for various application requirements.
 status:
   stage:
     content: Published

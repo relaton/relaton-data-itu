@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 6 to ITU-T X-series Recommendations states that in order to deal effectively with spam, governments need to employ a variety of approaches, including effective laws, technological tools, and consumer and business education. This supplement reviews the international forums where the issue of spam is being addressed. As a case study, for illustrative purposes, it provides some information about the way the U.S. and Japan have approached the spam problem.
+  content: Supplement 6 to ITU-T X-series Recommendations states that in order to
+    deal effectively with spam, governments need to employ a variety of approaches,
+    including effective laws, technological tools, and consumer and business education.
+    This supplement reviews the international forums where the issue of spam is being
+    addressed. As a case study, for illustrative purposes, it provides some information
+    about the way the U.S. and Japan have approached the spam problem.
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated threats
+      content: ITU-T X.1240 series – Supplement on countering spam and associated
+        threats
     docidentifier:
     - content: X Suppl. 6 (02/2009)
       type: ITU

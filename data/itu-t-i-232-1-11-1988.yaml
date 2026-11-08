@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Packet-mode bearer services categories : Virtual call and permanent virtual circuit bearer service category'
+  content: 'Packet-mode bearer services categories : Virtual call and permanent virtual
+    circuit bearer service category'
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies a bearer service category that provides the unrestricted transfer (without alteration) of user information in a packetized manner over a virtual circuit within a B- or D-channel at the S/T reference point. Signalling information for virtual call and/or possibly OAM information for permanent virtual circuit services are transferred via B- or D-channels as described in Recommendation I.462 (X.31)
+  content: This Recommendation specifies a bearer service category that provides the
+    unrestricted transfer (without alteration) of user information in a packetized
+    manner over a virtual circuit within a B- or D-channel at the S/T reference point.
+    Signalling information for virtual call and/or possibly OAM information for permanent
+    virtual circuit services are transferred via B- or D-channels as described in
+    Recommendation I.462 (X.31)
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

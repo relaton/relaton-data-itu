@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1161 describes security threats and security requirements to the peer-to-peer (P2P) communications based on the service scenarios and characteristics of P2P communications. In addition, this Recommendation describes security functions that satisfy the security requirements.
+  content: Recommendation ITU-T X.1161 describes security threats and security requirements
+    to the peer-to-peer (P2P) communications based on the service scenarios and characteristics
+    of P2P communications. In addition, this Recommendation describes security functions
+    that satisfy the security requirements.
 status:
   stage:
     content: Published

@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies Multiple Services Ring (MSR) based on Resilient Packet Ring (RPR) and a way of multi-service provision over RPR. MSR is defined to work at the client of RPR MAC layer and uses Fairness Algorithm (FA) of RPR MAC to support services of Class A, Class B and Class C. MSR is used in configurations where a tributary service is managed from provisioning. Architecturally, the link and broadcasttopologies are also supported. The features of tributary (Service, just like Ethernet, Frame Relay and G.702, etc.) based 1+1, 1:1 and 1:N standby within 50 ms, tributary (Service) based BW management with symmetry and asymmetry, tributary based multicast and Frame Sequence Number for Performance Monitoring of tributary are highlighted in this Recommendation.
+  content: This Recommendation specifies Multiple Services Ring (MSR) based on Resilient
+    Packet Ring (RPR) and a way of multi-service provision over RPR. MSR is defined
+    to work at the client of RPR MAC layer and uses Fairness Algorithm (FA) of RPR
+    MAC to support services of Class A, Class B and Class C. MSR is used in configurations
+    where a tributary service is managed from provisioning. Architecturally, the link
+    and broadcasttopologies are also supported. The features of tributary (Service,
+    just like Ethernet, Frame Relay and G.702, etc.) based 1+1, 1:1 and 1:N standby
+    within 50 ms, tributary (Service) based BW management with symmetry and asymmetry,
+    tributary based multicast and Frame Sequence Number for Performance Monitoring
+    of tributary are highlighted in this Recommendation.
 status:
   stage:
     content: Withdrawal

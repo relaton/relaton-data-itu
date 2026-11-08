@@ -55,7 +55,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment provides support for the full range of time types specified in ISO 8601:2004 by the introduction of a generic type called TIME and a number of useful and defined time types that are derived from it (and are subsets of it). A subtype notation is specified that can be used to define additional time types, and that enables designers to produce variations of those types suited to their particular applications (for example, restrictions on the values used to represent midnight). The useful time types are DATE (specified using year, month, day), TIME-OF-DAY (specified using hours, minutes, seconds, to various accuracies), DATE-TIME (specified by a combination of a DATE and a TIME-OF-DAY) and DURATION (specified in any combination of time units). The defined time types include types that can be used to specify dates and times (in various forms), time intervals, and recurring time intervals. This amendment specifies the type notation, the subtype notation, the basic value notation, and the XML value notation for these types. It also contains a tutorial annex on the ISO 8601 concepts used in the definition of these types
+  content: This amendment provides support for the full range of time types specified
+    in ISO 8601:2004 by the introduction of a generic type called TIME and a number
+    of useful and defined time types that are derived from it (and are subsets of
+    it). A subtype notation is specified that can be used to define additional time
+    types, and that enables designers to produce variations of those types suited
+    to their particular applications (for example, restrictions on the values used
+    to represent midnight). The useful time types are DATE (specified using year,
+    month, day), TIME-OF-DAY (specified using hours, minutes, seconds, to various
+    accuracies), DATE-TIME (specified by a combination of a DATE and a TIME-OF-DAY)
+    and DURATION (specified in any combination of time units). The defined time types
+    include types that can be used to specify dates and times (in various forms),
+    time intervals, and recurring time intervals. This amendment specifies the type
+    notation, the subtype notation, the basic value notation, and the XML value notation
+    for these types. It also contains a tutorial annex on the ISO 8601 concepts used
+    in the definition of these types
 status:
   stage:
     content: Withdrawal
@@ -75,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (02/2021)
       type: ITU
@@ -85,7 +100,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Relaxing IMPORTS clause to allow importation of definitions from new versions of a given module
+      content: Relaxing IMPORTS clause to allow importation of definitions from new
+        versions of a given module
     docidentifier:
     - content: X.680 (2015) Amd. 1 (05/2018)
       type: ITU
@@ -119,7 +135,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (08/2015)
       type: ITU
@@ -145,7 +162,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (11/2008)
       type: ITU
@@ -173,7 +191,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Alignment with changes made to ITU-T Rec. X.660 | ISO/IEC 9834-1 for identifiers in object identifier value notation
+      content: Alignment with changes made to ITU-T Rec. X.660 | ISO/IEC 9834-1 for
+        identifiers in object identifier value notation
     docidentifier:
     - content: X.680 (2002) Amd. 2 (08/2004)
       type: ITU
@@ -193,7 +212,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (07/2002)
       type: ITU
@@ -275,7 +295,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (12/1997)
       type: ITU
@@ -329,7 +350,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (07/1994)
       type: ITU

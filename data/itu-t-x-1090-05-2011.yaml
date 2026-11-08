@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes a user authentication framework with a one-time telebiometric template. The framework provides secure user authentication and protection mechanisms for a biometric template transmitted over open networks. It prevents a replay attack and protects an  original biometric template by generating a new template upon each completion of authentication. This Recommendation also addresses the security requirements associated with the framework for a one-time telebiometric template.
+  content: This Recommendation describes a user authentication framework with a one-time
+    telebiometric template. The framework provides secure user authentication and
+    protection mechanisms for a biometric template transmitted over open networks.
+    It prevents a replay attack and protects an  original biometric template by generating
+    a new template upon each completion of authentication. This Recommendation also
+    addresses the security requirements associated with the framework for a one-time
+    telebiometric template.
 status:
   stage:
     content: Published

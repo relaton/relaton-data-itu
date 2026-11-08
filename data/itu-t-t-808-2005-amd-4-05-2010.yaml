@@ -55,7 +55,23 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 4 to Recommendation ITU-T T.808 (2005) | ISO/IEC 15444-9:2005 defines the framework, concepts and methodology for establishing JPIP interoperability and the criteria to be achieved to claim compliance to Recommendation ITU-T T.808 | ISO/IEC 15444-9. This amendment defines JPIP profiles and variants. Profiles define the fields that a JPIP server is expected to implement and support beyond parsing and interpretation; profiles also limit the requests a client can expect a server within this profile to support and fully implement. Variants define which features of the JPIP standard are used to request and transmit data between client and server. Servers are classified according to the highest level profile they support, and all the variants they implement. Clients are classified according to all the variants they implement, and according to the highest level profile they support. A new annex is also included in this amendment that defines a methodology for testing compliance within the set of defined profiles and variants. Test data and scripts for JPIP testing are provided as an integral part of this amendment.This amendment has an electronic attachment containing test data and scripts for JPIP testing. This attachment is also available online from the ITU-T Test Signal Database at http://itu.int/net/ITU-T/sigdb/speimage/Tseries-s.htm#T.808.
+  content: Amendment 4 to Recommendation ITU-T T.808 (2005) | ISO/IEC 15444-9:2005
+    defines the framework, concepts and methodology for establishing JPIP interoperability
+    and the criteria to be achieved to claim compliance to Recommendation ITU-T T.808
+    | ISO/IEC 15444-9. This amendment defines JPIP profiles and variants. Profiles
+    define the fields that a JPIP server is expected to implement and support beyond
+    parsing and interpretation; profiles also limit the requests a client can expect
+    a server within this profile to support and fully implement. Variants define which
+    features of the JPIP standard are used to request and transmit data between client
+    and server. Servers are classified according to the highest level profile they
+    support, and all the variants they implement. Clients are classified according
+    to all the variants they implement, and according to the highest level profile
+    they support. A new annex is also included in this amendment that defines a methodology
+    for testing compliance within the set of defined profiles and variants. Test data
+    and scripts for JPIP testing are provided as an integral part of this amendment.This
+    amendment has an electronic attachment containing test data and scripts for JPIP
+    testing. This attachment is also available online from the ITU-T Test Signal Database
+    at http://itu.int/net/ITU-T/sigdb/speimage/Tseries-s.htm#T.808.
 status:
   stage:
     content: Withdrawal
@@ -75,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity
+        tools, APIs and protocols'
     docidentifier:
     - content: T.808 (V3) (06/2026)
       type: ITU
@@ -85,7 +102,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity
+        tools, APIs and protocols'
     docidentifier:
     - content: T.808 (V2) (12/2022)
       type: ITU
@@ -163,7 +181,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity
+        tools, APIs and protocols'
     docidentifier:
     - content: T.808 (01/2005)
       type: ITU

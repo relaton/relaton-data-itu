@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation presents the B-ISDN network architecture needed to support broadband services and service features. The B-ISDN communication configurations and the B-ISDN addressing necessary to support the broadband services are also included in this Recommendation.
+  content: This Recommendation presents the B-ISDN network architecture needed to
+    support broadband services and service features. The B-ISDN communication configurations
+    and the B-ISDN addressing necessary to support the broadband services are also
+    included in this Recommendation.
 status:
   stage:
     content: Published
@@ -72,7 +75,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

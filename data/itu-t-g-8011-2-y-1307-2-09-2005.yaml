@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the service attributes and parameters for carrying Ethernet characteristic information over shared bandwidth, point-to-point connections, provided by SDH, PDH, ATM, MPLS, OTH, or ETY server layer networks. This type of service is referred to as Ethernet Virtual Private Line (EVPL) service. This Recommendation is based on the Ethernet service framework as defined in ITU-T Rec. G.8011/Y.1307.
+  content: This Recommendation defines the service attributes and parameters for carrying
+    Ethernet characteristic information over shared bandwidth, point-to-point connections,
+    provided by SDH, PDH, ATM, MPLS, OTH, or ETY server layer networks. This type
+    of service is referred to as Ethernet Virtual Private Line (EVPL) service. This
+    Recommendation is based on the Ethernet service framework as defined in ITU-T
+    Rec. G.8011/Y.1307.
 status:
   stage:
     content: Withdrawal

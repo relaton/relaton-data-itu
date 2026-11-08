@@ -55,7 +55,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.800:\r\na)\tprovides a general description of security services and related mechanisms, which may be provided by the Reference Model; and\r\nb)\tdefines the positions within the Reference Model where the services and mechanisms may be provided.\r\n\tThis Recommendation extends the field of application of Recommendation X.200, to cover secure communications between open systems.\r\n\tBasic security services and mechanisms and their appropriate placement have been identified for all layers of the Reference Model. In addition, the architectural relationships of the security services and mechanisms to the Reference Model have been identified. Additional security measures may be needed in end systems, installations and organizations. These measures apply in various application contexts. The definition of security services needed to support such additional security measures is outside the scope of the Recommendation.\r\n"
+  content: "Recommendation ITU-T X.800:\r\na)\tprovides a general description of security
+    services and related mechanisms, which may be provided by the Reference Model;
+    and\r\nb)\tdefines the positions within the Reference Model where the services
+    and mechanisms may be provided.\r\n\tThis Recommendation extends the field of
+    application of Recommendation X.200, to cover secure communications between open
+    systems.\r\n\tBasic security services and mechanisms and their appropriate placement
+    have been identified for all layers of the Reference Model. In addition, the architectural
+    relationships of the security services and mechanisms to the Reference Model have
+    been identified. Additional security measures may be needed in end systems, installations
+    and organizations. These measures apply in various application contexts. The definition
+    of security services needed to support such additional security measures is outside
+    the scope of the Recommendation.\r\n"
 status:
   stage:
     content: Published
@@ -85,7 +96,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on security baseline for network operators
+      content: ITU-T X.800-X.849 series – Supplement on security baseline for network
+        operators
     docidentifier:
     - content: X Suppl. 2 (09/2007)
       type: ITU
@@ -95,7 +107,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing system and network security
+      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing
+        system and network security
     docidentifier:
     - content: X Suppl. 3 (04/2008)
       type: ITU
@@ -105,7 +118,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national IP-based public network security centre for developing countries
+      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national
+        IP-based public network security centre for developing countries
     docidentifier:
     - content: X Suppl. 15 (09/2012)
       type: ITU
@@ -115,7 +129,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on architectural systems for security controls for preventing fraudulent activities in public carrier networks
+      content: ITU-T X.800-X.849 series – Supplement on architectural systems for
+        security controls for preventing fraudulent activities in public carrier networks
     docidentifier:
     - content: X Suppl. 16 (09/2012)
       type: ITU

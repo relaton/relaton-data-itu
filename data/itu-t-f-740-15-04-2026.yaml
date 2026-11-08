@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Cultural data sharing has multiple participants in multiple links such as collection and processing, transaction and distribution, transmission and storage, as well as data governance, and they are all in a multiparty co-governance environment. How to solve the problem of cultural data sharing in such an environment has become a common concern of all participants in the field of cultural digitization. \r\nRecommendation ITU-T F.740.15 specifies the framework and functional requirements of a cultural data sharing system (CDSS). The CDSS realizes cultural data sharing based on data identification and addressing technologies, where cultural identifiers and metadata of cultural data are transmitted through the CDSS, while the original cultural data does not need to be uploaded to the system. It supports the agile transmission of cultural data as assets, achieving the goal of cultural data sharing.\r\n"
+  content: "Cultural data sharing has multiple participants in multiple links such
+    as collection and processing, transaction and distribution, transmission and storage,
+    as well as data governance, and they are all in a multiparty co-governance environment.
+    How to solve the problem of cultural data sharing in such an environment has become
+    a common concern of all participants in the field of cultural digitization. \r\nRecommendation
+    ITU-T F.740.15 specifies the framework and functional requirements of a cultural
+    data sharing system (CDSS). The CDSS realizes cultural data sharing based on data
+    identification and addressing technologies, where cultural identifiers and metadata
+    of cultural data are transmitted through the CDSS, while the original cultural
+    data does not need to be uploaded to the system. It supports the agile transmission
+    of cultural data as assets, achieving the goal of cultural data sharing.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +123,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +134,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

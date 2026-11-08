@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: N-screen services are about enabling a user to view same media content on multiple user devices. The translation and adjustment of content formats is necessary when the formats used in each user device are different. In order to address the challenge, this Supplement describes three kind of deployment models of N-screen services when user devices use the different protocols, metadata and stream formats. The service requirements are also specified when the deployment model is applied for the support of N-screen services.
+  content: N-screen services are about enabling a user to view same media content
+    on multiple user devices. The translation and adjustment of content formats is
+    necessary when the formats used in each user device are different. In order to
+    address the challenge, this Supplement describes three kind of deployment models
+    of N-screen services when user devices use the different protocols, metadata and
+    stream formats. The service requirements are also specified when the deployment
+    model is applied for the support of N-screen services.
 status:
   stage:
     content: Published

@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The session protocol specification defined in ITU-T Rec. X.225 | ISO/IEC 8327-1 is enhanced to support the establishment of additional, independent, nested session connections within an existing session connection. This enhancement will support the reusability of existing application layer standards (each making full, and possibly incompatible, use of the session synchronization services) as components of new application layer standards.
+  content: The session protocol specification defined in ITU-T Rec. X.225 | ISO/IEC
+    8327-1 is enhanced to support the establishment of additional, independent, nested
+    session connections within an existing session connection. This enhancement will
+    support the reusability of existing application layer standards (each making full,
+    and possibly incompatible, use of the session synchronization services) as components
+    of new application layer standards.
 status:
   stage:
     content: Published
@@ -93,7 +98,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Connection-oriented Session protocol: Protocol specification'
+      content: 'Information technology – Open Systems Interconnection – Connection-oriented
+        Session protocol: Protocol specification'
     docidentifier:
     - content: X.225 (11/1995)
       type: ITU
@@ -113,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Connection-oriented session protocol: Protocol specification'
+      content: 'Information technology – Open Systems Interconnection – Connection-oriented
+        session protocol: Protocol specification'
     docidentifier:
     - content: X.225 (07/1994)
       type: ITU
@@ -123,7 +130,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session protocol specification for Open Systems Interconnection for CCITT applications
+      content: Session protocol specification for Open Systems Interconnection for
+        CCITT applications
     docidentifier:
     - content: X.225 (11/1988)
       type: ITU
@@ -133,7 +141,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session Protocol Specification for Open Systems Interconnection for CCITT Applications
+      content: Session Protocol Specification for Open Systems Interconnection for
+        CCITT Applications
     docidentifier:
     - content: X.225 (10/1984)
       type: ITU

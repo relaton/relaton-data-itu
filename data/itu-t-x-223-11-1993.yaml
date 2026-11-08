@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Use of X.25 to provide the OSI connection-mode Network service for ITU-T applications
+  content: Use of X.25 to provide the OSI connection-mode Network service for ITU-T
+    applications
   type: main
 source:
 - type: src
@@ -55,7 +56,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation X.25 is used for many different types of applications. This Recommendation, X.223, shows how to use X.25 for OSI purposes by specifying a mapping of the appropriate elements of X.25 to/from the OSI Connection-mode Network Service defined in Recommendation X.213. This revision of X.223 corrects serveral minor errors and achieves complete interworking capability with the corresponding ISO/IEC 8878 Standard.
+  content: Recommendation X.25 is used for many different types of applications. This
+    Recommendation, X.223, shows how to use X.25 for OSI purposes by specifying a
+    mapping of the appropriate elements of X.25 to/from the OSI Connection-mode Network
+    Service defined in Recommendation X.213. This revision of X.223 corrects serveral
+    minor errors and achieves complete interworking capability with the corresponding
+    ISO/IEC 8878 Standard.
 status:
   stage:
     content: Published
@@ -85,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use of X.25 to provide the OSI connection-mode network service for CCITT applications
+      content: Use of X.25 to provide the OSI connection-mode network service for
+        CCITT applications
     docidentifier:
     - content: X.223 (11/1988)
       type: ITU

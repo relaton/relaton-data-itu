@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The intent of this Annex is to provide a lightweight T.120 profile that can be implemented in products requiring minimal data services. This includes pure audiovisual environments wishing to incorporate the services of Application Protocol Entities (APEs) such as T.130 (in contrast to multimedia terminals encompassing audio, video, and data services). It also includes products incorporating thin implementations of other T.120 APEs such as text telephony. This set of profiles will be particularly useful in audiovisual environments where resources are extremely limited.
+  content: The intent of this Annex is to provide a lightweight T.120 profile that
+    can be implemented in products requiring minimal data services. This includes
+    pure audiovisual environments wishing to incorporate the services of Application
+    Protocol Entities (APEs) such as T.130 (in contrast to multimedia terminals encompassing
+    audio, video, and data services). It also includes products incorporating thin
+    implementations of other T.120 APEs such as text telephony. This set of profiles
+    will be particularly useful in audiovisual environments where resources are extremely
+    limited.
 status:
   stage:
     content: Withdrawal

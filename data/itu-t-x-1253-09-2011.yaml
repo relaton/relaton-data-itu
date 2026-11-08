@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation proposes security guidelines for identity management (IdM) systems. The security guidelines provide how an IdM system should be deployed and operated for secure identity services in NGN (Next Generation Network) or cyberspace environment. The security guidelines focus on providing official advice how to employ various security mechanisms to protect a general IdM system and it also provides proper security procedures required when two IdM systems are interoperated.
+  content: This Recommendation proposes security guidelines for identity management
+    (IdM) systems. The security guidelines provide how an IdM system should be deployed
+    and operated for secure identity services in NGN (Next Generation Network) or
+    cyberspace environment. The security guidelines focus on providing official advice
+    how to employ various security mechanisms to protect a general IdM system and
+    it also provides proper security procedures required when two IdM systems are
+    interoperated.
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1250 series – Supplement on overview of identity management in the context of cybersecurity
+      content: ITU-T X.1250 series – Supplement on overview of identity management
+        in the context of cybersecurity
     docidentifier:
     - content: X Suppl. 7 (02/2009)
       type: ITU

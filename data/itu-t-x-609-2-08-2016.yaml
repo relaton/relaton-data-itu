@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.609.2 specifies the overlay resource control protocol (ORCP) that runs on the interface between cache server (CS)/relay server (RS) and overlay management server (OMS) and on the interface between OMS and peer. Overlay Resource Control Protocol (ORCP) is used for reserving the resources and for controlling the use of CS and RS.  This Recommendation provides the requirements, protocol operations, and message formats used in each operation for ORCP.
+  content: Recommendation ITU-T X.609.2 specifies the overlay resource control protocol
+    (ORCP) that runs on the interface between cache server (CS)/relay server (RS)
+    and overlay management server (OMS) and on the interface between OMS and peer.
+    Overlay Resource Control Protocol (ORCP) is used for reserving the resources and
+    for controlling the use of CS and RS.  This Recommendation provides the requirements,
+    protocol operations, and message formats used in each operation for ORCP.
 status:
   stage:
     content: Published

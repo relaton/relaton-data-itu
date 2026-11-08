@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplement provides NGN transport user data while defining its structure with the parameters, incorporating those defined in ITU-T Recommendation Y.2014. Those categorized here are transport user profile identification, access identification, location management, transport resource subscription, default configuration, access authentication, identification of other functional entities, mobility and event management.
+  content: This supplement provides NGN transport user data while defining its structure
+    with the parameters, incorporating those defined in ITU-T Recommendation Y.2014.
+    Those categorized here are transport user profile identification, access identification,
+    location management, transport resource subscription, default configuration, access
+    authentication, identification of other functional entities, mobility and event
+    management.
 status:
   stage:
     content: Published

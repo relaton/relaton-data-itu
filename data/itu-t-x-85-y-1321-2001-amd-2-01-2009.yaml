@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 2 to Recommendation ITU-T X.85/Y.1321 adds a set of new SAPI values for LAPS to Table A.1, to identify the encapsulated protocols. Most of the values contained in the new table come from IETF-assigned PPP DLL Protocol Numbers due to the LAPS compatibility with PPP/HDLC.
+  content: Amendment 2 to Recommendation ITU-T X.85/Y.1321 adds a set of new SAPI
+    values for LAPS to Table A.1, to identify the encapsulated protocols. Most of
+    the values contained in the new table come from IETF-assigned PPP DLL Protocol
+    Numbers due to the LAPS compatibility with PPP/HDLC.
 status:
   stage:
     content: Published

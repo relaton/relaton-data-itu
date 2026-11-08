@@ -55,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment to Rec. X.882 | ISO/IEC 13712-3 provides the protocol procedures for the mapping of ROSE APDUs onto the A-UNIT-DATA service, and the inclusion of three built-in operations - Probe, Acknowledge and Cancel - which are of general utility to designers of ROSE-based applications.
+  content: This amendment to Rec. X.882 | ISO/IEC 13712-3 provides the protocol procedures
+    for the mapping of ROSE APDUs onto the A-UNIT-DATA service, and the inclusion
+    of three built-in operations - Probe, Acknowledge and Cancel - which are of general
+    utility to designers of ROSE-based applications.
 status:
   stage:
     content: Published
@@ -83,7 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Remote Operations: OSI realizations – Remote Operations Service Element (ROSE) protocol specification'
+      content: 'Information technology – Remote Operations: OSI realizations – Remote
+        Operations Service Element (ROSE) protocol specification'
     docidentifier:
     - content: X.882 (07/1994)
       type: ITU

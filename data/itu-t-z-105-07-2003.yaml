@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines how Abstract Syntax Notation One (ASN.1) modules can be used in combination with Specification and Description Language (SDL). This text replaces the semantic mappings from ASN.1 to SDL defined in ITU-T Rec. Z.105 (1999). The use of ASN.1 notation embedded in SDL previously defined in ITU-T Rec. Z.105 (1995) is not defined by this Recommendation.The main area of application of this Recommendation is the specification of telecommunication systems. The combined use of SDL and ASN.1 permits a coherent way to specify the structure and behaviour of telecommunication systems, together with data, messages and encoding of messages that these systems use.This version of Z.105 Recommendation makes necessary alignments with ASN.1 2002 Recommendations. The important changes include mapping of XML values, improved mapping of bit-string values and added mapping of relevant ASN.1 constructs for extensions.
+  content: This Recommendation defines how Abstract Syntax Notation One (ASN.1) modules
+    can be used in combination with Specification and Description Language (SDL).
+    This text replaces the semantic mappings from ASN.1 to SDL defined in ITU-T Rec.
+    Z.105 (1999). The use of ASN.1 notation embedded in SDL previously defined in
+    ITU-T Rec. Z.105 (1995) is not defined by this Recommendation.The main area of
+    application of this Recommendation is the specification of telecommunication systems.
+    The combined use of SDL and ASN.1 permits a coherent way to specify the structure
+    and behaviour of telecommunication systems, together with data, messages and encoding
+    of messages that these systems use.This version of Z.105 Recommendation makes
+    necessary alignments with ASN.1 2002 Recommendations. The important changes include
+    mapping of XML values, improved mapping of bit-string values and added mapping
+    of relevant ASN.1 constructs for extensions.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - SDL-2010 combined with ASN.1 modules
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
     docidentifier:
     - content: Z.105 (06/2021)
       type: ITU
@@ -82,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - SDL-2010 combined with ASN.1 modules
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
     docidentifier:
     - content: Z.105 (10/2019)
       type: ITU
@@ -92,7 +105,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - SDL-2010 combined with ASN.1 modules
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
     docidentifier:
     - content: Z.105 (04/2016)
       type: ITU
@@ -102,7 +116,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - SDL-2010 combined with ASN.1 modules
+      content: Specification and Description Language - SDL-2010 combined with ASN.1
+        modules
     docidentifier:
     - content: Z.105 (12/2011)
       type: ITU
@@ -142,7 +157,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

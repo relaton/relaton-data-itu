@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This revised Recommendation specifies the specification of management information related to the Data Link Layer, including the managed objects class definition of Data Link Layer managed objects, the relationship of the managed objects and attributes to both the operation of the layer and to other objects and attributes of the layer, and the allowable actions on the attributes of Data Link Layer managed objects.
+  content: This revised Recommendation specifies the specification of management information
+    related to the Data Link Layer, including the managed objects class definition
+    of Data Link Layer managed objects, the relationship of the managed objects and
+    attributes to both the operation of the layer and to other objects and attributes
+    of the layer, and the allowable actions on the attributes of Data Link Layer managed
+    objects.
 status:
   stage:
     content: Published

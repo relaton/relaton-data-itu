@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the layer 1 characteristics of the user-network interface at S- and T-reference points for basic rate ISDN as defined in Recommendation I.412.It defines service characteristics, mode of operation, wiring configuration and functional characteristics. The transmission characteristics, frame structure, line code and activation procedure at the interface are specified to facilitate the access of user equipment to the 2B- ? D-channel at a bit rate of 192 kbit/s.The specification of the electrical transmission characteristics and the power feeding over the interface shall ensure portability of terminal equipment for basic rate ISDN.
+  content: This Recommendation defines the layer 1 characteristics of the user-network
+    interface at S- and T-reference points for basic rate ISDN as defined in Recommendation
+    I.412.It defines service characteristics, mode of operation, wiring configuration
+    and functional characteristics. The transmission characteristics, frame structure,
+    line code and activation procedure at the interface are specified to facilitate
+    the access of user equipment to the 2B- ? D-channel at a bit rate of 192 kbit/s.The
+    specification of the electrical transmission characteristics and the power feeding
+    over the interface shall ensure portability of terminal equipment for basic rate
+    ISDN.
 status:
   stage:
     content: Published
@@ -112,7 +120,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

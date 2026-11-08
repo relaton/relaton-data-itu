@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3363 describes the requirements for data management in the telecommunication management network (TMN), the functional framework for data management and the functional description. The data refers to the different categories of telecommunication data in business support system (BSS) and operation support system (OSS). The requirements for data management include metadata management, data lifecycle management, data quality management, data security management, data configuration management and data service management.
+  content: Recommendation ITU-T M.3363 describes the requirements for data management
+    in the telecommunication management network (TMN), the functional framework for
+    data management and the functional description. The data refers to the different
+    categories of telecommunication data in business support system (BSS) and operation
+    support system (OSS). The requirements for data management include metadata management,
+    data lifecycle management, data quality management, data security management,
+    data configuration management and data service management.
 status:
   stage:
     content: Published

@@ -55,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation X.222 defines a method for providing the OSI Connection-mode Data Link Service (CO-DLS) specifying the detailed mapping between the CO-DLS and X.25/LAPB-compatible, DTE single link procedures as described in Recommendation X.25 and between detailed mappings between CO-DLS and the LAPF procedures described in Recommendation Q.922 in frame relay environments.
+  content: Recommendation X.222 defines a method for providing the OSI Connection-mode
+    Data Link Service (CO-DLS) specifying the detailed mapping between the CO-DLS
+    and X.25/LAPB-compatible, DTE single link procedures as described in Recommendation
+    X.25 and between detailed mappings between CO-DLS and the LAPF procedures described
+    in Recommendation Q.922 in frame relay environments.
 status:
   stage:
     content: Published
@@ -75,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use of X.25 LAPB-compatible Data Link procedures to provide the OSI connection-mode Data Link service
+      content: Use of X.25 LAPB-compatible Data Link procedures to provide the OSI
+        connection-mode Data Link service
     docidentifier:
     - content: X.222 (04/1995)
       type: ITU

@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation X.1112 proposes a certificate profile for authenticating the device in the home network. It also describes how authentication works between devices in the home network with a secure home gateway. In addition, this Recommendation describes the certificate profile standard for home network devices using ITU-T Recommendation X.509 as the basic reference for the device certificate profile. Finally, this Recommendation describes the certificate management procedures for the home device certificate in the home network.
+  content: ITU-T Recommendation X.1112 proposes a certificate profile for authenticating
+    the device in the home network. It also describes how authentication works between
+    devices in the home network with a secure home gateway. In addition, this Recommendation
+    describes the certificate profile standard for home network devices using ITU-T
+    Recommendation X.509 as the basic reference for the device certificate profile.
+    Finally, this Recommendation describes the certificate management procedures for
+    the home device certificate in the home network.
 status:
   stage:
     content: Published

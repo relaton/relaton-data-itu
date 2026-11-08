@@ -47,7 +47,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This technical corrigendum corrects a defect identified in ITU-T Rec. M.3031 (2004). It includes a table providing the relation between the defect and the corrections. These corrections are specified as changes to existing clauses of ITU-T Rec. M.3031 (2004).
+  content: This technical corrigendum corrects a defect identified in ITU-T Rec. M.3031
+    (2004). It includes a table providing the relation between the defect and the
+    corrections. These corrections are specified as changes to existing clauses of
+    ITU-T Rec. M.3031 (2004).
 status:
   stage:
     content: Published
@@ -67,7 +70,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for Implementation Conformance Statement proformas for tML schemas
+      content: Guidelines for Implementation Conformance Statement proformas for tML
+        schemas
     docidentifier:
     - content: M.3031 (07/2004)
       type: ITU

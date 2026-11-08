@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T G.8012.1/Y.1308.1 defines the interfaces of the Ethernet transport network to be used within and between subnetworks of the Ethernet network, in terms of Ethernet transport hierarchy, formats for mapping and multiplexing client signals into Ethernet connections and formats for multiplexing Ethernet connection signals into Ethernet or non-Ethernet connection signals. These interfaces support the transport of Ethernet services, so-called Ethernet virtual connection (EVC) services, as defined in Recommendation ITU-T G.8011. The Ethernet connections support E-Line, E-Tree and E-LAN Ethernet services as defined in Recommendation ITU-T G.8011/Y.1307.
+  content: Recommendation ITU-T G.8012.1/Y.1308.1 defines the interfaces of the Ethernet
+    transport network to be used within and between subnetworks of the Ethernet network,
+    in terms of Ethernet transport hierarchy, formats for mapping and multiplexing
+    client signals into Ethernet connections and formats for multiplexing Ethernet
+    connection signals into Ethernet or non-Ethernet connection signals. These interfaces
+    support the transport of Ethernet services, so-called Ethernet virtual connection
+    (EVC) services, as defined in Recommendation ITU-T G.8011. The Ethernet connections
+    support E-Line, E-Tree and E-LAN Ethernet services as defined in Recommendation
+    ITU-T G.8011/Y.1307.
 status:
   stage:
     content: Withdrawal

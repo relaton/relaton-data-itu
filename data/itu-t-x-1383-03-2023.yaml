@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Security requirements for categorized data in vehicle-to-everything (V2X) communication
+  content: Security requirements for categorized data in vehicle-to-everything (V2X)
+    communication
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Data security is one of the most important considerations for vehicle-to-everything (V2X) communication. However, in a resource constrained environment such as in-vehicle communication, data protection consumes a lot of resources since cryptographic functions are required. \r\nRecommendation ITU-T X.1383 categorizes the data used in V2X communication into several types such as object attribute data, vehicle status data, environmental perception data, vehicle control data, application service data and user personal data, and assigns three security levels for the categorized data types. Based on these categorized data types and assigned data security levels, this Recommendation provides security requirements for categorized data in V2X communication.\r\n"
+  content: "Data security is one of the most important considerations for vehicle-to-everything
+    (V2X) communication. However, in a resource constrained environment such as in-vehicle
+    communication, data protection consumes a lot of resources since cryptographic
+    functions are required. \r\nRecommendation ITU-T X.1383 categorizes the data used
+    in V2X communication into several types such as object attribute data, vehicle
+    status data, environmental perception data, vehicle control data, application
+    service data and user personal data, and assigns three security levels for the
+    categorized data types. Based on these categorized data types and assigned data
+    security levels, this Recommendation provides security requirements for categorized
+    data in V2X communication.\r\n"
 status:
   stage:
     content: Published

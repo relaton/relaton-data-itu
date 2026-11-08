@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplement to Recommendation ITU-T X.1205 provides an overview of traceback for responsive measures to certain network issues within a single or a more complex array of service providers. Traceback may assist in discovering ingress points, paths, partial paths or sources of problematic network events. This information may aid service providers in mitigating such events.
+  content: This supplement to Recommendation ITU-T X.1205 provides an overview of
+    traceback for responsive measures to certain network issues within a single or
+    a more complex array of service providers. Traceback may assist in discovering
+    ingress points, paths, partial paths or sources of problematic network events.
+    This information may aid service providers in mitigating such events.
 status:
   stage:
     content: Withdrawal

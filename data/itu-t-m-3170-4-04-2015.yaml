@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The ITU-T M.3170.x series of Recommendations provide a multi-technology network management interface. Within this series, Recommendation ITU-T M.3170.4 specifies the conformance testing specifications associated with it, and provides the principles and testing methodology that will be used for the conformance testing of the MTNM interface, the scope and contents that will be tested for the ITU-T M.3170.x series of Recommendations, and the implementation conformance statement (ICS) proforma definitions for the MTNM IDL interface.
+  content: The ITU-T M.3170.x series of Recommendations provide a multi-technology
+    network management interface. Within this series, Recommendation ITU-T M.3170.4
+    specifies the conformance testing specifications associated with it, and provides
+    the principles and testing methodology that will be used for the conformance testing
+    of the MTNM interface, the scope and contents that will be tested for the ITU-T
+    M.3170.x series of Recommendations, and the implementation conformance statement
+    (ICS) proforma definitions for the MTNM IDL interface.
 status:
   stage:
     content: Published

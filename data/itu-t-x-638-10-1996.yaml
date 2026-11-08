@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the concepts, definitions and profile of the minimal upper layer facilities necessary to support basic connection-oriented communications applications. These facilities consist of a subset of the facilities defined in the ACSE, and the Presentation and Session service definitions. A basic communications application simply requires the ability to open and close communications with a peer and to send and receive messages with that peer. It is expected that a large portion of OSI applications will be satisfied by such minimal functionality.This is one of a series of Recommendations to support the minimal OSI functions in the upper layers. It is technically aligned with ISO/IEC ISP 11188-3.
+  content: This Recommendation provides the concepts, definitions and profile of the
+    minimal upper layer facilities necessary to support basic connection-oriented
+    communications applications. These facilities consist of a subset of the facilities
+    defined in the ACSE, and the Presentation and Session service definitions. A basic
+    communications application simply requires the ability to open and close communications
+    with a peer and to send and receive messages with that peer. It is expected that
+    a large portion of OSI applications will be satisfied by such minimal functionality.This
+    is one of a series of Recommendations to support the minimal OSI functions in
+    the upper layers. It is technically aligned with ISO/IEC ISP 11188-3.
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In current Recommendation ITU-T M.3020, there is a section showing the format for defining attributes of an object class. But in the existing description of the section, it does not mention which attribute is the naming attribute. Amendment 1 to Recommendation ITU-T M.3020 adds the indication of the naming attribute in the analysis template in Recommendation ITU-T M.3020.
+  content: In current Recommendation ITU-T M.3020, there is a section showing the
+    format for defining attributes of an object class. But in the existing description
+    of the section, it does not mention which attribute is the naming attribute. Amendment
+    1 to Recommendation ITU-T M.3020 adds the indication of the naming attribute in
+    the analysis template in Recommendation ITU-T M.3020.
 status:
   stage:
     content: Withdrawal

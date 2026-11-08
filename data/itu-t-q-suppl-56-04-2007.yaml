@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: NGN release 1 defines the user profile functions, which provide capabilities for managing user profiles and making the user profile information available to other NGN functions. A user profile is a set of data information related to a user.The user profile functions support the identified service and control functions in the service stratum, as well as the network access control functions in the transport stratum [ITU-T Sup.1-Y]. This Supplementprovides details concerning user data to be stored in the service user profile functional entity and other functional entitiesto enable user services and applications.
+  content: NGN release 1 defines the user profile functions, which provide capabilities
+    for managing user profiles and making the user profile information available to
+    other NGN functions. A user profile is a set of data information related to a
+    user.The user profile functions support the identified service and control functions
+    in the service stratum, as well as the network access control functions in the
+    transport stratum [ITU-T Sup.1-Y]. This Supplementprovides details concerning
+    user data to be stored in the service user profile functional entity and other
+    functional entitiesto enable user services and applications.
 status:
   stage:
     content: Published

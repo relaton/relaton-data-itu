@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 49 to the Q series of ITU-T Recommendations consists of a technical report that specifies the signalling requirements to support IP telephony. IP telephony is defined as a service enabling the exchange of voice information primarily in the form of packets using Internet protocols (IP), while Internet telephony is defined as a particular application of the Internet, such that Internet telephony falls outside the scope of this Supplement. Network configurations are classified into four types (phone-to-phone, IP phone-to-phone, phone-to-IP phone and IP phone-to-IP phone) and the characteristics of each configuration are described using a general example. The network capabilities needed to support IP telephony and interworking with legacy telephone networks are identified in this Supplement. Finally, the signalling requirements and control protocols needed to support IP telephony services in public networks are identified.
+  content: Supplement 49 to the Q series of ITU-T Recommendations consists of a technical
+    report that specifies the signalling requirements to support IP telephony. IP
+    telephony is defined as a service enabling the exchange of voice information primarily
+    in the form of packets using Internet protocols (IP), while Internet telephony
+    is defined as a particular application of the Internet, such that Internet telephony
+    falls outside the scope of this Supplement. Network configurations are classified
+    into four types (phone-to-phone, IP phone-to-phone, phone-to-IP phone and IP phone-to-IP phone)
+    and the characteristics of each configuration are described using a general example.
+    The network capabilities needed to support IP telephony and interworking with
+    legacy telephone networks are identified in this Supplement. Finally, the signalling
+    requirements and control protocols needed to support IP telephony services in
+    public networks are identified.
 status:
   stage:
     content: Published

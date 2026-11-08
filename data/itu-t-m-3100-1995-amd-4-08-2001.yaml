@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Definition of the management interface for a bridge-and-roll cross-connect feature
+  content: Definition of the management interface for a bridge-and-roll cross-connect
+    feature
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment provides a new generic capability for cross-connect with bridge-and-roll capability. The bridge and roll process is used to move traffic from one facility to another facility without disruption. This process requires co-ordination across multiple network elements to ensure that the traffic is not disrupted. Bridge/roll/release is for re-configuration and accomplished manually, i.e through management operations.
+  content: This amendment provides a new generic capability for cross-connect with
+    bridge-and-roll capability. The bridge and roll process is used to move traffic
+    from one facility to another facility without disruption. This process requires
+    co-ordination across multiple network elements to ensure that the traffic is not
+    disrupted. Bridge/roll/release is for re-configuration and accomplished manually,
+    i.e through management operations.
 status:
   stage:
     content: Withdrawal
@@ -132,7 +138,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of the management interface for a generic alarm reporting control (ARC) feature
+      content: Definition of the management interface for a generic alarm reporting
+        control (ARC) feature
     docidentifier:
     - content: M.3100 (1995) Amd. 3 (01/2001)
       type: ITU

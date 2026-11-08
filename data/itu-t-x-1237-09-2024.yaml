@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Technical security framework for personally identifiable information protection while countering mobile messaging spam
+  content: Technical security framework for personally identifiable information protection
+    while countering mobile messaging spam
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Driven by commercial interests (advertising), nowadays spam content is infiltrating every media to reach us. Operators, national organizations and software developers provide various sorts of technologies, platforms, services and apps to counter spam. However, the functionality and effectiveness of these approaches might be impaired if personally identifiable information (PII) protection is not considered in their design and implementations. \r\nRecommendation ITU-T X.1237 takes PII protection into account in the design and implementation of mobile messaging anti-spam solutions. It provides an overview of mobile messaging anti-spam processes and proposes a technical security framework for PII protection while countering mobile messaging spam. Entity functions and processing procedures are also introduced.\r\n"
+  content: "Driven by commercial interests (advertising), nowadays spam content is
+    infiltrating every media to reach us. Operators, national organizations and software
+    developers provide various sorts of technologies, platforms, services and apps
+    to counter spam. However, the functionality and effectiveness of these approaches
+    might be impaired if personally identifiable information (PII) protection is not
+    considered in their design and implementations. \r\nRecommendation ITU-T X.1237
+    takes PII protection into account in the design and implementation of mobile messaging
+    anti-spam solutions. It provides an overview of mobile messaging anti-spam processes
+    and proposes a technical security framework for PII protection while countering
+    mobile messaging spam. Entity functions and processing procedures are also introduced.\r\n"
 status:
   stage:
     content: Published

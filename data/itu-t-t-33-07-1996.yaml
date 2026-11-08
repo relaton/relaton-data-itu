@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines application rules for the routing of Group 3 facsimile messages using the Subaddress (SUB) signal as defined in Recommendation T.30. The aspects which are addressed include placement of telephone address components (phone extensions and secondary dialling numbers) within the SUB frame, encoding and decoding rules, and an outline of the facsimile routing procedure.
+  content: This Recommendation defines application rules for the routing of Group
+    3 facsimile messages using the Subaddress (SUB) signal as defined in Recommendation
+    T.30. The aspects which are addressed include placement of telephone address components
+    (phone extensions and secondary dialling numbers) within the SUB frame, encoding
+    and decoding rules, and an outline of the facsimile routing procedure.
 status:
   stage:
     content: Published

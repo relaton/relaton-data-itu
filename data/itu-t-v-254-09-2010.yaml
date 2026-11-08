@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Asynchronous serial command interface for assistive and multi-functional communication devices
+  content: Asynchronous serial command interface for assistive and multi-functional
+    communication devices
   type: main
 source:
 - type: src
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T V.254 is applicable to the interconnection of multi-functional communication devices (such as mobile phones) with devices intended to provide assistive capabilities for those communication devices. It defines a range of serial binary commands that comply to the format and general rules of Recommendation ITU-T V.250 via a range of suitable interfaces.
+  content: Recommendation ITU-T V.254 is applicable to the interconnection of multi-functional
+    communication devices (such as mobile phones) with devices intended to provide
+    assistive capabilities for those communication devices. It defines a range of
+    serial binary commands that comply to the format and general rules of Recommendation
+    ITU-T V.250 via a range of suitable interfaces.
 status:
   stage:
     content: Published

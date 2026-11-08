@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the requirements for a flexible name resolution service in information-centric networks (ICN). It also describes the functional modules, i.e., name resolution service access control module, namespace management module, interoperation module and resolution engine module, of name resolution service in ICN. The name resolution service can support name resolution for any particular ICN instance independently. It also can facilitate interoperation between ICN instances with their own namespaces.
+  content: This Recommendation describes the requirements for a flexible name resolution
+    service in information-centric networks (ICN). It also describes the functional
+    modules, i.e., name resolution service access control module, namespace management
+    module, interoperation module and resolution engine module, of name resolution
+    service in ICN. The name resolution service can support name resolution for any
+    particular ICN instance independently. It also can facilitate interoperation between
+    ICN instances with their own namespaces.
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +130,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

@@ -55,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Rec. X.234 | ISO/IEC 8602 specifies the protocol for providing the OSI connectionless-mode Transport protocol. This amendment provides the capability for the connectionless-mode Transport protocol to support multicast PDU transfer when used in conjunction with the multicast services of the connectionless-mode Network service.
+  content: ITU-T Rec. X.234 | ISO/IEC 8602 specifies the protocol for providing the
+    OSI connectionless-mode Transport protocol. This amendment provides the capability
+    for the connectionless-mode Transport protocol to support multicast PDU transfer
+    when used in conjunction with the multicast services of the connectionless-mode
+    Network service.
 status:
   stage:
     content: Published
@@ -75,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Protocol for providing the OSI connectionless-mode transport service
+      content: Information technology – Protocol for providing the OSI connectionless-mode
+        transport service
     docidentifier:
     - content: X.234 (07/1994)
       type: ITU

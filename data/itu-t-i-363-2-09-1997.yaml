@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the ATM Adaptation Layer (AAL) type 2. The AAL type 2 provides for the bandwidth-efficient transmission of low-rate, short, and variable length packets in delay sensitive applications. More than one AAL type 2 user information stream can be supported on a single ATM connection. In this Recommendation, the general framework and the Common Part Sublayer (CPS) of the AAL type 2 are defined in depth.
+  content: This Recommendation specifies the ATM Adaptation Layer (AAL) type 2. The
+    AAL type 2 provides for the bandwidth-efficient transmission of low-rate, short,
+    and variable length packets in delay sensitive applications. More than one AAL
+    type 2 user information stream can be supported on a single ATM connection. In
+    this Recommendation, the general framework and the Common Part Sublayer (CPS)
+    of the AAL type 2 are defined in depth.
 status:
   stage:
     content: Withdrawal
@@ -82,7 +87,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

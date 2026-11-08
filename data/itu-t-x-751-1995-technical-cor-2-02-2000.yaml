@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard (1995) provides a model for characterizing the relationship between resources in terms of the way one or more resources may provide a back-up role for other resources. This includes the hot/cold standby concept and the associated aspects of primary and secondary back-up.This Technical Corrigendum 2 revises the text to include ASN.1:1997 in 2.1, 2.2 and 13.1.
+  content: This Recommendation | International Standard (1995) provides a model for
+    characterizing the relationship between resources in terms of the way one or more
+    resources may provide a back-up role for other resources. This includes the hot/cold
+    standby concept and the associated aspects of primary and secondary back-up.This
+    Technical Corrigendum 2 revises the text to include ASN.1:1997 in 2.1, 2.2 and
+    13.1.
 status:
   stage:
     content: Published
@@ -83,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Systems Management: Changeover function'
+      content: 'Information technology – Open Systems Interconnection – Systems Management:
+        Changeover function'
     docidentifier:
     - content: X.751 (11/1995)
       type: ITU

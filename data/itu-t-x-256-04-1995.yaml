@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Connectionless Presentation protocol: Protocol Implementation Conformance Statement (PICS) proforma'
+  content: 'Information technology – Open Systems Interconnection – Connectionless
+    Presentation protocol: Protocol Implementation Conformance Statement (PICS) proforma'
   type: main
 source:
 - type: src
@@ -55,7 +56,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides the Protocol Implementation Conformance Statement (PICS) proforma for the OSI connectionless Presentation protocol which is specified in Recommendation X.236. The PICS proforma represents, in tabular form, the mandatory and optional elements of the connectionless Presentation protocol. The PICS proforma is used to indicate the features and choices of a particular implementation of the connectionless Presentation protocol.
+  content: This Recommendation | International Standard provides the Protocol Implementation
+    Conformance Statement (PICS) proforma for the OSI connectionless Presentation
+    protocol which is specified in Recommendation X.236. The PICS proforma represents,
+    in tabular form, the mandatory and optional elements of the connectionless Presentation
+    protocol. The PICS proforma is used to indicate the features and choices of a
+    particular implementation of the connectionless Presentation protocol.
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a simple HDLC specification named LAPS to adapt IP directly to SDH. The Service Access Point Identifier (SAPI) is introduced to encapsulate IPv4, IPv6, PPP and other upper layer protocols. The LAPS is fully compatible with RFC 2615 when the Address field is set to "11111111" and the data link is set to operate as the way RFC 2615 defines.
+  content: This Recommendation provides a simple HDLC specification named LAPS to
+    adapt IP directly to SDH. The Service Access Point Identifier (SAPI) is introduced
+    to encapsulate IPv4, IPv6, PPP and other upper layer protocols. The LAPS is fully
+    compatible with RFC 2615 when the Address field is set to "11111111" and the data
+    link is set to operate as the way RFC 2615 defines.
 status:
   stage:
     content: Published

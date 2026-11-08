@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Quantum key distribution (QKD) enables two remote parties to share a common random binary key that is unknown to a potential eavesdropper. QKD networks based on trusted nodes (QKD nodes) have been widely adopted to enlarge the key distribution distance and enrich QKD-based applications. The trustworthiness of a QKD node is fundamental to ensure the overall security in a QKD network. \r\nRecommendation ITU-T X.1713 provides guidance for the secure implementation and operation of QKD nodes in QKD networks. The Recommendation identifies security threats, provides security requirements for QKD nodes and provides specific techniques to meet the requirements.\r\n"
+  content: "Quantum key distribution (QKD) enables two remote parties to share a common
+    random binary key that is unknown to a potential eavesdropper. QKD networks based
+    on trusted nodes (QKD nodes) have been widely adopted to enlarge the key distribution
+    distance and enrich QKD-based applications. The trustworthiness of a QKD node
+    is fundamental to ensure the overall security in a QKD network. \r\nRecommendation
+    ITU-T X.1713 provides guidance for the secure implementation and operation of
+    QKD nodes in QKD networks. The Recommendation identifies security threats, provides
+    security requirements for QKD nodes and provides specific techniques to meet the
+    requirements.\r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T X.1277 describes the FIDO universal authentication framework (UAF) that enables online services and websites, whether on the open Internet or within enterprises, to transparently leverage native security features of end-user computing devices for strong user authentication and to reduce the problems associated with creating and remembering many online credentials. '
+  content: 'Recommendation ITU-T X.1277 describes the FIDO universal authentication
+    framework (UAF) that enables online services and websites, whether on the open
+    Internet or within enterprises, to transparently leverage native security features
+    of end-user computing devices for strong user authentication and to reduce the
+    problems associated with creating and remembering many online credentials. '
 status:
   stage:
     content: Published

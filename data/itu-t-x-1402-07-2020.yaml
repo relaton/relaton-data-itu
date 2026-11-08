@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Distributed ledger technology (DLT) is usually seen as a peer –to-peer distributed ledger based on a group of technologies for a new generation of transactional applications, which maintains a continuously growing list of cryptographically secured data records against tampering and revision. DLT can help establish trust, accountability, transparency and efficiency while streamlining business processes.\r\nHowever, DLT is also facing security challenges and threats specific to DLT systems and DLT application scenarios. Based on analysis of security threats and security requirements to DLT, Recommendation ITU-T X.1402 describes security capabilities that could mitigate the related security threats and specifies a security framework methodology to determine how to use these security capabilities to mitigate security threats to a specific DLT system."
+  content: "Distributed ledger technology (DLT) is usually seen as a peer –to-peer
+    distributed ledger based on a group of technologies for a new generation of transactional
+    applications, which maintains a continuously growing list of cryptographically
+    secured data records against tampering and revision. DLT can help establish trust,
+    accountability, transparency and efficiency while streamlining business processes.\r\nHowever,
+    DLT is also facing security challenges and threats specific to DLT systems and
+    DLT application scenarios. Based on analysis of security threats and security
+    requirements to DLT, Recommendation ITU-T X.1402 describes security capabilities
+    that could mitigate the related security threats and specifies a security framework
+    methodology to determine how to use these security capabilities to mitigate security
+    threats to a specific DLT system."
 status:
   stage:
     content: Published

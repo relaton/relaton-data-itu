@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Teleaction in ISDN is a future alternative to dedicated alarm network and modem based solutions of today. The solutions for teleaction applications today are mostly proprietary. The harmonization of service parameters and classes of security has not been specified by ITU-T (former CCITT), but by the International Electrotechnical Committee (IEC). The dedicated teleaction network were made to offer a service with better security than the one offered by solutions based on PSTN technology.The advantages of implementing such applications in ISDN are:- the customer access is expected to be less expensive in the case where the ISDN access is used for several services;- operation, administration and maintenance can be integrated more easily with other services;- the user-network interface will be standardized;- teleaction applications can be combined with other ISDN services into new applications (e.g. Teleaction and Videophony).The purpose of this Recommendation is to describe the ISDN network capabilities required for the provision of teleaction teleservice in an ISDN environment.
+  content: Teleaction in ISDN is a future alternative to dedicated alarm network and
+    modem based solutions of today. The solutions for teleaction applications today
+    are mostly proprietary. The harmonization of service parameters and classes of
+    security has not been specified by ITU-T (former CCITT), but by the International
+    Electrotechnical Committee (IEC). The dedicated teleaction network were made to
+    offer a service with better security than the one offered by solutions based on
+    PSTN technology.The advantages of implementing such applications in ISDN are:-
+    the customer access is expected to be less expensive in the case where the ISDN
+    access is used for several services;- operation, administration and maintenance
+    can be integrated more easily with other services;- the user-network interface
+    will be standardized;- teleaction applications can be combined with other ISDN
+    services into new applications (e.g. Teleaction and Videophony).The purpose of
+    this Recommendation is to describe the ISDN network capabilities required for
+    the provision of teleaction teleservice in an ISDN environment.
 status:
   stage:
     content: Published
@@ -72,7 +85,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

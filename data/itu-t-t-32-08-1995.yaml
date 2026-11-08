@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A Group 3 Facsimile Terminal may include a DTE and a Facsimile DCE. This Recommendation describes a Facsimile DCE that includes physical, data link and session layer functions, including the Recommendation T.30 session protocol. The corresponding DTE must implement Recommendations T.4, T.6, T.434 or other higher layer functions.
+  content: A Group 3 Facsimile Terminal may include a DTE and a Facsimile DCE. This
+    Recommendation describes a Facsimile DCE that includes physical, data link and
+    session layer functions, including the Recommendation T.30 session protocol. The
+    corresponding DTE must implement Recommendations T.4, T.6, T.434 or other higher
+    layer functions.
 status:
   stage:
     content: Published

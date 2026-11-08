@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Quality of service metrics for characterizing Frame Relay/ATM service interworking performance
+  content: Quality of service metrics for characterizing Frame Relay/ATM service interworking
+    performance
   type: main
 source:
 - type: src
@@ -52,7 +53,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines quality of service metrics for characterizing performance in the case of FR/ATM service interworking. The specified metrics can be used to quantify the performance of either the FR/ATM interworking function/unit or the quality of the end-to-end data connection. This Recommendation is complementary to ITU-T Rec. X.140 as it is a specific case of the general techniques described therein for assessing performance.The specified metrics allow users and network operators to assess the performance from a user perspective. The metrics provide a simple manner by which either users or network operators could characterize the end-to-end performance.The defined metrics are not intended to be a replacement for the frame layer or ATM layer primary performance parameters but can be used to provide a user-oriented perspective of end-to-end performance.
+  content: This Recommendation defines quality of service metrics for characterizing
+    performance in the case of FR/ATM service interworking. The specified metrics
+    can be used to quantify the performance of either the FR/ATM interworking function/unit
+    or the quality of the end-to-end data connection. This Recommendation is complementary
+    to ITU-T Rec. X.140 as it is a specific case of the general techniques described
+    therein for assessing performance.The specified metrics allow users and network
+    operators to assess the performance from a user perspective. The metrics provide
+    a simple manner by which either users or network operators could characterize
+    the end-to-end performance.The defined metrics are not intended to be a replacement
+    for the frame layer or ATM layer primary performance parameters but can be used
+    to provide a user-oriented perspective of end-to-end performance.
 status:
   stage:
     content: Published

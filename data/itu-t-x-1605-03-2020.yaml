@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Security requirements of public Infrastructure as a Service (IaaS) in cloud computing
+  content: Security requirements of public Infrastructure as a Service (IaaS) in cloud
+    computing
   type: main
 source:
 - type: src
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Infrastructure as a Service (IaaS) platforms and virtualized services face different, and perhaps more, challenges and threats than traditional information technology infrastructure and application. IaaS platforms that share computing, storage and networking services need protections specific to threats in an IaaS environment. Recommendation ITU-T X.1605 documents security requirements of public IaaS in order to help IaaS providers to improve security of the IaaS platform throughout the planning, building and operating stages. \r\n"
+  content: "Infrastructure as a Service (IaaS) platforms and virtualized services
+    face different, and perhaps more, challenges and threats than traditional information
+    technology infrastructure and application. IaaS platforms that share computing,
+    storage and networking services need protections specific to threats in an IaaS
+    environment. Recommendation ITU-T X.1605 documents security requirements of public
+    IaaS in order to help IaaS providers to improve security of the IaaS platform
+    throughout the planning, building and operating stages. \r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A digital twin network (DTN) is a virtual representation of a physical network, analysing, diagnosing, simulating and controlling a physical network based on data, model and interface, so as to achieve real-time interactive mapping between the physical network and the DTN. Just like the real network, the DTN will also face security risks and various attacks and it is required to be secure enough to resist all likely attacks. \r\nRecommendation ITU-T X.20122 describes security guidelines and requirements for DTNs. It also provides countermeasures to strengthen security, which will be helpful for all telecommunication operators to improve the security operation of DTNs.\r\n"
+  content: "A digital twin network (DTN) is a virtual representation of a physical
+    network, analysing, diagnosing, simulating and controlling a physical network
+    based on data, model and interface, so as to achieve real-time interactive mapping
+    between the physical network and the DTN. Just like the real network, the DTN
+    will also face security risks and various attacks and it is required to be secure
+    enough to resist all likely attacks. \r\nRecommendation ITU-T X.20122 describes
+    security guidelines and requirements for DTNs. It also provides countermeasures
+    to strengthen security, which will be helpful for all telecommunication operators
+    to improve the security operation of DTNs.\r\n"
 status:
   stage:
     content: Published

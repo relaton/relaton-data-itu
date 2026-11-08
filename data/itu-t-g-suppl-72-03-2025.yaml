@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 72 to ITU-T G-series Recommendations provides supplemental information to Recommendation ITU-T G.876, Management requirements and information model for the optical media network and Recommendation ITU-T G.7711/Y.1702, Generic protocol-neutral information model for transport resources. It provides various examples of the use of the core information model, defined in Recommendation ITU-T G.7711/Y.1702 to model optical media structures.\r\nThe revision (2025) to Supplement 72 updates the descriptions of point-to-point media channels, adds tree-topology and mesh-topology implemented with couplers cases for multi-pointed media channels.\r\n"
+  content: "Supplement 72 to ITU-T G-series Recommendations provides supplemental
+    information to Recommendation ITU-T G.876, Management requirements and information
+    model for the optical media network and Recommendation ITU-T G.7711/Y.1702, Generic
+    protocol-neutral information model for transport resources. It provides various
+    examples of the use of the core information model, defined in Recommendation ITU-T
+    G.7711/Y.1702 to model optical media structures.\r\nThe revision (2025) to Supplement
+    72 updates the descriptions of point-to-point media channels, adds tree-topology
+    and mesh-topology implemented with couplers cases for multi-pointed media channels.\r\n"
 status:
   stage:
     content: Published

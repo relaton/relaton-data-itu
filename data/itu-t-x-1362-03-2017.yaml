@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "It is considered that the Internet of things (IoT) is one of the most important areas for future standardization. From the ITU-T perspective, IoT is defined as a global infrastructure for the information society, enabling advanced services by interconnecting (physical and virtual) things.\r\n\r\nIn certain IoT environments, especially for IoT devices, there is a real-time processing requirement where tasks are processed within a certain period of time. To ensure data confidentiality and integrity protection, one of the most basic countermeasures is the application of data encryption/authentication algorithms. The problem with the standard applications of data encryption/authentication algorithms is that this requirement could not be met.\r\n\r\nRecommendation ITU-T X.1362 specifies encryption with associated mask data (EAMD) for the Internet of things (IoT) devices. It describes EAMD and how it provides a set of security services for traffic using it.\r\n"
+  content: "It is considered that the Internet of things (IoT) is one of the most
+    important areas for future standardization. From the ITU-T perspective, IoT is
+    defined as a global infrastructure for the information society, enabling advanced
+    services by interconnecting (physical and virtual) things.\r\n\r\nIn certain IoT
+    environments, especially for IoT devices, there is a real-time processing requirement
+    where tasks are processed within a certain period of time. To ensure data confidentiality
+    and integrity protection, one of the most basic countermeasures is the application
+    of data encryption/authentication algorithms. The problem with the standard applications
+    of data encryption/authentication algorithms is that this requirement could not
+    be met.\r\n\r\nRecommendation ITU-T X.1362 specifies encryption with associated
+    mask data (EAMD) for the Internet of things (IoT) devices. It describes EAMD and
+    how it provides a set of security services for traffic using it.\r\n"
 status:
   stage:
     content: Published

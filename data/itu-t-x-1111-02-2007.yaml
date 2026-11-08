@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation X.1111 describes security threats and security requirements to the home network from the point of view of home user and remote user. It excludes the security requirements from the service provider's viewpoint. In addition, this Recommendation categorizes security technologies by security functions that satisfy the above security requirements and by the place to which the security technologies are applied toin the model of the home network. Finally, the security function requirements for each entity in the network and possible implementation layers for security function are also presented.
+  content: ITU-T Recommendation X.1111 describes security threats and security requirements
+    to the home network from the point of view of home user and remote user. It excludes
+    the security requirements from the service provider's viewpoint. In addition,
+    this Recommendation categorizes security technologies by security functions that
+    satisfy the above security requirements and by the place to which the security
+    technologies are applied toin the model of the home network. Finally, the security
+    function requirements for each entity in the network and possible implementation
+    layers for security function are also presented.
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1111 - Supplement on security functional architecture for smart grid services using telecommunication networks
+      content: ITU-T X.1111 - Supplement on security functional architecture for smart
+        grid services using telecommunication networks
     docidentifier:
     - content: X Suppl. 26 (03/2016)
       type: ITU

@@ -45,7 +45,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes an objective method for estimating the subjective quality of telephone-band (300-3400 Hz) speech codecs.\r\nThis Recommendation specifies the production of source speech for objective quality measurement, codec and reference conditions for which the objective quality measurement method has been shown to provide valid results, the calculation of objective quality based on the objective quality measure called the Perceptual Speech Quality Measure (PSQM), the estimation of the subjective quality from the objective measurement results and an analysis of the results.\r\nThis Recommendation can be applied when evaluating the effects on subjective quality of speech codecs of speech input levels, talkers, bit rates and transcodings."
+  content: "This Recommendation describes an objective method for estimating the subjective
+    quality of telephone-band (300-3400 Hz) speech codecs.\r\nThis Recommendation
+    specifies the production of source speech for objective quality measurement, codec
+    and reference conditions for which the objective quality measurement method has
+    been shown to provide valid results, the calculation of objective quality based
+    on the objective quality measure called the Perceptual Speech Quality Measure
+    (PSQM), the estimation of the subjective quality from the objective measurement
+    results and an analysis of the results.\r\nThis Recommendation can be applied
+    when evaluating the effects on subjective quality of speech codecs of speech input
+    levels, talkers, bit rates and transcodings."
 status:
   stage:
     content: Withdrawal
@@ -65,7 +74,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Objective quality measurement of telephone-band (300-3400 Hz) speech codecs
+      content: Objective quality measurement of telephone-band (300-3400 Hz) speech
+        codecs
     docidentifier:
     - content: P.861 (08/1996)
       type: ITU

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines management services exchanged at the boundary between two networks based on the Network-Network Management (NNM) architecture defined in ITU-T X.170. The defined management services are generic and can be applied to many kinds of service networks. They are described irrespective of underlying management protocols.
+  content: This Recommendation defines management services exchanged at the boundary
+    between two networks based on the Network-Network Management (NNM) architecture
+    defined in ITU-T X.170. The defined management services are generic and can be
+    applied to many kinds of service networks. They are described irrespective of
+    underlying management protocols.
 status:
   stage:
     content: Published

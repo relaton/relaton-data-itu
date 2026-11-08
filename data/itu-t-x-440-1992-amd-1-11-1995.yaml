@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Annex H: Mapping of G.721 (1988) and G.728 (1992) into the data component of a voice body part'
+  content: 'Annex H: Mapping of G.721 (1988) and G.728 (1992) into the data component
+    of a voice body part'
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: AbstractThis amendment contains the proposed technical revisions to Recommendation X.440 (1992) that:1) Resolve the "For further study" item contained in Recommendation X.440 (1992) by specifying a mapping between the 4-bit per word encoding of 32 kbit/s ADPCM as defined in G.721 (1988) and X.440's 8-bit per word encoding of OCTETS. It also specifies rules for mapping G.728's 16 kbit/s LD-CELP 10-bit per word encoding onto X.440's 8-bit per word encoding.2) Officially integrate the resolved defect report changes contained in the MHS Implementors Guide version 12.
+  content: AbstractThis amendment contains the proposed technical revisions to Recommendation
+    X.440 (1992) that:1) Resolve the "For further study" item contained in Recommendation
+    X.440 (1992) by specifying a mapping between the 4-bit per word encoding of 32
+    kbit/s ADPCM as defined in G.721 (1988) and X.440's 8-bit per word encoding of
+    OCTETS. It also specifies rules for mapping G.728's 16 kbit/s LD-CELP 10-bit per
+    word encoding onto X.440's 8-bit per word encoding.2) Officially integrate the
+    resolved defect report changes contained in the MHS Implementors Guide version
+    12.
 status:
   stage:
     content: Withdrawal

@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1045 supports provision of customized dynamic and adaptive security services for networks and applications. This Recommendation defines the security service chain and an architecture design for the security service chain. This Recommendation applies the security service chain to networks and applications. This Recommendation also enables tracing network attacks to their resources in a service function chain (SFC) overlay network with high performance and the mitigating/preventing of those attacks automatically.
+  content: Recommendation ITU-T X.1045 supports provision of customized dynamic and
+    adaptive security services for networks and applications. This Recommendation
+    defines the security service chain and an architecture design for the security
+    service chain. This Recommendation applies the security service chain to networks
+    and applications. This Recommendation also enables tracing network attacks to
+    their resources in a service function chain (SFC) overlay network with high performance
+    and the mitigating/preventing of those attacks automatically.
 status:
   stage:
     content: Published

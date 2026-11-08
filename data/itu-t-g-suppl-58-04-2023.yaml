@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 58 to ITU-T G-series Recommendations describes several interoperable component-to-component multilane interfaces (across different vendors) to connect an optical module (with or without digital signal processor) to a framer device in a vendor's equipment supporting 25G, 40G, 50G, 100G or beyond 100G optical transport network (OTN) interfaces.Only the structure of the 11G, 28G, 56G, or 112G physical lanes of the different OTN module framer interface examples is provided in this Supplement. Electrical parameters for these interfaces can use specifications provided in the relevant clauses of Optical Internetworking Forum common electrical input/output (OIF-CEI) implementation agreement (IA) specifications. For their electrical characteristics, the OIF-CEI IA specifications can be used.This Supplement relates to Recommendation ITU-T G.709/Y.1331.
+  content: Supplement 58 to ITU-T G-series Recommendations describes several interoperable
+    component-to-component multilane interfaces (across different vendors) to connect
+    an optical module (with or without digital signal processor) to a framer device
+    in a vendor's equipment supporting 25G, 40G, 50G, 100G or beyond 100G optical
+    transport network (OTN) interfaces.Only the structure of the 11G, 28G, 56G, or
+    112G physical lanes of the different OTN module framer interface examples is provided
+    in this Supplement. Electrical parameters for these interfaces can use specifications
+    provided in the relevant clauses of Optical Internetworking Forum common electrical
+    input/output (OIF-CEI) implementation agreement (IA) specifications. For their
+    electrical characteristics, the OIF-CEI IA specifications can be used.This Supplement
+    relates to Recommendation ITU-T G.709/Y.1331.
 status:
   stage:
     content: Withdrawal

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Data oriented human-machine interface specification technique – Scope, approach and reference model
+  content: Data oriented human-machine interface specification technique – Scope,
+    approach and reference model
   type: main
 source:
 - type: src
@@ -52,7 +53,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a framework for specifying harmonized HMIs.The Recommendation points out the importance of identifying the right application area and the great impact this choice will have on the final design of the HMI. Therefore, a data oriented approach, rather than a functional approach, is proposed.A three-layered reference model for HMI is introduced and explained. This reference model allows the centralization of data definitions for HMI and derivation of external presentations in a harmonized manner.Annex A provides guidelines for how to carry out development of HMIs in accordance with the chosen reference model and formalism. The development method is not a waterfall-type development process. This annex also provides a framework for design of data seen at the HMI.Appendix I provides additional guidelines for data design.The mapping between the HMI reference model and the TMN functional architecture is under study.Areas that this Recommendation has relations with and impact on, include:- mapping to TMN specifications,- software standardization.
+  content: This Recommendation provides a framework for specifying harmonized HMIs.The
+    Recommendation points out the importance of identifying the right application
+    area and the great impact this choice will have on the final design of the HMI.
+    Therefore, a data oriented approach, rather than a functional approach, is proposed.A
+    three-layered reference model for HMI is introduced and explained. This reference
+    model allows the centralization of data definitions for HMI and derivation of
+    external presentations in a harmonized manner.Annex A provides guidelines for
+    how to carry out development of HMIs in accordance with the chosen reference model
+    and formalism. The development method is not a waterfall-type development process.
+    This annex also provides a framework for design of data seen at the HMI.Appendix
+    I provides additional guidelines for data design.The mapping between the HMI reference
+    model and the TMN functional architecture is under study.Areas that this Recommendation
+    has relations with and impact on, include:- mapping to TMN specifications,- software
+    standardization.
 status:
   stage:
     content: Published

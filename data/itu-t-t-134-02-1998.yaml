@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a protocol that supports multipoint text conversation.The T.134 protocol supports multipoint conversation in text by allowing text entered at one site to be advertised within a session to other sites. It enables simple real time text conversation between terminal users.The text conversation presentation protocol in Recommendation T.140 is used in the text chatting application.Recommendation T.134 uses services provided by Recommendations T.122 (MCS) and T.124 (GCC) also in their light profile defined in Annex C/T.120.The Chat protocol is intended to be possible to combine with other data services as well as with video and audio in audiovisual services.
+  content: This Recommendation defines a protocol that supports multipoint text conversation.The
+    T.134 protocol supports multipoint conversation in text by allowing text entered
+    at one site to be advertised within a session to other sites. It enables simple
+    real time text conversation between terminal users.The text conversation presentation
+    protocol in Recommendation T.140 is used in the text chatting application.Recommendation
+    T.134 uses services provided by Recommendations T.122 (MCS) and T.124 (GCC) also
+    in their light profile defined in Annex C/T.120.The Chat protocol is intended
+    to be possible to combine with other data services as well as with video and audio
+    in audiovisual services.
 status:
   stage:
     content: Published

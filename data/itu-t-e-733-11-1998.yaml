@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the methods for dimensioning resources in Signalling System No. 7 networks. It defines the reference traffic to be used for dimensioning and then describes the dimensioning objectives and dimensioning methods for links and nodes in signalling networks. It considers methods for dimensioning signalling links and nodes in Signalling System No. 7 networks.
+  content: This Recommendation describes the methods for dimensioning resources in
+    Signalling System No. 7 networks. It defines the reference traffic to be used
+    for dimensioning and then describes the dimensioning objectives and dimensioning
+    methods for links and nodes in signalling networks. It considers methods for dimensioning
+    signalling links and nodes in Signalling System No. 7 networks.
 status:
   stage:
     content: Published
@@ -92,7 +96,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

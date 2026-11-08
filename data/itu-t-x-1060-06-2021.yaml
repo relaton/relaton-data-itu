@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1060 defines cyber defence centre (CDC) as an entity that plays a central role in an organization to address cybersecurity risks. The three processes of build, management and evaluation that a CDC should practically implement are described as a framework. The services that the organization should have in order to implement more specific cybersecurity measures are also provided.
+  content: Recommendation ITU-T X.1060 defines cyber defence centre (CDC) as an entity
+    that plays a central role in an organization to address cybersecurity risks. The
+    three processes of build, management and evaluation that a CDC should practically
+    implement are described as a framework. The services that the organization should
+    have in order to implement more specific cybersecurity measures are also provided.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +76,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Framework for the creation and operation of a cyber defence centre/cyber security centre
+      content: Framework for the creation and operation of a cyber defence centre/cyber
+        security centre
     docidentifier:
     - content: X.1060 (03/2026)
       type: ITU

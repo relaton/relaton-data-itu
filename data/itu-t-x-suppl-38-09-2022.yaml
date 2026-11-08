@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1152 – Supplement on use cases for contact tracing technologies to prevent spread of infectious diseases
+  content: ITU-T X.1152 – Supplement on use cases for contact tracing technologies
+    to prevent spread of infectious diseases
   type: main
 source:
 - type: src
@@ -52,7 +53,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 38 to ITU-T X-series Recommendations defines a contact tracing application as a tool that enables the identification, assessment, and management of people who have been in contact with individuals that may have been infected with a contagious disease to prevent onward transmission. These applications help prevent the spread of infectious diseases by proactively finding people at higher risk than others due to potential exposure, notifying them if possible and determining whether a quarantine is necessary.\r\nThis Supplement guides the development of interoperable systems to automatically trace and inform potentially infected users, in addition to manual notification methods, with consideration for reducing potential security risks associated with data processed in contact tracing applications. It also describes various use cases for contact tracing applications, provides data processing models including their data processing flow and identifies threats and risks from a security and personally identifiable information (PII) protection perspective.\r\n"
+  content: "Supplement 38 to ITU-T X-series Recommendations defines a contact tracing
+    application as a tool that enables the identification, assessment, and management
+    of people who have been in contact with individuals that may have been infected
+    with a contagious disease to prevent onward transmission. These applications help
+    prevent the spread of infectious diseases by proactively finding people at higher
+    risk than others due to potential exposure, notifying them if possible and determining
+    whether a quarantine is necessary.\r\nThis Supplement guides the development of
+    interoperable systems to automatically trace and inform potentially infected users,
+    in addition to manual notification methods, with consideration for reducing potential
+    security risks associated with data processed in contact tracing applications.
+    It also describes various use cases for contact tracing applications, provides
+    data processing models including their data processing flow and identifies threats
+    and risks from a security and personally identifiable information (PII) protection
+    perspective.\r\n"
 status:
   stage:
     content: Published

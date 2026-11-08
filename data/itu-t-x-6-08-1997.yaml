@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the service definitions and capabilities of a multicast service in Public Data Networks. This Recommendation provides a common model for description of the service elements, defines the terminology and describes a set of capabilities which may be provided by such a multicast service. ITU-T Recommendations X.48 and X.49 define the procedures for provision of a basic and extended multicast service for DTEs using Recommen-dation X.25, respectively.
+  content: This Recommendation describes the service definitions and capabilities
+    of a multicast service in Public Data Networks. This Recommendation provides a
+    common model for description of the service elements, defines the terminology
+    and describes a set of capabilities which may be provided by such a multicast
+    service. ITU-T Recommendations X.48 and X.49 define the procedures for provision
+    of a basic and extended multicast service for DTEs using Recommen-dation X.25,
+    respectively.
 status:
   stage:
     content: Published

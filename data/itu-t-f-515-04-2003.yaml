@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a directory specification to fulfil the service requirements of ITU-T Rec. F.510. The directory specification is named Unified Directory Specification (UDS) to reflect that it allows a great variety of database structures to be supported. The ITU-T Rec. F.510 service is realized by the Unified Directory Access Protocol (UDAP). This protocol is expressed using the eXtensible Markup Language (XML) schema notation.UDAP has been designed in a way that facilitates an easy mapping to ITU-T Rec. E.115.The structure of this Recommendation follows the structure of ITU-T Rec. F.510. Certain clauses in ITU-T Rec. F.510 do not require a corresponding specification and are left void.
+  content: This Recommendation provides a directory specification to fulfil the service
+    requirements of ITU-T Rec. F.510. The directory specification is named Unified
+    Directory Specification (UDS) to reflect that it allows a great variety of database
+    structures to be supported. The ITU-T Rec. F.510 service is realized by the Unified
+    Directory Access Protocol (UDAP). This protocol is expressed using the eXtensible
+    Markup Language (XML) schema notation.UDAP has been designed in a way that facilitates
+    an easy mapping to ITU-T Rec. E.115.The structure of this Recommendation follows
+    the structure of ITU-T Rec. F.510. Certain clauses in ITU-T Rec. F.510 do not
+    require a corresponding specification and are left void.
 status:
   stage:
     content: Published
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +121,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +132,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

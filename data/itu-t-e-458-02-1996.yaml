@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation introduces metrics for Figure of Merit (FOM) for end-to-end facsimile transmission performance. The Recommendation is intended to facilitate the exchange of network performance data by Recognized Operating Agencies with the aim of improving service quality. The FOM is defined through seven different transaction types that can result from a facsimile transaction. The transaction types are based on call cut-offs, transmission speed reduction and image quality. They range from Type I (considered to be "perfect") to Type VII (not completed). The FOM measurements are based on intrusive measurements (i.e. test calls).FOM metrics for non-intrusive measurements and transactions using ECM are for further study. FOM metrics for transactions not using wired access are also for further study.
+  content: This Recommendation introduces metrics for Figure of Merit (FOM) for end-to-end
+    facsimile transmission performance. The Recommendation is intended to facilitate
+    the exchange of network performance data by Recognized Operating Agencies with
+    the aim of improving service quality. The FOM is defined through seven different
+    transaction types that can result from a facsimile transaction. The transaction
+    types are based on call cut-offs, transmission speed reduction and image quality.
+    They range from Type I (considered to be "perfect") to Type VII (not completed).
+    The FOM measurements are based on intrusive measurements (i.e. test calls).FOM
+    metrics for non-intrusive measurements and transactions using ECM are for further
+    study. FOM metrics for transactions not using wired access are also for further
+    study.
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

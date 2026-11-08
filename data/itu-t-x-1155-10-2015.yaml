@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In electronic services or e-services, there are various occasions where privacy violations are of concern. Service providers may gather users' personal information in the process of subscription, purchase or delivery. They may be able to access and exploit users' personal data that is collected during the service processes. The consequences these threats pose to user privacy, such as personal data leakage and tracking, are very serious emerging social issues. Therefore, technological solutions for preserving privacy in e-services are necessary. Anonymous authentication that allows users to be able to authenticate themselves without revealing their identity is the most fundamental means of addressing the privacy threats associated with e-services.\r\n\r\nRecommendation ITU-T X.1155 provides guidelines on local linkable anonymous authentication for e-services. This includes the privacy threats of e-services, the requirements of local linkable anonymous authentication, the functions that satisfy these requirements, and a general model of local linkable anonymous authentication for e-services.\r\n"
+  content: "In electronic services or e-services, there are various occasions where
+    privacy violations are of concern. Service providers may gather users' personal
+    information in the process of subscription, purchase or delivery. They may be
+    able to access and exploit users' personal data that is collected during the service
+    processes. The consequences these threats pose to user privacy, such as personal
+    data leakage and tracking, are very serious emerging social issues. Therefore,
+    technological solutions for preserving privacy in e-services are necessary. Anonymous
+    authentication that allows users to be able to authenticate themselves without
+    revealing their identity is the most fundamental means of addressing the privacy
+    threats associated with e-services.\r\n\r\nRecommendation ITU-T X.1155 provides
+    guidelines on local linkable anonymous authentication for e-services. This includes
+    the privacy threats of e-services, the requirements of local linkable anonymous
+    authentication, the functions that satisfy these requirements, and a general model
+    of local linkable anonymous authentication for e-services.\r\n"
 status:
   stage:
     content: Published

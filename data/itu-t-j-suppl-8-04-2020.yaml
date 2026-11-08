@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 8 to ITU-T J-series of Recommendations addresses details of a trust environment for the embedded common interface (ECI) for exchangeable conditional access (CA)/digital rights management (DRM) (CA/DRM) solutions and complements ECI-related ITU-T Recommendations covering the ECI Ecosystem. This ITU-T Supplement is a transposition of ETSI standard ETSI GS ECI 001-6 and is a result of a collaboration between ITU-T SG9 and ETSI ISG ECI. \r\n"
+  content: "Supplement 8 to ITU-T J-series of Recommendations addresses details of
+    a trust environment for the embedded common interface (ECI) for exchangeable conditional
+    access (CA)/digital rights management (DRM) (CA/DRM) solutions and complements
+    ECI-related ITU-T Recommendations covering the ECI Ecosystem. This ITU-T Supplement
+    is a transposition of ETSI standard ETSI GS ECI 001-6 and is a result of a collaboration
+    between ITU-T SG9 and ETSI ISG ECI. \r\n"
 status:
   stage:
     content: Withdrawal
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
+        Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Definition of management information for customer network management service for public data networks to be used with the CNMc interface
+  content: Definition of management information for customer network management service
+    for public data networks to be used with the CNMc interface
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is one of a set of Recommendations for the customer network management service for data networks, which cover the architecture, services, and management information required to achieve such services between a network and a customer.This Recommendation is, in particular, concerned with the definition of information for the customer network management service, such as managed objects, attributes, name bindings, in the OSI Systems Management context (CMISE).This Recommendation corresponds to Recommendation X.163, which defines management information to be used with the CNMe interface.
+  content: This Recommendation is one of a set of Recommendations for the customer
+    network management service for data networks, which cover the architecture, services,
+    and management information required to achieve such services between a network
+    and a customer.This Recommendation is, in particular, concerned with the definition
+    of information for the customer network management service, such as managed objects,
+    attributes, name bindings, in the OSI Systems Management context (CMISE).This
+    Recommendation corresponds to Recommendation X.163, which defines management information
+    to be used with the CNMe interface.
 status:
   stage:
     content: Published
@@ -82,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of management information for customer network management service for public data networks to be used with the CNMc interface
+      content: Definition of management information for customer network management
+        service for public data networks to be used with the CNMc interface
     docidentifier:
     - content: X.162 (08/1997)
       type: ITU
@@ -92,7 +101,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of management information for customer network management service for public data networks to be used with the CNMc interface
+      content: Definition of management information for customer network management
+        service for public data networks to be used with the CNMc interface
     docidentifier:
     - content: X.162 (04/1995)
       type: ITU

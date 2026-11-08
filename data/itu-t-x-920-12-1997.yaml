@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Distributed Processing – Interface Definition Language
+  content: Information technology – Open Distributed Processing – Interface Definition
+    Language
   type: main
 source:
 - type: src
@@ -55,7 +56,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies an Interface Definition Language (IDL) for specifications that comply with the computational language defined in the architecture of the ODP Reference Model (see ITU-T Rec. X.903 | ISO/IEC 10746-3). The IDL allows the description of object interfaces, together with their operations and associated parameters. It is completely aligned with the CORBA IDL developed by the Object Management Group (OMG).
+  content: This Recommendation | International Standard specifies an Interface Definition
+    Language (IDL) for specifications that comply with the computational language
+    defined in the architecture of the ODP Reference Model (see ITU-T Rec. X.903 |
+    ISO/IEC 10746-3). The IDL allows the description of object interfaces, together
+    with their operations and associated parameters. It is completely aligned with
+    the CORBA IDL developed by the Object Management Group (OMG).
 status:
   stage:
     content: Published

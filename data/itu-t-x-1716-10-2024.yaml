@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1716 specifies authentication and authorization of quantum key distribution network (QKDN). In particular, the scope of this Recommendation includes:\r\n–Identifiers (IDs) and their management in QKDN;\r\n–Public key certification supported by public-key infrastructure (PKI);\r\n–Authentication and authorization in QKDN.\r\n"
+  content: "Recommendation ITU-T X.1716 specifies authentication and authorization
+    of quantum key distribution network (QKDN). In particular, the scope of this Recommendation
+    includes:\r\n–Identifiers (IDs) and their management in QKDN;\r\n–Public key certification
+    supported by public-key infrastructure (PKI);\r\n–Authentication and authorization
+    in QKDN.\r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a Generic Protocol Reference Model (GPRM) used to describe heterogeneous transport networks based on the deployment of overlaid switching and transmission techniques. GPRM models the interconnection and exchange of information, including information pertaining to the user, control and management functions.
+  content: This Recommendation defines a Generic Protocol Reference Model (GPRM) used
+    to describe heterogeneous transport networks based on the deployment of overlaid
+    switching and transmission techniques. GPRM models the interconnection and exchange
+    of information, including information pertaining to the user, control and management
+    functions.
 status:
   stage:
     content: Published
@@ -72,7 +76,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

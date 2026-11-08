@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for the registration of arcs under the object identifier arc for cybersecurity information exchange
+  content: Procedures for the registration of arcs under the object identifier arc
+    for cybersecurity information exchange
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1500.1 provides for the registration of OID arcs which enable coherent, unique and global identification of cybersecurity information as well as for organizations exchanging that information and associated policies. This Recommendation specifies the information and justification to be provided when requesting an OID for cybersecurity information exchange purposes, and the procedures for the operation of the Registration Authority.
+  content: Recommendation ITU-T X.1500.1 provides for the registration of OID arcs
+    which enable coherent, unique and global identification of cybersecurity information
+    as well as for organizations exchanging that information and associated policies.
+    This Recommendation specifies the information and justification to be provided
+    when requesting an OID for cybersecurity information exchange purposes, and the
+    procedures for the operation of the Registration Authority.
 status:
   stage:
     content: Published

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1811 identifies threats raised by quantum computing to International Mobile Telecommunications-2020 (IMT-2020) systems through assessing the security strength of currently used cryptographic algorithms. This Recommendation briefly reviews quantum safe algorithms, including both symmetric and asymmetric types, and provides guidelines for applying quantum safe algorithms in IMT-2020 systems. \r\n"
+  content: "Recommendation ITU-T X.1811 identifies threats raised by quantum computing
+    to International Mobile Telecommunications-2020 (IMT-2020) systems through assessing
+    the security strength of currently used cryptographic algorithms. This Recommendation
+    briefly reviews quantum safe algorithms, including both symmetric and asymmetric
+    types, and provides guidelines for applying quantum safe algorithms in IMT-2020
+    systems. \r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 5 to Recommendation ITU-T D.170 provides a set of voluntary guidelines to assist telecommunication operators in mitigating fraud in international telecommunications traffic exchange. Since the definition of fraud is a domestic matter and varies by jurisdiction, the present supplement does not provide a definition or identify possible fraud practices. Its objective is to help operators to formulate new (or update existing) fraud mitigation guidelines according to their needs and to promote efficiency in account management.
+  content: Supplement 5 to Recommendation ITU-T D.170 provides a set of voluntary
+    guidelines to assist telecommunication operators in mitigating fraud in international
+    telecommunications traffic exchange. Since the definition of fraud is a domestic
+    matter and varies by jurisdiction, the present supplement does not provide a definition
+    or identify possible fraud practices. Its objective is to help operators to formulate
+    new (or update existing) fraud mitigation guidelines according to their needs
+    and to promote efficiency in account management.
 status:
   stage:
     content: Published
@@ -82,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T D.170 - Supplement on guidelines for contents of an international interconnection agreement
+      content: ITU-T D.170 - Supplement on guidelines for contents of an international
+        interconnection agreement
     docidentifier:
     - content: D.170 Suppl. 3 (01/2012)
       type: ITU

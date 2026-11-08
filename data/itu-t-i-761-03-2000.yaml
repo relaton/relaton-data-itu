@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation defines a protocol for inverse multiplexing of an ATM cell stream over multiple physical links, and to retrieve the original stream at the far-end from these links. Multiplexing of the ATM cell stream is performed on a cell-by-cell basis across the multiple links.
+  content: This ITU-T Recommendation defines a protocol for inverse multiplexing of
+    an ATM cell stream over multiple physical links, and to retrieve the original
+    stream at the far-end from these links. Multiplexing of the ATM cell stream is
+    performed on a cell-by-cell basis across the multiple links.
 status:
   stage:
     content: Published
@@ -72,7 +75,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

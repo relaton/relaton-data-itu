@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Performance objectives and procedures for provisioning and maintenance of IP-based networks
+  content: Performance objectives and procedures for provisioning and maintenance
+    of IP-based networks
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides performance objectives and procedures for provisioning and maintenance of IP-based networks. It focuses attention on parameters that significantly affect the quality of service perceived by the customer, and the methods of measuring those parameters. These include those parameters that affect delay performance at the application layer. Performance limits for temporary dial-up access links, end-customer owned portions and MPLS networks are not covered by this Recommendation and are for further study. However, the performance of fixed access links, whose routing does not change, is covered.
+  content: This Recommendation provides performance objectives and procedures for
+    provisioning and maintenance of IP-based networks. It focuses attention on parameters
+    that significantly affect the quality of service perceived by the customer, and
+    the methods of measuring those parameters. These include those parameters that
+    affect delay performance at the application layer. Performance limits for temporary
+    dial-up access links, end-customer owned portions and MPLS networks are not covered
+    by this Recommendation and are for further study. However, the performance of
+    fixed access links, whose routing does not change, is covered.
 status:
   stage:
     content: Published

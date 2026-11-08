@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Z.167 defines a normative way of using ASN.1 as defined in Recommendations ITU-T X.680, ITU-T X.681, ITU-T X.682 and ITU-T X.683 with TTCN-3. The harmonization of other languages with TTCN-3 is not covered by this Recommendation.\r\n\r\nThe first revision of the Recommendation contains amendments (conformance and compatibility, requirements and descriptions related to the objid type have been moved to this Recommendation from all other ITU-T Z.16x Recommendations, supporting XML values within ASN.1 modules, conversion of the OID-IRI and RELATIVE-OID-IRI types, special real values and subtypes containing special values and exclusive bounds, updated predefined language strings, etc.), clarifications (e.g., on visibility of imported ASN.1 definitions, on the transformation rules) corrigenda and editorial corrections.\r\n\r\nThis revision of the Recommendation contains amendments, clarifications, corrigenda and editorial corrections.\r\n"
+  content: "Recommendation ITU-T Z.167 defines a normative way of using ASN.1 as defined
+    in Recommendations ITU-T X.680, ITU-T X.681, ITU-T X.682 and ITU-T X.683 with
+    TTCN-3. The harmonization of other languages with TTCN-3 is not covered by this
+    Recommendation.\r\n\r\nThe first revision of the Recommendation contains amendments
+    (conformance and compatibility, requirements and descriptions related to the objid
+    type have been moved to this Recommendation from all other ITU-T Z.16x Recommendations,
+    supporting XML values within ASN.1 modules, conversion of the OID-IRI and RELATIVE-OID-IRI
+    types, special real values and subtypes containing special values and exclusive
+    bounds, updated predefined language strings, etc.), clarifications (e.g., on visibility
+    of imported ASN.1 definitions, on the transformation rules) corrigenda and editorial
+    corrections.\r\n\r\nThis revision of the Recommendation contains amendments, clarifications,
+    corrigenda and editorial corrections.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -152,7 +163,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3 (TTCN-3): Using ASN.1 with TTCN-3'
+      content: 'Testing and Test Control Notation version 3 (TTCN-3): Using ASN.1
+        with TTCN-3'
     docidentifier:
     - content: Z.146 (03/2006)
       type: ITU
@@ -172,7 +184,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

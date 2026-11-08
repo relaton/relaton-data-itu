@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In the authentication technology standards, verifier impersonation resistance is considered as a requirement of the highest level of authentication assurance. However, existing authentication technologies focus on user authentication and service providers cannot be verified explicitly.\r\nRecommendation ITU-T X.1280 provides a framework for out-of-band server authentication using mobile devices, which resolves the vulnerability of verifier impersonation and the limitation of user terminal dependency of the existing authenticators. It allows a user to provide user authentication information after verifying the service provider explicitly and independently in the user authentication process on any user terminals.\r\n"
+  content: "In the authentication technology standards, verifier impersonation resistance
+    is considered as a requirement of the highest level of authentication assurance.
+    However, existing authentication technologies focus on user authentication and
+    service providers cannot be verified explicitly.\r\nRecommendation ITU-T X.1280
+    provides a framework for out-of-band server authentication using mobile devices,
+    which resolves the vulnerability of verifier impersonation and the limitation
+    of user terminal dependency of the existing authenticators. It allows a user to
+    provide user authentication information after verifying the service provider explicitly
+    and independently in the user authentication process on any user terminals.\r\n"
 status:
   stage:
     content: Withdrawal

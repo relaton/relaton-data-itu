@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: G.Suppl.60 describes potential solutions to support dual node interconnection (DNI) based on the ITU-T G.8031 Ethernet linear protection switching to support resilient interconnection with an adjacent recovery domain. Other viable means of supporting dual node interconnection for Ethernet are known to exist. This Supplement is intended to give examples based on G.8031 only.
+  content: G.Suppl.60 describes potential solutions to support dual node interconnection
+    (DNI) based on the ITU-T G.8031 Ethernet linear protection switching to support
+    resilient interconnection with an adjacent recovery domain. Other viable means
+    of supporting dual node interconnection for Ethernet are known to exist. This
+    Supplement is intended to give examples based on G.8031 only.
 status:
   stage:
     content: Published

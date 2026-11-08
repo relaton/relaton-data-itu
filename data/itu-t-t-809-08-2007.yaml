@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – JPEG 2000 image coding system: Extensions for three-dimensional data'
+  content: 'Information technology – JPEG 2000 image coding system: Extensions for
+    three-dimensional data'
   type: main
 source:
 - type: src
@@ -55,7 +56,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation T.809 | ISO/IEC 15444-10 is a work item subdivision of ISO/IEC 15444 that provides extensions of ITU-T Recommendation T.800 | ISO/IEC 15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2 for logically cuboidal data sets. In particular, it respects all existing capabilities and syntax of ITU-T Recommendation T.800 | ISO/IEC 15444-1 and part of the existing capabilities of ITU-T Recommendation T.801 | ISO/IEC 15444-2 for multi-component images, while providing alternatives and extensions to some of those capabilities. Within these constraints, it provides an isotropic specification for three-dimensional data sets; i.e., the project provides identical processing capabilities in all three dimensions even though ITU-T Recommendation T.800 | ISO/IEC 15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2 codestream syntax differentiates between the two spatial axes and the cross-component axis. The context models currently used in this Recommendation | International Standard are as in ITU-T Recommendation T.800 | ISO/IEC 15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2. Improved context models will be introduced through an amendment
+  content: ITU-T Recommendation T.809 | ISO/IEC 15444-10 is a work item subdivision
+    of ISO/IEC 15444 that provides extensions of ITU-T Recommendation T.800 | ISO/IEC
+    15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2 for logically cuboidal
+    data sets. In particular, it respects all existing capabilities and syntax of
+    ITU-T Recommendation T.800 | ISO/IEC 15444-1 and part of the existing capabilities
+    of ITU-T Recommendation T.801 | ISO/IEC 15444-2 for multi-component images, while
+    providing alternatives and extensions to some of those capabilities. Within these
+    constraints, it provides an isotropic specification for three-dimensional data
+    sets; i.e., the project provides identical processing capabilities in all three
+    dimensions even though ITU-T Recommendation T.800 | ISO/IEC 15444-1 and ITU-T
+    Recommendation T.801 | ISO/IEC 15444-2 codestream syntax differentiates between
+    the two spatial axes and the cross-component axis. The context models currently
+    used in this Recommendation | International Standard are as in ITU-T Recommendation
+    T.800 | ISO/IEC 15444-1 and ITU-T Recommendation T.801 | ISO/IEC 15444-2. Improved
+    context models will be introduced through an amendment
 status:
   stage:
     content: Withdrawal
@@ -75,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Extensions for three-dimensional data'
+      content: 'Information technology – JPEG 2000 image coding system: Extensions
+        for three-dimensional data'
     docidentifier:
     - content: T.809 (05/2011)
       type: ITU
@@ -85,7 +101,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Minor corrections plus clarifications on code stream CAP marker segments and quantization of JP3D images
+      content: Minor corrections plus clarifications on code stream CAP marker segments
+        and quantization of JP3D images
     docidentifier:
     - content: T.809 (2007) Cor. 1 (05/2011)
       type: ITU

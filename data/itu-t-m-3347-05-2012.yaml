@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements for the NGN service activation across the interface between the network management system and the element management system
+  content: Requirements for the NGN service activation across the interface between
+    the network management system and the element management system
   type: main
 source:
 - type: src
@@ -52,7 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3347 describes the requirements for the next generation network (NGN) service activation across the interface between the network management system (NMS) and the element management system (EMS) in the service provisioning business process. The requirements are provided using the telecommunications management network (TMN) interface specification methodology described in Recommendation ITU-T M.3020. The general requirements include subscriber configuration, user configuration, subscribed service configuration, user service relation configuration, user service relation update notification and bulk configuration. This Recommendation defines the interface requirements for each configuration function.
+  content: Recommendation ITU-T M.3347 describes the requirements for the next generation
+    network (NGN) service activation across the interface between the network management
+    system (NMS) and the element management system (EMS) in the service provisioning
+    business process. The requirements are provided using the telecommunications management
+    network (TMN) interface specification methodology described in Recommendation
+    ITU-T M.3020. The general requirements include subscriber configuration, user
+    configuration, subscribed service configuration, user service relation configuration,
+    user service relation update notification and bulk configuration. This Recommendation
+    defines the interface requirements for each configuration function.
 status:
   stage:
     content: Published

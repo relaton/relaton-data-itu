@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3160 provides a generic network information model. The model describes information object classes (IOCs) and their properties that are generic and useful to describe information exchanged across all interfaces defined in Recommendation ITU-T M.3010 TMN architecture. These generic managed object classes are intended to be applicable across different technologies, architecture and services. The managed object classes in this Recommendation may be specialized to support the management of various telecommunications networks.This Recommendation follows Recommendation ITU-T M.3020, management interface specification methodology on the analysis phase. The information models provided in this Recommendation are in a protocol-neutral manner, and can be mapped to multiple protocol-specific information models (design phase).
+  content: Recommendation ITU-T M.3160 provides a generic network information model.
+    The model describes information object classes (IOCs) and their properties that
+    are generic and useful to describe information exchanged across all interfaces
+    defined in Recommendation ITU-T M.3010 TMN architecture. These generic managed
+    object classes are intended to be applicable across different technologies, architecture
+    and services. The managed object classes in this Recommendation may be specialized
+    to support the management of various telecommunications networks.This Recommendation
+    follows Recommendation ITU-T M.3020, management interface specification methodology
+    on the analysis phase. The information models provided in this Recommendation
+    are in a protocol-neutral manner, and can be mapped to multiple protocol-specific
+    information models (design phase).
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix II on positioning Recommendation ITU-T M.3160 to Recommendation ITU-T M.1401
+      content: New Appendix II on positioning Recommendation ITU-T M.3160 to Recommendation
+        ITU-T M.1401
     docidentifier:
     - content: M.3160 (2008) Amd. 2 (09/2016)
       type: ITU

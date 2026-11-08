@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 39 to ITU-T G-series Recommendations provides information on the background and methodologies used in the development of optical interface Recommendations such as Recommendations ITU-T G.957, ITU-T G.691 and ITU-T G.959.1. This revision adds further information on modulation formats; clarifies power budget parameters for systems with optical amplifiers; provides further information on optical signal-to-noise ratio (OSNR) measurement; updates information on concatenation of non-linear effects; adds bit error ratio (BER) estimation technique based on constellation; and makes other miscellaneous corrections.
+  content: Supplement 39 to ITU-T G-series Recommendations provides information on
+    the background and methodologies used in the development of optical interface
+    Recommendations such as Recommendations ITU-T G.957, ITU-T G.691 and ITU-T G.959.1.
+    This revision adds further information on modulation formats; clarifies power
+    budget parameters for systems with optical amplifiers; provides further information
+    on optical signal-to-noise ratio (OSNR) measurement; updates information on concatenation
+    of non-linear effects; adds bit error ratio (BER) estimation technique based on
+    constellation; and makes other miscellaneous corrections.
 status:
   stage:
     content: Withdrawal

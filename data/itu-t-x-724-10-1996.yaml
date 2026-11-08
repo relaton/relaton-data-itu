@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Structure of management information: Requirements and guidelines for implementation conformance statement proformas associated with OSI management'
+  content: 'Information technology – Open Systems Interconnection – Structure of management
+    information: Requirements and guidelines for implementation conformance statement
+    proformas associated with OSI management'
   type: main
 source:
 - type: src
@@ -55,7 +57,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Rec. X.724 (1993) | ISO/IEC 10165-6:1994 defines a standard method for specifying the agent and message conformance in a manager-agent Operations System (OS) interaction that uses OSI systems management-based messages. This revision extends ITU-T Rec. X.724 | ISO/IEC 10165-6 to cover the manager end of the interaction. The result of this extension is that the time to carry out interoperability tests between a manager OS from one vendor and an agent OS from another vendor may be reduced because product developers can be provided with more explicit message specification for the manager OS.
+  content: ITU-T Rec. X.724 (1993) | ISO/IEC 10165-6:1994 defines a standard method
+    for specifying the agent and message conformance in a manager-agent Operations
+    System (OS) interaction that uses OSI systems management-based messages. This
+    revision extends ITU-T Rec. X.724 | ISO/IEC 10165-6 to cover the manager end of
+    the interaction. The result of this extension is that the time to carry out interoperability
+    tests between a manager OS from one vendor and an agent OS from another vendor
+    may be reduced because product developers can be provided with more explicit message
+    specification for the manager OS.
 status:
   stage:
     content: Published
@@ -75,7 +84,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Structure of management information: Requirements and guidelines for implementation conformance statement proformas associated with OSI management'
+      content: 'Information technology – Open Systems Interconnection – Structure
+        of management information: Requirements and guidelines for implementation
+        conformance statement proformas associated with OSI management'
     docidentifier:
     - content: X.724 (11/1993)
       type: ITU

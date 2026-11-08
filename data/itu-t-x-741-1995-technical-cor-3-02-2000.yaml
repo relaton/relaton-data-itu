@@ -50,7 +50,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard (1995) specifies an Access Control Security Model and the management information necessary for creating and administering access control associated with OSI Systems Management.This Technical Corrigendum 3 revises the text to include ASN.1:1997 in 2.1 and 2.2.
+  content: This Recommendation | International Standard (1995) specifies an Access
+    Control Security Model and the management information necessary for creating and
+    administering access control associated with OSI Systems Management.This Technical
+    Corrigendum 3 revises the text to include ASN.1:1997 in 2.1 and 2.2.
 status:
   stage:
     content: Published
@@ -86,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Systems management: Objects and attributes for access control'
+      content: 'Information technology – Open Systems Interconnection – Systems management:
+        Objects and attributes for access control'
     docidentifier:
     - content: X.741 (04/1995)
       type: ITU

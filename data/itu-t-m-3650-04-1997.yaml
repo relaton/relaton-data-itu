@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines in-service measurements of ISDN calls and defines the related management information that shall be available at management interfaces of the ISDN local exchanges. This information can be used by the TMN for performance management activities. ISDN specific in-service measurements are defined for several of the ITU-T I.350 (03/1993) parameters in order to provide the TMN with an approximation of the user perspective of these parameters. The TMN capabilities defined by this Recommendation will be applicable to all ISDN D-channels. Actual measurements will take place on a selectable subset of the available D-channels.
+  content: This Recommendation defines in-service measurements of ISDN calls and defines
+    the related management information that shall be available at management interfaces
+    of the ISDN local exchanges. This information can be used by the TMN for performance
+    management activities. ISDN specific in-service measurements are defined for several
+    of the ITU-T I.350 (03/1993) parameters in order to provide the TMN with an approximation
+    of the user perspective of these parameters. The TMN capabilities defined by this
+    Recommendation will be applicable to all ISDN D-channels. Actual measurements
+    will take place on a selectable subset of the available D-channels.
 status:
   stage:
     content: Published

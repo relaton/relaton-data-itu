@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Modification to SSE reason identifier codes to support voice band data and text relay
+  content: Modification to SSE reason identifier codes to support voice band data
+    and text relay
   type: main
 source:
 - type: src
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment to ITU-T Rec. V.150.1 adds new code definitions to the SSE Protocol Reason Identifier Codes (RIC) contained in Table 12/V.150.1, which are intended to support the SSE protocol in ITU-T Rec. V.152 and the Text Relay.
+  content: This amendment to ITU-T Rec. V.150.1 adds new code definitions to the SSE
+    Protocol Reason Identifier Codes (RIC) contained in Table 12/V.150.1, which are
+    intended to support the SSE protocol in ITU-T Rec. V.152 and the Text Relay.
 status:
   stage:
     content: Published
@@ -98,7 +101,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of V-series DCEs'
+      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of
+        V-series DCEs'
     docidentifier:
     - content: V.150.1 (01/2003)
       type: ITU

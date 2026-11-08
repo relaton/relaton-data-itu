@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.609.5 specifies a multimedia streaming overlay management protocol (MSOMP) that runs on the interface among entities of managed P2P communications. The management functionalities covered in this Recommendation include overlay network management and peer management. This Recommendation provides protocol operations and message formats.
+  content: Recommendation ITU-T X.609.5 specifies a multimedia streaming overlay management
+    protocol (MSOMP) that runs on the interface among entities of managed P2P communications.
+    The management functionalities covered in this Recommendation include overlay
+    network management and peer management. This Recommendation provides protocol
+    operations and message formats.
 status:
   stage:
     content: Withdrawal

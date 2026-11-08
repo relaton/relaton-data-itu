@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Security techniques – Security information objects for access control
+  content: Information technology – Security techniques – Security information objects
+    for access control
   type: main
 source:
 - type: src
@@ -55,7 +56,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides object definitions that are commonly needed in security standards to avoid multiple and different definitions of the same functionality. Precision in these definitions is achieved by use of the Abstract Syntax Notation One (ASN.1).This Recommendation | International Standard covers only static aspects of Security Information Objects (SIOs).
+  content: This Recommendation | International Standard provides object definitions
+    that are commonly needed in security standards to avoid multiple and different
+    definitions of the same functionality. Precision in these definitions is achieved
+    by use of the Abstract Syntax Notation One (ASN.1).This Recommendation | International
+    Standard covers only static aspects of Security Information Objects (SIOs).
 status:
   stage:
     content: Published
@@ -75,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on security baseline for network operators
+      content: ITU-T X.800-X.849 series – Supplement on security baseline for network
+        operators
     docidentifier:
     - content: X Suppl. 2 (09/2007)
       type: ITU
@@ -85,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing system and network security
+      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing
+        system and network security
     docidentifier:
     - content: X Suppl. 3 (04/2008)
       type: ITU
@@ -95,7 +102,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national IP-based public network security centre for developing countries
+      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national
+        IP-based public network security centre for developing countries
     docidentifier:
     - content: X Suppl. 15 (09/2012)
       type: ITU
@@ -105,7 +113,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on architectural systems for security controls for preventing fraudulent activities in public carrier networks
+      content: ITU-T X.800-X.849 series – Supplement on architectural systems for
+        security controls for preventing fraudulent activities in public carrier networks
     docidentifier:
     - content: X Suppl. 16 (09/2012)
       type: ITU

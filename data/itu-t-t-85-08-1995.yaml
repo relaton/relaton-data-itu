@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Application profile for Recommendation T.82 – Progressive bi-level image compression (JBIG coding scheme) for facsimile apparatus
+  content: Application profile for Recommendation T.82 – Progressive bi-level image
+    compression (JBIG coding scheme) for facsimile apparatus
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies an application profile to apply the JBIG coding scheme, defined by Recommendation T.82, for facsimile apparatus. The main specifications in this Recommendation are:1) Application profile of "single-progressive sequential coding" is defined. Other profiles (progressive coding) are for further study.2) Data format consists of header information and coded information. The parameter ranges in the header are specified.
+  content: This Recommendation specifies an application profile to apply the JBIG
+    coding scheme, defined by Recommendation T.82, for facsimile apparatus. The main
+    specifications in this Recommendation are:1) Application profile of "single-progressive
+    sequential coding" is defined. Other profiles (progressive coding) are for further
+    study.2) Data format consists of header information and coded information. The
+    parameter ranges in the header are specified.
 status:
   stage:
     content: Published

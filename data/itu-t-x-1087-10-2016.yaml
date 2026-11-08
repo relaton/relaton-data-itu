@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Technical and operational countermeasures for telebiometric applications using mobile devices
+  content: Technical and operational countermeasures for telebiometric applications
+    using mobile devices
   type: main
 source:
 - type: src
@@ -52,7 +53,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Biometric technology in mobile devices is frequently used in various areas which require a high level of reliability such as e-banking, and procurement services. It is necessary to make efforts to develop a security system that can pre-emptively cope with potential security threats for the purpose of ensuring mobile biometric data security. Since biometric technology handles sensitive personally identifiable information (PII), some of the privacy issues for biometric in mobile devices should be considered.\r\nRecommendation ITU-T X.1087 specifies the implementation model and threats in the operating telebiometric systems in mobile devices. It provides a general guideline for security countermeasures from both the technical and operational perspectives in order to establish a safe mobile environment for the use of telebiometric systems."
+  content: "Biometric technology in mobile devices is frequently used in various areas
+    which require a high level of reliability such as e-banking, and procurement services.
+    It is necessary to make efforts to develop a security system that can pre-emptively
+    cope with potential security threats for the purpose of ensuring mobile biometric
+    data security. Since biometric technology handles sensitive personally identifiable
+    information (PII), some of the privacy issues for biometric in mobile devices
+    should be considered.\r\nRecommendation ITU-T X.1087 specifies the implementation
+    model and threats in the operating telebiometric systems in mobile devices. It
+    provides a general guideline for security countermeasures from both the technical
+    and operational perspectives in order to establish a safe mobile environment for
+    the use of telebiometric systems."
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.677 analyses the requirements for full life-cycle management and operating identity recognition of unmanned aerial vehicles (UAVs) with security considerations. It also specifies an identification mechanism for UAVs using object identifiers (OIDs), including detailed specifications of assignment rules and registration procedures of OIDs used for UAVs.
+  content: Recommendation ITU-T X.677 analyses the requirements for full life-cycle
+    management and operating identity recognition of unmanned aerial vehicles (UAVs)
+    with security considerations. It also specifies an identification mechanism for
+    UAVs using object identifiers (OIDs), including detailed specifications of assignment
+    rules and registration procedures of OIDs used for UAVs.
 status:
   stage:
     content: Published

@@ -50,7 +50,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Technical Corrigendum addresses a defect in ITU-T Rec. X.681 | ISO/IEC 8824-2 that was identified when resolving ballot comments on ITU-T Rec. X.680 (2002)/Amd.3 | ISO/IEC 8824-1:2002/Amd.3 (time types amendment).The time types amendment has (inter alia) added new built-in type reference names to ITU-T Rec. X.680 | ISO/IEC 8824-1, but there is a copy of built-in ASN.1 type reference names in ITU-T Rec. X.681 | ISO/IEC 8824-2, 10.6, preventing the use of such names as a "Literal" in order to avoid ambiguity. This list needs to be updated to include the new built-in time type reference names.This Technical Corrigendum updates the list in ITU-T Rec. X.681 | ISO/IEC 8824-2, 10.6, and also corrects a cross-reference to ITU-T Rec. X.680 | ISO/IEC 8824-1 which was also noted to be in error.
+  content: This Technical Corrigendum addresses a defect in ITU-T Rec. X.681 | ISO/IEC
+    8824-2 that was identified when resolving ballot comments on ITU-T Rec. X.680
+    (2002)/Amd.3 | ISO/IEC 8824-1:2002/Amd.3 (time types amendment).The time types
+    amendment has (inter alia) added new built-in type reference names to ITU-T Rec.
+    X.680 | ISO/IEC 8824-1, but there is a copy of built-in ASN.1 type reference names
+    in ITU-T Rec. X.681 | ISO/IEC 8824-2, 10.6, preventing the use of such names as
+    a "Literal" in order to avoid ambiguity. This list needs to be updated to include
+    the new built-in time type reference names.This Technical Corrigendum updates
+    the list in ITU-T Rec. X.681 | ISO/IEC 8824-2, 10.6, and also corrects a cross-reference
+    to ITU-T Rec. X.680 | ISO/IEC 8824-1 which was also noted to be in error.
 status:
   stage:
     content: Withdrawal
@@ -70,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Information object specification'
+      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Information
+        object specification'
     docidentifier:
     - content: X.681 (02/2021)
       type: ITU
@@ -88,7 +98,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information object specification'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information
+        object specification'
     docidentifier:
     - content: X.681 (08/2015)
       type: ITU
@@ -106,7 +117,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information object specification'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information
+        object specification'
     docidentifier:
     - content: X.681 (11/2008)
       type: ITU
@@ -134,7 +146,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information object specification'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information
+        object specification'
     docidentifier:
     - content: X.681 (07/2002)
       type: ITU
@@ -172,7 +185,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information object specification'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information
+        object specification'
     docidentifier:
     - content: X.681 (12/1997)
       type: ITU
@@ -192,7 +206,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information object specification'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Information
+        object specification'
     docidentifier:
     - content: X.681 (07/1994)
       type: ITU

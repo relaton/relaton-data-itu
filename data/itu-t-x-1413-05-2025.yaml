@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Distributed ledger technology (DLT) uses immutable digital ledger systems implemented in a distributed fashion (i.e., without a central repository) and typically without a central authority. There are two different main models through which DLT is implemented. DLT has other important features that include smart contracts and DLT oracle.\r\nSecurity controls vary with different implementation models of DLT, as do different features such as access control, consensus algorithm, smart contracts. Recommendation ITU-T X.1413 mainly covers the varying security controls that can be referenced when implementing, evaluating or auditing systems with distributed ledger technology.\r\n"
+  content: "Distributed ledger technology (DLT) uses immutable digital ledger systems
+    implemented in a distributed fashion (i.e., without a central repository) and
+    typically without a central authority. There are two different main models through
+    which DLT is implemented. DLT has other important features that include smart
+    contracts and DLT oracle.\r\nSecurity controls vary with different implementation
+    models of DLT, as do different features such as access control, consensus algorithm,
+    smart contracts. Recommendation ITU-T X.1413 mainly covers the varying security
+    controls that can be referenced when implementing, evaluating or auditing systems
+    with distributed ledger technology.\r\n"
 status:
   stage:
     content: Published

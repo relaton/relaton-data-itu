@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open distributed processing – Use of UML for ODP system specifications
+  content: Information technology – Open distributed processing – Use of UML for ODP
+    system specifications
   type: main
 source:
 - type: src
@@ -55,7 +56,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation X.906 | ISO/IEC 19793 defines the use of the Unified Modelling Language (UML 2.1.1) for expressing the specifications of open distributed systems in terms of the viewpoint specifications defined by the Reference Model of Open Distributed Processing (RM-ODP). It defines a set of UML profiles for the expression of such specifications, and an approach for structuring them according to the RM-ODP principles. The purpose of this Recommendation | International Standard is to allow developers to use the UML profiles to write ODP specifications, and to allow UML tools to be used to process viewpoint specifications, thus facilitating the software design process. Annex A provides examples of the use of the UML profiles.
+  content: ITU-T Recommendation X.906 | ISO/IEC 19793 defines the use of the Unified
+    Modelling Language (UML 2.1.1) for expressing the specifications of open distributed
+    systems in terms of the viewpoint specifications defined by the Reference Model
+    of Open Distributed Processing (RM-ODP). It defines a set of UML profiles for
+    the expression of such specifications, and an approach for structuring them according
+    to the RM-ODP principles. The purpose of this Recommendation | International Standard
+    is to allow developers to use the UML profiles to write ODP specifications, and
+    to allow UML tools to be used to process viewpoint specifications, thus facilitating
+    the software design process. Annex A provides examples of the use of the UML profiles.
 status:
   stage:
     content: Withdrawal
@@ -75,7 +84,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open distributed processing – Use of UML for ODP system specifications
+      content: Information technology – Open distributed processing – Use of UML for
+        ODP system specifications
     docidentifier:
     - content: X.906 (10/2014)
       type: ITU

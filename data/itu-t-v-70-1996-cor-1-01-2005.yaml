@@ -47,7 +47,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This corrigendum addresses corrections and clarifications in ITU-T Rec. V.70 (1996) concerning completion of capability exchange, clarification on usage of H.245 "maxBitRate" and of the preferred use of AlternativeCapabilitySet structure, terminology used for simultaneous capability sets, support of G.729 Annex B, and enabling negotiation of the Suspend/Resume Option (ITU-T Rec. V.8 bis).
+  content: This corrigendum addresses corrections and clarifications in ITU-T Rec.
+    V.70 (1996) concerning completion of capability exchange, clarification on usage
+    of H.245 "maxBitRate" and of the preferred use of AlternativeCapabilitySet structure,
+    terminology used for simultaneous capability sets, support of G.729 Annex B, and
+    enabling negotiation of the Suspend/Resume Option (ITU-T Rec. V.8 bis).
 status:
   stage:
     content: Published
@@ -67,7 +71,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for the simultaneous transmission of data and digitally encoded voice signals over the GSTN, or over 2-wire leased point-to-point telephone type circuits
+      content: Procedures for the simultaneous transmission of data and digitally
+        encoded voice signals over the GSTN, or over 2-wire leased point-to-point
+        telephone type circuits
     docidentifier:
     - content: V.70 (08/1996)
       type: ITU

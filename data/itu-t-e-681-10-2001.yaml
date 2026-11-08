@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Traffic engineering methods for IP acess networks based on hybrid fiber/coax system
+  content: Traffic engineering methods for IP acess networks based on hybrid fiber/coax
+    system
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes generic preferred methods for the traffic control and dimensioning of IP-access networks based on hybrid fiber/coax (HFC) system, taking into account the capabilities and limitations of the cable-modem based access technology. The main focus is on the provision over HFC system of IP telephony service in an integrated voice/data environment. Factors affecting system capacity for the support of voice connections are described. Topics discussed include the dimensioning of a single upstream channel, upstream channel pooling, and interoperability between DOCSIS 1.0 and DOCSIS 1.1.
+  content: This Recommendation describes generic preferred methods for the traffic
+    control and dimensioning of IP-access networks based on hybrid fiber/coax (HFC)
+    system, taking into account the capabilities and limitations of the cable-modem
+    based access technology. The main focus is on the provision over HFC system of
+    IP telephony service in an integrated voice/data environment. Factors affecting
+    system capacity for the support of voice connections are described. Topics discussed
+    include the dimensioning of a single upstream channel, upstream channel pooling,
+    and interoperability between DOCSIS 1.0 and DOCSIS 1.1.
 status:
   stage:
     content: Published
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

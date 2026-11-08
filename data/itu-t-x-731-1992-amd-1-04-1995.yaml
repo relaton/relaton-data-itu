@@ -55,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment includes tables, which document the mandatory and optional management information specific to the State Management Function. This amendment will be used by Profile specifiers, for example, those developing International Standardized Profiles (ISPs), to specify an explicit subset of capability, which will afford interoperability between implementations. The tables also include a column for equipment vendors to state the capability of their products in terms of the Profiles or base specification. The table structures comply with the Guidelines for Implementation Conformance Statement Proformas specified in ITU-T Rec. X.724 | ISO/IEC 10165-6.
+  content: This amendment includes tables, which document the mandatory and optional
+    management information specific to the State Management Function. This amendment
+    will be used by Profile specifiers, for example, those developing International
+    Standardized Profiles (ISPs), to specify an explicit subset of capability, which
+    will afford interoperability between implementations. The tables also include
+    a column for equipment vendors to state the capability of their products in terms
+    of the Profiles or base specification. The table structures comply with the Guidelines
+    for Implementation Conformance Statement Proformas specified in ITU-T Rec. X.724
+    | ISO/IEC 10165-6.
 status:
   stage:
     content: Published
@@ -111,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Systems management: State management function'
+      content: 'Information technology – Open Systems Interconnection – Systems management:
+        State management function'
     docidentifier:
     - content: X.731 (01/1992)
       type: ITU

@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation M.1405 defines orders and additional information intended primarily for human-to-human communication between various operators, i.e., network operators or service providers.The orders contain data for designations of interconnections and other information about services that are required to be communicated between operators.This Recommendation extends ITU-T Rec. M.1402 and ensures use of M.1402 in orders among operators. This Recommendation is developed in order to facilitate computerized interoperation between telecommunication operators. As the data defined in this Recommendation are designed for human usage, they are independent of the functions in which they are used. Hence, the data may be applied in any functions, e.g., in customer requests, call centres, billing, service platforms, etc.
+  content: ITU-T Recommendation M.1405 defines orders and additional information intended
+    primarily for human-to-human communication between various operators, i.e., network
+    operators or service providers.The orders contain data for designations of interconnections
+    and other information about services that are required to be communicated between
+    operators.This Recommendation extends ITU-T Rec. M.1402 and ensures use of M.1402
+    in orders among operators. This Recommendation is developed in order to facilitate
+    computerized interoperation between telecommunication operators. As the data defined
+    in this Recommendation are designed for human usage, they are independent of the
+    functions in which they are used. Hence, the data may be applied in any functions,
+    e.g., in customer requests, call centres, billing, service platforms, etc.
 status:
   stage:
     content: Published
@@ -72,7 +81,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T M.1400-series – Supplement on directory of external terminology schemas
+      content: ITU-T M.1400-series – Supplement on directory of external terminology
+        schemas
     docidentifier:
     - content: M Suppl. 7 (05/2008)
       type: ITU

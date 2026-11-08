@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Enhanced communications transport protocol: Specification of duplex multicast transport'
+  content: 'Information technology – Enhanced communications transport protocol: Specification
+    of duplex multicast transport'
   type: main
 source:
 - type: src
@@ -55,7 +56,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes a protocol for duplex multicast transport over Internet where IP multicast is supported. Control tree mechanism for scalability and error control mechanism for reliable multicast data delivery are specified. Protocol details such as packet format, parameter values and procedures are described. This protocol can be used for applications that require one-to-many as well as many-to-one data delivery services.
+  content: This Recommendation | International Standard describes a protocol for duplex
+    multicast transport over Internet where IP multicast is supported. Control tree
+    mechanism for scalability and error control mechanism for reliable multicast data
+    delivery are specified. Protocol details such as packet format, parameter values
+    and procedures are described. This protocol can be used for applications that
+    require one-to-many as well as many-to-one data delivery services.
 status:
   stage:
     content: Published

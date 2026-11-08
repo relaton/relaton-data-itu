@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report: Reference document on API/object interface between network control and application layer'
+  content: 'Technical Report: Reference document on API/object interface between network
+    control and application layer'
   type: main
 source:
 - type: src
@@ -52,7 +53,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: There are many API/Object Interface-related activities outside of ITU-T SG11. Many API/Object Interface specifications have already been released from such activities and a lot of discussions for new APIs/Object Interfaces are starting within them. However, there is no good reference material to help introduce the API/Object Interface specifications under current discussion and it is difficult to know what kind of APIs are released or discussed. This Supplement provides high-level descriptions of API/Object Interface-related activities outside of ITU-T, covering the interface between network control and application layers. This Supplement should be used as a reference to the other API/Object Interface activities outside of ITU-T. This Supplement will also help to avoid the overlapping of the standardization effort.
+  content: There are many API/Object Interface-related activities outside of ITU-T
+    SG11. Many API/Object Interface specifications have already been released from
+    such activities and a lot of discussions for new APIs/Object Interfaces are starting
+    within them. However, there is no good reference material to help introduce the
+    API/Object Interface specifications under current discussion and it is difficult
+    to know what kind of APIs are released or discussed. This Supplement provides
+    high-level descriptions of API/Object Interface-related activities outside of
+    ITU-T, covering the interface between network control and application layers.
+    This Supplement should be used as a reference to the other API/Object Interface
+    activities outside of ITU-T. This Supplement will also help to avoid the overlapping
+    of the standardization effort.
 status:
   stage:
     content: Published

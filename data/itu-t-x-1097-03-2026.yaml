@@ -52,7 +52,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In today's world, there are more and more risks of fraud such as spoofing. It is necessary to fight against these risks and to restore trust between clients and the company providing the services. With the advent of artificial intelligence (AI), it is now possible to reduce these types of risks through new authentication methods, such as speaker recognition using machine learning (ML) techniques, including neural network techniques.\r\nRecommendation ITU-T X.1097 addresses telebiometric authentication using speaker recognition technologies. It first introduces a speaker recognition system and provides functional requirements for each subsystem of the speaker recognition system. It then describes different models for implementing telebiometric speaker authentication, including the case of integrating with voice assistant devices, e.g., smart speakers. This Recommendation identifies threats and vulnerabilities at each step of the telebiometric speaker authentication, including speech presentation, feature extraction, comparison and decision-making. It also provides countermeasures for the identified threats at each step of the telebiometric authentication.\r\n"
+  content: "In today's world, there are more and more risks of fraud such as spoofing.
+    It is necessary to fight against these risks and to restore trust between clients
+    and the company providing the services. With the advent of artificial intelligence
+    (AI), it is now possible to reduce these types of risks through new authentication
+    methods, such as speaker recognition using machine learning (ML) techniques, including
+    neural network techniques.\r\nRecommendation ITU-T X.1097 addresses telebiometric
+    authentication using speaker recognition technologies. It first introduces a speaker
+    recognition system and provides functional requirements for each subsystem of
+    the speaker recognition system. It then describes different models for implementing
+    telebiometric speaker authentication, including the case of integrating with voice
+    assistant devices, e.g., smart speakers. This Recommendation identifies threats
+    and vulnerabilities at each step of the telebiometric speaker authentication,
+    including speech presentation, feature extraction, comparison and decision-making.
+    It also provides countermeasures for the identified threats at each step of the
+    telebiometric authentication.\r\n"
 status:
   stage:
     content: Published

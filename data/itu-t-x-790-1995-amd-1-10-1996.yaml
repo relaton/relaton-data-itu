@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation X.790 provides many possible options for implementors to choose from in the development of a product. This means that an Operations System (OS) product from one vendor needing to interwork with an OS product from another vendor must be developed to some common and explicit agreement both developers use concerning the actual options to be developed in their software products for X.739 based messages. This amendment provides a means to specify message options in such a way that the later documentation of actual options chosen for product can be more explicit. The result is that the time to carry out interoperability test between an OS from one vendor and an OS from another vendor may be reduced because product developers can be provided with more explicit message specification.
+  content: Recommendation X.790 provides many possible options for implementors to
+    choose from in the development of a product. This means that an Operations System
+    (OS) product from one vendor needing to interwork with an OS product from another
+    vendor must be developed to some common and explicit agreement both developers
+    use concerning the actual options to be developed in their software products for
+    X.739 based messages. This amendment provides a means to specify message options
+    in such a way that the later documentation of actual options chosen for product
+    can be more explicit. The result is that the time to carry out interoperability
+    test between an OS from one vendor and an OS from another vendor may be reduced
+    because product developers can be provided with more explicit message specification.
 status:
   stage:
     content: Published

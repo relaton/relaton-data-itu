@@ -53,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Rec. ITU-T T.88 | ISO/IEC 14492, commonly known as JBIG2, defines a coding method for bi-level images (e.g., black and white printed matter). These are images consisting of a single rectangular bit plane, with each pixel taking on one of just two possible colours. This Recommendation | International Standard has been explicitly prepared for a lossy, lossless, and lossy-to-lossless image compression.
+  content: Rec. ITU-T T.88 | ISO/IEC 14492, commonly known as JBIG2, defines a coding
+    method for bi-level images (e.g., black and white printed matter). These are images
+    consisting of a single rectangular bit plane, with each pixel taking on one of
+    just two possible colours. This Recommendation | International Standard has been
+    explicitly prepared for a lossy, lossless, and lossy-to-lossless image compression.
 status:
   stage:
     content: Published

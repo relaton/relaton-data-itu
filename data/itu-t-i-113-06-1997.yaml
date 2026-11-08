@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation I.113, Vocabulary of terms for broadband aspects of ISDN, has been revised during this study period. New terms have been added. All the terms are now classified into a logical order instead of an alphabetical one and are split into eight subclauses:Subclause 2.1: Services Subclause 2.2: Transfer modes Subclause 2.3: Interfaces Subclause 2.4: Channels Subclause 2.5: Transport network structure Subclause 2.6: Operation and maintenance Subclause 2.7: Traffic and resource management Subclause 2.8: Quality of service'
+  content: 'Recommendation I.113, Vocabulary of terms for broadband aspects of ISDN,
+    has been revised during this study period. New terms have been added. All the
+    terms are now classified into a logical order instead of an alphabetical one and
+    are split into eight subclauses:Subclause 2.1: Services Subclause 2.2: Transfer
+    modes Subclause 2.3: Interfaces Subclause 2.4: Channels Subclause 2.5: Transport
+    network structure Subclause 2.6: Operation and maintenance Subclause 2.7: Traffic
+    and resource management Subclause 2.8: Quality of service'
 status:
   stage:
     content: Published
@@ -102,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Systems Interconnection – Physical service definition
+  content: Information technology – Open Systems Interconnection – Physical service
+    definition
   type: main
 source:
 - type: src
@@ -55,7 +56,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard defines the set of capabilities, in terms of abstract service definition, provided by the Physical Layer to the Data Link Layer. For designers of Data Link Layer protocols, it provides a definition of the Physical service to allow design and implementation independent of details of the Physical Layer protocol. For designers of Physical Layer protocols, it defines the set of capabilities to be made available through the action of the protocol over the underlying physical media.
+  content: This Recommendation | International Standard defines the set of capabilities,
+    in terms of abstract service definition, provided by the Physical Layer to the
+    Data Link Layer. For designers of Data Link Layer protocols, it provides a definition
+    of the Physical service to allow design and implementation independent of details
+    of the Physical Layer protocol. For designers of Physical Layer protocols, it
+    defines the set of capabilities to be made available through the action of the
+    protocol over the underlying physical media.
 status:
   stage:
     content: Published
@@ -75,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Physical service definition of open systems interconnection for CCITT applications
+      content: Physical service definition of open systems interconnection for CCITT
+        applications
     docidentifier:
     - content: X.211 (11/1988)
       type: ITU

@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to Recommendation ITU-T X.603.1 | ISO/IEC 16512-2 describes the security functionalities of an application-level relayed multicast protocol for one-to-many group applications. The protocol provides various security facilities to fulfil general as well as specific security requirements. Some detailed functions that can operate with a variety of standardized security mechanisms are provided. This amendment enforces the existing RMCP protocol security.
+  content: Amendment 1 to Recommendation ITU-T X.603.1 | ISO/IEC 16512-2 describes
+    the security functionalities of an application-level relayed multicast protocol
+    for one-to-many group applications. The protocol provides various security facilities
+    to fulfil general as well as specific security requirements. Some detailed functions
+    that can operate with a variety of standardized security mechanisms are provided.
+    This amendment enforces the existing RMCP protocol security.
 status:
   stage:
     content: Withdrawal
@@ -75,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Relayed multicast protocol: Specification for simplex group applications'
+      content: 'Information technology – Relayed multicast protocol: Specification
+        for simplex group applications'
     docidentifier:
     - content: X.603.1 (08/2012)
       type: ITU
@@ -85,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Relayed multicast protocol: Specification for simplex group applications'
+      content: 'Information technology – Relayed multicast protocol: Specification
+        for simplex group applications'
     docidentifier:
     - content: X.603.1 (03/2010)
       type: ITU
@@ -105,7 +112,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Relayed multicast protocol: Specification for simplex group applications'
+      content: 'Information technology – Relayed multicast protocol: Specification
+        for simplex group applications'
     docidentifier:
     - content: X.603.1 (02/2007)
       type: ITU

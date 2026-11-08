@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T E.371 defines deemed impermissible traffic, namely international traffic that may be contrary to the legal and regulatory framework of a country. Such traffic may include practices such as call masking, call refiling, international call back, and other similar forms of traffic manipulation. The determination of what constitutes impermissible traffic is made on a countrybycountry basis.\r\nDeemed impermissible traffic can have serious legal and privacy implications, leading to financial loss, compromised personal information and invasion of privacy.\r\nThe Recommendation emphasizes the importance of understanding impermissible traffic and its potential consequences. It highlights the negative impact on security, privacy and user experience as well as quality of service (QoS) and quality of experience (QoE). The solutions and the use case sections of the Recommendation provide practical measures to combat impermissible traffic effectively.\r\n"
+  content: "Recommendation ITU-T E.371 defines deemed impermissible traffic, namely
+    international traffic that may be contrary to the legal and regulatory framework
+    of a country. Such traffic may include practices such as call masking, call refiling,
+    international call back, and other similar forms of traffic manipulation. The
+    determination of what constitutes impermissible traffic is made on a countrybycountry
+    basis.\r\nDeemed impermissible traffic can have serious legal and privacy implications,
+    leading to financial loss, compromised personal information and invasion of privacy.\r\nThe
+    Recommendation emphasizes the importance of understanding impermissible traffic
+    and its potential consequences. It highlights the negative impact on security,
+    privacy and user experience as well as quality of service (QoS) and quality of
+    experience (QoE). The solutions and the use case sections of the Recommendation
+    provide practical measures to combat impermissible traffic effectively.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: List of possible supplementary telephone services which may be offered to subscribers
+      content: List of possible supplementary telephone services which may be offered
+        to subscribers
     docidentifier:
     - content: E-300 series Suppl. 1 (11/1988)
       type: ITU
@@ -102,7 +114,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Modelling of an experimental test design for the determination of inexperienced user difficulties in setting up international calls using nationally available instructions, or to compare different sets of instructions
+      content: Modelling of an experimental test design for the determination of inexperienced
+        user difficulties in setting up international calls using nationally available
+        instructions, or to compare different sets of instructions
     docidentifier:
     - content: E-300 series Suppl. 5 (10/1984)
       type: ITU
@@ -132,7 +146,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

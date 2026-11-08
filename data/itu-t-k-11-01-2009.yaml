@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T K.11 deals with protection principles, e.g., risk management, safety and reliability, surge protective devices and surge protective components. It gives guidance for the protection of telecommunication equipment, installations and cable plants exposed to the results of external sources of interference such as overvoltages and overcurrents due to lightning or effects related to power lines and electric traction systems.It gives general information about:- the origin of overvoltages and overcurrents (lightning, power induction, power contacts, earth potential rises);- types of protective devices (voltage-limiting and current-limiting devices) and their residual effects;- risk assessment;- protection of telecommunication lines;- protection of exchange and transmission equipment;- protection in access networks.Reference is made, in the bibliography, to some ITU-T K-series Recommendations and IEC standards related to:- power supply effects and low frequency interference;- lightning effects;- surge protective devices and components;- resistibility of telecommunications equipment.
+  content: Recommendation ITU-T K.11 deals with protection principles, e.g., risk
+    management, safety and reliability, surge protective devices and surge protective
+    components. It gives guidance for the protection of telecommunication equipment,
+    installations and cable plants exposed to the results of external sources of interference
+    such as overvoltages and overcurrents due to lightning or effects related to power
+    lines and electric traction systems.It gives general information about:- the origin
+    of overvoltages and overcurrents (lightning, power induction, power contacts,
+    earth potential rises);- types of protective devices (voltage-limiting and current-limiting
+    devices) and their residual effects;- risk assessment;- protection of telecommunication
+    lines;- protection of exchange and transmission equipment;- protection in access
+    networks.Reference is made, in the bibliography, to some ITU-T K-series Recommendations
+    and IEC standards related to:- power supply effects and low frequency interference;-
+    lightning effects;- surge protective devices and components;- resistibility of
+    telecommunications equipment.
 status:
   stage:
     content: Published
@@ -132,7 +145,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
+        cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -152,7 +166,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic
+        fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -162,7 +177,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of
+        requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -172,7 +188,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
+        mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -182,7 +199,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
+        guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -212,7 +230,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles
+        using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU
@@ -222,7 +241,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.11 – Supplement on the protection of information and communication technology equipment with DC power supply against temporary overvoltage (TOV) in telecommunication centres
+      content: ITU-T K.11 – Supplement on the protection of information and communication
+        technology equipment with DC power supply against temporary overvoltage (TOV)
+        in telecommunication centres
     docidentifier:
     - content: K Suppl. 33 (06/2026)
       type: ITU

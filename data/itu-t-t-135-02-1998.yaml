@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation introduces a protocol that enables a reservation application in a user terminal to communicate electronically with the reservation system a service provider, in order to reserve resources for multimedia conferences, modify or cancel previous reservations, and perform other related transactions. The architecture model defined by this Recommendation is designed for in-band transactions - that is, transactions taking place between a reservation system and a T.120 compliant user terminal joined to an ongoing conference.
+  content: This Recommendation introduces a protocol that enables a reservation application
+    in a user terminal to communicate electronically with the reservation system a
+    service provider, in order to reserve resources for multimedia conferences, modify
+    or cancel previous reservations, and perform other related transactions. The architecture
+    model defined by this Recommendation is designed for in-band transactions - that
+    is, transactions taking place between a reservation system and a T.120 compliant
+    user terminal joined to an ongoing conference.
 status:
   stage:
     content: Withdrawal

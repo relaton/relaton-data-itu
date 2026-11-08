@@ -55,7 +55,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a general introduction to the concepts and model of distributed Transaction Processing (TP) and defines the requirements to be met by the TP service.
+  content: This Recommendation provides a general introduction to the concepts and
+    model of distributed Transaction Processing (TP) and defines the requirements
+    to be met by the TP service.
 status:
   stage:
     content: Published
@@ -75,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Open Systems Interconnection – Distributed transaction processing: Model'
+      content: 'Open Systems Interconnection – Distributed transaction processing:
+        Model'
     docidentifier:
     - content: X.860 (09/1992)
       type: ITU

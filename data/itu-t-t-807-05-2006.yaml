@@ -55,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this Recommendation | International Standard is to provide a syntax that allows security services to be applied to JPEG 2000 coded image data. Security services include confidentiality, integrity verification, source authentication, conditional access, and secure scalable streaming and secure transcoding. The syntax allows these security services to be applied to coded and uncoded image data in part or in its entirety. This maintains the inherent features of JPEG 2000 such as scalability and access to various spatial areas, resolution levels, colour components, and quality layers, while providing security services on these elements.
+  content: The purpose of this Recommendation | International Standard is to provide
+    a syntax that allows security services to be applied to JPEG 2000 coded image
+    data. Security services include confidentiality, integrity verification, source
+    authentication, conditional access, and secure scalable streaming and secure transcoding.
+    The syntax allows these security services to be applied to coded and uncoded image
+    data in part or in its entirety. This maintains the inherent features of JPEG
+    2000 such as scalability and access to various spatial areas, resolution levels,
+    colour components, and quality layers, while providing security services on these
+    elements.
 status:
   stage:
     content: Withdrawal
@@ -75,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Secure JPEG 2000'
+      content: 'Information technology – JPEG 2000 image coding system: Secure JPEG
+        2000'
     docidentifier:
     - content: T.807 (V2) (02/2023)
       type: ITU

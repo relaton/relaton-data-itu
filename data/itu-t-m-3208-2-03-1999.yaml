@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'TMN management services for dedicated and reconfigurable circuits network : Connection management of pre-provisioned service link connections to form a leased circuit service'
+  content: 'TMN management services for dedicated and reconfigurable circuits network
+    : Connection management of pre-provisioned service link connections to form a
+    leased circuit service'
   type: main
 source:
 - type: src
@@ -52,7 +54,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is one of the series of M.3200 TMN management service Recommendations that provide descriptions of management services, goals and context for the dedicated and reconfigurable circuits network. This Recommendation provides a profile of Recommendation M.3208.1 for customer administration of leased circuit services using pre-provisioned resources (link connections). This is done by using existing function sets, functions and parameters from Recommendation M.3208.1 and adding additional semantics and restrictions.
+  content: This Recommendation is one of the series of M.3200 TMN management service
+    Recommendations that provide descriptions of management services, goals and context
+    for the dedicated and reconfigurable circuits network. This Recommendation provides
+    a profile of Recommendation M.3208.1 for customer administration of leased circuit
+    services using pre-provisioned resources (link connections). This is done by using
+    existing function sets, functions and parameters from Recommendation M.3208.1
+    and adding additional semantics and restrictions.
 status:
   stage:
     content: Published

@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T I.731 and I.732 describe the functional requirements to enable the interoperability between ATM network elements. The detailed characteristics of ATM equipment, or equipment containing ATM aspects, are contained in this Recommendation. The companion Recommendation, ITU-T I.731, provides introductions and covering terms and concepts that did not easily fit into the structure of this Recommendation. ITU-T I.731 introduces the functional model used in this Recommendation.The functional model approach used in this Recommendation is derived from ITU-T G.805. It is also used by other technologies such as SDH equipment, PDH equipment and optical networking. This allows for equipment with multiple technologies to be easily defined by selecting the appropriate functional blocks.Annex D defines the atomic functions used in the TP Convergence, ATM VP and VC Layer Networks and their associated adaptation functions.
+  content: ITU-T I.731 and I.732 describe the functional requirements to enable the
+    interoperability between ATM network elements. The detailed characteristics of
+    ATM equipment, or equipment containing ATM aspects, are contained in this Recommendation.
+    The companion Recommendation, ITU-T I.731, provides introductions and covering
+    terms and concepts that did not easily fit into the structure of this Recommendation.
+    ITU-T I.731 introduces the functional model used in this Recommendation.The functional
+    model approach used in this Recommendation is derived from ITU-T G.805. It is
+    also used by other technologies such as SDH equipment, PDH equipment and optical
+    networking. This allows for equipment with multiple technologies to be easily
+    defined by selecting the appropriate functional blocks.Annex D defines the atomic
+    functions used in the TP Convergence, ATM VP and VC Layer Networks and their associated
+    adaptation functions.
 status:
   stage:
     content: Published
@@ -82,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

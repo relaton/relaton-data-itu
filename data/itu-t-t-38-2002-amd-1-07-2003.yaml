@@ -50,7 +50,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Amendment to Recommendation T.38 specifies:*V.34 support, allowing Group 3 facsimile terminals with V.34 half-duplex modulation capability, as specified in Rec. T.30, to transfer facsimile documents in real-time between two standard Group 3 facsimile terminals over the Internet or over other networks using IP protocols.*Optional support for legacy V.33 G3FEs* Clarification of version interoperability* New Annex F, Procedures for the Interworking of T.38 and V.150.1 functions when supported in the same gateway.* Amended Annex E and Appendix III to add Call Establishment Procedures for T.38 Voice Media Gateways Capable of Autonomous Transitioning Between VoIP and FoIP.Editorial clean up of Annex B.
+  content: This Amendment to Recommendation T.38 specifies:*V.34 support, allowing
+    Group 3 facsimile terminals with V.34 half-duplex modulation capability, as specified
+    in Rec. T.30, to transfer facsimile documents in real-time between two standard
+    Group 3 facsimile terminals over the Internet or over other networks using IP
+    protocols.*Optional support for legacy V.33 G3FEs* Clarification of version interoperability*
+    New Annex F, Procedures for the Interworking of T.38 and V.150.1 functions when
+    supported in the same gateway.* Amended Annex E and Appendix III to add Call Establishment
+    Procedures for T.38 Voice Media Gateways Capable of Autonomous Transitioning Between
+    VoIP and FoIP.Editorial clean up of Annex B.
 status:
   stage:
     content: Withdrawal
@@ -128,7 +136,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Addition of vendor information in SIP/SDP call setup, corrections to Annex C and Annex D, and enhanced implementation guidelines
+      content: Addition of vendor information in SIP/SDP call setup, corrections to
+        Annex C and Annex D, and enhanced implementation guidelines
     docidentifier:
     - content: T.38 (2004) Amd. 1 (01/2005)
       type: ITU
@@ -186,7 +195,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Clarification on use of T.30 Indicator and TCP start-up, update of Table 2, deletion of ASN.1 in Annex B
+      content: Clarification on use of T.30 Indicator and TCP start-up, update of
+        Table 2, deletion of ASN.1 in Annex B
     docidentifier:
     - content: T.38 (1998) Amd. 4 (07/2001)
       type: ITU
@@ -196,7 +206,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Clarification of protocol version numbers, support for TPKT headers and transmission of DTMF over RTP, and updated support for Internet-Aware Fax devices and H.248.2
+      content: Clarification of protocol version numbers, support for TPKT headers
+        and transmission of DTMF over RTP, and updated support for Internet-Aware
+        Fax devices and H.248.2
     docidentifier:
     - content: T.38 (1998) Amd. 3 (11/2000)
       type: ITU
@@ -214,7 +226,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annexes D (SIP/SDP Call Establishment Procedures) and E (H.248 call establishment procedures)
+      content: New Annexes D (SIP/SDP Call Establishment Procedures) and E (H.248
+        call establishment procedures)
     docidentifier:
     - content: T.38 (1998) Amd. 2 (02/2000)
       type: ITU
@@ -224,7 +237,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Revised Annex B on establishment procedures for facsimile communication over IP networks
+      content: Revised Annex B on establishment procedures for facsimile communication
+        over IP networks
     docidentifier:
     - content: T.38 (1998) Amd. 1 (04/1999)
       type: ITU

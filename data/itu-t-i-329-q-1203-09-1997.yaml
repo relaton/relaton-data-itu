@@ -52,7 +52,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Intelligent Network Conceptual Model (INCM) is an architectural concept for the creation and provisioning of telecommunication services. This Recommendation provides the generic architectural characteristics of the global functional plane. The global functional plane, as defined in Recommendation Q.1201 [1], is viewed as the proper location for the modular functionality from which services are to be constructed.The global functional plane models network functionality from a global point of view. In the GFP, the IN-structured network is said to be viewed as a single entity in the GFP. In this plane, services and service features are redefined in terms of the broad network functions required to support them. These functions are neither service nor Service Feature (SF) specific and are referred to as Service Independent Building Blocks (SIB).This Recommendation defines:· the generic IN GFP model for all IN capability sets;· the definition of service independent building blocks, including the specialized SIBs (e.g. basic call process);· the use of global service logic to model services and service features.Companion Recommendations include the Q.120x and Q.12x3 Recommendations.
+  content: The Intelligent Network Conceptual Model (INCM) is an architectural concept
+    for the creation and provisioning of telecommunication services. This Recommendation
+    provides the generic architectural characteristics of the global functional plane.
+    The global functional plane, as defined in Recommendation Q.1201 [1], is viewed
+    as the proper location for the modular functionality from which services are to
+    be constructed.The global functional plane models network functionality from a
+    global point of view. In the GFP, the IN-structured network is said to be viewed
+    as a single entity in the GFP. In this plane, services and service features are
+    redefined in terms of the broad network functions required to support them. These
+    functions are neither service nor Service Feature (SF) specific and are referred
+    to as Service Independent Building Blocks (SIB).This Recommendation defines:·
+    the generic IN GFP model for all IN capability sets;· the definition of service
+    independent building blocks, including the specialized SIBs (e.g. basic call process);·
+    the use of global service logic to model services and service features.Companion
+    Recommendations include the Q.120x and Q.12x3 Recommendations.
 status:
   stage:
     content: Published
@@ -82,7 +96,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

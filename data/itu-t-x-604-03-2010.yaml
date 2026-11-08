@@ -55,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.604 | ISO/IEC 24793-1 describes the framework of mobile multicast communications (MMC). MMC is intended for real-time, one-to-many multicast services and applications over mobile communications networks. This Recommendation | International Standard specifies the design principles, functional architecture, and high-level information flows for MMC over wireless mobile networks.
+  content: Recommendation ITU-T X.604 | ISO/IEC 24793-1 describes the framework of
+    mobile multicast communications (MMC). MMC is intended for real-time, one-to-many
+    multicast services and applications over mobile communications networks. This
+    Recommendation | International Standard specifies the design principles, functional
+    architecture, and high-level information flows for MMC over wireless mobile networks.
 status:
   stage:
     content: Published

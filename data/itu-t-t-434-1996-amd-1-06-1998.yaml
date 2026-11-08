@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Amendment contains some changes to the main body and to Annex A of Recommendation T.434 to extend the binary file transfer format. The extension is to introduce two new attributes: store-and-forward and file-retrieval. Store-and-forward attribute indicates information used by store-and-forward system. It contains characteristics of a document that is transferred, routing information and delivery information. File-and-retrieval attribute contains information for archiving, management and manipulation of documents.'
+  content: 'This Amendment contains some changes to the main body and to Annex A of
+    Recommendation T.434 to extend the binary file transfer format. The extension
+    is to introduce two new attributes: store-and-forward and file-retrieval. Store-and-forward
+    attribute indicates information used by store-and-forward system. It contains
+    characteristics of a document that is transferred, routing information and delivery
+    information. File-and-retrieval attribute contains information for archiving,
+    management and manipulation of documents.'
 status:
   stage:
     content: Withdrawal

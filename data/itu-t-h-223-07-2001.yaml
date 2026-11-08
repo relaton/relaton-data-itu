@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies a packet-oriented multiplexing protocol for low bit rate multimedia communication. This protocol can be used between two low bit rate multimedia terminals, or between a low bit rate multimedia terminal and a multipoint control unit or an interworking adapter. The protocol allows the transfer of any combination of digital voice/audio, digital video/image and data information over a single communication link. This protocol provides low delay and low overhead by using segmentation and reassembly and by combining information from different logical channels in a single packet. The control procedures necessary to implement this multiplexing protocol are specified in ITU-T H.245. Annexes A, B and C are multiplexing protocol extensions for low, medium and highly error-prone channels, respectively. Annex D provides an optional Reed-Solomon code error correction which is an alternative to the RCPC coding of Annex C.
+  content: This Recommendation specifies a packet-oriented multiplexing protocol for
+    low bit rate multimedia communication. This protocol can be used between two low
+    bit rate multimedia terminals, or between a low bit rate multimedia terminal and
+    a multipoint control unit or an interworking adapter. The protocol allows the
+    transfer of any combination of digital voice/audio, digital video/image and data
+    information over a single communication link. This protocol provides low delay
+    and low overhead by using segmentation and reassembly and by combining information
+    from different logical channels in a single packet. The control procedures necessary
+    to implement this multiplexing protocol are specified in ITU-T H.245. Annexes
+    A, B and C are multiplexing protocol extensions for low, medium and highly error-prone
+    channels, respectively. Annex D provides an optional Reed-Solomon code error correction
+    which is an alternative to the RCPC coding of Annex C.
 status:
   stage:
     content: Published
@@ -72,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optional multiplexing protocol for low bit rate multimedia mobile communication over highly error-prone channels
+      content: Optional multiplexing protocol for low bit rate multimedia mobile communication
+        over highly error-prone channels
     docidentifier:
     - content: H.223 Annex D (05/1999)
       type: ITU
@@ -82,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Multiplexing protocol for low bit rate multimedia mobile communication over highly error-prone channels
+      content: Multiplexing protocol for low bit rate multimedia mobile communication
+        over highly error-prone channels
     docidentifier:
     - content: H.223 Annex C (02/1998)
       type: ITU
@@ -92,7 +105,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Multiplexing protocol for low bit rate multimedia mobile communication over moderate error-prone channels
+      content: Multiplexing protocol for low bit rate multimedia mobile communication
+        over moderate error-prone channels
     docidentifier:
     - content: H.223 Annex B (02/1998)
       type: ITU
@@ -102,7 +116,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Multiplexing protocol for low bit rate multimedia mobile communication over low error-prone channels
+      content: Multiplexing protocol for low bit rate multimedia mobile communication
+        over low error-prone channels
     docidentifier:
     - content: H.223 Annex A (02/1998)
       type: ITU
@@ -132,7 +147,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -152,7 +169,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -162,7 +180,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -172,7 +191,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -182,7 +202,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -202,7 +223,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -232,7 +254,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis
+        of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

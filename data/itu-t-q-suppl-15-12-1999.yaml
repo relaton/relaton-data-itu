@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.2130: Coordinated call control and bearer control signalling requirements for leaf initiated join service'
+  content: 'Technical Report TRQ.2130: Coordinated call control and bearer control
+    signalling requirements for leaf initiated join service'
   type: main
 source:
 - type: src
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement specifies the signalling requirements for the Leaf Initiated Join service capability. These signalling requirements cover the UNI and NNI interactions (exchange of information flows) and internal serving node procedure requirements for a serving node associated with a leaf and associated with the root of the connection(s). The signalling requirements include LIJ call creation and release, attachment of new parties by the root or by themselves ("leaf initiated join"), and detachment of parties by the root or by themselves.
+  content: This Supplement specifies the signalling requirements for the Leaf Initiated
+    Join service capability. These signalling requirements cover the UNI and NNI interactions
+    (exchange of information flows) and internal serving node procedure requirements
+    for a serving node associated with a leaf and associated with the root of the
+    connection(s). The signalling requirements include LIJ call creation and release,
+    attachment of new parties by the root or by themselves ("leaf initiated join"),
+    and detachment of parties by the root or by themselves.
 status:
   stage:
     content: Published

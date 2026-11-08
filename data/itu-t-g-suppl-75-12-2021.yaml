@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 75 to the ITU-T G-series Recommendations enumerates the various requirements arising from IMT-2020/5G small cell systems, concentrating on the backhaul and radio access point (RAP) midhaul portions of the network and comparing them with capabilities of the current and future time-division multiplexing-passive optical network (TDM-PON), such as 10-gigabit-capable symmetrical passive optical network (XGS-PON) defined in Recommendation [ITU-T G.9807.1] and 50G TDM-PON defined in the ITU-T G.9804.x series. Application scenarios and related requirements are also suggested as guidance.
+  content: Supplement 75 to the ITU-T G-series Recommendations enumerates the various
+    requirements arising from IMT-2020/5G small cell systems, concentrating on the
+    backhaul and radio access point (RAP) midhaul portions of the network and comparing
+    them with capabilities of the current and future time-division multiplexing-passive
+    optical network (TDM-PON), such as 10-gigabit-capable symmetrical passive optical
+    network (XGS-PON) defined in Recommendation [ITU-T G.9807.1] and 50G TDM-PON defined
+    in the ITU-T G.9804.x series. Application scenarios and related requirements are
+    also suggested as guidance.
 status:
   stage:
     content: Published

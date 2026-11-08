@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines commands and responses for use by a DTE to control a V-series DCE using serial data interchange over an asynchronous interface. It contains four elements:\r\n–\tcodifies existing practice in common GSTN-DCE that use the ATtention (AT) command set;\r\n–\tdefines a format for orderly extension of the AT command set;\r\n–\tprovides a set of standardized extensions for common functions to identify the DCE, to control the DTE-DCE interface, and to control DCE-DCE protocols (signal conversion, error control and data compression);\r\n–\tprovides a mapping for these commands into V.25 bis frame format for use with DCEs employing synchronous serial interfaces.\r\n"
+  content: "This Recommendation defines commands and responses for use by a DTE to
+    control a V-series DCE using serial data interchange over an asynchronous interface.
+    It contains four elements:\r\n–\tcodifies existing practice in common GSTN-DCE
+    that use the ATtention (AT) command set;\r\n–\tdefines a format for orderly extension
+    of the AT command set;\r\n–\tprovides a set of standardized extensions for common
+    functions to identify the DCE, to control the DTE-DCE interface, and to control
+    DCE-DCE protocols (signal conversion, error control and data compression);\r\n–\tprovides
+    a mapping for these commands into V.25 bis frame format for use with DCEs employing
+    synchronous serial interfaces.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -100,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Support of V.44, V.90, V.91 and V.92 and improved support for mode selection
+      content: Support of V.44, V.90, V.91 and V.92 and improved support for mode
+        selection
     docidentifier:
     - content: V.250 (1999) Amd. 1 (07/2001)
       type: ITU

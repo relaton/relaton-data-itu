@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation describes how the test of the B-ISDN ATM layer is managed through the TMN. This Recommendation identifies two types of ATM layer tests: non-intrusive loopback test and ATM layer performance test. For these test types, the required management functions and the architecture are clarified, and then management information is specified based on the X.745 model.'
+  content: 'This Recommendation describes how the test of the B-ISDN ATM layer is
+    managed through the TMN. This Recommendation identifies two types of ATM layer
+    tests: non-intrusive loopback test and ATM layer performance test. For these test
+    types, the required management functions and the architecture are clarified, and
+    then management information is specified based on the X.745 model.'
 status:
   stage:
     content: Published

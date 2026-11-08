@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The International Shared Cost Service (ISCS) enables an ISCS customer in one country to be assigned one or more special telephone numbers in other countries which allow ISCS callers in those countries to call the ISCS customer at a rate equivalent to a national call charge in the country of origin. All other service and call-related charges are paid by the ISCS customer.This Recommendation provides the service description for the International Shared Cost Service (ISCS), along with information on the service ordering process and other service operational aspects.
+  content: The International Shared Cost Service (ISCS) enables an ISCS customer in
+    one country to be assigned one or more special telephone numbers in other countries
+    which allow ISCS callers in those countries to call the ISCS customer at a rate
+    equivalent to a national call charge in the country of origin. All other service
+    and call-related charges are paid by the ISCS customer.This Recommendation provides
+    the service description for the International Shared Cost Service (ISCS), along
+    with information on the service ordering process and other service operational
+    aspects.
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.100 series – Framework of disaster management for disaster relief system
+      content: ITU-T E.100 series – Framework of disaster management for disaster
+        relief system
     docidentifier:
     - content: E-100 series Suppl. 1 (02/2019)
       type: ITU
@@ -82,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology - Open Systems Interconnection - The Directory: Protocol specifications for secure operations'
+  content: 'Information technology - Open Systems Interconnection - The Directory:
+    Protocol specifications for secure operations'
   type: main
 source:
 - type: src
@@ -55,7 +56,24 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.510 | ISO/IEC 9594-11 specifies a general protocol, called the wrapper protocol, that provides cybersecurity for protocols designed for its protection. The wrapper protocol provides authentication, integrity and optionally confidentiality (encryption). The wrapper protocol allows cybersecurity to be provided independently of the protected protocols, which means that security may be enhanced without affecting protected protocol specifications. \r\n\r\nThe wrapper protocol is specified without specifying specific cryptographic algorithms, but is designed for plucking-in cryptographic algorithms as required. \r\n\r\nThe wrapper protocol is designed for easy migration of cryptographic algorithms, as stronger cryptographic algorithms become necessary. \r\n\r\nRecommendation ITU-T X.510 | ISO/IEC 9594-11 contains recommendations for how other Recommendations and International Standards may include features for migration of cryptographic algorithms, and it includes ASN.1 specifications to be applied for that purpose. \r\n\r\nRecommendation ITU-T X.510 | ISO/IEC 9594-11 also specifies three protocols that make use of the wrapper protocol protection. This includes a protocol for maintenance of authorization and validation lists (AVLs), a protocol for subscribing of public-key certificate status and a protocol for accessing a trust broker. \r\n"
+  content: "Recommendation ITU-T X.510 | ISO/IEC 9594-11 specifies a general protocol,
+    called the wrapper protocol, that provides cybersecurity for protocols designed
+    for its protection. The wrapper protocol provides authentication, integrity and
+    optionally confidentiality (encryption). The wrapper protocol allows cybersecurity
+    to be provided independently of the protected protocols, which means that security
+    may be enhanced without affecting protected protocol specifications. \r\n\r\nThe
+    wrapper protocol is specified without specifying specific cryptographic algorithms,
+    but is designed for plucking-in cryptographic algorithms as required. \r\n\r\nThe
+    wrapper protocol is designed for easy migration of cryptographic algorithms, as
+    stronger cryptographic algorithms become necessary. \r\n\r\nRecommendation ITU-T
+    X.510 | ISO/IEC 9594-11 contains recommendations for how other Recommendations
+    and International Standards may include features for migration of cryptographic
+    algorithms, and it includes ASN.1 specifications to be applied for that purpose.
+    \r\n\r\nRecommendation ITU-T X.510 | ISO/IEC 9594-11 also specifies three protocols
+    that make use of the wrapper protocol protection. This includes a protocol for
+    maintenance of authorization and validation lists (AVLs), a protocol for subscribing
+    of public-key certificate status and a protocol for accessing a trust broker.
+    \r\n"
 status:
   stage:
     content: Withdrawal
@@ -83,7 +101,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information Technology - Open systems Interconnection - The Directory - Protocol specifications for secure operations
+      content: Information Technology - Open systems Interconnection - The Directory
+        - Protocol specifications for secure operations
     docidentifier:
     - content: X.510 (10/2023)
       type: ITU

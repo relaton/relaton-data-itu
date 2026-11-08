@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation T.124 provides a high-level framework for conference management and control of multimedia terminals and Multipoint Control Units (MCUs). It encompasses Generic Conference Control (GCC) functions such as conference establishment and termination, managing the roster of terminals participating in a conference, managing the roster of applications and application capabilities within a conference, registry services for use by applications, coordination of conference conductorship, as well as other miscellaneous functions. It depends on companion Recommendations T.122 and T.125 (MCS) and T.123 as part of the T.120 infrastructure.This revised version of T.124 introduces a number of clarifications to the previous version.
+  content: ITU-T Recommendation T.124 provides a high-level framework for conference
+    management and control of multimedia terminals and Multipoint Control Units (MCUs).
+    It encompasses Generic Conference Control (GCC) functions such as conference establishment
+    and termination, managing the roster of terminals participating in a conference,
+    managing the roster of applications and application capabilities within a conference,
+    registry services for use by applications, coordination of conference conductorship,
+    as well as other miscellaneous functions. It depends on companion Recommendations
+    T.122 and T.125 (MCS) and T.123 as part of the T.120 infrastructure.This revised
+    version of T.124 introduces a number of clarifications to the previous version.
 status:
   stage:
     content: Published

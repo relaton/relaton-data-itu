@@ -55,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The fast associate (upper-layer context identifier) mechanism allows a presentation connection, and the application association it carries to be established using a compressed form of the information that would otherwise be sent on the P-CONNECT exchange. In this Amendment, a conceptual parameter is added which summarizes the contents of the user-data of the P-CONNECT primitives.
+  content: The fast associate (upper-layer context identifier) mechanism allows a
+    presentation connection, and the application association it carries to be established
+    using a compressed form of the information that would otherwise be sent on the
+    P-CONNECT exchange. In this Amendment, a conceptual parameter is added which summarizes
+    the contents of the user-data of the P-CONNECT primitives.
 status:
   stage:
     content: Published
@@ -95,7 +99,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Presentation service definition
+      content: Information technology – Open Systems Interconnection – Presentation
+        service definition
     docidentifier:
     - content: X.216 (07/1994)
       type: ITU
@@ -105,7 +110,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Presentation service definition for Open Systems Interconnection for CCITT applications
+      content: Presentation service definition for Open Systems Interconnection for
+        CCITT applications
     docidentifier:
     - content: X.216 (11/1988)
       type: ITU

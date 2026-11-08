@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides reference connections and network configurations for IP access networks for the provision of IP telephony and TCP/IP-supported data services such as web-browsing, e-mail, file transfer and high-speed data access. Other services such as video telephony, video-on-demand, are for further study. Also, only point-to-point reference connections are considered in this release of the Recommendation.
+  content: This Recommendation provides reference connections and network configurations
+    for IP access networks for the provision of IP telephony and TCP/IP-supported
+    data services such as web-browsing, e-mail, file transfer and high-speed data
+    access. Other services such as video telephony, video-on-demand, are for further
+    study. Also, only point-to-point reference connections are considered in this
+    release of the Recommendation.
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

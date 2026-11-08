@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment provides protection switching enhancements to the generic network information model. The model describes protection switching managed object classes and their properties that are generic and useful to describe information exchanged across all interfaces defined in M.3010 TMN architecture. These generic managed object classes are intended to be applicable across different technologies, architectures and services. The protection switching managed object classes in this amendment may be specialized to support the management of various telecommunications networks.
+  content: This amendment provides protection switching enhancements to the generic
+    network information model. The model describes protection switching managed object
+    classes and their properties that are generic and useful to describe information
+    exchanged across all interfaces defined in M.3010 TMN architecture. These generic
+    managed object classes are intended to be applicable across different technologies,
+    architectures and services. The protection switching managed object classes in
+    this amendment may be specialized to support the management of various telecommunications
+    networks.
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement describes number portability in terms of high-level service definitions and terminology and presents a set of high-level network architectures and generic routing methods for NP. These architectures and routing methods are not to be considered exhaustive; they just illustrate some of the options. Other alternatives do exist and may be covered by future capability sets.
+  content: This Supplement describes number portability in terms of high-level service
+    definitions and terminology and presents a set of high-level network architectures
+    and generic routing methods for NP. These architectures and routing methods are
+    not to be considered exhaustive; they just illustrate some of the options. Other
+    alternatives do exist and may be covered by future capability sets.
 status:
   stage:
     content: Published

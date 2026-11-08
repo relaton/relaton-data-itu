@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Interface between data terminal equipment (DTE) and data circuit-terminating equipment (DCE) for public data networks providing frame relay data transmission service by dedicated circuit
+  content: Interface between data terminal equipment (DTE) and data circuit-terminating
+    equipment (DCE) for public data networks providing frame relay data transmission
+    service by dedicated circuit
   type: main
 source:
 - type: src
@@ -52,7 +54,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation defines the DTE/DCE interface for public data networks providing frame relay data transmission service by dedicated circuit. It defines frame relay basic service for permanent virtual circuits and switched virtual circuits and frame relay link layer protocol for data transfer. It defines permanent virtual circuits management protocol and signalling for switched virtual circuits. It also defines the following network capabilities: closed user group, reverse charging, transit network selection, transfer and discard priorities and service classes, NSAP support by the network for interworking with ATM networks, multiprotocol encapsulation and selection and fragmentation at the DTE/DCE interface. This revision replaces ITU-T X.36 (1995) and its Amendments 1, 2 and 3.'
+  content: 'This Recommendation defines the DTE/DCE interface for public data networks
+    providing frame relay data transmission service by dedicated circuit. It defines
+    frame relay basic service for permanent virtual circuits and switched virtual
+    circuits and frame relay link layer protocol for data transfer. It defines permanent
+    virtual circuits management protocol and signalling for switched virtual circuits.
+    It also defines the following network capabilities: closed user group, reverse
+    charging, transit network selection, transfer and discard priorities and service
+    classes, NSAP support by the network for interworking with ATM networks, multiprotocol
+    encapsulation and selection and fragmentation at the DTE/DCE interface. This revision
+    replaces ITU-T X.36 (1995) and its Amendments 1, 2 and 3.'
 status:
   stage:
     content: Withdrawal
@@ -72,7 +83,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating Equipment (DCE) for public data networks providing frame relay data transmission service by dedicated circuit
+      content: Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating
+        Equipment (DCE) for public data networks providing frame relay data transmission
+        service by dedicated circuit
     docidentifier:
     - content: X.36 (02/2003)
       type: ITU
@@ -82,7 +95,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Frame discard priority, service classes, NSAP signalling and protocol encapsulation
+      content: Frame discard priority, service classes, NSAP signalling and protocol
+        encapsulation
     docidentifier:
     - content: X.36 (1995) Amd. 3 (09/1998)
       type: ITU
@@ -102,7 +116,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Switched virtual circuit (SVC) signalling and refinements of permanent virtual circuit (PVC) signalling
+      content: Switched virtual circuit (SVC) signalling and refinements of permanent
+        virtual circuit (PVC) signalling
     docidentifier:
     - content: X.36 (1995) Amd. 1 (10/1996)
       type: ITU
@@ -112,7 +127,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating Equipment (DCE) for public data networks providing frame relay data transmission service by dedicated circuit
+      content: Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating
+        Equipment (DCE) for public data networks providing frame relay data transmission
+        service by dedicated circuit
     docidentifier:
     - content: X.36 (04/1995)
       type: ITU

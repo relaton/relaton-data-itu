@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the high resolution colour test chart. Included is a black/white photocopy of the latest revision of the colour chart (the colour chart is available from ITU Sales Department). This full-colour chart was printed from 4-colour separation negatives in order to provide low cost colour reproduction. The chart includes a Pestrecov Star, various line patterns and colour patches, text, solid colour blocks, screened grey scales, a colour photograph and two computer-generated images. The purpose of the chart is to satisfy colour testing requirements that cannot be adequately met with current test charts. The chart can be used with electronic document storage facilities, electronic document transmission facilities, and facsimile apparatus.
+  content: This Recommendation defines the high resolution colour test chart. Included
+    is a black/white photocopy of the latest revision of the colour chart (the colour
+    chart is available from ITU Sales Department). This full-colour chart was printed
+    from 4-colour separation negatives in order to provide low cost colour reproduction.
+    The chart includes a Pestrecov Star, various line patterns and colour patches,
+    text, solid colour blocks, screened grey scales, a colour photograph and two computer-generated
+    images. The purpose of the chart is to satisfy colour testing requirements that
+    cannot be adequately met with current test charts. The chart can be used with
+    electronic document storage facilities, electronic document transmission facilities,
+    and facsimile apparatus.
 status:
   stage:
     content: Published

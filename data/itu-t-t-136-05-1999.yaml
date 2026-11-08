@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes how remote device control may be performed using Recommendation T.120 as the transport protocol. The core remote device control services and protocol are described in a separate Recommendation H.282. This Recommendation explains how Recommendation H.282 may be used in a T.120 environment.
+  content: This Recommendation describes how remote device control may be performed
+    using Recommendation T.120 as the transport protocol. The core remote device control
+    services and protocol are described in a separate Recommendation H.282. This Recommendation
+    explains how Recommendation H.282 may be used in a T.120 environment.
 status:
   stage:
     content: Withdrawal

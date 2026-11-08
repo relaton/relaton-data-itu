@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "For the purposes of international public correspondence telecommunication, the ship station identity is now only relevant for those existing systems that have the ship station identity embedded in the numbering scheme as illustrated in Annexes A and B. For future systems that will not embed the ship station identity in their numbering scheme, the ship station identity ceases to have any relevance for public correspondence telecommunication purposes.\r\n\r\nThis edition of ITU-T E.217 includes relevant text from ITU-T E.210, which document it cancels and replaces. In addition, ITU-T E.217 reflects changes that have occurred within the existing family of services provided by Inmarsat that impact the provision of global maritime distress and safety system (GMDSS).\r\n\r\nFor historical accuracy, this revised version also reflects details of the provision of Inmarsat services prior to the expansion of the numbering plan specified in ITU-T E.164 from a maximum of 12 to 15 digits."
+  content: "For the purposes of international public correspondence telecommunication,
+    the ship station identity is now only relevant for those existing systems that
+    have the ship station identity embedded in the numbering scheme as illustrated
+    in Annexes A and B. For future systems that will not embed the ship station identity
+    in their numbering scheme, the ship station identity ceases to have any relevance
+    for public correspondence telecommunication purposes.\r\n\r\nThis edition of ITU-T
+    E.217 includes relevant text from ITU-T E.210, which document it cancels and replaces.
+    In addition, ITU-T E.217 reflects changes that have occurred within the existing
+    family of services provided by Inmarsat that impact the provision of global maritime
+    distress and safety system (GMDSS).\r\n\r\nFor historical accuracy, this revised
+    version also reflects details of the provision of Inmarsat services prior to the
+    expansion of the numbering plan specified in ITU-T E.164 from a maximum of 12
+    to 15 digits."
 status:
   stage:
     content: Published
@@ -82,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

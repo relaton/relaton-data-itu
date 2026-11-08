@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Soft error mitigation for FPGA is described in this section. FPGA is the mainstream of recent LSI and many of them are used in equipment for communication as main device. First, trend of soft error rate along with miniaturization of manufacturing process rules for semiconductor is described, and mitigation techniques such as material, physical layout, and design tool that FPGA venders provide to users are outlined. Next, design methodology of communication equipment, which considers reliability specification by using those mitigation measures, is discussed. Finally, recent trend for mitigation measures for FPGA is explained.
+  content: Soft error mitigation for FPGA is described in this section. FPGA is the
+    mainstream of recent LSI and many of them are used in equipment for communication
+    as main device. First, trend of soft error rate along with miniaturization of
+    manufacturing process rules for semiconductor is described, and mitigation techniques
+    such as material, physical layout, and design tool that FPGA venders provide to
+    users are outlined. Next, design methodology of communication equipment, which
+    considers reliability specification by using those mitigation measures, is discussed.
+    Finally, recent trend for mitigation measures for FPGA is explained.
 status:
   stage:
     content: Withdrawal

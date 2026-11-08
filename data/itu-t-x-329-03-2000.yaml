@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: General arrangements for interworking between networks providing frame relay data transmission services and B-ISDN
+  content: General arrangements for interworking between networks providing frame
+    relay data transmission services and B-ISDN
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines general arrangements for interworking between networks providing Frame Relay Data Transmission Services (FRDTS) and B-ISDN. It includes reference configurations, protocol stacks, FR/ATM element mapping and other general arrangements required for various interworking scenarios between the two types of networks. In particular, it focuses on the cases where dedicated Frame Relay networks are involved in such interworking scenarios.
+  content: This Recommendation defines general arrangements for interworking between
+    networks providing Frame Relay Data Transmission Services (FRDTS) and B-ISDN.
+    It includes reference configurations, protocol stacks, FR/ATM element mapping
+    and other general arrangements required for various interworking scenarios between
+    the two types of networks. In particular, it focuses on the cases where dedicated
+    Frame Relay networks are involved in such interworking scenarios.
 status:
   stage:
     content: Published

@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation I.210 describes the principles for defining telecommunication services supported by an ISDN, including the concept of bearer services, bearer capabilities and teleservices. It also provides the tools for the definition and description of such services.The purpose of this Recommendation is to define a recommended set of teleservices to be supported by an ISDN. These definitions form the basis for detailed descriptions of teleservices as given in Recommendation I.241 which are used to define the network capabilities required.Teleservices are described by prose definitions and descriptions, by attributes and by dynamic descriptions, which altogether define the service characteristics at a given access point where the customer accesses the service. Recommendation I.140 and Recommendation I.210, Annex C describe the use of attributes for this purpose
+  content: Recommendation I.210 describes the principles for defining telecommunication
+    services supported by an ISDN, including the concept of bearer services, bearer
+    capabilities and teleservices. It also provides the tools for the definition and
+    description of such services.The purpose of this Recommendation is to define a
+    recommended set of teleservices to be supported by an ISDN. These definitions
+    form the basis for detailed descriptions of teleservices as given in Recommendation
+    I.241 which are used to define the network capabilities required.Teleservices
+    are described by prose definitions and descriptions, by attributes and by dynamic
+    descriptions, which altogether define the service characteristics at a given access
+    point where the customer accesses the service. Recommendation I.140 and Recommendation
+    I.210, Annex C describe the use of attributes for this purpose
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

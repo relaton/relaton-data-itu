@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Amendment 2 to Recommendation ITU-T X.1081 changes references to ISO 31 and IEC 60027 with references to the ISO/IEC 80000-series, which supersedes these two previous standards.This amendment also replaces the term "biosphere" with "1-m radius biosphere", as "biosphere" is classically a bigger object, around planet Earth (Sol-3).This amendment also adds a sixth modality: "CALOR".'
+  content: 'Amendment 2 to Recommendation ITU-T X.1081 changes references to ISO 31
+    and IEC 60027 with references to the ISO/IEC 80000-series, which supersedes these
+    two previous standards.This amendment also replaces the term "biosphere" with
+    "1-m radius biosphere", as "biosphere" is classically a bigger object, around
+    planet Earth (Sol-3).This amendment also adds a sixth modality: "CALOR".'
 status:
   stage:
     content: Withdrawal
@@ -72,7 +76,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The telebiometric multimodal model – A framework for the specification of security and safety aspects of telebiometrics
+      content: The telebiometric multimodal model – A framework for the specification
+        of security and safety aspects of telebiometrics
     docidentifier:
     - content: X.1081 (10/2011)
       type: ITU
@@ -108,7 +113,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The telebiometric multimodal model – A framework for the specification of security and safety aspects of telebiometrics
+      content: The telebiometric multimodal model – A framework for the specification
+        of security and safety aspects of telebiometrics
     docidentifier:
     - content: X.1081 (04/2004)
       type: ITU

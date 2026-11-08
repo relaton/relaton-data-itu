@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Z.150, together with other Recommendations in the ITU-T Z.150 series, defines URN (User Requirements Notation), which is intended for the elicitation, analysis, specification, and validation of requirements. URN combines modelling concepts and notations for goals (mainly for non-functional requirements and quality attributes) and scenarios (mainly for operational requirements, functional requirements, and performance and architectural reasoning). Such a notation is needed to capture user requirements prior to any design. This Recommendation focuses on language requirements for URN and on providing the context for a requirements engineering framework.
+  content: Recommendation ITU-T Z.150, together with other Recommendations in the
+    ITU-T Z.150 series, defines URN (User Requirements Notation), which is intended
+    for the elicitation, analysis, specification, and validation of requirements.
+    URN combines modelling concepts and notations for goals (mainly for non-functional
+    requirements and quality attributes) and scenarios (mainly for operational requirements,
+    functional requirements, and performance and architectural reasoning). Such a
+    notation is needed to capture user requirements prior to any design. This Recommendation
+    focuses on language requirements for URN and on providing the context for a requirements
+    engineering framework.
 status:
   stage:
     content: Published
@@ -82,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation T.432 currently defines the document bulk transfer of Group 4 Telefax documents as the DTAM transparent mode and of arbitrary documents and binary files in the DTAM normal mode. Amendment 1 provides for the transfer of binary files (based upon Recommendation T.434), and other formats, such as DTM, JPEG, EDIFACT and also Colour facsimile documents in the DTAM transparent mode. This amendment mainly concentrates on the amendments for the association establishment, where the relevant formats need to be recognized, and on the transfer phase, where segmenting must be extended to information that is not structured page by page.
+  content: Recommendation T.432 currently defines the document bulk transfer of Group
+    4 Telefax documents as the DTAM transparent mode and of arbitrary documents and
+    binary files in the DTAM normal mode. Amendment 1 provides for the transfer of
+    binary files (based upon Recommendation T.434), and other formats, such as DTM,
+    JPEG, EDIFACT and also Colour facsimile documents in the DTAM transparent mode.
+    This amendment mainly concentrates on the amendments for the association establishment,
+    where the relevant formats need to be recognized, and on the transfer phase, where
+    segmenting must be extended to information that is not structured page by page.
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document Transfer And Manipulation (DTAM) – Services and protocols – Service definition
+      content: Document Transfer And Manipulation (DTAM) – Services and protocols
+        – Service definition
     docidentifier:
     - content: T.432 (09/1992)
       type: ITU
@@ -82,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document transfer and manipulation (DTAM) – Services and protocols – Service definition
+      content: Document transfer and manipulation (DTAM) – Services and protocols
+        – Service definition
     docidentifier:
     - content: T.432 (11/1988)
       type: ITU

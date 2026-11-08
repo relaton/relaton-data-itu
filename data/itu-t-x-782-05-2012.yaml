@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines for defining web services for managed objects and management interfaces
+  content: Guidelines for defining web services for managed objects and management
+    interfaces
   type: main
 source:
 - type: src
@@ -52,7 +53,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T X.782 defines a set of guidelines for managed object modelling and a management interface for web services-based network management. It composes a framework for web services-based network management interfaces along with Recommendation ITU-T Q.818. It specifies how service-oriented web service interfaces should be defined. It covers the suitable application scenario of web services in network management interfaces, generic accessing methods of XML-based managed objects, information modelling in web service WSDL and XML schema. Some WSDL definitions and XML schema are provided for defining some basic data types: generic managed object (MO) and generic MO accessing methods. This Recommendation and Recommendation ITU T Q.818 together compose a framework for web services-based network management interfaces with a wide range of applications.'
+  content: 'Recommendation ITU-T X.782 defines a set of guidelines for managed object
+    modelling and a management interface for web services-based network management.
+    It composes a framework for web services-based network management interfaces along
+    with Recommendation ITU-T Q.818. It specifies how service-oriented web service
+    interfaces should be defined. It covers the suitable application scenario of web
+    services in network management interfaces, generic accessing methods of XML-based
+    managed objects, information modelling in web service WSDL and XML schema. Some
+    WSDL definitions and XML schema are provided for defining some basic data types:
+    generic managed object (MO) and generic MO accessing methods. This Recommendation
+    and Recommendation ITU T Q.818 together compose a framework for web services-based
+    network management interfaces with a wide range of applications.'
 status:
   stage:
     content: Published

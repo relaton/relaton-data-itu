@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a basis for a common understanding of the underlying issues in order to facilitate implementation of Universal Personal Telecommunications (UPT) within a common numbering framework. UPT introduces the concept of personal mobility across many networks. This includes but is not limited to ISDN, PSTN, PLMN and PSPDN. The use of personal UPT numbers has broadened the practice of how numbering can be used across and within international and national telecommunication networks.This Recommendation provides a framework of numbering for calls inbound to a UPT user (incalls), transactions between the UPT user and their UPT service profile (e.g. incall registration), calls made by the UPT user (outcalls) and identification of the UPT service profile and service provider.
+  content: This Recommendation provides a basis for a common understanding of the
+    underlying issues in order to facilitate implementation of Universal Personal
+    Telecommunications (UPT) within a common numbering framework. UPT introduces the
+    concept of personal mobility across many networks. This includes but is not limited
+    to ISDN, PSTN, PLMN and PSPDN. The use of personal UPT numbers has broadened the
+    practice of how numbering can be used across and within international and national
+    telecommunication networks.This Recommendation provides a framework of numbering
+    for calls inbound to a UPT user (incalls), transactions between the UPT user and
+    their UPT service profile (e.g. incall registration), calls made by the UPT user
+    (outcalls) and identification of the UPT service profile and service provider.
 status:
   stage:
     content: Withdrawal

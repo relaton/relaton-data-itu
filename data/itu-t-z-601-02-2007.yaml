@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation Z.601 identifies a set of data structures and formats of one software system. These data forms appear at the various interfaces to and media of the system and comprise intermediate forms for transformations between the external forms. The data forms are needed within one system, and they are not abstracted away from the system over several systems.This Recommendation identifies data schemata that may be used to define interfaces between software components. However, this Recommendation defines no software architecture.
+  content: ITU-T Recommendation Z.601 identifies a set of data structures and formats
+    of one software system. These data forms appear at the various interfaces to and
+    media of the system and comprise intermediate forms for transformations between
+    the external forms. The data forms are needed within one system, and they are
+    not abstracted away from the system over several systems.This Recommendation identifies
+    data schemata that may be used to define interfaces between software components.
+    However, this Recommendation defines no software architecture.
 status:
   stage:
     content: Withdrawal

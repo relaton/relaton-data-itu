@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.2815: Requirements for interworking BICC/ISUP network with originating/destination networks based on Session Initiation Protocol and Session Description Protocol'
+  content: 'Technical Report TRQ.2815: Requirements for interworking BICC/ISUP network
+    with originating/destination networks based on Session Initiation Protocol and
+    Session Description Protocol'
   type: main
 source:
 - type: src
@@ -52,7 +54,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement to ITU-T Q-Series Recommendations is a technical report on the procedures, information flows and information elements needed to interwork Bearer Independent Call Control (BICC) peer-to-peer protocol (i.e., ITU-T Rec. Q.1902) and ISDN User Part (ISUP) protocol (i.e., ITU-T Recs Q.761-Q.764, Q.73y.x, Q.765.x, Q.769.x), with Session Initiation Protocol (SIP) and Session Description Protocol (SDP) at the BICC Interface Serving Node (ISN). The SIP/SDP is assumed on a "Network-to-Network Interface" (NNI) between the BICC/ISUP network and a SIP network, which is an originating or terminating/destination network.
+  content: This Supplement to ITU-T Q-Series Recommendations is a technical report
+    on the procedures, information flows and information elements needed to interwork
+    Bearer Independent Call Control (BICC) peer-to-peer protocol (i.e., ITU-T Rec.
+    Q.1902) and ISDN User Part (ISUP) protocol (i.e., ITU-T Recs Q.761-Q.764, Q.73y.x,
+    Q.765.x, Q.769.x), with Session Initiation Protocol (SIP) and Session Description
+    Protocol (SDP) at the BICC Interface Serving Node (ISN). The SIP/SDP is assumed
+    on a "Network-to-Network Interface" (NNI) between the BICC/ISUP network and a
+    SIP network, which is an originating or terminating/destination network.
 status:
   stage:
     content: Published

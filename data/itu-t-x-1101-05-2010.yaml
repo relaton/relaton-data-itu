@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1101 defines the network and service models used for multicast communication. It addresses potential security threats and the required countermeasures. Potential threats are defined from the general, mobility-oriented and multicast specific perspectives, and multicast-specific threats are analysed in particular detail. As such, the security requirements, framework and functions are defined and explained as the main focus of the Recommendation.
+  content: Recommendation ITU-T X.1101 defines the network and service models used
+    for multicast communication. It addresses potential security threats and the required
+    countermeasures. Potential threats are defined from the general, mobility-oriented
+    and multicast specific perspectives, and multicast-specific threats are analysed
+    in particular detail. As such, the security requirements, framework and functions
+    are defined and explained as the main focus of the Recommendation.
 status:
   stage:
     content: Published

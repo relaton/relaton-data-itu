@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides mechanisms for user-plane OAM (Operation and Maintenance) functionalityin MPLS networks according to the requirements and principles given in ITU-T Rec. Y.1710. This Recommendation is designed primarily to support point-to-point and multipoint-to-point explicit routed LSPs (ER-LSPs) with limited applicability to LSPs that employ penultimate hop popping (PHP).The OAM mechanisms defined in this Recommendation assume common forwarding of the LSP payload and Y.1711 PDUs. In some situations this may not be true, such as when the LSP payload is load balanced across a plurality of parallel paths while still appearing as a single trail to the ingress and egress. LSRs introducing variations in connectivity are responsible for ensuring that the availability behaviour of Y.1711 per ingress-egress pair is preserved.
+  content: This Recommendation provides mechanisms for user-plane OAM (Operation and
+    Maintenance) functionalityin MPLS networks according to the requirements and principles
+    given in ITU-T Rec. Y.1710. This Recommendation is designed primarily to support
+    point-to-point and multipoint-to-point explicit routed LSPs (ER-LSPs) with limited
+    applicability to LSPs that employ penultimate hop popping (PHP).The OAM mechanisms
+    defined in this Recommendation assume common forwarding of the LSP payload and
+    Y.1711 PDUs. In some situations this may not be true, such as when the LSP payload
+    is load balanced across a plurality of parallel paths while still appearing as
+    a single trail to the ingress and egress. LSRs introducing variations in connectivity
+    are responsible for ensuring that the availability behaviour of Y.1711 per ingress-egress
+    pair is preserved.
 status:
   stage:
     content: Published
@@ -110,7 +120,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond standardization roadmap
+      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+        standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
       type: ITU
@@ -130,7 +141,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems and services"
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -140,7 +152,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -150,7 +163,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Definition of management information for customer network management service for public data networks to be used with the CNMe interface
+  content: Definition of management information for customer network management service
+    for public data networks to be used with the CNMe interface
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the management information which may be provided to a customer and collectively described as Customer Network Management (CNM) via the CNMe (EDI/MHS) interface. CNM is a service which provides customers with the ability to access (and in some cases modify) management information relating to the services provided to them by the network.This Recommendation is, in particular, concerned with the definition of information for CNM such as EDI message format.
+  content: This Recommendation defines the management information which may be provided
+    to a customer and collectively described as Customer Network Management (CNM)
+    via the CNMe (EDI/MHS) interface. CNM is a service which provides customers with
+    the ability to access (and in some cases modify) management information relating
+    to the services provided to them by the network.This Recommendation is, in particular,
+    concerned with the definition of information for CNM such as EDI message format.
 status:
   stage:
     content: Published

@@ -47,7 +47,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation T.85 defines the application profile of Recommendation T.82 for facsimile.This Amendment contains the following two parts:· Part 1 - Editorial corrections to the main body of Recommendation T.85.· Part 2 - A new appendix to Recommendation T.85.
+  content: Recommendation T.85 defines the application profile of Recommendation T.82
+    for facsimile.This Amendment contains the following two parts:· Part 1 - Editorial
+    corrections to the main body of Recommendation T.85.· Part 2 - A new appendix
+    to Recommendation T.85.
 status:
   stage:
     content: Published
@@ -83,7 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application profile for Recommendation T.82 – Progressive bi-level image compression (JBIG coding scheme) for facsimile apparatus
+      content: Application profile for Recommendation T.82 – Progressive bi-level
+        image compression (JBIG coding scheme) for facsimile apparatus
     docidentifier:
     - content: T.85 (08/1995)
       type: ITU

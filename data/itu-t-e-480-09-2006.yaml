@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Service management (SM) is a new operational discipline being introduced to manage the increasing complexity associated with services built up from multiple interconnected networks delivering content from multiple sources. This Recommendation is intended to support and define the role of service management. It explains the service management principles and functions. The major part of this Recommendation provides a definition of service management and provides a framework for further analysis of the operational activities associated with service management.
+  content: Service management (SM) is a new operational discipline being introduced
+    to manage the increasing complexity associated with services built up from multiple
+    interconnected networks delivering content from multiple sources. This Recommendation
+    is intended to support and define the role of service management. It explains
+    the service management principles and functions. The major part of this Recommendation
+    provides a definition of service management and provides a framework for further
+    analysis of the operational activities associated with service management.
 status:
   stage:
     content: Published
@@ -80,7 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

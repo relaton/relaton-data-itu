@@ -55,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 3 to ITU-T Rec. X.693 | ISO/IEC 8825-4 permits the use of left and right square brackets around XER encoding instructions (followed by the target list) in the XER encoding control section of an extended XER specification (provided in Amendment 1 to ITU-T Rec. X.693/Amd. 1| ISO/IEC 8825-4). This is provided to produce the same syntax as that used in PER (Packed Encoding Rules) encoding control sections, and for increased readability. It also corrects some defects identified against ITU-T Rec. X.693 | ISO/IEC 8825-4.
+  content: Amendment 3 to ITU-T Rec. X.693 | ISO/IEC 8825-4 permits the use of left
+    and right square brackets around XER encoding instructions (followed by the target
+    list) in the XER encoding control section of an extended XER specification (provided
+    in Amendment 1 to ITU-T Rec. X.693/Amd. 1| ISO/IEC 8825-4). This is provided to
+    produce the same syntax as that used in PER (Packed Encoding Rules) encoding control
+    sections, and for increased readability. It also corrects some defects identified
+    against ITU-T Rec. X.693 | ISO/IEC 8825-4.
 status:
   stage:
     content: Withdrawal
@@ -75,7 +81,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: XML Encoding Rules (XER)'
+      content: 'Information technology - ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
     docidentifier:
     - content: X.693 (02/2021)
       type: ITU
@@ -93,7 +100,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules (XER)'
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
     docidentifier:
     - content: X.693 (08/2015)
       type: ITU
@@ -119,7 +127,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules (XER)'
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
     docidentifier:
     - content: X.693 (11/2008)
       type: ITU
@@ -149,7 +158,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules (XER)'
+      content: 'Information technology – ASN.1 encoding rules: XML Encoding Rules
+        (XER)'
     docidentifier:
     - content: X.693 (12/2001)
       type: ITU

@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T X.609.1 specifies a peer activity management protocol (PAMP) that runs on two interfaces: 1) an interface between a peer activity management server (PAMS) and a peer; 2) an interface between a PAMS and an overlay management server (OMS). A PAMP is used to deliver peer activity status information with the goal of optimization of the overlay network. Peer activity status information includes both static and dynamic status information. Recommendation ITU-T X.609.1 provides the requirements, protocol operations, and message formats used in each operation for a PAMP.'
+  content: 'Recommendation ITU-T X.609.1 specifies a peer activity management protocol
+    (PAMP) that runs on two interfaces: 1) an interface between a peer activity management
+    server (PAMS) and a peer; 2) an interface between a PAMS and an overlay management
+    server (OMS). A PAMP is used to deliver peer activity status information with
+    the goal of optimization of the overlay network. Peer activity status information
+    includes both static and dynamic status information. Recommendation ITU-T X.609.1
+    provides the requirements, protocol operations, and message formats used in each
+    operation for a PAMP.'
 status:
   stage:
     content: Published

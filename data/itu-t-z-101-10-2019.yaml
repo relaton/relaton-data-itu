@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Z.101 defines the basic features of the Specification and Description Language. Together with Recommendations ITU-T Z.100, ITU-T Z.102, ITU-T Z.103, ITU‑T Z.104, ITU-T Z.105, ITU‑T Z.106 and ITU-T Z.107, this Recommendation is part of a reference manual for the language. The language defined in this document covers the essential features of the language, which is further defined in other Recommendations in the ITU-T Z.100 series.
+  content: Recommendation ITU-T Z.101 defines the basic features of the Specification
+    and Description Language. Together with Recommendations ITU-T Z.100, ITU-T Z.102,
+    ITU-T Z.103, ITU‑T Z.104, ITU-T Z.105, ITU‑T Z.106 and ITU-T Z.107, this Recommendation
+    is part of a reference manual for the language. The language defined in this document
+    covers the essential features of the language, which is further defined in other
+    Recommendations in the ITU-T Z.100 series.
 status:
   stage:
     content: Withdrawal
@@ -102,7 +107,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

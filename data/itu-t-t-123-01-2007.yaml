@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation T.123 specifies network-specific aspects of the T.120-series data protocols for multimedia conferencing. The networks currently identified are ISDN, CSDN, PSDN, PSTN, B-ISDN, and LAN. Communication profiles are specified which provide reliable point-to-point connections between a terminal and a multipoint control unit, between pairs of terminals or between pairs of MCUs. In some cases, a lower protocol layer allows the multiplexing of audio and video signals in addition to data connections. In other cases, separate calls, over the same or a different network, may be established to carry audio or video signals.In addition, Annex B specifies a protocol that may be used to negotiate connection services beyond reliable data transfer. This protocol also provides for the use of alias address lists when making a connection. Alias lists will allow proxy services for T.120 communications to be created and used.This revised version of ITU-T Recommendation T.123 introduces a number of clarifications to the previous version.
+  content: ITU-T Recommendation T.123 specifies network-specific aspects of the T.120-series
+    data protocols for multimedia conferencing. The networks currently identified
+    are ISDN, CSDN, PSDN, PSTN, B-ISDN, and LAN. Communication profiles are specified
+    which provide reliable point-to-point connections between a terminal and a multipoint
+    control unit, between pairs of terminals or between pairs of MCUs. In some cases,
+    a lower protocol layer allows the multiplexing of audio and video signals in addition
+    to data connections. In other cases, separate calls, over the same or a different
+    network, may be established to carry audio or video signals.In addition, Annex
+    B specifies a protocol that may be used to negotiate connection services beyond
+    reliable data transfer. This protocol also provides for the use of alias address
+    lists when making a connection. Alias lists will allow proxy services for T.120
+    communications to be created and used.This revised version of ITU-T Recommendation
+    T.123 introduces a number of clarifications to the previous version.
 status:
   stage:
     content: Published

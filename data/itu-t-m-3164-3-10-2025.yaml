@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Interface for on-site generic telecommunication smart maintenance - REST-based design
+  content: Interface for on-site generic telecommunication smart maintenance - REST-based
+    design
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3164.3 specifies the design phase of the interface specification for on-site generic telecommunication smart maintenance (TSM) at the protocol-specific level. It describes the interface specification guidelines using Representational State Transfer (REST) technology and also defines the interactive control information exchanged through this TSM interface in YAML Ain't Markup Language (YAML)/JavaScript Object Notation (JSON) format.\r\n"
+  content: "Recommendation ITU-T M.3164.3 specifies the design phase of the interface
+    specification for on-site generic telecommunication smart maintenance (TSM) at
+    the protocol-specific level. It describes the interface specification guidelines
+    using Representational State Transfer (REST) technology and also defines the interactive
+    control information exchanged through this TSM interface in YAML Ain't Markup
+    Language (YAML)/JavaScript Object Notation (JSON) format.\r\n"
 status:
   stage:
     content: Published

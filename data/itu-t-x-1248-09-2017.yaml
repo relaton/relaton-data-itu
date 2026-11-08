@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1248 identifies characteristics of spam over instant messaging (SPIM) and specifies technical requirements for countering it. As instant messaging (IM) increases in popularity, the proliferation of SPIM becomes an increasingly serious problem. The characteristics of IM, such as being Internet protocol (IP)-based with widespread usage that is free of charge, potentially allows SPIM to spread widely and uncontrollably. If SPIM problems are not carefully addressed, they can have negative impacts on the utilization of the IM service itself.\r\n\r\n \r\n"
+  content: "Recommendation ITU-T X.1248 identifies characteristics of spam over instant
+    messaging (SPIM) and specifies technical requirements for countering it. As instant
+    messaging (IM) increases in popularity, the proliferation of SPIM becomes an increasingly
+    serious problem. The characteristics of IM, such as being Internet protocol (IP)-based
+    with widespread usage that is free of charge, potentially allows SPIM to spread
+    widely and uncontrollably. If SPIM problems are not carefully addressed, they
+    can have negative impacts on the utilization of the IM service itself.\r\n\r\n
+    \r\n"
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated threats
+      content: ITU-T X.1240 series – Supplement on countering spam and associated
+        threats
     docidentifier:
     - content: X Suppl. 6 (09/2009)
       type: ITU

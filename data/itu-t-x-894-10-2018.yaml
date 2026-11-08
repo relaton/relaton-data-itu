@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Generic applications of ASN.1: Cryptographic message syntax'
+  content: 'Information technology – Generic applications of ASN.1: Cryptographic
+    message syntax'
   type: main
 source:
 - type: src
@@ -55,7 +56,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.894 | ISO/IEC 24824-4 provides Abstract Syntax Notation One (ASN.1) modules for using cryptographic syntax in ITU-T Recommendations. Cryptographic message syntax (CMS) provides data integrity, confidentiality, origin authenticity, and non-repudiation services needed for reliable information exchange and for strong authentication. Recommendation ITU-T X.894 | ISO/IEC 24824-4 also brings together a set of cryptographic key management techniques to support flexible key establishment mechanisms, such as constructive key management, key agreement, key exchange, and password-based encryption. These techniques can be used to prevent fraud, and to protect personally identifiable and other sensitive information. Recommendation ITU-T X.894 | ISO/IEC 24824-4 supports digital signature, encryption, and signcryption techniques based on the public-key technology defined in the ITU-T X.500 series | ISO/IEC 9594 multipart standard. All standardized encoding rules for ASN.1 are supported. \r\n\r\nThis document integrates ITU-T X.894 (2018) and its Corrigendum 1 (2019) and Corrigendum 2 (2021) in clean text. \r\n"
+  content: "Recommendation ITU-T X.894 | ISO/IEC 24824-4 provides Abstract Syntax
+    Notation One (ASN.1) modules for using cryptographic syntax in ITU-T Recommendations.
+    Cryptographic message syntax (CMS) provides data integrity, confidentiality, origin
+    authenticity, and non-repudiation services needed for reliable information exchange
+    and for strong authentication. Recommendation ITU-T X.894 | ISO/IEC 24824-4 also
+    brings together a set of cryptographic key management techniques to support flexible
+    key establishment mechanisms, such as constructive key management, key agreement,
+    key exchange, and password-based encryption. These techniques can be used to prevent
+    fraud, and to protect personally identifiable and other sensitive information.
+    Recommendation ITU-T X.894 | ISO/IEC 24824-4 supports digital signature, encryption,
+    and signcryption techniques based on the public-key technology defined in the
+    ITU-T X.500 series | ISO/IEC 9594 multipart standard. All standardized encoding
+    rules for ASN.1 are supported. \r\n\r\nThis document integrates ITU-T X.894 (2018)
+    and its Corrigendum 1 (2019) and Corrigendum 2 (2021) in clean text. \r\n"
 status:
   stage:
     content: Published
@@ -75,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic applications of ASN.1 cryptographic message syntax Technical Corrigendum 2
+      content: Generic applications of ASN.1 cryptographic message syntax Technical
+        Corrigendum 2
     docidentifier:
     - content: X.894 (2018) Cor. 2 (02/2021)
       type: ITU

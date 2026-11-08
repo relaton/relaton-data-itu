@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a protocol supporting the management of common multi-layer visual spaces and the multipoint exchange of graphical information directed to these spaces including images (hard and soft copy), pointers and filled and unfilled parametric drawing elements (points, lines, polygons and ellipses). Support for rendering out of band video streams within T.126 workspaces is also included. In addition, keyboard and pointing device exchanges are specified to support basic user interaction. Protocol elements for creating and referencing archived visual spaces are defined to allow pre-stored or pre-distributed graphical materials to be referenced. This protocol uses services provided by Recommendations T.122 (MCS) and T.124 (GCC) and complies with the guidelines specified in Recommendation T.121 (GAT).
+  content: This Recommendation defines a protocol supporting the management of common
+    multi-layer visual spaces and the multipoint exchange of graphical information
+    directed to these spaces including images (hard and soft copy), pointers and filled
+    and unfilled parametric drawing elements (points, lines, polygons and ellipses).
+    Support for rendering out of band video streams within T.126 workspaces is also
+    included. In addition, keyboard and pointing device exchanges are specified to
+    support basic user interaction. Protocol elements for creating and referencing
+    archived visual spaces are defined to allow pre-stored or pre-distributed graphical
+    materials to be referenced. This protocol uses services provided by Recommendations
+    T.122 (MCS) and T.124 (GCC) and complies with the guidelines specified in Recommendation
+    T.121 (GAT).
 status:
   stage:
     content: Withdrawal

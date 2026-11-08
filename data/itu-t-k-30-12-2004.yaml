@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Current-limiting protective devices are used worldwide to limit currents conducted by telecommunications wiring during high voltage faults on nearby power lines, due to electric traction systems, and from low voltage mains power contacts. \r\nThis Recommendation provides performance requirements for positive temperature coefficient (PTC) thermistors and contains information on coordination and application of self-restoring overcurrent protectors. These overcurrent protectors may be used inside the equipment to enable compliance with the requirements of the resistibility ITU-T Recs K.20, K.21 and K.45. \r\nA PTC thermistor is mainly intended to limit overcurrents of relatively long duration and will normally have too slow a response time for switching transients or surges caused by lightning discharges, while semiconductor self-restoring overcurrent protectors (see Appendix II) have a faster response time than the PTC and will also operate for short duration surges.\r\n"
+  content: "Current-limiting protective devices are used worldwide to limit currents
+    conducted by telecommunications wiring during high voltage faults on nearby power
+    lines, due to electric traction systems, and from low voltage mains power contacts.
+    \r\nThis Recommendation provides performance requirements for positive temperature
+    coefficient (PTC) thermistors and contains information on coordination and application
+    of self-restoring overcurrent protectors. These overcurrent protectors may be
+    used inside the equipment to enable compliance with the requirements of the resistibility
+    ITU-T Recs K.20, K.21 and K.45. \r\nA PTC thermistor is mainly intended to limit
+    overcurrents of relatively long duration and will normally have too slow a response
+    time for switching transients or surges caused by lightning discharges, while
+    semiconductor self-restoring overcurrent protectors (see Appendix II) have a faster
+    response time than the PTC and will also operate for short duration surges.\r\n"
 status:
   stage:
     content: Withdrawal

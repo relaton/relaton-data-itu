@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T X.1528.1, Common platform enumeration naming, defines the logical structure of names for IT product classes and the procedures for binding and unbinding these names to and from machine-readable encodings. This Recommendation also defines and explains the requirements that IT products must meet to claim conformance with this Recommendation. This is achieved by listing the relevant clauses of the NIST Interagency Report 7696 Common Platform Enumeration: Name Matching Specification version 2.3 and showing whether they are normative or informative.'
+  content: 'Recommendation ITU-T X.1528.1, Common platform enumeration naming, defines
+    the logical structure of names for IT product classes and the procedures for binding
+    and unbinding these names to and from machine-readable encodings. This Recommendation
+    also defines and explains the requirements that IT products must meet to claim
+    conformance with this Recommendation. This is achieved by listing the relevant
+    clauses of the NIST Interagency Report 7696 Common Platform Enumeration: Name
+    Matching Specification version 2.3 and showing whether they are normative or informative.'
 status:
   stage:
     content: Published

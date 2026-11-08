@@ -52,7 +52,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The images in Recommendation ITU-T T.24 include the original eight \"ITU-T reference images\" (the ITU-T was formerly known as the CCITT and so these images were referred to for years as the \"CCITT images\"), two bi-level test charts, a grayscale test chart, various screened half-tone images, electronically dithered images, computer-generated images, grayscale images and colour images. The purpose of this image set is to provide a consistent baseline for future work; for example, results of compression algorithm experiments and image quality tests can be compared by a broad range of users, knowing that the input image data is identical.\r\n\r\nThe specimens reproduced inside the Recommendation in the figures are given for illustration purposes and are not suitable for measurements.\r\n\r\nThe 3rd edition to Recommendation ITU-T T.24 is the consolidated version of Recommendation ITU‑T T.24 (1998) and Corrigendum 1 (that clarifies text in Table 1 with respect to the file sizes of reference test images on a companion CD-ROM). Amendment 1 (2000) was withdrawn in 2016/02 due to the unavailability of the 1200 dpi version of the ITU-T reference images there prescribed.\r\n\r\nThis Recommendation includes an electronic attachment available from https://www.itu.int/net/itu-t/sigdb/genimage/test24.htm. \r\n"
+  content: "The images in Recommendation ITU-T T.24 include the original eight \"ITU-T
+    reference images\" (the ITU-T was formerly known as the CCITT and so these images
+    were referred to for years as the \"CCITT images\"), two bi-level test charts,
+    a grayscale test chart, various screened half-tone images, electronically dithered
+    images, computer-generated images, grayscale images and colour images. The purpose
+    of this image set is to provide a consistent baseline for future work; for example,
+    results of compression algorithm experiments and image quality tests can be compared
+    by a broad range of users, knowing that the input image data is identical.\r\n\r\nThe
+    specimens reproduced inside the Recommendation in the figures are given for illustration
+    purposes and are not suitable for measurements.\r\n\r\nThe 3rd edition to Recommendation
+    ITU-T T.24 is the consolidated version of Recommendation ITU‑T T.24 (1998) and
+    Corrigendum 1 (that clarifies text in Table 1 with respect to the file sizes of
+    reference test images on a companion CD-ROM). Amendment 1 (2000) was withdrawn
+    in 2016/02 due to the unavailability of the 1200 dpi version of the ITU-T reference
+    images there prescribed.\r\n\r\nThis Recommendation includes an electronic attachment
+    available from https://www.itu.int/net/itu-t/sigdb/genimage/test24.htm. \r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T T.627 describes the test specification for video surveillance networking. The Recommendation specifies the test objects, test classification and test tools, test environment, and test requirements that can be used for testing against ITU-T H.626 and ITU-T H.627. Recommendation ITU-T H.626 specifies the architecture of the video surveillance system, and Recommendation ITU-T H.627 specifies the signalling and protocols for a video surveillance system.
+  content: Recommendation ITU-T T.627 describes the test specification for video surveillance
+    networking. The Recommendation specifies the test objects, test classification
+    and test tools, test environment, and test requirements that can be used for testing
+    against ITU-T H.626 and ITU-T H.627. Recommendation ITU-T H.626 specifies the
+    architecture of the video surveillance system, and Recommendation ITU-T H.627
+    specifies the signalling and protocols for a video surveillance system.
 status:
   stage:
     content: Published

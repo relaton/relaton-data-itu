@@ -47,7 +47,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This corrigendum addresses corrections and clarifications in ITU-T Rec. V.76 (1996) concerning CRC calculation when using suspend/resume, N401 timer value and reuse of DLCI values.
+  content: This corrigendum addresses corrections and clarifications in ITU-T Rec.
+    V.76 (1996) concerning CRC calculation when using suspend/resume, N401 timer value
+    and reuse of DLCI values.
 status:
   stage:
     content: Published

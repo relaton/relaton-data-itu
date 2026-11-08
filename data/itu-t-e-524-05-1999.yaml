@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: To ensure accurate network design and planning in the presence of multiple streams (arising, e.g. from different services on the same network), it is imperative to determine the individual means and variances of the overflows of the different traffic streams offered to a common trunk group arrangement. The exact calculation of these parameters for the individual overflow streams is a very hard problem. Thus, this Recommendation introduces different approximate methods for the calculation of the individual overflows. These methods are evaluated in terms of accuracy, processing time, memory requirements and programming effort. This Recommendation also provides sample numerical results based on exact calculations to which the results based on these methods may be compared.
+  content: To ensure accurate network design and planning in the presence of multiple
+    streams (arising, e.g. from different services on the same network), it is imperative
+    to determine the individual means and variances of the overflows of the different
+    traffic streams offered to a common trunk group arrangement. The exact calculation
+    of these parameters for the individual overflow streams is a very hard problem.
+    Thus, this Recommendation introduces different approximate methods for the calculation
+    of the individual overflows. These methods are evaluated in terms of accuracy,
+    processing time, memory requirements and programming effort. This Recommendation
+    also provides sample numerical results based on exact calculations to which the
+    results based on these methods may be compared.
 status:
   stage:
     content: Published
@@ -92,7 +101,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

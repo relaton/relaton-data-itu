@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes a data compression algorithm for use in DCEs. It achieves a better performance than V.42 bis on many types of data. In addition to the normal stream method, the algorithm has a method which can compress data already contained in packets in an efficient way.
+  content: This Recommendation describes a data compression algorithm for use in DCEs.
+    It achieves a better performance than V.42 bis on many types of data. In addition
+    to the normal stream method, the algorithm has a method which can compress data
+    already contained in packets in an efficient way.
 status:
   stage:
     content: Published

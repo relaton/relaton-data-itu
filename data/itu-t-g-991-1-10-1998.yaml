@@ -52,7 +52,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies a High bit rate Digital Subscriber Line (HDSL) which is a bidirectional and symmetrical transmission system that allows the transport of signals with a bit rate of 1544 kbit/s or 2048 kbit/s on the copper twisted pairs of an access network. The basic work has been carried out in the ANSI T1 committee for 1544 kbit/s signals. The results of this work were taken by TM6 of ETSI and adopted for 2048 kbit/s signals in a technical specification, which built the basis for this Recommendation.The HDSL system uses echo cancellation technique for the separation of the directions of transmission, so that one twisted pair can carry both directions. Two different options for the line code are recommended, the Pulse Amplitude Modulation 2B1Q and the Carrierless Amplitude/Phase Modulation CAP. CAP is applicable for 2048 kbit/s only, while for 2B1Q two different frames for 1544 kbit/s and 2048 kbit/s are defined.The 2B1Q for 2048 kbit/s caters for both duplex transmission on a single pair and parallel transmission on two or three-pairs. This allows for the distribution of the signal to several pairs and for reduction of the symbol rate and an increase of the line length. CAP is defined for one- or two-pairs only and the 1544 kbit/s 2B1Q for two-pairs only.
+  content: This Recommendation specifies a High bit rate Digital Subscriber Line (HDSL)
+    which is a bidirectional and symmetrical transmission system that allows the transport
+    of signals with a bit rate of 1544 kbit/s or 2048 kbit/s on the copper twisted
+    pairs of an access network. The basic work has been carried out in the ANSI T1
+    committee for 1544 kbit/s signals. The results of this work were taken by TM6
+    of ETSI and adopted for 2048 kbit/s signals in a technical specification, which
+    built the basis for this Recommendation.The HDSL system uses echo cancellation
+    technique for the separation of the directions of transmission, so that one twisted
+    pair can carry both directions. Two different options for the line code are recommended,
+    the Pulse Amplitude Modulation 2B1Q and the Carrierless Amplitude/Phase Modulation
+    CAP. CAP is applicable for 2048 kbit/s only, while for 2B1Q two different frames
+    for 1544 kbit/s and 2048 kbit/s are defined.The 2B1Q for 2048 kbit/s caters for
+    both duplex transmission on a single pair and parallel transmission on two or
+    three-pairs. This allows for the distribution of the signal to several pairs and
+    for reduction of the symbol rate and an increase of the line length. CAP is defined
+    for one- or two-pairs only and the 1544 kbit/s 2B1Q for two-pairs only.
 status:
   stage:
     content: Published
@@ -72,7 +87,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Certain methods of avoiding the transmission of excessive noise between interconnected systems
+      content: Certain methods of avoiding the transmission of excessive noise between
+        interconnected systems
     docidentifier:
     - content: G Suppl. 4 (12/1972)
       type: ITU
@@ -92,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Loss-frequency response of channel-translating equipment used in some countries for international circuits
+      content: Loss-frequency response of channel-translating equipment used in some
+        countries for international circuits
     docidentifier:
     - content: G Suppl. 7 (12/1972)
       type: ITU
@@ -102,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Method proposed by the Belgian telephone administration for interconnection between coaxial and symmetric pair systems
+      content: Method proposed by the Belgian telephone administration for interconnection
+        between coaxial and symmetric pair systems
     docidentifier:
     - content: G Suppl. 8 (12/1972)
       type: ITU
@@ -122,7 +140,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Digital crosstalk measurement (method used by the Administrations of France, the Netherlands and Spain)
+      content: Digital crosstalk measurement (method used by the Administrations of
+        France, the Netherlands and Spain)
     docidentifier:
     - content: G Suppl. 19 (10/1984)
       type: ITU
@@ -142,7 +161,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Estimating the signal load margin of FDM wideband amplifier equipment and transmission systems
+      content: Estimating the signal load margin of FDM wideband amplifier equipment
+        and transmission systems
     docidentifier:
     - content: G Suppl. 26 (10/1984)
       type: ITU
@@ -162,7 +182,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems and data-over-voice (DOV) systems during the transition from an analogue to a digital network
+      content: Application of transmultiplexers, FDM codecs, data-in-voice (DIV) systems
+        and data-over-voice (DOV) systems during the transition from an analogue to
+        a digital network
     docidentifier:
     - content: G Suppl. 28 (10/1984)
       type: ITU
@@ -242,7 +264,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guide on the use of the ITU-T Recommendations related to optical fibres and systems technology
+      content: Guide on the use of the ITU-T Recommendations related to optical fibres
+        and systems technology
     docidentifier:
     - content: G Suppl. 42 (10/2018)
       type: ITU
@@ -282,7 +305,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G-PON interoperability test plan between optical line terminations and optical network units
+      content: G-PON interoperability test plan between optical line terminations
+        and optical network units
     docidentifier:
     - content: G Suppl. 46 (05/2009)
       type: ITU
@@ -302,7 +326,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: '10-Gigabit-capable passive optical networks: Interface between media access control with serializer/deserializer and physical medium dependent sublayers'
+      content: '10-Gigabit-capable passive optical networks: Interface between media
+        access control with serializer/deserializer and physical medium dependent
+        sublayers'
     docidentifier:
     - content: G Suppl. 48 (06/2010)
       type: ITU
@@ -492,7 +518,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on sub 1 Gbit/s services transport over optical transport network
+      content: Supplement on sub 1 Gbit/s services transport over optical transport
+        network
     docidentifier:
     - content: G Suppl. 70 (09/2020)
       type: ITU
@@ -502,7 +529,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optical line termination capabilities for supporting cooperative dynamic bandwidth assignment
+      content: Optical line termination capabilities for supporting cooperative dynamic
+        bandwidth assignment
     docidentifier:
     - content: G Suppl. 71 (12/2023)
       type: ITU
@@ -522,7 +550,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Influencing factors on quality of experience for multiview video (MVV) services
+      content: Influencing factors on quality of experience for multiview video (MVV)
+        services
     docidentifier:
     - content: G Suppl. 73 (10/2021)
       type: ITU
@@ -562,7 +591,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors on quality of experience (QoE) for video customized alerting tone (CAT) and video customized ringing signal (CRS) services
+      content: Supplement 77 to ITU-T G-series of Recommendations - Influencing factors
+        on quality of experience (QoE) for video customized alerting tone (CAT) and
+        video customized ringing signal (CRS) services
     docidentifier:
     - content: G Suppl. 77 (06/2022)
       type: ITU
@@ -592,7 +623,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use case and requirements of fibre-based in-premises networking for home application (FIP4H)
+      content: Use case and requirements of fibre-based in-premises networking for
+        home application (FIP4H)
     docidentifier:
     - content: G Suppl. 80 (07/2024)
       type: ITU
@@ -622,7 +654,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement on the use of options in the precision time protocol profile with full timing support from the network
+      content: Supplement on the use of options in the precision time protocol profile
+        with full timing support from the network
     docidentifier:
     - content: G Suppl. 83 (10/2025)
       type: ITU
@@ -672,7 +705,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Point to multipoint passive optical access system requirements and transmission technologies above 50 Gbit/s per wavelength
+      content: Point to multipoint passive optical access system requirements and
+        transmission technologies above 50 Gbit/s per wavelength
     docidentifier:
     - content: G Suppl. 88 (10/2025)
       type: ITU
@@ -702,7 +736,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases and requirements of fibre-in-premises for small and medium enterprise applications
+      content: Use cases and requirements of fibre-in-premises for small and medium
+        enterprise applications
     docidentifier:
     - content: G Suppl. 91 (10/2025)
       type: ITU

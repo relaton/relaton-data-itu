@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The usage of two MIME content-types "image/tiff" and "image/tiff-fx" is introduced in ITU-T Rec. T.37. Also, reference to an Implementors Guide RFC was added in Appendix III. These changes improve the interoperability between different T.37 implementations.
+  content: The usage of two MIME content-types "image/tiff" and "image/tiff-fx" is
+    introduced in ITU-T Rec. T.37. Also, reference to an Implementors Guide RFC was
+    added in Appendix III. These changes improve the interoperability between different
+    T.37 implementations.
 status:
   stage:
     content: Published
@@ -92,7 +95,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for the transfer of facsimile data via store-and-forward on the Internet
+      content: Procedures for the transfer of facsimile data via store-and-forward
+        on the Internet
     docidentifier:
     - content: T.37 (06/1998)
       type: ITU

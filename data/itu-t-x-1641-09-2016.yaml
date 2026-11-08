@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1641 provides generic security guidelines for the cloud service customer (CSC) data in cloud computing. It analyses the CSC data security lifecycle and proposes security requirements at each stage of the data lifecycle. Furthermore, the Recommendation provides guidelines on when each control should be used for best security practice.
+  content: Recommendation ITU-T X.1641 provides generic security guidelines for the
+    cloud service customer (CSC) data in cloud computing. It analyses the CSC data
+    security lifecycle and proposes security requirements at each stage of the data
+    lifecycle. Furthermore, the Recommendation provides guidelines on when each control
+    should be used for best security practice.
 status:
   stage:
     content: Published

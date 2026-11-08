@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies a homogenous access mechanism to communication services (called XAPI). The XAPI, which is an abbreviation for eXtensive Application Programming Interface, is an operating system and language-independent programming interface to general communication services.This Recommendation specifies a set of functions which allow XAPI users to have access to the services of an underlying provider. These functions apply to all providers which are specified in this Recommendation. A model of communication is introduced which defines the semantics of those XAPI functions which are communication related.Making available appropriate providers, the communication system can be tailored to specific requirements, and all communication services are accessible via one homogenous access mechanism.
+  content: This Recommendation specifies a homogenous access mechanism to communication
+    services (called XAPI). The XAPI, which is an abbreviation for eXtensive Application
+    Programming Interface, is an operating system and language-independent programming
+    interface to general communication services.This Recommendation specifies a set
+    of functions which allow XAPI users to have access to the services of an underlying
+    provider. These functions apply to all providers which are specified in this Recommendation.
+    A model of communication is introduced which defines the semantics of those XAPI
+    functions which are communication related.Making available appropriate providers,
+    the communication system can be tailored to specific requirements, and all communication
+    services are accessible via one homogenous access mechanism.
 status:
   stage:
     content: Published

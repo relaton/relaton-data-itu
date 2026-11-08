@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplementary service provides a user with the ability to arrange for a call between more than two participants with all participants accessing a conference bridge. The meet-me conference supplementary service is activated for a specified period booked in advance by the served user.In due time, each participant in the conference has to dial a special number which has been attached to the booked conference, in order to access the conference bridge.All indications are sent in-band and/or out-band.
+  content: This supplementary service provides a user with the ability to arrange
+    for a call between more than two participants with all participants accessing
+    a conference bridge. The meet-me conference supplementary service is activated
+    for a specified period booked in advance by the served user.In due time, each
+    participant in the conference has to dial a special number which has been attached
+    to the booked conference, in order to access the conference bridge.All indications
+    are sent in-band and/or out-band.
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

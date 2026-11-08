@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Application profiles for Recommendation T.88 – Lossy/lossless coding of bi-level images (JBIG2) for facsimile apparatus
+  content: Application profiles for Recommendation T.88 – Lossy/lossless coding of
+    bi-level images (JBIG2) for facsimile apparatus
   type: main
 source:
 - type: src
@@ -50,7 +51,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This T.89 Recommendation, "Application Profiles for Recommendation T.88", specifies application profiles of the JBIG2 coding scheme, defined in Recommendation T.88 | ISO/IEC 14492, for facsimile applications. The JBIG2 Recommendation specifies a collection of standard encoder/decoder components, referenced as a toolkit, that are used in generating and decoding JBIG2 conformant data streams. JBIG2 has standardized seven profiles, and encourages definition of additional application profiles to satisfy further needs of various application environments.
+  content: This T.89 Recommendation, "Application Profiles for Recommendation T.88",
+    specifies application profiles of the JBIG2 coding scheme, defined in Recommendation
+    T.88 | ISO/IEC 14492, for facsimile applications. The JBIG2 Recommendation specifies
+    a collection of standard encoder/decoder components, referenced as a toolkit,
+    that are used in generating and decoding JBIG2 conformant data streams. JBIG2
+    has standardized seven profiles, and encourages definition of additional application
+    profiles to satisfy further needs of various application environments.
 status:
   stage:
     content: Withdrawal
@@ -70,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Application profiles for Recommendation T.88 – Lossy/lossless coding of bi-level images (JBIG2) for facsimile
+      content: Application profiles for Recommendation T.88 – Lossy/lossless coding
+        of bi-level images (JBIG2) for facsimile
     docidentifier:
     - content: T.89 (09/2001)
       type: ITU

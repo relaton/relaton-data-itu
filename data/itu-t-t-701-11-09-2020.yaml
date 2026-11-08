@@ -55,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.701.11 gives guidance on how to create text alternatives (also known as \"alt-text\") and what information to put in text alternatives.\r\nThis Recommendation applies to all still images that are used in any type of electronic document. It also applies to individual images within a slide show. The alternative text guidance provided in this Recommendation is not applicable to moving images (e.g., movies).\r\nThis Recommendation is a twin text with ISO/IEC 20071-11:2019 \"Information technology – User interface component accessibility – Part 11: Guidance on text alternatives for images\", prepared by ISO/IEC JTC1 SC35 \"User interfaces\"."
+  content: "Recommendation ITU-T T.701.11 gives guidance on how to create text alternatives
+    (also known as \"alt-text\") and what information to put in text alternatives.\r\nThis
+    Recommendation applies to all still images that are used in any type of electronic
+    document. It also applies to individual images within a slide show. The alternative
+    text guidance provided in this Recommendation is not applicable to moving images
+    (e.g., movies).\r\nThis Recommendation is a twin text with ISO/IEC 20071-11:2019
+    \"Information technology – User interface component accessibility – Part 11: Guidance
+    on text alternatives for images\", prepared by ISO/IEC JTC1 SC35 \"User interfaces\"."
 status:
   stage:
     content: Published

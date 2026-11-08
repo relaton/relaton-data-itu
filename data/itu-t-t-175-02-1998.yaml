@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the Application Programming Interface (API) for the manipulation of multimedia and hypermedia information objects.MHEG part 5 (Recommendation T.172) is a standard, which specifies the coded representation of interchanged multimedia/hypermedia information objects (MHEG-5 objects) for base-level applications. These so-called MHEG-5 objects are handled, interpreted and presented by MHEG-5 engines.
+  content: This Recommendation specifies the Application Programming Interface (API)
+    for the manipulation of multimedia and hypermedia information objects.MHEG part
+    5 (Recommendation T.172) is a standard, which specifies the coded representation
+    of interchanged multimedia/hypermedia information objects (MHEG-5 objects) for
+    base-level applications. These so-called MHEG-5 objects are handled, interpreted
+    and presented by MHEG-5 engines.
 status:
   stage:
     content: Published

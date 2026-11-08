@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Arrangements for the interworking of the E.164 and X.121 numbering plans for frame relay and ATM networks
+  content: Arrangements for the interworking of the E.164 and X.121 numbering plans
+    for frame relay and ATM networks
   type: main
 source:
 - type: src
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the procedures applicable for the purpose of numbering plan interworking between ATM Networks which use the E.164 numbering plan and Public Frame Relay Data Networks which may use either the X.121 numbering plan or the E.164 numbering plan. The principles for interworking between the E.164 and X.121 numbering plans covered in this Recommendation are illustrated by various examples. The scenario (for FR/ATM service interworking) where the ATM terminal is identified by an AESA (NSAP) is also illustrated.
+  content: This Recommendation defines the procedures applicable for the purpose of
+    numbering plan interworking between ATM Networks which use the E.164 numbering
+    plan and Public Frame Relay Data Networks which may use either the X.121 numbering
+    plan or the E.164 numbering plan. The principles for interworking between the
+    E.164 and X.121 numbering plans covered in this Recommendation are illustrated
+    by various examples. The scenario (for FR/ATM service interworking) where the
+    ATM terminal is identified by an AESA (NSAP) is also illustrated.
 status:
   stage:
     content: Published

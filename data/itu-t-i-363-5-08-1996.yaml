@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The ATM Adaptation Layer (AAL) type 5 enhances the service provided by the ATM layer to support functions required by the next higher layer. This AAL performs functions required by the user, control and management planes and supports the mapping between the ATM layer and the next higher layer.The AAL type 5 supports the non-assured transfer of user data frames. The data sequence integrity is maintained and transmission errors are detected. The AAL type 5 is characterized by transmitting in every ATM cell (but the last) of a PDU 48 octets of user data, i.e., in most of the cells there is no overhead encountered.In a new Annex E, the corrupted data delivery option is specified.
+  content: The ATM Adaptation Layer (AAL) type 5 enhances the service provided by
+    the ATM layer to support functions required by the next higher layer. This AAL
+    performs functions required by the user, control and management planes and supports
+    the mapping between the ATM layer and the next higher layer.The AAL type 5 supports
+    the non-assured transfer of user data frames. The data sequence integrity is maintained
+    and transmission errors are detected. The AAL type 5 is characterized by transmitting
+    in every ATM cell (but the last) of a PDU 48 octets of user data, i.e., in most
+    of the cells there is no overhead encountered.In a new Annex E, the corrupted
+    data delivery option is specified.
 status:
   stage:
     content: Published
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

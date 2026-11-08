@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplement to the Q series of ITU-T Recommendations lists DSS1 and DSS2 message and information element identifiers. It also lists X.36 and X.76 message and information element identifiers since they use the same protocol discriminator as DSS1. Finally, this supplement records DSS2 message, information elements identifiers and information element code points reserved to the MFA Forum.
+  content: This supplement to the Q series of ITU-T Recommendations lists DSS1 and
+    DSS2 message and information element identifiers. It also lists X.36 and X.76
+    message and information element identifiers since they use the same protocol discriminator
+    as DSS1. Finally, this supplement records DSS2 message, information elements identifiers
+    and information element code points reserved to the MFA Forum.
 status:
   stage:
     content: Published

@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies ODA document communication services to be provided on top of existing base standards or profiles, giving constraints on them and rules on how to use and combine them.This Recommendation specifies basic services, like storing-and-retrieval or manipulation of documents. Complex services, such as asynchronous document production or joint document presentation, are founded on basic services, and are specified in other Recommendations. Some of these complex services are introduced in this Recommendation in order to more clearly understand the complex services that could be built on top of the basic ones.
+  content: This Recommendation specifies ODA document communication services to be
+    provided on top of existing base standards or profiles, giving constraints on
+    them and rules on how to use and combine them.This Recommendation specifies basic
+    services, like storing-and-retrieval or manipulation of documents. Complex services,
+    such as asynchronous document production or joint document presentation, are founded
+    on basic services, and are specified in other Recommendations. Some of these complex
+    services are introduced in this Recommendation in order to more clearly understand
+    the complex services that could be built on top of the basic ones.
 status:
   stage:
     content: Published

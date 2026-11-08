@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Interworking between ITU-T T.38 and ITU-T V.152 using IP peering for real-time facsimile services
+  content: Interworking between ITU-T T.38 and ITU-T V.152 using IP peering for real-time
+    facsimile services
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T V.153 defines service interworking between two IP domains, whereby one IP domain is using voiceband data over IP (VBDoIP) transport according to Recommendation ITU-T V.152 and the other IP domain is using facsimile relay over IP (FoIP) transport according to Recommendation ITU-T T.38. Two modes of operation are specified for the T.38-to-V.152 interworking function: native versus emulated interworking.The T.38-to-V.152 interworking technology is subject of the user plane and typically located in IP-to-IP gateway equipment, like border routers or border gateways.'
+  content: 'Recommendation ITU-T V.153 defines service interworking between two IP
+    domains, whereby one IP domain is using voiceband data over IP (VBDoIP) transport
+    according to Recommendation ITU-T V.152 and the other IP domain is using facsimile
+    relay over IP (FoIP) transport according to Recommendation ITU-T T.38. Two modes
+    of operation are specified for the T.38-to-V.152 interworking function: native
+    versus emulated interworking.The T.38-to-V.152 interworking technology is subject
+    of the user plane and typically located in IP-to-IP gateway equipment, like border
+    routers or border gateways.'
 status:
   stage:
     content: Published

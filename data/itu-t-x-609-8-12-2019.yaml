@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.609.8 describes the management protocol for live data sources in managed peer-to-peer (MP2P) communications, which is an overlay protocol that runs in the application layer to manage a live data from multiple data sources. The examples of live data generated from a data source include a live sensor data and, a live closed-circuit television (CCTV) stream, and they can be applicable to disaster recovery, autonomous vehicles, etc. This Recommendation also specifies the identification, functions and the procedures of the data sources involved.\r\n"
+  content: "Recommendation ITU-T X.609.8 describes the management protocol for live
+    data sources in managed peer-to-peer (MP2P) communications, which is an overlay
+    protocol that runs in the application layer to manage a live data from multiple
+    data sources. The examples of live data generated from a data source include a
+    live sensor data and, a live closed-circuit television (CCTV) stream, and they
+    can be applicable to disaster recovery, autonomous vehicles, etc. This Recommendation
+    also specifies the identification, functions and the procedures of the data sources
+    involved.\r\n"
 status:
   stage:
     content: Published

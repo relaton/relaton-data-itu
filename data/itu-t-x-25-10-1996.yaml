@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating Equipment (DCE) for terminals operating in the packet mode and connected to public data networks by dedicated circuit
+  content: Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating
+    Equipment (DCE) for terminals operating in the packet mode and connected to public
+    data networks by dedicated circuit
   type: main
 source:
 - type: src
@@ -52,7 +54,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation specifies the protocol to be used between a Data Terminal Equipment (DTE) and a Packet Switched Public Data Network (PSPDN), when the access is made by a dedicated circuit. In reference to the OSI model, three layers are described: the physical layer, the data link layer and the packet layer. The service offered is compliant with the OSI network service and permits the transmission of data without loss nor duplication. The access speeds and the throughputs may go up to 2 Mbit/s.'
+  content: 'This Recommendation specifies the protocol to be used between a Data Terminal
+    Equipment (DTE) and a Packet Switched Public Data Network (PSPDN), when the access
+    is made by a dedicated circuit. In reference to the OSI model, three layers are
+    described: the physical layer, the data link layer and the packet layer. The service
+    offered is compliant with the OSI network service and permits the transmission
+    of data without loss nor duplication. The access speeds and the throughputs may
+    go up to 2 Mbit/s.'
 status:
   stage:
     content: Published
@@ -80,7 +88,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating Equipment (DCE) for terminals operating in the packet mode and connected to public data networks by dedicated circuit
+      content: Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating
+        Equipment (DCE) for terminals operating in the packet mode and connected to
+        public data networks by dedicated circuit
     docidentifier:
     - content: X.25 (03/1993)
       type: ITU
@@ -98,7 +108,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interface between data terminal equipment (DTE) and data circuit-terminating equipment (DCE) for terminals operating in the packet mode and connected to public data networks by dedicated circuit
+      content: Interface between data terminal equipment (DTE) and data circuit-terminating
+        equipment (DCE) for terminals operating in the packet mode and connected to
+        public data networks by dedicated circuit
     docidentifier:
     - content: X.25 (11/1988)
       type: ITU
@@ -108,7 +120,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interface between data terminal equipment (DTE) and data circuit-terminating equipment (DCE) for terminals operating in the packet mode and connected to public data networks by dedicated circuit
+      content: Interface between data terminal equipment (DTE) and data circuit-terminating
+        equipment (DCE) for terminals operating in the packet mode and connected to
+        public data networks by dedicated circuit
     docidentifier:
     - content: X.25 (10/1984)
       type: ITU
@@ -118,7 +132,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interface between data terminal equipment (DTE) and data circuit-terminating equipment (DCE) for terminals operating in the packet mode on public data networks..
+      content: Interface between data terminal equipment (DTE) and data circuit-terminating
+        equipment (DCE) for terminals operating in the packet mode on public data
+        networks..
     docidentifier:
     - content: X.25 (11/1980)
       type: ITU
@@ -128,7 +144,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interface between data terminal equipment (DTE) and data circuit-terminating equipment (DCE) for terminals operating in the packet mode on public data networks..
+      content: Interface between data terminal equipment (DTE) and data circuit-terminating
+        equipment (DCE) for terminals operating in the packet mode on public data
+        networks..
     docidentifier:
     - content: X.25 (10/1977)
       type: ITU
@@ -138,7 +156,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interface between data terminal equipment (DTE) and data circuit-terminating equipment (DCE) for terminals operating in the packet mode on public data networks
+      content: Interface between data terminal equipment (DTE) and data circuit-terminating
+        equipment (DCE) for terminals operating in the packet mode on public data
+        networks
     docidentifier:
     - content: X.25 (10/1976)
       type: ITU

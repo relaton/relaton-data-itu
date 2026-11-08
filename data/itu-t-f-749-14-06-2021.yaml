@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Civilian unmanned aerial vehicle (CUAV) coordination refers to utilizing the coordination of multiple CUAVs to accomplish specific tasks through network communication. To enable CUAVs to cooperate well and accomplish tasks successfully, three important parts need to be fulfilled. First, a stable and reliable network connection is required to be established among CUAVs to ensure that every CUAV can connect to the others; second, efficient and reliable data transmission among CUAVs is required so as to ensure that the perception information, control information, coordination information and other required information is exchanged among CUAVs; finally, a CUAV collaborative task execution strategy is required to be reasonably worked out during the coordination process in order to improve the efficiency and quality of collaborative task execution. Recommendation ITU-T F.749.14 specifies the requirements of CUAV coordination, including the requirements of network connection among CUAVs, the requirements of data transmission among CUAVs, and the requirements of CUAV collaborative task execution.
+  content: Civilian unmanned aerial vehicle (CUAV) coordination refers to utilizing
+    the coordination of multiple CUAVs to accomplish specific tasks through network
+    communication. To enable CUAVs to cooperate well and accomplish tasks successfully,
+    three important parts need to be fulfilled. First, a stable and reliable network
+    connection is required to be established among CUAVs to ensure that every CUAV
+    can connect to the others; second, efficient and reliable data transmission among
+    CUAVs is required so as to ensure that the perception information, control information,
+    coordination information and other required information is exchanged among CUAVs;
+    finally, a CUAV collaborative task execution strategy is required to be reasonably
+    worked out during the coordination process in order to improve the efficiency
+    and quality of collaborative task execution. Recommendation ITU-T F.749.14 specifies
+    the requirements of CUAV coordination, including the requirements of network connection
+    among CUAVs, the requirements of data transmission among CUAVs, and the requirements
+    of CUAV collaborative task execution.
 status:
   stage:
     content: Published
@@ -72,7 +85,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +126,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +137,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

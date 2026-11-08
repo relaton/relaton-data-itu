@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The level and duration of the local area network (LAN) lightning surges depends on the lightning current waveform and the coupling mechanism. In Supplement 23 to ITU-T K-series Recommendations, Ethernet port voltages and currents due to magnetic and direct surge coupling are studied. Port currents due to insulation capacitance, the Smith termination, and insulation voltage limiting, are quantified and discussed and a simple model for these current paths is derived.
+  content: The level and duration of the local area network (LAN) lightning surges
+    depends on the lightning current waveform and the coupling mechanism. In Supplement
+    23 to ITU-T K-series Recommendations, Ethernet port voltages and currents due
+    to magnetic and direct surge coupling are studied. Port currents due to insulation
+    capacitance, the Smith termination, and insulation voltage limiting, are quantified
+    and discussed and a simple model for these current paths is derived.
 status:
   stage:
     content: Published

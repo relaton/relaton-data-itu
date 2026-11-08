@@ -52,7 +52,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "There is considerable industry interest in conducting tests that capture latency of the user's path while inuse. The traffic load level associated with \"while in-use\" is widely proportional to the additional latency measured with respect to the minimum latency, and latency increases rapidly near the maximum load level. A user using application traffic will experience latency within measurable bounds: the lower limit of the minimum latency and the upper limit of latency at maximum capacity.\r\nAlthough many measurement applications available at the time of writing assess different metrics of latency, they mostly employ the TCP protocol. Therefore, user datagram protocol (UDP) based latency under load/responsiveness is a clear gap. This gap is significant, because:\r\n1.User applications/traffic with strict response time requirements will use UDP.\r\n2.The percentage of UDP traffic is significant and continues to grow in proportion to TCP traffic.\r\nRecommendation ITU-T Y.1567 specifies metrics of latency under simultaneous traffic load and defines methods of measurement to increase the specificity and repeatability of metric assessment.\r\n"
+  content: "There is considerable industry interest in conducting tests that capture
+    latency of the user's path while inuse. The traffic load level associated with
+    \"while in-use\" is widely proportional to the additional latency measured with
+    respect to the minimum latency, and latency increases rapidly near the maximum
+    load level. A user using application traffic will experience latency within measurable
+    bounds: the lower limit of the minimum latency and the upper limit of latency
+    at maximum capacity.\r\nAlthough many measurement applications available at the
+    time of writing assess different metrics of latency, they mostly employ the TCP
+    protocol. Therefore, user datagram protocol (UDP) based latency under load/responsiveness
+    is a clear gap. This gap is significant, because:\r\n1.User applications/traffic
+    with strict response time requirements will use UDP.\r\n2.The percentage of UDP
+    traffic is significant and continues to grow in proportion to TCP traffic.\r\nRecommendation
+    ITU-T Y.1567 specifies metrics of latency under simultaneous traffic load and
+    defines methods of measurement to increase the specificity and repeatability of
+    metric assessment.\r\n"
 status:
   stage:
     content: Published
@@ -82,7 +96,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond standardization roadmap
+      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+        standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
       type: ITU
@@ -102,7 +117,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems and services"
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -112,7 +128,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -122,7 +139,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

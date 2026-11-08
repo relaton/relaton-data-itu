@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1403 – Supplement on rationale and initial approach of a decentralized identity system (DIS) based on verifiable data
+  content: ITU-T X.1403 – Supplement on rationale and initial approach of a decentralized
+    identity system (DIS) based on verifiable data
   type: main
 source:
 - type: src
@@ -52,7 +53,23 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 45 to ITU-T X-series Recommendations provides concept, components, practical use cases, and implementation considerations of a decentralized identity system (DIS). It also addresses usability aspects and identifies potential applications areas of the DIS. \r\nIn our everyday physical interactions, identity assurance is established through various identification systems and legal frameworks that secure and protect both parties in any transaction or service. Unfortunately, the digital world lacks an equivalent mechanism for introducing such identity assurance, leaving a void that has become increasingly apparent in our interconnected global environment.\r\nA DIS aims to bridge this gap by introducing the identity assurance of the physical world (e.g., governmental entities) into the digital space. By leveraging secure cryptographic systems and prior lessons (technical and operational) to design a robust digital identity framework that ensures identity assurance across stakeholders, the DIS is a digital identity framework that can serve as a layer of identity assurance.\r\nThe Supplement focuses on technical aspects of DIS, including use of blockchain technology or other distributed repository, cryptography, and self-sovereign identity principles, as well as the application of verifiable credentials.\r\n"
+  content: "Supplement 45 to ITU-T X-series Recommendations provides concept, components,
+    practical use cases, and implementation considerations of a decentralized identity
+    system (DIS). It also addresses usability aspects and identifies potential applications
+    areas of the DIS. \r\nIn our everyday physical interactions, identity assurance
+    is established through various identification systems and legal frameworks that
+    secure and protect both parties in any transaction or service. Unfortunately,
+    the digital world lacks an equivalent mechanism for introducing such identity
+    assurance, leaving a void that has become increasingly apparent in our interconnected
+    global environment.\r\nA DIS aims to bridge this gap by introducing the identity
+    assurance of the physical world (e.g., governmental entities) into the digital
+    space. By leveraging secure cryptographic systems and prior lessons (technical
+    and operational) to design a robust digital identity framework that ensures identity
+    assurance across stakeholders, the DIS is a digital identity framework that can
+    serve as a layer of identity assurance.\r\nThe Supplement focuses on technical
+    aspects of DIS, including use of blockchain technology or other distributed repository,
+    cryptography, and self-sovereign identity principles, as well as the application
+    of verifiable credentials.\r\n"
 status:
   stage:
     content: Published

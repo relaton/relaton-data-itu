@@ -52,7 +52,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation gives guidelines of general arrangements and specifies requirements for B-ISDN interworking with other networks. Detailed description of B-ISDN interworking with dedicated network is given in the I.500-Series Recommendations.
+  content: This Recommendation gives guidelines of general arrangements and specifies
+    requirements for B-ISDN interworking with other networks. Detailed description
+    of B-ISDN interworking with dedicated network is given in the I.500-Series Recommendations.
 status:
   stage:
     content: Published
@@ -72,7 +74,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

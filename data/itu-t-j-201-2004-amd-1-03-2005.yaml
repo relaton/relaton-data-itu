@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Rec. J.201 refers to ARIB STD-B24 V3.2 as one of the normative references. The latest version of STD-B24, V4.0, is recently available and reference to this version provides more commonality for ITU-T Rec. J.201.This text is a revision to ITU-T Rec. J.201 that intends:1) to add more media type to the Common Core by replacing normative reference of ARIB STD-B24 to its latest edition, V4.0;2) to add additional BML media types defined in Annex 2 in accordance with the new reference.
+  content: ITU-T Rec. J.201 refers to ARIB STD-B24 V3.2 as one of the normative references.
+    The latest version of STD-B24, V4.0, is recently available and reference to this
+    version provides more commonality for ITU-T Rec. J.201.This text is a revision
+    to ITU-T Rec. J.201 that intends:1) to add more media type to the Common Core
+    by replacing normative reference of ARIB STD-B24 to its latest edition, V4.0;2)
+    to add additional BML media types defined in Annex 2 in accordance with the new
+    reference.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Harmonization of declarative content format for interactive television applications
+      content: Harmonization of declarative content format for interactive television
+        applications
     docidentifier:
     - content: J.201 (10/2014)
       type: ITU
@@ -82,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Harmonization of declarative content format for interactive television applications
+      content: Harmonization of declarative content format for interactive television
+        applications
     docidentifier:
     - content: J.201 (12/2009)
       type: ITU
@@ -92,7 +100,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Harmonization of declarative content format for interactive television applications
+      content: Harmonization of declarative content format for interactive television
+        applications
     docidentifier:
     - content: J.201 (10/2008)
       type: ITU
@@ -102,7 +111,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Harmonization of declarative content format for interactive television applications
+      content: Harmonization of declarative content format for interactive television
+        applications
     docidentifier:
     - content: J.201 (07/2004)
       type: ITU
@@ -112,7 +122,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation
+        J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -122,7 +133,10 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112,
+        "Transmission systems for interactive cable television services" – Example
+        of digital video broadcasting (DVB) interaction channel for cable television
+        distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -132,7 +146,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network
+        independent protocols" – Example of digital video broadcasting (DVB) systems
+        for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -152,7 +168,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions
+        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -162,7 +179,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
+        Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -172,7 +190,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
+        Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -182,7 +201,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System
+        validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -192,7 +212,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
+        Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -202,7 +223,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks
+        based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -212,7 +234,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the
+        converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

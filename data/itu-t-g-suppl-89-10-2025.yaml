@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 89 to ITU-T G-series Recommendations describes a coordinated management system that covers both passive optical network (PON) and fibre in premises (FIP) networks. The architecture of PON and FIP management systems include TR-181 based management, FIP network managed with user services platform (USP)/CWMP, and optical network unit (ONU) management and control interface / fibre management and control interface (OMCI/FMCI) are demonstrated. This Supplement proposes several typical use cases of coordinated management between PON and FIP networks, such as performance and fault management, FIP equipment authentication control, FIP topology visualization and Wi-Fi coordination among multiple FIP networks. Possible solutions to realize coordinated management including the extension of OMCI together with the processing of eOMCI message are also described.\r\n"
+  content: "Supplement 89 to ITU-T G-series Recommendations describes a coordinated
+    management system that covers both passive optical network (PON) and fibre in
+    premises (FIP) networks. The architecture of PON and FIP management systems include
+    TR-181 based management, FIP network managed with user services platform (USP)/CWMP,
+    and optical network unit (ONU) management and control interface / fibre management
+    and control interface (OMCI/FMCI) are demonstrated. This Supplement proposes several
+    typical use cases of coordinated management between PON and FIP networks, such
+    as performance and fault management, FIP equipment authentication control, FIP
+    topology visualization and Wi-Fi coordination among multiple FIP networks. Possible
+    solutions to realize coordinated management including the extension of OMCI together
+    with the processing of eOMCI message are also described.\r\n"
 status:
   stage:
     content: Published

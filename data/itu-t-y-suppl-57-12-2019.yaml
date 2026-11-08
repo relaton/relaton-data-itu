@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 57 to ITU-T Y-series Recommendations provides implementation guidelines to Recommendation ITU-T Y.4409.\r\n\r\nThis Supplement describes implementation based on the functional architecture for the home energy management system (HEMS) and home network services specified in Recommendation ITU-T Y.4409 with regards to the information models for the devices connected to the home network, the communications protocols and the management for the home network. This Supplement also describes implementation of connecting devices with corresponding information models.\r\n"
+  content: "Supplement 57 to ITU-T Y-series Recommendations provides implementation
+    guidelines to Recommendation ITU-T Y.4409.\r\n\r\nThis Supplement describes implementation
+    based on the functional architecture for the home energy management system (HEMS)
+    and home network services specified in Recommendation ITU-T Y.4409 with regards
+    to the information models for the devices connected to the home network, the communications
+    protocols and the management for the home network. This Supplement also describes
+    implementation of connecting devices with corresponding information models.\r\n"
 status:
   stage:
     content: Published

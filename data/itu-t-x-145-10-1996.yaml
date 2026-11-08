@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines those performance parameters needed to describe the performance of a frame relay Switched Virtual Connection (SVC) service. Only those parameters that are needed in addition to the frame relay PVC parameters of Recommendation X.144 are defined. These include call control delay and accuracy and dependability parameters as well as an expanded service availability definition.
+  content: This Recommendation defines those performance parameters needed to describe
+    the performance of a frame relay Switched Virtual Connection (SVC) service. Only
+    those parameters that are needed in addition to the frame relay PVC parameters
+    of Recommendation X.144 are defined. These include call control delay and accuracy
+    and dependability parameters as well as an expanded service availability definition.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +76,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Connection establishment and disengagement performance parameters for public Frame Relay data networks providing SVC services
+      content: Connection establishment and disengagement performance parameters for
+        public Frame Relay data networks providing SVC services
     docidentifier:
     - content: X.145 (10/2003)
       type: ITU

@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Unknown malware is commonly used in advanced attacks, in particular advanced persistent threats (APTs), to avoid being detected. For example, a targeted attack using phishing email weaponized with unknown malwares can easily achieve a successful initial compromise. Thus, for detection of advanced attacks, special attention and defence measurements should be taken to detect unknown malwares. Recommendation ITUT-T X.1218 analyses threats related to unknown malwares and specifies requirements of unknown malware detection based on dynamic behaviour analysis. \r\n"
+  content: "Unknown malware is commonly used in advanced attacks, in particular advanced
+    persistent threats (APTs), to avoid being detected. For example, a targeted attack
+    using phishing email weaponized with unknown malwares can easily achieve a successful
+    initial compromise. Thus, for detection of advanced attacks, special attention
+    and defence measurements should be taken to detect unknown malwares. Recommendation
+    ITUT-T X.1218 analyses threats related to unknown malwares and specifies requirements
+    of unknown malware detection based on dynamic behaviour analysis. \r\n"
 status:
   stage:
     content: Published

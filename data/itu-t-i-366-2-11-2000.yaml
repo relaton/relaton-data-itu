@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a Service Specific Convergence Sublayer that operates above the Common Part Sublayer of an AAL type 2 connection. The purpose of the SSCS is to convey narrow-band channels consisting of voice, voiceband data, or circuit mode data.The SSCS specifies packet formats and procedures to encode the different information streams for bandwidth-efficient transport by AAL type 2. It accommodates known techniques of low rate audio encoding, silence compression, and facsimile demodulation/remodulation. It makes provision for in-band signalling of narrow-band calls and for control of the SSCS operating state.The SSCS anticipates that multiplexing in the Common Part Sublayer will be used to carry multiple narrow-band channels over individual ATM connections. Additional details needed to configure and manage trunk groups or access configurations, however, are beyond the scope of this Recommendation. The focus is on normative aspects of SSCS coding and behaviour within a single AAL type 2 connection.
+  content: This Recommendation defines a Service Specific Convergence Sublayer that
+    operates above the Common Part Sublayer of an AAL type 2 connection. The purpose
+    of the SSCS is to convey narrow-band channels consisting of voice, voiceband data,
+    or circuit mode data.The SSCS specifies packet formats and procedures to encode
+    the different information streams for bandwidth-efficient transport by AAL type
+    2. It accommodates known techniques of low rate audio encoding, silence compression,
+    and facsimile demodulation/remodulation. It makes provision for in-band signalling
+    of narrow-band calls and for control of the SSCS operating state.The SSCS anticipates
+    that multiplexing in the Common Part Sublayer will be used to carry multiple narrow-band
+    channels over individual ATM connections. Additional details needed to configure
+    and manage trunk groups or access configurations, however, are beyond the scope
+    of this Recommendation. The focus is on normative aspects of SSCS coding and behaviour
+    within a single AAL type 2 connection.
 status:
   stage:
     content: Published
@@ -90,7 +102,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recs M.3050.x series contains a reference framework for categorizing the business activities that a service provider will use. The Enhanced Telecom Operations Map(r) (or eTOM for short), which has been developed by the TeleManagement Forum, describes the enterprise processes required by a service provider and analyses them to different levels of detail according to their significance and priority for the business. This business process approach has built on the concepts of Management Services and Functions in order to develop a framework for categorizing all the business activities. This Recommendation contains representative process flows.
+  content: ITU-T Recs M.3050.x series contains a reference framework for categorizing
+    the business activities that a service provider will use. The Enhanced Telecom
+    Operations Map(r) (or eTOM for short), which has been developed by the TeleManagement
+    Forum, describes the enterprise processes required by a service provider and analyses
+    them to different levels of detail according to their significance and priority
+    for the business. This business process approach has built on the concepts of
+    Management Services and Functions in order to develop a framework for categorizing
+    all the business activities. This Recommendation contains representative process
+    flows.
 status:
   stage:
     content: Withdrawal

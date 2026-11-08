@@ -55,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation X.223 shows how to map the X.25 packet layer protocol to the network service defined in Recommendation X.213. This amendment provides enhanced processing requirements for transit delay while also editorially revising the text to bring it up to date.
+  content: Recommendation X.223 shows how to map the X.25 packet layer protocol to
+    the network service defined in Recommendation X.213. This amendment provides enhanced
+    processing requirements for transit delay while also editorially revising the
+    text to bring it up to date.
 status:
   stage:
     content: Published
@@ -75,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use of X.25 to provide the OSI connection-mode Network service for ITU-T applications
+      content: Use of X.25 to provide the OSI connection-mode Network service for
+        ITU-T applications
     docidentifier:
     - content: X.223 (11/1993)
       type: ITU
@@ -85,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use of X.25 to provide the OSI connection-mode network service for CCITT applications
+      content: Use of X.25 to provide the OSI connection-mode network service for
+        CCITT applications
     docidentifier:
     - content: X.223 (11/1988)
       type: ITU

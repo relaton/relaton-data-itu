@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T D.271 sets out the general principles and conditions applicable by administrations for the capability to transport IP packets over IP-based networks between standards-based interfaces and the services that they support.
+  content: Recommendation ITU-T D.271 sets out the general principles and conditions
+    applicable by administrations for the capability to transport IP packets over
+    IP-based networks between standards-based interfaces and the services that they
+    support.
 status:
   stage:
     content: Published
@@ -102,7 +105,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing national tariffs
+      content: Handbook on the methodology for determining costs and establishing
+        national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

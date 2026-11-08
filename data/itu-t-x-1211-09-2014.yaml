@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1211 describes techniques that can mitigate web-based attacks which occur when the vulnerabilities of the website hosts are exploited and malicious code is introduced that can infect a user's computer. Several appendices illustrate how the attacks can occur as well as remediation steps.
+  content: Recommendation ITU-T X.1211 describes techniques that can mitigate web-based
+    attacks which occur when the vulnerabilities of the website hosts are exploited
+    and malicious code is introduced that can infect a user's computer. Several appendices
+    illustrate how the attacks can occur as well as remediation steps.
 status:
   stage:
     content: Published

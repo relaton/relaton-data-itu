@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation I.210 describes the principles for defining telecommunication services supported by an ISDN including the concept of bearer services, teleservices and supplementary services. It also provides the means for the definition and description of such services. A recommended set of bearer service categories is defined in Recommendation I.230.The purpose of this Recommendation is to describe a recommended set of frame mode bearer services (FMBS), to describe individual frame mode bearer services and to recommend their provision in an ISDN.Bearer services are described by prose definitions and descriptions, by attributes and their values and by dynamic descriptions following the description method given in Recommendation I.130. The application of the attribute technique and the definition of those attributes and attribute values is given in Recommendation I.140.The following set of frame mode bearer services is currently identified: I.233.1ISDN frame relay in bearer service I.233.2ISDN frame switching bearer service'
+  content: 'Recommendation I.210 describes the principles for defining telecommunication
+    services supported by an ISDN including the concept of bearer services, teleservices
+    and supplementary services. It also provides the means for the definition and
+    description of such services. A recommended set of bearer service categories is
+    defined in Recommendation I.230.The purpose of this Recommendation is to describe
+    a recommended set of frame mode bearer services (FMBS), to describe individual
+    frame mode bearer services and to recommend their provision in an ISDN.Bearer
+    services are described by prose definitions and descriptions, by attributes and
+    their values and by dynamic descriptions following the description method given
+    in Recommendation I.130. The application of the attribute technique and the definition
+    of those attributes and attribute values is given in Recommendation I.140.The
+    following set of frame mode bearer services is currently identified: I.233.1ISDN
+    frame relay in bearer service I.233.2ISDN frame switching bearer service'
 status:
   stage:
     content: Published
@@ -82,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

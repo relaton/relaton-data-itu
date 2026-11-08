@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.743.4 gives overview and requirements for a virtual content delivery network (VCDN). Appendix I has two use cases to show how to apply VCDN scenario. \r\n\r\nCompared with the traditional content delivery network (CDN) service provisioning defined in [ITU-T Y.1901] and [ITU-T Y.2019], VCDN is a new paradigm using cloud computing, network virtualisation and SDN (software defined networking) technology for content delivery for various multimedia services, for providing infrastructure of CDN according to vendors' needs. \r\n\r\nThis Recommendation specifies the requirements for VCDN, including requirements on service provision, physical resource management, virtual resource management, VCDN logically isolated network partition (LINP) management, service management, backbone network, and security consideration.\r\n"
+  content: "Recommendation ITU-T F.743.4 gives overview and requirements for a virtual
+    content delivery network (VCDN). Appendix I has two use cases to show how to apply
+    VCDN scenario. \r\n\r\nCompared with the traditional content delivery network
+    (CDN) service provisioning defined in [ITU-T Y.1901] and [ITU-T Y.2019], VCDN
+    is a new paradigm using cloud computing, network virtualisation and SDN (software
+    defined networking) technology for content delivery for various multimedia services,
+    for providing infrastructure of CDN according to vendors' needs. \r\n\r\nThis
+    Recommendation specifies the requirements for VCDN, including requirements on
+    service provision, physical resource management, virtual resource management,
+    VCDN logically isolated network partition (LINP) management, service management,
+    backbone network, and security consideration.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +123,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +134,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

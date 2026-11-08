@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation has been updated to include new capabilities and functionalities included in the IN CS-2 series (Q.122x) of Recommendations. It provides a general architecture of the IN service plane in a way that specific functionalities and their interactions can be identified and described in other Recommendations which make reference to the service plane. The service plane illustrates that IN-supported services can be described to the end user or subscriber by means of a set of generic building blocks called "service features". This Recommendation describes this process of supporting services in an IN-structured network and the service plane's relationship to the other planes in the IN Conceptual Model.
+  content: This Recommendation has been updated to include new capabilities and functionalities
+    included in the IN CS-2 series (Q.122x) of Recommendations. It provides a general
+    architecture of the IN service plane in a way that specific functionalities and
+    their interactions can be identified and described in other Recommendations which
+    make reference to the service plane. The service plane illustrates that IN-supported
+    services can be described to the end user or subscriber by means of a set of generic
+    building blocks called "service features". This Recommendation describes this
+    process of supporting services in an IN-structured network and the service plane's
+    relationship to the other planes in the IN Conceptual Model.
 status:
   stage:
     content: Published
@@ -82,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

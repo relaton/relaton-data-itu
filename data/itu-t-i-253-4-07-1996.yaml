@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Completion of Calls on No Reply (CCNR) is an ISDN supplementary service offered to the calling user. The CCNR supplementary service enables the calling user A, upon encountering destination B, which does not answer the call (no reply), to be notified when destination B becomes free after having terminated an activity. If user A desires, then the network will reinitiate the call to the specified destination B.
+  content: Completion of Calls on No Reply (CCNR) is an ISDN supplementary service
+    offered to the calling user. The CCNR supplementary service enables the calling
+    user A, upon encountering destination B, which does not answer the call (no reply),
+    to be notified when destination B becomes free after having terminated an activity.
+    If user A desires, then the network will reinitiate the call to the specified
+    destination B.
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

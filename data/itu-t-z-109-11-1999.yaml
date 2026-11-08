@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'ObjectiveThis Recommendation defines the specialized subset of UML that maps directly to SDL and that can be used in combination with SDL.CoverageThis Recommendation presents a definition of the UML-to-SDL mapping for use in the combination of SDL and UML.ApplicationThe main area of application of this Recommendation is the specification of telecommunication systems. The combined use of SDL and UML permits a coherent way to specify the structure and behaviour of telecommunication systems, together with data.Status/stabilityThis Recommendation is the complete reference manual describing the UML to SDL mapping for use in the combination of SDL and UML.Associated workRecommendation Z.100: SDL.'
+  content: 'ObjectiveThis Recommendation defines the specialized subset of UML that
+    maps directly to SDL and that can be used in combination with SDL.CoverageThis
+    Recommendation presents a definition of the UML-to-SDL mapping for use in the
+    combination of SDL and UML.ApplicationThe main area of application of this Recommendation
+    is the specification of telecommunication systems. The combined use of SDL and
+    UML permits a coherent way to specify the structure and behaviour of telecommunication
+    systems, together with data.Status/stabilityThis Recommendation is the complete
+    reference manual describing the UML to SDL mapping for use in the combination
+    of SDL and UML.Associated workRecommendation Z.100: SDL.'
 status:
   stage:
     content: Withdrawal
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - Unified modeling language profile for SDL-2010
+      content: Specification and Description Language - Unified modeling language
+        profile for SDL-2010
     docidentifier:
     - content: Z.109 (10/2016)
       type: ITU
@@ -82,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - Unified modeling language profile for SDL-2010
+      content: Specification and Description Language - Unified modeling language
+        profile for SDL-2010
     docidentifier:
     - content: Z.109 (10/2013)
       type: ITU
@@ -102,7 +112,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - Unified modeling language profile for SDL-2010
+      content: Specification and Description Language - Unified modeling language
+        profile for SDL-2010
     docidentifier:
     - content: Z.109 (04/2012)
       type: ITU
@@ -122,7 +133,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

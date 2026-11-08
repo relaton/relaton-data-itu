@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1541 describes the information model for the incident object description exchange format (IODEF) version 2 and provides an associated data model specified with XML schema. The IODEF specifies a data model representation for sharing commonly exchanged information about computer security or other incident types. This is achieved by listing the relevant clauses of IETF RFC 7970 and showing whether they are normative or informative.
+  content: Recommendation ITU-T X.1541 describes the information model for the incident
+    object description exchange format (IODEF) version 2 and provides an associated
+    data model specified with XML schema. The IODEF specifies a data model representation
+    for sharing commonly exchanged information about computer security or other incident
+    types. This is achieved by listing the relevant clauses of IETF RFC 7970 and showing
+    whether they are normative or informative.
 status:
   stage:
     content: Published

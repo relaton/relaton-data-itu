@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements and framework for computer vision-based anomaly detection service in wind farms
+  content: Requirements and framework for computer vision-based anomaly detection
+    service in wind farms
   type: main
 source:
 - type: src
@@ -52,7 +53,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Traditional video surveillance systems are usually employed to discover anomalies by physical observation of videos and cannot meet the requirements for automatic anomaly detection in wind farms. With the development of machine learning algorithms, computer vision can achieve automatic intelligent processing such as image enhancement, image restoration, feature extraction, object detection, object recognition, object tracking, pose estimation, motion estimation, event detection and anomaly detection. Therefore, an intelligent system based on computer vision can be deployed on a wind farm for automatic anomaly detection.\r\nThe computer vision-based anomaly detection service can be an effective way to automatically detect general anomalies such as vessel trespass, small flames and abnormal presences in the wind farm. It can address the limitations of manually detecting general anomalies through video observation, thereby preventing anomalies from being overlooked due to human oversight.\r\nRecommendation ITU-T F.743.33 addresses the essential requirements and framework for computer vision-based anomaly detection service in the wind farm.\r\n"
+  content: "Traditional video surveillance systems are usually employed to discover
+    anomalies by physical observation of videos and cannot meet the requirements for
+    automatic anomaly detection in wind farms. With the development of machine learning
+    algorithms, computer vision can achieve automatic intelligent processing such
+    as image enhancement, image restoration, feature extraction, object detection,
+    object recognition, object tracking, pose estimation, motion estimation, event
+    detection and anomaly detection. Therefore, an intelligent system based on computer
+    vision can be deployed on a wind farm for automatic anomaly detection.\r\nThe
+    computer vision-based anomaly detection service can be an effective way to automatically
+    detect general anomalies such as vessel trespass, small flames and abnormal presences
+    in the wind farm. It can address the limitations of manually detecting general
+    anomalies through video observation, thereby preventing anomalies from being overlooked
+    due to human oversight.\r\nRecommendation ITU-T F.743.33 addresses the essential
+    requirements and framework for computer vision-based anomaly detection service
+    in the wind farm.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +87,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +128,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +139,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

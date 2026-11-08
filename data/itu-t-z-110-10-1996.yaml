@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In view of the complexity and widespread use of Recommendations, itis imperative that advanced methods for the development and implementation of these Recommendations be used.Formal Description Techniques (FDTs) such as SDL (Recommendation Z.100) and MSC (Recommendation Z.120) provide an important approach toward such advanced methods. The purpose of this Recommendation is to guide the use of FDTs to assure the quality of ITU-T Recommendations.The effective use of FDTs requires phased procedures to introduce their use. This Recommendation states the procedures to accomplish this task.Effective use of FDTs implies the use of state of the art tools.
+  content: In view of the complexity and widespread use of Recommendations, itis imperative
+    that advanced methods for the development and implementation of these Recommendations
+    be used.Formal Description Techniques (FDTs) such as SDL (Recommendation Z.100)
+    and MSC (Recommendation Z.120) provide an important approach toward such advanced
+    methods. The purpose of this Recommendation is to guide the use of FDTs to assure
+    the quality of ITU-T Recommendations.The effective use of FDTs requires phased
+    procedures to introduce their use. This Recommendation states the procedures to
+    accomplish this task.Effective use of FDTs implies the use of state of the art
+    tools.
 status:
   stage:
     content: Withdrawal
@@ -102,7 +110,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

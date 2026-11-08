@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Z.104 defines the data features of the Specification and Description Language so that data definitions and expressions are well defined. Together with Recommendations ITU‑T Z.100, ITU-T Z.101, ITU-T Z.102, ITU-T Z.103, ITU-T Z.105, ITU-T Z.106 and ITU-T Z.107, this Recommendation is part of a reference manual for the language. The language defined in this Recommendation partially overlaps features of the language included in Basic SDL‑2010 in Recommendation ITU‑T Z.101 and used in Comprehensive SDL‑2010 in Recommendation ITU‑T Z.102 and the features of Recommendation ITU‑T Z.103.
+  content: Recommendation ITU-T Z.104 defines the data features of the Specification
+    and Description Language so that data definitions and expressions are well defined.
+    Together with Recommendations ITU‑T Z.100, ITU-T Z.101, ITU-T Z.102, ITU-T Z.103,
+    ITU-T Z.105, ITU-T Z.106 and ITU-T Z.107, this Recommendation is part of a reference
+    manual for the language. The language defined in this Recommendation partially
+    overlaps features of the language included in Basic SDL‑2010 in Recommendation
+    ITU‑T Z.101 and used in Comprehensive SDL‑2010 in Recommendation ITU‑T Z.102 and
+    the features of Recommendation ITU‑T Z.103.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - Data and action language in SDL-2010
+      content: Specification and Description Language - Data and action language in
+        SDL-2010
     docidentifier:
     - content: Z.104 (06/2021)
       type: ITU
@@ -82,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - Data and action language in SDL-2010
+      content: Specification and Description Language - Data and action language in
+        SDL-2010
     docidentifier:
     - content: Z.104 (04/2016)
       type: ITU
@@ -102,7 +111,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification and Description Language - Data and action language in SDL-2010
+      content: Specification and Description Language - Data and action language in
+        SDL-2010
     docidentifier:
     - content: Z.104 (12/2011)
       type: ITU
@@ -122,7 +132,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

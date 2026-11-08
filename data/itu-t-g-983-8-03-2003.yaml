@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: B-PON OMCI support for IP, ISDN, video, VLAN tagging, VC cross-connections and other select functions
+  content: B-PON OMCI support for IP, ISDN, video, VLAN tagging, VC cross-connections
+    and other select functions
   type: main
 source:
 - type: src
@@ -52,7 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides ONT Management and Control Interface (OMCI) support for the Broadband Passive Optical Network (B-PON) system defined in ITU-T Rec. G.983.1 [1] for select functions which were out of the scope of ITU-T Rec. G.983.2 [2]. OMCI support is specified for Internet Protocol (IP) Router functionality on Local Area Network (LAN) cards, Integrated Services Digital Network (ISDN) interfaces, additional Ethernet performance monitoring, video interfaces, virtual LAN (VLAN) tagging, extended Media Access Control (MAC) Bridge Filtering, local craft terminal interfaces, Virtual Channel (VC) cross-connections, and Optical Network Units (ONUs).
+  content: This Recommendation provides ONT Management and Control Interface (OMCI)
+    support for the Broadband Passive Optical Network (B-PON) system defined in ITU-T
+    Rec. G.983.1 [1] for select functions which were out of the scope of ITU-T Rec.
+    G.983.2 [2]. OMCI support is specified for Internet Protocol (IP) Router functionality
+    on Local Area Network (LAN) cards, Integrated Services Digital Network (ISDN)
+    interfaces, additional Ethernet performance monitoring, video interfaces, virtual
+    LAN (VLAN) tagging, extended Media Access Control (MAC) Bridge Filtering, local
+    craft terminal interfaces, Virtual Channel (VC) cross-connections, and Optical
+    Network Units (ONUs).
 status:
   stage:
     content: Withdrawal

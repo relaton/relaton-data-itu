@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Proof-of-concept for data service using information centric networking in IMT-2020
+  content: Proof-of-concept for data service using information centric networking
+    in IMT-2020
   type: main
 source:
 - type: src
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement specifies a proof-of-concept for a service that provides named data such as Internet of Things (IoT) named data by information centric networking in IMT-2020. In the Supplement, an enhanced name resolution system is implemented based on distance-constrained containers to resolve from names to addresses more efficiently.
+  content: This Supplement specifies a proof-of-concept for a service that provides
+    named data such as Internet of Things (IoT) named data by information centric
+    networking in IMT-2020. In the Supplement, an enhanced name resolution system
+    is implemented based on distance-constrained containers to resolve from names
+    to addresses more efficiently.
 status:
   stage:
     content: Published

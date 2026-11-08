@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1528 provides a structured method of describing and identifying classes of applications, operating systems, and hardware devices present among an enterprise's computing assets. Common platform enumeration (CPE) is defined through a set of specifications in a stack based model, where capabilities are based on simpler, more narrowly defined elements that are specified lower in the stack. The stack consists of a dictionary specification and an applicability language specification that rely on a name matching specification which relies on a naming specification.
+  content: Recommendation ITU-T X.1528 provides a structured method of describing
+    and identifying classes of applications, operating systems, and hardware devices
+    present among an enterprise's computing assets. Common platform enumeration (CPE)
+    is defined through a set of specifications in a stack based model, where capabilities
+    are based on simpler, more narrowly defined elements that are specified lower
+    in the stack. The stack consists of a dictionary specification and an applicability
+    language specification that rely on a name matching specification which relies
+    on a naming specification.
 status:
   stage:
     content: Published

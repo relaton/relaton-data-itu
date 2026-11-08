@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Maintenance thresholds and procedures for recovery mechanisms (protection and restoration) of international SDH VC trails (paths) and multiplex sections
+  content: Maintenance thresholds and procedures for recovery mechanisms (protection
+    and restoration) of international SDH VC trails (paths) and multiplex sections
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation defines maintenance thresholds and procedures for recovery mechanisms of international SDH VC trails (paths), multiplex sections (MSs) and subnetwork connections (SNCs), in case of failure, degradation, maintenance activities (e.g. planned outages).This Recommendation deals with protection and restoration including return to original configuration. The internal protection capabilities of network element (NE) hardware are outside the scope of this Recommendation.Maintenance thresholds and procedures given in this Recommendation are only used for protection and restoration of VCs trails (path), multiplex sections and subnetwork connections (SNCs)[1].        [1] For a definition of subnetwork connections, see ITU-T Recommendation G.803 [2].
+  content: This ITU-T Recommendation defines maintenance thresholds and procedures
+    for recovery mechanisms of international SDH VC trails (paths), multiplex sections
+    (MSs) and subnetwork connections (SNCs), in case of failure, degradation, maintenance
+    activities (e.g. planned outages).This Recommendation deals with protection and
+    restoration including return to original configuration. The internal protection
+    capabilities of network element (NE) hardware are outside the scope of this Recommendation.Maintenance
+    thresholds and procedures given in this Recommendation are only used for protection
+    and restoration of VCs trails (path), multiplex sections and subnetwork connections
+    (SNCs)[1].        [1] For a definition of subnetwork connections, see ITU-T Recommendation
+    G.803 [2].
 status:
   stage:
     content: Published

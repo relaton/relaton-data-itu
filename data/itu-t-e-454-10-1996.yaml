@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of this Recommendation is to define transmission performance metrics based on Error Correction Mode (ECM) facsimile. Performance parameters defined in Recommendations E.451, E.452 and E.453 have been modified to accommodate the error correction and partial page characteristics of ECM facsimile. Performance parameters for ECM that will help infer the image quality for non-ECM transmissions have also been defined.The parameters defined in this Recommendation are intended for use when intrusive text techniques are employed.
+  content: The purpose of this Recommendation is to define transmission performance
+    metrics based on Error Correction Mode (ECM) facsimile. Performance parameters
+    defined in Recommendations E.451, E.452 and E.453 have been modified to accommodate
+    the error correction and partial page characteristics of ECM facsimile. Performance
+    parameters for ECM that will help infer the image quality for non-ECM transmissions
+    have also been defined.The parameters defined in this Recommendation are intended
+    for use when intrusive text techniques are employed.
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

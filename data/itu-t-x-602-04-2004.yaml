@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Group Management Protocol (GMP) is an application-layer control protocol for creating a group session and for managing the group's participating members. Generally it is assumed that there is one GMP server, one session-creating client (or Session Creator), and one or more session-participating clients (or Session Participants).The GMP includes session management (SM), membership management (MM), and the function of exchanging information between SM and MM.
+  content: The Group Management Protocol (GMP) is an application-layer control protocol
+    for creating a group session and for managing the group's participating members.
+    Generally it is assumed that there is one GMP server, one session-creating client
+    (or Session Creator), and one or more session-participating clients (or Session
+    Participants).The GMP includes session management (SM), membership management
+    (MM), and the function of exchanging information between SM and MM.
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3393 describes the requirements for the smart maintenance of cell antennas. The requirements include framework, functional requirements and related interfaces, which address the use of AI technology to process the big data from the network side and calculate the predicted antenna position and azimuth angle, and then provide correction proposals.\r\n"
+  content: "Recommendation ITU-T M.3393 describes the requirements for the smart maintenance
+    of cell antennas. The requirements include framework, functional requirements
+    and related interfaces, which address the use of AI technology to process the
+    big data from the network side and calculate the predicted antenna position and
+    azimuth angle, and then provide correction proposals.\r\n"
 status:
   stage:
     content: Published

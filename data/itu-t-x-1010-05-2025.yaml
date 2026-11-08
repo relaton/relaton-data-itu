@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Security requirements on one service access process need to be met based on security capabilities with the support of network capabilities. The existence of multidomain introduces different security requirements of different domains and interdomain access control security requirements in the service access process, which are variable and diverse. Therefore, the distributed, complex and diverse security protections of the network need to be orchestrated in coordination with network routing in order to protect the service access process.\r\nNetwork operators need to have the ability to orchestrate security capabilities and network capabilities to provide such a secure network to protect the service access process. This new work item describes the orchestration framework to help all stakeholders build, integrate, interact and manage a secure service access process in a secure and low-cost way.\r\n"
+  content: "Security requirements on one service access process need to be met based
+    on security capabilities with the support of network capabilities. The existence
+    of multidomain introduces different security requirements of different domains
+    and interdomain access control security requirements in the service access process,
+    which are variable and diverse. Therefore, the distributed, complex and diverse
+    security protections of the network need to be orchestrated in coordination with
+    network routing in order to protect the service access process.\r\nNetwork operators
+    need to have the ability to orchestrate security capabilities and network capabilities
+    to provide such a secure network to protect the service access process. This new
+    work item describes the orchestration framework to help all stakeholders build,
+    integrate, interact and manage a secure service access process in a secure and
+    low-cost way.\r\n"
 status:
   stage:
     content: Published

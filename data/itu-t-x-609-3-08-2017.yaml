@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "On providing multimedia streaming service to massive number of concurrent users by use of existing server-client model, there are limitations and problems such as bottleneck issues and burdens on network cost. If massive number of user access to a small number of servers, service provider may suffer from bottleneck problem and it causes network cost to service providers. Furthermore, it becomes worse in case of UHD video streaming. In case of peer-to-peer (P2P)-based video streaming, each peer that is participating in the same session shares their resources to distribute stream data with each other. P2P-based streaming is much more scalable compared to server-client model, and accommodates massive number of concurrent users. This Recommendation addresses signalling requirements for providing managed P2P (MP2P)-based multimedia streaming services for further protocol specifications.\r\n\r\n \r\n"
+  content: "On providing multimedia streaming service to massive number of concurrent
+    users by use of existing server-client model, there are limitations and problems
+    such as bottleneck issues and burdens on network cost. If massive number of user
+    access to a small number of servers, service provider may suffer from bottleneck
+    problem and it causes network cost to service providers. Furthermore, it becomes
+    worse in case of UHD video streaming. In case of peer-to-peer (P2P)-based video
+    streaming, each peer that is participating in the same session shares their resources
+    to distribute stream data with each other. P2P-based streaming is much more scalable
+    compared to server-client model, and accommodates massive number of concurrent
+    users. This Recommendation addresses signalling requirements for providing managed
+    P2P (MP2P)-based multimedia streaming services for further protocol specifications.\r\n\r\n
+    \r\n"
 status:
   stage:
     content: Published

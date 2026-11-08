@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information security, cybersecurity and privacy protection – Controls, requirements and guidance for personally identifiable information protection
+  content: Information security, cybersecurity and privacy protection – Controls,
+    requirements and guidance for personally identifiable information protection
   type: main
 source:
 - type: src
@@ -55,7 +56,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The number of organizations processing personally identifiable information (PII) is increasing, as is the amount of PII that these organizations deal with. At the same time, societal expectations for the protection of PII and the security of data relating to individuals are also increasing. A number of countries are augmenting their laws to address the increased number of high-profile data breaches.\r\nAs the number of PII breaches increases, organizations collecting or processing PII will increasingly need guidance on how they should protect PII in order to reduce the risk of privacy breaches occurring, and to reduce the impact of breaches on the organization and on the individuals concerned. This Specification provides such guidance.\r\nRecommendation ITU-T X.1058 | International Standard ISO/IEC 29151 specifies controls, purpose and guidance for implementing controls, to meet the requirements identified by a risk and impact assessment related to the protection of PII. In particular, this Specification specifies requirements and guidance based on ISO/IEC 27002, taking into consideration the controls for processing PII that can be applicable within the context of an organization's information security risk environment(s).\r\n"
+  content: "The number of organizations processing personally identifiable information
+    (PII) is increasing, as is the amount of PII that these organizations deal with.
+    At the same time, societal expectations for the protection of PII and the security
+    of data relating to individuals are also increasing. A number of countries are
+    augmenting their laws to address the increased number of high-profile data breaches.\r\nAs
+    the number of PII breaches increases, organizations collecting or processing PII
+    will increasingly need guidance on how they should protect PII in order to reduce
+    the risk of privacy breaches occurring, and to reduce the impact of breaches on
+    the organization and on the individuals concerned. This Specification provides
+    such guidance.\r\nRecommendation ITU-T X.1058 | International Standard ISO/IEC
+    29151 specifies controls, purpose and guidance for implementing controls, to meet
+    the requirements identified by a risk and impact assessment related to the protection
+    of PII. In particular, this Specification specifies requirements and guidance
+    based on ISO/IEC 27002, taking into consideration the controls for processing
+    PII that can be applicable within the context of an organization's information
+    security risk environment(s).\r\n"
 status:
   stage:
     content: Published
@@ -75,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology - Security techniques - Code of practice for personally identifiable information protection
+      content: Information technology - Security techniques - Code of practice for
+        personally identifiable information protection
     docidentifier:
     - content: X.1058 (03/2017)
       type: ITU
@@ -85,7 +102,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T X.1058 - Supplement on code of practice for personally identifiable information (PII) protection for telecommunication organizations  '
+      content: 'ITU-T X.1058 - Supplement on code of practice for personally identifiable
+        information (PII) protection for telecommunication organizations  '
     docidentifier:
     - content: X Suppl. 32 (03/2018)
       type: ITU

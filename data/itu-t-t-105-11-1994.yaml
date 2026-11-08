@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies both:- the end-to-end Application Layer protocol for the Syntax-based Videotex service; and- the underlying Bearer Independent Service.This Recommendation is applicable to all devices supporting the Bearer Independent Service on the upper side of the Network Layer and is therefore network independent.New or enhanced additional features can be offered compared with the traditional Videotex Services, e.g.:- direct selection of Videotex applications;- multi-communication to several hosts or applications;- multimedia communication (text, geometric, photographic, audio);- distributed Videotex applications;- use of supplementary services;- handling of calls in both directions (outgoing, incoming).
+  content: This Recommendation specifies both:- the end-to-end Application Layer protocol
+    for the Syntax-based Videotex service; and- the underlying Bearer Independent
+    Service.This Recommendation is applicable to all devices supporting the Bearer
+    Independent Service on the upper side of the Network Layer and is therefore network
+    independent.New or enhanced additional features can be offered compared with the
+    traditional Videotex Services, e.g.:- direct selection of Videotex applications;-
+    multi-communication to several hosts or applications;- multimedia communication
+    (text, geometric, photographic, audio);- distributed Videotex applications;- use
+    of supplementary services;- handling of calls in both directions (outgoing, incoming).
 status:
   stage:
     content: Published

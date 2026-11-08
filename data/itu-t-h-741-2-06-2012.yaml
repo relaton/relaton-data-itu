@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'IPTV application event handling: Data structures of audience measurement for IPTV services'
+  content: 'IPTV application event handling: Data structures of audience measurement
+    for IPTV services'
   type: main
 source:
 - type: src
@@ -52,7 +53,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The ITU-T H.741.x series of Recommendations defines a foundational platform for audience measurement (AM) of IPTV services. They focus on the interface between terminal devices and an audience measurement aggregation function.\r\nThe AM platform integrates a method for end users to report personal information, and is designed to easily add time-shifted and interactive services, and non-terminal device measurement points. While the ITU-T H.741.x series allows the implementation of audience measurement for IPTV services, its mechanism may be equally applicable to non-IPTV services.\r\nThe design philosophy in the ITU-T H.741.x series is focused on scalability, minimizing the use of resources, security, flexibility to support a variety of service provider deployments, and rich privacy support to meet emerging regulations and legislation.\r\nRecommendation ITU-T H.741.2 specifies the data elements and structures of the payloads used in audience measurement messages.\r\n"
+  content: "The ITU-T H.741.x series of Recommendations defines a foundational platform
+    for audience measurement (AM) of IPTV services. They focus on the interface between
+    terminal devices and an audience measurement aggregation function.\r\nThe AM platform
+    integrates a method for end users to report personal information, and is designed
+    to easily add time-shifted and interactive services, and non-terminal device measurement
+    points. While the ITU-T H.741.x series allows the implementation of audience measurement
+    for IPTV services, its mechanism may be equally applicable to non-IPTV services.\r\nThe
+    design philosophy in the ITU-T H.741.x series is focused on scalability, minimizing
+    the use of resources, security, flexibility to support a variety of service provider
+    deployments, and rich privacy support to meet emerging regulations and legislation.\r\nRecommendation
+    ITU-T H.741.2 specifies the data elements and structures of the payloads used
+    in audience measurement messages.\r\n"
 status:
   stage:
     content: Published
@@ -82,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix I with XML schema on the data structures of audience measurement for IPTV services
+      content: New Appendix I with XML schema on the data structures of audience measurement
+        for IPTV services
     docidentifier:
     - content: H.741.2 (2012) Amd. 1 (11/2013)
       type: ITU
@@ -102,7 +115,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -122,7 +137,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -132,7 +148,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -142,7 +159,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -152,7 +170,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -172,7 +191,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -202,7 +222,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis
+        of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

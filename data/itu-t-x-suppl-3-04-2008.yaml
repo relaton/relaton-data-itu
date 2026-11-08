@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing system and network security
+  content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing system
+    and network security
   type: main
 source:
 - type: src
@@ -52,7 +53,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Network security is designed around a strong security framework, available tools, and standardized protocols. In complex multi-vendor environments, standards-based security solutions can ensure interoperability and operational efficiencies in realizing end-to-end security. Network providers depend upon security information available to them to help plan, design and implement and maintain their networks in order to meet the security objectives. Standards-based systematic methodology and guidelines identify and address critical security challenges of network and information security.This supplement establishes guidelines for implementing system and network security with a focus on telecommunications networks. This supplement provides security guidelines for critical activities during the network life-cycle. These guidelines address four areas: 1) technical security policy, 2) asset identification, 3) threats, vulnerabilities and mitigations, and 4) security assessment. The guidelines and associated templates help in systematically addressing the security of networks.'
+  content: 'Network security is designed around a strong security framework, available
+    tools, and standardized protocols. In complex multi-vendor environments, standards-based
+    security solutions can ensure interoperability and operational efficiencies in
+    realizing end-to-end security. Network providers depend upon security information
+    available to them to help plan, design and implement and maintain their networks
+    in order to meet the security objectives. Standards-based systematic methodology
+    and guidelines identify and address critical security challenges of network and
+    information security.This supplement establishes guidelines for implementing system
+    and network security with a focus on telecommunications networks. This supplement
+    provides security guidelines for critical activities during the network life-cycle.
+    These guidelines address four areas: 1) technical security policy, 2) asset identification,
+    3) threats, vulnerabilities and mitigations, and 4) security assessment. The guidelines
+    and associated templates help in systematically addressing the security of networks.'
 status:
   stage:
     content: Published

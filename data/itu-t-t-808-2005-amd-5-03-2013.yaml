@@ -55,7 +55,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 5 to ITU-T T.808 | ISO/IEC 15444-9 contains a minor enhancement that provides tools and definitions to enable the user datagram protocol (UDP) as transport layer for the JPEG 2000 Interactive Protocol (JPIP). A UDP packaging of messages into chunks is described, and mechanisms for flow control and to detect and recover from package loss are introduced. UDP transport is defined in the new Annex K.\r\nAmendment 5 also includes a minor clarification in the definition of the Placeholder box. \r\nSince Amendment 3 of ITU-T T.801 | ISO/IEC 15444-2 adds the possibility to rotate compositing layers by multiples of 90 degrees and/or to flip them horizontally and vertically, the definition of the view window and context range of ITU\x1eT T.808 | ISO/IEC 15444-9 had to be extended to respect this additional feature.\r\nA further addition allows a JPIP client to identify the request fields that a server is prepared to handle. This new request addresses the need of a client to identify the capabilities of the server beforehand, and thus to adapt and optimize its strategy to retrieve data from the server."
+  content: "Amendment 5 to ITU-T T.808 | ISO/IEC 15444-9 contains a minor enhancement
+    that provides tools and definitions to enable the user datagram protocol (UDP)
+    as transport layer for the JPEG 2000 Interactive Protocol (JPIP). A UDP packaging
+    of messages into chunks is described, and mechanisms for flow control and to detect
+    and recover from package loss are introduced. UDP transport is defined in the
+    new Annex K.\r\nAmendment 5 also includes a minor clarification in the definition
+    of the Placeholder box. \r\nSince Amendment 3 of ITU-T T.801 | ISO/IEC 15444-2
+    adds the possibility to rotate compositing layers by multiples of 90 degrees and/or
+    to flip them horizontally and vertically, the definition of the view window and
+    context range of ITU\x1ET T.808 | ISO/IEC 15444-9 had to be extended to respect
+    this additional feature.\r\nA further addition allows a JPIP client to identify
+    the request fields that a server is prepared to handle. This new request addresses
+    the need of a client to identify the capabilities of the server beforehand, and
+    thus to adapt and optimize its strategy to retrieve data from the server."
 status:
   stage:
     content: Withdrawal
@@ -75,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity
+        tools, APIs and protocols'
     docidentifier:
     - content: T.808 (V3) (06/2026)
       type: ITU
@@ -85,7 +99,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity
+        tools, APIs and protocols'
     docidentifier:
     - content: T.808 (V2) (12/2022)
       type: ITU
@@ -163,7 +178,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Interactivity tools, APIs and protocols'
+      content: 'Information technology – JPEG 2000 image coding system: Interactivity
+        tools, APIs and protocols'
     docidentifier:
     - content: T.808 (01/2005)
       type: ITU

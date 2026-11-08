@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Z.151 defines the User Requirements Notation (URN) intended for the elicitation, analysis, specification and validation of requirements. URN combines modelling concepts and notations for goals (mainly for non-functional requirements and quality attributes) and scenarios (mainly for operational requirements, functional requirements and performance and architectural reasoning). The goal sub-notation is called Goal-oriented Requirements Language (GRL) and the scenario sub‑notation is called Use Case Map (UCM).
+  content: Recommendation ITU-T Z.151 defines the User Requirements Notation (URN)
+    intended for the elicitation, analysis, specification and validation of requirements.
+    URN combines modelling concepts and notations for goals (mainly for non-functional
+    requirements and quality attributes) and scenarios (mainly for operational requirements,
+    functional requirements and performance and architectural reasoning). The goal
+    sub-notation is called Goal-oriented Requirements Language (GRL) and the scenario
+    sub‑notation is called Use Case Map (UCM).
 status:
   stage:
     content: Published
@@ -100,7 +106,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

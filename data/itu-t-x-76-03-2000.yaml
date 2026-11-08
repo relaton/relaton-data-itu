@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Network-to-network interface between public networks providing PVC and/or SVC frame relay data transmission service
+  content: Network-to-network interface between public networks providing PVC and/or
+    SVC frame relay data transmission service
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the frame relay network-to-network interface intended for the interconnection of public networks providing PVC and/or SVC frame relay data transmission service. The signalling at the NNI for frame relay SVC is applicable to Integrated Services Digital Networks (ISDN) supporting Recommendation Q.933 at the user-network interface and to public data networks supporting Recommendation X.36 at the DTE/DCE interface. Details of physical layer, data transfer and signalling procedures are provided. This revision replaces Recommendation X.76 (1995) and its Amendments 1 and 2.
+  content: This Recommendation describes the frame relay network-to-network interface
+    intended for the interconnection of public networks providing PVC and/or SVC frame
+    relay data transmission service. The signalling at the NNI for frame relay SVC
+    is applicable to Integrated Services Digital Networks (ISDN) supporting Recommendation
+    Q.933 at the user-network interface and to public data networks supporting Recommendation
+    X.36 at the DTE/DCE interface. Details of physical layer, data transfer and signalling
+    procedures are provided. This revision replaces Recommendation X.76 (1995) and
+    its Amendments 1 and 2.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Network-to-network interface between public networks providing PVC and/or SVC frame relay data transmission service
+      content: Network-to-network interface between public networks providing PVC
+        and/or SVC frame relay data transmission service
     docidentifier:
     - content: X.76 (02/2003)
       type: ITU
@@ -102,7 +111,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Network-to-network interface between public data networks providing the frame relay data transmission service
+      content: Network-to-network interface between public data networks providing
+        the frame relay data transmission service
     docidentifier:
     - content: X.76 (04/1995)
       type: ITU

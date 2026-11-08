@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Formalization of interconnection designations among operators' telecommunication networks
+  content: Formalization of interconnection designations among operators' telecommunication
+    networks
   type: main
 source:
 - type: src
@@ -52,7 +53,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines designations and additional information intended primarily for human-to-human communication between various Operators, i.e., network operators or service providers.This Recommendation contains data definitions for designations of interconnections and other information about network resources that are required to be communicated between operators.This Recommendation will eventually replace ITU-T Rec. M.1400, Designations for interconnections among operators' networks. However, in an indefinite period, both Recommendations apply.This Recommendation is developed in order to facilitate computerized interoperation between telecommunication operators. For this use a more formal approach than M.1400 is required. See Appendix III.Note that since ITU-T Rec. M.1400 does not formally specify data structures, backward compatibility with existing implementations may not be ensured, but this Recommendation is based on ITU-T Rec. M.1400. For further details, see Appendix II.This revised ITU-T Rec. M.1401 is updated with Equipment Identity, Unique Item Identifiers and Local identifiers in order to provide compliance with ETSI and ATIS recommended standards.
+  content: This Recommendation defines designations and additional information intended
+    primarily for human-to-human communication between various Operators, i.e., network
+    operators or service providers.This Recommendation contains data definitions for
+    designations of interconnections and other information about network resources
+    that are required to be communicated between operators.This Recommendation will
+    eventually replace ITU-T Rec. M.1400, Designations for interconnections among
+    operators' networks. However, in an indefinite period, both Recommendations apply.This
+    Recommendation is developed in order to facilitate computerized interoperation
+    between telecommunication operators. For this use a more formal approach than
+    M.1400 is required. See Appendix III.Note that since ITU-T Rec. M.1400 does not
+    formally specify data structures, backward compatibility with existing implementations
+    may not be ensured, but this Recommendation is based on ITU-T Rec. M.1400. For
+    further details, see Appendix II.This revised ITU-T Rec. M.1401 is updated with
+    Equipment Identity, Unique Item Identifiers and Local identifiers in order to
+    provide compliance with ETSI and ATIS recommended standards.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +87,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Formalization of interconnection designations among operators' telecommunication networks
+      content: Formalization of interconnection designations among operators' telecommunication
+        networks
     docidentifier:
     - content: M.1401 (07/2006)
       type: ITU
@@ -92,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T M.1400-series – Supplement on directory of external terminology schemas
+      content: ITU-T M.1400-series – Supplement on directory of external terminology
+        schemas
     docidentifier:
     - content: M Suppl. 7 (05/2008)
       type: ITU

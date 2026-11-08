@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard expands the naming concepts introduced in the Reference Model for Open Distributed Processing. It provides a general framework for naming in heterogeneous distributed systems, giving concepts and procedures which support fully general context-relative naming. These concepts can be applied in any ODP viewpoint. They can be applied to any function which uses naming and is subject to distribution and federation.
+  content: This Recommendation | International Standard expands the naming concepts
+    introduced in the Reference Model for Open Distributed Processing. It provides
+    a general framework for naming in heterogeneous distributed systems, giving concepts
+    and procedures which support fully general context-relative naming. These concepts
+    can be applied in any ODP viewpoint. They can be applied to any function which
+    uses naming and is subject to distribution and federation.
 status:
   stage:
     content: Published

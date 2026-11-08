@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ONT management and control interface specification for Dynamic Bandwidth Assignment (DBA) B-PON system
+  content: ONT management and control interface specification for Dynamic Bandwidth
+    Assignment (DBA) B-PON system
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the ONT management and control interface (OMCI) specifications required for the Dynamic Bandwidth Assignment (DBA) function in a Broadband Passive Optical Network (B-PON) system.This Recommendation builds on the core functions specified in ITU-T G.983.2 and specifies managed entities of a protocol-independent Management Information Base (MIB) that models the exchange of information between OLT and ONT.
+  content: This Recommendation describes the ONT management and control interface
+    (OMCI) specifications required for the Dynamic Bandwidth Assignment (DBA) function
+    in a Broadband Passive Optical Network (B-PON) system.This Recommendation builds
+    on the core functions specified in ITU-T G.983.2 and specifies managed entities
+    of a protocol-independent Management Information Base (MIB) that models the exchange
+    of information between OLT and ONT.
 status:
   stage:
     content: Withdrawal

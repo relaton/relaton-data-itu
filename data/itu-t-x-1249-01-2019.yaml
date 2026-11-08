@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1249 provides a technical framework for countering mobile in‑application advertising spam. Mobile in-application advertising spam is the sending of unsolicited advertisements, which are displayed within a mobile phone application. This unsolicited advertising can appear on the display screen of a mobile device as a banner at the top or bottom of the screen, a mobile interstitial, or an overlay. Along with the rapidly increasing development of mobile applications, mobile in-application advertisement has been surging dramatically. Filtering malicious advertisements may improve the user experience and even security. Therefore, it may be beneficial to establish a practical framework for countering mobile in-application advertising spam, which can reasonably integrate the advantages of all countermeasures.
+  content: Recommendation ITU-T X.1249 provides a technical framework for countering
+    mobile in‑application advertising spam. Mobile in-application advertising spam
+    is the sending of unsolicited advertisements, which are displayed within a mobile
+    phone application. This unsolicited advertising can appear on the display screen
+    of a mobile device as a banner at the top or bottom of the screen, a mobile interstitial,
+    or an overlay. Along with the rapidly increasing development of mobile applications,
+    mobile in-application advertisement has been surging dramatically. Filtering malicious
+    advertisements may improve the user experience and even security. Therefore, it
+    may be beneficial to establish a practical framework for countering mobile in-application
+    advertising spam, which can reasonably integrate the advantages of all countermeasures.
 status:
   stage:
     content: Published
@@ -72,7 +81,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated threats
+      content: ITU-T X.1240 series – Supplement on countering spam and associated
+        threats
     docidentifier:
     - content: X Suppl. 6 (09/2009)
       type: ITU

@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines concepts of Telecommunications Management Network (TMN) architectures (TMN functional architecture, TMN information architecture, and TMN physical architectures) and their fundamental elements.This Recommendation also describes the relationship among the three architectures and provides a framework to derive the requirements for the specification of TMN physical architectures from the TMN functional and information architectures. A logical reference model for partitioning of management functionality, the Logical Layered Architecture (LLA), is provided.
+  content: This Recommendation defines concepts of Telecommunications Management Network
+    (TMN) architectures (TMN functional architecture, TMN information architecture,
+    and TMN physical architectures) and their fundamental elements.This Recommendation
+    also describes the relationship among the three architectures and provides a framework
+    to derive the requirements for the specification of TMN physical architectures
+    from the TMN functional and information architectures. A logical reference model
+    for partitioning of management functionality, the Logical Layered Architecture
+    (LLA), is provided.
 status:
   stage:
     content: Published

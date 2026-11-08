@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T K.43 describes the immunity requirements for telecommunication network equipment in a given environment. Specific product family Recommendations supersede this Recommendation. This Recommendation includes immunity requirements in the frequency range of 150 kHz-80 MHz for conducted immunity and 80-2700 MHz for radiated immunity.
+  content: Recommendation ITU-T K.43 describes the immunity requirements for telecommunication
+    network equipment in a given environment. Specific product family Recommendations
+    supersede this Recommendation. This Recommendation includes immunity requirements
+    in the frequency range of 150 kHz-80 MHz for conducted immunity and 80-2700 MHz
+    for radiated immunity.
 status:
   stage:
     content: Withdrawal

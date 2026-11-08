@@ -55,7 +55,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 comprises a new Annex B which defines provisions for sharing resources across pages, stripes and layers and provisions for using colour tags as a means of representing text colour, as well as modifications to the main body, and Annex A of Recommendation T.44, required for introducing Annex B. These provisions play an essential role in the application of JBIG2 (i.e. Recommendation T.88). JBIG2 realizes significant compression gains by sharing symbol dictionaries (i.e. a shared resource) across pages and page components. Additionally, the colours of JBIG2 encoded text may be represented by colour tags to realize even greater compression gains over conventional bitmap representation of the text colours.In addition, this amendment includes corrections for two technical oversights that were detected as a result of implementation experience.
+  content: Amendment 1 comprises a new Annex B which defines provisions for sharing
+    resources across pages, stripes and layers and provisions for using colour tags
+    as a means of representing text colour, as well as modifications to the main body,
+    and Annex A of Recommendation T.44, required for introducing Annex B. These provisions
+    play an essential role in the application of JBIG2 (i.e. Recommendation T.88).
+    JBIG2 realizes significant compression gains by sharing symbol dictionaries (i.e.
+    a shared resource) across pages and page components. Additionally, the colours
+    of JBIG2 encoded text may be represented by colour tags to realize even greater
+    compression gains over conventional bitmap representation of the text colours.In
+    addition, this amendment includes corrections for two technical oversights that
+    were detected as a result of implementation experience.
 status:
   stage:
     content: Withdrawal

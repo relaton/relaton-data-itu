@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1352 establishes detailed requirements for five security dimensions applicable to Internet of things (IoT) device and gateway: authentication; cryptography; data security; device platform security; and physical security, based on the IoT reference model specified in Recommendation ITU T Y.4100 and the IoT security framework in Recommendation ITU-T X.1361.\r\nThe authentication dimension includes user authentication, secure use of authentication credentials and device authentication. The cryptography dimension includes the use of secure cryptography, secure key management and secure random number generation. The data security dimension includes secure transmission and storage, information flow control, secure session management and personally identifiable information (PII) management. The device platform security dimension includes five elements: software security; secure update; security management; logging; and timestamp. Likewise, the physical security dimension includes a secure physical interface and tamper-proofing.\r\n"
+  content: "Recommendation ITU-T X.1352 establishes detailed requirements for five
+    security dimensions applicable to Internet of things (IoT) device and gateway:
+    authentication; cryptography; data security; device platform security; and physical
+    security, based on the IoT reference model specified in Recommendation ITU T Y.4100
+    and the IoT security framework in Recommendation ITU-T X.1361.\r\nThe authentication
+    dimension includes user authentication, secure use of authentication credentials
+    and device authentication. The cryptography dimension includes the use of secure
+    cryptography, secure key management and secure random number generation. The data
+    security dimension includes secure transmission and storage, information flow
+    control, secure session management and personally identifiable information (PII)
+    management. The device platform security dimension includes five elements: software
+    security; secure update; security management; logging; and timestamp. Likewise,
+    the physical security dimension includes a secure physical interface and tamper-proofing.\r\n"
 status:
   stage:
     content: Published

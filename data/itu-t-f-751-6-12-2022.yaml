@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T F.751.6 is an extension to Recommendation ITU-T F.751.1, and focuses on distributed ledger technology (DLT) performance assessment methods. Based on the performance assessment criteria defined in Recommendation ITU-T F.751.1, this Recommendation defines specific performance metrics and relevant workflow for the quantitative performance assessment for the DLT platform. This Recommendation can be used as a guideline of DLT platform performance assessment for developers, users, third party testers and researchers.
+  content: Recommendation ITU-T F.751.6 is an extension to Recommendation ITU-T F.751.1,
+    and focuses on distributed ledger technology (DLT) performance assessment methods.
+    Based on the performance assessment criteria defined in Recommendation ITU-T F.751.1,
+    this Recommendation defines specific performance metrics and relevant workflow
+    for the quantitative performance assessment for the DLT platform. This Recommendation
+    can be used as a guideline of DLT platform performance assessment for developers,
+    users, third party testers and researchers.
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +130,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

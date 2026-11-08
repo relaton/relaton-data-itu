@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: It has been observed that events occurring at the lower layers of a protocol stack may impact higher layers. This Recommendation provides information which may be used to correlate event indications from each of the first three layers of ISDN BRI and PRI to determine if they are related to a single lower layer event.
+  content: It has been observed that events occurring at the lower layers of a protocol
+    stack may impact higher layers. This Recommendation provides information which
+    may be used to correlate event indications from each of the first three layers
+    of ISDN BRI and PRI to determine if they are related to a single lower layer event.
 status:
   stage:
     content: Published

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 52 to ITU-T G-series Recommendations provides supplemental information to Recommendation ITU-T G.8032/Y.1344, Ethernet ring protection switching. It provides examples of network application scenarios, Ethernet service support, ring interconnection examples, guidelines for configuration and management procedures, protection switching for multiple Ethernet ring protection (ERP) instances and end-to-end network/service resiliency involving ITU-T G.8032.
+  content: Supplement 52 to ITU-T G-series Recommendations provides supplemental information
+    to Recommendation ITU-T G.8032/Y.1344, Ethernet ring protection switching. It
+    provides examples of network application scenarios, Ethernet service support,
+    ring interconnection examples, guidelines for configuration and management procedures,
+    protection switching for multiple Ethernet ring protection (ERP) instances and
+    end-to-end network/service resiliency involving ITU-T G.8032.
 status:
   stage:
     content: Published

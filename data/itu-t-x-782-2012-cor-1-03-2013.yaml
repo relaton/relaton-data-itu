@@ -47,7 +47,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Corrigendum 1 to Recommendation ITU-T X.782 (2012) adds a note to clause 9 of the Recommendation and complements the Bibliography in order to describe the alignment between the accessing methods specified in the Recommendation with the work carried out within 3GPP.
+  content: Corrigendum 1 to Recommendation ITU-T X.782 (2012) adds a note to clause
+    9 of the Recommendation and complements the Bibliography in order to describe
+    the alignment between the accessing methods specified in the Recommendation with
+    the work carried out within 3GPP.
 status:
   stage:
     content: Published
@@ -67,7 +70,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for defining web services for managed objects and management interfaces
+      content: Guidelines for defining web services for managed objects and management
+        interfaces
     docidentifier:
     - content: X.782 (05/2012)
       type: ITU

@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1080.1 defines the framework for other parts of the ITU-T 1080.x series of Recommendation by providing the overall model for communications aspects of telebiometrics. It provides the basic allocation of object identifiers for uniquely identifying pieces of information during data transfer and it defines a generic telecommunication protocol \r\n\r\nIt provides a technique for a formal specification of objects and it specifies a generic protocol that supports interactions between a medical station local to a patient and a remote medical centre providing greater expertise. This protocol is to be used and extended by other parts of the ITU-T X.1080.x series of Recommendations.\r\n"
+  content: "Recommendation ITU-T X.1080.1 defines the framework for other parts of
+    the ITU-T 1080.x series of Recommendation by providing the overall model for communications
+    aspects of telebiometrics. It provides the basic allocation of object identifiers
+    for uniquely identifying pieces of information during data transfer and it defines
+    a generic telecommunication protocol \r\n\r\nIt provides a technique for a formal
+    specification of objects and it specifies a generic protocol that supports interactions
+    between a medical station local to a patient and a remote medical centre providing
+    greater expertise. This protocol is to be used and extended by other parts of
+    the ITU-T X.1080.x series of Recommendations.\r\n"
 status:
   stage:
     content: Published

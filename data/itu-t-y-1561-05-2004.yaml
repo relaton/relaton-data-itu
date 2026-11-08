@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines parameters that may be used in specifying and assessing the performance of speed, accuracy, dependability, and availability of packettransfer over a Label Switched Path on a Multi-Protocol Label Switching (MPLS) network. The defined parameters apply to end-to-end, point-to-point and multipoint-to-point LSP and to any MPLS domain that provides, or contributes to the provision of, packet transfer services.Two categories of MPLS networks are considered:\r\n1)    TE-LSP: Traffic Engineering Label Switched Path, or configured LSP. These are point-point paths.\r\n2)    LDP-based LSP: This includes point-to-point and multipoint to point LSPs."
+  content: "This Recommendation defines parameters that may be used in specifying
+    and assessing the performance of speed, accuracy, dependability, and availability
+    of packettransfer over a Label Switched Path on a Multi-Protocol Label Switching
+    (MPLS) network. The defined parameters apply to end-to-end, point-to-point and
+    multipoint-to-point LSP and to any MPLS domain that provides, or contributes to
+    the provision of, packet transfer services.Two categories of MPLS networks are
+    considered:\r\n1)    TE-LSP: Traffic Engineering Label Switched Path, or configured
+    LSP. These are point-point paths.\r\n2)    LDP-based LSP: This includes point-to-point
+    and multipoint to point LSPs."
 status:
   stage:
     content: Published
@@ -82,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond standardization roadmap
+      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+        standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
       type: ITU
@@ -102,7 +111,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems and services"
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -112,7 +122,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -122,7 +133,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

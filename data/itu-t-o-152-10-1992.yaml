@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Error performance measuring equipment for bit rates of 64 kbit/s and N x 64 kbit/s
+  content: Error performance measuring equipment for bit rates of 64 kbit/s and N
+    x 64 kbit/s
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines the requirements for an equipment to measure bit-error performance at 64 kbit/s and N ´ 64 kbit/s. Keywords- digital error detector;- digital pattern generator;- error performance measurement;- measurement;- tester.PREAMBLE The requirements for the characteristics of a bit-error performance measuring equipment which are described below must be adhered to in order to ensure compatibility between equipment produced by different manufacturers.
+  content: Defines the requirements for an equipment to measure bit-error performance
+    at 64 kbit/s and N ´ 64 kbit/s. Keywords- digital error detector;- digital pattern
+    generator;- error performance measurement;- measurement;- tester.PREAMBLE The
+    requirements for the characteristics of a bit-error performance measuring equipment
+    which are described below must be adhered to in order to ensure compatibility
+    between equipment produced by different manufacturers.
 status:
   stage:
     content: Published
@@ -82,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification for an instrument to measure the error performance on 64 kbit/s paths
+      content: Specification for an instrument to measure the error performance on
+        64 kbit/s paths
     docidentifier:
     - content: O.152 (10/1984)
       type: ITU

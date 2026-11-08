@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Presentation service definition defined in ITU-T Rec. X.216 | ISO/IEC 8822 is enhanced to define an optional functional unit which permits additional, independent, nested presentation connections within an existing presentation connection. This enhancement will support the reusability of existing application layer standards (each making full, and possibly incompatible, use of the presentation synchronization services) as components of new application layer standards.
+  content: The Presentation service definition defined in ITU-T Rec. X.216 | ISO/IEC
+    8822 is enhanced to define an optional functional unit which permits additional,
+    independent, nested presentation connections within an existing presentation connection.
+    This enhancement will support the reusability of existing application layer standards
+    (each making full, and possibly incompatible, use of the presentation synchronization
+    services) as components of new application layer standards.
 status:
   stage:
     content: Published
@@ -95,7 +100,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Presentation service definition
+      content: Information technology – Open Systems Interconnection – Presentation
+        service definition
     docidentifier:
     - content: X.216 (07/1994)
       type: ITU
@@ -105,7 +111,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Presentation service definition for Open Systems Interconnection for CCITT applications
+      content: Presentation service definition for Open Systems Interconnection for
+        CCITT applications
     docidentifier:
     - content: X.216 (11/1988)
       type: ITU

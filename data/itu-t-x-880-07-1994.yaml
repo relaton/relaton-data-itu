@@ -55,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard uses the Abstract Syntax Notation One (ASN.1) to define information object classes corresponding to the fundamental concepts of the Remote Operations Service (ROS). This, in turn, provides the notation that will allow application designers to specify instances of these classes. This Recommenda-tion | International Standard also provides a collection of definitions for specifying the generic protocol between objects that communicate using remote operations. A number of definitions of general utility to designers of ROS-based applications is also provided.
+  content: This Recommendation | International Standard uses the Abstract Syntax Notation
+    One (ASN.1) to define information object classes corresponding to the fundamental
+    concepts of the Remote Operations Service (ROS). This, in turn, provides the notation
+    that will allow application designers to specify instances of these classes. This
+    Recommenda-tion | International Standard also provides a collection of definitions
+    for specifying the generic protocol between objects that communicate using remote
+    operations. A number of definitions of general utility to designers of ROS-based
+    applications is also provided.
 status:
   stage:
     content: Published

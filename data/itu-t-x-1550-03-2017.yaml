@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1550 introduces existing approaches for implementing access control policies for incident exchange networks. This Recommendation introduces a variety of well-established access control models, sharing models as well as criteria for evaluating incident exchange network performance. Standards-based solutions are considered to facilitate implementation of different access control models within different cybersecurity information sharing models and under diverse trust environments.
+  content: Recommendation ITU-T X.1550 introduces existing approaches for implementing
+    access control policies for incident exchange networks. This Recommendation introduces
+    a variety of well-established access control models, sharing models as well as
+    criteria for evaluating incident exchange network performance. Standards-based
+    solutions are considered to facilitate implementation of different access control
+    models within different cybersecurity information sharing models and under diverse
+    trust environments.
 status:
   stage:
     content: Published

@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1082 uses the framework defined in Recommendation ITU-T X.1081 for optimal safety and security in telebiometrics. It gives names and symbols for quantities and units concerned with emissions from the human body that can be detected by a sensor, and with effects on the human body produced by the telebiometric devices in its environment. It is applicable to both physiology and biometrics (the measurement of physiological, biological and behavioural characteristics). A taxonomy of wetware and hardware/software interactions is defined. Thresholds specified using the set of international system of quantities (ISQ) and the related international system of units (SI) are specified.
+  content: Recommendation ITU-T X.1082 uses the framework defined in Recommendation
+    ITU-T X.1081 for optimal safety and security in telebiometrics. It gives names
+    and symbols for quantities and units concerned with emissions from the human body
+    that can be detected by a sensor, and with effects on the human body produced
+    by the telebiometric devices in its environment. It is applicable to both physiology
+    and biometrics (the measurement of physiological, biological and behavioural characteristics).
+    A taxonomy of wetware and hardware/software interactions is defined. Thresholds
+    specified using the set of international system of quantities (ISQ) and the related
+    international system of units (SI) are specified.
 status:
   stage:
     content: Published

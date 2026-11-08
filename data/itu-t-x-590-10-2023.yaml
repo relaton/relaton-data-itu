@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.590 defines a method called JSON signature scheme (JSS) which enables JavaScript object notation (JSON) objects to be signed and/or countersigned while leaving the original JSON objects themselves in JSON format. This process enables a consistent data format that simplifies the use, documentation, debugging, and logging of the JSON data while still allowing it to be digitally signed. Further, with this method, signed JSON objects also can be used and processed just like standard JSON objects which simplifies their use for application developers and systems.\r\n"
+  content: "Recommendation ITU-T X.590 defines a method called JSON signature scheme
+    (JSS) which enables JavaScript object notation (JSON) objects to be signed and/or
+    countersigned while leaving the original JSON objects themselves in JSON format.
+    This process enables a consistent data format that simplifies the use, documentation,
+    debugging, and logging of the JSON data while still allowing it to be digitally
+    signed. Further, with this method, signed JSON objects also can be used and processed
+    just like standard JSON objects which simplifies their use for application developers
+    and systems.\r\n"
 status:
   stage:
     content: Published

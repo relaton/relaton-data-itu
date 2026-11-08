@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1521 on the common vulnerability scoring system (CVSS) provides an open framework for communicating the characteristics and impacts of information and communication technologies (ICT) vulnerabilities in the commercial or open source software used in communications networks, end user devices, or any of the other types of ICT capable of running software. The goal of the Recommendation is to enable ICT managers, vulnerability bulletin providers, security vendors, application vendors and researchers to speak from a common language of scoring ICT vulnerabilities.
+  content: Recommendation ITU-T X.1521 on the common vulnerability scoring system
+    (CVSS) provides an open framework for communicating the characteristics and impacts
+    of information and communication technologies (ICT) vulnerabilities in the commercial
+    or open source software used in communications networks, end user devices, or
+    any of the other types of ICT capable of running software. The goal of the Recommendation
+    is to enable ICT managers, vulnerability bulletin providers, security vendors,
+    application vendors and researchers to speak from a common language of scoring
+    ICT vulnerabilities.
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T X.1042 supports the protection of network resources using security services based on software-defined networking (SDN). This Recommendation first classifies the network resources for SDN-based security services: SDN application, SDN controller, SDN switch and security manager (SM). Recommendation ITU-T X.1042 then defines security services based on SDN.'
+  content: 'Recommendation ITU-T X.1042 supports the protection of network resources
+    using security services based on software-defined networking (SDN). This Recommendation
+    first classifies the network resources for SDN-based security services: SDN application,
+    SDN controller, SDN switch and security manager (SM). Recommendation ITU-T X.1042
+    then defines security services based on SDN.'
 status:
   stage:
     content: Published

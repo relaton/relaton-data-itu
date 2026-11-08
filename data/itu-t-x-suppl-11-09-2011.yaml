@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1245 - Supplement on framework based on real-time blocking lists for countering VoIP spam
+  content: ITU-T X.1245 - Supplement on framework based on real-time blocking lists
+    for countering VoIP spam
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This supplement provides a technical framework based on real-time blocking list (RBL) for countering Voice over Internet Protocol (VoIP) spam, which consists of four functional entities: VoIP spam prevention system (VSPS), VoIP spam prevention policy server (VSPPS), RBL central system for VoIP spam prevention (VSP-RBL), and user reputation system (URS). This supplement also specifies the functionalities, procedures, and interfaces of each functional entity for countering VoIP spam.'
+  content: 'This supplement provides a technical framework based on real-time blocking
+    list (RBL) for countering Voice over Internet Protocol (VoIP) spam, which consists
+    of four functional entities: VoIP spam prevention system (VSPS), VoIP spam prevention
+    policy server (VSPPS), RBL central system for VoIP spam prevention (VSP-RBL),
+    and user reputation system (URS). This supplement also specifies the functionalities,
+    procedures, and interfaces of each functional entity for countering VoIP spam.'
 status:
   stage:
     content: Published

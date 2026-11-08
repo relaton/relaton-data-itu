@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the network level requirements for the control plane of automatically switched transport networks (ASTN). Such a network provides a set of control functions for the purpose of setting up and releasing connections across a transport network. The requirements contained in this Recommendation are technology independent. The architecture of switched transport networks meeting the requirements in this Recommendation, and the technical details required to implement these networks for particular transport technologies, will be found in other Recommendations.
+  content: This Recommendation describes the network level requirements for the control
+    plane of automatically switched transport networks (ASTN). Such a network provides
+    a set of control functions for the purpose of setting up and releasing connections
+    across a transport network. The requirements contained in this Recommendation
+    are technology independent. The architecture of switched transport networks meeting
+    the requirements in this Recommendation, and the technical details required to
+    implement these networks for particular transport technologies, will be found
+    in other Recommendations.
 status:
   stage:
     content: Withdrawal

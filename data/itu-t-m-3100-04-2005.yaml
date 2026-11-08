@@ -50,7 +50,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a generic network information model. The model describes managed object classes and their properties that are generic and useful to describe information exchanged across all interfaces defined in M.3010 TMN architecture. These generic managed object classes are intended to be applicable across different technologies, architecture and services. The managed object classes in this Recommendation may be specialized to support the management of various telecommunications networks.
+  content: This Recommendation provides a generic network information model. The model
+    describes managed object classes and their properties that are generic and useful
+    to describe information exchanged across all interfaces defined in M.3010 TMN
+    architecture. These generic managed object classes are intended to be applicable
+    across different technologies, architecture and services. The managed object classes
+    in this Recommendation may be specialized to support the management of various
+    telecommunications networks.
 status:
   stage:
     content: Published
@@ -112,7 +118,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of the management interface for a bridge-and-roll cross-connect feature
+      content: Definition of the management interface for a bridge-and-roll cross-connect
+        feature
     docidentifier:
     - content: M.3100 (1995) Amd. 4 (08/2001)
       type: ITU
@@ -130,7 +137,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of the management interface for a generic alarm reporting control (ARC) feature
+      content: Definition of the management interface for a generic alarm reporting
+        control (ARC) feature
     docidentifier:
     - content: M.3100 (1995) Amd. 3 (01/2001)
       type: ITU

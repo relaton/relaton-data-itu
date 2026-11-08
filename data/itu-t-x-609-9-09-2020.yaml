@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.609.9 specifies an overlay content management protocol (OCMP) that runs on an interface between an index server and a peer to carry meta-information of overlay content over managed peer-to-peer (MP2P) architecture defined in Recommendation ITU-T X.609. The meta-information includes attributes of a content to be distributed and mapping information with an overlay network. This Recommendation provides message formats and protocol operations. \r\n"
+  content: "Recommendation ITU-T X.609.9 specifies an overlay content management protocol
+    (OCMP) that runs on an interface between an index server and a peer to carry meta-information
+    of overlay content over managed peer-to-peer (MP2P) architecture defined in Recommendation
+    ITU-T X.609. The meta-information includes attributes of a content to be distributed
+    and mapping information with an overlay network. This Recommendation provides
+    message formats and protocol operations. \r\n"
 status:
   stage:
     content: Published

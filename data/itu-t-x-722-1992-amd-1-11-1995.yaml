@@ -55,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment to Rec. X.722 | ISO/IEC 10165-4 modifies the GDMO Package template to allow for the explicit specification of the Set By Create property. This amendment will ensure that Recommendation X.722 is consistent with Recommendation X.721, which states the Create request is permitted to specify an explicit value for individual attributes. This change will permit the automatic generation of MOCS because currently the "behaviour" definitions need to be studied to determine the Create capability specified. In addition, this amendment extends the Registration clause (6.4) to include the application context for Transaction Processing with Systems Management and extends the Registration arc for the General Relationship Model.
+  content: This amendment to Rec. X.722 | ISO/IEC 10165-4 modifies the GDMO Package
+    template to allow for the explicit specification of the Set By Create property.
+    This amendment will ensure that Recommendation X.722 is consistent with Recommendation
+    X.721, which states the Create request is permitted to specify an explicit value
+    for individual attributes. This change will permit the automatic generation of
+    MOCS because currently the "behaviour" definitions need to be studied to determine
+    the Create capability specified. In addition, this amendment extends the Registration
+    clause (6.4) to include the application context for Transaction Processing with
+    Systems Management and extends the Registration arc for the General Relationship
+    Model.
 status:
   stage:
     content: Published
@@ -85,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the use of Z in formalizing the behaviour of managed objects
+      content: Guidelines for the use of Z in formalizing the behaviour of managed
+        objects
     docidentifier:
     - content: X.722 (1992) Amd. 3 (08/1997)
       type: ITU
@@ -113,7 +123,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Structure of management information: Guidelines for the definition of managed objects'
+      content: 'Information technology – Open Systems Interconnection – Structure
+        of management information: Guidelines for the definition of managed objects'
     docidentifier:
     - content: X.722 (01/1992)
       type: ITU

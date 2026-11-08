@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the management services which may be provided to a customer and collectively described as Customer Network Management (CNM). CNM is a service which provides customers with the ability to access (and in some cases modify) management information relating to the services provided to them by the network.
+  content: This Recommendation defines the management services which may be provided
+    to a customer and collectively described as Customer Network Management (CNM).
+    CNM is a service which provides customers with the ability to access (and in some
+    cases modify) management information relating to the services provided to them
+    by the network.
 status:
   stage:
     content: Published
@@ -72,7 +76,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of customer network management services for public data networks
+      content: Definition of customer network management services for public data
+        networks
     docidentifier:
     - content: X.161 (04/1995)
       type: ITU

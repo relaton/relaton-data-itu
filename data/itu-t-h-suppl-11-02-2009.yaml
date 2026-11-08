@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 11 to ITU-T H-series Recommendations provides the gap analysis of class-based home network QoS solutions. Specifically, five documents in relevant SDOs which contain provisions of home network QoS solutions are analysed. Some aspects of class-based QoS solutions such as the number of classes and practices of DiffServ code point (DSCP) are compared and summarized. In addition, this supplement identifies some issues that need to be considered in future Recommendations.
+  content: Supplement 11 to ITU-T H-series Recommendations provides the gap analysis
+    of class-based home network QoS solutions. Specifically, five documents in relevant
+    SDOs which contain provisions of home network QoS solutions are analysed. Some
+    aspects of class-based QoS solutions such as the number of classes and practices
+    of DiffServ code point (DSCP) are compared and summarized. In addition, this supplement
+    identifies some issues that need to be considered in future Recommendations.
 status:
   stage:
     content: Published

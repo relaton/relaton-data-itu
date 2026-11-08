@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The T.120-series Recommendations collectively define a multipoint data communication service for use in multimedia conferencing environments. The purpose of ITU-T Recommendation T.120 is to provide an introduction and guide to the T.120 series. ITU-T Recommendation T.120 defines the T.120 architectural model and shows the interrelationships between the constituent Recommendations. Each Recommendation in the series is outlined and the requirements for T.120 compliance are specified. Annex A specifies T.120 channel and token allocations. Annex B specifies MCS domain parameters. Annex C specifies lightweight profiles for the T.120 architecture.This revised version of ITU-T Recommendation T.120 introduces a number of clarifications to the previous version
+  content: The T.120-series Recommendations collectively define a multipoint data
+    communication service for use in multimedia conferencing environments. The purpose
+    of ITU-T Recommendation T.120 is to provide an introduction and guide to the T.120
+    series. ITU-T Recommendation T.120 defines the T.120 architectural model and shows
+    the interrelationships between the constituent Recommendations. Each Recommendation
+    in the series is outlined and the requirements for T.120 compliance are specified.
+    Annex A specifies T.120 channel and token allocations. Annex B specifies MCS domain
+    parameters. Annex C specifies lightweight profiles for the T.120 architecture.This
+    revised version of ITU-T Recommendation T.120 introduces a number of clarifications
+    to the previous version
 status:
   stage:
     content: Published

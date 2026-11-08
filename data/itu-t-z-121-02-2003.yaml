@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Specification and Description Language (SDL) data binding to Message Sequence Charts (MSC)
+  content: Specification and Description Language (SDL) data binding to Message Sequence
+    Charts (MSC)
   type: main
 source:
 - type: src
@@ -52,7 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a Specification and Description Language (Z.100) instantiation of both the syntactic and semantic elements of the Message Sequence Chart (Z.120) data interface, defines the default types, and also the syntax for allowable SDL data definitions that may be used in an MSC Document.
+  content: This Recommendation provides a Specification and Description Language (Z.100)
+    instantiation of both the syntactic and semantic elements of the Message Sequence
+    Chart (Z.120) data interface, defines the default types, and also the syntax for
+    allowable SDL data definitions that may be used in an MSC Document.
 status:
   stage:
     content: Published
@@ -72,7 +76,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

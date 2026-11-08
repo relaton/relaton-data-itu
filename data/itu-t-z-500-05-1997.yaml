@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation \"Framework on Formal Methods in Conformance Testing\" (FMCT) defines the meaning of conformance if formal methods are used for the specification of a communication protocol or service. It is also meant to guide computer aided test generation.\r\nThis Recommendation defines a framework for the use of formal methods in conformance testing. It is intended for implementers, testers, and specifiers involved in conformance testing to guide in defining conformance and the testing process of an implementation with respect to a specification that is given as a formal description.\r\n"
+  content: "This Recommendation \"Framework on Formal Methods in Conformance Testing\"
+    (FMCT) defines the meaning of conformance if formal methods are used for the specification
+    of a communication protocol or service. It is also meant to guide computer aided
+    test generation.\r\nThis Recommendation defines a framework for the use of formal
+    methods in conformance testing. It is intended for implementers, testers, and
+    specifiers involved in conformance testing to guide in defining conformance and
+    the testing process of an implementation with respect to a specification that
+    is given as a formal description.\r\n"
 status:
   stage:
     content: Published

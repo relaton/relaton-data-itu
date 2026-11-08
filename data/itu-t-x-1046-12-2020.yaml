@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Framework of software-defined security in software-defined networks/network functions virtualization networks
+  content: Framework of software-defined security in software-defined networks/network
+    functions virtualization networks
   type: main
 source:
 - type: src
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1046 specifies a framework of software-defined security in software-defined networks (SDNs) and the network functions virtualization (NFV) networks. This framework utilizes key advantages of SDN/NFV technologies such as on-demand capacity scale-in/scale-out, dynamic and intelligent security policy control regarding real-time network status, separated deployment of control layer and data forwarding layer, full view of traffic for monitoring and unified security policy setting. \r\n"
+  content: "Recommendation ITU-T X.1046 specifies a framework of software-defined
+    security in software-defined networks (SDNs) and the network functions virtualization
+    (NFV) networks. This framework utilizes key advantages of SDN/NFV technologies
+    such as on-demand capacity scale-in/scale-out, dynamic and intelligent security
+    policy control regarding real-time network status, separated deployment of control
+    layer and data forwarding layer, full view of traffic for monitoring and unified
+    security policy setting. \r\n"
 status:
   stage:
     content: Published

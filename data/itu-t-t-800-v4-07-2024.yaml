@@ -55,7 +55,26 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation | International Standard defines a set of lossless (bit-preserving) and lossy compression methods for coding bi-level, continuous-tone grey-scale, palletized colour, or continuous-tone colour digital still images.\r\nThis Recommendation | International Standard:\r\n–specifies decoding processes for converting compressed image data to reconstructed image data;\r\n–specifies a codestream syntax containing information for interpreting the compressed image data;\r\n–specifies a file format;\r\n–provides guidance on encoding processes for converting source image data to compressed image data;\r\n–provides guidance on how to implement these processes in practice.\r\nThis edition includes the following changes relative to the previous edition:\r\n–addition of Annex N, which lists a registration request for media type image/j2c\r\n–specify that the Mastering Display Metadata Box of Annex M is optional and has no defaults, reflecting industry practice\r\n–remove obsolete and erroneous reference to IETF RFC 2279\r\n–clarify semantics of CEpoci\r\n–update reference to ISO/CIE 11664-1, Rec. ITU-R BT.601 and Rec. ITU-R BT.709\r\n–remove unused JPEG Utilities Registration Authority (JURA) term\r\n–specify the value of Rsiz when extended capabilities are present but no profile is signalled\r\n\r\nNOTE – As this specification was first published as common text only after ISO/IEC JTC1 had approved the first edition in 2000, edition numbers in the ITU and ISO/IEC versions are offset by one. This is the fourth edition of ITUT T.800 and the fifth edition of ISO/IEC 15444-1.\r\n"
+  content: "This Recommendation | International Standard defines a set of lossless
+    (bit-preserving) and lossy compression methods for coding bi-level, continuous-tone
+    grey-scale, palletized colour, or continuous-tone colour digital still images.\r\nThis
+    Recommendation | International Standard:\r\n–specifies decoding processes for
+    converting compressed image data to reconstructed image data;\r\n–specifies a
+    codestream syntax containing information for interpreting the compressed image
+    data;\r\n–specifies a file format;\r\n–provides guidance on encoding processes
+    for converting source image data to compressed image data;\r\n–provides guidance
+    on how to implement these processes in practice.\r\nThis edition includes the
+    following changes relative to the previous edition:\r\n–addition of Annex N, which
+    lists a registration request for media type image/j2c\r\n–specify that the Mastering
+    Display Metadata Box of Annex M is optional and has no defaults, reflecting industry
+    practice\r\n–remove obsolete and erroneous reference to IETF RFC 2279\r\n–clarify
+    semantics of CEpoci\r\n–update reference to ISO/CIE 11664-1, Rec. ITU-R BT.601
+    and Rec. ITU-R BT.709\r\n–remove unused JPEG Utilities Registration Authority
+    (JURA) term\r\n–specify the value of Rsiz when extended capabilities are present
+    but no profile is signalled\r\n\r\nNOTE – As this specification was first published
+    as common text only after ISO/IEC JTC1 had approved the first edition in 2000,
+    edition numbers in the ITU and ISO/IEC versions are offset by one. This is the
+    fourth edition of ITUT T.800 and the fifth edition of ISO/IEC 15444-1.\r\n"
 status:
   stage:
     content: Published
@@ -75,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (V3) (06/2019)
       type: ITU
@@ -85,7 +105,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (11/2015)
       type: ITU
@@ -115,7 +136,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - JPEG 2000 image coding system: Core coding system: Correction of equation G-9'
+      content: 'Information technology - JPEG 2000 image coding system: Core coding
+        system: Correction of equation G-9'
     docidentifier:
     - content: T.800 (2002) Cor. 3 (10/2014)
       type: ITU
@@ -135,7 +157,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Enhancements for digital cinema and archive profiles (additional frame rates)
+      content: Enhancements for digital cinema and archive profiles (additional frame
+        rates)
     docidentifier:
     - content: T.800 (2002) Amd. 5 (01/2012)
       type: ITU
@@ -213,7 +236,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (08/2002)
       type: ITU

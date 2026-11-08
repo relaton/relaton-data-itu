@@ -47,7 +47,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is a merged revised version of Recommendations G.707, G.708 and G.709 that were approved in Helsinki (03/93) by the WTSC.This Recommendation provides the requirements for the STM-N signals at the Network Node Interface of a synchronous digital network, including B-ISDN in terms of:- bit rates;- frames structures;- formats for mapping and multiplexing PDH and ATM elements;- functionalities of the overheads.
+  content: This Recommendation is a merged revised version of Recommendations G.707,
+    G.708 and G.709 that were approved in Helsinki (03/93) by the WTSC.This Recommendation
+    provides the requirements for the STM-N signals at the Network Node Interface
+    of a synchronous digital network, including B-ISDN in terms of:- bit rates;- frames
+    structures;- formats for mapping and multiplexing PDH and ATM elements;- functionalities
+    of the overheads.
 status:
   stage:
     content: Withdrawal

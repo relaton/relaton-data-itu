@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment provides an example mapping of ITU eODL for technology independent component specifications into a technology dependent one, which in this case is the CIDL (OMG Component Implementation Definition Language as part of CORBA 3.0).This amendment transforms (by means of different mappings) the concept ofcomponents from design and implementation (where modules are well known) to binary software. The composition of components takes place during execution time.
+  content: This amendment provides an example mapping of ITU eODL for technology independent
+    component specifications into a technology dependent one, which in this case is
+    the CIDL (OMG Component Implementation Definition Language as part of CORBA 3.0).This
+    amendment transforms (by means of different mappings) the concept ofcomponents
+    from design and implementation (where modules are well known) to binary software.
+    The composition of components takes place during execution time.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +77,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Extended Object Definition Language (eODL): Techniques for distributed software component development – Conceptual foundation, notations and technology mappings'
+      content: 'Extended Object Definition Language (eODL): Techniques for distributed
+        software component development – Conceptual foundation, notations and technology
+        mappings'
     docidentifier:
     - content: Z.130 (07/2003)
       type: ITU

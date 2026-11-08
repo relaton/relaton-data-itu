@@ -47,7 +47,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Study Group 8 has agreed to propose amendments to Recommendations T.4 and T.30 to include the optional use of the modulation system defined in Recommendation V.34. Amendment 2 to Recommendation T.90 covers the addition of a Telematics Profile Identifier to distinguish the use of the procedures in Annex C/T.30, in the analogue mode with the V.34 full-duplex mode from its use in the digital mode in the ISDN environment.
+  content: Study Group 8 has agreed to propose amendments to Recommendations T.4 and
+    T.30 to include the optional use of the modulation system defined in Recommendation
+    V.34. Amendment 2 to Recommendation T.90 covers the addition of a Telematics Profile
+    Identifier to distinguish the use of the procedures in Annex C/T.30, in the analogue
+    mode with the V.34 full-duplex mode from its use in the digital mode in the ISDN
+    environment.
 status:
   stage:
     content: Published
@@ -85,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Characteristics and protocols for terminals for telematic services in ISDN
+      content: Characteristics and protocols for terminals for telematic services
+        in ISDN
     docidentifier:
     - content: T.90 (02/1992)
       type: ITU
@@ -95,7 +101,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Characteristics and protocols for terminals for telematic services in ISDN
+      content: Characteristics and protocols for terminals for telematic services
+        in ISDN
     docidentifier:
     - content: T.90 (11/1988)
       type: ITU

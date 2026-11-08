@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In Internet of things (IoT) environments, many different identifiers (IDs) from various resources could be created and used. It could be difficult to unite all the existing IDs, but some systems could provide interoperability among heterogeneous IDs. As an effective solution, an integrated resolution framework for a set of existing IDs is provided. Recommendation ITU-T X.675 analyses requirements, such as ID independence, ID separation, compatibility, uniqueness, tolerance, stability and security. The general architecture for the object identifier (OID)-based resolution framework is specified with several scenarios. These scenarios show how to operate the resolution framework for heterogeneous IDs and locators (LOCs). It should be noted that this is one means of achieving interoperability, and other methods of operation are possible with other IDs and/or resolution systems.
+  content: In Internet of things (IoT) environments, many different identifiers (IDs)
+    from various resources could be created and used. It could be difficult to unite
+    all the existing IDs, but some systems could provide interoperability among heterogeneous
+    IDs. As an effective solution, an integrated resolution framework for a set of
+    existing IDs is provided. Recommendation ITU-T X.675 analyses requirements, such
+    as ID independence, ID separation, compatibility, uniqueness, tolerance, stability
+    and security. The general architecture for the object identifier (OID)-based resolution
+    framework is specified with several scenarios. These scenarios show how to operate
+    the resolution framework for heterogeneous IDs and locators (LOCs). It should
+    be noted that this is one means of achieving interoperability, and other methods
+    of operation are possible with other IDs and/or resolution systems.
 status:
   stage:
     content: Published

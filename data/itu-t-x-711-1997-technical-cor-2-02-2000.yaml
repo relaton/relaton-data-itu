@@ -55,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'ITU-T Rec. X.711 | ISO/IEC 9596-1 specifies:- procedures for the transmission of management information between application entities;- the abstract syntax of the Common Management Information Protocol (CMIP)[CP__14991] and the associated encoding rules to be applied;- procedure for the correct interpretation of protocol control information;- the conformance requirements to be met by implementation of this Recommendation | International Standard.This technical corrigendum revises the text to include ASN.1:1997 in clauses 2.1, 2.2 and 3.3.        Page: 1  [CP__14991]A: Common Management Information Protocol (CMIP)'
+  content: 'ITU-T Rec. X.711 | ISO/IEC 9596-1 specifies:- procedures for the transmission
+    of management information between application entities;- the abstract syntax of
+    the Common Management Information Protocol (CMIP)[CP__14991] and the associated
+    encoding rules to be applied;- procedure for the correct interpretation of protocol
+    control information;- the conformance requirements to be met by implementation
+    of this Recommendation | International Standard.This technical corrigendum revises
+    the text to include ASN.1:1997 in clauses 2.1, 2.2 and 3.3.        Page: 1  [CP__14991]A:
+    Common Management Information Protocol (CMIP)'
 status:
   stage:
     content: Published
@@ -83,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Common Management Information Protocol: Specification'
+      content: 'Information technology – Open Systems Interconnection – Common Management
+        Information Protocol: Specification'
     docidentifier:
     - content: X.711 (10/1997)
       type: ITU

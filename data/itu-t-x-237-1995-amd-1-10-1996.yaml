@@ -55,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment to the connectionless ACSE protocol specification includes the ASN.1 extensibility marker in the module describing the protocol. It also enhances the connectionless ACSE protocol specification to provide support for conveyance of authentication parameters in the A-UNIT-DATA APDU.
+  content: This amendment to the connectionless ACSE protocol specification includes
+    the ASN.1 extensibility marker in the module describing the protocol. It also
+    enhances the connectionless ACSE protocol specification to provide support for
+    conveyance of authentication parameters in the A-UNIT-DATA APDU.
 status:
   stage:
     content: Published
@@ -83,7 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Connectionless protocol for the Association Control Service Element: Protocol specification'
+      content: 'Information technology – Open Systems Interconnection – Connectionless
+        protocol for the Association Control Service Element: Protocol specification'
     docidentifier:
     - content: X.237 (04/1995)
       type: ITU
@@ -93,7 +97,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Connectionless protocol specification for the association control service element
+      content: Connectionless protocol specification for the association control service
+        element
     docidentifier:
     - content: X.237 (09/1992)
       type: ITU

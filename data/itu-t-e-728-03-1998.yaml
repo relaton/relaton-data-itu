@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the grade-of-service parameters for B-ISDN signalling for the Network Node-Interface. It considers both link-by-link and edge-to-edge B-ISDN protocol functions. Reference connections for these protocol functions are provided, and grade-of-service target values are given based on these reference connections.
+  content: This Recommendation defines the grade-of-service parameters for B-ISDN
+    signalling for the Network Node-Interface. It considers both link-by-link and
+    edge-to-edge B-ISDN protocol functions. Reference connections for these protocol
+    functions are provided, and grade-of-service target values are given based on
+    these reference connections.
 status:
   stage:
     content: Published
@@ -72,7 +76,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

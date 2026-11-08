@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Security requirements for external interfaces and devices with vehicle access capability
+  content: Security requirements for external interfaces and devices with vehicle
+    access capability
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1374 analyses security threats to connected vehicles in two parts: threats against interfaces which are used to communicate between a vehicle and its external devices, and threats against external devices which communicate with the vehicle. Recommendation ITU-T X.1374 specifies security requirements for such external interfaces and external devices with vehicle access capability in telecommunication network environments to address identified threats depending on types of access interfaces. Interfaces and external devices with vehicle access capability include the remote keyless entry (RKE) system with smart key, diagnostic tools and wireless dongles using on-board diagnostic II (OBD-II) port, telematics control units with wireless communication devices and so on. \r\n"
+  content: "Recommendation ITU-T X.1374 analyses security threats to connected vehicles
+    in two parts: threats against interfaces which are used to communicate between
+    a vehicle and its external devices, and threats against external devices which
+    communicate with the vehicle. Recommendation ITU-T X.1374 specifies security requirements
+    for such external interfaces and external devices with vehicle access capability
+    in telecommunication network environments to address identified threats depending
+    on types of access interfaces. Interfaces and external devices with vehicle access
+    capability include the remote keyless entry (RKE) system with smart key, diagnostic
+    tools and wireless dongles using on-board diagnostic II (OBD-II) port, telematics
+    control units with wireless communication devices and so on. \r\n"
 status:
   stage:
     content: Published

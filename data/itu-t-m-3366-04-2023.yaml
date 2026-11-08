@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3366 introduces requirements for management of blockchain systems, and includes configuration management, performance management, fault management and log management related to blockchain nodes, blockchain ledgers, smart contracts, consensus, accounts, etc., in blockchain systems. This Recommendation proposes management requirements for private chains or permissioned chains.
+  content: Recommendation ITU-T M.3366 introduces requirements for management of blockchain
+    systems, and includes configuration management, performance management, fault
+    management and log management related to blockchain nodes, blockchain ledgers,
+    smart contracts, consensus, accounts, etc., in blockchain systems. This Recommendation
+    proposes management requirements for private chains or permissioned chains.
 status:
   stage:
     content: Published

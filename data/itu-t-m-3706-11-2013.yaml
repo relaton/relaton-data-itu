@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Common management services - Test Management - Protocol Neutral Requirements and Analysis
+  content: Common management services - Test Management - Protocol Neutral Requirements
+    and Analysis
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3706 provides the requirements and analysis for test management which is one of the common management services. Test management functions are used to assist in various high level management function sets such as fault management or performance management. The purpose of testing is to obtain information about the functionality and performance of the managed network subjected to the test.\r\nThe functional requirements for the test management interface include the management functions for test object controlling, test category, test object state monitoring, test result reporting, etc. \r\nIn the analysis part, the detailed information model supporting the above functions across the management interface is provided."
+  content: "Recommendation ITU-T M.3706 provides the requirements and analysis for
+    test management which is one of the common management services. Test management
+    functions are used to assist in various high level management function sets such
+    as fault management or performance management. The purpose of testing is to obtain
+    information about the functionality and performance of the managed network subjected
+    to the test.\r\nThe functional requirements for the test management interface
+    include the management functions for test object controlling, test category, test
+    object state monitoring, test result reporting, etc. \r\nIn the analysis part,
+    the detailed information model supporting the above functions across the management
+    interface is provided."
 status:
   stage:
     content: Published

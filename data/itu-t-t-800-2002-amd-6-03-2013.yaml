@@ -55,7 +55,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 6 to ITU-T T.800 (2002) | ISO/IEC 15444-1 (2004) clarifies the usage of ICC profiles to indicate colour spaces within the framework of ITU-T T.800 (2002) | ISO/IEC 15444-1 (2004). Specifically, it clarifies that matrix based display and matrix based input profiles are applicable.\r\nIt was furthermore found that the definitions for the tone mapping operations for grey scale and sRGB colour spaces of the colour specification box were only applicable for 8bpp input data, and hence did not allow the required bit-depth scalability JPEG 2000 follows otherwise. The definitions were extended to arbitrary bit depths, following the same principles as in ITU-T T.801 (2002) | ISO/IEC 15444-2 (2004) while restricting them to simple cases.\r\nAmendment 6 also improves and clarifies the definition of the Capture Resolution and Default Display Resolution boxes, and adds informative notes on their suggested usage.\r\n"
+  content: "Amendment 6 to ITU-T T.800 (2002) | ISO/IEC 15444-1 (2004) clarifies the
+    usage of ICC profiles to indicate colour spaces within the framework of ITU-T
+    T.800 (2002) | ISO/IEC 15444-1 (2004). Specifically, it clarifies that matrix
+    based display and matrix based input profiles are applicable.\r\nIt was furthermore
+    found that the definitions for the tone mapping operations for grey scale and
+    sRGB colour spaces of the colour specification box were only applicable for 8bpp
+    input data, and hence did not allow the required bit-depth scalability JPEG 2000
+    follows otherwise. The definitions were extended to arbitrary bit depths, following
+    the same principles as in ITU-T T.801 (2002) | ISO/IEC 15444-2 (2004) while restricting
+    them to simple cases.\r\nAmendment 6 also improves and clarifies the definition
+    of the Capture Resolution and Default Display Resolution boxes, and adds informative
+    notes on their suggested usage.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -75,7 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology - JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (V4) (07/2024)
       type: ITU
@@ -85,7 +97,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (V3) (06/2019)
       type: ITU
@@ -95,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (11/2015)
       type: ITU
@@ -125,7 +139,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - JPEG 2000 image coding system: Core coding system: Correction of equation G-9'
+      content: 'Information technology - JPEG 2000 image coding system: Core coding
+        system: Correction of equation G-9'
     docidentifier:
     - content: T.800 (2002) Cor. 3 (10/2014)
       type: ITU
@@ -135,7 +150,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Enhancements for digital cinema and archive profiles (additional frame rates)
+      content: Enhancements for digital cinema and archive profiles (additional frame
+        rates)
     docidentifier:
     - content: T.800 (2002) Amd. 5 (01/2012)
       type: ITU
@@ -213,7 +229,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (08/2002)
       type: ITU

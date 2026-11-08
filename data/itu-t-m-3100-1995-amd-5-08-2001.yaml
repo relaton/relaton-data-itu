@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment defines an enhanced cross-connect capability that allows splitting of bidirectional cross-connects into unicast, changing between unicast and broadcast cross-connects and joining of unicast cross-connects into broadcast cross-connects.
+  content: This amendment defines an enhanced cross-connect capability that allows
+    splitting of bidirectional cross-connects into unicast, changing between unicast
+    and broadcast cross-connects and joining of unicast cross-connects into broadcast
+    cross-connects.
 status:
   stage:
     content: Withdrawal
@@ -114,7 +117,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of the management interface for a bridge-and-roll cross-connect feature
+      content: Definition of the management interface for a bridge-and-roll cross-connect
+        feature
     docidentifier:
     - content: M.3100 (1995) Amd. 4 (08/2001)
       type: ITU
@@ -132,7 +136,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of the management interface for a generic alarm reporting control (ARC) feature
+      content: Definition of the management interface for a generic alarm reporting
+        control (ARC) feature
     docidentifier:
     - content: M.3100 (1995) Amd. 3 (01/2001)
       type: ITU

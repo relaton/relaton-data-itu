@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A secure password-based authentication protocol with key exchange is a kind of authentication protocol with authenticated key exchange using a human-memorable password. It is very simple and easy to implement as well as easy to use; no need for other infrastructure,e.g., PKI. A secure password-based authentication protocol with key exchange (SPAK) becomes very important, since a variety of usage cases in many applications will emerge in the near future. In addition, SPAK provides both user authentication and strong key exchange with weak password, i.e., the subsequent communication session can be protected by a shared secret during the authentication procedure.ITU-T Recommendation X.1151 is intended to identify a set of requirements for password-based authentication protocols and define the guideline for selecting the most suitable password authentication protocol by presenting the criteria for choosing an optimum SPAK protocol for applications. SPAK can also be used in a wide variety of applications wherein pre-shared secrets based on the weak password exist.
+  content: A secure password-based authentication protocol with key exchange is a
+    kind of authentication protocol with authenticated key exchange using a human-memorable
+    password. It is very simple and easy to implement as well as easy to use; no need
+    for other infrastructure,e.g., PKI. A secure password-based authentication protocol
+    with key exchange (SPAK) becomes very important, since a variety of usage cases
+    in many applications will emerge in the near future. In addition, SPAK provides
+    both user authentication and strong key exchange with weak password, i.e., the
+    subsequent communication session can be protected by a shared secret during the
+    authentication procedure.ITU-T Recommendation X.1151 is intended to identify a
+    set of requirements for password-based authentication protocols and define the
+    guideline for selecting the most suitable password authentication protocol by
+    presenting the criteria for choosing an optimum SPAK protocol for applications.
+    SPAK can also be used in a wide variety of applications wherein pre-shared secrets
+    based on the weak password exist.
 status:
   stage:
     content: Published

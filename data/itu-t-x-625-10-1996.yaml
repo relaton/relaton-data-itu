@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Protocol for providing the connectionless-mode Network service: Provision of the underlying service by ISDN circuit-switched B-channels'
+  content: 'Information technology – Protocol for providing the connectionless-mode
+    Network service: Provision of the underlying service by ISDN circuit-switched
+    B-channels'
   type: main
 source:
 - type: src
@@ -55,7 +57,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies the way in which the underlying service assumed by the protocol defined by ITU-T Rec. X.223 | ISO/IEC 8473-1 is provided by a subnetwork that conforms to Recommendation Q.931 through the operation of a Subnetwork Dependent Convergence Function (SNDCF). This Recommendation | International Standard also provides the PICS proforma for this protocol, in compliance with the relevant requirements, and in accordance with the relevant guidance given in Recommendation X290.
+  content: This Recommendation | International Standard specifies the way in which
+    the underlying service assumed by the protocol defined by ITU-T Rec. X.223 | ISO/IEC
+    8473-1 is provided by a subnetwork that conforms to Recommendation Q.931 through
+    the operation of a Subnetwork Dependent Convergence Function (SNDCF). This Recommendation
+    | International Standard also provides the PICS proforma for this protocol, in
+    compliance with the relevant requirements, and in accordance with the relevant
+    guidance given in Recommendation X290.
 status:
   stage:
     content: Published

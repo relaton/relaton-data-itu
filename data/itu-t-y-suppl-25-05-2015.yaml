@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 25 to the ITU-T Y.2770 series provides complementary information on deep packet inspection (DPI) use cases and application scenarios in evolving networks. Detailed use cases are specified including application identification and traffic detection, application performance measurements, application specific energy measurements, application statistics reporting, diagnosis and analysis, application traffic optimization and application enrichment, provision of tiered services and parental control. The application scenarios of DPI in next generation networks (NGNs), enterprise networks (ENs) and software-defined networking (SDN) are specified to help guide the deployment of DPI for service/application awareness in evolving networks.
+  content: Supplement 25 to the ITU-T Y.2770 series provides complementary information
+    on deep packet inspection (DPI) use cases and application scenarios in evolving
+    networks. Detailed use cases are specified including application identification
+    and traffic detection, application performance measurements, application specific
+    energy measurements, application statistics reporting, diagnosis and analysis,
+    application traffic optimization and application enrichment, provision of tiered
+    services and parental control. The application scenarios of DPI in next generation
+    networks (NGNs), enterprise networks (ENs) and software-defined networking (SDN)
+    are specified to help guide the deployment of DPI for service/application awareness
+    in evolving networks.
 status:
   stage:
     content: Published

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology - Security techniques - Telebiometric authentication framework using biometric hardware security module
+  content: Information technology - Security techniques - Telebiometric authentication
+    framework using biometric hardware security module
   type: main
 source:
 - type: src
@@ -55,7 +56,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1085 | ISO/IEC 17992 describes a telebiometric authentication scheme using biometric hardware security module (BHSM) for the telebiometric authentication of proving owner of X.509 certificate registered individual at RA (Register Authority). This Recommendation | International Standard provides the requirements for deploying the BHSM scheme to securely operate the telebiometric authentication under PKI environments. The scheme focuses on providing how to assure the telebiometric authentication with biometric techniques and hardware security module and it also suggests ASN.1 standard format for including the proposed scheme in X.509 framework when telebiometric authentication and X.509 certificate are combined to prove the owner of the certificate.
+  content: Recommendation ITU-T X.1085 | ISO/IEC 17992 describes a telebiometric authentication
+    scheme using biometric hardware security module (BHSM) for the telebiometric authentication
+    of proving owner of X.509 certificate registered individual at RA (Register Authority).
+    This Recommendation | International Standard provides the requirements for deploying
+    the BHSM scheme to securely operate the telebiometric authentication under PKI
+    environments. The scheme focuses on providing how to assure the telebiometric
+    authentication with biometric techniques and hardware security module and it also
+    suggests ASN.1 standard format for including the proposed scheme in X.509 framework
+    when telebiometric authentication and X.509 certificate are combined to prove
+    the owner of the certificate.
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1234 specifies guidelines for countering multimedia messaging service (MMS) spam. It analyses typical scenarios, characteristics and recognition methods of MMS spam, and provides a technical framework, workflows and some key technologies of MMS spam recognition, to help MMS providers and MMS users to counter spam.
+  content: Recommendation ITU-T X.1234 specifies guidelines for countering multimedia
+    messaging service (MMS) spam. It analyses typical scenarios, characteristics and
+    recognition methods of MMS spam, and provides a technical framework, workflows
+    and some key technologies of MMS spam recognition, to help MMS providers and MMS
+    users to counter spam.
 status:
   stage:
     content: Published

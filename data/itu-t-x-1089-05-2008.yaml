@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1089 defines an authentication infrastructure, using a range of biometric certificates, for remote authentication of human beings. It extends Recommendation ITU-T X.509 Public-key and attribute certificate frameworks and ISO/IEC 24761 Authentication context for biometrics. The combination of the X.509 extensions and telecommunications and biometrics is called the telebiometrics authentication infrastructure (TAI). It can be used in authentication applications with or without a public key infrastructure (PKI) and/or a privilege management infrastructure (PMI) based on Recommendation ITU-T X.509, but would normally be used with both. It defines biometric extension fields for use in X.509 certificates, to produce biometric certificates. An important part of this Recommendation is to recognize and provide for biometric devices and associated software to operate at different (certified) security levels, depending on the needs of the application that is being accessed.
+  content: Recommendation ITU-T X.1089 defines an authentication infrastructure, using
+    a range of biometric certificates, for remote authentication of human beings.
+    It extends Recommendation ITU-T X.509 Public-key and attribute certificate frameworks
+    and ISO/IEC 24761 Authentication context for biometrics. The combination of the
+    X.509 extensions and telecommunications and biometrics is called the telebiometrics
+    authentication infrastructure (TAI). It can be used in authentication applications
+    with or without a public key infrastructure (PKI) and/or a privilege management
+    infrastructure (PMI) based on Recommendation ITU-T X.509, but would normally be
+    used with both. It defines biometric extension fields for use in X.509 certificates,
+    to produce biometric certificates. An important part of this Recommendation is
+    to recognize and provide for biometric devices and associated software to operate
+    at different (certified) security levels, depending on the needs of the application
+    that is being accessed.
 status:
   stage:
     content: Published

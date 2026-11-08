@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Distributed Processing – Reference Model – Enterprise language
+  content: Information technology – Open Distributed Processing – Reference Model
+    – Enterprise language
   type: main
 source:
 - type: src
@@ -55,7 +56,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation | International Standard provides:\r\na) a language (the enterprise language) comprising concepts, structures, and rules for developing, representing, and reasoning about a specification of an Open Distributed Processing (ODP) system from the enterprise viewpoint (as defined in ITU-T Rec. X.903 | ISO/IEC 10746-3);\r\nb) rules which establish correspondences between the enterprise language and the other viewpoint languages (defined in ITU-T Rec. X.903 | ISO/IEC 10746-3) to ensure the overall consistency of a specification."
+  content: "This Recommendation | International Standard provides:\r\na) a language
+    (the enterprise language) comprising concepts, structures, and rules for developing,
+    representing, and reasoning about a specification of an Open Distributed Processing
+    (ODP) system from the enterprise viewpoint (as defined in ITU-T Rec. X.903 | ISO/IEC
+    10746-3);\r\nb) rules which establish correspondences between the enterprise language
+    and the other viewpoint languages (defined in ITU-T Rec. X.903 | ISO/IEC 10746-3)
+    to ensure the overall consistency of a specification."
 status:
   stage:
     content: Withdrawal
@@ -75,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open distributed processing – Reference model – Enterprise language
+      content: Information technology – Open distributed processing – Reference model
+        – Enterprise language
     docidentifier:
     - content: X.911 (09/2014)
       type: ITU
@@ -85,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open distributed processing – Reference model – Enterprise language
+      content: Information technology – Open distributed processing – Reference model
+        – Enterprise language
     docidentifier:
     - content: X.911 (05/2005)
       type: ITU

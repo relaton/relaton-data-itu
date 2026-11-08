@@ -55,7 +55,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies a representation of an instance of the W3C XML Information Set using binary encodings. These binary encodings are specified using the ASN.1 notation and the ASN.1 Encoding Control Notation (ECN).The technology specified in this Recommendation | International Standard is named Fast Infoset. It provides an alternative to W3C XML syntax as a means of representing instances of the W3C XML Information Set. This representation generally provides smaller encoding sizes and faster processing than a W3C XML representation. This Recommendation | International Standard specifies the use of several techniques that minimize the size of the encodings (called fast infoset documents) and that maximize the speed of creating and processing fast infoset documents. These techniques include the use of dynamic tables (for both character strings and qualified names), initial vocabularies, and external vocabularies.This Recommendation | International Standard also specifies a Multipurpose Internet Mail Extensions (MIME) media type that identifies a fast infoset document.
+  content: This Recommendation | International Standard specifies a representation
+    of an instance of the W3C XML Information Set using binary encodings. These binary
+    encodings are specified using the ASN.1 notation and the ASN.1 Encoding Control
+    Notation (ECN).The technology specified in this Recommendation | International
+    Standard is named Fast Infoset. It provides an alternative to W3C XML syntax as
+    a means of representing instances of the W3C XML Information Set. This representation
+    generally provides smaller encoding sizes and faster processing than a W3C XML
+    representation. This Recommendation | International Standard specifies the use
+    of several techniques that minimize the size of the encodings (called fast infoset
+    documents) and that maximize the speed of creating and processing fast infoset
+    documents. These techniques include the use of dynamic tables (for both character
+    strings and qualified names), initial vocabularies, and external vocabularies.This
+    Recommendation | International Standard also specifies a Multipurpose Internet
+    Mail Extensions (MIME) media type that identifies a fast infoset document.
 status:
   stage:
     content: Published

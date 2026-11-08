@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Framework for NGN service assurance management across the business to business and customer to business interfaces
+  content: Framework for NGN service assurance management across the business to business
+    and customer to business interfaces
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3340 contains the business to business/customer to business (B2B/C2B) interface framework for NGN service assurance management in the NGN management view. The framework of the interface across several administrative domains in the NGN service supply chain is provided. The interface framework is provided using the telecommunications management network (TMN) interface specification methodology described in Recommendation ITU-T M.3020, the NGN management architecture described in Recommendation ITU-T M.3060/Y.2401, the public B2B business operations map described in Recommendation ITU-T M.3050 Supplement 2.
+  content: Recommendation ITU-T M.3340 contains the business to business/customer
+    to business (B2B/C2B) interface framework for NGN service assurance management
+    in the NGN management view. The framework of the interface across several administrative
+    domains in the NGN service supply chain is provided. The interface framework is
+    provided using the telecommunications management network (TMN) interface specification
+    methodology described in Recommendation ITU-T M.3020, the NGN management architecture
+    described in Recommendation ITU-T M.3060/Y.2401, the public B2B business operations
+    map described in Recommendation ITU-T M.3050 Supplement 2.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Framework for NGN service fulfilment and assurance management across the business to business and customer to business interfaces
+      content: Framework for NGN service fulfilment and assurance management across
+        the business to business and customer to business interfaces
     docidentifier:
     - content: M.3340 (05/2009)
       type: ITU

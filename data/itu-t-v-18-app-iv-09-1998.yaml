@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Appendix to ITU-T Recommendation V.18 contains test specifications for testing implementations of Recommendation V.18 Operational and Interworking Requirements for DCEs Operating in the Text Telephone Mode. It contains one small section with basic interworking tests on a functional level and one larger section with implementation test cases. The interworking test is meant to give some confidence in that there is reason to perform the more elaborate implementation tests. The tests are supposed to be supported by a semi-automatic test tool called the "tester". The tests are designed so that they verify one part of the V.18 logic each. The tests do not compose a full conformance test, but are intended to give confidence in that a V.18 implementation is made according to the Recommendation.
+  content: This Appendix to ITU-T Recommendation V.18 contains test specifications
+    for testing implementations of Recommendation V.18 Operational and Interworking
+    Requirements for DCEs Operating in the Text Telephone Mode. It contains one small
+    section with basic interworking tests on a functional level and one larger section
+    with implementation test cases. The interworking test is meant to give some confidence
+    in that there is reason to perform the more elaborate implementation tests. The
+    tests are supposed to be supported by a semi-automatic test tool called the "tester".
+    The tests are designed so that they verify one part of the V.18 logic each. The
+    tests do not compose a full conformance test, but are intended to give confidence
+    in that a V.18 implementation is made according to the Recommendation.
 status:
   stage:
     content: Withdrawal
@@ -82,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and interworking requirements for DCEs operating in the text telephone mode
+      content: Operational and interworking requirements for DCEs operating in the
+        text telephone mode
     docidentifier:
     - content: V.18 (11/2000)
       type: ITU
@@ -102,7 +112,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and interworking requirements for DCEs operating in the text telephone mode
+      content: Operational and interworking requirements for DCEs operating in the
+        text telephone mode
     docidentifier:
     - content: V.18 (02/1998)
       type: ITU
@@ -112,7 +123,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and interworking requirements for DCEs operating in the text telephone mode
+      content: Operational and interworking requirements for DCEs operating in the
+        text telephone mode
     docidentifier:
     - content: V.18 (10/1996)
       type: ITU
@@ -122,7 +134,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Operational and interworking requirements for modems operating in the text telephone mode
+      content: Operational and interworking requirements for modems operating in the
+        text telephone mode
     docidentifier:
     - content: V.18 (09/1994)
       type: ITU

@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1368 specifies: 1) basic models and procedures for securely updating firmware or software (FW/SW) of Internet of things (IoT) devices; and 2) requirements and capabilities for updating IoT FW. \r\n\r\nA common secure update procedure is specified with general requirements. This procedure allows common IoT SW/FW updates to be securely implemented among stakeholders in the IoT environment, such as IoT device developers and IoT system/service providers. \r\n\r\nThis Recommendation focuses on updating FW, but it is applicable to updating any other SW of IoT devices. \r\n"
+  content: "Recommendation ITU-T X.1368 specifies: 1) basic models and procedures
+    for securely updating firmware or software (FW/SW) of Internet of things (IoT)
+    devices; and 2) requirements and capabilities for updating IoT FW. \r\n\r\nA common
+    secure update procedure is specified with general requirements. This procedure
+    allows common IoT SW/FW updates to be securely implemented among stakeholders
+    in the IoT environment, such as IoT device developers and IoT system/service providers.
+    \r\n\r\nThis Recommendation focuses on updating FW, but it is applicable to updating
+    any other SW of IoT devices. \r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'A network externality relates to the additional effects of a user joining a network which the user does not take into account. A user joins a network to obtain a benefit from making and receiving calls and derives a benefit from being part of the communications network. This benefit derives from being able to communicate with other users and increases with the number of users connected to the network: the bigger the network, the more beneficial it is to both existing and potential users. Hence, a user''s decision to join a network benefits both them and other users. This Recommendation provides recommendations related to the payment of network externality premiums.'
+  content: 'A network externality relates to the additional effects of a user joining
+    a network which the user does not take into account. A user joins a network to
+    obtain a benefit from making and receiving calls and derives a benefit from being
+    part of the communications network. This benefit derives from being able to communicate
+    with other users and increases with the number of users connected to the network:
+    the bigger the network, the more beneficial it is to both existing and potential
+    users. Hence, a user''s decision to join a network benefits both them and other
+    users. This Recommendation provides recommendations related to the payment of
+    network externality premiums.'
 status:
   stage:
     content: Published
@@ -112,7 +120,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing national tariffs
+      content: Handbook on the methodology for determining costs and establishing
+        national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

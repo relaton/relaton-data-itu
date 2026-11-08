@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: International billed number screening procedures for collect and third-party calling
+  content: International billed number screening procedures for collect and third-party
+    calling
   type: main
 source:
 - type: src
@@ -52,7 +53,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Billed Number Screening messages may be used for determining the validity of billing calls to a telephone number on collect and third-party calls, and any conditions related to the acceptance of charges by the billed party. Information on such conditions would be stored within a Billed Number Screening system, most likely within a database.This Recommendation describes information used within the Billed Number Screening process at a conceptual level and makes no attempt to specify any equipment, facilities and data transmission techniques. In addition, the use of systems and networks also involve service agreements between ROAs; these agreements are beyond the scope of this Recommendation. It should be noted that future technological developments may allow operator service functions to be automated (e.g. using voice recognition); this Recommendation is not reliant on, nor does it preclude, that automation.
+  content: Billed Number Screening messages may be used for determining the validity
+    of billing calls to a telephone number on collect and third-party calls, and any
+    conditions related to the acceptance of charges by the billed party. Information
+    on such conditions would be stored within a Billed Number Screening system, most
+    likely within a database.This Recommendation describes information used within
+    the Billed Number Screening process at a conceptual level and makes no attempt
+    to specify any equipment, facilities and data transmission techniques. In addition,
+    the use of systems and networks also involve service agreements between ROAs;
+    these agreements are beyond the scope of this Recommendation. It should be noted
+    that future technological developments may allow operator service functions to
+    be automated (e.g. using voice recognition); this Recommendation is not reliant
+    on, nor does it preclude, that automation.
 status:
   stage:
     content: Published
@@ -72,7 +84,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.100 series – Framework of disaster management for disaster relief system
+      content: ITU-T E.100 series – Framework of disaster management for disaster
+        relief system
     docidentifier:
     - content: E-100 series Suppl. 1 (02/2019)
       type: ITU
@@ -82,7 +95,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

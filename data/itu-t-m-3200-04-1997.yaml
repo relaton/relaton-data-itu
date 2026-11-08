@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides an overview of the M.3200-Series. It describes the structuring principles of the M.3200-Series and lists the currently agreed Recommendations.The concepts of "Telecommunications Managed Area'' and "Telecommunications Management" are introduced. A summary description of each is provided, as well as a matrix defining their relationships. These Recommendations are intended as the basis for the corresponding modelling and protocol work on the TMN interfaces. They also provide a basis from which an Administration might plan the evolution of its Telecommunications Management as defined in 3.2 of this Recommendation.The Recommendation is completed through a summary of a hypothetical example of the management context of a matrix crosspoint, i.e. Maintenance Management of Switched Telephone Network.
+  content: This Recommendation provides an overview of the M.3200-Series. It describes
+    the structuring principles of the M.3200-Series and lists the currently agreed
+    Recommendations.The concepts of "Telecommunications Managed Area'' and "Telecommunications
+    Management" are introduced. A summary description of each is provided, as well
+    as a matrix defining their relationships. These Recommendations are intended as
+    the basis for the corresponding modelling and protocol work on the TMN interfaces.
+    They also provide a basis from which an Administration might plan the evolution
+    of its Telecommunications Management as defined in 3.2 of this Recommendation.The
+    Recommendation is completed through a summary of a hypothetical example of the
+    management context of a matrix crosspoint, i.e. Maintenance Management of Switched
+    Telephone Network.
 status:
   stage:
     content: Published

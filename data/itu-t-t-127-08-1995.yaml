@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a protocol to support the interchange of binary file data within an interactive conferencing or group working environment where the T.120 suite of standards is in use. It provides mechanisms to support simultaneous distribution of multiple files, selective distribution of files to a subset of participants and retrieval of files from remote sites. Provision is also made for remote directory access.
+  content: This Recommendation defines a protocol to support the interchange of binary
+    file data within an interactive conferencing or group working environment where
+    the T.120 suite of standards is in use. It provides mechanisms to support simultaneous
+    distribution of multiple files, selective distribution of files to a subset of
+    participants and retrieval of files from remote sites. Provision is also made
+    for remote directory access.
 status:
   stage:
     content: Withdrawal

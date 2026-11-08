@@ -52,7 +52,27 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In an information security management system (ISMS) based on Recommendation ITU-T X.1051 and ISO/IEC Standards 27001 and 27002, physical security is a key issue. The electromagnetic interference caused by a high-power electromagnetic (HPEM) attack and the ability to intercept information due to unintentional electromagnetic emissions of equipment are significantly determined by the applied physical security measures.\r\nWhen information security is managed, it is necessary to evaluate and mitigate the threat to either the equipment or the site. This threat is related to \"vulnerability\" and \"confidentiality\" in ISMS.\r\nRecommendation ITU-T K.81 presents guidance on establishing the threat level presented by an intentional HPEM attack and the physical security measures that may be used to minimize this threat. ITU-T K-Supplement 5 provides the calculation results of the intentional HPEM threats. The HPEM sources considered are those presented in IEC 61000-2-13, as well as some additional sources that have emerged more recently.\r\nRecommendation ITU-T K.81 also provides information on the vulnerability of equipment. The example of vulnerability is provided in ITU-T K-Supplement 5. The equipment is assumed to meet the immunity requirements presented in Recommendation ITUT K.48 and relevant resistibility requirements, such as those described in Recommendations ITU-T K.20, ITU-T K.21 and ITU-T K.45.\r\nThe 2016 version of this Recommendation deleted Appendices I, II and III. Appendix I was republished as Supplement 5 to the K-series Recommendations, and the relevant parts of Appendix II were transferred to ITU-T K.115.\r\n"
+  content: "In an information security management system (ISMS) based on Recommendation
+    ITU-T X.1051 and ISO/IEC Standards 27001 and 27002, physical security is a key
+    issue. The electromagnetic interference caused by a high-power electromagnetic
+    (HPEM) attack and the ability to intercept information due to unintentional electromagnetic
+    emissions of equipment are significantly determined by the applied physical security
+    measures.\r\nWhen information security is managed, it is necessary to evaluate
+    and mitigate the threat to either the equipment or the site. This threat is related
+    to \"vulnerability\" and \"confidentiality\" in ISMS.\r\nRecommendation ITU-T
+    K.81 presents guidance on establishing the threat level presented by an intentional
+    HPEM attack and the physical security measures that may be used to minimize this
+    threat. ITU-T K-Supplement 5 provides the calculation results of the intentional
+    HPEM threats. The HPEM sources considered are those presented in IEC 61000-2-13,
+    as well as some additional sources that have emerged more recently.\r\nRecommendation
+    ITU-T K.81 also provides information on the vulnerability of equipment. The example
+    of vulnerability is provided in ITU-T K-Supplement 5. The equipment is assumed
+    to meet the immunity requirements presented in Recommendation ITUT K.48 and relevant
+    resistibility requirements, such as those described in Recommendations ITU-T K.20,
+    ITU-T K.21 and ITU-T K.45.\r\nThe 2016 version of this Recommendation deleted
+    Appendices I, II and III. Appendix I was republished as Supplement 5 to the K-series
+    Recommendations, and the relevant parts of Appendix II were transferred to ITU-T
+    K.115.\r\n"
 status:
   stage:
     content: Published
@@ -102,7 +122,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
+        cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -112,7 +133,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.81 - Estimation examples of the high-power electromagnetic threat and vulnerability for telecommunication systems
+      content: ITU-T K.81 - Estimation examples of the high-power electromagnetic
+        threat and vulnerability for telecommunication systems
     docidentifier:
     - content: K Suppl. 5 (04/2016)
       type: ITU
@@ -132,7 +154,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic
+        fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -142,7 +165,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of
+        requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -152,7 +176,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
+        mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -162,7 +187,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
+        guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -192,7 +218,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles
+        using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

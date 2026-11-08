@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides guidance for application developers and application protocol developers on the correct and effective use of the T.120 infrastructure. It provides a generic model for an application that communicates using T.120 services and defines a Generic Application Template specifying the use of T.122 (MCS) and T.124 (GCC) services that are commonly required by application protocols making use of T.120 services. This Recommendation provides a common structure to application protocol entities, ensuring that separate application protocol entities can coexist in the same conference. Application protocol entities that do not follow the operations defined in this Recommendation risk interfering with other application protocols.
+  content: This Recommendation provides guidance for application developers and application
+    protocol developers on the correct and effective use of the T.120 infrastructure.
+    It provides a generic model for an application that communicates using T.120 services
+    and defines a Generic Application Template specifying the use of T.122 (MCS) and
+    T.124 (GCC) services that are commonly required by application protocols making
+    use of T.120 services. This Recommendation provides a common structure to application
+    protocol entities, ensuring that separate application protocol entities can coexist
+    in the same conference. Application protocol entities that do not follow the operations
+    defined in this Recommendation risk interfering with other application protocols.
 status:
   stage:
     content: Published

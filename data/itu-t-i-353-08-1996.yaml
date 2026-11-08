@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is one of the Recommendations (I.350, I.351 and I.353) that define general aspects of ISDN performance and provide a basis for the definition of specific performance parameters and values in other I-Series and G-Series Recommendations.The ISDN performance parameters are defined in terms of reference events which can be observed at physical measurement points within an ISDN connection. This Recommendation defines the relevant measurement points and associated performance-significant ISDN reference events.
+  content: This Recommendation is one of the Recommendations (I.350, I.351 and I.353)
+    that define general aspects of ISDN performance and provide a basis for the definition
+    of specific performance parameters and values in other I-Series and G-Series Recommendations.The
+    ISDN performance parameters are defined in terms of reference events which can
+    be observed at physical measurement points within an ISDN connection. This Recommendation
+    defines the relevant measurement points and associated performance-significant
+    ISDN reference events.
 status:
   stage:
     content: Published
@@ -82,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Principles, criteria and procedures for the assignment and reclamation of E.164 country codes and associated identification codes for groups of countries
+  content: Principles, criteria and procedures for the assignment and reclamation
+    of E.164 country codes and associated identification codes for groups of countries
   type: main
 source:
 - type: src
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the principles, criteria and procedures for the assignment and reclamation of resources within a shared E.164 Country Code for Groups of Countries. These shared Country Codes coexist with all other E.164-based Country Codes assigned by ITU-T. The resource of the shared Country Code consists of a Country Code and a Group Identification Code (CC + GIC) and provides the capability for a Group of Countries to provide telecommunication services within the Group of Countries. TSB is responsible for the assignment of the CC + GIC.
+  content: This Recommendation describes the principles, criteria and procedures for
+    the assignment and reclamation of resources within a shared E.164 Country Code
+    for Groups of Countries. These shared Country Codes coexist with all other E.164-based
+    Country Codes assigned by ITU-T. The resource of the shared Country Code consists
+    of a Country Code and a Group Identification Code (CC + GIC) and provides the
+    capability for a Group of Countries to provide telecommunication services within
+    the Group of Countries. TSB is responsible for the assignment of the CC + GIC.
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.100 series – Framework of disaster management for disaster relief system
+      content: ITU-T E.100 series – Framework of disaster management for disaster
+        relief system
     docidentifier:
     - content: E-100 series Suppl. 1 (02/2019)
       type: ITU
@@ -82,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

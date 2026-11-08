@@ -55,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Amendment 1 to ITU-T Rec. X.694 | ISO/IEC 8825-5 adds the specification of Version 2 of the mapping from XSD into ASN.1. The Version 2 mapping is more efficient in two main areas: the ASN.1 time types are used rather than VisibleString for mappings of dates and times; the Fast Infoset specification (ITU-T Rec. X.891 | ISO/IEC 24824-1) is used for the mapping of XSD wild-cards. Both these changes to the mapping provide much more compact binary encodings for the XML specified by the XSD.This amendment also includes editorial clarifications, and corrections to a number of defects that were identified. Both these changes apply to both Version 1 and Version 2.'
+  content: 'Amendment 1 to ITU-T Rec. X.694 | ISO/IEC 8825-5 adds the specification
+    of Version 2 of the mapping from XSD into ASN.1. The Version 2 mapping is more
+    efficient in two main areas: the ASN.1 time types are used rather than VisibleString
+    for mappings of dates and times; the Fast Infoset specification (ITU-T Rec. X.891
+    | ISO/IEC 24824-1) is used for the mapping of XSD wild-cards. Both these changes
+    to the mapping provide much more compact binary encodings for the XML specified
+    by the XSD.This amendment also includes editorial clarifications, and corrections
+    to a number of defects that were identified. Both these changes apply to both
+    Version 1 and Version 2.'
 status:
   stage:
     content: Withdrawal
@@ -75,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1'
+      content: 'Information technology - ASN.1 encoding rules: Mapping W3C XML schema
+        definitions into ASN.1'
     docidentifier:
     - content: X.694 (02/2021)
       type: ITU
@@ -93,7 +102,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1'
+      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema
+        definitions into ASN.1'
     docidentifier:
     - content: X.694 (08/2015)
       type: ITU
@@ -119,7 +129,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1'
+      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema
+        definitions into ASN.1'
     docidentifier:
     - content: X.694 (11/2008)
       type: ITU
@@ -137,7 +148,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1'
+      content: 'Information technology – ASN.1 encoding rules: Mapping W3C XML schema
+        definitions into ASN.1'
     docidentifier:
     - content: X.694 (01/2004)
       type: ITU

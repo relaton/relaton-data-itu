@@ -47,7 +47,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment provides several enhancements to the generic network and network element level information model. First, it details a mechanism that supports reporting attribute value ranges across the EMS-NMS interface. Second, it defines a new Generic Transport TTP object class which is intended to represent a physical port or endpoints of transport connections. Third, it defines a new object class, ManagedElementR2, a subclass of ManagedElement with three additional attributes added. These attributes include one to hold the "model code" of a piece of equipment. Another new attribute is used to represent network element aliases, or names used by the EMS to refer to Network Elements. Also defined is an attribute to hold the generic "type" of network element.Another enhancement included in this amendment relates to expanding the CharacteristicInfo constants module so that it can adequately represent as much of the currently available signal rates as possible.
+  content: This amendment provides several enhancements to the generic network and
+    network element level information model. First, it details a mechanism that supports
+    reporting attribute value ranges across the EMS-NMS interface. Second, it defines
+    a new Generic Transport TTP object class which is intended to represent a physical
+    port or endpoints of transport connections. Third, it defines a new object class,
+    ManagedElementR2, a subclass of ManagedElement with three additional attributes
+    added. These attributes include one to hold the "model code" of a piece of equipment.
+    Another new attribute is used to represent network element aliases, or names used
+    by the EMS to refer to Network Elements. Also defined is an attribute to hold
+    the generic "type" of network element.Another enhancement included in this amendment
+    relates to expanding the CharacteristicInfo constants module so that it can adequately
+    represent as much of the currently available signal rates as possible.
 status:
   stage:
     content: Withdrawal
@@ -111,7 +122,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of the management interface for a bridge-and-roll cross-connect feature
+      content: Definition of the management interface for a bridge-and-roll cross-connect
+        feature
     docidentifier:
     - content: M.3100 (1995) Amd. 4 (08/2001)
       type: ITU
@@ -129,7 +141,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definition of the management interface for a generic alarm reporting control (ARC) feature
+      content: Definition of the management interface for a generic alarm reporting
+        control (ARC) feature
     docidentifier:
     - content: M.3100 (1995) Amd. 3 (01/2001)
       type: ITU

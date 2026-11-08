@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the general aspects of network capabilities for the support of multimedia services, including audiovisual services. Network capabilities to support multimedia services and applications are described by means of reference configurations and corresponding network architectures. Functional blocks in the architecture are identified and the physical and logical relationships among these blocks are described. Although assumptions must necessarily be made regarding the functionality of Customer Premises Equipment (CPE), specific requirements for CPE are outside the scope of this Recommendation.
+  content: This Recommendation specifies the general aspects of network capabilities
+    for the support of multimedia services, including audiovisual services. Network
+    capabilities to support multimedia services and applications are described by
+    means of reference configurations and corresponding network architectures. Functional
+    blocks in the architecture are identified and the physical and logical relationships
+    among these blocks are described. Although assumptions must necessarily be made
+    regarding the functionality of Customer Premises Equipment (CPE), specific requirements
+    for CPE are outside the scope of this Recommendation.
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

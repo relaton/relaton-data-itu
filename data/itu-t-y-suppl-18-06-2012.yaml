@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.2700-series - Supplement on next generation network certificate management
+  content: ITU-T Y.2700-series - Supplement on next generation network certificate
+    management
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 18 to ITU-T Y-series Recommendations provides guidelines for managing ITU-T X.509 certificates for NGN security based on the trust model defined in ITU-T Y.2701 to supplement the information in ITU-T Y.2704. This Supplement is applicable to any next generation network (NGN) using certificates based on the framework for public key infrastructure (PKI) and privilege management infrastructure (PMI) specified in ITU-T X.509 for identification, authentication, privilege/attribute management and/or encryption between network elements and between user end-devices and the NGN provider customer premises equipment (CPE) provisioning element.
+  content: Supplement 18 to ITU-T Y-series Recommendations provides guidelines for
+    managing ITU-T X.509 certificates for NGN security based on the trust model defined
+    in ITU-T Y.2701 to supplement the information in ITU-T Y.2704. This Supplement
+    is applicable to any next generation network (NGN) using certificates based on
+    the framework for public key infrastructure (PKI) and privilege management infrastructure
+    (PMI) specified in ITU-T X.509 for identification, authentication, privilege/attribute
+    management and/or encryption between network elements and between user end-devices
+    and the NGN provider customer premises equipment (CPE) provisioning element.
 status:
   stage:
     content: Published

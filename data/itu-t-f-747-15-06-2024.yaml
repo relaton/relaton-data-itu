@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the advantages of high time-domain resolution, less data redundancy, low power consumption, and high dynamic range, the event-based vision system (EV-SYS) can be used in power consumption sensitive, high-speed movement and extreme lighting scenarios, such as high-speed industrial detection, autonomous driving, video surveillance, high-speed imaging and robot vision. Since the EV-SYS has differences in signal acquisition, coding, transmission, analysis and application compared to traditional camera-based intelligent vision due to the asynchronous output, the traditional vision algorithms cannot be applied. None of the existing machine vision standards has developed based on EV-SYS. The EV-SYS will be used in high-speed motion scenarios beyond the existing standards. Recommendation ITU-T F.747.15 provides the related requirements and reference use cases for EVSYS.\r\n"
+  content: "With the advantages of high time-domain resolution, less data redundancy,
+    low power consumption, and high dynamic range, the event-based vision system (EV-SYS)
+    can be used in power consumption sensitive, high-speed movement and extreme lighting
+    scenarios, such as high-speed industrial detection, autonomous driving, video
+    surveillance, high-speed imaging and robot vision. Since the EV-SYS has differences
+    in signal acquisition, coding, transmission, analysis and application compared
+    to traditional camera-based intelligent vision due to the asynchronous output,
+    the traditional vision algorithms cannot be applied. None of the existing machine
+    vision standards has developed based on EV-SYS. The EV-SYS will be used in high-speed
+    motion scenarios beyond the existing standards. Recommendation ITU-T F.747.15
+    provides the related requirements and reference use cases for EVSYS.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +123,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +134,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

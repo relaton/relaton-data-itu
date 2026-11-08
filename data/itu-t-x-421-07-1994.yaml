@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the usage of the X.400 protocols, mainly the Interpersonal Messaging protocol (P2) and the Message Transfer protocol (P1), to provide a global COMFAX service. The COMFAX service, as defined in Recommendations F.162 (1992) and F.163 (1992), specifies a store and forward facsimile service where MHS may be used to provide a means of moving facsimile messages in COMFAX services.
+  content: This Recommendation defines the usage of the X.400 protocols, mainly the
+    Interpersonal Messaging protocol (P2) and the Message Transfer protocol (P1),
+    to provide a global COMFAX service. The COMFAX service, as defined in Recommendations
+    F.162 (1992) and F.163 (1992), specifies a store and forward facsimile service
+    where MHS may be used to provide a means of moving facsimile messages in COMFAX
+    services.
 status:
   stage:
     content: Withdrawal

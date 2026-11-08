@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements for an application control framework using integrated broadcast and broadband digital television
+  content: Requirements for an application control framework using integrated broadcast
+    and broadband digital television
   type: main
 source:
 - type: src
@@ -52,7 +53,25 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Consumer electronic devices get more and more connected every day. This tendency has also reached digital television (DTV) receivers, blu-ray players, personal video recorder (PVR) devices and even games consoles. \r\n\r\nConsumer electronics manufacturers are taking advantage of the increasing broadband availability and embedding their products with applications that are able to retrieve content from proprietary services available through the Internet. Additionally, increased storage capacity and improved computational capabilities of these devices would allow the end users to customize their devices by installing new applications, as currently being done with mobile phones or games consoles.\r\n\r\nSimilarly, DTV broadcasters are extending their systems to make the most of increased broadband availability to improve their services by adding interactive non-linear and on-demand content to what they already offer. However, most of the current solutions are closed / proprietary, and they are focused on each industry specific problems.\r\n\r\nRecommendation ITU-T J.205 proposes the requirements that should be met by an application control framework for DTV-enabled devices, which is responsible for managing and controlling the interactive content and applications available through cable DTV services that have been installed by the end-user or embedded by the device manufacturer, and providing network agnostic delivery mechanisms and a unified execution environment for them."
+  content: "Consumer electronic devices get more and more connected every day. This
+    tendency has also reached digital television (DTV) receivers, blu-ray players,
+    personal video recorder (PVR) devices and even games consoles. \r\n\r\nConsumer
+    electronics manufacturers are taking advantage of the increasing broadband availability
+    and embedding their products with applications that are able to retrieve content
+    from proprietary services available through the Internet. Additionally, increased
+    storage capacity and improved computational capabilities of these devices would
+    allow the end users to customize their devices by installing new applications,
+    as currently being done with mobile phones or games consoles.\r\n\r\nSimilarly,
+    DTV broadcasters are extending their systems to make the most of increased broadband
+    availability to improve their services by adding interactive non-linear and on-demand
+    content to what they already offer. However, most of the current solutions are
+    closed / proprietary, and they are focused on each industry specific problems.\r\n\r\nRecommendation
+    ITU-T J.205 proposes the requirements that should be met by an application control
+    framework for DTV-enabled devices, which is responsible for managing and controlling
+    the interactive content and applications available through cable DTV services
+    that have been installed by the end-user or embedded by the device manufacturer,
+    and providing network agnostic delivery mechanisms and a unified execution environment
+    for them."
 status:
   stage:
     content: Published
@@ -88,7 +107,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Example of linking options between annexes of ITU-T Recommendation J.112 and annexes of ITU-T Recommendation J.83
+      content: Example of linking options between annexes of ITU-T Recommendation
+        J.112 and annexes of ITU-T Recommendation J.83
     docidentifier:
     - content: J Suppl. 1 (11/1998)
       type: ITU
@@ -98,7 +118,10 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of annex A of Recommendation J.112, "Transmission systems for interactive cable television services" – Example of digital video broadcasting (DVB) interaction channel for cable television distribution
+      content: Guidelines for the implementation of annex A of Recommendation J.112,
+        "Transmission systems for interactive cable television services" – Example
+        of digital video broadcasting (DVB) interaction channel for cable television
+        distribution
     docidentifier:
     - content: J Suppl. 2 (11/1998)
       type: ITU
@@ -108,7 +131,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the implementation of Recommendation J.111 "Network independent protocols" – Example of digital video broadcasting (DVB) systems for interactive services
+      content: Guidelines for the implementation of Recommendation J.111 "Network
+        independent protocols" – Example of digital video broadcasting (DVB) systems
+        for interactive services
     docidentifier:
     - content: J Suppl. 3 (11/1998)
       type: ITU
@@ -128,7 +153,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Ultra high definition television cable transmission with functions defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
+      content: 'Ultra high definition television cable transmission with functions
+        defined in Recommendations ITU-T J.183, ITU-T J.288 and ITU-T J.94 '
     docidentifier:
     - content: J Suppl. 6 (09/2016)
       type: ITU
@@ -138,7 +164,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Guidelines for the implementation of ECI
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
+        Guidelines for the implementation of ECI
     docidentifier:
     - content: J Suppl. 7 (04/2021)
       type: ITU
@@ -148,7 +175,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions; Trust environment
+      content: Embedded common interface (ECI) for exchangeable CA/DRM solutions;
+        Trust environment
     docidentifier:
     - content: J Suppl. 8 (04/2021)
       type: ITU
@@ -158,7 +186,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Embedded common interface for exchangeable CA/DRM solutions; System validation
+      content: Embedded common interface for exchangeable CA/DRM solutions; System
+        validation
     docidentifier:
     - content: J Suppl. 9 (04/2020)
       type: ITU
@@ -168,7 +197,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series Recommendations
+      content: Correspondence between CableLabs DOCSIS Specifications and ITU-T J-series
+        Recommendations
     docidentifier:
     - content: J Suppl. 10 (09/2024)
       type: ITU
@@ -178,7 +208,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for installing a digital television service for cable networks based on ITU-T Recommendations
+      content: Guidelines for installing a digital television service for cable networks
+        based on ITU-T Recommendations
     docidentifier:
     - content: J Suppl. 11 (10/2025)
       type: ITU
@@ -188,7 +219,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases of microservices architecture for audiovisual media in the converged media cloud
+      content: Use cases of microservices architecture for audiovisual media in the
+        converged media cloud
     docidentifier:
     - content: J Suppl. 14 (01/2025)
       type: ITU

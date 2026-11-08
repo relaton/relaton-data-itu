@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Colour and gray-scale image representations using lossless coding scheme for facsimile
+  content: Colour and gray-scale image representations using lossless coding scheme
+    for facsimile
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a colour data representation method in order to make it possible to interchange colour and gray-scale image data using Recommendation T.82 coding scheme over facsimile communication services such as Group 3 and Group 4 facsimile. In this Recommendation, three types of images are treated. The first one is one bit per colour CMY(K) or RGB image. The second one is palettized colour image in which palette tables are specified with CIELAB colour space defined in Recommendation T.42. The last one is continuous-tone colour and gray-scale image specified with CIELAB colour space defined in Recommendation T.42.
+  content: This Recommendation defines a colour data representation method in order
+    to make it possible to interchange colour and gray-scale image data using Recommendation
+    T.82 coding scheme over facsimile communication services such as Group 3 and Group
+    4 facsimile. In this Recommendation, three types of images are treated. The first
+    one is one bit per colour CMY(K) or RGB image. The second one is palettized colour
+    image in which palette tables are specified with CIELAB colour space defined in
+    Recommendation T.42. The last one is continuous-tone colour and gray-scale image
+    specified with CIELAB colour space defined in Recommendation T.42.
 status:
   stage:
     content: Published

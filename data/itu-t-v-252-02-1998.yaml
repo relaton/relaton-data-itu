@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the operation of the DCE/DTE interface in which either an H.324 entity or a V.70 DSVD entity is implemented in the DCE. The V.70 entity in the DCE comprises at least a V.76 multiplexer and the V.75 control unit. The H.324 entity in the DCE comprises at least an H.223 multiplexer and the H.245 control unit for H.324. Audio and video transducers and codecs, if present, are implemented in the DCE or in devices attached directly to the DCE. Commands and indications defined in this Recommendation are valid in FCLASS?17.0 or FCLASS?18.0. The availability of Class 17.0 in a DCE indicates that the DCE is capable of supporting the control functions of a V.70 DSVD device. The availability of Class 18.0 in a DCE indicates that the DCE is capable of supporting the control functions of an H.324 terminal.
+  content: This Recommendation describes the operation of the DCE/DTE interface in
+    which either an H.324 entity or a V.70 DSVD entity is implemented in the DCE.
+    The V.70 entity in the DCE comprises at least a V.76 multiplexer and the V.75
+    control unit. The H.324 entity in the DCE comprises at least an H.223 multiplexer
+    and the H.245 control unit for H.324. Audio and video transducers and codecs,
+    if present, are implemented in the DCE or in devices attached directly to the
+    DCE. Commands and indications defined in this Recommendation are valid in FCLASS?17.0
+    or FCLASS?18.0. The availability of Class 17.0 in a DCE indicates that the DCE
+    is capable of supporting the control functions of a V.70 DSVD device. The availability
+    of Class 18.0 in a DCE indicates that the DCE is capable of supporting the control
+    functions of an H.324 terminal.
 status:
   stage:
     content: Published

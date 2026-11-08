@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The rapid evolution of data transmission service has increased internetwork traffic between several types of data networks (e.g. packet switched networks, frame relay networks, ISDN networks and ATM networks), or between public and private data networks. Accordingly, the variety and the volume of management information (e.g. charging or traffic information) of each network have also increased, and there may be a demand to exchange such management information in a uniform way so that all networks can have access to each other by using a unique protocol or mechanism. In view of these circumstances, this Recommendation describes the general principles and the framework, for exchanging management information and management operations between data networks.
+  content: The rapid evolution of data transmission service has increased internetwork
+    traffic between several types of data networks (e.g. packet switched networks,
+    frame relay networks, ISDN networks and ATM networks), or between public and private
+    data networks. Accordingly, the variety and the volume of management information
+    (e.g. charging or traffic information) of each network have also increased, and
+    there may be a demand to exchange such management information in a uniform way
+    so that all networks can have access to each other by using a unique protocol
+    or mechanism. In view of these circumstances, this Recommendation describes the
+    general principles and the framework, for exchanging management information and
+    management operations between data networks.
 status:
   stage:
     content: Published

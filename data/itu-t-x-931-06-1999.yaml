@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Distributed Processing – Protocol support for computational interactions
+  content: Information technology – Open Distributed Processing – Protocol support
+    for computational interactions
   type: main
 source:
 - type: src
@@ -55,7 +56,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard defines how interactions between objects in different ODP systems can be supported using different communication protocols. In particular it:· defines a General Interworking Framework (GIF);· within the GIF, defines a family of functionally-related service primitives;· specifies the mapping og the GIF service primitives and their parameters to the messages and field of particular protocols, including OMG CORBA GIOP.
+  content: This Recommendation | International Standard defines how interactions between
+    objects in different ODP systems can be supported using different communication
+    protocols. In particular it:· defines a General Interworking Framework (GIF);·
+    within the GIF, defines a family of functionally-related service primitives;·
+    specifies the mapping og the GIF service primitives and their parameters to the
+    messages and field of particular protocols, including OMG CORBA GIOP.
 status:
   stage:
     content: Published

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to Recommendation ITU-T X.1082 allocates arcs under the object identifier arc {joint-iso-itu-t(2) telebiometrics(42)} allocated for the work on telebiometrics, with top level OID-IRI value "/Telebiometrics". This is primarily intended to provide object identifier support for an emerging protocol for telehealth. To support that work, object identifier values are needed for significant concepts in Recommendations ITU-T X.1081 and ITU-T X.1082.
+  content: Amendment 1 to Recommendation ITU-T X.1082 allocates arcs under the object
+    identifier arc {joint-iso-itu-t(2) telebiometrics(42)} allocated for the work
+    on telebiometrics, with top level OID-IRI value "/Telebiometrics". This is primarily
+    intended to provide object identifier support for an emerging protocol for telehealth.
+    To support that work, object identifier values are needed for significant concepts
+    in Recommendations ITU-T X.1081 and ITU-T X.1082.
 status:
   stage:
     content: Published

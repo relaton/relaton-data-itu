@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1044 analyses security challenges and threats to network virtualization (NV) and specifies security requirements for the physical resources layer, the virtual resources layer and the logically isolated network partition (LINP) layer in network virtualization.
+  content: Recommendation ITU-T X.1044 analyses security challenges and threats to
+    network virtualization (NV) and specifies security requirements for the physical
+    resources layer, the virtual resources layer and the logically isolated network
+    partition (LINP) layer in network virtualization.
 status:
   stage:
     content: Published
@@ -72,7 +75,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1403 – Supplement on rationale and initial approach of a decentralized identity system (DIS) based on verifiable data
+      content: ITU-T X.1403 – Supplement on rationale and initial approach of a decentralized
+        identity system (DIS) based on verifiable data
     docidentifier:
     - content: X Suppl. 45 (12/2025)
       type: ITU

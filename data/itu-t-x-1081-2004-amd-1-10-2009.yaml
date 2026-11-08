@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to Recommendation ITU-T X.1081 allocates eight arcs under the object identifier arc {joint-iso-itu-t(2) telebiometrics(42)} allocated for the work on telebiometrics, with top level OID-IRI value "/Telebiometrics". Under the arc allocated to Recommendation ITU-T X.1081, new arcs are allocated to measures (quantity, units, symbols), fields of study (physics, chemistry, biology, culturology, psychology) and modalities (tango, video, audio, chemo, radio, calor).
+  content: Amendment 1 to Recommendation ITU-T X.1081 allocates eight arcs under the
+    object identifier arc {joint-iso-itu-t(2) telebiometrics(42)} allocated for the
+    work on telebiometrics, with top level OID-IRI value "/Telebiometrics". Under
+    the arc allocated to Recommendation ITU-T X.1081, new arcs are allocated to measures
+    (quantity, units, symbols), fields of study (physics, chemistry, biology, culturology,
+    psychology) and modalities (tango, video, audio, chemo, radio, calor).
 status:
   stage:
     content: Withdrawal
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The telebiometric multimodal model – A framework for the specification of security and safety aspects of telebiometrics
+      content: The telebiometric multimodal model – A framework for the specification
+        of security and safety aspects of telebiometrics
     docidentifier:
     - content: X.1081 (10/2011)
       type: ITU
@@ -108,7 +114,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The telebiometric multimodal model – A framework for the specification of security and safety aspects of telebiometrics
+      content: The telebiometric multimodal model – A framework for the specification
+        of security and safety aspects of telebiometrics
     docidentifier:
     - content: X.1081 (04/2004)
       type: ITU

@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines four levels of entity authentication assurance (i.e., LoA 1 – LoA 4), and the criteria and threats for each of the four levels of entity authentication assurance. Additionally, it:\r\n•\tspecifies a framework for managing the assurance levels;\r\n•\tprovides guidance concerning control technologies that are to be used to mitigate authentication threats, based on a risk assessment;\r\n•\tprovides guidance for mapping the four levels of assurance to other authentication assurance schemas; and \r\n•\tprovides guidance for exchanging the results of authentication that are based on the four levels of assurance.\r\n"
+  content: "This Recommendation defines four levels of entity authentication assurance
+    (i.e., LoA 1 – LoA 4), and the criteria and threats for each of the four levels
+    of entity authentication assurance. Additionally, it:\r\n•\tspecifies a framework
+    for managing the assurance levels;\r\n•\tprovides guidance concerning control
+    technologies that are to be used to mitigate authentication threats, based on
+    a risk assessment;\r\n•\tprovides guidance for mapping the four levels of assurance
+    to other authentication assurance schemas; and \r\n•\tprovides guidance for exchanging
+    the results of authentication that are based on the four levels of assurance.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -90,7 +97,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1250 series – Supplement on overview of identity management in the context of cybersecurity
+      content: ITU-T X.1250 series – Supplement on overview of identity management
+        in the context of cybersecurity
     docidentifier:
     - content: X Suppl. 7 (02/2009)
       type: ITU
@@ -100,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1254 – Supplement on use cases of entity authentication assurance (EAA) framework
+      content: ITU-T X.1254 – Supplement on use cases of entity authentication assurance
+        (EAA) framework
     docidentifier:
     - content: X Suppl. 35 (09/2019)
       type: ITU
@@ -120,7 +129,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Supplement to ITU-T X.1254: Implementation of secure authentication technologies for digital financial services'
+      content: 'Supplement to ITU-T X.1254: Implementation of secure authentication
+        technologies for digital financial services'
     docidentifier:
     - content: X Suppl. 42 (09/2024)
       type: ITU

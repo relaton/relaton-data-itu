@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1570 provides a framework for discovering cybersecurity information and the mechanism that enables this. Discovery can be seen as a stage of the cybersecurity information lifecycle adjacent to information publishing and acquisition, which are integral and necessary stages for discovery. Thus, the framework covers how to publish cybersecurity information, obtain the candidate list, and acquire the needed information. A discovery scheme may be implemented with arbitrary mechanisms so long as they comply with the framework. Among these mechanisms are object identifier (OID)-based discovery and resource description framework (RDF)-based discovery, which are also elaborated in this Recommendation.
+  content: Recommendation ITU-T X.1570 provides a framework for discovering cybersecurity
+    information and the mechanism that enables this. Discovery can be seen as a stage
+    of the cybersecurity information lifecycle adjacent to information publishing
+    and acquisition, which are integral and necessary stages for discovery. Thus,
+    the framework covers how to publish cybersecurity information, obtain the candidate
+    list, and acquire the needed information. A discovery scheme may be implemented
+    with arbitrary mechanisms so long as they comply with the framework. Among these
+    mechanisms are object identifier (OID)-based discovery and resource description
+    framework (RDF)-based discovery, which are also elaborated in this Recommendation.
 status:
   stage:
     content: Published

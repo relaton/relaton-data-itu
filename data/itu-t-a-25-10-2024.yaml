@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T A.25 addresses the process of incorporating text (in whole or in part, with or without modification) of documents from another organization into an ITU-T Recommendation (or another ITU-T document). Similarly, guidance is provided for other organizations incorporating text (in whole or in part, with or without modification) from ITU-T Recommendations (or other ITUT documents) in their documents.\r\n"
+  content: "Recommendation ITU-T A.25 addresses the process of incorporating text
+    (in whole or in part, with or without modification) of documents from another
+    organization into an ITU-T Recommendation (or another ITU-T document). Similarly,
+    guidance is provided for other organizations incorporating text (in whole or in
+    part, with or without modification) from ITU-T Recommendations (or other ITUT
+    documents) in their documents.\r\n"
 status:
   stage:
     content: Published
@@ -92,7 +97,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Generic procedures for incorporating text between ITU-T and other organizations '
+      content: 'Generic procedures for incorporating text between ITU-T and other
+        organizations '
     docidentifier:
     - content: A.25 (02/2016)
       type: ITU

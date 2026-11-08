@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the procedures for interworking case of concatenation of PSDTSs via B-ISDN. It includes reference configurations, protocol stacks and detailed signalling procedures. The Recommendation may be used in the case where packet-switched links between networks providing PSDTS services are transferred over B-ISDN networks as backbone networks.
+  content: This Recommendation defines the procedures for interworking case of concatenation
+    of PSDTSs via B-ISDN. It includes reference configurations, protocol stacks and
+    detailed signalling procedures. The Recommendation may be used in the case where
+    packet-switched links between networks providing PSDTS services are transferred
+    over B-ISDN networks as backbone networks.
 status:
   stage:
     content: Published

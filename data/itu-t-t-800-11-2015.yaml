@@ -55,7 +55,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation | International Standard defines a set of lossless (bit-preserving) and lossy compression methods for coding bi-level, continuous-tone grey-scale, palletized colour, or continuous-tone colour digital still images.\r\n\r\nThis Recommendation | International Standard:\r\n\r\n–      specifies decoding processes for converting compressed image data to reconstructed image data;\r\n\r\n–      specifies a codestream syntax containing information for interpreting the compressed image data;\r\n\r\n–      specifies a file format;\r\n\r\n–      provides guidance on encoding processes for converting source image data to compressed image data;\r\n\r\n–      provides guidance on how to implement these processes in practice.\r\n"
+  content: "This Recommendation | International Standard defines a set of lossless
+    (bit-preserving) and lossy compression methods for coding bi-level, continuous-tone
+    grey-scale, palletized colour, or continuous-tone colour digital still images.\r\n\r\nThis
+    Recommendation | International Standard:\r\n\r\n–      specifies decoding processes
+    for converting compressed image data to reconstructed image data;\r\n\r\n–      specifies
+    a codestream syntax containing information for interpreting the compressed image
+    data;\r\n\r\n–      specifies a file format;\r\n\r\n–      provides guidance on
+    encoding processes for converting source image data to compressed image data;\r\n\r\n–
+    \     provides guidance on how to implement these processes in practice.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -75,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology - JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (V4) (07/2024)
       type: ITU
@@ -85,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (V3) (06/2019)
       type: ITU
@@ -115,7 +125,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - JPEG 2000 image coding system: Core coding system: Correction of equation G-9'
+      content: 'Information technology - JPEG 2000 image coding system: Core coding
+        system: Correction of equation G-9'
     docidentifier:
     - content: T.800 (2002) Cor. 3 (10/2014)
       type: ITU
@@ -135,7 +146,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Enhancements for digital cinema and archive profiles (additional frame rates)
+      content: Enhancements for digital cinema and archive profiles (additional frame
+        rates)
     docidentifier:
     - content: T.800 (2002) Amd. 5 (01/2012)
       type: ITU
@@ -213,7 +225,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Core coding system'
+      content: 'Information technology – JPEG 2000 image coding system: Core coding
+        system'
     docidentifier:
     - content: T.800 (08/2002)
       type: ITU

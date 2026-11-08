@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Interface between synchronous data networks using an 8 + 2 envelope structure and single channel per carrier (SCPC) satellite channels
+  content: Interface between synchronous data networks using an 8 + 2 envelope structure
+    and single channel per carrier (SCPC) satellite channels
   type: main
 source:
 - type: src
@@ -71,7 +72,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Interface between synchronous data networks using an 8 + 2 envelope structure and single channel per carrier (SCPC) satellite channels
+      content: Interface between synchronous data networks using an 8 + 2 envelope
+        structure and single channel per carrier (SCPC) satellite channels
     docidentifier:
     - content: X.56 (10/1984)
       type: ITU

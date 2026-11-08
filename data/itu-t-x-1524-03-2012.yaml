@@ -52,7 +52,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1524 on the use of the common weakness enumeration (CWE) provides a structured means to exchange information security weaknesses that provides common names for publicly known problems in the commercial or open source software used in communication networks, end user devices, or any of the other types of information and communications technology (ICT) capable of running software. The goal of CWE is to enable more effective discussion, description, selection, and use of software security tools and services that can find these weaknesses in source codes and operational systems as well as better understanding and management of software weaknesses related to architecture and design. This Recommendation defines the use of CWE to provide a mechanism for software security tools, services, knowledge bases and other capabilities to be used together, and to facilitate the comparison of security tools and services. CWE also offers supportive context information about possible risks, impacts, fix information, and detailed technical information about what the software weaknesses could mean to a software system.
+  content: Recommendation ITU-T X.1524 on the use of the common weakness enumeration
+    (CWE) provides a structured means to exchange information security weaknesses
+    that provides common names for publicly known problems in the commercial or open
+    source software used in communication networks, end user devices, or any of the
+    other types of information and communications technology (ICT) capable of running
+    software. The goal of CWE is to enable more effective discussion, description,
+    selection, and use of software security tools and services that can find these
+    weaknesses in source codes and operational systems as well as better understanding
+    and management of software weaknesses related to architecture and design. This
+    Recommendation defines the use of CWE to provide a mechanism for software security
+    tools, services, knowledge bases and other capabilities to be used together, and
+    to facilitate the comparison of security tools and services. CWE also offers supportive
+    context information about possible risks, impacts, fix information, and detailed
+    technical information about what the software weaknesses could mean to a software
+    system.
 status:
   stage:
     content: Published

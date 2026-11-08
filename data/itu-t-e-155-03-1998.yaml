@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the service description of and the procedures for the implementation, operation and management of the International Premium Rate Service (IPRS) which is provided on a managed basis by a Recognized Operating Agency (ROA) in the country of an information service provider in conjunction with an ROA(s) in the country of the caller.Through the availability of IPRS, a wide range of products offered by information service providers in one country can be made available to callers in another country. Examples of such products could include:· access to recorded information services (speech, facsimile or data);· access to interactive services (speech, facsimile or data);· access to promotions, competitions and opinion surveys.
+  content: This Recommendation provides the service description of and the procedures
+    for the implementation, operation and management of the International Premium
+    Rate Service (IPRS) which is provided on a managed basis by a Recognized Operating
+    Agency (ROA) in the country of an information service provider in conjunction
+    with an ROA(s) in the country of the caller.Through the availability of IPRS,
+    a wide range of products offered by information service providers in one country
+    can be made available to callers in another country. Examples of such products
+    could include:· access to recorded information services (speech, facsimile or
+    data);· access to interactive services (speech, facsimile or data);· access to
+    promotions, competitions and opinion surveys.
 status:
   stage:
     content: Published
@@ -80,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.100 series – Framework of disaster management for disaster relief system
+      content: ITU-T E.100 series – Framework of disaster management for disaster
+        relief system
     docidentifier:
     - content: E-100 series Suppl. 1 (02/2019)
       type: ITU
@@ -90,7 +100,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

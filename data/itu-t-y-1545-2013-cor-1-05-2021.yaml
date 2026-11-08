@@ -47,7 +47,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.1545 is intended as a guide to help regulators and network service providers meet QoS performance objectives. Traditional packet networks have been built under the principle that networks will operate on the basis of an unguaranteed best-effort packet delivery. The best effort paradigm has been spectacularly successful in supporting non-real-time data applications (e.g., email and file transfer); this principle assigns the responsibility for detecting and correcting transmission problems to the customer equipment and higher-level protocols that require better network support.  However, the best-effort delivery principle does not provide a reliable quality of user experience in interactive voice telephony and other demanding real-time applications when network bandwidth limitations increase considerably delay, jitter and packet loss. These applications work best across networks that can deliver \"better than best-effort\" performance for various characteristics. This corrigendum introduces changes related to the withdrawal of IEEE 802.1D. \r\n"
+  content: "Recommendation ITU-T Y.1545 is intended as a guide to help regulators
+    and network service providers meet QoS performance objectives. Traditional packet
+    networks have been built under the principle that networks will operate on the
+    basis of an unguaranteed best-effort packet delivery. The best effort paradigm
+    has been spectacularly successful in supporting non-real-time data applications
+    (e.g., email and file transfer); this principle assigns the responsibility for
+    detecting and correcting transmission problems to the customer equipment and higher-level
+    protocols that require better network support.  However, the best-effort delivery
+    principle does not provide a reliable quality of user experience in interactive
+    voice telephony and other demanding real-time applications when network bandwidth
+    limitations increase considerably delay, jitter and packet loss. These applications
+    work best across networks that can deliver \"better than best-effort\" performance
+    for various characteristics. This corrigendum introduces changes related to the
+    withdrawal of IEEE 802.1D. \r\n"
 status:
   stage:
     content: Published
@@ -67,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Roadmap for the quality of service of interconnected networks that use the Internet Protocol
+      content: Roadmap for the quality of service of interconnected networks that
+        use the Internet Protocol
     docidentifier:
     - content: Y.1545 (05/2013)
       type: ITU
@@ -87,7 +101,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond standardization roadmap
+      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+        standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
       type: ITU
@@ -107,7 +122,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems and services"
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -117,7 +133,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -127,7 +144,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Message Handling Systems (MHS): Electronic data interchange messaging system'
+  content: 'Information technology – Message Handling Systems (MHS): Electronic data
+    interchange messaging system'
   type: main
 source:
 - type: src
@@ -55,7 +56,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard defines the message handling application called EDI messaging (EDIMG), a form of message handling tailored for the exchange of electronic data interchange (EDI) information. It is designed to meet the requirements of users of ISO 9735 (EDIFACT), and other commonly used EDI systems. This edition of the EDI Specification, Version 2, replaces CCITT Rec. X.435 (1991) | ISO/IEC 10021-9:1995. It consolidates Amendment 1 (Compression Extension), Amendment 2 (EDI Message Store Logs and Correlation Attributes), replacement of ASN.1:1988 with ASN.1:1994, and a revised EDI auto-forward auto-action.
+  content: This Recommendation | International Standard defines the message handling
+    application called EDI messaging (EDIMG), a form of message handling tailored
+    for the exchange of electronic data interchange (EDI) information. It is designed
+    to meet the requirements of users of ISO 9735 (EDIFACT), and other commonly used
+    EDI systems. This edition of the EDI Specification, Version 2, replaces CCITT
+    Rec. X.435 (1991) | ISO/IEC 10021-9:1995. It consolidates Amendment 1 (Compression
+    Extension), Amendment 2 (EDI Message Store Logs and Correlation Attributes), replacement
+    of ASN.1:1988 with ASN.1:1994, and a revised EDI auto-forward auto-action.
 status:
   stage:
     content: Published

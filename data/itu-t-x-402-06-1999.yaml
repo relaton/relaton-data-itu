@@ -55,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard contains Directory Attribute and Object Class definitions, some new and the remainder revised to use the new X.500 Recommendations. The ASN.1 has been fully revised to use the new X.680 and X.880 Recommendations. Numerous defect corrections are incorporated. This Recommendation | International Standard also contains enhancements on international registration authority, use of ISO/IEC 10646 characters in OR-addresses, protected change credentials and use of 1997 Directory.
+  content: This Recommendation | International Standard contains Directory Attribute
+    and Object Class definitions, some new and the remainder revised to use the new
+    X.500 Recommendations. The ASN.1 has been fully revised to use the new X.680 and
+    X.880 Recommendations. Numerous defect corrections are incorporated. This Recommendation
+    | International Standard also contains enhancements on international registration
+    authority, use of ISO/IEC 10646 characters in OR-addresses, protected change credentials
+    and use of 1997 Directory.
 status:
   stage:
     content: Published

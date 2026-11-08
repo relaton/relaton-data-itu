@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The next generation network (NGN) architecture defined in Recommendation ITU-T Y.2012 is a generalized architecture in which abstract functional entities are specified. However, to address the issues of interoperability within an NGN network, there is a need to identify physical realizations showing which functional entities are implemented in a network component and by implication the interfaces that are important to ensure the interoperability of systems. Supplement 64 to the ITU-T Q-series of Recommendations provides guidance on the physical realization of NGNs by describing a number of possible physical entities corresponding to a functional entity or a group of functional entities specified in the generalized functional architecture of NGN.
+  content: The next generation network (NGN) architecture defined in Recommendation
+    ITU-T Y.2012 is a generalized architecture in which abstract functional entities
+    are specified. However, to address the issues of interoperability within an NGN
+    network, there is a need to identify physical realizations showing which functional
+    entities are implemented in a network component and by implication the interfaces
+    that are important to ensure the interoperability of systems. Supplement 64 to
+    the ITU-T Q-series of Recommendations provides guidance on the physical realization
+    of NGNs by describing a number of possible physical entities corresponding to
+    a functional entity or a group of functional entities specified in the generalized
+    functional architecture of NGN.
 status:
   stage:
     content: Published

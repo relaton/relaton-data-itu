@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Common management service - Performance management - Protocol neutral requirements and analysis
+  content: Common management service - Performance management - Protocol neutral requirements
+    and analysis
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3704 provides the requirements and analysis for one of the common management services - performance management. The functional requirements for the performance management interface include the management functions for performance measurement jobs, performance threshold monitor and performance data files. In the analysis part, the detail information model supporting the above function across the management interface is provided.
+  content: Recommendation ITU-T M.3704 provides the requirements and analysis for
+    one of the common management services - performance management. The functional
+    requirements for the performance management interface include the management functions
+    for performance measurement jobs, performance threshold monitor and performance
+    data files. In the analysis part, the detail information model supporting the
+    above function across the management interface is provided.
 status:
   stage:
     content: Published

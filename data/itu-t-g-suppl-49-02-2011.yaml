@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 49 to ITU-T G-series Recommendations provides additional guidelines relative to ITU-T G.984.x-series and ITU-T G.987.x-series Recommendations, and other passive optical networks (PONs). It addresses the issue of rogue optical network units (ONUs), their prevention, detection, isolation and mitigation.
+  content: Supplement 49 to ITU-T G-series Recommendations provides additional guidelines
+    relative to ITU-T G.984.x-series and ITU-T G.987.x-series Recommendations, and
+    other passive optical networks (PONs). It addresses the issue of rogue optical
+    network units (ONUs), their prevention, detection, isolation and mitigation.
 status:
   stage:
     content: Withdrawal

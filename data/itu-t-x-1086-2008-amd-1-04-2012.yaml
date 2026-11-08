@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 updates Recommendation ITU-T X.1086 to incorporate multiple biometric information in telebiometric protection procedures by modifying the summary, keywords, scope, references, definitions, abbreviations and acronyms, and bibliography.\r\nThe amendment defines new vulnerabilities and proposes guidelines for the protection of the multibiometric system at four different fusion levels: the sample-level, the feature-level, the score-level, and the decision-level.\r\nAmendment 1 adds Appendix V to describe techniques to be applied for the protection of multibiometric data."
+  content: "Amendment 1 updates Recommendation ITU-T X.1086 to incorporate multiple
+    biometric information in telebiometric protection procedures by modifying the
+    summary, keywords, scope, references, definitions, abbreviations and acronyms,
+    and bibliography.\r\nThe amendment defines new vulnerabilities and proposes guidelines
+    for the protection of the multibiometric system at four different fusion levels:
+    the sample-level, the feature-level, the score-level, and the decision-level.\r\nAmendment
+    1 adds Appendix V to describe techniques to be applied for the protection of multibiometric
+    data."
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Telebiometrics protection procedures – Part 1: A guideline to technical and managerial countermeasures for biometric data security'
+      content: 'Telebiometrics protection procedures – Part 1: A guideline to technical
+        and managerial countermeasures for biometric data security'
     docidentifier:
     - content: X.1086 (11/2008)
       type: ITU

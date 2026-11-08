@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Technical capabilities of fraud detection and response for services with high assurance level requirements
+  content: Technical capabilities of fraud detection and response for services with
+    high assurance level requirements
   type: main
 source:
 - type: src
@@ -52,7 +53,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1157 provides capabilities required to support fraud detection and response in security sensitive information and communication technology (ICT) application services. Fraud detection and response services support the detection, analytics, and management of fraud across users, accounts, products, processes and channels. It monitors and analyses user activity and behaviour at the application level (rather than at the system, database, or network level) and watches what transpires inside and across accounts, using any channel available to a user. It also analyses behaviour among related users, accounts, or other entities, looking for abnormal activity, corruption or misuse. It is most commonly used in verticals managing customer money, such as e-finance, enterprise remote access, etc., but is equally commonly used to detect internal fraud and other types of unauthorized activities.\r\n"
+  content: "Recommendation ITU-T X.1157 provides capabilities required to support
+    fraud detection and response in security sensitive information and communication
+    technology (ICT) application services. Fraud detection and response services support
+    the detection, analytics, and management of fraud across users, accounts, products,
+    processes and channels. It monitors and analyses user activity and behaviour at
+    the application level (rather than at the system, database, or network level)
+    and watches what transpires inside and across accounts, using any channel available
+    to a user. It also analyses behaviour among related users, accounts, or other
+    entities, looking for abnormal activity, corruption or misuse. It is most commonly
+    used in verticals managing customer money, such as e-finance, enterprise remote
+    access, etc., but is equally commonly used to detect internal fraud and other
+    types of unauthorized activities.\r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes how to initiate a communication process between ITU-T and a forum/consortium. It lists the A.4-qualifying criteria for forums/consortia, and it describes the document exchange between A.4-qualified forums/consortia and the ITU-T.This amendment provides procedures for preparation of liaison statements between scheduled meetings.
+  content: This Recommendation describes how to initiate a communication process between
+    ITU-T and a forum/consortium. It lists the A.4-qualifying criteria for forums/consortia,
+    and it describes the document exchange between A.4-qualified forums/consortia
+    and the ITU-T.This amendment provides procedures for preparation of liaison statements
+    between scheduled meetings.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +76,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Communication process between the ITU Telecommunication Standardization Sector and forums and consortia
+      content: Communication process between the ITU Telecommunication Standardization
+        Sector and forums and consortia
     docidentifier:
     - content: A.4 (11/2012)
       type: ITU

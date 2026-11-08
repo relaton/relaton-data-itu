@@ -50,7 +50,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This technical corrigendum corrects an ambiguity that can cause an operations systems (OS) implementor to develop software that will not work correctly with another vendor's OS product.
+  content: This technical corrigendum corrects an ambiguity that can cause an operations
+    systems (OS) implementor to develop software that will not work correctly with
+    another vendor's OS product.
 status:
   stage:
     content: Published
@@ -80,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the use of Z in formalizing the behaviour of managed objects
+      content: Guidelines for the use of Z in formalizing the behaviour of managed
+        objects
     docidentifier:
     - content: X.722 (1992) Amd. 3 (08/1997)
       type: ITU
@@ -110,7 +113,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Structure of management information: Guidelines for the definition of managed objects'
+      content: 'Information technology – Open Systems Interconnection – Structure
+        of management information: Guidelines for the definition of managed objects'
     docidentifier:
     - content: X.722 (01/1992)
       type: ITU

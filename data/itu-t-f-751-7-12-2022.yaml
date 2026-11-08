@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T F.751.7 defines functional assessment methods for distributed ledger technology (DLT) platforms based on the assessment criteria defined in Recommendation ITU-T F.751.1. For each item of the assessment criteria defined in Recommendation ITU-T F.751.1, one test case is defined in this Recommendation accordingly. The description of each test case is composed of test purpose, test workflows and expected results.
+  content: Recommendation ITU-T F.751.7 defines functional assessment methods for
+    distributed ledger technology (DLT) platforms based on the assessment criteria
+    defined in Recommendation ITU-T F.751.1. For each item of the assessment criteria
+    defined in Recommendation ITU-T F.751.1, one test case is defined in this Recommendation
+    accordingly. The description of each test case is composed of test purpose, test
+    workflows and expected results.
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +118,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +129,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

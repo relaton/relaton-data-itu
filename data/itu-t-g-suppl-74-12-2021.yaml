@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 74 to ITU-T G-series Recommendations considers the possible implications of network slicing and related functionality (e.g., as defined in 3GPP and IMT-2020 as part of 5G wireless) in the setting of optical access networks, in particular passive optical network (PON) systems. Use cases are identified for slicing with a focus on PON slicing. The Supplement describes the functional expectations of a PON system to support PON slicing and considers the architecture for the control of PON slices. Also, the aim is to provide a clear demarcation of PON slicing such that it can be considered independently of slicing in any other segments of the network.
+  content: Supplement 74 to ITU-T G-series Recommendations considers the possible
+    implications of network slicing and related functionality (e.g., as defined in
+    3GPP and IMT-2020 as part of 5G wireless) in the setting of optical access networks,
+    in particular passive optical network (PON) systems. Use cases are identified
+    for slicing with a focus on PON slicing. The Supplement describes the functional
+    expectations of a PON system to support PON slicing and considers the architecture
+    for the control of PON slices. Also, the aim is to provide a clear demarcation
+    of PON slicing such that it can be considered independently of slicing in any
+    other segments of the network.
 status:
   stage:
     content: Published

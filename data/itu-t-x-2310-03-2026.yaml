@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Security requirements for decentralized identity management systems using distributed ledger technology
+  content: Security requirements for decentralized identity management systems using
+    distributed ledger technology
   type: main
 source:
 - type: src
@@ -52,7 +53,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.2310 identifies security threats to confidentiality, integrity and availability (CIA) of decentralized identity management systems using distributed ledger technology (DLT) and specifies security requirements to address the identified security threats.\r\nBased on use cases for decentralized identity management systems using DLT, this Recommendation defines decentralized identity management models (such as the basic model, the custody and delegation model and the self-issue model) and assurance levels (such as AL1 (low), AL2 (substantial) and AL3 (high)) accordingly. For example, the basic model can be applied to AL2 or AL3. The custody and delegation model can be applied to AL2 or AL3. In addition, the self-issue model can be applied to AL1; for example, aspects of claims, a driving licence can be applied to AL3. A vaccination certificate can be applied to AL2, and a digital business card can be applied to AL1.\r\n"
+  content: "Recommendation ITU-T X.2310 identifies security threats to confidentiality,
+    integrity and availability (CIA) of decentralized identity management systems
+    using distributed ledger technology (DLT) and specifies security requirements
+    to address the identified security threats.\r\nBased on use cases for decentralized
+    identity management systems using DLT, this Recommendation defines decentralized
+    identity management models (such as the basic model, the custody and delegation
+    model and the self-issue model) and assurance levels (such as AL1 (low), AL2 (substantial)
+    and AL3 (high)) accordingly. For example, the basic model can be applied to AL2
+    or AL3. The custody and delegation model can be applied to AL2 or AL3. In addition,
+    the self-issue model can be applied to AL1; for example, aspects of claims, a
+    driving licence can be applied to AL3. A vaccination certificate can be applied
+    to AL2, and a digital business card can be applied to AL1.\r\n"
 status:
   stage:
     content: Published

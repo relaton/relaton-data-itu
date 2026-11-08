@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Two methods of call transfer are identified. The explicit call transfer supplementary service is described in this Recommendation. The other is described in Recommendation I.252.1. The explicit call transfer supplementary service enables a user to transform two of that user's calls, each of which can be an incoming or an outgoing call, into a new call between the other parties in the two calls. Prior to transfer, one of the two calls shall be answered, the other call can be either alerting or answered, depending on a network option. Calls incoming to the served user must have been answered.
+  content: Two methods of call transfer are identified. The explicit call transfer
+    supplementary service is described in this Recommendation. The other is described
+    in Recommendation I.252.1. The explicit call transfer supplementary service enables
+    a user to transform two of that user's calls, each of which can be an incoming
+    or an outgoing call, into a new call between the other parties in the two calls.
+    Prior to transfer, one of the two calls shall be answered, the other call can
+    be either alerting or answered, depending on a network option. Calls incoming
+    to the served user must have been answered.
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

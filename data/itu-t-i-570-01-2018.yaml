@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation “PUBLIC/PRIVATE  ISDN  INTERWORKING“ is focusing on the aspect of private networks connect to public ISDN with ISUP and presented public/private ISDN interworking  reference configuration, scenario, interworking requirement, etc.
+  content: This Recommendation “PUBLIC/PRIVATE  ISDN  INTERWORKING“ is focusing on
+    the aspect of private networks connect to public ISDN with ISUP and presented
+    public/private ISDN interworking  reference configuration, scenario, interworking
+    requirement, etc.
 status:
   stage:
     content: Published
@@ -82,7 +85,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

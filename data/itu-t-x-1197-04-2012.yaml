@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Guidelines on criteria for selecting cryptographic algorithms for IPTV service and content protection
+  content: Guidelines on criteria for selecting cryptographic algorithms for IPTV
+    service and content protection
   type: main
 source:
 - type: src
@@ -52,7 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1197 provides guidelines on the criteria for selecting cryptographic algorithms for IPTV service and content protection (SCP). It also provides a list of cryptographic algorithms to provide confidentiality, data origin authentication and integrity for IPTV SCP services.
+  content: Recommendation ITU-T X.1197 provides guidelines on the criteria for selecting
+    cryptographic algorithms for IPTV service and content protection (SCP). It also
+    provides a list of cryptographic algorithms to provide confidentiality, data origin
+    authentication and integrity for IPTV SCP services.
 status:
   stage:
     content: Published

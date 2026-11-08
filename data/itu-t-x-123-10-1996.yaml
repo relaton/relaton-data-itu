@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Mapping between escape codes and TOA/NPI for E.164/X.121 numbering plan interworking during the transition period
+  content: Mapping between escape codes and TOA/NPI for E.164/X.121 numbering plan
+    interworking during the transition period
   type: main
 source:
 - type: src
@@ -52,7 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the mapping between the escape code address format and the TOA/NPI address format that is necessary during the transition period when some interfaces will be using TOA/NPI while other interfaces will still be using escape codes.
+  content: This Recommendation describes the mapping between the escape code address
+    format and the TOA/NPI address format that is necessary during the transition
+    period when some interfaces will be using TOA/NPI while other interfaces will
+    still be using escape codes.
 status:
   stage:
     content: Published

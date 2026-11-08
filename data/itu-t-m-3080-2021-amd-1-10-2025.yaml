@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 contains additions and corrections to Recommendation ITU-T M.3080 based on the telecommunication network large model (TNLM). It introduces new definitions, functional enhancements and operational frameworks to integrate TNLM into the AI-enhanced telecom operation and management (AITOM) system. Key updates include the introduction of TNLM-specific artificial intelligence (AI) pipelines in both development and operational states, enhancements to AI sandbox training and capability orchestration, and the integration of knowledge management to improve model reasoning and accuracy. The amendment also aligns with related standards such as ITU-T M.3351.1 and incorporates feedback from recent ITU-T meetings.\r\n"
+  content: "Amendment 1 contains additions and corrections to Recommendation ITU-T
+    M.3080 based on the telecommunication network large model (TNLM). It introduces
+    new definitions, functional enhancements and operational frameworks to integrate
+    TNLM into the AI-enhanced telecom operation and management (AITOM) system. Key
+    updates include the introduction of TNLM-specific artificial intelligence (AI)
+    pipelines in both development and operational states, enhancements to AI sandbox
+    training and capability orchestration, and the integration of knowledge management
+    to improve model reasoning and accuracy. The amendment also aligns with related
+    standards such as ITU-T M.3351.1 and incorporates feedback from recent ITU-T meetings.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Framework of artificial intelligence enhanced telecommunication operation and management (AITOM)
+      content: Framework of artificial intelligence enhanced telecommunication operation
+        and management (AITOM)
     docidentifier:
     - content: M.3080 (03/2026)
       type: ITU
@@ -82,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Framework of artificial intelligence enhanced telecom operation and management (AITOM)
+      content: Framework of artificial intelligence enhanced telecom operation and
+        management (AITOM)
     docidentifier:
     - content: M.3080 (02/2021)
       type: ITU

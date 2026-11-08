@@ -55,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Rec. X.738 | ISO/IEC 10164-13 provides many possible options for implementors to choose from in the development of a product. This means that an Operations System (OS) product from one vendor needing to interwork with an OS product from another vendor must be developed to some common and explicit agreement both developers use concerning the actual options to be developed in their software products for X.738-based messages. This amendment provides a means to specify message options in such a way that the later documentation of actual options chosen for a product can be more explicit. The result is that the time to carry out interoperability tests between an OS from one vendor and an OS from another vendor may be reduced because product developers can be provided with more explicit message specification.
+  content: ITU-T Rec. X.738 | ISO/IEC 10164-13 provides many possible options for
+    implementors to choose from in the development of a product. This means that an
+    Operations System (OS) product from one vendor needing to interwork with an OS
+    product from another vendor must be developed to some common and explicit agreement
+    both developers use concerning the actual options to be developed in their software
+    products for X.738-based messages. This amendment provides a means to specify
+    message options in such a way that the later documentation of actual options chosen
+    for a product can be more explicit. The result is that the time to carry out interoperability
+    tests between an OS from one vendor and an OS from another vendor may be reduced
+    because product developers can be provided with more explicit message specification.
 status:
   stage:
     content: Published
@@ -93,7 +102,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Systems management: Summarization function'
+      content: 'Information technology – Open Systems Interconnection – Systems management:
+        Summarization function'
     docidentifier:
     - content: X.738 (11/1993)
       type: ITU

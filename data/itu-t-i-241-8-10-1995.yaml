@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: In accordance with Recommendation I.130 [1], the following three-level structure is used to describe the telecommunication services:- Stage 1 is an overall service description, from the user's standpoint;- Stage 2 identifies the funcitonal capabilities and information flows needed to support the service described in stage 1;- Stage 3 defines the signalling system protocols and switching functions needed to implement the service described in stage 1.This Recommendation relates to stage 1 (overall service description) for the teleaction service in the ISDN.
+  content: In accordance with Recommendation I.130 [1], the following three-level
+    structure is used to describe the telecommunication services:- Stage 1 is an overall
+    service description, from the user's standpoint;- Stage 2 identifies the funcitonal
+    capabilities and information flows needed to support the service described in
+    stage 1;- Stage 3 defines the signalling system protocols and switching functions
+    needed to implement the service described in stage 1.This Recommendation relates
+    to stage 1 (overall service description) for the teleaction service in the ISDN.
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'B-ISDN ATM adaptation layer sublayers : Service-specific convergence sublayer for HDLC applications'
+  content: 'B-ISDN ATM adaptation layer sublayers : Service-specific convergence sublayer
+    for HDLC applications'
   type: main
 source:
 - type: src
@@ -52,7 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies a mapping function that allows narrow-band data communication applications utilizing protocol stacks which include one of the HDLC protocols also to be deployed in a B-ISDN environment. The required mapping function is called "Service Specific Convergence Sublayer for HDLC Applications".This Recommendation makes use of the fact that the subset of services provided by AAL type 5 (Recommendation I.363.5) can replace the framing and bit error detection part of HDLC.This Recommendation is applicable to equipment to be attached to an ATM network when protocol stacks developed for a narrow-band environment are deployed in a B-ISDN environment.
+  content: This Recommendation specifies a mapping function that allows narrow-band
+    data communication applications utilizing protocol stacks which include one of
+    the HDLC protocols also to be deployed in a B-ISDN environment. The required mapping
+    function is called "Service Specific Convergence Sublayer for HDLC Applications".This
+    Recommendation makes use of the fact that the subset of services provided by AAL
+    type 5 (Recommendation I.363.5) can replace the framing and bit error detection
+    part of HDLC.This Recommendation is applicable to equipment to be attached to
+    an ATM network when protocol stacks developed for a narrow-band environment are
+    deployed in a B-ISDN environment.
 status:
   stage:
     content: Published
@@ -72,7 +81,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

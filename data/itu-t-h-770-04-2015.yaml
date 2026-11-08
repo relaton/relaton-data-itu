@@ -52,7 +52,23 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.770 describes the mechanisms for service provider discovery, service discovery and selection for Internet protocol television (IPTV) services. The mechanisms enable IPTV terminal devices to provide the end-users with effective ways for consuming IPTV services. The expected types of IPTV services using service discovery information include linear television (TV), video on demand (VoD), etc.\r\nThis Recommendation identifies service discovery metadata elements and attributes providing information concerning service providers and contents/services, and its delivery protocols covering both unicast and multicast transport mechanisms.\r\nThis 2015 edition of the Recommendation adds notes on how to treat \"Web Portal URL\" in clause 7.1. It also modifies the examples of \"Portal URL\" and \"Metadata server URL\", changing those into \"<scheme>://<server_name>[:<port>]/<path>\". In clause 10 it also adds a text to show the example on \"Metadata server URL\". Moreover, \"Preferred Content Guide Discovery record Location\" is changed into \"Preferred Content Guide Discovery record\" in clauses 10.1 and 10.2, and its example has been changed to a Boolean value. Relevant elements/attributes in Appendix II are also changed. This edition of the Recommendation also adds a new service type, \"Widget service\", to Table 7.1-4."
+  content: "Recommendation ITU-T H.770 describes the mechanisms for service provider
+    discovery, service discovery and selection for Internet protocol television (IPTV)
+    services. The mechanisms enable IPTV terminal devices to provide the end-users
+    with effective ways for consuming IPTV services. The expected types of IPTV services
+    using service discovery information include linear television (TV), video on demand
+    (VoD), etc.\r\nThis Recommendation identifies service discovery metadata elements
+    and attributes providing information concerning service providers and contents/services,
+    and its delivery protocols covering both unicast and multicast transport mechanisms.\r\nThis
+    2015 edition of the Recommendation adds notes on how to treat \"Web Portal URL\"
+    in clause 7.1. It also modifies the examples of \"Portal URL\" and \"Metadata
+    server URL\", changing those into \"<scheme>://<server_name>[:<port>]/<path>\".
+    In clause 10 it also adds a text to show the example on \"Metadata server URL\".
+    Moreover, \"Preferred Content Guide Discovery record Location\" is changed into
+    \"Preferred Content Guide Discovery record\" in clauses 10.1 and 10.2, and its
+    example has been changed to a Boolean value. Relevant elements/attributes in Appendix
+    II are also changed. This edition of the Recommendation also adds a new service
+    type, \"Widget service\", to Table 7.1-4."
 status:
   stage:
     content: Published
@@ -82,7 +98,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Updated Appendix I with multiple service platforms and Appendix II with requirements in other standard organizations
+      content: Updated Appendix I with multiple service platforms and Appendix II
+        with requirements in other standard organizations
     docidentifier:
     - content: H.770 (2009) Amd. 1 (11/2009)
       type: ITU
@@ -112,7 +129,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and ISUP in support of emergency telecommunications service (ETS)/international emergency preference scheme (IEPS)'
+      content: 'Gateway control protocol: Operation of H.248 with H.225.0, SIP, and
+        ISUP in support of emergency telecommunications service (ETS)/international
+        emergency preference scheme (IEPS)'
     docidentifier:
     - content: H Suppl. 9 (05/2008)
       type: ITU
@@ -132,7 +151,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248 gateways'
+      content: 'Gateway control protocol: Priority traffic treatment by ITU-T H.248
+        gateways'
     docidentifier:
     - content: H Suppl. 12 (11/2013)
       type: ITU
@@ -142,7 +162,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU
@@ -152,7 +173,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: SDP codepoints for gateway control - Release 2'
+      content: 'Gateway control protocol: SDP codepoints for gateway control - Release
+        2'
     docidentifier:
     - content: H Suppl. 14 (10/2015)
       type: ITU
@@ -162,7 +184,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with PQ transfer characteristics
+      content: Conversion and coding practices for HDR/WCG Y'CbCr 4:2:0 video with
+        PQ transfer characteristics
     docidentifier:
     - content: H Suppl. 15 (01/2017)
       type: ITU
@@ -182,7 +205,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Signalling, backward compatibility and display adaptation for HDR/WCG video coding
+      content: Signalling, backward compatibility and display adaptation for HDR/WCG
+        video coding
     docidentifier:
     - content: H Suppl. 18 (10/2017)
       type: ITU
@@ -212,7 +236,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimization of encoders and receiving systems for machine analysis of coded video content
+      content: Optimization of encoders and receiving systems for machine analysis
+        of coded video content
     docidentifier:
     - content: H Suppl. 22 (07/2026)
       type: ITU

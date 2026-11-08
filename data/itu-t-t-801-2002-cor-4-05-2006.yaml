@@ -50,7 +50,8 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Corrigendum 4 provides corrections to the Reader Requirements box within the JPX file format and to the multi-component compression capability.
+  content: Corrigendum 4 provides corrections to the Reader Requirements box within
+    the JPX file format and to the multi-component compression capability.
 status:
   stage:
     content: Withdrawal
@@ -90,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Box-based file format for JPEG XR, extended ROI boxes, XML boxing, compressed channel definition boxes, and representation of floating point
+      content: Box-based file format for JPEG XR, extended ROI boxes, XML boxing,
+        compressed channel definition boxes, and representation of floating point
     docidentifier:
     - content: T.801 (2002) Amd. 3 (03/2013)
       type: ITU

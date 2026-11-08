@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "As defined in Recommendation ITU-T F.735.1, software-defined cameras can provide the basic hardware service application programming interfaces (APIs) and the common software service APIs for application developers; these APIs are called \"service-oriented interfaces\". Through these APIs the upper layer applications can obtain raw video, pan/tilt/zoom (PTZ), common software and hardware resource to realize video intelligent analysis and non-intelligent businesses. Recommendation ITU-T F.735.2 specifies the architecture and service-oriented interface protocols for software-defined cameras, including functional architecture of software-defined camera system, service-oriented interface message protocol structure, and service-oriented interface protocols. \r\n"
+  content: "As defined in Recommendation ITU-T F.735.1, software-defined cameras can
+    provide the basic hardware service application programming interfaces (APIs) and
+    the common software service APIs for application developers; these APIs are called
+    \"service-oriented interfaces\". Through these APIs the upper layer applications
+    can obtain raw video, pan/tilt/zoom (PTZ), common software and hardware resource
+    to realize video intelligent analysis and non-intelligent businesses. Recommendation
+    ITU-T F.735.2 specifies the architecture and service-oriented interface protocols
+    for software-defined cameras, including functional architecture of software-defined
+    camera system, service-oriented interface message protocol structure, and service-oriented
+    interface protocols. \r\n"
 status:
   stage:
     content: Published
@@ -72,7 +81,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +122,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +133,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T G.8011.5/Y.1307.5 defines the service attributes and parameters for carrying Ethernet private LAN characteristic information over dedicated-bandwidth, point-to-point connections provided by synchronous digital hierarchy (SDH), asynchronous transfer mode (ATM), multi-protocol label switching (MPLS), plesiochronous digital hierarchy (PDH), Ethernet PHY layer network (ETY) optical transport hierarchy (OTH), Ethernet MAC layer network (ETH) or other server layer networks.
+  content: Recommendation ITU-T G.8011.5/Y.1307.5 defines the service attributes and
+    parameters for carrying Ethernet private LAN characteristic information over dedicated-bandwidth,
+    point-to-point connections provided by synchronous digital hierarchy (SDH), asynchronous
+    transfer mode (ATM), multi-protocol label switching (MPLS), plesiochronous digital
+    hierarchy (PDH), Ethernet PHY layer network (ETY) optical transport hierarchy
+    (OTH), Ethernet MAC layer network (ETH) or other server layer networks.
 status:
   stage:
     content: Withdrawal

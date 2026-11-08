@@ -52,7 +52,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation defines network performance parameters, objectives and measurement methods for describing B-ISDN ATM semi-permanent connection availability. The specified parameters and objectives apply to international ATM semi-permanent connection portions delimited by measurement points: National Portions, International Transit Portions and International Interoperator Portions. The objectives, which are worst-case values, are intended to assist providers in network planning by limiting the aggregate effect of network impairments, including congestion, equipment failures and transmission errors. Guidance on determining expected end-to-end performance is provided in as Annex C.A four-state availability model is defined corresponding to the combination of the ability of the network to sustain a connection in the available state and the actual usage of the connection. Two perspectives are considered, the "service" perspective and the "network" perspective. Criteria are defined for entry into and exit from the unavailable state which take both perspectives into account. An estimation procedure is also defined, providing a means of estimating availability performance using sampling techniques.'
+  content: 'This Recommendation defines network performance parameters, objectives
+    and measurement methods for describing B-ISDN ATM semi-permanent connection availability.
+    The specified parameters and objectives apply to international ATM semi-permanent
+    connection portions delimited by measurement points: National Portions, International
+    Transit Portions and International Interoperator Portions. The objectives, which
+    are worst-case values, are intended to assist providers in network planning by
+    limiting the aggregate effect of network impairments, including congestion, equipment
+    failures and transmission errors. Guidance on determining expected end-to-end
+    performance is provided in as Annex C.A four-state availability model is defined
+    corresponding to the combination of the ability of the network to sustain a connection
+    in the available state and the actual usage of the connection. Two perspectives
+    are considered, the "service" perspective and the "network" perspective. Criteria
+    are defined for entry into and exit from the unavailable state which take both
+    perspectives into account. An estimation procedure is also defined, providing
+    a means of estimating availability performance using sampling techniques.'
 status:
   stage:
     content: Withdrawal
@@ -82,7 +96,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

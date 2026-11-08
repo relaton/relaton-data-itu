@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a management framework of an one time password (OTP)-based authentication service to support multi-factor authentication. Specifically, this Recommendation includes the general management framework, centralized management framework, enhanced centralized framework, and cross-domain management framework. These frameworks consist of the OTP management models, OTP management operations, and security considerations for providing the OTP authentication service in a secure telecommunication network.
+  content: This Recommendation provides a management framework of an one time password
+    (OTP)-based authentication service to support multi-factor authentication. Specifically,
+    this Recommendation includes the general management framework, centralized management
+    framework, enhanced centralized framework, and cross-domain management framework.
+    These frameworks consist of the OTP management models, OTP management operations,
+    and security considerations for providing the OTP authentication service in a
+    secure telecommunication network.
 status:
   stage:
     content: Published

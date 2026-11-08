@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment adds support for the Full Mode of Internet fax to Recommendation T.37. The additional functionality includes support for the transmission and reception of additional TIFF image formats, capabilities exchange and acknowledgement of receipt.
+  content: This amendment adds support for the Full Mode of Internet fax to Recommendation
+    T.37. The additional functionality includes support for the transmission and reception
+    of additional TIFF image formats, capabilities exchange and acknowledgement of
+    receipt.
 status:
   stage:
     content: Published
@@ -92,7 +95,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedures for the transfer of facsimile data via store-and-forward on the Internet
+      content: Procedures for the transfer of facsimile data via store-and-forward
+        on the Internet
     docidentifier:
     - content: T.37 (06/1998)
       type: ITU

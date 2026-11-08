@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: OSI conformance testing methodology and framework for protocol Recommendations for ITU-T applications – Test realization
+  content: OSI conformance testing methodology and framework for protocol Recommendations
+    for ITU-T applications – Test realization
   type: main
 source:
 - type: src
@@ -55,7 +56,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies requirements and gives guidance concerning the realization of Means of Testing (MOT) for Implementation under Test (IUTs), in conformance with a reference Abstract Test Suite (ATS) specified in compliance with Recommendation X.291. Test realization involves a protocol, multiple protocols or profile. The text was developed jointly with ISO/IEC JTC 1 and the main intent of this revision is to reflect the changes as a result of the work on Protocol Profile Testing Methodology (PPTM) and on Multi-Party Testing Methodology (MPyTM).
+  content: This Recommendation specifies requirements and gives guidance concerning
+    the realization of Means of Testing (MOT) for Implementation under Test (IUTs),
+    in conformance with a reference Abstract Test Suite (ATS) specified in compliance
+    with Recommendation X.291. Test realization involves a protocol, multiple protocols
+    or profile. The text was developed jointly with ISO/IEC JTC 1 and the main intent
+    of this revision is to reflect the changes as a result of the work on Protocol
+    Profile Testing Methodology (PPTM) and on Multi-Party Testing Methodology (MPyTM).
 status:
   stage:
     content: Published
@@ -75,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: OSI conformance testing methodology and framework for protocol Recommendations for CCITT applications – Test realization
+      content: OSI conformance testing methodology and framework for protocol Recommendations
+        for CCITT applications – Test realization
     docidentifier:
     - content: X.293 (01/1992)
       type: ITU
@@ -85,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.290-series – Supplement on generic approach to interoperability testing
+      content: ITU-T X.290-series – Supplement on generic approach to interoperability
+        testing
     docidentifier:
     - content: X Suppl. 4 (09/2008)
       type: ITU
@@ -95,7 +104,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.290 series – Supplement on interoperability testing framework and methodology
+      content: ITU-T X.290 series – Supplement on interoperability testing framework
+        and methodology
     docidentifier:
     - content: X Suppl. 5 (09/2008)
       type: ITU

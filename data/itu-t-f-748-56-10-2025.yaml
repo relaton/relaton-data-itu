@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.56 defines a general three-layer framework for the artificial intelligence generated content (AIGC) system. The application layer is divided into unimodal/multi-modal tasks from the perspective of content generation modalities. The model layer covers generative artificial intelligence (AI) technologies and multimodal foundational models related to AIGC. The infrastructure layer includes big data, cloud platforms, and computational modules. It forms an overall framework for the AIGC system, along with the functionality requirements, model capability benchmark testing scenarios, evaluation methods, evaluation metrics, and workflows. This Recommendation is intended to guide enterprises in building relevant AIGC capabilities for text, audio, image, video, 3D, and other modalities, and to provide a reference for testing, selecting, or evaluating AIGC technological capabilities.\r\n"
+  content: "Recommendation ITU-T F.748.56 defines a general three-layer framework
+    for the artificial intelligence generated content (AIGC) system. The application
+    layer is divided into unimodal/multi-modal tasks from the perspective of content
+    generation modalities. The model layer covers generative artificial intelligence
+    (AI) technologies and multimodal foundational models related to AIGC. The infrastructure
+    layer includes big data, cloud platforms, and computational modules. It forms
+    an overall framework for the AIGC system, along with the functionality requirements,
+    model capability benchmark testing scenarios, evaluation methods, evaluation metrics,
+    and workflows. This Recommendation is intended to guide enterprises in building
+    relevant AIGC capabilities for text, audio, image, video, 3D, and other modalities,
+    and to provide a reference for testing, selecting, or evaluating AIGC technological
+    capabilities.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +124,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +135,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

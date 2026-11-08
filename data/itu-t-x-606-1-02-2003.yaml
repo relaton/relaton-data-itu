@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Enhanced Communications Transport Protocol: Specification of QoS management for simplex multicast transport'
+  content: 'Information technology – Enhanced Communications Transport Protocol: Specification
+    of QoS management for simplex multicast transport'
   type: main
 source:
 - type: src
@@ -55,7 +56,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard (the second part of ECTP) specifies an end-to-end multicast transport protocol to support QoS negotiation, monitoring and maintenance functions in a simplex (1-to-n) multicast connection. This protocol can be used by multicast applications such as real-time multimedia streaming services for supporting their QoS requirements.If QoS management is enabled, QoS parameter negotiation can optionally be performed during the connection creation phase. The controlling sender then arbitrates parameter values from those proposed by the receivers. If negotiation is not enabled, the sender imposes predefined values. The level of QoS achieved is monitored during the data transfer phase. Each receiver measures the QoS values actually experienced, and reports the status of each parameter to its parent controller using modified ACK packets. The sender aggregates the parameter status values reported from the receivers to obtain a view of connection QoS status. The sender takes QoS maintenance actions, such as data transmission rate adjustment, based upon analysis of the connection QoS status
+  content: This Recommendation | International Standard (the second part of ECTP)
+    specifies an end-to-end multicast transport protocol to support QoS negotiation,
+    monitoring and maintenance functions in a simplex (1-to-n) multicast connection.
+    This protocol can be used by multicast applications such as real-time multimedia
+    streaming services for supporting their QoS requirements.If QoS management is
+    enabled, QoS parameter negotiation can optionally be performed during the connection
+    creation phase. The controlling sender then arbitrates parameter values from those
+    proposed by the receivers. If negotiation is not enabled, the sender imposes predefined
+    values. The level of QoS achieved is monitored during the data transfer phase.
+    Each receiver measures the QoS values actually experienced, and reports the status
+    of each parameter to its parent controller using modified ACK packets. The sender
+    aggregates the parameter status values reported from the receivers to obtain a
+    view of connection QoS status. The sender takes QoS maintenance actions, such
+    as data transmission rate adjustment, based upon analysis of the connection QoS
+    status
 status:
   stage:
     content: Published

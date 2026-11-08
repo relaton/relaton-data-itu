@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is a framework containing rules, guidelines, and objectives for developing telecommunications industry standard telecommunications Markup Language (tML) schemas for operations, administration, maintenance and provisioning (OAM&P) applications. The tML language is based on the World Wide Web Consortium (W3C) XML 1.0 Recommendation. tML schemas are based on the W3C XML schema Recommendation. Also included in this framework are rules, objectives, and guidelines on procedures to develop new telecommunications vocabularies and to use/reuse existing vocabularies.
+  content: This Recommendation is a framework containing rules, guidelines, and objectives
+    for developing telecommunications industry standard telecommunications Markup
+    Language (tML) schemas for operations, administration, maintenance and provisioning
+    (OAM&P) applications. The tML language is based on the World Wide Web Consortium
+    (W3C) XML 1.0 Recommendation. tML schemas are based on the W3C XML schema Recommendation.
+    Also included in this framework are rules, objectives, and guidelines on procedures
+    to develop new telecommunications vocabularies and to use/reuse existing vocabularies.
 status:
   stage:
     content: Published

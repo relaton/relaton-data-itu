@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Secure end-to-end data communication techniques using trusted third party services
+  content: Secure end-to-end data communication techniques using trusted third party
+    services
   type: main
 source:
 - type: src
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1152 defines basic interfaces, interactions and security considerations for secure end-to-end data communication using on-line trusted third party (TTP) services. This Recommendation also identifies online TTP services which can be used to support secure end-to-end data communication between two entities.
+  content: Recommendation ITU-T X.1152 defines basic interfaces, interactions and
+    security considerations for secure end-to-end data communication using on-line
+    trusted third party (TTP) services. This Recommendation also identifies online
+    TTP services which can be used to support secure end-to-end data communication
+    between two entities.
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1152 – Supplement on use cases for contact tracing technologies to prevent spread of infectious diseases
+      content: ITU-T X.1152 – Supplement on use cases for contact tracing technologies
+        to prevent spread of infectious diseases
     docidentifier:
     - content: X Suppl. 38 (09/2022)
       type: ITU

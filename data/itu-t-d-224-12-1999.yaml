@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation sets out the general principles and conditions applicable by Administrations for the capability to transport ATM cells over ATM connections between standardized interfaces and for services using such connections.Specific charging and accounting principles for point-to-multipoint ATM connections are not currently addressed in this version of this Recommendation.
+  content: This Recommendation sets out the general principles and conditions applicable
+    by Administrations for the capability to transport ATM cells over ATM connections
+    between standardized interfaces and for services using such connections.Specific
+    charging and accounting principles for point-to-multipoint ATM connections are
+    not currently addressed in this version of this Recommendation.
 status:
   stage:
     content: Published
@@ -92,7 +96,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing national tariffs
+      content: Handbook on the methodology for determining costs and establishing
+        national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This IPTV service use cases supplement provides a list of IPTV use cases that are informative illustrations of how IPTV services can be designed, deployed and operated. From the end-user's perspective, use cases have been categorized by distributed content services, interactive services, communication services, etc.
+  content: This IPTV service use cases supplement provides a list of IPTV use cases
+    that are informative illustrations of how IPTV services can be designed, deployed
+    and operated. From the end-user's perspective, use cases have been categorized
+    by distributed content services, interactive services, communication services,
+    etc.
 status:
   stage:
     content: Published

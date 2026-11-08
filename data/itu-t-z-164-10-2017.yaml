@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU‑T Z.164 defines the operational semantics of Testing and Test Control Notation 3 (TTCN-3). The operational semantics are necessary to unambiguously interpret the specifications made with TTCN-3. This Recommendation is based on the TTCN-3 core language defined in Recommendation ITU‑T Z.161.\r\n\r\nThis revision of the Recommendation contains amendments, clarifications, corrigenda and editorial corrections.\r\n\r\nThis Recommendation is technically aligned with ETSI ES 201 873-4 V4.6.1 (2016).\r\n"
+  content: "Recommendation ITU‑T Z.164 defines the operational semantics of Testing
+    and Test Control Notation 3 (TTCN-3). The operational semantics are necessary
+    to unambiguously interpret the specifications made with TTCN-3. This Recommendation
+    is based on the TTCN-3 core language defined in Recommendation ITU‑T Z.161.\r\n\r\nThis
+    revision of the Recommendation contains amendments, clarifications, corrigenda
+    and editorial corrections.\r\n\r\nThis Recommendation is technically aligned with
+    ETSI ES 201 873-4 V4.6.1 (2016).\r\n"
 status:
   stage:
     content: Published
@@ -112,7 +118,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3 (TTCN-3): Operational semantics'
+      content: 'Testing and Test Control Notation version 3 (TTCN-3): Operational
+        semantics'
     docidentifier:
     - content: Z.143 (03/2006)
       type: ITU
@@ -122,7 +129,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

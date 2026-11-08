@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1031 provides guidance for applying the concepts of Recommendation ITU-T X.805 architecture to divide security controls between the telecommunication networks (including service provider's and/or application provider's networks) and the end user's equipment. The Recommendation also defines the factors to be taken into account in setting up or dividing the interaction of security controls between the telecommunication network and the users. In addition, a classification of security controls for telecommunication is given.
+  content: Recommendation ITU-T X.1031 provides guidance for applying the concepts
+    of Recommendation ITU-T X.805 architecture to divide security controls between
+    the telecommunication networks (including service provider's and/or application
+    provider's networks) and the end user's equipment. The Recommendation also defines
+    the factors to be taken into account in setting up or dividing the interaction
+    of security controls between the telecommunication network and the users. In addition,
+    a classification of security controls for telecommunication is given.
 status:
   stage:
     content: Published

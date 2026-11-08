@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation, "1+1 protection switching for cell-based Physical Layer", provides architecture and mechanisms for 1+1 protection at the Physical Layer for ATM cell-based transmission systems.This ITU-T Recommendation defines the transmitter and receiver operation, the synchronization and switching process. It is based on the mechanisms described in ITU-T Recommendation I.432.2 for ATM cell-based transmission systems.It provides hitless protection switching at the Physical Layer between two sources and sinks of F3 OAM flows.
+  content: This ITU-T Recommendation, "1+1 protection switching for cell-based Physical
+    Layer", provides architecture and mechanisms for 1+1 protection at the Physical
+    Layer for ATM cell-based transmission systems.This ITU-T Recommendation defines
+    the transmitter and receiver operation, the synchronization and switching process.
+    It is based on the mechanisms described in ITU-T Recommendation I.432.2 for ATM
+    cell-based transmission systems.It provides hitless protection switching at the
+    Physical Layer between two sources and sinks of F3 OAM flows.
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

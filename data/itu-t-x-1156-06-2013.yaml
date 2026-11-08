@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1156 provides a non-repudiation framework based on a one-time password (OTP) to enhance trust between transaction entities. In addition, this Recommendation describes the security requirements of OTP-based non-repudiation services, as well as the mechanisms for generating non-repudiation tokens. The originator of the transactions may request the trusted third party (TTP) to generate the non-repudiation token and the recipient may request the TTP to generate the non-repudiation of delivery token. Both the originator and the recipient may request TTP to verify the non-repudiation tokens.
+  content: Recommendation ITU-T X.1156 provides a non-repudiation framework based
+    on a one-time password (OTP) to enhance trust between transaction entities. In
+    addition, this Recommendation describes the security requirements of OTP-based
+    non-repudiation services, as well as the mechanisms for generating non-repudiation
+    tokens. The originator of the transactions may request the trusted third party
+    (TTP) to generate the non-repudiation token and the recipient may request the
+    TTP to generate the non-repudiation of delivery token. Both the originator and
+    the recipient may request TTP to verify the non-repudiation tokens.
 status:
   stage:
     content: Published

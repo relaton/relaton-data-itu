@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 10 to ITU-T H-series Recommendations describes a proxy-aided network address translation/firewall (NAT/FW) traversal mechanism in the ITU-T H.323 multimedia system. The proxy described in this supplement implements the ITU-T H.323 applications NAT/FW traversal by way of translating the address, ports and the related contents in the payloads and/or in the Internet Protocol (IP) headers, in which the ITU-T H.323 protocol remains intact. In addition, the proxy can also facilitate the real-time transport protocol/real-time transport control protocol (RTP/RTCP) media flows traverse the NAT/FW among the entities in communication.
+  content: Supplement 10 to ITU-T H-series Recommendations describes a proxy-aided
+    network address translation/firewall (NAT/FW) traversal mechanism in the ITU-T
+    H.323 multimedia system. The proxy described in this supplement implements the
+    ITU-T H.323 applications NAT/FW traversal by way of translating the address, ports
+    and the related contents in the payloads and/or in the Internet Protocol (IP)
+    headers, in which the ITU-T H.323 protocol remains intact. In addition, the proxy
+    can also facilitate the real-time transport protocol/real-time transport control
+    protocol (RTP/RTCP) media flows traverse the NAT/FW among the entities in communication.
 status:
   stage:
     content: Published

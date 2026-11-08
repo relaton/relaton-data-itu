@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Session service definition defined in ITU-T Rec. X.215 | ISO/IEC 8326 is enhanced to define an optional functional unit which permits additional, independent, nested session connections within an existing session connection. This enhancement will support the reusability of existing application layer standards (each making full, and possibly incompatible, use of the session synchronization services) as components of new application layer standards
+  content: The Session service definition defined in ITU-T Rec. X.215 | ISO/IEC 8326
+    is enhanced to define an optional functional unit which permits additional, independent,
+    nested session connections within an existing session connection. This enhancement
+    will support the reusability of existing application layer standards (each making
+    full, and possibly incompatible, use of the session synchronization services)
+    as components of new application layer standards
 status:
   stage:
     content: Published
@@ -93,7 +98,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Session service definition
+      content: Information technology – Open Systems Interconnection – Session service
+        definition
     docidentifier:
     - content: X.215 (11/1995)
       type: ITU
@@ -113,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Session service definition
+      content: Information technology – Open Systems Interconnection – Session service
+        definition
     docidentifier:
     - content: X.215 (07/1994)
       type: ITU
@@ -123,7 +130,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session service definition for Open Systems Interconnection for CCITT applications
+      content: Session service definition for Open Systems Interconnection for CCITT
+        applications
     docidentifier:
     - content: X.215 (11/1988)
       type: ITU
@@ -133,7 +141,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session Service Definition for Open Systems Interconnection for CCITT Applications
+      content: Session Service Definition for Open Systems Interconnection for CCITT
+        Applications
     docidentifier:
     - content: X.215 (10/1984)
       type: ITU

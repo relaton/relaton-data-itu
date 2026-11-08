@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Telecommunication organizations collect, manage, use, and share data about individuals, including personally identifiable information. As a result, they utilize data de-identification techniques to protect individuals' data. Recommendation ITU-T X.1148 describes a framework of de-identification process with operational steps and specifies data release models and data stages in a de-identification process for telecommunication service providers based on data lifecycle model and the roles of stakeholders. \r\n"
+  content: "Telecommunication organizations collect, manage, use, and share data about
+    individuals, including personally identifiable information. As a result, they
+    utilize data de-identification techniques to protect individuals' data. Recommendation
+    ITU-T X.1148 describes a framework of de-identification process with operational
+    steps and specifies data release models and data stages in a de-identification
+    process for telecommunication service providers based on data lifecycle model
+    and the roles of stakeholders. \r\n"
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1148 - Supplement on requirements for data de-identification assurance
+      content: ITU-T X.1148 - Supplement on requirements for data de-identification
+        assurance
     docidentifier:
     - content: X Suppl. 39 (09/2023)
       type: ITU

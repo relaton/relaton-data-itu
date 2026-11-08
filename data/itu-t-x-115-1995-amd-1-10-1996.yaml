@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation X.115 provides definition of address translation service, the service provided to its customers, the functions at the network interface and functions within the network when providing this service. The address translation service provides customers with the ability to use addresses in formats other than X.121 or E.164 (e.g. user-friendly addresses like mnemonic addresses, etc.). The addresses can be any of the alternative addresses (e.g. IP addresses, MAC addresses, etc.). The network will translate the address used during call establishment to the desired address to complete the call.
+  content: Recommendation X.115 provides definition of address translation service,
+    the service provided to its customers, the functions at the network interface
+    and functions within the network when providing this service. The address translation
+    service provides customers with the ability to use addresses in formats other
+    than X.121 or E.164 (e.g. user-friendly addresses like mnemonic addresses, etc.).
+    The addresses can be any of the alternative addresses (e.g. IP addresses, MAC
+    addresses, etc.). The network will translate the address used during call establishment
+    to the desired address to complete the call.
 status:
   stage:
     content: Published

@@ -55,7 +55,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.801 | ISO/IEC 15444-2 defines a set of lossless (bit-preserving) and lossy compression methods for coding continuous-tone, bi-level, grey-scale, colour digital still images, or multi-component images.\r\nThis Recommendation | International Standard:\r\n–specifies extended decoding processes for converting compressed image data to reconstructed image data;\r\n–specifies an extended codestream syntax containing information for interpreting the compressed image data;\r\n–specifies an extended file format;\r\n–specifies a container to store image metadata;\r\n–defines a standard set of image metadata;\r\n–provides guidance on extended encoding processes for converting source image data to compressed image data;\r\n–provides guidance on how to implement these processes in practice.\r\nRelative to the second edition of this Recommendation | International Standard, this edition introduces the following changes:\r\n–Support for progression order extensions\r\nThis third edition cancels and replaces the second edition (ITU-T T.801 (2021) | ISO/IEC 15444-2:2021), which has been technically revised.\r\n"
+  content: "Recommendation ITU-T T.801 | ISO/IEC 15444-2 defines a set of lossless
+    (bit-preserving) and lossy compression methods for coding continuous-tone, bi-level,
+    grey-scale, colour digital still images, or multi-component images.\r\nThis Recommendation
+    | International Standard:\r\n–specifies extended decoding processes for converting
+    compressed image data to reconstructed image data;\r\n–specifies an extended codestream
+    syntax containing information for interpreting the compressed image data;\r\n–specifies
+    an extended file format;\r\n–specifies a container to store image metadata;\r\n–defines
+    a standard set of image metadata;\r\n–provides guidance on extended encoding processes
+    for converting source image data to compressed image data;\r\n–provides guidance
+    on how to implement these processes in practice.\r\nRelative to the second edition
+    of this Recommendation | International Standard, this edition introduces the following
+    changes:\r\n–Support for progression order extensions\r\nThis third edition cancels
+    and replaces the second edition (ITU-T T.801 (2021) | ISO/IEC 15444-2:2021), which
+    has been technically revised.\r\n"
 status:
   stage:
     content: Published
@@ -85,7 +98,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Box-based file format for JPEG XR, extended ROI boxes, XML boxing, compressed channel definition boxes, and representation of floating point
+      content: Box-based file format for JPEG XR, extended ROI boxes, XML boxing,
+        compressed channel definition boxes, and representation of floating point
     docidentifier:
     - content: T.801 (2002) Amd. 3 (03/2013)
       type: ITU

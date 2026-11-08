@@ -55,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment requires a change to the interpretation of the Rsiz parameter values within the SIZ marker segment. Specifically, the second most significant bit in the Rsiz field is no longer restricted to be equal to 0. Two new values for the Rsiz field are also defined. Finally, this amendment extends the codestream syntax by providing a new marker segment, CAP, to signal extended capabilities required to decode the codestream.NOTE - ISO/IEC 15444-2 Amendment 1 and Technical Corrigenda 1 and 2 are already integrated in T.801 approved by ITU-T on 2002-08.
+  content: This amendment requires a change to the interpretation of the Rsiz parameter
+    values within the SIZ marker segment. Specifically, the second most significant
+    bit in the Rsiz field is no longer restricted to be equal to 0. Two new values
+    for the Rsiz field are also defined. Finally, this amendment extends the codestream
+    syntax by providing a new marker segment, CAP, to signal extended capabilities
+    required to decode the codestream.NOTE - ISO/IEC 15444-2 Amendment 1 and Technical
+    Corrigenda 1 and 2 are already integrated in T.801 approved by ITU-T on 2002-08.
 status:
   stage:
     content: Withdrawal
@@ -95,7 +101,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Box-based file format for JPEG XR, extended ROI boxes, XML boxing, compressed channel definition boxes, and representation of floating point
+      content: Box-based file format for JPEG XR, extended ROI boxes, XML boxing,
+        compressed channel definition boxes, and representation of floating point
     docidentifier:
     - content: T.801 (2002) Amd. 3 (03/2013)
       type: ITU

@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Y.1903 describes detailed functional requirements of mobile IPTV, which is an application of IPTV (Recommendation ITU-T Y.1901). It applies to where the IPTV terminal device is connected to the IPTV service provider via an IPTV-enabled mobile network to provide the IPTV services irrespective of changes of the location or technical environment. This Recommendation focuses on the requirements for networking aspects of an IPTV terminal device to the IPTV service provider. This Recommendation does not address the common functional requirements of an IPTV service, which are covered by Recommendation ITU-T Y.1901, but provides the requirements specific to mobile IPTV services only. Thus, these functional requirements are used to develop the detailed specifications of the IPTV functional components which are defined in Recommendation ITU-T Y.1910 for support of mobile IPTV.
+  content: Recommendation ITU-T Y.1903 describes detailed functional requirements
+    of mobile IPTV, which is an application of IPTV (Recommendation ITU-T Y.1901).
+    It applies to where the IPTV terminal device is connected to the IPTV service
+    provider via an IPTV-enabled mobile network to provide the IPTV services irrespective
+    of changes of the location or technical environment. This Recommendation focuses
+    on the requirements for networking aspects of an IPTV terminal device to the IPTV
+    service provider. This Recommendation does not address the common functional requirements
+    of an IPTV service, which are covered by Recommendation ITU-T Y.1901, but provides
+    the requirements specific to mobile IPTV services only. Thus, these functional
+    requirements are used to develop the detailed specifications of the IPTV functional
+    components which are defined in Recommendation ITU-T Y.1910 for support of mobile
+    IPTV.
 status:
   stage:
     content: Published
@@ -82,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.1900-series – Supplement on guidelines on deployment of IP multicast for IPTV content delivery
+      content: ITU-T Y.1900-series – Supplement on guidelines on deployment of IP
+        multicast for IPTV content delivery
     docidentifier:
     - content: Y Suppl. 16 (02/2012)
       type: ITU
@@ -92,7 +104,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.1900-series - Supplement on scenarios and use cases of mobile IPTV
+      content: ITU-T Y.1900-series - Supplement on scenarios and use cases of mobile
+        IPTV
     docidentifier:
     - content: Y Suppl. 20 (06/2012)
       type: ITU
@@ -122,7 +135,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond standardization roadmap
+      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+        standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
       type: ITU
@@ -142,7 +156,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems and services"
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -152,7 +167,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -162,7 +178,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

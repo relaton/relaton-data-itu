@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is concerned with the definition of control procedures which allow cell level GOS objectives to be fulfilled. The primary objective is to define practical CAC procedures allowing the network operator to decide when a new connection can be accepted on individual ATM links or network VPCs. Theoretical background is included where necessary to clarify assumptions and to situate the context of proposed control options. This Recommendation also addresses adaptive resource management techniques, where these are required by defined ATM transfer capabilities, and it identifies procedures for service integration.
+  content: This Recommendation is concerned with the definition of control procedures
+    which allow cell level GOS objectives to be fulfilled. The primary objective is
+    to define practical CAC procedures allowing the network operator to decide when
+    a new connection can be accepted on individual ATM links or network VPCs. Theoretical
+    background is included where necessary to clarify assumptions and to situate the
+    context of proposed control options. This Recommendation also addresses adaptive
+    resource management techniques, where these are required by defined ATM transfer
+    capabilities, and it identifies procedures for service integration.
 status:
   stage:
     content: Published
@@ -82,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

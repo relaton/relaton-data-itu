@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes the logical channel transport to carry the remote device control protocol for multimedia applications (Recommendation H.282) for use with systems that use packet switched networks, such as those according to Recommendation H.323.This Recommendation describes the logical channel transport (LCT) services and protocol. LCT can carry H.282 protocol in an H.323 point-to-point or multipoint conference. LCT is used within a bidirectional, unreliable H.245 logical channel. LCT provides the following services, accessed at its service access point:\r• managing the Node List of all RDC participants in the conference;\r• exchange of H.282 device list capability information;\r• sending and receiving H.282 protocol messages between nodes."
+  content: "This Recommendation describes the logical channel transport to carry the
+    remote device control protocol for multimedia applications (Recommendation H.282)
+    for use with systems that use packet switched networks, such as those according
+    to Recommendation H.323.This Recommendation describes the logical channel transport
+    (LCT) services and protocol. LCT can carry H.282 protocol in an H.323 point-to-point
+    or multipoint conference. LCT is used within a bidirectional, unreliable H.245
+    logical channel. LCT provides the following services, accessed at its service
+    access point:\r• managing the Node List of all RDC participants in the conference;\r•
+    exchange of H.282 device list capability information;\r• sending and receiving
+    H.282 protocol messages between nodes."
 status:
   stage:
     content: Withdrawal

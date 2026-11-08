@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T G.8011.5/Y.1307.5 defines the service attributes and parameters for carrying Ethernet private LAN characteristic information over dedicated-bandwidth, point-to-point connections provided by SDH, ATM, MPLS, PDH, ETY, OTH, ETH or other server layer networks.
+  content: Recommendation ITU-T G.8011.5/Y.1307.5 defines the service attributes and
+    parameters for carrying Ethernet private LAN characteristic information over dedicated-bandwidth,
+    point-to-point connections provided by SDH, ATM, MPLS, PDH, ETY, OTH, ETH or other
+    server layer networks.
 status:
   stage:
     content: Withdrawal

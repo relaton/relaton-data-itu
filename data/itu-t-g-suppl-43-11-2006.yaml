@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement describes several approaches for transport of 10G LAN PHY over SDH and OTN transport networks. As some of these approaches use rates, formats and mappings that are not defined in ITU-T Recommendations, this Supplement analyses various attributes of the different approaches to provide guidance regarding their applicability to different network contexts.This Supplement relates to [ITU-T G.872], [ITU-T G.709/Y.1331], [ITU-T G.798], [ITU-T G.707/Y.1322], [ITU-T G.8010/Y.1306], [ITU-T G.8012/Y.1308], [ITU-T G.959.1] and [ITU-T G.696.1].
+  content: This Supplement describes several approaches for transport of 10G LAN PHY
+    over SDH and OTN transport networks. As some of these approaches use rates, formats
+    and mappings that are not defined in ITU-T Recommendations, this Supplement analyses
+    various attributes of the different approaches to provide guidance regarding their
+    applicability to different network contexts.This Supplement relates to [ITU-T
+    G.872], [ITU-T G.709/Y.1331], [ITU-T G.798], [ITU-T G.707/Y.1322], [ITU-T G.8010/Y.1306],
+    [ITU-T G.8012/Y.1308], [ITU-T G.959.1] and [ITU-T G.696.1].
 status:
   stage:
     content: Withdrawal

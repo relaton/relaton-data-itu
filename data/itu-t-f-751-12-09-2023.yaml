@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Formal verification framework for smart contract on distributed ledger technology
+  content: Formal verification framework for smart contract on distributed ledger
+    technology
   type: main
 source:
 - type: src
@@ -52,7 +53,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Smart contracts can be used to reduce complex business contracts by directly enforcing the contract's payment methods and paybacks, and by automating the process of contract execution and verification into the network, without the intervention and cost of the person checking the contract's performance. However, smart contracts are a series of program codes generated on distributed ledger technology (DLT) and problems may occur in the process of executing the smart contract. As a method to solve problems that occur in the program execution environment, there is a formal verification. Recommendation ITU-T F.751.12 specifies the formal verification framework for smart contract on DLT, its overview, requirement and architecture in its framework, as well as the main technical direction of its formal method component. This Recommendation can be used as a guideline for a smart contract developer to build systems.\r\n"
+  content: "Smart contracts can be used to reduce complex business contracts by directly
+    enforcing the contract's payment methods and paybacks, and by automating the process
+    of contract execution and verification into the network, without the intervention
+    and cost of the person checking the contract's performance. However, smart contracts
+    are a series of program codes generated on distributed ledger technology (DLT)
+    and problems may occur in the process of executing the smart contract. As a method
+    to solve problems that occur in the program execution environment, there is a
+    formal verification. Recommendation ITU-T F.751.12 specifies the formal verification
+    framework for smart contract on DLT, its overview, requirement and architecture
+    in its framework, as well as the main technical direction of its formal method
+    component. This Recommendation can be used as a guideline for a smart contract
+    developer to build systems.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +84,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +125,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +136,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In big data infrastructure, there are many security threats in the process of data collection, storage, processing, and management. How to dynamically and intelligently monitor, analyse, and respond to data security threats is a problem to be solved in big data infrastructure. Machine learning has the capabilities of automatic learning and pattern recognition, which can discover potential security threats and abnormal behaviours from a large amount of data so that proactive defensive measures can be taken. Using machine learning to enhance data security has gradually become a necessary technology for big data infrastructure.\r\nRecommendation ITU-T X.1753 analyses data security threats in big data infrastructure and scenarios where machine learning can be applied to data security protection in big data infrastructure and provides guidelines for using machine learning to protect data security of big data infrastructure.\r\n"
+  content: "In big data infrastructure, there are many security threats in the process
+    of data collection, storage, processing, and management. How to dynamically and
+    intelligently monitor, analyse, and respond to data security threats is a problem
+    to be solved in big data infrastructure. Machine learning has the capabilities
+    of automatic learning and pattern recognition, which can discover potential security
+    threats and abnormal behaviours from a large amount of data so that proactive
+    defensive measures can be taken. Using machine learning to enhance data security
+    has gradually become a necessary technology for big data infrastructure.\r\nRecommendation
+    ITU-T X.1753 analyses data security threats in big data infrastructure and scenarios
+    where machine learning can be applied to data security protection in big data
+    infrastructure and provides guidelines for using machine learning to protect data
+    security of big data infrastructure.\r\n"
 status:
   stage:
     content: Published

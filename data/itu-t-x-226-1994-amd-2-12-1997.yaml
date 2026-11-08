@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Presentation protocol specification defined in ITU-T Rec. X.226 | ISO/IEC 8823-1 is enhanced to support the establishment of additional, independent, nested presentation connections within an existing presentation connection. This enhancement will support the reusability of existing application layer standards (each making full, and possibly incompatible, use of the session synchronization services) as components of new application layer standards.
+  content: The Presentation protocol specification defined in ITU-T Rec. X.226 | ISO/IEC
+    8823-1 is enhanced to support the establishment of additional, independent, nested
+    presentation connections within an existing presentation connection. This enhancement
+    will support the reusability of existing application layer standards (each making
+    full, and possibly incompatible, use of the session synchronization services)
+    as components of new application layer standards.
 status:
   stage:
     content: Published
@@ -103,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Connection-oriented Presentation protocol: Protocol specification'
+      content: 'Information technology – Open Systems Interconnection – Connection-oriented
+        Presentation protocol: Protocol specification'
     docidentifier:
     - content: X.226 (07/1994)
       type: ITU
@@ -113,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Presentation protocol specification for Open Systems Interconnection for CCITT applications
+      content: Presentation protocol specification for Open Systems Interconnection
+        for CCITT applications
     docidentifier:
     - content: X.226 (11/1988)
       type: ITU

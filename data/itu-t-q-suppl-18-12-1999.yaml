@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Technical Report TRQ.2230: Call control signalling requirements – Join call service'
+  content: 'Technical Report TRQ.2230: Call control signalling requirements – Join
+    call service'
   type: main
 source:
 - type: src
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement specifies the signalling requirements for the Join Call (call only) service capability. These signalling requirements cover the UNI and NNI interactions (exchange of information flows) and internal serving node procedure requirements for a serving node associated with a joining party and associated with the call registering party. The signalling requirements include registered call creation (without network connections), attachment of new parties by themselves ("join call"), and detachment of parties by the call registering party or by themselves.
+  content: This Supplement specifies the signalling requirements for the Join Call
+    (call only) service capability. These signalling requirements cover the UNI and
+    NNI interactions (exchange of information flows) and internal serving node procedure
+    requirements for a serving node associated with a joining party and associated
+    with the call registering party. The signalling requirements include registered
+    call creation (without network connections), attachment of new parties by themselves
+    ("join call"), and detachment of parties by the call registering party or by themselves.
 status:
   stage:
     content: Published

@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the core language of the Tree and Tabular Combined Notation version 3 (TTCN-3). TTCN-3 can be used for the specification of all types of reactive system tests over a variety of communication ports. Typical areas of application are protocol testing (including mobile and Internet protocols), service testing (including supplementary services), module testing, testing of Common Object Request Broker Architecture (CORBA)-based platforms, of Application Programming Interfaces (APIs), etc. TTCN-3 is not restricted to conformance testing and can be used for many other kinds of testing such including interoperability, robustness, regression, system and integration testing. The specification of test suites for physical layer protocols is outside the scope of this Recommendation.
+  content: This Recommendation defines the core language of the Tree and Tabular Combined
+    Notation version 3 (TTCN-3). TTCN-3 can be used for the specification of all types
+    of reactive system tests over a variety of communication ports. Typical areas
+    of application are protocol testing (including mobile and Internet protocols),
+    service testing (including supplementary services), module testing, testing of
+    Common Object Request Broker Architecture (CORBA)-based platforms, of Application
+    Programming Interfaces (APIs), etc. TTCN-3 is not restricted to conformance testing
+    and can be used for many other kinds of testing such including interoperability,
+    robustness, regression, system and integration testing. The specification of test
+    suites for physical layer protocols is outside the scope of this Recommendation.
 status:
   stage:
     content: Withdrawal
@@ -240,7 +249,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

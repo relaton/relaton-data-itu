@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1243 specifies the interactive gateway system for countering spam as a technical means for countering inter-domain spam. The gateway system enables spam notification among different domains, and it prevents spam traffic from passing from one domain to another.In addition, this Recommendation specifies the architecture for the gateway system, describes basic entities, protocols and functions of the gateway system, and provides mechanisms for spam detection, information sharing and specific actions in the gateway system for countering spam.
+  content: Recommendation ITU-T X.1243 specifies the interactive gateway system for
+    countering spam as a technical means for countering inter-domain spam. The gateway
+    system enables spam notification among different domains, and it prevents spam
+    traffic from passing from one domain to another.In addition, this Recommendation
+    specifies the architecture for the gateway system, describes basic entities, protocols
+    and functions of the gateway system, and provides mechanisms for spam detection,
+    information sharing and specific actions in the gateway system for countering
+    spam.
 status:
   stage:
     content: Published
@@ -80,7 +87,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated threats
+      content: ITU-T X.1240 series – Supplement on countering spam and associated
+        threats
     docidentifier:
     - content: X Suppl. 6 (09/2009)
       type: ITU
@@ -90,7 +98,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1243 - Supplement on a practical reference model for countering e-mail spam using botnet information
+      content: ITU-T X.1243 - Supplement on a practical reference model for countering
+        e-mail spam using botnet information
     docidentifier:
     - content: X Suppl. 14 (09/2012)
       type: ITU

@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the routing principles that should be applied for the establishment of packet-switched virtual calls or circuit switched calls when interconnecting public data networks. This Recommendation contains the guidelines which Administrations should follow with the aim of encouraging the spread of public data networks internationally and foster commonality of understanding leading to an orderly development of the international network, making effective and economical use of network resources.
+  content: This Recommendation specifies the routing principles that should be applied
+    for the establishment of packet-switched virtual calls or circuit switched calls
+    when interconnecting public data networks. This Recommendation contains the guidelines
+    which Administrations should follow with the aim of encouraging the spread of
+    public data networks internationally and foster commonality of understanding leading
+    to an orderly development of the international network, making effective and economical
+    use of network resources.
 status:
   stage:
     content: Withdrawal
@@ -102,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Routing principles for international public data services through switched public data networks of the same type
+      content: Routing principles for international public data services through switched
+        public data networks of the same type
     docidentifier:
     - content: X.110 (11/1980)
       type: ITU

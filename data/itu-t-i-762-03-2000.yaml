@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation specifies the requirements on how to map ATM on a "circuit-mode connection" supporting unrestricted information transfer rates at integer multiples of 64 kbit/s up to the maximum rate of the interface. The physical interface may typically be DS1 or E1 (or any other physical interface). The specification shall apply for any N * 64 kbit/s rate up to 1920 kbit/s (N = 30) and be independent of type of interface (UNI or NNI).
+  content: This ITU-T Recommendation specifies the requirements on how to map ATM
+    on a "circuit-mode connection" supporting unrestricted information transfer rates
+    at integer multiples of 64 kbit/s up to the maximum rate of the interface. The
+    physical interface may typically be DS1 or E1 (or any other physical interface).
+    The specification shall apply for any N * 64 kbit/s rate up to 1920 kbit/s (N
+    = 30) and be independent of type of interface (UNI or NNI).
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

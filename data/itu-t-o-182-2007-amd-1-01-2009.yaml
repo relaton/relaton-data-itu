@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to Recommendation ITU-T O.182 adds an additional evaluation procedure using the goodness of the fit to the exponential distribution for the random error generator (clause C.6) and the detailed description of this evaluation method (Appendix II).
+  content: Amendment 1 to Recommendation ITU-T O.182 adds an additional evaluation
+    procedure using the goodness of the fit to the exponential distribution for the
+    random error generator (clause C.6) and the detailed description of this evaluation
+    method (Appendix II).
 status:
   stage:
     content: Published
@@ -72,7 +75,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Equipment to assess error performance on Optical Transport Network interfaces
+      content: Equipment to assess error performance on Optical Transport Network
+        interfaces
     docidentifier:
     - content: O.182 (07/2007)
       type: ITU

@@ -55,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies the use of the wavelet-based JPEG 2000 codec for the coding and display of timed sequences of images (motion sequences), possibly combined with audio, and composed into an overall presentation. In this Recommendation | International Standard, a file format is defined, and guidelines for the use of the JPEG 2000 codec for motion sequences are supplied. This Recommendation | International Standard also specifies profiles and the framework, concepts, methodology for testing and the criteria to be achieved to claim compliance to this Recommendation | International Standard.The electronic attachment to this Recommendation | International Standard contains binary test files for verification of the compliance of implementations to this Recommendation | International Standard.
+  content: This Recommendation | International Standard specifies the use of the wavelet-based
+    JPEG 2000 codec for the coding and display of timed sequences of images (motion
+    sequences), possibly combined with audio, and composed into an overall presentation.
+    In this Recommendation | International Standard, a file format is defined, and
+    guidelines for the use of the JPEG 2000 codec for motion sequences are supplied.
+    This Recommendation | International Standard also specifies profiles and the framework,
+    concepts, methodology for testing and the criteria to be achieved to claim compliance
+    to this Recommendation | International Standard.The electronic attachment to this
+    Recommendation | International Standard contains binary test files for verification
+    of the compliance of implementations to this Recommendation | International Standard.
 status:
   stage:
     content: Published

@@ -52,7 +52,23 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the wide use of mobile devices, the number of business transactions carried out through these devices is dramatically increasing. However, there are many weaknesses to single-factor authentication when used in the mobile context requiring strong authentication mechanisms to meet requirements for security and convenience. As such, there is a strong need to develop multi-factor authentication mechanisms that are applicable to the mobile context.\r\nRecommendation ITU-T X.1158 provides multi-factor authentication mechanisms using a mobile device. This Recommendation describes the weaknesses of single-factor authentication mechanisms, the need for multi-factor authentication mechanisms, the various combinations of multi-factor authentication mechanisms using a mobile device and the threats for two-factor authentication mechanisms. In addition, security requirements to reduce the threats of single-factor authentication are provided, including potential typical multi-factor authentication mechanisms. This Recommendation assumes the use of a mobile device with subscriber identity module (SIM) card capability, but should not exclude the use of virtual SIM cards. Specifically, this Recommendation is applicable to all applications using mobile devices. This Recommendation is based on the framework described in Recommendation ITU-T X.1154."
+  content: "With the wide use of mobile devices, the number of business transactions
+    carried out through these devices is dramatically increasing. However, there are
+    many weaknesses to single-factor authentication when used in the mobile context
+    requiring strong authentication mechanisms to meet requirements for security and
+    convenience. As such, there is a strong need to develop multi-factor authentication
+    mechanisms that are applicable to the mobile context.\r\nRecommendation ITU-T
+    X.1158 provides multi-factor authentication mechanisms using a mobile device.
+    This Recommendation describes the weaknesses of single-factor authentication mechanisms,
+    the need for multi-factor authentication mechanisms, the various combinations
+    of multi-factor authentication mechanisms using a mobile device and the threats
+    for two-factor authentication mechanisms. In addition, security requirements to
+    reduce the threats of single-factor authentication are provided, including potential
+    typical multi-factor authentication mechanisms. This Recommendation assumes the
+    use of a mobile device with subscriber identity module (SIM) card capability,
+    but should not exclude the use of virtual SIM cards. Specifically, this Recommendation
+    is applicable to all applications using mobile devices. This Recommendation is
+    based on the framework described in Recommendation ITU-T X.1154."
 status:
   stage:
     content: Published

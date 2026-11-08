@@ -47,7 +47,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Corrigendum 2 to V.150.1 corrects an error in the use of a MIME type and adds clarification on the following topics: SSE Payload types, VBD codec negotiation, and V.150.1 version negotiation.'
+  content: 'Corrigendum 2 to V.150.1 corrects an error in the use of a MIME type and
+    adds clarification on the following topics: SSE Payload types, VBD codec negotiation,
+    and V.150.1 version negotiation.'
 status:
   stage:
     content: Published
@@ -77,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Modification to SSE reason identifier codes to support voice band data and text relay
+      content: Modification to SSE reason identifier codes to support voice band data
+        and text relay
     docidentifier:
     - content: V.150.1 (2003) Amd. 1 (01/2005)
       type: ITU
@@ -95,7 +98,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of V-series DCEs'
+      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of
+        V-series DCEs'
     docidentifier:
     - content: V.150.1 (01/2003)
       type: ITU

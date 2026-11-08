@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Rec. ITU-T T.803 | ISO/IEC 15444-4 provides the framework, concepts and methodology for testing and the criteria to be achieved to claim compliance to Rec. ITU-T T.800 | ISO/IEC 15444-1, which describes a flexible image compression system known as "JPEG 2000".This corrigendum provides a clarification regarding the contents of the Compatibility List of the File Type box for the JP2 test images that are included as part of this Recommendation | International Standard.
+  content: Rec. ITU-T T.803 | ISO/IEC 15444-4 provides the framework, concepts and
+    methodology for testing and the criteria to be achieved to claim compliance to
+    Rec. ITU-T T.800 | ISO/IEC 15444-1, which describes a flexible image compression
+    system known as "JPEG 2000".This corrigendum provides a clarification regarding
+    the contents of the Compatibility List of the File Type box for the JP2 test images
+    that are included as part of this Recommendation | International Standard.
 status:
   stage:
     content: Withdrawal
@@ -75,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Conformance testing'
+      content: 'Information technology – JPEG 2000 image coding system: Conformance
+        testing'
     docidentifier:
     - content: T.803 (V3) (02/2024)
       type: ITU
@@ -85,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology-JPEG 2000 image coding system: Conformance testing'
+      content: 'Information technology-JPEG 2000 image coding system: Conformance
+        testing'
     docidentifier:
     - content: T.803 (V2) (06/2021)
       type: ITU
@@ -95,7 +102,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – JPEG 2000 image coding system: Conformance testing'
+      content: 'Information technology – JPEG 2000 image coding system: Conformance
+        testing'
     docidentifier:
     - content: T.803 (11/2002)
       type: ITU

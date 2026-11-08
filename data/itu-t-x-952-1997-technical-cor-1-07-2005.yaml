@@ -50,7 +50,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Rec. X.952 | ISO/IEC 13235-3 incorrectly specified the arc trader(100) under the object identifier {joint-iso-itu-t(2)} in the international registration tree (see ITU-T Rec. X.660 | ISO/IEC 9834-1). In addition, an OID was incorrectly specified in the ASN.1 modules defined in Annexes A and B of ITU-T Rec. X.952 | ISO/IEC 13235-3. This technical corrigendum corrects these errors.
+  content: ITU-T Rec. X.952 | ISO/IEC 13235-3 incorrectly specified the arc trader(100)
+    under the object identifier {joint-iso-itu-t(2)} in the international registration
+    tree (see ITU-T Rec. X.660 | ISO/IEC 9834-1). In addition, an OID was incorrectly
+    specified in the ASN.1 modules defined in Annexes A and B of ITU-T Rec. X.952
+    | ISO/IEC 13235-3. This technical corrigendum corrects these errors.
 status:
   stage:
     content: Published
@@ -70,7 +74,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Distributed Processing – Trading function: Provision of trading function using OSI Directory service'
+      content: 'Information technology – Open Distributed Processing – Trading function:
+        Provision of trading function using OSI Directory service'
     docidentifier:
     - content: X.952 (12/1997)
       type: ITU

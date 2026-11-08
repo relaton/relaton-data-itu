@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T X.1528.3 defines the common platform enumeration (CPE) dictionary specification. The CPE dictionary specification is a part of a stack of CPE specifications that support a variety of use cases relating to information technology (IT) product description and naming. An individual CPE dictionary is a repository of IT product names, with each name in the repository identifying a unique class of IT product in the world. This specification defines the semantics of the CPE Dictionary data model and the rules associated with CPE dictionary creation and management. This Recommendation also defines and explains the requirements that IT products and services, including CPE dictionaries, must meet to claim compliance with this Recommendation. This is achieved by listing the relevant clauses of the NIST Interagency Report 7697 Common Platform Enumeration: Name Matching Specification version 2.3 and showing whether they are normative or informative.'
+  content: 'Recommendation ITU-T X.1528.3 defines the common platform enumeration
+    (CPE) dictionary specification. The CPE dictionary specification is a part of
+    a stack of CPE specifications that support a variety of use cases relating to
+    information technology (IT) product description and naming. An individual CPE
+    dictionary is a repository of IT product names, with each name in the repository
+    identifying a unique class of IT product in the world. This specification defines
+    the semantics of the CPE Dictionary data model and the rules associated with CPE
+    dictionary creation and management. This Recommendation also defines and explains
+    the requirements that IT products and services, including CPE dictionaries, must
+    meet to claim compliance with this Recommendation. This is achieved by listing
+    the relevant clauses of the NIST Interagency Report 7697 Common Platform Enumeration:
+    Name Matching Specification version 2.3 and showing whether they are normative
+    or informative.'
 status:
   stage:
     content: Published

@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Electronic Identity Credential Trust Elevation Methods are used to increase assurance in entity identification using authentication events and related entity information for the purpose of risk mitigation when making access control policy decisions. The goals of this Recommendation are:\r\n\r\n–           To propose simple Trust Elevation architectural patterns demonstrating the use of Trust Elevation in modern Access Control architectures.\r\n\r\n–           To describe a common metadata set mechanisms and protocol elements for Trust Elevation information exchanges.\r\n\r\n–           To promote the use of Trust Elevation elements to facilitate standardization among the many technologies and approaches currently in use for credential & authentication risk mitigation\r\n"
+  content: "Electronic Identity Credential Trust Elevation Methods are used to increase
+    assurance in entity identification using authentication events and related entity
+    information for the purpose of risk mitigation when making access control policy
+    decisions. The goals of this Recommendation are:\r\n\r\n–           To propose
+    simple Trust Elevation architectural patterns demonstrating the use of Trust Elevation
+    in modern Access Control architectures.\r\n\r\n–           To describe a common
+    metadata set mechanisms and protocol elements for Trust Elevation information
+    exchanges.\r\n\r\n–           To promote the use of Trust Elevation elements to
+    facilitate standardization among the many technologies and approaches currently
+    in use for credential & authentication risk mitigation\r\n"
 status:
   stage:
     content: Published

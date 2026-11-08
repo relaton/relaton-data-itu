@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Protocol for the Commitment, Concurrency and Recovery service element: Protocol specification'
+  content: 'Information technology – Open Systems Interconnection – Protocol for the
+    Commitment, Concurrency and Recovery service element: Protocol specification'
   type: main
 source:
 - type: src
@@ -55,7 +56,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes the application layer protocol for OSI commitment, concurrency and recovery service element. OSI CCR provides a service by which a set of actions are grouped together to form an "atomic action", where either the entire set of actions is performed or none is performed. The specification of Version 1 is included for completeness only. It is not anticipated that it will be used by ITU-T applications. This version differs mainly in its mapping through presentation onto the session service and, in particular, requires the use of the Session Data Separation Functional Unit.
+  content: This Recommendation | International Standard describes the application
+    layer protocol for OSI commitment, concurrency and recovery service element. OSI
+    CCR provides a service by which a set of actions are grouped together to form
+    an "atomic action", where either the entire set of actions is performed or none
+    is performed. The specification of Version 1 is included for completeness only.
+    It is not anticipated that it will be used by ITU-T applications. This version
+    differs mainly in its mapping through presentation onto the session service and,
+    in particular, requires the use of the Session Data Separation Functional Unit.
 status:
   stage:
     content: Published
@@ -75,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Protocol for the commitment, concurrency and recovery service element: Protocol specification'
+      content: 'Information technology – Open Systems Interconnection – Protocol for
+        the commitment, concurrency and recovery service element: Protocol specification'
     docidentifier:
     - content: X.852 (11/1993)
       type: ITU

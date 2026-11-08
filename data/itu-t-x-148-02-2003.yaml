@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Procedures for the measurement of the performance of public data networks providing the international frame relay service
+  content: Procedures for the measurement of the performance of public data networks
+    providing the international frame relay service
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines procedures for the measurement and assessment of the user information transfer performance parameters of Frame Relay virtual connections. Use is made of OAM Frames and methods for measuring Frame Transit Delay, Frame Delay Jitter and Frame Loss Ratio are specified. The techniques are applicable to both PVCs and SVCs. The techniques defined enable in-service real time performance estimation.
+  content: This Recommendation defines procedures for the measurement and assessment
+    of the user information transfer performance parameters of Frame Relay virtual
+    connections. Use is made of OAM Frames and methods for measuring Frame Transit
+    Delay, Frame Delay Jitter and Frame Loss Ratio are specified. The techniques are
+    applicable to both PVCs and SVCs. The techniques defined enable in-service real
+    time performance estimation.
 status:
   stage:
     content: Published

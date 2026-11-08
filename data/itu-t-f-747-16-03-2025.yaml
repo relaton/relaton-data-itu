@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements for 3D machine vision-based surface defect detection service of industrial products
+  content: Requirements for 3D machine vision-based surface defect detection service
+    of industrial products
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.747.16 provides the requirements for 3D machine vision-based surface defect detection service of industrial products. Three-dimensional (3D) machine vision can obtain the complete geometric information of the real 3D scene, and the images with depth information can be used to achieve high-precision measurement, detection, positioning, reconstruction, and scene understanding. It can process various types of industrial products that cannot be processed by two-dimensional (2D) machine vision (e.g., highly reflective surfaces and low-contrast surfaces), such as electronic products and printed circuit board (PCB) surface detection, free-form surface optical mirror measurement, and measurement and detection of steel product surfaces or curved surfaces, etc.\r\n\r\n"
+  content: "Recommendation ITU-T F.747.16 provides the requirements for 3D machine
+    vision-based surface defect detection service of industrial products. Three-dimensional
+    (3D) machine vision can obtain the complete geometric information of the real
+    3D scene, and the images with depth information can be used to achieve high-precision
+    measurement, detection, positioning, reconstruction, and scene understanding.
+    It can process various types of industrial products that cannot be processed by
+    two-dimensional (2D) machine vision (e.g., highly reflective surfaces and low-contrast
+    surfaces), such as electronic products and printed circuit board (PCB) surface
+    detection, free-form surface optical mirror measurement, and measurement and detection
+    of steel product surfaces or curved surfaces, etc.\r\n\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +123,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +134,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

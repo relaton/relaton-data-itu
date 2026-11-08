@@ -55,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the Protocol Implementation Conformance Statement (PICS) proforma for the Message Handling Systems (MHS) P7 protocol (MS 88 Access and MS 94 Access) specified in ITU-T Rec. X.413 | ISO/IEC 10021-5 and ITU-T Rec. X.419 | ISO/IEC 10021-6. The PICS proforma presents in tabular form the mandatory and optional elements of the P7 protocol.
+  content: This Recommendation provides the Protocol Implementation Conformance Statement
+    (PICS) proforma for the Message Handling Systems (MHS) P7 protocol (MS 88 Access
+    and MS 94 Access) specified in ITU-T Rec. X.413 | ISO/IEC 10021-5 and ITU-T Rec.
+    X.419 | ISO/IEC 10021-6. The PICS proforma presents in tabular form the mandatory
+    and optional elements of the P7 protocol.
 status:
   stage:
     content: Published
@@ -85,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: P7 protocol – Protocol Implementation Conformance Statement (PICS) proforma
+      content: P7 protocol – Protocol Implementation Conformance Statement (PICS)
+        proforma
     docidentifier:
     - content: X.484 (09/1992)
       type: ITU

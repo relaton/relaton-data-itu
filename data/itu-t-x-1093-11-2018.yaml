@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The biometrics-on-card can be classified into three types such as store-on-card, which is a form in which biometric information is stored in a smart card, compare-on-card in which biometric information is compared in a smart card, and sensor-on-card in which a biometric sensor is embedded in a smart card to acquire, store and compare the biometric information within the card. The application scheme is also divided into two types depending on whether or not the digital signature function is provided by embedding the ITU-T X.509 certificate \r\n\r\nThis Recommendation describes the general scheme for logical and/or physical access control using the biometrics-on-card. This Recommendation can be applied to the recent emerging area of requiring secure physical and also logical access control management.\r\n"
+  content: "The biometrics-on-card can be classified into three types such as store-on-card,
+    which is a form in which biometric information is stored in a smart card, compare-on-card
+    in which biometric information is compared in a smart card, and sensor-on-card
+    in which a biometric sensor is embedded in a smart card to acquire, store and
+    compare the biometric information within the card. The application scheme is also
+    divided into two types depending on whether or not the digital signature function
+    is provided by embedding the ITU-T X.509 certificate \r\n\r\nThis Recommendation
+    describes the general scheme for logical and/or physical access control using
+    the biometrics-on-card. This Recommendation can be applied to the recent emerging
+    area of requiring secure physical and also logical access control management.\r\n"
 status:
   stage:
     content: Published

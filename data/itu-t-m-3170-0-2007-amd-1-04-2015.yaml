@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The current in-force ITU-T M.3170.x series of Recommendations provides the MTNM solution suite v3.0 from TM Forum. A newer version of MTNM has been applied across the industry (i.e., Release 3.5). In order to support conformance testing for this series of Recommendations within ITU-T, Amendment 1 to Recommendation ITU-T M.3170.0 (2007) provides the upgraded information from MTNM v3.0 to MTNM release 3.5, including updated references to TMF Release 3.5-related specifications. More detailed updates will be provided while upgrading to TMF MTNM Release 4.0 or 4.5 when it is more stable and fully supported by the industry.
+  content: The current in-force ITU-T M.3170.x series of Recommendations provides
+    the MTNM solution suite v3.0 from TM Forum. A newer version of MTNM has been applied
+    across the industry (i.e., Release 3.5). In order to support conformance testing
+    for this series of Recommendations within ITU-T, Amendment 1 to Recommendation
+    ITU-T M.3170.0 (2007) provides the upgraded information from MTNM v3.0 to MTNM
+    release 3.5, including updated references to TMF Release 3.5-related specifications.
+    More detailed updates will be provided while upgrading to TMF MTNM Release 4.0
+    or 4.5 when it is more stable and fully supported by the industry.
 status:
   stage:
     content: Published

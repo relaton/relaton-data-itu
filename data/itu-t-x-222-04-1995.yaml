@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Use of X.25 LAPB-compatible Data Link procedures to provide the OSI connection-mode Data Link service
+  content: Use of X.25 LAPB-compatible Data Link procedures to provide the OSI connection-mode
+    Data Link service
   type: main
 source:
 - type: src
@@ -55,7 +56,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a method for providing the OSI connection-mode data link service through the use of the X.25 LAPB-compatible data link procedures as described in Recommendations X.25 and X.75. This Recommendation provides the mapping between the abstract primitives and parameters of the connection-mode data link service and the real elements of the protocol.
+  content: This Recommendation defines a method for providing the OSI connection-mode
+    data link service through the use of the X.25 LAPB-compatible data link procedures
+    as described in Recommendations X.25 and X.75. This Recommendation provides the
+    mapping between the abstract primitives and parameters of the connection-mode
+    data link service and the real elements of the protocol.
 status:
   stage:
     content: Published

@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to ITU-T Rec. X.904 | ISO/IEC 10746-4 refines and extends the ODP architectural semantics with a formalization of the computational language of the Reference Model for ODP. The computational language of the RM-ODP provides for a description of ODP systems as collections of interacting objects. This Amendment formalizes the concepts and rules of the ODP computational language using different formal description techniques (LOTOS, SDL, Z and Estelle).
+  content: Amendment 1 to ITU-T Rec. X.904 | ISO/IEC 10746-4 refines and extends the
+    ODP architectural semantics with a formalization of the computational language
+    of the Reference Model for ODP. The computational language of the RM-ODP provides
+    for a description of ODP systems as collections of interacting objects. This Amendment
+    formalizes the concepts and rules of the ODP computational language using different
+    formal description techniques (LOTOS, SDL, Z and Estelle).
 status:
   stage:
     content: Published
@@ -75,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Distributed Processing – Reference Model: Architectural Semantics'
+      content: 'Information technology – Open Distributed Processing – Reference Model:
+        Architectural Semantics'
     docidentifier:
     - content: X.904 (12/1997)
       type: ITU

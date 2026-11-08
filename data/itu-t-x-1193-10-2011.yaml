@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Key management framework for secure internet protocol television (IPTV) services
+  content: Key management framework for secure internet protocol television (IPTV)
+    services
   type: main
 source:
 - type: src
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes requirements and architecture for key management, including key hierarchy for unicast and multicast IPTV services in the IPTV context. It also specifies key management for downloadable service and content protection (SCP) if deployed. This Recommendation does not include any other key management architecture and mechanisms in Recommendation ITU-T X.1191.
+  content: This Recommendation describes requirements and architecture for key management,
+    including key hierarchy for unicast and multicast IPTV services in the IPTV context.
+    It also specifies key management for downloadable service and content protection
+    (SCP) if deployed. This Recommendation does not include any other key management
+    architecture and mechanisms in Recommendation ITU-T X.1191.
 status:
   stage:
     content: Published

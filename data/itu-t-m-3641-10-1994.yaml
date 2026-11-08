@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Management information model for the management of the data link and network layer of the ISDN D-channel
+  content: Management information model for the management of the data link and network
+    layer of the ISDN D-channel
   type: main
 source:
 - type: src
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the management information model of the Q3-interface in a TMN [8] for the management of the D-channels in an ISDN switch. In particular, it focuses on the fault and performance management of the data link and network layer of ISDN D-channels. Managed objects are specified by using the OSI-management templates of Recommendation X.722 [5]. These specifications are based on the prosaic description of the D-channel management aspects as provided by Recommendation M.3640
+  content: This Recommendation provides the management information model of the Q3-interface
+    in a TMN [8] for the management of the D-channels in an ISDN switch. In particular,
+    it focuses on the fault and performance management of the data link and network
+    layer of ISDN D-channels. Managed objects are specified by using the OSI-management
+    templates of Recommendation X.722 [5]. These specifications are based on the prosaic
+    description of the D-channel management aspects as provided by Recommendation
+    M.3640
 status:
   stage:
     content: Published

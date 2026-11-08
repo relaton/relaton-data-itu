@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation describes the functional technical requirements for the incorporation of VSATs into the Access portion of national telephone networks, both public and private. Scenarios illustrate some but not all of the ways that VSATs might be deployed in this portion of the network. A pre-existing analogue network has been assumed for the discussion of transmission planning with digital technology included where significant. The annexes contain details of several national connection requirements and when considered as a whole provide a good overview of connection requirements for all national telephone networks. Additional annexes may be added in future to cover other countries
+  content: This ITU-T Recommendation describes the functional technical requirements
+    for the incorporation of VSATs into the Access portion of national telephone networks,
+    both public and private. Scenarios illustrate some but not all of the ways that
+    VSATs might be deployed in this portion of the network. A pre-existing analogue
+    network has been assumed for the discussion of transmission planning with digital
+    technology included where significant. The annexes contain details of several
+    national connection requirements and when considered as a whole provide a good
+    overview of connection requirements for all national telephone networks. Additional
+    annexes may be added in future to cover other countries
 status:
   stage:
     content: Published
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

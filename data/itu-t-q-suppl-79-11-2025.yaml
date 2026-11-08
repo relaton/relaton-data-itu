@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Implementation of software-defined wide area networking (SD-WAN) service based on segment routing IPv6 (SRv6)
+  content: Implementation of software-defined wide area networking (SD-WAN) service
+    based on segment routing IPv6 (SRv6)
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 79 to ITU-T Q-series Recommendations provides an implementation of the software-defined wide area networking (SD-WAN) service based on segment routing IPv6 (SRv6).\r\nThis Supplement gives more detailed information flow and concrete information message parameters of SD-WAN services based on SRv6 to better understand the signalling procedures of SD-WAN information flow and illustrate the benefits of SD-WAN services.\r\n"
+  content: "Supplement 79 to ITU-T Q-series Recommendations provides an implementation
+    of the software-defined wide area networking (SD-WAN) service based on segment
+    routing IPv6 (SRv6).\r\nThis Supplement gives more detailed information flow and
+    concrete information message parameters of SD-WAN services based on SRv6 to better
+    understand the signalling procedures of SD-WAN information flow and illustrate
+    the benefits of SD-WAN services.\r\n"
 status:
   stage:
     content: Published

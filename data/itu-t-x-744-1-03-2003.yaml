@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommedation is part of a series of Recommendations that specify the CORBA interface requirements for communication between an Operations System (OS) and a Network Element (NE), between an OS and a Mediation Device (MD), between an OS and a Q Adapter (QA), and between OSs in a Telecommunication Management Network (TMN). This Recommendation proposes a CORBA-based Software Management implementation based on ITU-T Rec. X.744. The intent of this Recommendation is to define a CORBA/IDL model similar to that defined in ITU-T Rec. X.744 using CMISE. In this Recommendation, both fine-grained and coarse-grained (i.e., facade) interfaces are defined for the software management functions. This Recommendation is compliant with CORBA modelling standards from ITU-T Recs X.780, X.780.1, Q.816, Q.816.1 and M.3120.
+  content: This Recommedation is part of a series of Recommendations that specify
+    the CORBA interface requirements for communication between an Operations System
+    (OS) and a Network Element (NE), between an OS and a Mediation Device (MD), between
+    an OS and a Q Adapter (QA), and between OSs in a Telecommunication Management
+    Network (TMN). This Recommendation proposes a CORBA-based Software Management
+    implementation based on ITU-T Rec. X.744. The intent of this Recommendation is
+    to define a CORBA/IDL model similar to that defined in ITU-T Rec. X.744 using
+    CMISE. In this Recommendation, both fine-grained and coarse-grained (i.e., facade)
+    interfaces are defined for the software management functions. This Recommendation
+    is compliant with CORBA modelling standards from ITU-T Recs X.780, X.780.1, Q.816,
+    Q.816.1 and M.3120.
 status:
   stage:
     content: Published

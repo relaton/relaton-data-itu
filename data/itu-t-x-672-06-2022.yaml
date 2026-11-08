@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology - Open systems interconnection - Object identifier resolution system
+  content: Information technology - Open systems interconnection - Object identifier
+    resolution system
   type: main
 source:
 - type: src
@@ -55,7 +56,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.672 | International Standard ISO/IEC 29168-1 specifies the object identifier (OID) resolution system (ORS). This enables (arbitrary) information to be associated with any ORS-supported OID node (of the international OID tree defined in Rec. ITU-T X.660 | ISO/IEC 9834-1). This associated information is identified by an application specification that may have a requirement for instances of that application (running on any computer system) to obtain the associated information by an ORS search, using an Abstract Syntax Notation One (ASN.1) OID internationalized resource identifier value to identify the node.\r\nCurrently defined application information for a node includes the canonical form of an international OID, child node information, registration information about the owner of the node, a reference to an ASN.1 module identified by the node, information supporting tag-based applications and information supporting cybersecurity.\r\n"
+  content: "Recommendation ITU-T X.672 | International Standard ISO/IEC 29168-1 specifies
+    the object identifier (OID) resolution system (ORS). This enables (arbitrary)
+    information to be associated with any ORS-supported OID node (of the international
+    OID tree defined in Rec. ITU-T X.660 | ISO/IEC 9834-1). This associated information
+    is identified by an application specification that may have a requirement for
+    instances of that application (running on any computer system) to obtain the associated
+    information by an ORS search, using an Abstract Syntax Notation One (ASN.1) OID
+    internationalized resource identifier value to identify the node.\r\nCurrently
+    defined application information for a node includes the canonical form of an international
+    OID, child node information, registration information about the owner of the node,
+    a reference to an ASN.1 module identified by the node, information supporting
+    tag-based applications and information supporting cybersecurity.\r\n"
 status:
   stage:
     content: Published
@@ -75,7 +87,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology - Open systems interconnection - Object identifier resolution system (ORS)
+      content: Information technology - Open systems interconnection - Object identifier
+        resolution system (ORS)
     docidentifier:
     - content: X.672 (08/2010)
       type: ITU

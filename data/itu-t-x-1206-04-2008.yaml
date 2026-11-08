@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: A vendor-neutral framework for automatic notification of security related information and dissemination of updates
+  content: A vendor-neutral framework for automatic notification of security related
+    information and dissemination of updates
   type: main
 source:
 - type: src
@@ -52,7 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1206 provides a framework for automatic notification of security related information and dissemination of updates. The key point of the framework is that it is a vendor-neutral framework. Once an Asset is registered, updates on vulnerabilities information and patches or updates can be automatically made available to the users or directly to applications regarding the Asset.
+  content: Recommendation ITU-T X.1206 provides a framework for automatic notification
+    of security related information and dissemination of updates. The key point of
+    the framework is that it is a vendor-neutral framework. Once an Asset is registered,
+    updates on vulnerabilities information and patches or updates can be automatically
+    made available to the users or directly to applications regarding the Asset.
 status:
   stage:
     content: Published

@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies a text conversation protocol. The intention of this protocol is to be a common presentation level suitable for straightforward real-time text conversation in multimedia services and in text telephony.It is based on ISO/IEC 10646-1 Universal Character Set 16-bit characters and features character-by-character transmission and a limited set of presentation controls.Its application to the data conferencing environment is specified in Recommendation T.134.Its application for plain text telephony in the PSTN is specified in Recommendation V.18.Its application in video telephony is specified in Recommendations H.324 and H.245.It is meant to be easily applied wherever there is a data channel available to carry the protocol.
+  content: This Recommendation specifies a text conversation protocol. The intention
+    of this protocol is to be a common presentation level suitable for straightforward
+    real-time text conversation in multimedia services and in text telephony.It is
+    based on ISO/IEC 10646-1 Universal Character Set 16-bit characters and features
+    character-by-character transmission and a limited set of presentation controls.Its
+    application to the data conferencing environment is specified in Recommendation
+    T.134.Its application for plain text telephony in the PSTN is specified in Recommendation
+    V.18.Its application in video telephony is specified in Recommendations H.324
+    and H.245.It is meant to be easily applied wherever there is a data channel available
+    to carry the protocol.
 status:
   stage:
     content: Published

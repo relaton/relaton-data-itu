@@ -52,7 +52,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.747.10 provides general requirements and functional capabilities for distributed ledger systems (DLS) for secure human factor services.\r\nThis Recommendation describes the requirements for the secure human factor distributed ledger service model, which can solve conflicting goals of privacy protection and big personal human factor data utilization. This Recommendation also includes the functional capabilities for human factor distributed ledger shared nodes to perform machine learning without decryption on encrypted human factor data. However, the computational burden of machine learning for encrypted data may be excessive. To solve this problem, this human factor distributed ledger service model provides procedures for allowing the use of two or more encryption key pairs and notifying the key type. In addition, this Recommendation involves the integrity maintaining requirements for secure human factor services to maintain a safe distributed ledger and, checked from the beginning, to distribute personal human factor information. Therefore, the application of distributed ledger system in the distribution of personal secure human factor information can ensure transparent tracking from the distribution process to the final use path.\r\n"
+  content: "Recommendation ITU-T F.747.10 provides general requirements and functional
+    capabilities for distributed ledger systems (DLS) for secure human factor services.\r\nThis
+    Recommendation describes the requirements for the secure human factor distributed
+    ledger service model, which can solve conflicting goals of privacy protection
+    and big personal human factor data utilization. This Recommendation also includes
+    the functional capabilities for human factor distributed ledger shared nodes to
+    perform machine learning without decryption on encrypted human factor data. However,
+    the computational burden of machine learning for encrypted data may be excessive.
+    To solve this problem, this human factor distributed ledger service model provides
+    procedures for allowing the use of two or more encryption key pairs and notifying
+    the key type. In addition, this Recommendation involves the integrity maintaining
+    requirements for secure human factor services to maintain a safe distributed ledger
+    and, checked from the beginning, to distribute personal human factor information.
+    Therefore, the application of distributed ledger system in the distribution of
+    personal secure human factor information can ensure transparent tracking from
+    the distribution process to the final use path.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +87,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +128,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +139,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1642 provides generic operational security guidelines for cloud computing from the perspective of cloud service providers (CSPs). It analyses the security requirements and metrics for the operation of cloud computing. A set of security measures and detailed security activities for the daily operation and maintenance are provided to help CSPs mitigate security risks and address security challenges for the operation of cloud computing.
+  content: Recommendation ITU-T X.1642 provides generic operational security guidelines
+    for cloud computing from the perspective of cloud service providers (CSPs). It
+    analyses the security requirements and metrics for the operation of cloud computing.
+    A set of security measures and detailed security activities for the daily operation
+    and maintenance are provided to help CSPs mitigate security risks and address
+    security challenges for the operation of cloud computing.
 status:
   stage:
     content: Published

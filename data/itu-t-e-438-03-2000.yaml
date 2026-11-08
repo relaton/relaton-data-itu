@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Performance parameters and measurement methods to assess N-ISDN 64 kbit/s circuit-switched bearer service UDI in operation
+  content: Performance parameters and measurement methods to assess N-ISDN 64 kbit/s
+    circuit-switched bearer service UDI in operation
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation presents an overview of performance parameters for the measurement and assessment of N-ISDN 64 kbit/s circuit switched UDI bearer services in operation. Guidelines and considerations for measurement methods are also provided. These parameters can be used for N-ISDN monitoring and improvement in operations. Their achieved values can be used both to establish guaranteed performance levels in Service Level Agreement with the customers and Service Quality Agreement with other administrations, and to verify, analyse and improve the performance level currently offered.
+  content: This Recommendation presents an overview of performance parameters for
+    the measurement and assessment of N-ISDN 64 kbit/s circuit switched UDI bearer
+    services in operation. Guidelines and considerations for measurement methods are
+    also provided. These parameters can be used for N-ISDN monitoring and improvement
+    in operations. Their achieved values can be used both to establish guaranteed
+    performance levels in Service Level Agreement with the customers and Service Quality
+    Agreement with other administrations, and to verify, analyse and improve the performance
+    level currently offered.
 status:
   stage:
     content: Published
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

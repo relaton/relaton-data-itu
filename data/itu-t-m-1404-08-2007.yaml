@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation M.1404 defines orders and additional information intended primarily for human-to-human communication between various operators, i.e., network operators or service providers.The orders contain data for designations of interconnections and other information about network resources that are required to be communicated between operators.This Recommendation extends ITU-T Recommendation M.1401 and ensures use of M.1401 in orders containing designations of interconnections among operators' networks. This Recommendation is developed in order to facilitate computerized interoperation between telecommunication operators.
+  content: ITU-T Recommendation M.1404 defines orders and additional information intended
+    primarily for human-to-human communication between various operators, i.e., network
+    operators or service providers.The orders contain data for designations of interconnections
+    and other information about network resources that are required to be communicated
+    between operators.This Recommendation extends ITU-T Recommendation M.1401 and
+    ensures use of M.1401 in orders containing designations of interconnections among
+    operators' networks. This Recommendation is developed in order to facilitate computerized
+    interoperation between telecommunication operators.
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T M.1400-series – Supplement on directory of external terminology schemas
+      content: ITU-T M.1400-series – Supplement on directory of external terminology
+        schemas
     docidentifier:
     - content: M Suppl. 7 (05/2008)
       type: ITU

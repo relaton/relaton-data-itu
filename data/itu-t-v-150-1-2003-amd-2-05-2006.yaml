@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation defines the inter-operation of two PSTN to IP network gateways that facilitate the end-to-end connection of V-series DCEs over an IP network. The principal characteristics of these gateways are: a mechanism to allow the transparent transport of modem signals end-to-end, a mechanism to allow the termination of modem signals at the gateways and the transport of the data between gateways, the definition of a transport protocol, which is suitable to relay data between gateways, and procedures to allow gateways to transition between Voice-over-Internet Protocol and Modem-over-Internet Protocol operation.Amendment 1 added new code definitions to the SSE Protocol Reason Identifier Codes (RIC) contained in Table 12/V.150.1, which are intended to support the SSE protocol in ITU-T Rec. V.152 and the Text Relay.Amendment 2 adds support to the Text-over-IP procedures defined in ITU-T Rec. V.151 and to new SPRT data types.'
+  content: 'This Recommendation defines the inter-operation of two PSTN to IP network
+    gateways that facilitate the end-to-end connection of V-series DCEs over an IP
+    network. The principal characteristics of these gateways are: a mechanism to allow
+    the transparent transport of modem signals end-to-end, a mechanism to allow the
+    termination of modem signals at the gateways and the transport of the data between
+    gateways, the definition of a transport protocol, which is suitable to relay data
+    between gateways, and procedures to allow gateways to transition between Voice-over-Internet
+    Protocol and Modem-over-Internet Protocol operation.Amendment 1 added new code
+    definitions to the SSE Protocol Reason Identifier Codes (RIC) contained in Table
+    12/V.150.1, which are intended to support the SSE protocol in ITU-T Rec. V.152
+    and the Text Relay.Amendment 2 adds support to the Text-over-IP procedures defined
+    in ITU-T Rec. V.151 and to new SPRT data types.'
 status:
   stage:
     content: Published
@@ -72,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Modification to SSE reason identifier codes to support voice band data and text relay
+      content: Modification to SSE reason identifier codes to support voice band data
+        and text relay
     docidentifier:
     - content: V.150.1 (2003) Amd. 1 (01/2005)
       type: ITU
@@ -98,7 +110,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of V-series DCEs'
+      content: 'Modem-over-IP networks: Procedures for the end-to-end connection of
+        V-series DCEs'
     docidentifier:
     - content: V.150.1 (01/2003)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Call completion supplementary services : Call waiting (CW) supplementary service'
+  content: 'Call completion supplementary services : Call waiting (CW) supplementary
+    service'
   type: main
 source:
 - type: src
@@ -52,7 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Call Waiting service is a supplementary service which permits a subscriber to be notified of an incoming  call (as per basic call procedures) with an indication that no interface information channel is available. The user then has the choice of accepting, rejecting or ignoring the waiting call (as per basic call procedures).
+  content: The Call Waiting service is a supplementary service which permits a subscriber
+    to be notified of an incoming  call (as per basic call procedures) with an indication
+    that no interface information channel is available. The user then has the choice
+    of accepting, rejecting or ignoring the waiting call (as per basic call procedures).
 status:
   stage:
     content: Published
@@ -82,7 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

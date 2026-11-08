@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Enhanced communications transport protocol: Specification of QoS management for duplex multicast transport'
+  content: 'Information technology – Enhanced communications transport protocol: Specification
+    of QoS management for duplex multicast transport'
   type: main
 source:
 - type: src
@@ -55,7 +56,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes quality of service (QoS) management functions for the duplex multicast transport defined in Recommendation ITU-T X.607 | ISO/IEC 14476-3. QoS management functions such as QoS negotiation, QoS monitoring and QoS maintenance are described. Protocol details such as packet format, parameter values and procedures are also described. This protocol can be used for applications that require many-to-one data delivery service with QoS managing facility; the protocol is expected to provide transport service to data gathering applications, etc.
+  content: This Recommendation | International Standard describes quality of service
+    (QoS) management functions for the duplex multicast transport defined in Recommendation
+    ITU-T X.607 | ISO/IEC 14476-3. QoS management functions such as QoS negotiation,
+    QoS monitoring and QoS maintenance are described. Protocol details such as packet
+    format, parameter values and procedures are also described. This protocol can
+    be used for applications that require many-to-one data delivery service with QoS
+    managing facility; the protocol is expected to provide transport service to data
+    gathering applications, etc.
 status:
   stage:
     content: Published

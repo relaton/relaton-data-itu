@@ -47,7 +47,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to Recommendation ITU-T O.174 (2009) contains several additions/replacements for jitter measuring equipment specified in Recommendation ITU-T O.174 to take into account the changes made in revised Recommendation ITU-T G.8262/Y.1362 (2010) and in G.8261/Y.1361 (2008) Amendment 1.
+  content: Amendment 1 to Recommendation ITU-T O.174 (2009) contains several additions/replacements
+    for jitter measuring equipment specified in Recommendation ITU-T O.174 to take
+    into account the changes made in revised Recommendation ITU-T G.8262/Y.1362 (2010)
+    and in G.8261/Y.1361 (2008) Amendment 1.
 status:
   stage:
     content: Published
@@ -83,7 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Jitter and wander measuring equipment for digital systems which are based on synchronous Ethernet technology
+      content: Jitter and wander measuring equipment for digital systems which are
+        based on synchronous Ethernet technology
     docidentifier:
     - content: O.174 (11/2009)
       type: ITU

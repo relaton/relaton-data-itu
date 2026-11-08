@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'TMN management services for dedicated and reconfigurable circuits network : Information model for management of leased circuit and reconfigurable services'
+  content: 'TMN management services for dedicated and reconfigurable circuits network
+    : Information model for management of leased circuit and reconfigurable services'
   type: main
 source:
 - type: src
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides a GDMO-based information model to support the management of the leased circuit service as outlined in Recommendation M.3208.1. Appendix I provides a protocol-independent version of this information model in "structured" English. Appendix II provides a mapping from the management functions in Recommendation M.3208.1 to the Managed Objects defined in this Recommendation. Appendix III provides a Unified Modelling Language (UML) view of the same information model.
+  content: This Recommendation provides a GDMO-based information model to support
+    the management of the leased circuit service as outlined in Recommendation M.3208.1.
+    Appendix I provides a protocol-independent version of this information model in
+    "structured" English. Appendix II provides a mapping from the management functions
+    in Recommendation M.3208.1 to the Managed Objects defined in this Recommendation.
+    Appendix III provides a Unified Modelling Language (UML) view of the same information
+    model.
 status:
   stage:
     content: Published

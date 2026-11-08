@@ -52,7 +52,24 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.760.3 specifies metadata for presenting disaster information (MDI), encompassing both natural and social disaster information. It defines the metadata elements and data types required to deliver disaster information-based services, incorporating human factors to enhance the effectiveness of information presentation. \r\nThe disaster classification system is divided into natural and social disaster systems depending on the cause of the disaster. Natural disasters are again largely classified into 5 categories, including weather, sluice, climate, geology, and astronomical phenomena, and each category is further classified into subcategories, and metadata for a total of 21 types of disasters is defined. Non-natural disasters are again largely classified into 10 categories, including fire, explosion, collapse, traffic, chemical/biological/radiological, environmental pollution, nation-based system, paralysis, epidemic, disease, safety, etc., and each category is further classified into subcategories, and metadata for a total of 40 types of disasters is defined.\r\nSuch metadata for disaster information will enable the systematic collection and storage of disaster information, which will not only activate the provision of various disaster information-based services, but also be used to prevent disasters or minimize human and material damage by analysing the collected disaster information.\r\n"
+  content: "Recommendation ITU-T F.760.3 specifies metadata for presenting disaster
+    information (MDI), encompassing both natural and social disaster information.
+    It defines the metadata elements and data types required to deliver disaster information-based
+    services, incorporating human factors to enhance the effectiveness of information
+    presentation. \r\nThe disaster classification system is divided into natural and
+    social disaster systems depending on the cause of the disaster. Natural disasters
+    are again largely classified into 5 categories, including weather, sluice, climate,
+    geology, and astronomical phenomena, and each category is further classified into
+    subcategories, and metadata for a total of 21 types of disasters is defined. Non-natural
+    disasters are again largely classified into 10 categories, including fire, explosion,
+    collapse, traffic, chemical/biological/radiological, environmental pollution,
+    nation-based system, paralysis, epidemic, disease, safety, etc., and each category
+    is further classified into subcategories, and metadata for a total of 40 types
+    of disasters is defined.\r\nSuch metadata for disaster information will enable
+    the systematic collection and storage of disaster information, which will not
+    only activate the provision of various disaster information-based services, but
+    also be used to prevent disasters or minimize human and material damage by analysing
+    the collected disaster information.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +130,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +141,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

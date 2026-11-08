@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies an IP performance measurement signature (IPPMS) and test packets which may be used to measure the performance and the availability of IP network services across administrative areas, composite networks and among heterogeneous devices. The IPPMS may be used to support provisioning and maintenance of IPv4 as well as IPv6 networks.
+  content: This Recommendation specifies an IP performance measurement signature (IPPMS)
+    and test packets which may be used to measure the performance and the availability
+    of IP network services across administrative areas, composite networks and among
+    heterogeneous devices. The IPPMS may be used to support provisioning and maintenance
+    of IPv4 as well as IPv6 networks.
 status:
   stage:
     content: Published

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Functional security requirements and architecture for mobile phone anti-theft measures
+  content: Functional security requirements and architecture for mobile phone anti-theft
+    measures
   type: main
 source:
 - type: src
@@ -52,7 +53,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1127 focuses on the functional security requirements and functional architecture for smartphone anti-theft mechanisms based on the general requirements described by the GSMA.\r\nSmartphones are rapidly proliferating and have become a nearly indispensable part of daily life. Unfortunately, many smartphone users have had their phones stolen. A smartphone anti-theft measure, i.e., a kill switch tool, for use in the event it is lost or stolen, should provide the capability to:\r\n–\tremotely delete the authorized user's data that is on the smartphone;\r\n–\trender the smartphone inoperable to an unauthorized user;\r\n–\tprevent reactivation without the authorized user's permission to the extent technologically feasible; and\r\n–\treverse the inoperability if the smartphone is recovered by the authorized user, and restore user data on the smartphone to the extent feasible.\r\n"
+  content: "Recommendation ITU-T X.1127 focuses on the functional security requirements
+    and functional architecture for smartphone anti-theft mechanisms based on the
+    general requirements described by the GSMA.\r\nSmartphones are rapidly proliferating
+    and have become a nearly indispensable part of daily life. Unfortunately, many
+    smartphone users have had their phones stolen. A smartphone anti-theft measure,
+    i.e., a kill switch tool, for use in the event it is lost or stolen, should provide
+    the capability to:\r\n–\tremotely delete the authorized user's data that is on
+    the smartphone;\r\n–\trender the smartphone inoperable to an unauthorized user;\r\n–\tprevent
+    reactivation without the authorized user's permission to the extent technologically
+    feasible; and\r\n–\treverse the inoperability if the smartphone is recovered by
+    the authorized user, and restore user data on the smartphone to the extent feasible.\r\n"
 status:
   stage:
     content: Published
@@ -82,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1120-X.1139 series - Supplement on a secure application distribution framework for communication devices
+      content: ITU-T X.1120-X.1139 series - Supplement on a secure application distribution
+        framework for communication devices
     docidentifier:
     - content: X Suppl. 24 (09/2014)
       type: ITU

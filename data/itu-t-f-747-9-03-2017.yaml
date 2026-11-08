@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation describes requirements, scenarios and functional architecture for user-side Energy Management Service (EMS) where energy consumption equipment with heterogeneous metering and control capacities coexist. In user-side EMS systems, energy consumption data for both single device and device group are needed to be collected and these devices can be controlled by coarse-grained (on-off state) and fine-grained instructions. Furthermore, such operations are executed manually or automatically. The user-side EMS system makes energy-saving decisions based on multiple factors, such as the demands and optimization policies from the users, the pricing strategies from the suppliers, government subsidies, device status et al. '
+  content: 'This Recommendation describes requirements, scenarios and functional architecture
+    for user-side Energy Management Service (EMS) where energy consumption equipment
+    with heterogeneous metering and control capacities coexist. In user-side EMS systems,
+    energy consumption data for both single device and device group are needed to
+    be collected and these devices can be controlled by coarse-grained (on-off state)
+    and fine-grained instructions. Furthermore, such operations are executed manually
+    or automatically. The user-side EMS system makes energy-saving decisions based
+    on multiple factors, such as the demands and optimization policies from the users,
+    the pricing strategies from the suppliers, government subsidies, device status
+    et al. '
 status:
   stage:
     content: Published
@@ -72,7 +81,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +122,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +133,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Broadband Connection-Oriented Bearer Service (BCOBS) provides unrestricted transfer of digital information between TB reference points, or SB reference points when TB and SB reference points are coincident. This bearer service flexibly supports connection-oriented communications at any bit rate over a virtual channel connection. This bit rate can be approximately constant to support constant bit rate traffic or it can be highly variable to support variable bit-rate traffic.
+  content: The Broadband Connection-Oriented Bearer Service (BCOBS) provides unrestricted
+    transfer of digital information between TB reference points, or SB reference points
+    when TB and SB reference points are coincident. This bearer service flexibly supports
+    connection-oriented communications at any bit rate over a virtual channel connection.
+    This bit rate can be approximately constant to support constant bit rate traffic
+    or it can be highly variable to support variable bit-rate traffic.
 status:
   stage:
     content: Published
@@ -82,7 +87,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -122,7 +128,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -132,7 +139,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

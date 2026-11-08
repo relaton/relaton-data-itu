@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Equipment to perform in-service monitoring on 2048, 8448, 34 368 and 139 264 kbit/s signals
+  content: Equipment to perform in-service monitoring on 2048, 8448, 34 368 and 139
+    264 kbit/s signals
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Defines the requirements for an equipment to perform in-service monitoring of digital signals at bit rates of 2, 8, 34 and 140 Mbit/s using the frame alignment signal. Keywords - frame alignment signal monitoring; - frame analyser; - in-service monitoring; - measurement; - tester.PREAMBLE Section 1 applies to all four bit rates (2048, 8448, 34 368 and 139 264 kbit/s). Section 2 provides additional information applicable to 2048 kbit/s signals only.
+  content: Defines the requirements for an equipment to perform in-service monitoring
+    of digital signals at bit rates of 2, 8, 34 and 140 Mbit/s using the frame alignment
+    signal. Keywords - frame alignment signal monitoring; - frame analyser; - in-service
+    monitoring; - measurement; - tester.PREAMBLE Section 1 applies to all four bit
+    rates (2048, 8448, 34 368 and 139 264 kbit/s). Section 2 provides additional information
+    applicable to 2048 kbit/s signals only.
 status:
   stage:
     content: Published
@@ -82,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification for an instrument to monitor the frame alignment signal of frame structures (frame alignment signal monitor)
+      content: Specification for an instrument to monitor the frame alignment signal
+        of frame structures (frame alignment signal monitor)
     docidentifier:
     - content: O.162 (10/1984)
       type: ITU
@@ -92,7 +99,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Specification for an instrument to monitor the frame alignment signal of frame structures that are in accordance with Recommendation G.732 (frame alignment signal monitor)
+      content: Specification for an instrument to monitor the frame alignment signal
+        of frame structures that are in accordance with Recommendation G.732 (frame
+        alignment signal monitor)
     docidentifier:
     - content: O.162 (11/1980)
       type: ITU

@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement provides definitions for a set of parameters which can be extracted from services which rely on spoken dialogue systems. The parameters can be extracted from logged (test) user interactions with the service under consideration. They quantify the flow of the interaction, the behaviour of the user and the system, and the performance of the speech technology devices involved in the interaction. They provide useful information for system development, optimization and maintenance, and are complementary to subjective quality judgments collected according to ITU-T Rec. P.851.
+  content: This Supplement provides definitions for a set of parameters which can
+    be extracted from services which rely on spoken dialogue systems. The parameters
+    can be extracted from logged (test) user interactions with the service under consideration.
+    They quantify the flow of the interaction, the behaviour of the user and the system,
+    and the performance of the speech technology devices involved in the interaction.
+    They provide useful information for system development, optimization and maintenance,
+    and are complementary to subjective quality judgments collected according to ITU-T
+    Rec. P.851.
 status:
   stage:
     content: Published

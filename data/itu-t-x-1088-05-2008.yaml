@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Telebiometrics digital key framework (TDK) – A framework for biometric digital key generation and protection
+  content: Telebiometrics digital key framework (TDK) – A framework for biometric
+    digital key generation and protection
   type: main
 source:
 - type: src
@@ -52,7 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1088 describes a framework for biometric digital key generation, protection from a biometric template with public key certificate and biometric certificate in order to provide cryptographic secure authentication and secure communication on open network environments. This Recommendation also describes the security requirements in biometric digital key generation and protection. The framework described in this Recommendation can be applied to the biometric encryption and digital signature.
+  content: Recommendation ITU-T X.1088 describes a framework for biometric digital
+    key generation, protection from a biometric template with public key certificate
+    and biometric certificate in order to provide cryptographic secure authentication
+    and secure communication on open network environments. This Recommendation also
+    describes the security requirements in biometric digital key generation and protection.
+    The framework described in this Recommendation can be applied to the biometric
+    encryption and digital signature.
 status:
   stage:
     content: Published

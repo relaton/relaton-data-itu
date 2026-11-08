@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the technical characteristics of data transmission services, including leased circuit, circuit switched, packet switched (including ISDN), and frame relay data transmission services. Technical characteristics include access attributes, interfaces and quality of service parameters. This Recommendation also contains definitions of particular optional user facilities and terminology, includes access to frame relay data transmission service via B-ISDN and some optional user facilities for frame relay. This revision includes interworking data transmission services with Internet.
+  content: This Recommendation describes the technical characteristics of data transmission
+    services, including leased circuit, circuit switched, packet switched (including
+    ISDN), and frame relay data transmission services. Technical characteristics include
+    access attributes, interfaces and quality of service parameters. This Recommendation
+    also contains definitions of particular optional user facilities and terminology,
+    includes access to frame relay data transmission service via B-ISDN and some optional
+    user facilities for frame relay. This revision includes interworking data transmission
+    services with Internet.
 status:
   stage:
     content: Published

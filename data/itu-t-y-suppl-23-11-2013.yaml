@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Y.2770 introduced new terms in the area of deep packet inspection (DPI). Work on DPI terminology was an essential part during the development of this Recommendation. This Supplement 23 to the ITU-T Y-series provides complementary information on DPI terminology related to the flow and application descriptor, packet processing and layered protocol architectures, as defined by ITUT Y.2770.
+  content: "Recommendation ITU-T Y.2770 introduced new terms in the area of deep packet
+    inspection (DPI). Work on DPI terminology was an essential part during the development
+    of this Recommendation. This Supplement 23 to the ITU-T Y-series provides complementary
+    information on DPI terminology related to the flow and application descriptor,
+    packet processing and layered protocol architectures, as defined by ITU\x1ET Y.2770."
 status:
   stage:
     content: Published

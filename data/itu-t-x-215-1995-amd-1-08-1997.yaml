@@ -55,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The fast associate (upper-layer context identifier) mechanism is an efficiency enhancement which allows a session connection, and the upper-layer connection/association it carries to be established using a compressed form of the information that would otherwise be sent on the S-CONNECT exchange. A conceptual parameter is added which summarizes the contents of the user-data of the S-CONNECT primitives.
+  content: The fast associate (upper-layer context identifier) mechanism is an efficiency
+    enhancement which allows a session connection, and the upper-layer connection/association
+    it carries to be established using a compressed form of the information that would
+    otherwise be sent on the S-CONNECT exchange. A conceptual parameter is added which
+    summarizes the contents of the user-data of the S-CONNECT primitives.
 status:
   stage:
     content: Published
@@ -93,7 +97,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Session service definition
+      content: Information technology – Open Systems Interconnection – Session service
+        definition
     docidentifier:
     - content: X.215 (11/1995)
       type: ITU
@@ -113,7 +118,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Session service definition
+      content: Information technology – Open Systems Interconnection – Session service
+        definition
     docidentifier:
     - content: X.215 (07/1994)
       type: ITU
@@ -123,7 +129,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session service definition for Open Systems Interconnection for CCITT applications
+      content: Session service definition for Open Systems Interconnection for CCITT
+        applications
     docidentifier:
     - content: X.215 (11/1988)
       type: ITU
@@ -133,7 +140,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session Service Definition for Open Systems Interconnection for CCITT Applications
+      content: Session Service Definition for Open Systems Interconnection for CCITT
+        Applications
     docidentifier:
     - content: X.215 (10/1984)
       type: ITU

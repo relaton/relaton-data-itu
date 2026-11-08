@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the X.25 call set-up and call clearing procedures used by an encapsulation function and the data transfer phase which follows, when using Packet Switched Data Transmission Service to transmit Protocol Data Units of various protocols. In addition to general procedures, this Recommendation deals with the specific encapsulation in X.25 packets of Frame Relay frames and IP datagrams.
+  content: This Recommendation specifies the X.25 call set-up and call clearing procedures
+    used by an encapsulation function and the data transfer phase which follows, when
+    using Packet Switched Data Transmission Service to transmit Protocol Data Units
+    of various protocols. In addition to general procedures, this Recommendation deals
+    with the specific encapsulation in X.25 packets of Frame Relay frames and IP datagrams.
 status:
   stage:
     content: Published

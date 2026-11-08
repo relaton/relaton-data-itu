@@ -55,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Rec. X.1083 | ISO/IEC 24708, the BioAPI interworking protocol (BIP), specifies the syntax, semantics, and encodings of a set of messages ("BIP messages") that enable a BioAPI-conforming application to request biometric operations in BioAPI-conforming biometric service providers (BSPs) across node or process boundaries, and to be notified of events originating in those remote BSPs. It also specifies extensions to the architecture and behaviour of the BioAPI framework (specified in ISO/IEC 19784-1) that support the creation, processing, sending, and reception of BIP messages.
+  content: ITU-T Rec. X.1083 | ISO/IEC 24708, the BioAPI interworking protocol (BIP),
+    specifies the syntax, semantics, and encodings of a set of messages ("BIP messages")
+    that enable a BioAPI-conforming application to request biometric operations in
+    BioAPI-conforming biometric service providers (BSPs) across node or process boundaries,
+    and to be notified of events originating in those remote BSPs. It also specifies
+    extensions to the architecture and behaviour of the BioAPI framework (specified
+    in ISO/IEC 19784-1) that support the creation, processing, sending, and reception
+    of BIP messages.
 status:
   stage:
     content: Published

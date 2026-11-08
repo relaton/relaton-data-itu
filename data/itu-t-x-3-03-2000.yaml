@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the functions performed by, and operational characteristics of, the PAD for the start-stop mode DTE. It provides the operation of the PAD depending on the possible values of PAD parameters. This revision includes a new parameter for the selection of the default packet size and additional PAD service and command signals for Chinese extended dialogue mode.
+  content: This Recommendation describes the functions performed by, and operational
+    characteristics of, the PAD for the start-stop mode DTE. It provides the operation
+    of the PAD depending on the possible values of PAD parameters. This revision includes
+    a new parameter for the selection of the default packet size and additional PAD
+    service and command signals for Chinese extended dialogue mode.
 status:
   stage:
     content: Published

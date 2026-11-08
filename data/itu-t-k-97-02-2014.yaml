@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.97 deals with lightning protection of a distributed base station (DBS) on the tower site. A DBS is a new type of radio base station which consists of a remote radio unit (RRU) located on the tower, and a base band unit (BBU) inside the shelter at the bottom of the tower. Lightning protection of DBS is not fully covered by Recommendation ITU-T K.56.\r\nThe main objective of this Recommendation is the lightning protection of RRU and rectifier interfaces with direct current (DC) power cable, and bonding of the DBS. \r\nProtection of these interfaces is achieved by installing a protection module. Possible protection schemes for such installations are also described.\r\nThis Recommendation indicates when these protection modules should be used, and provides indication of their withstand current. The surge protective device (SPD) needed on the feeder cable is also indicated. \r\nBonding configurations of the protection module and of the optical fibre cable are also illustrated. \r\nAppendix I shows an example of an isolated protection solution."
+  content: "Recommendation ITU-T K.97 deals with lightning protection of a distributed
+    base station (DBS) on the tower site. A DBS is a new type of radio base station
+    which consists of a remote radio unit (RRU) located on the tower, and a base band
+    unit (BBU) inside the shelter at the bottom of the tower. Lightning protection
+    of DBS is not fully covered by Recommendation ITU-T K.56.\r\nThe main objective
+    of this Recommendation is the lightning protection of RRU and rectifier interfaces
+    with direct current (DC) power cable, and bonding of the DBS. \r\nProtection of
+    these interfaces is achieved by installing a protection module. Possible protection
+    schemes for such installations are also described.\r\nThis Recommendation indicates
+    when these protection modules should be used, and provides indication of their
+    withstand current. The surge protective device (SPD) needed on the feeder cable
+    is also indicated. \r\nBonding configurations of the protection module and of
+    the optical fibre cable are also illustrated. \r\nAppendix I shows an example
+    of an isolated protection solution."
 status:
   stage:
     content: Published
@@ -72,7 +85,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication cabling during a power cross event
+      content: ITU-T K.20, K.21, K.45, K.82 – Additional criteria to protect telecommunication
+        cabling during a power cross event
     docidentifier:
     - content: K Suppl. 3 (10/2015)
       type: ITU
@@ -92,7 +106,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 5G technology and human exposure to radiofrequency electromagnetic fields
+      content: 5G technology and human exposure to radiofrequency electromagnetic
+        fields
     docidentifier:
     - content: K Suppl. 9 (05/2019)
       type: ITU
@@ -102,7 +117,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Analysis of electromagnetic compatibility aspects and definition of requirements for 5G mobile systems
+      content: Analysis of electromagnetic compatibility aspects and definition of
+        requirements for 5G mobile systems
     docidentifier:
     - content: K Suppl. 10 (11/2017)
       type: ITU
@@ -112,7 +128,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from mobile and portable devices during different conditions of use
+      content: Radiofrequency electromagnetic field (RF-EMF) exposure levels from
+        mobile and portable devices during different conditions of use
     docidentifier:
     - content: K Suppl. 13 (12/2021)
       type: ITU
@@ -122,7 +139,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE guidelines on 4G and 5G mobile network deployment
+      content: The impact of RF-EMF exposure limits stricter than the ICNIRP or IEEE
+        guidelines on 4G and 5G mobile network deployment
     docidentifier:
     - content: K Suppl. 14 (09/2019)
       type: ITU
@@ -152,7 +170,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Electromagnetic field strength inside and outside of electric vehicles using wireless power transfer technology
+      content: Electromagnetic field strength inside and outside of electric vehicles
+        using wireless power transfer technology
     docidentifier:
     - content: K Suppl. 29 (07/2022)
       type: ITU

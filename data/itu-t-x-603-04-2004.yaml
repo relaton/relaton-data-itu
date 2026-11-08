@@ -55,7 +55,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The Relayed Multicast Protocol (RMCP) is an application-layer protocol for providing end-to-end multicast services over an IP-network environment. This Recommendation | International Standard specifies basic concepts of a relayed multicast scheme, data delivery models, service scenarios, required protocol functions for protocol operation, and basic message structures. This framework can be used to specify detailed relayed multicast protocols for various application requirements.
+  content: The Relayed Multicast Protocol (RMCP) is an application-layer protocol
+    for providing end-to-end multicast services over an IP-network environment. This
+    Recommendation | International Standard specifies basic concepts of a relayed
+    multicast scheme, data delivery models, service scenarios, required protocol functions
+    for protocol operation, and basic message structures. This framework can be used
+    to specify detailed relayed multicast protocols for various application requirements.
 status:
   stage:
     content: Withdrawal

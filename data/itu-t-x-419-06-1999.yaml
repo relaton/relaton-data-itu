@@ -55,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard contains new additional optional application contexts for the new versions of P3 and P7 introduced in Recommendations X.411 and X.413. The P1 conformance requirement has been revised to achieve common text with ISO/IEC. The ASN.1 has been fully revised to use the new Recommendations X.680 and X.880, while retaining complete compatibility with the 1988 and 1992 P1 and P3 protocols. This Recommendation | International Standard incorporates an enhancement on use of ISO/IEC 10646 characters in OR-addresses and numerous defect corrections.
+  content: This Recommendation | International Standard contains new additional optional
+    application contexts for the new versions of P3 and P7 introduced in Recommendations
+    X.411 and X.413. The P1 conformance requirement has been revised to achieve common
+    text with ISO/IEC. The ASN.1 has been fully revised to use the new Recommendations
+    X.680 and X.880, while retaining complete compatibility with the 1988 and 1992
+    P1 and P3 protocols. This Recommendation | International Standard incorporates
+    an enhancement on use of ISO/IEC 10646 characters in OR-addresses and numerous
+    defect corrections.
 status:
   stage:
     content: Published
@@ -103,7 +110,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Message handling systems (MHS): Protocol specifications'
+      content: 'Information technology – Message handling systems (MHS): Protocol
+        specifications'
     docidentifier:
     - content: X.419 (11/1995)
       type: ITU
@@ -113,7 +121,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Message handling systems (MHS): Protocol specifications'
+      content: 'Information technology – Message handling systems (MHS): Protocol
+        specifications'
     docidentifier:
     - content: X.419 (09/1992)
       type: ITU

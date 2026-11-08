@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies ATM header bit assignments including ATM cell structure and the associated coding for both NNI and UNI, defines service primitives to be exchanged with upper and lower layers and with the ATM management entity, and specifies ATM protocol procedures for GFC.
+  content: This Recommendation specifies ATM header bit assignments including ATM
+    cell structure and the associated coding for both NNI and UNI, defines service
+    primitives to be exchanged with upper and lower layers and with the ATM management
+    entity, and specifies ATM protocol procedures for GFC.
 status:
   stage:
     content: Published
@@ -102,7 +105,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

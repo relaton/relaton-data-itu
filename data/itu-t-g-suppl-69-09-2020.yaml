@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 69 to ITU-T G-series Recommendations describes scenarios for migrating existing slicing packet networks (SPNs) to metro transport networks (MTNs). Scenarios include carrying SPN path layer connections over MTN section layers, or for carrying MTN path layer connections over SPN section layers. It also describes how misconfiguration of the end points that result in the connection of a SPN end point to a MTN end point can be detected. \r\n"
+  content: "Supplement 69 to ITU-T G-series Recommendations describes scenarios for
+    migrating existing slicing packet networks (SPNs) to metro transport networks
+    (MTNs). Scenarios include carrying SPN path layer connections over MTN section
+    layers, or for carrying MTN path layer connections over SPN section layers. It
+    also describes how misconfiguration of the end points that result in the connection
+    of a SPN end point to a MTN end point can be detected. \r\n"
 status:
   stage:
     content: Published

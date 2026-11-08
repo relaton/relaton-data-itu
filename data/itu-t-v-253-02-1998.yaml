@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation builds upon and extends the Asynchronous DCE "AT" command set defined in Recommendation V.250. It describes a DCE command and response syntax for voice playback and record, for generation and detection of DTMF and other tones, as well as a syntax for switching between data mode, facsimile mode, and other future modes of operation. The additional mechanisms defined in this Recommendation allow a DTE in combination with a V.253-equipped DCE to implement Telephone Answering Device functions, optional speakerphone functions, and to switch to appropriate data, facsimile, or other modes of operation depending on the type of the incoming call.
+  content: This Recommendation builds upon and extends the Asynchronous DCE "AT" command
+    set defined in Recommendation V.250. It describes a DCE command and response syntax
+    for voice playback and record, for generation and detection of DTMF and other
+    tones, as well as a syntax for switching between data mode, facsimile mode, and
+    other future modes of operation. The additional mechanisms defined in this Recommendation
+    allow a DTE in combination with a V.253-equipped DCE to implement Telephone Answering
+    Device functions, optional speakerphone functions, and to switch to appropriate
+    data, facsimile, or other modes of operation depending on the type of the incoming
+    call.
 status:
   stage:
     content: Published

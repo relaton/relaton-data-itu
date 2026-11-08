@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the basic Frame Relay Operations and Maintenance Principles and Functions. The quality of Frame Relay services can be tested, measured and diagnosed using OAM frames. FR OAM frames can be used to measure the primary performance parameters of frame relay networks. OAM frames provide the ability to do in-service monitoring on both SVC and PVC connections.This Recommendation includes a network reference model, an overview of the OAM frame structure, and OAM measurement procedures. The contents of this Recommendation are based on the reference model, the OAM protocol formats, the OAM procedures and descriptions of message flows as defined in FRF.19 - Frame Relay Operations, Administration, and Maintenance Implementation Agreement. Additionally procedures for measurement of frame delay jitter, frame loss ratio and use of loopback for fault detection are defined.
+  content: This Recommendation defines the basic Frame Relay Operations and Maintenance
+    Principles and Functions. The quality of Frame Relay services can be tested, measured
+    and diagnosed using OAM frames. FR OAM frames can be used to measure the primary
+    performance parameters of frame relay networks. OAM frames provide the ability
+    to do in-service monitoring on both SVC and PVC connections.This Recommendation
+    includes a network reference model, an overview of the OAM frame structure, and
+    OAM measurement procedures. The contents of this Recommendation are based on the
+    reference model, the OAM protocol formats, the OAM procedures and descriptions
+    of message flows as defined in FRF.19 - Frame Relay Operations, Administration,
+    and Maintenance Implementation Agreement. Additionally procedures for measurement
+    of frame delay jitter, frame loss ratio and use of loopback for fault detection
+    are defined.
 status:
   stage:
     content: Published

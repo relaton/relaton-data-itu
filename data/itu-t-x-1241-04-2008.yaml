@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1241 provides a technical framework for countering email spam. The framework describes one recommended structure of an anti-spam processing domain and defined function of major modules in it. The key point of the framework is that it establishes a mechanism to share information about email spam between different email servers. Systems following the framework would improve efficiency through interconnection.
+  content: Recommendation ITU-T X.1241 provides a technical framework for countering
+    email spam. The framework describes one recommended structure of an anti-spam
+    processing domain and defined function of major modules in it. The key point of
+    the framework is that it establishes a mechanism to share information about email
+    spam between different email servers. Systems following the framework would improve
+    efficiency through interconnection.
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated threats
+      content: ITU-T X.1240 series – Supplement on countering spam and associated
+        threats
     docidentifier:
     - content: X Suppl. 6 (09/2009)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Systems Interconnection – Application context for systems management with transaction processing
+  content: Information technology – Open Systems Interconnection – Application context
+    for systems management with transaction processing
   type: main
 source:
 - type: src
@@ -55,7 +56,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides an application context for an association in the systems management environment. The application context provides a basic Systems Management context with Transaction Processing (see X.860-Series) defining the rules for association and interaction of TP with CMIS. This application context will provides a basis for synchronized operations across network elements in a TMN environment and may be part of a family of contexts as additional requirements are defined for Systems Management.
+  content: This Recommendation | International Standard provides an application context
+    for an association in the systems management environment. The application context
+    provides a basic Systems Management context with Transaction Processing (see X.860-Series)
+    defining the rules for association and interaction of TP with CMIS. This application
+    context will provides a basis for synchronized operations across network elements
+    in a TMN environment and may be part of a family of contexts as additional requirements
+    are defined for Systems Management.
 status:
   stage:
     content: Published

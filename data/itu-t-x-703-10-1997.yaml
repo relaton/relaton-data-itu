@@ -55,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation | International Standard describes the Open Distributed Management Architecture (ODMA). ODMA provides an architecture for the specification and development both of systems management as an open distributed application and of the management of open distributed applications. ODMA also provides the architectural framework for the development of the standards needed within the architecture. The management will be of a distributed nature; this implies:\r\n–\tdistribution of the managing activity;\r\n–\tmanagement of distributed applications; and\r\n–\tmanagement of resources that may be distributed.\r\nODMA is compliant with the ODP-RM, so that in a distributed environment OSI Systems Management can be used in combination with other techniques that are engineered and implemented according to ODP principles.\r\n"
+  content: "This Recommendation | International Standard describes the Open Distributed
+    Management Architecture (ODMA). ODMA provides an architecture for the specification
+    and development both of systems management as an open distributed application
+    and of the management of open distributed applications. ODMA also provides the
+    architectural framework for the development of the standards needed within the
+    architecture. The management will be of a distributed nature; this implies:\r\n–\tdistribution
+    of the managing activity;\r\n–\tmanagement of distributed applications; and\r\n–\tmanagement
+    of resources that may be distributed.\r\nODMA is compliant with the ODP-RM, so
+    that in a distributed environment OSI Systems Management can be used in combination
+    with other techniques that are engineered and implemented according to ODP principles.\r\n"
 status:
   stage:
     content: Published

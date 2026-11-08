@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This proposed Supplement documents a packet oriented (IP-centric) QoS management model. This model is applicable to a wireless Access Point (e.g. WiFi AP, eNode B, Node B), referred to as "IP aware Access Point". In the supplement a possible cross-layer design for this model in LTE/EPC networks is described. Some implementation challenges are highlighted, together with possible solutions implying only minor modifications in the eNode B. Performance of this proposal compared to various implementations of the 3GPP QoS model is evaluated using the ns-3 simulator in realistic scenarios.
+  content: This proposed Supplement documents a packet oriented (IP-centric) QoS management
+    model. This model is applicable to a wireless Access Point (e.g. WiFi AP, eNode
+    B, Node B), referred to as "IP aware Access Point". In the supplement a possible
+    cross-layer design for this model in LTE/EPC networks is described. Some implementation
+    challenges are highlighted, together with possible solutions implying only minor
+    modifications in the eNode B. Performance of this proposal compared to various
+    implementations of the 3GPP QoS model is evaluated using the ns-3 simulator in
+    realistic scenarios.
 status:
   stage:
     content: Published

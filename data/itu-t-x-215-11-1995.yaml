@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Systems Interconnection – Session service definition
+  content: Information technology – Open Systems Interconnection – Session service
+    definition
   type: main
 source:
 - type: src
@@ -55,7 +56,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies the services which are provided by the session layer to the presentation layer at the boundary between the session layer and the presentation layer of the OSI reference model. This includes:a) the primitive actions and events of the service;b) the parameters associated with each primitive action and event; andc) the relationship between the valid sequence of these actions and events.
+  content: This Recommendation | International Standard specifies the services which
+    are provided by the session layer to the presentation layer at the boundary between
+    the session layer and the presentation layer of the OSI reference model. This
+    includes:a) the primitive actions and events of the service;b) the parameters
+    associated with each primitive action and event; andc) the relationship between
+    the valid sequence of these actions and events.
 status:
   stage:
     content: Published
@@ -113,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – Open Systems Interconnection – Session service definition
+      content: Information technology – Open Systems Interconnection – Session service
+        definition
     docidentifier:
     - content: X.215 (07/1994)
       type: ITU
@@ -123,7 +130,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session service definition for Open Systems Interconnection for CCITT applications
+      content: Session service definition for Open Systems Interconnection for CCITT
+        applications
     docidentifier:
     - content: X.215 (11/1988)
       type: ITU
@@ -133,7 +141,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Session Service Definition for Open Systems Interconnection for CCITT Applications
+      content: Session Service Definition for Open Systems Interconnection for CCITT
+        Applications
     docidentifier:
     - content: X.215 (10/1984)
       type: ITU

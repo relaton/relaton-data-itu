@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements and framework of artificial intelligence (AI)-based multimedia data generation systems using core cloud and edge cloud
+  content: Requirements and framework of artificial intelligence (AI)-based multimedia
+    data generation systems using core cloud and edge cloud
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "AI-based multimedia data generation systems require cloud computing capabilities for training large-scale models with over billions of parameters but which can experience high latency due to the remote nature of the cloud. Edge servers can offer lightweight model training, fine-tuning and real-time inference services, which are less computationally and storage intensive. Therefore, Recommendation ITUT F.748.79 identifies a reference framework and requirements of AI-based multimedia data generation systems using a core cloud and edge cloud. Use cases are also provided in an appendix.\r\n"
+  content: "AI-based multimedia data generation systems require cloud computing capabilities
+    for training large-scale models with over billions of parameters but which can
+    experience high latency due to the remote nature of the cloud. Edge servers can
+    offer lightweight model training, fine-tuning and real-time inference services,
+    which are less computationally and storage intensive. Therefore, Recommendation
+    ITUT F.748.79 identifies a reference framework and requirements of AI-based multimedia
+    data generation systems using a core cloud and edge cloud. Use cases are also
+    provided in an appendix.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +121,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +132,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation, which is equivalent to ISO/IEC 13522-3, is a generic Recommendation which extends the coded representation of the MHEG script object class defined in  Recommendations of the ITU-T T.170-Series, including ITU-T T.171 and ITU-T T.172. It specifies the MHEG script interchange representation (MHEG-SIR) for the contents of script objects, i.e. the encoding of the script data component of the MHEG script class.
+  content: This Recommendation, which is equivalent to ISO/IEC 13522-3, is a generic
+    Recommendation which extends the coded representation of the MHEG script object
+    class defined in  Recommendations of the ITU-T T.170-Series, including ITU-T T.171
+    and ITU-T T.172. It specifies the MHEG script interchange representation (MHEG-SIR)
+    for the contents of script objects, i.e. the encoding of the script data component
+    of the MHEG script class.
 status:
   stage:
     content: Published

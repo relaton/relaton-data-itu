@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 12 to ITU-T H-series Recommendations provides complementary information on the handling of priority traffic (e.g., international emergency preference scheme (IEPS)/emergency telecommunications service (ETS) traffic) by the ITU-T H.248 entities: Media Gateway Controller (MGC) and Media Gateway (MG).\r\nThis supplement illustrates the difficulty, even impossibility, of a generic specification i.e., a generic ITU-T H.248 profile, in justifying concrete, dedicated protocol solutions in the case of an available alternative for \"emulation approaches\"."
+  content: "Supplement 12 to ITU-T H-series Recommendations provides complementary
+    information on the handling of priority traffic (e.g., international emergency
+    preference scheme (IEPS)/emergency telecommunications service (ETS) traffic) by
+    the ITU-T H.248 entities: Media Gateway Controller (MGC) and Media Gateway (MG).\r\nThis
+    supplement illustrates the difficulty, even impossibility, of a generic specification
+    i.e., a generic ITU-T H.248 profile, in justifying concrete, dedicated protocol
+    solutions in the case of an available alternative for \"emulation approaches\"."
 status:
   stage:
     content: Published

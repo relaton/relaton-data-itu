@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Common management services - State management - Protocol neutral requirements and analysis
+  content: Common management services - State management - Protocol neutral requirements
+    and analysis
   type: main
 source:
 - type: src
@@ -52,7 +53,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3701 provides the requirements and analysis for one of the common management services - state management. The state management capabilities are intended for use by specific information object classes (IOCs).
+  content: Recommendation ITU-T M.3701 provides the requirements and analysis for
+    one of the common management services - state management. The state management
+    capabilities are intended for use by specific information object classes (IOCs).
 status:
   stage:
     content: Published

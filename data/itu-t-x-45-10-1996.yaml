@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Interface between data terminal equipment (DTE) and data circuit-terminating equipment (DCE) for terminals operating in the packet mode and connected to public data networks, designed for efficiency at higher speeds
+  content: Interface between data terminal equipment (DTE) and data circuit-terminating
+    equipment (DCE) for terminals operating in the packet mode and connected to public
+    data networks, designed for efficiency at higher speeds
   type: main
 source:
 - type: src
@@ -52,7 +54,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the interface between packet mode DTEs and public data networks for physical links which have data rates higher than those of the scope of Recommendation X.25.Full interworking compatibility between X.25 DTEs and X.45 DTEs is provided. In particular credit based flow control is available for both directions of each virtual circuit at each DTE/DCE interface. For X.45 DTEs an unassured virtual circuit option is offered for virtual circuits where data losses are preferred to extra delays in case of transmission errors.Protocol of this Recommendation can be used on underlying layers which are functionally equivalent to HDLC layer 2.a, in particular on ATM-VPs and VCs used with the CPCS of AAL 5.
+  content: This Recommendation specifies the interface between packet mode DTEs and
+    public data networks for physical links which have data rates higher than those
+    of the scope of Recommendation X.25.Full interworking compatibility between X.25
+    DTEs and X.45 DTEs is provided. In particular credit based flow control is available
+    for both directions of each virtual circuit at each DTE/DCE interface. For X.45
+    DTEs an unassured virtual circuit option is offered for virtual circuits where
+    data losses are preferred to extra delays in case of transmission errors.Protocol
+    of this Recommendation can be used on underlying layers which are functionally
+    equivalent to HDLC layer 2.a, in particular on ATM-VPs and VCs used with the CPCS
+    of AAL 5.
 status:
   stage:
     content: Published

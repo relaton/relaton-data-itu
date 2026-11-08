@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies how to operate Ethernet (defined by IEEE WG 802.3) over LAPS (Link Access Procedure - SDH) and provides a simple technique to connect LANs and provides Ethernet LAN extension over Wide Area Network (WAN) within a private and/or public network. The characteristics of this technique include low latency variance, remote performance monitoring capability, remote fault indication capability, active flow control in burst traffic condition and ease of use and maintenance, especially in the area of SDH transmission.
+  content: This Recommendation specifies how to operate Ethernet (defined by IEEE
+    WG 802.3) over LAPS (Link Access Procedure - SDH) and provides a simple technique
+    to connect LANs and provides Ethernet LAN extension over Wide Area Network (WAN)
+    within a private and/or public network. The characteristics of this technique
+    include low latency variance, remote performance monitoring capability, remote
+    fault indication capability, active flow control in burst traffic condition and
+    ease of use and maintenance, especially in the area of SDH transmission.
 status:
   stage:
     content: Published

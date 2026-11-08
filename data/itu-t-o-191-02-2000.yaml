@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes algorithms and processes for the out-of-service estimation of the ATM layer cell transfer performance by means of the network performance parameters defined in Recommendations I.356 and I.357. Further guidance is provided for in-service measurements and UPC/NPC function performance measurements.
+  content: This Recommendation describes algorithms and processes for the out-of-service
+    estimation of the ATM layer cell transfer performance by means of the network
+    performance parameters defined in Recommendations I.356 and I.357. Further guidance
+    is provided for in-service measurements and UPC/NPC function performance measurements.
 status:
   stage:
     content: Published
@@ -72,7 +75,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Annex D – Measurement of error and availability parameters in the Out-of-Service Mode
+      content: Annex D – Measurement of error and availability parameters in the Out-of-Service
+        Mode
     docidentifier:
     - content: O.191 (1997) Add. 1 (10/1997)
       type: ITU

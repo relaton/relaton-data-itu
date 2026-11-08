@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation "ATM Protection Switching" provides architectures and mechanisms for protection switching at ATM layer. The architecture includes the extent of the protected domain and arrangement of protected domain. The resource for protection entities is pre-allocated. The mechanism includes protection switching trigger, hold-off mechanisms and protection switching control protocol.This Recommendation describes individual VP/VC protection and group protection. The individual VP/VC protection is a technique where a single network and/or subnetwork connection is used for working entity and protection entity. The group protection is a technique where a logical bundle of one or more network and/or subnetwork connections is used for working entity and protection entity.Currently, this Recommendation describes 1+1 and 1:1 bidirectional protection switching as well as 1+1 unidirectional protection switching.
+  content: This Recommendation "ATM Protection Switching" provides architectures and
+    mechanisms for protection switching at ATM layer. The architecture includes the
+    extent of the protected domain and arrangement of protected domain. The resource
+    for protection entities is pre-allocated. The mechanism includes protection switching
+    trigger, hold-off mechanisms and protection switching control protocol.This Recommendation
+    describes individual VP/VC protection and group protection. The individual VP/VC
+    protection is a technique where a single network and/or subnetwork connection
+    is used for working entity and protection entity. The group protection is a technique
+    where a logical bundle of one or more network and/or subnetwork connections is
+    used for working entity and protection entity.Currently, this Recommendation describes
+    1+1 and 1:1 bidirectional protection switching as well as 1+1 unidirectional protection
+    switching.
 status:
   stage:
     content: Published
@@ -88,7 +99,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

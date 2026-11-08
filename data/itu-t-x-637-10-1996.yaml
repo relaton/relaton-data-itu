@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the profiles of the common upper layer facilities necessary to support basic connection-oriented communications applications. These common elements are specified by reference to the OSI connection-mode Recommendations for the ACSE protocol, the Presentation layer protocol and the Session layer protocol.This is one of a series of Recommendations to support the minimal OSI functions in the upper layers. It is technically aligned with ISO/IEC ISP 11188-1.
+  content: This Recommendation provides the profiles of the common upper layer facilities
+    necessary to support basic connection-oriented communications applications. These
+    common elements are specified by reference to the OSI connection-mode Recommendations
+    for the ACSE protocol, the Presentation layer protocol and the Session layer protocol.This
+    is one of a series of Recommendations to support the minimal OSI functions in
+    the upper layers. It is technically aligned with ISO/IEC ISP 11188-1.
 status:
   stage:
     content: Published

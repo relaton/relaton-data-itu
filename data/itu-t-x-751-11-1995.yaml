@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Systems Management: Changeover function'
+  content: 'Information technology – Open Systems Interconnection – Systems Management:
+    Changeover function'
   type: main
 source:
 - type: src
@@ -55,7 +56,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard provides a model for characterizing the relationship between resources in terms of the way one or more resources may provide a back-up role for other resources. This includes the hot/cold standby concept and the associated aspects of primary and secondary back-up. The capability to manage the relationships is provided, for example, to allow a system to issue a request to another system to change over the resources acting in a back-up role or to change back. The relationships and requests are defined in terms of the managed objects representing the resources.
+  content: This Recommendation | International Standard provides a model for characterizing
+    the relationship between resources in terms of the way one or more resources may
+    provide a back-up role for other resources. This includes the hot/cold standby
+    concept and the associated aspects of primary and secondary back-up. The capability
+    to manage the relationships is provided, for example, to allow a system to issue
+    a request to another system to change over the resources acting in a back-up role
+    or to change back. The relationships and requests are defined in terms of the
+    managed objects representing the resources.
 status:
   stage:
     content: Published

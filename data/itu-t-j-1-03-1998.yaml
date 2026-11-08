@@ -47,7 +47,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The scope of this Recommendation is to provide a glossary of terms, acronyms and definitions for application to new services related to the transmission of television and sound-programme signals and of related data signals for purposes of contribution, primary distribution and secondary distribution, including cable television, SMATV and similar services.
+  content: The scope of this Recommendation is to provide a glossary of terms, acronyms
+    and definitions for application to new services related to the transmission of
+    television and sound-programme signals and of related data signals for purposes
+    of contribution, primary distribution and secondary distribution, including cable
+    television, SMATV and similar services.
 status:
   stage:
     content: Withdrawal
@@ -67,7 +71,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Terms, definitions and acronyms applicable to the transmission of television and sound-programme signals and of related data signals
+      content: Terms, definitions and acronyms applicable to the transmission of television
+        and sound-programme signals and of related data signals
     docidentifier:
     - content: J.1 (09/1999)
       type: ITU

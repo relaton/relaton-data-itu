@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T X.1250 series – Supplement on overview of identity management in the context of cybersecurity
+  content: ITU-T X.1250 series – Supplement on overview of identity management in
+    the context of cybersecurity
   type: main
 source:
 - type: src
@@ -52,7 +53,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The security of the traditional public circuit switched telephone network (PSTN) has been addressed over many decades of operation. However, the same cannot be said for distributed public packet-switched networks with multiple-service providers, such as the Internet and next generation networks (NGNs). Such networks use one common transport platform for control traffic and for user traffic which, in addition to the possible anonymity of such traffic and the possibility of generating unidirectional traffic, makes such networks vulnerable to misuse. All electronic services (e-services such as e-business, e-commerce, e-health, e-government) are open to attack. This problem can be at least partly addressed by improving confidence in the identity of users, network devices and service providers, so that they can be authenticated, granted appropriate access, and audited. Because identity management provides greater assurance and trust in user, service provider, and network device identities, it improves security by reducing exposure to security risks. This aspect of cybersecurity is something that service providers need to consider at a business and technical level, and that governments need to consider on a national level as part of the national cybersecurity plan.
+  content: The security of the traditional public circuit switched telephone network
+    (PSTN) has been addressed over many decades of operation. However, the same cannot
+    be said for distributed public packet-switched networks with multiple-service
+    providers, such as the Internet and next generation networks (NGNs). Such networks
+    use one common transport platform for control traffic and for user traffic which,
+    in addition to the possible anonymity of such traffic and the possibility of generating
+    unidirectional traffic, makes such networks vulnerable to misuse. All electronic
+    services (e-services such as e-business, e-commerce, e-health, e-government) are
+    open to attack. This problem can be at least partly addressed by improving confidence
+    in the identity of users, network devices and service providers, so that they
+    can be authenticated, granted appropriate access, and audited. Because identity
+    management provides greater assurance and trust in user, service provider, and
+    network device identities, it improves security by reducing exposure to security
+    risks. This aspect of cybersecurity is something that service providers need to
+    consider at a business and technical level, and that governments need to consider
+    on a national level as part of the national cybersecurity plan.
 status:
   stage:
     content: Published

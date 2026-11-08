@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1038 supports security protection and provides security requirements and a reference architecture for software-defined networking (SDN). This Recommendation identifies new security threats as well as traditional network security threats to SDN, defines security requirements, provides possible security countermeasures against new security threats, and designs a security reference architecture for SDN.
+  content: Recommendation ITU-T X.1038 supports security protection and provides security
+    requirements and a reference architecture for software-defined networking (SDN).
+    This Recommendation identifies new security threats as well as traditional network
+    security threats to SDN, defines security requirements, provides possible security
+    countermeasures against new security threats, and designs a security reference
+    architecture for SDN.
 status:
   stage:
     content: Published

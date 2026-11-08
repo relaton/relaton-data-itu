@@ -55,7 +55,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to Rec. ITU-T T.810 | ISO/IEC 15444-11 describes technologies that cover the efficient use of JPEG 2000 Wireless (JPWL) technologies in the context of an IP-based wireless network. Despite the fact that JPWL has been designed firstly to mitigate the effect of bit errors, it can be applied in the case of packet erasures, with some particular additional mechanisms. Amendment 1 specifies these mechanisms, which are fully compliant with existing wireless IPbased networks and JPWL.
+  content: "Amendment 1 to Rec. ITU-T T.810 | ISO/IEC 15444-11 describes technologies
+    that cover the efficient use of JPEG 2000 Wireless (JPWL) technologies in the
+    context of an IP-based wireless network. Despite the fact that JPWL has been designed
+    firstly to mitigate the effect of bit errors, it can be applied in the case of
+    packet erasures, with some particular additional mechanisms. Amendment 1 specifies
+    these mechanisms, which are fully compliant with existing wireless IP\x1Ebased
+    networks and JPWL."
 status:
   stage:
     content: Published

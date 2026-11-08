@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1819 describes the necessary security capabilities of the network layer for edge computing for the IMT-2020/5G network. Edge computing for international mobile telecommunications (IMT-2020)/5G networks (IMT-2020/5G EC) will play a key role in low latency services and traffic offload services in next generations of international mobile telecommunication (IMT) networks. Several prominent factors could increase the complexity and enlarge the security risks to the network layer that supports IMT-2020/5G EC and even bring new security challenges to network security operation. These factors include the flexible network architectures of IMT-2020/5G, the variable deployment positions of EC, various application scenarios, different types of customers' private networks and access networks, etc. The boundaries between the telecommunication networks and the private networks would be more ambiguous, and the exposure surface would be expanded. Therefore, security requirements and measures of the network layer including telecommunication networks and private networks should be specified.\r\n\r\n"
+  content: "Recommendation ITU-T X.1819 describes the necessary security capabilities
+    of the network layer for edge computing for the IMT-2020/5G network. Edge computing
+    for international mobile telecommunications (IMT-2020)/5G networks (IMT-2020/5G
+    EC) will play a key role in low latency services and traffic offload services
+    in next generations of international mobile telecommunication (IMT) networks.
+    Several prominent factors could increase the complexity and enlarge the security
+    risks to the network layer that supports IMT-2020/5G EC and even bring new security
+    challenges to network security operation. These factors include the flexible network
+    architectures of IMT-2020/5G, the variable deployment positions of EC, various
+    application scenarios, different types of customers' private networks and access
+    networks, etc. The boundaries between the telecommunication networks and the private
+    networks would be more ambiguous, and the exposure surface would be expanded.
+    Therefore, security requirements and measures of the network layer including telecommunication
+    networks and private networks should be specified.\r\n\r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T Y.2701, Security requirements for NGN release 1, provides security requirements for next generation networks (NGNs) and its interfaces (e.g., UNIs, NNIs and ANIs). Recommendation ITU-T Y.2704 describes some security mechanisms that can be used to fulfil the requirements described in Recommendation ITU-T Y.2701 and specifies the suite of options for each selected mechanism. Specifically, this Recommendation describes identification, authentication and authorization mechanisms; then it discusses transport security for signalling and OAMP, and media security. It then describes audit-trail-related mechanisms and finally describes the provisioning. The security mechanisms described in this Recommendation are based on use of the trust model defined in Recommendation ITU-T Y.2701.The list of security mechanisms described in this Recommendation is not exhaustive. NGN providers are encouraged to support additional security tools, capabilities and operational measures as needed beyond the mechanisms specified in this Recommendation for NGN security protection.
+  content: Recommendation ITU-T Y.2701, Security requirements for NGN release 1, provides
+    security requirements for next generation networks (NGNs) and its interfaces (e.g.,
+    UNIs, NNIs and ANIs). Recommendation ITU-T Y.2704 describes some security mechanisms
+    that can be used to fulfil the requirements described in Recommendation ITU-T
+    Y.2701 and specifies the suite of options for each selected mechanism. Specifically,
+    this Recommendation describes identification, authentication and authorization
+    mechanisms; then it discusses transport security for signalling and OAMP, and
+    media security. It then describes audit-trail-related mechanisms and finally describes
+    the provisioning. The security mechanisms described in this Recommendation are
+    based on use of the trust model defined in Recommendation ITU-T Y.2701.The list
+    of security mechanisms described in this Recommendation is not exhaustive. NGN
+    providers are encouraged to support additional security tools, capabilities and
+    operational measures as needed beyond the mechanisms specified in this Recommendation
+    for NGN security protection.
 status:
   stage:
     content: Published
@@ -82,7 +95,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000 series – Supplement on service scenarios for convergence services in a multiple network and application service provider environment
+      content: ITU-T Y.2000 series – Supplement on service scenarios for convergence
+        services in a multiple network and application service provider environment
     docidentifier:
     - content: Y Suppl. 3 (01/2008)
       type: ITU
@@ -92,7 +106,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in next generation networks
+      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in
+        next generation networks
     docidentifier:
     - content: Y Suppl. 6 (09/2008)
       type: ITU
@@ -112,7 +127,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and consortia
+      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and
+        consortia
     docidentifier:
     - content: Y Suppl. 8 (01/2010)
       type: ITU
@@ -132,7 +148,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on distributed service network (DSN) use cases
+      content: ITU-T Y.2000-series – Supplement on distributed service network (DSN)
+        use cases
     docidentifier:
     - content: Y Suppl. 10 (01/2010)
       type: ITU
@@ -142,7 +159,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series - Supplement on scenarios for the evolution of NGN network capabilities to include information storage, processing and delivery
+      content: ITU-T Y.2000-series - Supplement on scenarios for the evolution of
+        NGN network capabilities to include information storage, processing and delivery
     docidentifier:
     - content: Y Suppl. 13 (01/2011)
       type: ITU
@@ -152,7 +170,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile convergence
+      content: ITU-T Y.2000-series – Supplementary service scenarios for fixed-mobile
+        convergence
     docidentifier:
     - content: Y Suppl. 14 (01/2011)
       type: ITU
@@ -162,7 +181,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Profile-based application adaptation service using next generation networks
+      content: ITU-T Y.2000-series – Profile-based application adaptation service
+        using next generation networks
     docidentifier:
     - content: Y Suppl. 15 (10/2011)
       type: ITU
@@ -172,7 +192,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2700-series - Supplement on next generation network certificate management
+      content: ITU-T Y.2700-series - Supplement on next generation network certificate
+        management
     docidentifier:
     - content: Y Suppl. 18 (06/2012)
       type: ITU
@@ -182,7 +203,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series - Supplement on N-screen service scenarios for fixed mobile convergence
+      content: ITU-T Y.2000-series - Supplement on N-screen service scenarios for
+        fixed mobile convergence
     docidentifier:
     - content: Y Suppl. 24 (11/2013)
       type: ITU
@@ -192,7 +214,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Device independent screen-free service models and scenarios
+      content: ITU-T Y.2000-series – Device independent screen-free service models
+        and scenarios
     docidentifier:
     - content: Y Suppl. 51 (11/2018)
       type: ITU
@@ -212,7 +235,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond standardization roadmap
+      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+        standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
       type: ITU
@@ -232,7 +256,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems and services"
+      content: " Web-based data model for Internet of things and smart city systems
+        and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -242,7 +267,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Standardization gaps and roadmap for artificial intelligence and Internet of things in digital agriculture
+      content: Standardization gaps and roadmap for artificial intelligence and Internet
+        of things in digital agriculture
     docidentifier:
     - content: Y Suppl. 82 (07/2024)
       type: ITU
@@ -252,7 +278,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Optimizing digital agriculture with best practices for integrating artificial intelligence and Internet of things
+      content: Optimizing digital agriculture with best practices for integrating
+        artificial intelligence and Internet of things
     docidentifier:
     - content: Y Suppl. 83 (07/2024)
       type: ITU

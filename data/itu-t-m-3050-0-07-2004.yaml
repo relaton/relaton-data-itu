@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recs M.3050.x series contain a reference framework for categorizing the business activities that a service provider will use. The Enhanced Telecom Operations Map(r) (or eTOM for short), which has been developed by the TeleManagement Forum, describes the enterprise processes required by a service provider and analyses them to different levels of detail according to their significance and priority for the business. This business process approach has built on the concepts of Management Services and Functions in order to develop a framework for categorizing all the business activities. This Recommendation (Introduction) gives the background to the development of the management services/functions approach and describes how the business processes approach relates to other Telecommunications Management Recommendations.
+  content: ITU-T Recs M.3050.x series contain a reference framework for categorizing
+    the business activities that a service provider will use. The Enhanced Telecom
+    Operations Map(r) (or eTOM for short), which has been developed by the TeleManagement
+    Forum, describes the enterprise processes required by a service provider and analyses
+    them to different levels of detail according to their significance and priority
+    for the business. This business process approach has built on the concepts of
+    Management Services and Functions in order to develop a framework for categorizing
+    all the business activities. This Recommendation (Introduction) gives the background
+    to the development of the management services/functions approach and describes
+    how the business processes approach relates to other Telecommunications Management
+    Recommendations.
 status:
   stage:
     content: Withdrawal
@@ -82,7 +92,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Enhanced Telecom Operations Map (eTOM) – Interim view of an interpreter's guide for eTOM and ITIL practitioners
+      content: Enhanced Telecom Operations Map (eTOM) – Interim view of an interpreter's
+        guide for eTOM and ITIL practitioners
     docidentifier:
     - content: M.3050 Suppl. 1 (02/2007)
       type: ITU
@@ -92,7 +103,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Enhanced Telecom Operations Map (eTOM) – Public B2B Business Operations Map (BOM)
+      content: Enhanced Telecom Operations Map (eTOM) – Public B2B Business Operations
+        Map (BOM)
     docidentifier:
     - content: M.3050 Suppl. 2 (02/2007)
       type: ITU

@@ -55,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: CCITT Rec. X.722 | ISO/IEC 10165-4 provides developers of Recommendations | International Standards, that contain managed object definitions, with guidance that will:a) encourage consistency between managed object definitions;b) ensure the developement of such definitions in a manner compatible with the OSI management of Recommendations | International Standards;c) reduce duplication of effort in other working groups by identifying commonly useful documentation layouts, procedures and definitions.This technical corrigendum revises the text to include ASN.1:1997 in clauses 2.1 and 2.2.
+  content: CCITT Rec. X.722 | ISO/IEC 10165-4 provides developers of Recommendations
+    | International Standards, that contain managed object definitions, with guidance
+    that will:a) encourage consistency between managed object definitions;b) ensure
+    the developement of such definitions in a manner compatible with the OSI management
+    of Recommendations | International Standards;c) reduce duplication of effort in
+    other working groups by identifying commonly useful documentation layouts, procedures
+    and definitions.This technical corrigendum revises the text to include ASN.1:1997
+    in clauses 2.1 and 2.2.
 status:
   stage:
     content: Published
@@ -75,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the use of Z in formalizing the behaviour of managed objects
+      content: Guidelines for the use of Z in formalizing the behaviour of managed
+        objects
     docidentifier:
     - content: X.722 (1992) Amd. 3 (08/1997)
       type: ITU
@@ -113,7 +121,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Structure of management information: Guidelines for the definition of managed objects'
+      content: 'Information technology – Open Systems Interconnection – Structure
+        of management information: Guidelines for the definition of managed objects'
     docidentifier:
     - content: X.722 (01/1992)
       type: ITU

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Security architecture of data sharing management based on the distributed ledger technology
+  content: Security architecture of data sharing management based on the distributed
+    ledger technology
   type: main
 source:
 - type: src
@@ -52,7 +53,22 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1410 specifies a security architecture of data-sharing management based on distributed ledger technologies (DLTs). Based on the architecture, this Recommendation specifies the interfaces between the functional entities and the procedures of data-sharing management based on DLT. Distributed ledger technology is transforming the industries with innovative solutions and changing the way governments, institutions and businesses operate. It provides a solution for securely replicating, sharing and synchronizing data across a distributed computer network, considering its decentralization and tamper-proof features. Current approaches for sharing business data and personally identifiable information (PII) data with companies and digital platforms have led to privacy vulnerabilities from hacks or poor data management. Adopting DLT or blockchain in data-sharing management allows individuals or companies to maintain more direct control over their own confidential information. In the DLT-based solution, only non-PII data, e.g., hashed data values, are stored in the on-chain. PII data about a data owner are stored in the off-chain. A DLT-based solution provides a way that improves the traceability, verifiability and changeability of status of data.
+  content: Recommendation ITU-T X.1410 specifies a security architecture of data-sharing
+    management based on distributed ledger technologies (DLTs). Based on the architecture,
+    this Recommendation specifies the interfaces between the functional entities and
+    the procedures of data-sharing management based on DLT. Distributed ledger technology
+    is transforming the industries with innovative solutions and changing the way
+    governments, institutions and businesses operate. It provides a solution for securely
+    replicating, sharing and synchronizing data across a distributed computer network,
+    considering its decentralization and tamper-proof features. Current approaches
+    for sharing business data and personally identifiable information (PII) data with
+    companies and digital platforms have led to privacy vulnerabilities from hacks
+    or poor data management. Adopting DLT or blockchain in data-sharing management
+    allows individuals or companies to maintain more direct control over their own
+    confidential information. In the DLT-based solution, only non-PII data, e.g.,
+    hashed data values, are stored in the on-chain. PII data about a data owner are
+    stored in the off-chain. A DLT-based solution provides a way that improves the
+    traceability, verifiability and changeability of status of data.
 status:
   stage:
     content: Published

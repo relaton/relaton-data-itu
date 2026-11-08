@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines parameters for assessing the accuracy and dependability performance of call processing in an Integrated Services Digital Network (ISDN) provided in accordance with Recommendations identified herein. The defined parameters apply to ISDN services using a single B-channel and associated D-channel; planned revisions to this Recommendation will address other ISDN bearer services (e.g. n ? 64 kbit/s and primary rate connection types).
+  content: This Recommendation defines parameters for assessing the accuracy and dependability
+    performance of call processing in an Integrated Services Digital Network (ISDN)
+    provided in accordance with Recommendations identified herein. The defined parameters
+    apply to ISDN services using a single B-channel and associated D-channel; planned
+    revisions to this Recommendation will address other ISDN bearer services (e.g.
+    n ? 64 kbit/s and primary rate connection types).
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

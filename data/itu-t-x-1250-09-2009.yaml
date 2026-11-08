@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1250 describes baseline capabilities for global identity management (IdM) interoperability (i.e., to enhance exchange and trust in the identifiers used by entities in telecommunication/information technology IT networks and services). The definitions and need for IdM are highly context-dependent and often subject to very different policies and practices in different countries. The capabilities include the protection and control of personally identifiable information (PII).
+  content: Recommendation ITU-T X.1250 describes baseline capabilities for global
+    identity management (IdM) interoperability (i.e., to enhance exchange and trust
+    in the identifiers used by entities in telecommunication/information technology
+    IT networks and services). The definitions and need for IdM are highly context-dependent
+    and often subject to very different policies and practices in different countries.
+    The capabilities include the protection and control of personally identifiable
+    information (PII).
 status:
   stage:
     content: Withdrawal
@@ -82,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1250 series – Supplement on overview of identity management in the context of cybersecurity
+      content: ITU-T X.1250 series – Supplement on overview of identity management
+        in the context of cybersecurity
     docidentifier:
     - content: X Suppl. 7 (02/2009)
       type: ITU

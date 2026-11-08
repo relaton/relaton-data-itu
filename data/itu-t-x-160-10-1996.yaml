@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines an architectural framework for a service to provide customers of network services with management capabilities. It also refers to Recommendations which directly relate to provision of the service. The service is called the Customer Network Management (CNM). It allows customers and service providers to interact by electronic means, for the transfer of management information relating to public data network services being used by a customer. Customer Network Management addresses the requirement for efficient and effective interaction between customers and service providers. A consistent reference point is provided regardless of network services being managed.
+  content: This Recommendation defines an architectural framework for a service to
+    provide customers of network services with management capabilities. It also refers
+    to Recommendations which directly relate to provision of the service. The service
+    is called the Customer Network Management (CNM). It allows customers and service
+    providers to interact by electronic means, for the transfer of management information
+    relating to public data network services being used by a customer. Customer Network
+    Management addresses the requirement for efficient and effective interaction between
+    customers and service providers. A consistent reference point is provided regardless
+    of network services being managed.
 status:
   stage:
     content: Published
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Architecture for customer network management service for public data networks
+      content: Architecture for customer network management service for public data
+        networks
     docidentifier:
     - content: X.160 (07/1994)
       type: ITU

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Amendment defines the introduction of new optional signals into G4 Facsimile. These signals are SUB (Subaddress), SEP (Selective Polling), PWD (Password), SID (Sender ID), PSA (Polled Subaddress) and FNV (Field Not Valid) defined in Recommendation T.30 as signals of G3 Facsimile.For introducing these signals, similar optional service as G3 Facsimile can be used on G4 Facsimile in common.
+  content: This Amendment defines the introduction of new optional signals into G4
+    Facsimile. These signals are SUB (Subaddress), SEP (Selective Polling), PWD (Password),
+    SID (Sender ID), PSA (Polled Subaddress) and FNV (Field Not Valid) defined in
+    Recommendation T.30 as signals of G3 Facsimile.For introducing these signals,
+    similar optional service as G3 Facsimile can be used on G4 Facsimile in common.
 status:
   stage:
     content: Published

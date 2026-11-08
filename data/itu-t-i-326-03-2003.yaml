@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the functional architecture of the ATM transport assembly using the transport functional architecture defined in ITU-T Rec. G.805. The ATM transport assembly consists of the VC layer network, the VC to VP adaptation, the VP layer network and the VP to Transmission path adaptation. The features described in the I-series Recommendations that are relevant to ATM transport networks are described in this Recommendation. Annex A describes the correspondence between the terms used in ITU-T Recs I.326 and I.311.
+  content: This Recommendation describes the functional architecture of the ATM transport
+    assembly using the transport functional architecture defined in ITU-T Rec. G.805.
+    The ATM transport assembly consists of the VC layer network, the VC to VP adaptation,
+    the VP layer network and the VP to Transmission path adaptation. The features
+    described in the I-series Recommendations that are relevant to ATM transport networks
+    are described in this Recommendation. Annex A describes the correspondence between
+    the terms used in ITU-T Recs I.326 and I.311.
 status:
   stage:
     content: Published
@@ -82,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

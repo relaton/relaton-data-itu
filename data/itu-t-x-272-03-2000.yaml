@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines Data Compression and Privacy Service for Frame Relay networks. The presence of a data compression service in a network will increase the effective throughput of the network.On the other hand, the increasing demand for transmitting sensitive data across public networks requires facilities for ensuring the privacy of the data. In order to achieve optimum compression ratios, it is essential to compress the data before encrypting it. Hence, it is desirable to provide facilities in the specification of the data compression service to negotiate data encryption protocols as well. Since the task of compressing and then encrypting the data is computational intensive, efficiency is achieved through providing simultaneous data compression and encryption (secure data compression).
+  content: This Recommendation defines Data Compression and Privacy Service for Frame
+    Relay networks. The presence of a data compression service in a network will increase
+    the effective throughput of the network.On the other hand, the increasing demand
+    for transmitting sensitive data across public networks requires facilities for
+    ensuring the privacy of the data. In order to achieve optimum compression ratios,
+    it is essential to compress the data before encrypting it. Hence, it is desirable
+    to provide facilities in the specification of the data compression service to
+    negotiate data encryption protocols as well. Since the task of compressing and
+    then encrypting the data is computational intensive, efficiency is achieved through
+    providing simultaneous data compression and encryption (secure data compression).
 status:
   stage:
     content: Published

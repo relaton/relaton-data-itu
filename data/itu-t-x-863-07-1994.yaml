@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Distributed Transaction Processing: Protocol Implementation Conformance Statement (PICS) proforma'
+  content: 'Information technology – Open Systems Interconnection – Distributed Transaction
+    Processing: Protocol Implementation Conformance Statement (PICS) proforma'
   type: main
 source:
 - type: src
@@ -55,7 +56,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes the protocol implementation conformance statement for the OSI transaction processing protocol (see Recommendation X.862). The PICS present, in tabular form, the mandatory and optional elements of the TP protocol. The PICS are utilized to represent the choices and features of a particular implementation of OSI TP.
+  content: This Recommendation | International Standard describes the protocol implementation
+    conformance statement for the OSI transaction processing protocol (see Recommendation
+    X.862). The PICS present, in tabular form, the mandatory and optional elements
+    of the TP protocol. The PICS are utilized to represent the choices and features
+    of a particular implementation of OSI TP.
 status:
   stage:
     content: Published

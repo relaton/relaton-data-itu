@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 58 to the ITU-T Y-series presents the Joint Coordination Activity on Internet of Things and Smart Cities and Communities (JCA-IoT and SC&C) roadmap, which contains a collection of standards and ITU-T Recommendations related to Internet of things (IoT), smart cities and communities (SC&C), network aspects of identification systems, including RFID (NID) and ubiquitous sensor networks (USNs).
+  content: Supplement 58 to the ITU-T Y-series presents the Joint Coordination Activity
+    on Internet of Things and Smart Cities and Communities (JCA-IoT and SC&C) roadmap,
+    which contains a collection of standards and ITU-T Recommendations related to
+    Internet of things (IoT), smart cities and communities (SC&C), network aspects
+    of identification systems, including RFID (NID) and ubiquitous sensor networks
+    (USNs).
 status:
   stage:
     content: Withdrawal
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Global standards landscape for Internet of things, digital twins and smart sustainable cities and communities
+      content: Global standards landscape for Internet of things, digital twins and
+        smart sustainable cities and communities
     docidentifier:
     - content: Y Suppl. 58 (09/2025)
       type: ITU

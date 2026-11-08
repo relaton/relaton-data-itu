@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1817 provides the security requirements for 5G message service, including access security requirements, management security requirements and control security requirements for 5G message service.\n"
+  content: 'Recommendation ITU-T X.1817 provides the security requirements for 5G
+    message service, including access security requirements, management security requirements
+    and control security requirements for 5G message service.
+
+    '
 status:
   stage:
     content: Published

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the procedures to be applied to allow Group 3 facsimile transmission between terminals where in addition to the PSTN or ISDN a portion of the transmission path used between terminals includes an IP network, e.g., the Internet.This revision of ITU-T Recommendation T.38 clarifies H.323, H.248.1, SIP and SDP call establishment and improves the compatibility between T.38 gateways and Group 3 facsimile.
+  content: This Recommendation defines the procedures to be applied to allow Group
+    3 facsimile transmission between terminals where in addition to the PSTN or ISDN
+    a portion of the transmission path used between terminals includes an IP network,
+    e.g., the Internet.This revision of ITU-T Recommendation T.38 clarifies H.323,
+    H.248.1, SIP and SDP call establishment and improves the compatibility between
+    T.38 gateways and Group 3 facsimile.
 status:
   stage:
     content: Withdrawal
@@ -120,7 +125,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Addition of vendor information in SIP/SDP call setup, corrections to Annex C and Annex D, and enhanced implementation guidelines
+      content: Addition of vendor information in SIP/SDP call setup, corrections to
+        Annex C and Annex D, and enhanced implementation guidelines
     docidentifier:
     - content: T.38 (2004) Amd. 1 (01/2005)
       type: ITU
@@ -188,7 +194,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Clarification on use of T.30 Indicator and TCP start-up, update of Table 2, deletion of ASN.1 in Annex B
+      content: Clarification on use of T.30 Indicator and TCP start-up, update of
+        Table 2, deletion of ASN.1 in Annex B
     docidentifier:
     - content: T.38 (1998) Amd. 4 (07/2001)
       type: ITU
@@ -198,7 +205,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Clarification of protocol version numbers, support for TPKT headers and transmission of DTMF over RTP, and updated support for Internet-Aware Fax devices and H.248.2
+      content: Clarification of protocol version numbers, support for TPKT headers
+        and transmission of DTMF over RTP, and updated support for Internet-Aware
+        Fax devices and H.248.2
     docidentifier:
     - content: T.38 (1998) Amd. 3 (11/2000)
       type: ITU
@@ -216,7 +225,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annexes D (SIP/SDP Call Establishment Procedures) and E (H.248 call establishment procedures)
+      content: New Annexes D (SIP/SDP Call Establishment Procedures) and E (H.248
+        call establishment procedures)
     docidentifier:
     - content: T.38 (1998) Amd. 2 (02/2000)
       type: ITU
@@ -226,7 +236,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Revised Annex B on establishment procedures for facsimile communication over IP networks
+      content: Revised Annex B on establishment procedures for facsimile communication
+        over IP networks
     docidentifier:
     - content: T.38 (1998) Amd. 1 (04/1999)
       type: ITU

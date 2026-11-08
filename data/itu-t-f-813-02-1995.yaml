@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines stage one of the broadband virtual path service for reserved and permanent communications (BVPS) for the public broadband integrated services digital network (B-ISDN).This Recommendation does not specify the additional requirements where the service is provided to the user via a telecommunication network that is not the B-ISDN, but does not preclude requirements for interworking between other networks and the B-ISDN.The BVPS allows the transfer of unrestricted information between user-to-network reference points (UNRPs).
+  content: This Recommendation defines stage one of the broadband virtual path service
+    for reserved and permanent communications (BVPS) for the public broadband integrated
+    services digital network (B-ISDN).This Recommendation does not specify the additional
+    requirements where the service is provided to the user via a telecommunication
+    network that is not the B-ISDN, but does not preclude requirements for interworking
+    between other networks and the B-ISDN.The BVPS allows the transfer of unrestricted
+    information between user-to-network reference points (UNRPs).
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +130,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

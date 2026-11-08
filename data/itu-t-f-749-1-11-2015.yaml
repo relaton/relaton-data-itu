@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Vehicle gateway (VG) is a device in a vehicle that enables communications between a device in the vehicle and another device which may be physically located either inside the vehicle or outside the vehicle.\r\n\r\nThis Recommendation describes functional requirements for vehicle gateway, including transport functional requirements, networking functional requirements, network access functional requirements, communication-with-in-vehicle devices functional requirements, and network access management & security functional requirements. It also describes the network protocols and communications interfaces to support the seamless wired and wireless connectivity in the heterogeneous access network environments. \r\n\r\nThis Recommendation specifies functional requirements for VG supporting a variety of existing and new access technologies. VG is to a large extent independent from specific communication technologies and specific ITS applications. The VG architecture is intended to be an open architecture, which is easy for a manufacturer to implement, test, and select an appropriate communications type according to its own requirements and network conditions. "
+  content: "Vehicle gateway (VG) is a device in a vehicle that enables communications
+    between a device in the vehicle and another device which may be physically located
+    either inside the vehicle or outside the vehicle.\r\n\r\nThis Recommendation describes
+    functional requirements for vehicle gateway, including transport functional requirements,
+    networking functional requirements, network access functional requirements, communication-with-in-vehicle
+    devices functional requirements, and network access management & security functional
+    requirements. It also describes the network protocols and communications interfaces
+    to support the seamless wired and wireless connectivity in the heterogeneous access
+    network environments. \r\n\r\nThis Recommendation specifies functional requirements
+    for VG supporting a variety of existing and new access technologies. VG is to
+    a large extent independent from specific communication technologies and specific
+    ITS applications. The VG architecture is intended to be an open architecture,
+    which is easy for a manufacturer to implement, test, and select an appropriate
+    communications type according to its own requirements and network conditions. "
 status:
   stage:
     content: Published
@@ -72,7 +85,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +126,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +137,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

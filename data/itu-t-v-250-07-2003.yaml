@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This version of ITU-T Rec. V.250 integrates Amendment 1 (07/2001), Amendment 2 (03/2002) and Amendment 3 (07/2003) with the 05/1999 version of the Recommendation.This Recommendation defines commands and responses for use by a DTE to control a V-series DCE using serial data interchange over an asynchronous interface. It contains four elements:- codifies existing practice in common GSTN-DCE that use the ATtention (AT) command set;- defines a format for orderly extension of the AT command set;- provides a set for standardized extensions for common functions to identify the DCE, to control the DTE-DCE interface, and to control DCE-DCE protocols (signal conversion, error control and data compression);- provides a mapping for these commands into V.25 bis frame format for use with DCEs employing synchronous serial interfaces.
+  content: This version of ITU-T Rec. V.250 integrates Amendment 1 (07/2001), Amendment
+    2 (03/2002) and Amendment 3 (07/2003) with the 05/1999 version of the Recommendation.This
+    Recommendation defines commands and responses for use by a DTE to control a V-series
+    DCE using serial data interchange over an asynchronous interface. It contains
+    four elements:- codifies existing practice in common GSTN-DCE that use the ATtention
+    (AT) command set;- defines a format for orderly extension of the AT command set;-
+    provides a set for standardized extensions for common functions to identify the
+    DCE, to control the DTE-DCE interface, and to control DCE-DCE protocols (signal
+    conversion, error control and data compression);- provides a mapping for these
+    commands into V.25 bis frame format for use with DCEs employing synchronous serial
+    interfaces.
 status:
   stage:
     content: Published
@@ -90,7 +100,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Support of V.44, V.90, V.91 and V.92 and improved support for mode selection
+      content: Support of V.44, V.90, V.91 and V.92 and improved support for mode
+        selection
     docidentifier:
     - content: V.250 (1999) Amd. 1 (07/2001)
       type: ITU

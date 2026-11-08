@@ -55,7 +55,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard specifies two sets of binary encoding rules that can be applied to values of all ASN.1 types using less processing resources than the Basic Encoding Rules and its derivatives (described in Rec. ITUT X.690 | ISO/IEC 8825-1) and the Packed Encoding Rules (described in Rec. ITU-T X.691 | ISO/IEC 88252).
+  content: "This Recommendation | International Standard specifies two sets of binary
+    encoding rules that can be applied to values of all ASN.1 types using less processing
+    resources than the Basic Encoding Rules and its derivatives (described in Rec. ITU\x1ET X.690
+    | ISO/IEC 8825-1) and the Packed Encoding Rules (described in Rec. ITU-T X.691
+    | ISO/IEC 8825\x1E2)."
 status:
   stage:
     content: Withdrawal
@@ -75,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: Specification of Octet Encoding Rules (OER)'
+      content: 'Information technology - ASN.1 encoding rules: Specification of Octet
+        Encoding Rules (OER)'
     docidentifier:
     - content: X.696 (02/2021)
       type: ITU
@@ -109,7 +114,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: Specification of Octet Encoding Rules (OER)'
+      content: 'Information technology - ASN.1 encoding rules: Specification of Octet
+        Encoding Rules (OER)'
     docidentifier:
     - content: X.696 (08/2015)
       type: ITU

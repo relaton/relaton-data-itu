@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes metadata for intelligent question answering service framework [ITU-T F.746.3]. This Recommendation defines metadata and service flow for different functions to support the intelligent question answering service, which provides advanced functions to generate answers for the user's question in a natural language. The scope of this Recommendation is focused on describing metadata for natural language processing function, question analysis function, candidate answer generation function, answer inference/generation function, and input and output function. This Recommendation also describes the general information flows to describe how the metadata are used in the intelligent QA service.
+  content: This Recommendation describes metadata for intelligent question answering
+    service framework [ITU-T F.746.3]. This Recommendation defines metadata and service
+    flow for different functions to support the intelligent question answering service,
+    which provides advanced functions to generate answers for the user's question
+    in a natural language. The scope of this Recommendation is focused on describing
+    metadata for natural language processing function, question analysis function,
+    candidate answer generation function, answer inference/generation function, and
+    input and output function. This Recommendation also describes the general information
+    flows to describe how the metadata are used in the intelligent QA service.
 status:
   stage:
     content: Published
@@ -72,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +121,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +132,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

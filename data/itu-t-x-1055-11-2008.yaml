@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1055 describes and recommends the processes, techniques and functional profiles for information security risk management for telecommunication to support Recommendation ITU-T X.1051 | ISO/IEC 27011 and other ITU-T Recommendations. These processes and techniques can be used to assess security requirements and risks identified in telecommunication, and help to select, implement and maintain/update appropriate information security risk controls, i.e., the correct information security level. There are many specific methodologies that have been developed to address the requirements for risk management. This Recommendation provides the criteria for assessing and selecting appropriate methodologies for a telecommunication organization. However, this does not aim to propose a specific risk management methodology for telecommunication. In addition, this Recommendation provides several risk profiles both in terms of ITU-T X.1051 management areas as well as telecom specific services areas.
+  content: Recommendation ITU-T X.1055 describes and recommends the processes, techniques
+    and functional profiles for information security risk management for telecommunication
+    to support Recommendation ITU-T X.1051 | ISO/IEC 27011 and other ITU-T Recommendations.
+    These processes and techniques can be used to assess security requirements and
+    risks identified in telecommunication, and help to select, implement and maintain/update
+    appropriate information security risk controls, i.e., the correct information
+    security level. There are many specific methodologies that have been developed
+    to address the requirements for risk management. This Recommendation provides
+    the criteria for assessing and selecting appropriate methodologies for a telecommunication
+    organization. However, this does not aim to propose a specific risk management
+    methodology for telecommunication. In addition, this Recommendation provides several
+    risk profiles both in terms of ITU-T X.1051 management areas as well as telecom
+    specific services areas.
 status:
   stage:
     content: Published

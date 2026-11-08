@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Connection establishment and disengagement performance parameters for public Frame Relay data networks providing SVC services
+  content: Connection establishment and disengagement performance parameters for public
+    Frame Relay data networks providing SVC services
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines performance parameters for quantifying the connection establishment and disengagement performance of a frame relay Switched Virtual Connection (SVC) service. These include call control delay and accuracy and dependability parameters. The defined parameters are used in combination with the user information transfer performance parameters defined in ITU-T Rec. X.144 to fully quantify SVC service performance.This revision was undertaken to take account of the development of ITU-T Rec. X.147 which specifies network availability objective values together with techniques for assessing frame relay network availability. Information previously pertaining to SVC availability has been moved to ITU-T Rec. X.147.
+  content: This Recommendation defines performance parameters for quantifying the
+    connection establishment and disengagement performance of a frame relay Switched
+    Virtual Connection (SVC) service. These include call control delay and accuracy
+    and dependability parameters. The defined parameters are used in combination with
+    the user information transfer performance parameters defined in ITU-T Rec. X.144
+    to fully quantify SVC service performance.This revision was undertaken to take
+    account of the development of ITU-T Rec. X.147 which specifies network availability
+    objective values together with techniques for assessing frame relay network availability.
+    Information previously pertaining to SVC availability has been moved to ITU-T
+    Rec. X.147.
 status:
   stage:
     content: Published
@@ -80,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Performance for data networks providing international frame relay SVC service
+      content: Performance for data networks providing international frame relay SVC
+        service
     docidentifier:
     - content: X.145 (10/1996)
       type: ITU

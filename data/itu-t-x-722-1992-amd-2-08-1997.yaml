@@ -55,7 +55,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Amendment to CCITT Rec. X.722 | ISO/IEC 10165-4, the Guidelines for Definition of Managed Objects, covers two topics.One topic of the amendment is the specification of a NO-MODIFY syntax element to the GDMO Package Templates.The other topic of the amendment is a guidelines extension which describes rules for specifications of management information based on the X.700-Series to evolve to the use of ASN.1:1994 from ASN.1:1990. The guidelines extension provides a common and consistent means to do this, so that product developers are provided with a single way to specify use of ASN.1:1994 in the Recommendations they implement.
+  content: This Amendment to CCITT Rec. X.722 | ISO/IEC 10165-4, the Guidelines for
+    Definition of Managed Objects, covers two topics.One topic of the amendment is
+    the specification of a NO-MODIFY syntax element to the GDMO Package Templates.The
+    other topic of the amendment is a guidelines extension which describes rules for
+    specifications of management information based on the X.700-Series to evolve to
+    the use of ASN.1:1994 from ASN.1:1990. The guidelines extension provides a common
+    and consistent means to do this, so that product developers are provided with
+    a single way to specify use of ASN.1:1994 in the Recommendations they implement.
 status:
   stage:
     content: Published
@@ -85,7 +92,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Guidelines for the use of Z in formalizing the behaviour of managed objects
+      content: Guidelines for the use of Z in formalizing the behaviour of managed
+        objects
     docidentifier:
     - content: X.722 (1992) Amd. 3 (08/1997)
       type: ITU
@@ -113,7 +121,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Structure of management information: Guidelines for the definition of managed objects'
+      content: 'Information technology – Open Systems Interconnection – Structure
+        of management information: Guidelines for the definition of managed objects'
     docidentifier:
     - content: X.722 (01/1992)
       type: ITU

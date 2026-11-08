@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T G.8011.4/Y.1307.4 defines the service attributes and parameters for carrying Ethernet characteristic information over dedicated-bandwidth or shared-bandwidth, rooted multipoint connections, provided by synchronous digital hierarchy (SDH), plesiochronous digital hierarchy (PDH), asynchronous transfer mode (ATM), multi-protocol label switching (MPLS), optical transport hierarchy (OTH), Ethernet PHY layer network (ETY) or Ethernet MAC layer network (ETH) server layer networks. This type of service is referred to as Ethernet private tree (EPTree) and Ethernet virtual private tree services. This Recommendation is based on the Ethernet service framework as defined in Recommendation ITU-T G.8011/Y.1307.
+  content: "Recommendation ITU-T G.8011.4/Y.1307.4 defines the service attributes
+    and parameters for carrying Ethernet characteristic information over dedicated-bandwidth
+    or shared-bandwidth, rooted multipoint connections, provided by synchronous digital
+    hierarchy (SDH), plesiochronous digital hierarchy (PDH), asynchronous transfer
+    mode (ATM), multi-protocol label switching (MPLS), optical transport hierarchy
+    (OTH), Ethernet PHY layer network (ETY) or Ethernet MAC layer network (ETH) server
+    layer networks. This type of service is referred to as Ethernet private tree (EP\x1ETree)
+    and Ethernet virtual private tree services. This Recommendation is based on the
+    Ethernet service framework as defined in Recommendation ITU-T G.8011/Y.1307."
 status:
   stage:
     content: Withdrawal

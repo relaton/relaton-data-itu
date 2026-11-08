@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Recommendation describes the functional requirements and configurations across interfaces for interworking between Frame Relaying Bearer Services (FRBS) and other services. The interworking arrangements covered in this Recommendation are: interworking between Frame Relaying and Frame Switching bearer services; interworking between FRBS and Recommendation X.25/X.31; interworking/interconnection of LANs and FRBS; interworking between FRBS and circuit-switched services; and interworking between FRBS and B-ISDN.'
+  content: 'This Recommendation describes the functional requirements and configurations
+    across interfaces for interworking between Frame Relaying Bearer Services (FRBS)
+    and other services. The interworking arrangements covered in this Recommendation
+    are: interworking between Frame Relaying and Frame Switching bearer services;
+    interworking between FRBS and Recommendation X.25/X.31; interworking/interconnection
+    of LANs and FRBS; interworking between FRBS and circuit-switched services; and
+    interworking between FRBS and B-ISDN.'
 status:
   stage:
     content: Published
@@ -82,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

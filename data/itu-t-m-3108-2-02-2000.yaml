@@ -5,7 +5,9 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'TMN management services for dedicated and reconfigurable circuits network : Information model for connection management of preprovisioned service link connections to form a reconfigurable leased service'
+  content: 'TMN management services for dedicated and reconfigurable circuits network
+    : Information model for connection management of preprovisioned service link connections
+    to form a reconfigurable leased service'
   type: main
 source:
 - type: src
@@ -52,7 +54,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This ITU-T Recommendation is one of the series of M.3100-M.3200 TMN management service Recommendations. Specifically, it provides a GDMO-based information model to support the real time management of preprovisioned leased circuit services as specified in ITU-T Recommendation M.3208.2. The model enables service customers to request, via a service layer X interface, the interconnect of preprovisioned service link connections to form a leased circuit service.Also included in this ITU-T Recommendation are Unified Modelling Language diagrams describing selected aspects of the model and selected management functions and processes.
+  content: This ITU-T Recommendation is one of the series of M.3100-M.3200 TMN management
+    service Recommendations. Specifically, it provides a GDMO-based information model
+    to support the real time management of preprovisioned leased circuit services
+    as specified in ITU-T Recommendation M.3208.2. The model enables service customers
+    to request, via a service layer X interface, the interconnect of preprovisioned
+    service link connections to form a leased circuit service.Also included in this
+    ITU-T Recommendation are Unified Modelling Language diagrams describing selected
+    aspects of the model and selected management functions and processes.
 status:
   stage:
     content: Published

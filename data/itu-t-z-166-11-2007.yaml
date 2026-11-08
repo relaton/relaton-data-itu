@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+  content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+    (TCI)'
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation Z.166 specifies the control interfaces for TTCN-3 test system implementations. The TTCN-3 Control Interfaces provide a standardized adaptation for management, test component handling and encoding/decoding of a test system to a particular test platform. This Recommendation defines the interfaces as a set of operations independent of a target language.The interfaces are defined to be compatible with the TTCN-3 standards (see clause 2). The interface definition uses the CORBA Interface Definition Language (IDL) to specify the TCI completely. Clauses 8 and 9 present language mappings for this abstract specification to the target languages Java and ANSI C. A summary of the IDL-based interface specification is provided in Annex A.
+  content: ITU-T Recommendation Z.166 specifies the control interfaces for TTCN-3
+    test system implementations. The TTCN-3 Control Interfaces provide a standardized
+    adaptation for management, test component handling and encoding/decoding of a
+    test system to a particular test platform. This Recommendation defines the interfaces
+    as a set of operations independent of a target language.The interfaces are defined
+    to be compatible with the TTCN-3 standards (see clause 2). The interface definition
+    uses the CORBA Interface Definition Language (IDL) to specify the TCI completely.
+    Clauses 8 and 9 present language mappings for this abstract specification to the
+    target languages Java and ANSI C. A summary of the IDL-based interface specification
+    is provided in Annex A.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (10/2023)
       type: ITU
@@ -82,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (10/2022)
       type: ITU
@@ -92,7 +104,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (10/2020)
       type: ITU
@@ -102,7 +115,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (10/2019)
       type: ITU
@@ -112,7 +126,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (10/2018)
       type: ITU
@@ -122,7 +137,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (10/2017)
       type: ITU
@@ -132,7 +148,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (10/2016)
       type: ITU
@@ -142,7 +159,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (10/2015)
       type: ITU
@@ -152,7 +170,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (11/2014)
       type: ITU
@@ -162,7 +181,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (07/2013)
       type: ITU
@@ -172,7 +192,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (05/2012)
       type: ITU
@@ -182,7 +203,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 control interface
+        (TCI)'
     docidentifier:
     - content: Z.166 (03/2011)
       type: ITU
@@ -192,7 +214,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3 (TTCN-3): Control interface (TCI)'
+      content: 'Testing and Test Control Notation version 3 (TTCN-3): Control interface
+        (TCI)'
     docidentifier:
     - content: Z.145 (03/2006)
       type: ITU
@@ -202,7 +225,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

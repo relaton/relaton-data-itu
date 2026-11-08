@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Biometric technology in mobile devices is frequently used in various areas that require a high level of reliability, such as a smart car, e-banking, e-payment, telemedicine and e-healthcare services. In particular, it is necessary to implement countermeasures, which can pre-emptively cope with fake physiological biometrics to ensure mobile telebiometric data security, to presentation attacks. Recommendation ITU-T X.1094 specifies new secure and strong telebiometric authentication methods using biosignals.
+  content: Biometric technology in mobile devices is frequently used in various areas
+    that require a high level of reliability, such as a smart car, e-banking, e-payment,
+    telemedicine and e-healthcare services. In particular, it is necessary to implement
+    countermeasures, which can pre-emptively cope with fake physiological biometrics
+    to ensure mobile telebiometric data security, to presentation attacks. Recommendation
+    ITU-T X.1094 specifies new secure and strong telebiometric authentication methods
+    using biosignals.
 status:
   stage:
     content: Published

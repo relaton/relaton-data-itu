@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: An electricity supply voltage classified as extra-low voltage (ELV) has a low probability of causing a hazardous electrical shock. It is important to realise that the actual ELV value is not absolute but depends on the electrical shock event circumstances. Supplement 28 to ITU-T K-series Recommendations covers established definitions, insulation types, equipment classes, electric shock physical reaction levels, electric shock event factors and circuit configuration examples.
+  content: An electricity supply voltage classified as extra-low voltage (ELV) has
+    a low probability of causing a hazardous electrical shock. It is important to
+    realise that the actual ELV value is not absolute but depends on the electrical
+    shock event circumstances. Supplement 28 to ITU-T K-series Recommendations covers
+    established definitions, insulation types, equipment classes, electric shock physical
+    reaction levels, electric shock event factors and circuit configuration examples.
 status:
   stage:
     content: Published

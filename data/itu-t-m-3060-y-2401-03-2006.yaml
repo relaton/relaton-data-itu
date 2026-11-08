@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation presents the management requirements, general principles and architectural requirements for managing Next Generation Networks (NGN) to support business processes to plan, provision, install, maintain, operate and administer NGN resources and services.This Recommendation defines concepts of the Next Generation Networks Management (NGNM) architecture, i.e., its business process view, functional view, information view, and physical views; and their fundamental elements.This Recommendation also describes the relationships among the architectural views and provides a framework to derive the requirements for the specification of management physical views from the management functional and information views. A logical reference model for partitioning of management functionality, the Logical Layered Architecture (LLA), is also provided.
+  content: This Recommendation presents the management requirements, general principles
+    and architectural requirements for managing Next Generation Networks (NGN) to
+    support business processes to plan, provision, install, maintain, operate and
+    administer NGN resources and services.This Recommendation defines concepts of
+    the Next Generation Networks Management (NGNM) architecture, i.e., its business
+    process view, functional view, information view, and physical views; and their
+    fundamental elements.This Recommendation also describes the relationships among
+    the architectural views and provides a framework to derive the requirements for
+    the specification of management physical views from the management functional
+    and information views. A logical reference model for partitioning of management
+    functionality, the Logical Layered Architecture (LLA), is also provided.
 status:
   stage:
     content: Published

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Use of service providers' user authentication infrastructure to implement public key infrastructure for peer-to-peer networks
+  content: Use of service providers' user authentication infrastructure to implement
+    public key infrastructure for peer-to-peer networks
   type: main
 source:
 - type: src
@@ -52,7 +53,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Peer entity authentication is a mandatory requirement for securing peer-to-peer communications. However, especially in pure peer-to-peer (P2P) networks, it is difficult for peers to authenticate corresponding peer entities because there is no central server for authentication they can rely on. In addition, the existing public key infrastructure (PKI) has little use for this purpose because those peer entities rarely have public key certificates issued by well-known certification authorities.\r\nThe purpose of Recommendation ITU-T X.1164 is to define mechanisms to utilize service providers' user authentication infrastructure to implement PKI for P2P networks, with which users who have a valid e-mail account managed by a service provider can issue certificates to their devices by themselves and make those certificates verifiable by corresponding peers in P2P networks.\r\n"
+  content: "Peer entity authentication is a mandatory requirement for securing peer-to-peer
+    communications. However, especially in pure peer-to-peer (P2P) networks, it is
+    difficult for peers to authenticate corresponding peer entities because there
+    is no central server for authentication they can rely on. In addition, the existing
+    public key infrastructure (PKI) has little use for this purpose because those
+    peer entities rarely have public key certificates issued by well-known certification
+    authorities.\r\nThe purpose of Recommendation ITU-T X.1164 is to define mechanisms
+    to utilize service providers' user authentication infrastructure to implement
+    PKI for P2P networks, with which users who have a valid e-mail account managed
+    by a service provider can issue certificates to their devices by themselves and
+    make those certificates verifiable by corresponding peers in P2P networks.\r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T X.1205 provides a definition for cybersecurity. This Recommendation provides a taxonomy of the security threats from an organization point of view. Cybersecurity threats and vulnerabilities including the most common hacker''s tools of the trade are presented. Threats are discussed at various network layers.Various cybersecurity technologies that are available to remedy the threats are discussed, including: routers, firewalls, antivirus protection, intrusion detection systems, intrusion protection systems, secure computing and audit and monitoring. Network protection principles, such as defence in depth, access management with application to cybersecurity are discussed. Risk management strategies and techniques are discussed including the value of training and education in protecting the network. Examples for securing various networks, based on the discussed technologies, are also discussed.'
+  content: 'Recommendation ITU-T X.1205 provides a definition for cybersecurity. This
+    Recommendation provides a taxonomy of the security threats from an organization
+    point of view. Cybersecurity threats and vulnerabilities including the most common
+    hacker''s tools of the trade are presented. Threats are discussed at various network
+    layers.Various cybersecurity technologies that are available to remedy the threats
+    are discussed, including: routers, firewalls, antivirus protection, intrusion
+    detection systems, intrusion protection systems, secure computing and audit and
+    monitoring. Network protection principles, such as defence in depth, access management
+    with application to cybersecurity are discussed. Risk management strategies and
+    techniques are discussed including the value of training and education in protecting
+    the network. Examples for securing various networks, based on the discussed technologies,
+    are also discussed.'
 status:
   stage:
     content: Published
@@ -82,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1205 – Supplement on guidelines for reducing malware in ICT networks
+      content: ITU-T X.1205 – Supplement on guidelines for reducing malware in ICT
+        networks
     docidentifier:
     - content: X Suppl. 9 (09/2011)
       type: ITU
@@ -102,7 +114,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1205 - Supplement on guidelines for abnormal traffic detection and control on IP-based telecommunication networks
+      content: ITU-T X.1205 - Supplement on guidelines for abnormal traffic detection
+        and control on IP-based telecommunication networks
     docidentifier:
     - content: X Suppl. 18 (04/2013)
       type: ITU
@@ -112,7 +125,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T X.1205 - Supplement on framework of security information sharing negotiation '
+      content: 'ITU-T X.1205 - Supplement on framework of security information sharing
+        negotiation '
     docidentifier:
     - content: X Suppl. 20 (04/2013)
       type: ITU

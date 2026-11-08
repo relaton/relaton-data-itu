@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The metrics defined in this Recommendation are intended for use when data is collected using the intrusive test call based method defined in ITU E.457. Metrics representing call cut-off performance for high speed facsimile, i.e. facsimile using V.34 modulation in accordance with Annex F/T.30, can be found in ITU-T E.460.
+  content: The metrics defined in this Recommendation are intended for use when data
+    is collected using the intrusive test call based method defined in ITU E.457.
+    Metrics representing call cut-off performance for high speed facsimile, i.e. facsimile
+    using V.34 modulation in accordance with Annex F/T.30, can be found in ITU-T E.460.
 status:
   stage:
     content: Published
@@ -82,7 +85,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

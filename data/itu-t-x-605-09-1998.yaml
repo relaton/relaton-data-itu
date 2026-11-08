@@ -55,7 +55,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard defines an enhanced transport service, named Enhanced Communications Transport Service (ECTS), which provides for a multicast data transfer capability and enhanced Quality of Service (QoS). This Recommendation | International Standard defines a wide range of services ranging from unreliable unicast with best-effort QoS to reliable multicast with guaranteed QoS. In this way, this Recommendation | International Standard is meant to provide for a uniform and universal service interface between transport protocols and applications of the present and the future information age, especially for those applications requiring versatile and powerful multimedia group communication capabilities underneath.
+  content: This Recommendation | International Standard defines an enhanced transport
+    service, named Enhanced Communications Transport Service (ECTS), which provides
+    for a multicast data transfer capability and enhanced Quality of Service (QoS).
+    This Recommendation | International Standard defines a wide range of services
+    ranging from unreliable unicast with best-effort QoS to reliable multicast with
+    guaranteed QoS. In this way, this Recommendation | International Standard is meant
+    to provide for a uniform and universal service interface between transport protocols
+    and applications of the present and the future information age, especially for
+    those applications requiring versatile and powerful multimedia group communication
+    capabilities underneath.
 status:
   stage:
     content: Published

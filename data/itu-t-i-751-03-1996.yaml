@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides management requirements and an information model which pertain to the plane management of the ATM network element. The information model describes the managed object classes and their properties that are used to describe the information exchanged across management interfaces defined in Recommendation M.3010 Telecommunications Management Network (TMN) architecture. This Recommendation specializes the generic object classes of Recommendations M.3100, Q.821 and Q.822 to provide the information model specific to the ATM network element.
+  content: This Recommendation provides management requirements and an information
+    model which pertain to the plane management of the ATM network element. The information
+    model describes the managed object classes and their properties that are used
+    to describe the information exchanged across management interfaces defined in
+    Recommendation M.3010 Telecommunications Management Network (TMN) architecture.
+    This Recommendation specializes the generic object classes of Recommendations
+    M.3100, Q.821 and Q.822 to provide the information model specific to the ATM network
+    element.
 status:
   stage:
     content: Published
@@ -72,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

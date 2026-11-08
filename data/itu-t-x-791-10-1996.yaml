@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines a profile of options, from those in Recommendation X.790/Amd. 1, using the document structure defined in Amendment 1 to Recommendation X.790. The profile is concerned with general trouble management capability and provides an implementation definition for developers to design their software product to. The profile may be used by network operator personnel to specify the precise trouble management capability required, knowing that product vendor can or has used the definition for product development.
+  content: This Recommendation defines a profile of options, from those in Recommendation
+    X.790/Amd. 1, using the document structure defined in Amendment 1 to Recommendation
+    X.790. The profile is concerned with general trouble management capability and
+    provides an implementation definition for developers to design their software
+    product to. The profile may be used by network operator personnel to specify the
+    precise trouble management capability required, knowing that product vendor can
+    or has used the definition for product development.
 status:
   stage:
     content: Published

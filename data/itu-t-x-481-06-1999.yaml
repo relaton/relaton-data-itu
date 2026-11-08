@@ -55,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides the Protocol Implementation Conformance Statement (PICS) proforma for the Message Handling Systems (MHS) P2 protocol specified in ITU-T Rec. X.420 | ISO/IEC 10021-7. The PICS proforma presents in tabular form the mandatory and optional elements of the P2 protocol.
+  content: This Recommendation provides the Protocol Implementation Conformance Statement
+    (PICS) proforma for the Message Handling Systems (MHS) P2 protocol specified in
+    ITU-T Rec. X.420 | ISO/IEC 10021-7. The PICS proforma presents in tabular form
+    the mandatory and optional elements of the P2 protocol.
 status:
   stage:
     content: Published
@@ -85,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'P2 protocol: Protocol Implementation Conformance Statement (PICS) proforma'
+      content: 'P2 protocol: Protocol Implementation Conformance Statement (PICS)
+        proforma'
     docidentifier:
     - content: X.481 (09/1992)
       type: ITU

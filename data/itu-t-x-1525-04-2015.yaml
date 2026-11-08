@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1525 on the common weakness scoring system (CWSS) provides an open framework for communicating the characteristics and impact of information and communication technologies (ICT) weaknesses during development of software capabilities. The goal of this Recommendation is to enable ICT software developers, managers, testers, security vendors and service suppliers, buyers, application vendors and researchers to speak from a common language of scoring ICT weaknesses that could manifest as vulnerabilities when the software is used.
+  content: Recommendation ITU-T X.1525 on the common weakness scoring system (CWSS)
+    provides an open framework for communicating the characteristics and impact of
+    information and communication technologies (ICT) weaknesses during development
+    of software capabilities. The goal of this Recommendation is to enable ICT software
+    developers, managers, testers, security vendors and service suppliers, buyers,
+    application vendors and researchers to speak from a common language of scoring
+    ICT weaknesses that could manifest as vulnerabilities when the software is used.
 status:
   stage:
     content: Published

@@ -47,7 +47,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment to ITU-T Rec. V.250 redefines the AT commands for support of ITU-T Rec. V.59 (Managed objects for diagnostic information of public switched telephone network connected V-series modem DCEs) and supersedes previous definitions found in ITU-T Rec. V.250/Amd.1.
+  content: This amendment to ITU-T Rec. V.250 redefines the AT commands for support
+    of ITU-T Rec. V.59 (Managed objects for diagnostic information of public switched
+    telephone network connected V-series modem DCEs) and supersedes previous definitions
+    found in ITU-T Rec. V.250/Amd.1.
 status:
   stage:
     content: Withdrawal
@@ -87,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Support of V.44, V.90, V.91 and V.92 and improved support for mode selection
+      content: Support of V.44, V.90, V.91 and V.92 and improved support for mode
+        selection
     docidentifier:
     - content: V.250 (1999) Amd. 1 (07/2001)
       type: ITU

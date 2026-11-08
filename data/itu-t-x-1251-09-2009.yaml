@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T X.1251 defines a framework to enhance user control and exchange of their digital identity related information. This Recommendation also defines user and functional capabilities of the digital identity information exchange. The work includes providing the user with the ability to control the release of personally identifiable information.
+  content: Recommendation ITU-T X.1251 defines a framework to enhance user control
+    and exchange of their digital identity related information. This Recommendation
+    also defines user and functional capabilities of the digital identity information
+    exchange. The work includes providing the user with the ability to control the
+    release of personally identifiable information.
 status:
   stage:
     content: Published
@@ -72,7 +76,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1250 series – Supplement on overview of identity management in the context of cybersecurity
+      content: ITU-T X.1250 series – Supplement on overview of identity management
+        in the context of cybersecurity
     docidentifier:
     - content: X Suppl. 7 (02/2009)
       type: ITU

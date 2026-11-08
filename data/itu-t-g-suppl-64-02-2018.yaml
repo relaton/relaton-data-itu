@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The line rate per wavelength in the existing PON systems, such as GPON, XG(S)-PON, TWDM-PON, is up to 10Gb/s. For High-speed PON, line rate per wavelength will exceed 10Gb/s, in order to provide higher bandwidth capability for growing services’ requirement.\r\n\r\nThis supplement describes characteristics of optical transmission above 10 Gb/s per wavelength between the optical line termination (OLT) and the optical network unit (ONU). It reviews challenges of transmission above 10 Gb/s in optical access. A set of assumed system requirements is developed as a basis for discussion of candidate technologies. Some aspects considered include signal modulation selection, optical transmitter design, optical receiver design, and wavelength dependency. Coexistence with other optical access systems is also investigated as a key factor of wavelength planning.\r\n"
+  content: "The line rate per wavelength in the existing PON systems, such as GPON,
+    XG(S)-PON, TWDM-PON, is up to 10Gb/s. For High-speed PON, line rate per wavelength
+    will exceed 10Gb/s, in order to provide higher bandwidth capability for growing
+    services’ requirement.\r\n\r\nThis supplement describes characteristics of optical
+    transmission above 10 Gb/s per wavelength between the optical line termination
+    (OLT) and the optical network unit (ONU). It reviews challenges of transmission
+    above 10 Gb/s in optical access. A set of assumed system requirements is developed
+    as a basis for discussion of candidate technologies. Some aspects considered include
+    signal modulation selection, optical transmitter design, optical receiver design,
+    and wavelength dependency. Coexistence with other optical access systems is also
+    investigated as a key factor of wavelength planning.\r\n"
 status:
   stage:
     content: Published

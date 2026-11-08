@@ -52,7 +52,23 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This version of Recommendation X.121 defines the design, the characteristics and the application of the Numbering Plan for Public Data Networks. The International Numbering Plan for Public Data Networks has been developed in order to facilitate the operation of public data networks and provide for their interworking on a worldwide basis. The numbering plan allows for the identification of a country as well as a specific public data network in that country by means of Data Country Codes and Data Network Identification Codes. Additionally the numbering plan also allows for the identification of Global public data networks by means of a Global Data Network Identification Code. Interworking with other numbering plans can be achieved by use of an escape code mechanism.In order to conserve the valuable numbering resource, guidance is provided on the efficient use of Data Country codes for the creation of Data Network Identification Codes, and on the use of variable length Private Network Identification Codes for the numbering of private data networks in harmony with the Public Network Numbering Plan. Procedures for the allocation of Data Country Codes are defined. The eligibility criteria and procedures for the allocation of Data Network Identification Codes to Global public data networks are also defined.
+  content: This version of Recommendation X.121 defines the design, the characteristics
+    and the application of the Numbering Plan for Public Data Networks. The International
+    Numbering Plan for Public Data Networks has been developed in order to facilitate
+    the operation of public data networks and provide for their interworking on a
+    worldwide basis. The numbering plan allows for the identification of a country
+    as well as a specific public data network in that country by means of Data Country
+    Codes and Data Network Identification Codes. Additionally the numbering plan also
+    allows for the identification of Global public data networks by means of a Global
+    Data Network Identification Code. Interworking with other numbering plans can
+    be achieved by use of an escape code mechanism.In order to conserve the valuable
+    numbering resource, guidance is provided on the efficient use of Data Country
+    codes for the creation of Data Network Identification Codes, and on the use of
+    variable length Private Network Identification Codes for the numbering of private
+    data networks in harmony with the Public Network Numbering Plan. Procedures for
+    the allocation of Data Country Codes are defined. The eligibility criteria and
+    procedures for the allocation of Data Network Identification Codes to Global public
+    data networks are also defined.
 status:
   stage:
     content: Withdrawal

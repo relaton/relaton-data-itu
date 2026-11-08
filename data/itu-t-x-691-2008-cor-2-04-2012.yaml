@@ -50,7 +50,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This technical corrigendum to Recommendation ITU-T X.691 | ISO/IEC 8825-2 contains a technical change to the encoding of a bitstring containing a complete encoding. It is noted that there are applications such as 3G and 4G wireless telephony and aviation networks that have already implemented the change that this corrigendum specifies.
+  content: This technical corrigendum to Recommendation ITU-T X.691 | ISO/IEC 8825-2
+    contains a technical change to the encoding of a bitstring containing a complete
+    encoding. It is noted that there are applications such as 3G and 4G wireless telephony
+    and aviation networks that have already implemented the change that this corrigendum
+    specifies.
 status:
   stage:
     content: Withdrawal
@@ -70,7 +74,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
+      content: 'Information technology - ASN.1 encoding rules: Specification of Packed
+        Encoding Rules (PER)'
     docidentifier:
     - content: X.691 (02/2021)
       type: ITU
@@ -88,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Packed
+        Encoding Rules (PER)'
     docidentifier:
     - content: X.691 (08/2015)
       type: ITU
@@ -122,7 +128,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Packed
+        Encoding Rules (PER)'
     docidentifier:
     - content: X.691 (11/2008)
       type: ITU
@@ -186,7 +193,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Packed
+        Encoding Rules (PER)'
     docidentifier:
     - content: X.691 (07/2002)
       type: ITU
@@ -230,7 +238,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of Packed
+        Encoding Rules (PER)'
     docidentifier:
     - content: X.691 (12/1997)
       type: ITU
@@ -256,7 +265,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information technology – ASN.1 encoding rules – Specification of Packed Encoding Rules (PER)
+      content: Information technology – ASN.1 encoding rules – Specification of Packed
+        Encoding Rules (PER)
     docidentifier:
     - content: X.691 (04/1995)
       type: ITU

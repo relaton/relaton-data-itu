@@ -52,7 +52,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "De-identified data incurs the risk of re-identifying individuals. It is therefore important to assess the threat of de-identified data being used to identify individuals through re-identification methods. Deidentification methods, which can be used for re-identification risk assessment, may be selected according to the following considerations:\r\n–Data risk assessment: Data composition, data distribution, possession of other data;\r\n–Data use environment risk assessment: Confidence level of data recipient, impact during re-identification, inadvertent re-identification;\r\n–Using and managing de-identification data: Security measures for de-identification data, monitoring of re-identification possibilities, compliance with de-identification data provision or consignment contracts.\r\nThis Supplement defines data de-identification assurance. It also provides a set of requirements for managing data de-identification assurance, including data risk assessment, risk assessment of the data use environment, and using and managing de-identified data.\r\n"
+  content: "De-identified data incurs the risk of re-identifying individuals. It is
+    therefore important to assess the threat of de-identified data being used to identify
+    individuals through re-identification methods. Deidentification methods, which
+    can be used for re-identification risk assessment, may be selected according to
+    the following considerations:\r\n–Data risk assessment: Data composition, data
+    distribution, possession of other data;\r\n–Data use environment risk assessment:
+    Confidence level of data recipient, impact during re-identification, inadvertent
+    re-identification;\r\n–Using and managing de-identification data: Security measures
+    for de-identification data, monitoring of re-identification possibilities, compliance
+    with de-identification data provision or consignment contracts.\r\nThis Supplement
+    defines data de-identification assurance. It also provides a set of requirements
+    for managing data de-identification assurance, including data risk assessment,
+    risk assessment of the data use environment, and using and managing de-identified
+    data.\r\n"
 status:
   stage:
     content: Published

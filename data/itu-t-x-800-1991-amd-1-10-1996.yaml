@@ -55,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation X.800 provides an overview of security services allocated to the seven layers of the OSI Reference Model. Amendment 1, which is to be published as Annex D, extends the security services of the Data Link Layer to accommodate LAN security.
+  content: Recommendation X.800 provides an overview of security services allocated
+    to the seven layers of the OSI Reference Model. Amendment 1, which is to be published
+    as Annex D, extends the security services of the Data Link Layer to accommodate
+    LAN security.
 status:
   stage:
     content: Published
@@ -85,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on security baseline for network operators
+      content: ITU-T X.800-X.849 series – Supplement on security baseline for network
+        operators
     docidentifier:
     - content: X Suppl. 2 (09/2007)
       type: ITU
@@ -95,7 +99,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing system and network security
+      content: ITU-T X.800-X.849 series – Supplement on guidelines for implementing
+        system and network security
     docidentifier:
     - content: X Suppl. 3 (04/2008)
       type: ITU
@@ -105,7 +110,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national IP-based public network security centre for developing countries
+      content: ITU-T X.800-X.849 series - Supplement on guidance for creating a national
+        IP-based public network security centre for developing countries
     docidentifier:
     - content: X Suppl. 15 (09/2012)
       type: ITU
@@ -115,7 +121,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.800-X.849 series – Supplement on architectural systems for security controls for preventing fraudulent activities in public carrier networks
+      content: ITU-T X.800-X.849 series – Supplement on architectural systems for
+        security controls for preventing fraudulent activities in public carrier networks
     docidentifier:
     - content: X Suppl. 16 (09/2012)
       type: ITU

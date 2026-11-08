@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The binary coded control procedures provide for the inclusion of non-standard facilities in addition to the standard facilities given in the appropriate T series of Recommendations and require a unique code to be allocated to each provider who includes such non-standard facilities. Other ITU-T Recommandations may also use this method to identify the use of non-standard facilities in their procedures.This Recommandation defines the procedure for the allocation of ITU-T defined code for non-standard facilities.
+  content: The binary coded control procedures provide for the inclusion of non-standard
+    facilities in addition to the standard facilities given in the appropriate T series
+    of Recommendations and require a unique code to be allocated to each provider
+    who includes such non-standard facilities. Other ITU-T Recommandations may also
+    use this method to identify the use of non-standard facilities in their procedures.This
+    Recommandation defines the procedure for the allocation of ITU-T defined code
+    for non-standard facilities.
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedure for the allocation of CCITT defined codes for non-standard facilities
+      content: Procedure for the allocation of CCITT defined codes for non-standard
+        facilities
     docidentifier:
     - content: T.35 (01/1991)
       type: ITU
@@ -82,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Procedure for the allocation of CCITT members' codes for non-standard facilities
+      content: Procedure for the allocation of CCITT members' codes for non-standard
+        facilities
     docidentifier:
     - content: T.35 (11/1988)
       type: ITU

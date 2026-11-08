@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies the AAL type 2 that provides for the bandwidth-efficient transmission of low-rate, short, and variable length packets in delay sensitive applications. More than one AAL type 2 user information stream can be supported on a single ATM connection. This Recommendation covers the specification of the frame structure of the short and variable length packets, the packing of short length packets into one (or more) ATM cells, and the mechanisms to recover from transmission errors.This Recommendation describes the interactions between AAL type 2 and the next higher layer, between AAL type 2 and the ATM layer, and between AAL type 2 and Layer Management, as well as AAL type 2 peer-to-peer operations.
+  content: This Recommendation specifies the AAL type 2 that provides for the bandwidth-efficient
+    transmission of low-rate, short, and variable length packets in delay sensitive
+    applications. More than one AAL type 2 user information stream can be supported
+    on a single ATM connection. This Recommendation covers the specification of the
+    frame structure of the short and variable length packets, the packing of short
+    length packets into one (or more) ATM cells, and the mechanisms to recover from
+    transmission errors.This Recommendation describes the interactions between AAL
+    type 2 and the next higher layer, between AAL type 2 and the ATM layer, and between
+    AAL type 2 and Layer Management, as well as AAL type 2 peer-to-peer operations.
 status:
   stage:
     content: Published
@@ -82,7 +90,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

@@ -52,7 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'MPLS has the potential to consolidate core networks and services, for example frame relay services, over a single common core infrastructure. This Recommendation defines frame relay over MPLS core network architecture, the transfer of frame relay control and user data information over the core MPLS network and the user plane protocol stack used at the edges of the MPLS core network. Two mapping modes for frame relay over MPLS are defined: the "one-to-one" mapping mode and the "many-to-one" mapping mode. The signalling and management planes are outside of the scope of this Recommendation.'
+  content: 'MPLS has the potential to consolidate core networks and services, for
+    example frame relay services, over a single common core infrastructure. This Recommendation
+    defines frame relay over MPLS core network architecture, the transfer of frame
+    relay control and user data information over the core MPLS network and the user
+    plane protocol stack used at the edges of the MPLS core network. Two mapping modes
+    for frame relay over MPLS are defined: the "one-to-one" mapping mode and the "many-to-one"
+    mapping mode. The signalling and management planes are outside of the scope of
+    this Recommendation.'
 status:
   stage:
     content: Published

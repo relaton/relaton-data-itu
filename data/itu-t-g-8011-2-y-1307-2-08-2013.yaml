@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T G.8011.2/Y.1307.2 defines the service attributes and parameters for carrying Ethernet characteristic information over shared bandwidth, point-to-point connections provided by synchronous digital hierarchy (SDH), plesiochronous digital hierarchy (PDH), asynchronous transfer mode (ATM), multi-protocol label switching (MPLS), optical transport hierarchy (OTH), Ethernet MAC layer network (ETH) or Ethernet PHY layer network (ETY) server layer networks. This type of service is referred to as Ethernet virtual private line (EVPL) service. This Recommendation is based on the Ethernet service framework as defined in Recommendation ITU-T G.8011/Y.1307.
+  content: Recommendation ITU-T G.8011.2/Y.1307.2 defines the service attributes and
+    parameters for carrying Ethernet characteristic information over shared bandwidth,
+    point-to-point connections provided by synchronous digital hierarchy (SDH), plesiochronous
+    digital hierarchy (PDH), asynchronous transfer mode (ATM), multi-protocol label
+    switching (MPLS), optical transport hierarchy (OTH), Ethernet MAC layer network
+    (ETH) or Ethernet PHY layer network (ETY) server layer networks. This type of
+    service is referred to as Ethernet virtual private line (EVPL) service. This Recommendation
+    is based on the Ethernet service framework as defined in Recommendation ITU-T
+    G.8011/Y.1307.
 status:
   stage:
     content: Withdrawal

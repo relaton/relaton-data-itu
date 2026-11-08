@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: A representative list of information[1], useful to network maintenance activities, is provided in a structured table. Five categories of information are identified, based on the different natures of the events and their priority in information exchange between maintenance elements within the same network operator or different network operators, network operators and service providers and service providers and their customers (i.e. Maintenance Information to be exchanged at Customer Contact point (MICC). References to the main relevant Recommendations are also given.        [1] This list is not exhaustive and other types of information may be found depending on the continuous development and relevant update of other ITU-T Recommendations.
+  content: A representative list of information[1], useful to network maintenance
+    activities, is provided in a structured table. Five categories of information
+    are identified, based on the different natures of the events and their priority
+    in information exchange between maintenance elements within the same network operator
+    or different network operators, network operators and service providers and service
+    providers and their customers (i.e. Maintenance Information to be exchanged at
+    Customer Contact point (MICC). References to the main relevant Recommendations
+    are also given.        [1] This list is not exhaustive and other types of information
+    may be found depending on the continuous development and relevant update of other
+    ITU-T Recommendations.
 status:
   stage:
     content: Published

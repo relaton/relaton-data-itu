@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Testing and Test Control Notation version 3 (TTCN-3): Graphical presentation format (GFT)'
+  content: 'Testing and Test Control Notation version 3 (TTCN-3): Graphical presentation
+    format (GFT)'
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines GFT, a graphical presentation format for TTCN-3 (Testing and Test Control Notation 3) Core Language defined in ITU-T Rec. Z.140. GFT is used for the graphical presentation of test behaviour in form of a subset of Message Sequence Charts as defined in ITU-T Rec. Z.120 with test-specific extensions. GFT provides a number of graphical symbols to enable the graphical presentation of TTCN-3 test cases, functions, altsteps and control parts. GFT can be applied whenever it is necessary to define or document test behaviour graphically.This Recommendation is based on the core TTCN-3 language defined in ITU-T Rec. Z.140. It is particularly suited to display tests as GFTs. It is not limited to any particular kind of test specification.
+  content: This Recommendation defines GFT, a graphical presentation format for TTCN-3
+    (Testing and Test Control Notation 3) Core Language defined in ITU-T Rec. Z.140.
+    GFT is used for the graphical presentation of test behaviour in form of a subset
+    of Message Sequence Charts as defined in ITU-T Rec. Z.120 with test-specific extensions.
+    GFT provides a number of graphical symbols to enable the graphical presentation
+    of TTCN-3 test cases, functions, altsteps and control parts. GFT can be applied
+    whenever it is necessary to define or document test behaviour graphically.This
+    Recommendation is based on the core TTCN-3 language defined in ITU-T Rec. Z.140.
+    It is particularly suited to display tests as GFTs. It is not limited to any particular
+    kind of test specification.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3: TTCN-3 graphical presentation format (GFT)'
+      content: 'Testing and Test Control Notation version 3: TTCN-3 graphical presentation
+        format (GFT)'
     docidentifier:
     - content: Z.163 (11/2007)
       type: ITU
@@ -82,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Testing and Test Control Notation version 3 (TTCN-3): Graphical presentation format'
+      content: 'Testing and Test Control Notation version 3 (TTCN-3): Graphical presentation
+        format'
     docidentifier:
     - content: Z.142 (02/2003)
       type: ITU
@@ -92,7 +104,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A video management system (VMS) is the core of the video surveillance systems used for public safety, traffic monitoring, etc. Basically, a VMS receives video from cameras and allows a user to view that video either live or recorded. Currently, emerging VMS approaches incorporate more and more intelligence into their design, including video analytics and access control.  As a VMS is networked, it is fully exposed to various vulnerabilities such as those faced by Internet web services and can easily be a target of cyberattacks.  Recommendation ITU-T X.1453 analyses the security threats to server platform based VMSs running on an IP network and specifies security requirements to counteract the identified security threats. \r\n"
+  content: "A video management system (VMS) is the core of the video surveillance
+    systems used for public safety, traffic monitoring, etc. Basically, a VMS receives
+    video from cameras and allows a user to view that video either live or recorded.
+    Currently, emerging VMS approaches incorporate more and more intelligence into
+    their design, including video analytics and access control.  As a VMS is networked,
+    it is fully exposed to various vulnerabilities such as those faced by Internet
+    web services and can easily be a target of cyberattacks.  Recommendation ITU-T
+    X.1453 analyses the security threats to server platform based VMSs running on
+    an IP network and specifies security requirements to counteract the identified
+    security threats. \r\n"
 status:
   stage:
     content: Published

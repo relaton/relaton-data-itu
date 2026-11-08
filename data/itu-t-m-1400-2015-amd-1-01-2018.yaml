@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The 2016 edition of Recommendation ITU-T G.709 has introduced support for optical transport networks with rates beyond 100 Gb/s. This draft amendment augments clause 29 of Recommendation ITU-T M.1400 with new function codes for the corresponding Optical Data Units and Optical Transport Units. It also corrects a few editorial inconsistencies.
+  content: The 2016 edition of Recommendation ITU-T G.709 has introduced support for
+    optical transport networks with rates beyond 100 Gb/s. This draft amendment augments
+    clause 29 of Recommendation ITU-T M.1400 with new function codes for the corresponding
+    Optical Data Units and Optical Transport Units. It also corrects a few editorial
+    inconsistencies.
 status:
   stage:
     content: Published
@@ -168,7 +172,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Designations of international circuits, groups, group and line links, digital blocks, digital paths, data transmission systems and related information
+      content: Designations of international circuits, groups, group and line links,
+        digital blocks, digital paths, data transmission systems and related information
     docidentifier:
     - content: M.140 (11/1988)
       type: ITU
@@ -248,7 +253,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T M.1400-series – Supplement on directory of external terminology schemas
+      content: ITU-T M.1400-series – Supplement on directory of external terminology
+        schemas
     docidentifier:
     - content: M Suppl. 7 (05/2008)
       type: ITU

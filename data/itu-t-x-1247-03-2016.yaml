@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Mobile messaging spam is proliferating dramatically along with the fast development of mobile messaging services. Unfortunately, no single measure has proved to be the silver bullet against mobile messaging spam. Therefore, it is necessary to establish a practical framework for countering mobile messaging spam. Recommendation ITU-T X.1247 gives an overview of mobile messaging anti-spam processes, and proposes a technical framework for countering mobile messaging spam. Entity functions and processing procedures are specified in this framework. In addition, this Recommendation provides information sharing mechanisms against mobile messaging spam within the anti-spam domain and among anti-spam domains.
+  content: Mobile messaging spam is proliferating dramatically along with the fast
+    development of mobile messaging services. Unfortunately, no single measure has
+    proved to be the silver bullet against mobile messaging spam. Therefore, it is
+    necessary to establish a practical framework for countering mobile messaging spam.
+    Recommendation ITU-T X.1247 gives an overview of mobile messaging anti-spam processes,
+    and proposes a technical framework for countering mobile messaging spam. Entity
+    functions and processing procedures are specified in this framework. In addition,
+    this Recommendation provides information sharing mechanisms against mobile messaging
+    spam within the anti-spam domain and among anti-spam domains.
 status:
   stage:
     content: Published
@@ -80,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T X.1240 series – Supplement on countering spam and associated threats
+      content: ITU-T X.1240 series – Supplement on countering spam and associated
+        threats
     docidentifier:
     - content: X Suppl. 6 (09/2009)
       type: ITU

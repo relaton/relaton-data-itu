@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The purpose of a voice on ATM circuit multiplication equipment (VACME) is to provide a bandwidth efficient means of connecting TDM-based international switching centres (ISCs) and an ATM network. In addition to providing traditional CME functions, the equipment will have additional capabilities such as ATM multiplexing to optimize bandwidth utilization.VACME is a general switched telephone network (GSTN) trunking equipment using pulse code modulation (PCM) and low rate encoding technique together with digital speech interpolation (DSI) and facsimile demodulation/remodulation. Recommendation ITU-T I.733 addresses key issues, such as interfaces, signal processing functions, ATM adaptation layer mappings, and OAM functions, to be used in VACME in order to ensure the interworking of this equipment.
+  content: The purpose of a voice on ATM circuit multiplication equipment (VACME)
+    is to provide a bandwidth efficient means of connecting TDM-based international
+    switching centres (ISCs) and an ATM network. In addition to providing traditional
+    CME functions, the equipment will have additional capabilities such as ATM multiplexing
+    to optimize bandwidth utilization.VACME is a general switched telephone network
+    (GSTN) trunking equipment using pulse code modulation (PCM) and low rate encoding
+    technique together with digital speech interpolation (DSI) and facsimile demodulation/remodulation.
+    Recommendation ITU-T I.733 addresses key issues, such as interfaces, signal processing
+    functions, ATM adaptation layer mappings, and OAM functions, to be used in VACME
+    in order to ensure the interworking of this equipment.
 status:
   stage:
     content: Published
@@ -82,7 +91,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

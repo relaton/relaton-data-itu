@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Threat analysis and guidelines for securing password and passwordless authentication solutions
+  content: Threat analysis and guidelines for securing password and passwordless authentication
+    solutions
   type: main
 source:
 - type: src
@@ -52,7 +53,20 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The security community is undertaking a significant movement to replace password authentication with alternative solutions that are collectively known as passwordless authentication. Unfortunately, many of the passwordless solutions proposed suffer from the same limitations as current password authentication solutions. These proposed passwordless authentication solutions are vulnerable to man-in-the-middle and phishing attacks among others.\r\nRecommendation ITU-T X.1283 presents security and threat analysis of authentication solutions that are based on the use of shared secrets and closely examines security risks associated with password authentication systems and emerging passwordless authentication solutions.\r\nThe Recommendation considers threat analysis, and develops guidelines and best practices for the protection of users and accounts based on these methods. This Recommendation can be used by adopters to support legacy solutions as they migrate to stronger authentication methods based on public key infrastructure (PKI) technology as presented in for example Recommendation ITUT X.1277 and Recommendation ITU-T X.1278.\r\n"
+  content: "The security community is undertaking a significant movement to replace
+    password authentication with alternative solutions that are collectively known
+    as passwordless authentication. Unfortunately, many of the passwordless solutions
+    proposed suffer from the same limitations as current password authentication solutions.
+    These proposed passwordless authentication solutions are vulnerable to man-in-the-middle
+    and phishing attacks among others.\r\nRecommendation ITU-T X.1283 presents security
+    and threat analysis of authentication solutions that are based on the use of shared
+    secrets and closely examines security risks associated with password authentication
+    systems and emerging passwordless authentication solutions.\r\nThe Recommendation
+    considers threat analysis, and develops guidelines and best practices for the
+    protection of users and accounts based on these methods. This Recommendation can
+    be used by adopters to support legacy solutions as they migrate to stronger authentication
+    methods based on public key infrastructure (PKI) technology as presented in for
+    example Recommendation ITUT X.1277 and Recommendation ITU-T X.1278.\r\n"
 status:
   stage:
     content: Published

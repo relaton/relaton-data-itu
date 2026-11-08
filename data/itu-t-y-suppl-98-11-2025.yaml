@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A quantum network is expected to enable enhanced applications by leveraging fundamental principles of quantum mechanics – such as entanglement, superposition and the no-cloning theorem – which are not achievable using classical (non-quantum) networks, including conventional digital networks.\r\nSupplement 98 to ITU-T Y-series Recommendations aims to identify technical considerations for quantum networks, including relevant components and their configurations. It also introduces potential migration scenarios from quantum key distribution networks (QKDN) towards quantum networks. Furthermore, it outlines a standardization roadmap within ITU-T.\r\nNOTE – ITU-T Supplement 75 \"I\" has been published. It focuses on the activity status of studies and research from academia, research institutes and standards development organizations (SDOs). This Supplement 98 introduces more technical aspects which might be required towards quantum networks.\r\n"
+  content: "A quantum network is expected to enable enhanced applications by leveraging
+    fundamental principles of quantum mechanics – such as entanglement, superposition
+    and the no-cloning theorem – which are not achievable using classical (non-quantum)
+    networks, including conventional digital networks.\r\nSupplement 98 to ITU-T Y-series
+    Recommendations aims to identify technical considerations for quantum networks,
+    including relevant components and their configurations. It also introduces potential
+    migration scenarios from quantum key distribution networks (QKDN) towards quantum
+    networks. Furthermore, it outlines a standardization roadmap within ITU-T.\r\nNOTE
+    – ITU-T Supplement 75 \"I\" has been published. It focuses on the activity status
+    of studies and research from academia, research institutes and standards development
+    organizations (SDOs). This Supplement 98 introduces more technical aspects which
+    might be required towards quantum networks.\r\n"
 status:
   stage:
     content: Published

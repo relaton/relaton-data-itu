@@ -55,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 1 to ITU-T Rec. X.680 | ISO/IEC 8824-1 defines a new ASN.1 type, the relative object identifier. This type makes it possible to transmit object identifier values in a more compact form by transmitting only their trailing arcs when the leading arcs can be determined based on the context of use.
+  content: Amendment 1 to ITU-T Rec. X.680 | ISO/IEC 8824-1 defines a new ASN.1 type,
+    the relative object identifier. This type makes it possible to transmit object
+    identifier values in a more compact form by transmitting only their trailing arcs
+    when the leading arcs can be determined based on the context of use.
 status:
   stage:
     content: Withdrawal
@@ -75,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology - Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (02/2021)
       type: ITU
@@ -85,7 +89,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Relaxing IMPORTS clause to allow importation of definitions from new versions of a given module
+      content: Relaxing IMPORTS clause to allow importation of definitions from new
+        versions of a given module
     docidentifier:
     - content: X.680 (2015) Amd. 1 (05/2018)
       type: ITU
@@ -119,7 +124,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (08/2015)
       type: ITU
@@ -145,7 +151,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (11/2008)
       type: ITU
@@ -183,7 +190,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Alignment with changes made to ITU-T Rec. X.660 | ISO/IEC 9834-1 for identifiers in object identifier value notation
+      content: Alignment with changes made to ITU-T Rec. X.660 | ISO/IEC 9834-1 for
+        identifiers in object identifier value notation
     docidentifier:
     - content: X.680 (2002) Amd. 2 (08/2004)
       type: ITU
@@ -203,7 +211,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (07/2002)
       type: ITU
@@ -275,7 +284,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (12/1997)
       type: ITU
@@ -329,7 +339,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation'
+      content: 'Information technology – Abstract Syntax Notation One (ASN.1): Specification
+        of basic notation'
     docidentifier:
     - content: X.680 (07/1994)
       type: ITU

@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides guidelines for defining Schema Implementation Conformance Statement (SICS) proformas for any tML-based interface information specifications. The Schema Implementation Conformance Statement (SICS) specifies how an implementation is conformant to the proformas defined for a tML schema definition.
+  content: This Recommendation provides guidelines for defining Schema Implementation
+    Conformance Statement (SICS) proformas for any tML-based interface information
+    specifications. The Schema Implementation Conformance Statement (SICS) specifies
+    how an implementation is conformant to the proformas defined for a tML schema
+    definition.
 status:
   stage:
     content: Published

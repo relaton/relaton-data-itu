@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation provides high level general principles and guidelines that should be applied by Network Operators for the routing of international data traffic across interconnected public data networks. The aim of this Recommendation is to provide network operators with the necessary information to ensure that data traffic can be effectively and economically routed across interconnected public data networks making best use of the available network resources. Although this Recommendation is focused towards packet switched data networks (such as X.25 and Frame Relay), the principles are applicable to both circuit-switched and packet-switched public data networks.
+  content: This Recommendation provides high level general principles and guidelines
+    that should be applied by Network Operators for the routing of international data
+    traffic across interconnected public data networks. The aim of this Recommendation
+    is to provide network operators with the necessary information to ensure that
+    data traffic can be effectively and economically routed across interconnected
+    public data networks making best use of the available network resources. Although
+    this Recommendation is focused towards packet switched data networks (such as
+    X.25 and Frame Relay), the principles are applicable to both circuit-switched
+    and packet-switched public data networks.
 status:
   stage:
     content: Published
@@ -102,7 +110,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Routing principles for international public data services through switched public data networks of the same type
+      content: Routing principles for international public data services through switched
+        public data networks of the same type
     docidentifier:
     - content: X.110 (11/1980)
       type: ITU

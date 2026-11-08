@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Address Screening (ADS) is a supplementary service that can be provided in association to a data transfer service.It provides restrictions on the user sending data units to certain destination users and/or the user receiving data units from certain source users.
+  content: Address Screening (ADS) is a supplementary service that can be provided
+    in association to a data transfer service.It provides restrictions on the user
+    sending data units to certain destination users and/or the user receiving data
+    units from certain source users.
 status:
   stage:
     content: Published
@@ -72,7 +75,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

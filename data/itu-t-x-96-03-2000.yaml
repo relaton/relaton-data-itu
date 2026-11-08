@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation identifies and categorizes call progress signals used in public data networks. This revision slightly restructures the text and adds call progress signals for frame relay data networks. Call progress signals for circuit switching are not changed and call progress signals for packet switching are slightly corrected.
+  content: This Recommendation identifies and categorizes call progress signals used
+    in public data networks. This revision slightly restructures the text and adds
+    call progress signals for frame relay data networks. Call progress signals for
+    circuit switching are not changed and call progress signals for packet switching
+    are slightly corrected.
 status:
   stage:
     content: Published

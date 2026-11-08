@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T T.55 recommends that for the representation, transmission, interchange, processing, storage, and presentation of written form of the languages of the world, as well as additional symbols, the universal multiple-octet coded character set (UCS) specified in ISO/IEC 10646 be used.
+  content: Recommendation ITU-T T.55 recommends that for the representation, transmission,
+    interchange, processing, storage, and presentation of written form of the languages
+    of the world, as well as additional symbols, the universal multiple-octet coded
+    character set (UCS) specified in ISO/IEC 10646 be used.
 status:
   stage:
     content: Published

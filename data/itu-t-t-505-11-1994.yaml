@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Document application profile PM-26 for the interchange of enhanced structure, mixed content documents in processable and formatted forms
+  content: Document application profile PM-26 for the interchange of enhanced structure,
+    mixed content documents in processable and formatted forms
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation specifies an ODA Document Application Profile (DAP) named PM-26.This Profile specifies an interchange format for the transfer of structured documents between equipments designed for word or document processing. Such documents may contain character, raster graphics and geometric graphics content.The documents that can be interchanged using this Profile range from simple documents to highly structured technical reports, articles and typeset documents such as brochures. This Profile provides a comprehensive level of features for the transfer of documents between these systems.A document structured in accordance with this Profile is represented for interchange by the Open Document Interchange Format (ODIF), as defined in Recommendation T.415.
+  content: This Recommendation specifies an ODA Document Application Profile (DAP)
+    named PM-26.This Profile specifies an interchange format for the transfer of structured
+    documents between equipments designed for word or document processing. Such documents
+    may contain character, raster graphics and geometric graphics content.The documents
+    that can be interchanged using this Profile range from simple documents to highly
+    structured technical reports, articles and typeset documents such as brochures.
+    This Profile provides a comprehensive level of features for the transfer of documents
+    between these systems.A document structured in accordance with this Profile is
+    represented for interchange by the Open Document Interchange Format (ODIF), as
+    defined in Recommendation T.415.
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Document application profile PM-26 for the interchange of mixed content documents in processable and formatted forms
+      content: Document application profile PM-26 for the interchange of mixed content
+        documents in processable and formatted forms
     docidentifier:
     - content: T.505 (01/1991)
       type: ITU

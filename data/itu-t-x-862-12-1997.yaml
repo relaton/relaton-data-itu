@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Open Systems Interconnection – Distributed Transaction Processing: Protocol specification'
+  content: 'Open Systems Interconnection – Distributed Transaction Processing: Protocol
+    specification'
   type: main
 source:
 - type: src
@@ -55,7 +56,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes the application layer protocol for OSI distributed transaction processing. The protocol provides a means to group a set of actions called a <transaction>. It also provides a framework for coordination of a transaction across multiple transaction processing resources in separate open systems.
+  content: This Recommendation describes the application layer protocol for OSI distributed
+    transaction processing. The protocol provides a means to group a set of actions
+    called a <transaction>. It also provides a framework for coordination of a transaction
+    across multiple transaction processing resources in separate open systems.
 status:
   stage:
     content: Published
@@ -75,7 +79,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Open Systems Interconnection – Distributed transaction processing: Protocol specification'
+      content: 'Open Systems Interconnection – Distributed transaction processing:
+        Protocol specification'
     docidentifier:
     - content: X.862 (11/1993)
       type: ITU

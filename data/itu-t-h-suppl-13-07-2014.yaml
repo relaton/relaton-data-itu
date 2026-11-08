@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Supplement 13 to the ITU-T H-series Recommendations provides a repository for ITU-T H.248 related terms that concern multiple ITU-T H.248.x Recommendations, Supplements or the entire ITUT H.248.x-series. This Supplement is a living document.
+  content: "Supplement 13 to the ITU-T H-series Recommendations provides a repository
+    for ITU-T H.248 related terms that concern multiple ITU-T H.248.x Recommendations,
+    Supplements or the entire ITU\x1ET H.248.x-series. This Supplement is a living
+    document."
 status:
   stage:
     content: Withdrawal
@@ -72,7 +75,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release 2'
+      content: 'Gateway control protocol: Common ITU-T H.248 terminology - Release
+        2'
     docidentifier:
     - content: H Suppl. 13 (10/2015)
       type: ITU

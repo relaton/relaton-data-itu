@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This supplement addresses narrow pin spacing in connectors with limited creepage and clearance dimensions but high-power loading, which can potentially make them susceptible to high impedance shorts between connector pins or arcing during the connecting/disconnecting mating cycle. These shorts and arcs can result in thermal and fire hazards for such high-power connectors and negatively impact overall system reliability.
+  content: This supplement addresses narrow pin spacing in connectors with limited
+    creepage and clearance dimensions but high-power loading, which can potentially
+    make them susceptible to high impedance shorts between connector pins or arcing
+    during the connecting/disconnecting mating cycle. These shorts and arcs can result
+    in thermal and fire hazards for such high-power connectors and negatively impact
+    overall system reliability.
 status:
   stage:
     content: Published

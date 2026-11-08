@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The service function chaining determines the requite service functions (SFs), based on context information and selects a proper service function chain that consists of the requite SFs providing specific treatment of packets. Therefore, service provisioning can be rapid and flexible with high manageability.\r\n\r\nThis supplement describes use cases and deployment models of service function chaining. This supplement also specifies requirements in order to support service function chaining in IP-based fixed and mobile networks.\r\n"
+  content: "The service function chaining determines the requite service functions
+    (SFs), based on context information and selects a proper service function chain
+    that consists of the requite SFs providing specific treatment of packets. Therefore,
+    service provisioning can be rapid and flexible with high manageability.\r\n\r\nThis
+    supplement describes use cases and deployment models of service function chaining.
+    This supplement also specifies requirements in order to support service function
+    chaining in IP-based fixed and mobile networks.\r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T D.000 sets out the general principles for developing and using terms and definitions in the D-series Recommendations. The Recommendation also contains a list of definitions applicable to all D-series Recommendations.
+  content: Recommendation ITU-T D.000 sets out the general principles for developing
+    and using terms and definitions in the D-series Recommendations. The Recommendation
+    also contains a list of definitions applicable to all D-series Recommendations.
 status:
   stage:
     content: Published
@@ -150,7 +152,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Handbook on the methodology for determining costs and establishing national tariffs
+      content: Handbook on the methodology for determining costs and establishing
+        national tariffs
     docidentifier:
     - content: D Suppl. 3 (03/1993)
       type: ITU

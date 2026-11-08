@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Post-selection delay in PSTN/ISDN networks using Internet telephony for a portion of the connection
+  content: Post-selection delay in PSTN/ISDN networks using Internet telephony for
+    a portion of the connection
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation proposes a post-selection delay Grade of Service (GOS) parameter and target values when part of a PSTN/ISDN connection is replaced by Internet Protocol (IP) based network(s). This parameter is defined and their target values specified assuming that the network and the network components are fully operational. Also, only point-to-point connections supporting basic call flows are considered in this release of the Recommendation.
+  content: This Recommendation proposes a post-selection delay Grade of Service (GOS)
+    parameter and target values when part of a PSTN/ISDN connection is replaced by
+    Internet Protocol (IP) based network(s). This parameter is defined and their target
+    values specified assuming that the network and the network components are fully
+    operational. Also, only point-to-point connections supporting basic call flows
+    are considered in this release of the Recommendation.
 status:
   stage:
     content: Published
@@ -72,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

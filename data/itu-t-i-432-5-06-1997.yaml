@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'B-ISDN user-network interface – Physical layer specification : 25 600 kbit/s operation'
+  content: 'B-ISDN user-network interface – Physical layer specification : 25 600
+    kbit/s operation'
   type: main
 source:
 - type: src
@@ -52,7 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation covers physical layer characteristics for transporting Asynchronous Transfer Mode (ATM) cells at a nominal bit rate of 25 600 kbit/s over 100 ohm UTP, 120 ohm, and 150 ohm STP twisted pair cables at the SB reference point of the B-ISDN User Network Interface (UNI). The maximum distance is approximately 100 m. This Recommendation may be used to take advantage of existing building wiring.Functionality is presented in terms of Physical Media Dependent (PMD) and Transmission Convergence (TC) sublayers, using a cell-based format.This Recommendation is part of the I.432-Series Recommendations, and includes references to Recommendation I.432.1 [3] on general characteristics, and Recommendation I.432.2 [4] on transmission convergence sublayer aspects.
+  content: This Recommendation covers physical layer characteristics for transporting
+    Asynchronous Transfer Mode (ATM) cells at a nominal bit rate of 25 600 kbit/s
+    over 100 ohm UTP, 120 ohm, and 150 ohm STP twisted pair cables at the SB reference
+    point of the B-ISDN User Network Interface (UNI). The maximum distance is approximately
+    100 m. This Recommendation may be used to take advantage of existing building
+    wiring.Functionality is presented in terms of Physical Media Dependent (PMD) and
+    Transmission Convergence (TC) sublayers, using a cell-based format.This Recommendation
+    is part of the I.432-Series Recommendations, and includes references to Recommendation
+    I.432.1 [3] on general characteristics, and Recommendation I.432.2 [4] on transmission
+    convergence sublayer aspects.
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU

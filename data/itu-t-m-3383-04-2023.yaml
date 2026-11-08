@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3383 introduces the requirements for log analysis in telecom management with artificial intelligence (AI) and includes a functional framework, functional requirements, and typical scenarios of log analysis in telecom management with AI. This Recommendation gives examples of some log types and characteristics. This Recommendation also describes use cases of log analysis in telecom management with AI.
+  content: Recommendation ITU-T M.3383 introduces the requirements for log analysis
+    in telecom management with artificial intelligence (AI) and includes a functional
+    framework, functional requirements, and typical scenarios of log analysis in telecom
+    management with AI. This Recommendation gives examples of some log types and characteristics.
+    This Recommendation also describes use cases of log analysis in telecom management
+    with AI.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Requirements for log analysis in telecommunication management with artificial intelligence
+      content: Requirements for log analysis in telecommunication management with
+        artificial intelligence
     docidentifier:
     - content: M.3383 (03/2026)
       type: ITU

@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T G.8011.3/Y.1307.3 defines the service attributes and parameters for carrying Ethernet characteristic information over shared bandwidth, multipoint-to-multipoint connections, provided by SDH, PDH, ATM, MPLS, OTH, ETY or ETH server layer networks. This type of service is referred to as Ethernet virtual private LAN service. This Recommendation is based on the Ethernet service framework as defined in Recommendation ITU-T G.8011/Y.1307.
+  content: Recommendation ITU-T G.8011.3/Y.1307.3 defines the service attributes and
+    parameters for carrying Ethernet characteristic information over shared bandwidth,
+    multipoint-to-multipoint connections, provided by SDH, PDH, ATM, MPLS, OTH, ETY
+    or ETH server layer networks. This type of service is referred to as Ethernet
+    virtual private LAN service. This Recommendation is based on the Ethernet service
+    framework as defined in Recommendation ITU-T G.8011/Y.1307.
 status:
   stage:
     content: Withdrawal

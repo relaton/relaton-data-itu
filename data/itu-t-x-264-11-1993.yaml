@@ -55,7 +55,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines the transport protocol identification mechanism. The use of a protocol identification procedure allows transport entities to be implemented which can support both the OSI transport and non-OSI protocols above the OSI network layer.
+  content: This Recommendation defines the transport protocol identification mechanism.
+    The use of a protocol identification procedure allows transport entities to be
+    implemented which can support both the OSI transport and non-OSI protocols above
+    the OSI network layer.
 status:
   stage:
     content: Published

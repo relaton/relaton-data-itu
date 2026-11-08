@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation on the International Freephone Service (Blue Book - Melbourne, 1988) has been revised to bring it into alignment with current practice in the International Freephone Service, and to provide two additional optional ways of accessing the service:1) by dialling foreign domestic freephone numbers; and2) by dialling universal international freephone numbers, which use Recommendation E.164 country code 800 as a global service code, as defined in Recommendation E.169.
+  content: This Recommendation on the International Freephone Service (Blue Book -
+    Melbourne, 1988) has been revised to bring it into alignment with current practice
+    in the International Freephone Service, and to provide two additional optional
+    ways of accessing the service:1) by dialling foreign domestic freephone numbers;
+    and2) by dialling universal international freephone numbers, which use Recommendation
+    E.164 country code 800 as a global service code, as defined in Recommendation
+    E.169.
 status:
   stage:
     content: Withdrawal
@@ -102,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T E.100 series – Framework of disaster management for disaster relief system
+      content: ITU-T E.100 series – Framework of disaster management for disaster
+        relief system
     docidentifier:
     - content: E-100 series Suppl. 1 (02/2019)
       type: ITU
@@ -112,7 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T E.164.1 and Recommendation ITU-T E.212 Annex A '
+      content: 'Criteria for M2M/IoT-related assignments under Recommendation ITU-T
+        E.164.1 and Recommendation ITU-T E.212 Annex A '
     docidentifier:
     - content: E Suppl. 11 (06/2020)
       type: ITU

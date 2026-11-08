@@ -52,7 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: The images in this Recommendation include the original eight "ITU-T images" (referred to for years as the "CCITT images"), two bi-level test charts, a gray-scale test chart, various screened half-tone images, electronically dithered images, computer-generated images, gray-scale images and color images. The purpose of this image set is to provide a consistent baseline for future work; for example, results of compression algorithm experiments and image quality tests can be compared by a broad range of users, knowing that the input image data is identical. The specimens reproduced inside the Recommendation in the figures are given for illustration purposes and are not suitable for measurements.
+  content: The images in this Recommendation include the original eight "ITU-T images"
+    (referred to for years as the "CCITT images"), two bi-level test charts, a gray-scale
+    test chart, various screened half-tone images, electronically dithered images,
+    computer-generated images, gray-scale images and color images. The purpose of
+    this image set is to provide a consistent baseline for future work; for example,
+    results of compression algorithm experiments and image quality tests can be compared
+    by a broad range of users, knowing that the input image data is identical. The
+    specimens reproduced inside the Recommendation in the figures are given for illustration
+    purposes and are not suitable for measurements.
 status:
   stage:
     content: Withdrawal

@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Network resilience, the robustness of the network infrastructure, should ensure the continuity of telecommunication services against any damage caused by disasters. Network recovery is restoration of the network infrastructure and telecommunication services to their original status or a certain level of availability, even temporarily, to provide the users with an adequate grade of services after the disaster.\r\n\r\nThis Supplement provides a framework of disaster management for improving network resilience and recovery (NRR) by reviewing high-level objectives of NRR against disasters, identifying several approaches (i.e., redundancy, congestion control, repair, substitute, and robustness) that meet the objectives, and clarifying the approaches with regard to the effective time frame (i.e., phase) for disaster recovery. Based on the identified approaches with effective disaster recovery phases, information about relevant technologies, including already available ones and emerging ones, is also provided.\r\n"
+  content: "Network resilience, the robustness of the network infrastructure, should
+    ensure the continuity of telecommunication services against any damage caused
+    by disasters. Network recovery is restoration of the network infrastructure and
+    telecommunication services to their original status or a certain level of availability,
+    even temporarily, to provide the users with an adequate grade of services after
+    the disaster.\r\n\r\nThis Supplement provides a framework of disaster management
+    for improving network resilience and recovery (NRR) by reviewing high-level objectives
+    of NRR against disasters, identifying several approaches (i.e., redundancy, congestion
+    control, repair, substitute, and robustness) that meet the objectives, and clarifying
+    the approaches with regard to the effective time frame (i.e., phase) for disaster
+    recovery. Based on the identified approaches with effective disaster recovery
+    phases, information about relevant technologies, including already available ones
+    and emerging ones, is also provided.\r\n"
 status:
   stage:
     content: Published

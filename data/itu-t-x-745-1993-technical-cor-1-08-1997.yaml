@@ -50,7 +50,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Technical Corrigendum corrects errors that can cause a management system implementor to develop software that will not work correctly with another vendor's products.
+  content: This Technical Corrigendum corrects errors that can cause a management
+    system implementor to develop software that will not work correctly with another
+    vendor's products.
 status:
   stage:
     content: Published
@@ -86,7 +88,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Systems Management: Test management function'
+      content: 'Information technology – Open Systems Interconnection – Systems Management:
+        Test management function'
     docidentifier:
     - content: X.745 (11/1993)
       type: ITU

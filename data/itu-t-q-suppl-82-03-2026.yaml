@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 82 to ITU-T Q-series Recommendations specifies an adaptive network coding relay protocol building upon the enhanced network coding relay protocol (NCRP). The parameters of transmitted packets that can be used as variables when adapting to the operating conditions of the relaying, such as the load on the system or the interference environment in communication channels, are identified. An approach for introducing a group of control packets into the protocol using a reserved header bit is proposed. The structure of the corresponding service packets is defined, considering different order schemes for header fields. A diagram of the exchange of control messages of the protocol in the adaptive transmission system is also provided.\r\n"
+  content: "Supplement 82 to ITU-T Q-series Recommendations specifies an adaptive
+    network coding relay protocol building upon the enhanced network coding relay
+    protocol (NCRP). The parameters of transmitted packets that can be used as variables
+    when adapting to the operating conditions of the relaying, such as the load on
+    the system or the interference environment in communication channels, are identified.
+    An approach for introducing a group of control packets into the protocol using
+    a reserved header bit is proposed. The structure of the corresponding service
+    packets is defined, considering different order schemes for header fields. A diagram
+    of the exchange of control messages of the protocol in the adaptive transmission
+    system is also provided.\r\n"
 status:
   stage:
     content: Published

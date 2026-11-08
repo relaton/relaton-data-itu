@@ -47,7 +47,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This corrigendum addresses corrections and clarifications in ITU-T Rec. V.75 (1996) concerning errors and omissions in Tables 3 and 6, positioning of segmentation/reassembly header, negotiation of suspend/resume option, usage of H.245 "portNumber", normative references, and update of the ASN.1 regarding N401 Value Range, H.245 codepoints for V.42 bis on an ERM channel, and codepoint for G.729 Annex B.
+  content: This corrigendum addresses corrections and clarifications in ITU-T Rec.
+    V.75 (1996) concerning errors and omissions in Tables 3 and 6, positioning of
+    segmentation/reassembly header, negotiation of suspend/resume option, usage of
+    H.245 "portNumber", normative references, and update of the ASN.1 regarding N401
+    Value Range, H.245 codepoints for V.42 bis on an ERM channel, and codepoint for
+    G.729 Annex B.
 status:
   stage:
     content: Published

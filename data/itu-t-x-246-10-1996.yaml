@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Information technology – Open Systems Interconnection – Connection-oriented Presentation protocol: Protocol Implementation Conformance Statement (PICS) proforma'
+  content: 'Information technology – Open Systems Interconnection – Connection-oriented
+    Presentation protocol: Protocol Implementation Conformance Statement (PICS) proforma'
   type: main
 source:
 - type: src
@@ -55,7 +56,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard describes the protocol implementation conformance statement for the OSI connection-mode presentation protocol (see ITU-T Rec. X.226 | ISO/IEC 8823-1). The PICS presents, in tabular form, the mandatory and optional elements of the TP protocol. The PICS is utilized to represent the choices and features of a particular implementation of the OSI presentation protocol.
+  content: This Recommendation | International Standard describes the protocol implementation
+    conformance statement for the OSI connection-mode presentation protocol (see ITU-T
+    Rec. X.226 | ISO/IEC 8823-1). The PICS presents, in tabular form, the mandatory
+    and optional elements of the TP protocol. The PICS is utilized to represent the
+    choices and features of a particular implementation of the OSI presentation protocol.
 status:
   stage:
     content: Published
@@ -75,7 +80,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – Open Systems Interconnection – Connection-oriented presentation protocol: Protocol Implementation Conformance Statement (PICS) proforma'
+      content: 'Information technology – Open Systems Interconnection – Connection-oriented
+        presentation protocol: Protocol Implementation Conformance Statement (PICS)
+        proforma'
     docidentifier:
     - content: X.246 (07/1994)
       type: ITU

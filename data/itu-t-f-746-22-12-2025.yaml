@@ -52,7 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Traditionally, each network provider and multimedia application service provider collects its own status information independently. There is a lack of an efficient way to share such information among them.\r\nRecommendation ITU-T F.746.22 describes the functional architecture for unified status monitoring (USM) systems, including functional entities, reference points and service control flows. This architecture enables administrators to implement any monitoring system, providing an efficient way to share network-level and application-level information between network providers and multimedia application service providers. It can also share status information among multiple USM systems and can further analyse status information and generate status reports in response to requests from network providers and application service providers.\r\n"
+  content: "Traditionally, each network provider and multimedia application service
+    provider collects its own status information independently. There is a lack of
+    an efficient way to share such information among them.\r\nRecommendation ITU-T
+    F.746.22 describes the functional architecture for unified status monitoring (USM)
+    systems, including functional entities, reference points and service control flows.
+    This architecture enables administrators to implement any monitoring system, providing
+    an efficient way to share network-level and application-level information between
+    network providers and multimedia application service providers. It can also share
+    status information among multiple USM systems and can further analyse status information
+    and generate status reports in response to requests from network providers and
+    application service providers.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +82,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +123,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +134,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

@@ -52,7 +52,21 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This amendment introduces new Annexes B and C. It also describes a number of minor changes to ITU-T Rec. Z.100 to link it to the new annexes and to correct and clarify some minor issues in the main body of ITU-T Rec. Z.100.Annex B allows many legacy descriptions in SDL-92 to be recognized as valid according to SDL-2000. Extensions to the grammar in the main body text of ITU-T Rec. Z.100 are defined.Annex C defines what it means if a claim is made that a description is compliant with SDL or if a claim is made that a software tool is an SDL tool. While in principle it is just sufficient to require descriptions to conform to SDL to enable them to be well-defined and reusable, in practice the notation actually used in models normally is determined by the tool used. For this reason the conformance of a tool to the language standard tends to be more useful than a statement that a model conforms to a standard. The intention is that a user can be confident that a description complies with the standard if it has been passed as compliant by a tool that satisfies the conformance rules.There are specific additional requirements for Level 1 or Level 2 CIF support.
+  content: This amendment introduces new Annexes B and C. It also describes a number
+    of minor changes to ITU-T Rec. Z.100 to link it to the new annexes and to correct
+    and clarify some minor issues in the main body of ITU-T Rec. Z.100.Annex B allows
+    many legacy descriptions in SDL-92 to be recognized as valid according to SDL-2000.
+    Extensions to the grammar in the main body text of ITU-T Rec. Z.100 are defined.Annex
+    C defines what it means if a claim is made that a description is compliant with
+    SDL or if a claim is made that a software tool is an SDL tool. While in principle
+    it is just sufficient to require descriptions to conform to SDL to enable them
+    to be well-defined and reusable, in practice the notation actually used in models
+    normally is determined by the tool used. For this reason the conformance of a
+    tool to the language standard tends to be more useful than a statement that a
+    model conforms to a standard. The intention is that a user can be confident that
+    a description complies with the standard if it has been passed as compliant by
+    a tool that satisfies the conformance rules.There are specific additional requirements
+    for Level 1 or Level 2 CIF support.
 status:
   stage:
     content: Withdrawal
@@ -72,7 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Dynamic semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
+        formal definition: Dynamic semantics'
     docidentifier:
     - content: Z.100 Annex F3 (06/2021)
       type: ITU
@@ -82,7 +97,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Static semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
+        formal definition: Static semantics'
     docidentifier:
     - content: Z.100 Annex F2 (06/2021)
       type: ITU
@@ -92,7 +108,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: General overview'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
+        formal definition: General overview'
     docidentifier:
     - content: Z.100 Annex F1 (10/2019)
       type: ITU
@@ -112,7 +129,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010 formal definition: Dynamic semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010
+        formal definition: Dynamic semantics'
     docidentifier:
     - content: Z.100 Annex F3 (10/2019)
       type: ITU
@@ -122,7 +140,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010 formal definition: Static semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL-2010
+        formal definition: Static semantics'
     docidentifier:
     - content: Z.100 Annex F2 (10/2019)
       type: ITU
@@ -212,7 +231,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Dynamic semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
+        formal definition: Dynamic semantics'
     docidentifier:
     - content: Z.100 Annex F3 (01/2015)
       type: ITU
@@ -222,7 +242,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: Static semantics'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
+        formal definition: Static semantics'
     docidentifier:
     - content: Z.100 Annex F2 (01/2015)
       type: ITU
@@ -232,7 +253,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Specification and Description Language - Overview of SDL-2010 - SDL formal definition: General overview'
+      content: 'Specification and Description Language - Overview of SDL-2010 - SDL
+        formal definition: General overview'
     docidentifier:
     - content: Z.100 Annex F1 (01/2015)
       type: ITU
@@ -586,7 +608,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
+        Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

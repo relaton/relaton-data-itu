@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Supplement 9 to the ITU-T E.800-series Recommendations provides information on regulatory aspects of quality of service (QoS) supplementary to guidelines provided in the Recommendations of the E.800 series of the ITU-T. The intent of these Recommendations and of this supplement is to assist regulators or administrations who need desired levels of QoS for one or more ICT services to be achieved within the area for which they are responsible.
+  content: This Supplement 9 to the ITU-T E.800-series Recommendations provides information
+    on regulatory aspects of quality of service (QoS) supplementary to guidelines
+    provided in the Recommendations of the E.800 series of the ITU-T. The intent of
+    these Recommendations and of this supplement is to assist regulators or administrations
+    who need desired levels of QoS for one or more ICT services to be achieved within
+    the area for which they are responsible.
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 9 to ITU-T E.800-series Recommendations (Guidelines on regulatory aspects of QoS)
+      content: Supplement 9 to ITU-T E.800-series Recommendations (Guidelines on regulatory
+        aspects of QoS)
     docidentifier:
     - content: E-800 series Suppl. 9 (12/2013)
       type: ITU

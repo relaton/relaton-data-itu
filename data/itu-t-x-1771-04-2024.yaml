@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Security guidelines for combining de-identified data using trusted third party
+  content: Security guidelines for combining de-identified data using trusted third
+    party
   type: main
 source:
 - type: src
@@ -52,7 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "De-identification is a process to remove the association between a set of identifiable attributes and the data principal. Appropriate de-identification techniques should be used by an organization to balance between its desires to protect data as the data controller and to use the data in new and innovative ways. \r\nRecommendation ITU-T X.1771 provides security guidelines for information and communication technology (ICT) service providers acting as data controllers and for trusted third parties fulfilling the role of combining de-identified datasets. The purpose of these security guidelines is to reduce risks, protect data and promote the utility of the dataset.\r\n"
+  content: "De-identification is a process to remove the association between a set
+    of identifiable attributes and the data principal. Appropriate de-identification
+    techniques should be used by an organization to balance between its desires to
+    protect data as the data controller and to use the data in new and innovative
+    ways. \r\nRecommendation ITU-T X.1771 provides security guidelines for information
+    and communication technology (ICT) service providers acting as data controllers
+    and for trusted third parties fulfilling the role of combining de-identified datasets.
+    The purpose of these security guidelines is to reduce risks, protect data and
+    promote the utility of the dataset.\r\n"
 status:
   stage:
     content: Published

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Information technology – Open Distributed Processing – Type repository function
+  content: Information technology – Open Distributed Processing – Type repository
+    function
   type: main
 source:
 - type: src
@@ -55,7 +56,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation | International Standard defines a framework for describing and managing types of interest in ODP systems. Specifically:· it determines what entities need to be typed and what needs to be defined about the identified types;· it identifies and characterizes type languages sufficient to describe the types of interest;· it specifies a generic type repository function which can be specialized to a specific type system or type notation, and which provides for storage, retrieval and management of type descriptions and relationships between types, for naming of types in a manner consistent with the ODP naming framework, and for interworking and federation of different type repositories.
+  content: This Recommendation | International Standard defines a framework for describing
+    and managing types of interest in ODP systems. Specifically:· it determines what
+    entities need to be typed and what needs to be defined about the identified types;·
+    it identifies and characterizes type languages sufficient to describe the types
+    of interest;· it specifies a generic type repository function which can be specialized
+    to a specific type system or type notation, and which provides for storage, retrieval
+    and management of type descriptions and relationships between types, for naming
+    of types in a manner consistent with the ODP naming framework, and for interworking
+    and federation of different type repositories.
 status:
   stage:
     content: Published

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: ITU-T Y.3302 series – Functional architecture of software-defined networking for massive data transmission service
+  content: ITU-T Y.3302 series – Functional architecture of software-defined networking
+    for massive data transmission service
   type: main
 source:
 - type: src
@@ -52,7 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 101 to ITU-T Y-series Recommendations provides resource prediction capability for massive data transmission (MDT) service to improve the data transmission efficiency and avoid the influence of ongoing services in the software-defined networking (SDN) control layer based on the functional architecture in Recommendation ITU-T Y.3302, which can make the MDT service more cost efficient and optimize the network resource utilization. This Supplement focuses on introducing the resource prediction functional component and defining the procedure of the MDT service with the newly added functional component.\r\n"
+  content: "Supplement 101 to ITU-T Y-series Recommendations provides resource prediction
+    capability for massive data transmission (MDT) service to improve the data transmission
+    efficiency and avoid the influence of ongoing services in the software-defined
+    networking (SDN) control layer based on the functional architecture in Recommendation
+    ITU-T Y.3302, which can make the MDT service more cost efficient and optimize
+    the network resource utilization. This Supplement focuses on introducing the resource
+    prediction functional component and defining the procedure of the MDT service
+    with the newly added functional component.\r\n"
 status:
   stage:
     content: Published

@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Requirements and analysis for NGN trouble administration across B2B and C2B interfaces
+  content: Requirements and analysis for NGN trouble administration across B2B and
+    C2B interfaces
   type: main
 source:
 - type: src
@@ -52,7 +53,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: ITU-T Recommendation M.3343 contains the requirements and analysis for trouble administration functions for the business-to-business and customer-to-business interfaces in support of NGN. The requirements and analysis are provided using the TMN interface specification methodology described in ITU-T Recommendation M.3020. This Recommendation differs from existing approved Recommendations on trouble management in that NGN requires product and service flexibility and extensions introduced by new technology for NGN. Trouble type is also configurable and extensible by either the service provider or service customer to support new products and services. These extensions are introduced to support peer-wise, local, national and regional requirements introduced and described in ITU-T Recommendation M.3050.2 for supplier/partner relationship management introduced by the NGN value-chain. This is needed to support regulatory and international trade needs
+  content: ITU-T Recommendation M.3343 contains the requirements and analysis for
+    trouble administration functions for the business-to-business and customer-to-business
+    interfaces in support of NGN. The requirements and analysis are provided using
+    the TMN interface specification methodology described in ITU-T Recommendation
+    M.3020. This Recommendation differs from existing approved Recommendations on
+    trouble management in that NGN requires product and service flexibility and extensions
+    introduced by new technology for NGN. Trouble type is also configurable and extensible
+    by either the service provider or service customer to support new products and
+    services. These extensions are introduced to support peer-wise, local, national
+    and regional requirements introduced and described in ITU-T Recommendation M.3050.2
+    for supplier/partner relationship management introduced by the NGN value-chain.
+    This is needed to support regulatory and international trade needs
 status:
   stage:
     content: Published

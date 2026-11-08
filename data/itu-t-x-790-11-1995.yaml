@@ -52,7 +52,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation is concerned with the management of malfunction in systems and communications networks from the perspective of a provider of service and user of that service. In the Recommendation these malfunctions are referred to as "troubles". A report format is defined to allow a user to report a trouble, which will then be progressed to resolution by a provider. During the resolution by the service provider, the service user may determine the current state of resolution by issuing a request for this information. When cleared the provider may notify the user. Particular types of troubles are included; however, the use of this Recommendation by a particular application may require trouble types specific to that application to be used - this is catered for in this Recommendation.
+  content: This Recommendation is concerned with the management of malfunction in
+    systems and communications networks from the perspective of a provider of service
+    and user of that service. In the Recommendation these malfunctions are referred
+    to as "troubles". A report format is defined to allow a user to report a trouble,
+    which will then be progressed to resolution by a provider. During the resolution
+    by the service provider, the service user may determine the current state of resolution
+    by issuing a request for this information. When cleared the provider may notify
+    the user. Particular types of troubles are included; however, the use of this
+    Recommendation by a particular application may require trouble types specific
+    to that application to be used - this is catered for in this Recommendation.
 status:
   stage:
     content: Published

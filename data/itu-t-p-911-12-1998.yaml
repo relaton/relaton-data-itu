@@ -52,7 +52,18 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation describes non-interactive subjective assessment methods for evaluating the one-way overall audiovisual quality for multimedia applications such as videoconferencing, storage and retrieval applications, telemedical applications, etc. These methods can be used for several different purposes including, but not limited to, selection of algorithms, ranking of audiovisual system performance and evaluation of the quality level during an audiovisual connection. When interactive aspects are to be assessed, conversation test methods described in Recommendation P.920 should be used. This Recommendation also outlines the characteristics of the source sequences to be used, like duration, kind of content, number of sequences, etc. Finally it provides indications about relation between audio, video and audiovisual quality, as they were derived from results of tests carried out independently in different laboratories.
+  content: This Recommendation describes non-interactive subjective assessment methods
+    for evaluating the one-way overall audiovisual quality for multimedia applications
+    such as videoconferencing, storage and retrieval applications, telemedical applications,
+    etc. These methods can be used for several different purposes including, but not
+    limited to, selection of algorithms, ranking of audiovisual system performance
+    and evaluation of the quality level during an audiovisual connection. When interactive
+    aspects are to be assessed, conversation test methods described in Recommendation
+    P.920 should be used. This Recommendation also outlines the characteristics of
+    the source sequences to be used, like duration, kind of content, number of sequences,
+    etc. Finally it provides indications about relation between audio, video and audiovisual
+    quality, as they were derived from results of tests carried out independently
+    in different laboratories.
 status:
   stage:
     content: Withdrawal

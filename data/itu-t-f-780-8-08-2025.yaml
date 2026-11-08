@@ -52,7 +52,19 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.780.8 defines the concept of proactive health and distinguishes it from passive health. Proactive health data collection terminal equipment (PHTE) is designed to collect and transmit various types of proactive health data in order to monitor an individual's lifestyle and thereby maintain and enhance overall health status.\r\nThis Recommendation provides the technical requirements of PHTE. It establishes a comprehensive framework covering functionality, performance, interoperability, safety, electromagnetic compatibility, environmental adaptability and durability. These requirements serve as a reference for the design, production and deployment of PHTE. The Recommendation provides definitions for key terms and concepts, including proactive health, proactive health data, proactive health system and proactive health data collection terminal equipment. Technical requirements for other components of the proactive health system architecture are beyond the scope of this Recommendation.\r\n"
+  content: "Recommendation ITU-T F.780.8 defines the concept of proactive health and
+    distinguishes it from passive health. Proactive health data collection terminal
+    equipment (PHTE) is designed to collect and transmit various types of proactive
+    health data in order to monitor an individual's lifestyle and thereby maintain
+    and enhance overall health status.\r\nThis Recommendation provides the technical
+    requirements of PHTE. It establishes a comprehensive framework covering functionality,
+    performance, interoperability, safety, electromagnetic compatibility, environmental
+    adaptability and durability. These requirements serve as a reference for the design,
+    production and deployment of PHTE. The Recommendation provides definitions for
+    key terms and concepts, including proactive health, proactive health data, proactive
+    health system and proactive health data collection terminal equipment. Technical
+    requirements for other components of the proactive health system architecture
+    are beyond the scope of this Recommendation.\r\n"
 status:
   stage:
     content: Published
@@ -72,7 +84,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Definitions relating to telegraph, telematic and data transmission services
+      content: Definitions relating to telegraph, telematic and data transmission
+        services
     docidentifier:
     - content: F Suppl. 1 (11/1988)
       type: ITU
@@ -112,7 +125,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Use cases for communication services of passive sensing equipment based on civilian unmanned aerial vehicles
+      content: Use cases for communication services of passive sensing equipment based
+        on civilian unmanned aerial vehicles
     docidentifier:
     - content: F Suppl. 5 (07/2026)
       type: ITU
@@ -122,7 +136,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Overview of information and communication technology-enabled flying car service platform
+      content: Overview of information and communication technology-enabled flying
+        car service platform
     docidentifier:
     - content: F Suppl. 6 (07/2026)
       type: ITU

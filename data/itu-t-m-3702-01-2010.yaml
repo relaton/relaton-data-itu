@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Common management services - Notification management - Protocol neutral requirement and analysis
+  content: Common management services - Notification management - Protocol neutral
+    requirement and analysis
   type: main
 source:
 - type: src
@@ -52,7 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU-T M.3702 provides the requirements and analysis for one of the common management services - notification management. The functional requirements for notification management interface include the management functions for notification subscription, notification type, notification storage and recovery. In the analysis part, the detail information model supporting the above function across the management interface is provided.
+  content: Recommendation ITU-T M.3702 provides the requirements and analysis for
+    one of the common management services - notification management. The functional
+    requirements for notification management interface include the management functions
+    for notification subscription, notification type, notification storage and recovery.
+    In the analysis part, the detail information model supporting the above function
+    across the management interface is provided.
 status:
   stage:
     content: Published

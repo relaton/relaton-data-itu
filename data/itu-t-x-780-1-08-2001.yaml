@@ -52,7 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: This Recommendation defines extensions to the set of TMN CORBA managed object modelling guidelines required to support coarse-grained interfaces. It specifies how coarse-grained CORBA TMN interfaces are to be defined. It also provides guidelines on converting fine-grained interfaces to coarse-grained. A CORBA IDL module defining the base interface types to be extended is provided.
+  content: This Recommendation defines extensions to the set of TMN CORBA managed
+    object modelling guidelines required to support coarse-grained interfaces. It
+    specifies how coarse-grained CORBA TMN interfaces are to be defined. It also provides
+    guidelines on converting fine-grained interfaces to coarse-grained. A CORBA IDL
+    module defining the base interface types to be extended is provided.
 status:
   stage:
     content: Published

@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3163/F.743.38 specifies the generic information model for data asset management. The information model includes abstract and common entities representing data assets, the entities that support data asset management, the common key attributes of these entities and the relationship among these entities at a technology-independent level (protocol-neutral). The extension mechanism for specific data asset entities and attributes is also provided, as well as some examples.\r\n"
+  content: "Recommendation ITU-T M.3163/F.743.38 specifies the generic information
+    model for data asset management. The information model includes abstract and common
+    entities representing data assets, the entities that support data asset management,
+    the common key attributes of these entities and the relationship among these entities
+    at a technology-independent level (protocol-neutral). The extension mechanism
+    for specific data asset entities and attributes is also provided, as well as some
+    examples.\r\n"
 status:
   stage:
     content: Published

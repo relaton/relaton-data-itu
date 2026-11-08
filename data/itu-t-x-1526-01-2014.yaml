@@ -5,7 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Language for the open definition of vulnerabilities and for the assessment of a system state
+  content: Language for the open definition of vulnerabilities and for the assessment
+    of a system state
   type: main
 source:
 - type: src
@@ -52,7 +53,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'Recommendation ITU-T X.1526 on the language for the open definition of vulnerabilities and for the assessment of a system state (also known as, open vulnerability and assessment language, (OVAL)) includes the three main steps of the assessment process: representing configuration information of endpoints for testing; analysing the endpoint for the presence of the specified machine state (vulnerability, configuration, patch state, etc.) and reporting the results of this assessment. The purpose of OVAL is to provide an international, information security, community standard to promote open and publicly available security content and to standardize the transfer of this information across the entire spectrum of security tools and services. OVAL is a language used to encode endpoint details, and an assortment of content repositories held throughout the community.'
+  content: 'Recommendation ITU-T X.1526 on the language for the open definition of
+    vulnerabilities and for the assessment of a system state (also known as, open
+    vulnerability and assessment language, (OVAL)) includes the three main steps of
+    the assessment process: representing configuration information of endpoints for
+    testing; analysing the endpoint for the presence of the specified machine state
+    (vulnerability, configuration, patch state, etc.) and reporting the results of
+    this assessment. The purpose of OVAL is to provide an international, information
+    security, community standard to promote open and publicly available security content
+    and to standardize the transfer of this information across the entire spectrum
+    of security tools and services. OVAL is a language used to encode endpoint details,
+    and an assortment of content repositories held throughout the community.'
 status:
   stage:
     content: Published

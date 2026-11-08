@@ -52,7 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'In April 1999, ITU-T adopted new higher resolutions of 300 ? 600, 400 ? 800, 600 ? 600, 600 ? 1200 and 1200 ? 1200 pels/25.4 mm while 100 ? 100 pels/25.4 mm was introduced a year earlier. This amendment assists the comprehension of the appropriate square resolution subset of these new resolutions: it is also written in a manner that accommodates future T.30 resolution enhancements without requiring corresponding amendments.'
+  content: 'In April 1999, ITU-T adopted new higher resolutions of 300 ? 600, 400
+    ? 800, 600 ? 600, 600 ? 1200 and 1200 ? 1200 pels/25.4 mm while 100 ? 100 pels/25.4
+    mm was introduced a year earlier. This amendment assists the comprehension of
+    the appropriate square resolution subset of these new resolutions: it is also
+    written in a manner that accommodates future T.30 resolution enhancements without
+    requiring corresponding amendments.'
 status:
   stage:
     content: Published
@@ -72,7 +77,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Colour and gray-scale image representations using lossless coding scheme for facsimile
+      content: Colour and gray-scale image representations using lossless coding scheme
+        for facsimile
     docidentifier:
     - content: T.43 (07/1997)
       type: ITU

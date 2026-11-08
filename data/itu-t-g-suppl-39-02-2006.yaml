@@ -52,7 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: 'This Supplement provides information on the background and methodologies used in the development of optical interface Recommendations such as ITU-T Recs G.957, G.691, and G.959.1. This revision: clarifies BER measurements for FEC enabled systems; clarifies the mode partition noise penalty equation in 9.2.1.1; incorporates information on the statistics of the attenuation of installed links; adds guidance on best practices for Raman amplified systems to clause 14; makes other miscellaneous corrections.'
+  content: 'This Supplement provides information on the background and methodologies
+    used in the development of optical interface Recommendations such as ITU-T Recs
+    G.957, G.691, and G.959.1. This revision: clarifies BER measurements for FEC enabled
+    systems; clarifies the mode partition noise penalty equation in 9.2.1.1; incorporates
+    information on the statistics of the attenuation of installed links; adds guidance
+    on best practices for Raman amplified systems to clause 14; makes other miscellaneous
+    corrections.'
 status:
   stage:
     content: Withdrawal

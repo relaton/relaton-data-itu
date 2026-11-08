@@ -52,7 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Amendment 2 to ITU-T Recommendation I.610 (1999) defines some previously unused areas in the ATM OA&M loopback (LB) cell format to allow the cell to be used for conducting round trip delay (RTD) measurements. In particular, this amendment defines the usage of a timestamp in association with a service verification indication.
+  content: Amendment 2 to ITU-T Recommendation I.610 (1999) defines some previously
+    unused areas in the ATM OA&M loopback (LB) cell format to allow the cell to be
+    used for conducting round trip delay (RTD) measurements. In particular, this amendment
+    defines the usage of a timestamp in association with a service verification indication.
 status:
   stage:
     content: Published
@@ -128,7 +131,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Generic service descriptions for ten supplementary services defined in I.250-Series Recommendations
+      content: Generic service descriptions for ten supplementary services defined
+        in I.250-Series Recommendations
     docidentifier:
     - content: I Suppl. 1 (03/1998)
       type: ITU
