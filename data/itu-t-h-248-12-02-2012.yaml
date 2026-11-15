@@ -53,17 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.12 defines several ITU-T H.248.1 packages that
-    are intended for media gateways (MGs) designed to support interworking between
-    ITU-T H.323 terminals and ITU T H.324 terminals. More specifically, this Recommendation
-    contains: package \"h324\" for creating terminations supporting ITU-T H.324, package
-    \"h245\" for creating terminations supporting ITU-T H.245 channels for ITU-T H.324
-    calls, package \"h323bc\" for creating terminations supporting ITU T H.245 channels
-    for ITU-T H.323 calls, package \"h245com\" for the communication of ITU-T H.245
-    commands between a media gateway controller (MGC) and an MG, and package \"h245ind\"
-    for the communication of ITU-T H.245 indications. \r\nThis revision allows the
-    MGC to request the MG to report when the h223Skewindication parameter exceeds
-    a certain amount.\r\n"
+  content: "Recommendation ITU-T H.248.12 defines several ITU-T H.248.1 packages that are intended for media gateways (MGs) designed to support interworking between ITU-T H.323 terminals and ITU T H.324 terminals. More specifically, this Recommendation contains: package \"h324\" for creating terminations supporting ITU-T H.324, package \"h245\" for creating terminations supporting ITU-T H.245 channels for ITU-T H.324 calls, package \"h323bc\" for creating terminations supporting ITU T H.245 channels for ITU-T H.323 calls, package \"h245com\" for the communication of ITU-T H.245 commands between a media gateway controller (MGC) and an MG, and package \"h245ind\" for the communication of ITU-T H.245 indications. \r\nThis revision allows the MGC to request the MG to report when the h223Skewindication parameter exceeds a certain amount.\r\n"
 status:
   stage:
     content: Published

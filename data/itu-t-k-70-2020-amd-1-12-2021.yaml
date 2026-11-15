@@ -52,12 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The EMF-estimator software that is Appendix I of Recommendation ITU-T
+  content: 'The EMF-estimator software that is Appendix I of Recommendation ITU-T
     K.70 uses Microsoft Access databank for the collection of input and output data.
     As various versions of Microsoft Access exist, different installation procedures
     need to be used to obtain a software that operates properly on a dedicated PC.
     Amendment 1 to Recommendation ITU-T K.70 adds clause I.10 to clarify the installation
-    procedure.\r\n"
+    procedure.
+    '
 status:
   stage:
     content: Published

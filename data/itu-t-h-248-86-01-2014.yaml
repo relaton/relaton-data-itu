@@ -52,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.86 has in scope ITU-T H.248 media gateways
-    with support of packet inspection capabilities. This Recommendation describes
-    the relation of deep packet inspection (DPI) to existing ITU-T H.248 protocol
-    capabilities concerning packet processing, and defines new ITU\x1ET H.248 packages
-    with the specific scope of DPI.\r\nThe proposed ITU-T H.248 packages serve various
-    different network-level use cases and provide inherent flexibility due to the
-    core design concept that separates encoding and transport of DPI policy rules."
+  content: "Recommendation ITU-T H.248.86 has in scope ITU-T H.248 media gateways with support of packet inspection capabilities. This Recommendation describes the relation of deep packet inspection (DPI) to existing ITU-T H.248 protocol capabilities concerning packet processing, and defines new ITU\x1eT H.248 packages with the specific scope of DPI.\r\nThe proposed ITU-T H.248 packages serve various different network-level use cases and provide inherent flexibility due to the core design concept that separates encoding and transport of DPI policy rules."
 status:
   stage:
     content: Published

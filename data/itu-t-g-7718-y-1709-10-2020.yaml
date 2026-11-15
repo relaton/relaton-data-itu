@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.7718 contains the framework for ASON management.
-    It places automatically switched optical network (ASON) management within the
-    TMN context and specifies how the TMN principles may be applied. A management
-    view of the ASON control plane is developed. This view provides the bases for
-    the ASON management requirements specified in this Recommendation. Identifier
-    spaces needed in ASON management are specified. Examples of management system
-    structures and ASON related management applications are contained in the appendices.
-    \r\n\r\nThe 2010 version of this Recommendation adds the requirements to support
-    permanent connection to soft permanent connection migration, configuration of
-    routing controller adjacencies, call detail record for accounting management,
-    and refresh of management plane and control plane views. \r\n\r\nThe 2020 edition
-    of the Recommendation extends the scope from ASON management to the aspects of
-    management of MC (management and control) components and functions. \r\n"
+  content: "Recommendation ITU-T G.7718 contains the framework for ASON management. It places automatically switched optical network (ASON) management within the TMN context and specifies how the TMN principles may be applied. A management view of the ASON control plane is developed. This view provides the bases for the ASON management requirements specified in this Recommendation. Identifier spaces needed in ASON management are specified. Examples of management system structures and ASON related management applications are contained in the appendices. \r\n\r\nThe 2010 version of this Recommendation adds the requirements to support permanent connection to soft permanent connection migration, configuration of routing controller adjacencies, call detail record for accounting management, and refresh of management plane and control plane views. \r\n\r\nThe 2020 edition of the Recommendation extends the scope from ASON management to the aspects of management of MC (management and control) components and functions. \r\n"
 status:
   stage:
     content: Published

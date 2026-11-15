@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.50 specifies the framework and technical requirements
+  content: 'Recommendation ITU-T F.748.50 specifies the framework and technical requirements
     for the digital human access interfaces in real applications including session
     connection management, system initialization, digital asset parsing, personalized
     customization, artificial intelligence (AI) capability invocation, body/facial
@@ -61,7 +61,8 @@ abstract:
     systems in a standardized manner. A well-defined framework allows developers in
     the application layer to focus on creating user-facing features and use cases,
     while engineers working on the infrastructure layer can focus on optimizing and
-    improving the underlying technologies.\r\n"
+    improving the underlying technologies.
+    '
 status:
   stage:
     content: Published

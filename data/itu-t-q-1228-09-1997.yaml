@@ -50,32 +50,33 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation Q.1228 defines the Intelligent Network (IN) Application
+  content: 'Recommendation Q.1228 defines the Intelligent Network (IN) Application
     Protocol (INAP) for IN Capability Set 2 (IN CS-2). This Recommendation defines
     the INAP for IN CS-2 based upon the IN CS-1 refined (CS-1R) Q.1218 specification
     (1995) and the general rules for INAP provided in Recommendation Q.1208, consistent
     with the scope of IN CS-2 defined in Recommendation Q.1221.Recommendation Q.1228
-    provides:\r• general extensions to the CS-1R INAP in support of IN CS-2 target
+    provides:    • general extensions to the CS-1R INAP in support of IN CS-2 target
     services including: SCF initiated trigger management, GVNS service support, explicit
     ISDN supplementary service feature interaction support, service compatibility
     checks, general User to Service Interaction (UTSI), Specialized Resource Function
     (SRF) script processing, enhanced security, extended BCSM support, message store
-    and forward, SCF/SDF extensions in support of distributed data management;\r•
+    and forward, SCF/SDF extensions in support of distributed data management;    •
     protocol support for Call Party Handling capabilities based, in part, on future
-    study items identified in CS-1R;\r• protocol support for the Service Control Function
-    (SCF) to SCF and Service Data Function (SDF) to SDF functional relationships to
-    support distributed service logic execution and distributed data functions;\r•
+    study items identified in CS-1R;    • protocol support for the Service Control
+    Function (SCF) to SCF and Service Data Function (SDF) to SDF functional relationships
+    to support distributed service logic execution and distributed data functions;    •
     protocol support for the Call Unrelated Service Function (CUSF) to Service Control
     Function (SCF) to support non-call related interactions between users and the
-    SCF;\r• additional details on services assumed from lower layers and generic interface
-    security;\r• validated SDLs for SSF-related procedure handling based upon Z.100
-    object-oriented Specification and Description language.Within the Q.122x Recommendation
-    series, Recommendation Q.1228 describes the protocol realizing the Q.1224 distribution
-    of Q.1223 Global Functional Plane functionality in a service and vendor/implementation
-    independent manner, as constrained by the capabilities of the embedded base of
-    evolvable network technology. This provides the flexibility to allocate distributed
-    functionality into multiple physical network configurations, as described in Recommendation
-    Q.1225, and to evolve IN from IN CS-2 to some future CS-N."
+    SCF;    • additional details on services assumed from lower layers and generic
+    interface security;    • validated SDLs for SSF-related procedure handling
+    based upon Z.100 object-oriented Specification and Description language.Within
+    the Q.122x Recommendation series, Recommendation Q.1228 describes the protocol
+    realizing the Q.1224 distribution of Q.1223 Global Functional Plane functionality
+    in a service and vendor/implementation independent manner, as constrained by the
+    capabilities of the embedded base of evolvable network technology. This provides
+    the flexibility to allocate distributed functionality into multiple physical network
+    configurations, as described in Recommendation Q.1225, and to evolve IN from IN
+    CS-2 to some future CS-N.'
 status:
   stage:
     content: Published
@@ -333,9 +334,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -345,8 +346,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

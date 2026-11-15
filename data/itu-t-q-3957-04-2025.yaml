@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3957 aims to specify the interoperability testing
+  content: 'Recommendation ITU-T Q.3957 aims to specify the interoperability testing
     suite for cloud-based control plane and pooled user plane (UP) of virtualized
     broadband network gateway (vBNG), which is based on the signalling requirements
     of vBNG in Recommendation ITU-T Q.4143. As a background, this Recommendation gives
@@ -61,7 +61,8 @@ abstract:
     and vBNG pooled user plane (vBNG-PUP). This Recommendation also deals with interoperability
     testing of two target areas, including the interoperability testing between vBNG-CP
     and vBNG-PUP, interoperability testing between vBNG-PUPs, and all the test cases
-    are designed around these two target areas.\r\n"
+    are designed around these two target areas.
+    '
 status:
   stage:
     content: Published
@@ -319,9 +320,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -331,8 +332,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

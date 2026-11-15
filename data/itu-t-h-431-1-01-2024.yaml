@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.431.1, together with its related Recommendation
+  content: 'Recommendation ITU-T H.431.1, together with its related Recommendation
     ITU-T F.746.14, specifies the functional architecture of cloud virtual reality
     systems. It describes the overall functional architecture including control layer,
     resource layer, network layer, terminal layer, operation, administration and management,
@@ -60,7 +60,8 @@ abstract:
     such as unified scheduling/technology integration/content distribution of the
     control layer, cloud-based operation on the resource layer and high-quality transmission
     by the network layer. The cloud virtual reality (VR) content can be run concurrently
-    based on the cloud and is distributed to the terminal for presentation.\r\n"
+    based on the cloud and is distributed to the terminal for presentation.
+    '
 status:
   stage:
     content: Published

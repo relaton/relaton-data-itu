@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.45 specifies the technical requirements and
+  content: 'Recommendation ITU-T F.748.45 specifies the technical requirements and
     evaluation methods during the construction of the code generation based on the
     foundation model. It aims to guide the code generation ability construction based
-    on the foundation model and provide general user guidelines.\r\n"
+    on the foundation model and provide general user guidelines.
+    '
 status:
   stage:
     content: Published

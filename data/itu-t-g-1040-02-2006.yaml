@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines a new performance metric for networks that
-    transport short data transactions, such as those associated with credit cards
-    and other point-of-sale transactions. The main factors contributing to transaction
-    time are packet network performance and host processing time.\r\nThe new metric
-    is called network contribution to transaction time (NCTT), and it uses packet
-    transfer performance levels (such as round-trip time and packet loss ratio) as
-    inputs in order to estimate the portion of transaction time attributable to the
-    network alone. Since this is the portion under the control of the network operator,
-    knowledge of this value is useful for operators and users alike. The scope of
-    this Recommendation is limited to the performance of the path between user-network
-    interfaces (UNI-UNI) and uses limited configuration information from transaction
-    client and host systems."
+  content: "This Recommendation defines a new performance metric for networks that transport short data transactions, such as those associated with credit cards and other point-of-sale transactions. The main factors contributing to transaction time are packet network performance and host processing time.\r\nThe new metric is called network contribution to transaction time (NCTT), and it uses packet transfer performance levels (such as round-trip time and packet loss ratio) as inputs in order to estimate the portion of transaction time attributable to the network alone. Since this is the portion under the control of the network operator, knowledge of this value is useful for operators and users alike. The scope of this Recommendation is limited to the performance of the path between user-network interfaces (UNI-UNI) and uses limited configuration information from transaction client and host systems."
 status:
   stage:
     content: Published

@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.672 provides a description of the relevant characteristics
+  content: 'Recommendation ITU-T G.672 provides a description of the relevant characteristics
     of multi-degree reconfigurable optical add/drop multiplexer (MD-ROADM) network
     elements. The MD-ROADM is intended to be used in optical networks based on dense
     wavelength division multiplexing (DWDM), to enhance network scalability and to
@@ -60,7 +60,8 @@ abstract:
     also provides classification criteria and a list of optical transfer parameters
     for MD-ROADMs. In this version of this Recommendation, characteristics, classification
     criteria and optical transfer parameters are applied to MD-ROADMs appropriate
-    for both fixed and flexible DWDM grid applications.\r\n"
+    for both fixed and flexible DWDM grid applications.
+    '
 status:
   stage:
     content: Withdrawal

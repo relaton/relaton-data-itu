@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation G.8052/Y.1346 contains the protocol neutral UML information
-    model for Ethernet Transport NE Management. The model is based on the Ethernet
-    equipment functions specified in Recommendation ITU-T G.8021/Y.1341, generic management
-    requirements in Recommendation ITU-T G.7710/Y.1701, and Ethernet specific management
-    requirements in Recommendation ITU-T G.8051/Y.1345.\r\n\r\nThe 2016 revision of
-    this Recommendation has change the UML modeling tool from RSA to open source Papyrus
-    tool, update the G.8052 information model to align with the G.7711 v2.0 Core information
-    model, drop subclassing the TP classes from M.3160, and support the additional
-    management requirements in Recommendation ITU-T G.8051.\r\n"
+  content: "Recommendation G.8052/Y.1346 contains the protocol neutral UML information model for Ethernet Transport NE Management. The model is based on the Ethernet equipment functions specified in Recommendation ITU-T G.8021/Y.1341, generic management requirements in Recommendation ITU-T G.7710/Y.1701, and Ethernet specific management requirements in Recommendation ITU-T G.8051/Y.1345.\r\n\r\nThe 2016 revision of this Recommendation has change the UML modeling tool from RSA to open source Papyrus tool, update the G.8052 information model to align with the G.7711 v2.0 Core information model, drop subclassing the TP classes from M.3160, and support the additional management requirements in Recommendation ITU-T G.8051.\r\n"
 status:
   stage:
     content: Withdrawal

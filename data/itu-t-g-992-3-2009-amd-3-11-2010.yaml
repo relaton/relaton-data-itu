@@ -52,10 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 3 to Recommendation ITU-T G.992.3 covers the following functionalities:\r•
-    Channel initialization policies (corrigendum).\r• Upstream optional D0 values
-    (corrigendum).\r• Scale factor for downstream transmitter referred virtual noise
-    (new functionality).\r• Loop diagnostics procedures (editorial)."
+  content: "Amendment 3 to Recommendation ITU-T G.992.3 covers the following functionalities:\r• Channel initialization policies (corrigendum).\r• Upstream optional D0 values (corrigendum).\r• Scale factor for downstream transmitter referred virtual noise (new functionality).\r• Loop diagnostics procedures (editorial)."
 status:
   stage:
     content: Published
@@ -217,8 +214,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C – Specific requirements for an ADSL system operating in
-        the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix III
+      content: New Annex C – Specific requirements for an ADSL system operating
+        in the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix
+        III
     docidentifier:
     - content: G.992.3 (2002) Amd. 3 (06/2004)
       type: ITU

@@ -47,19 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9964 specifies the control parameters that determine
-    spectral content, power spectral density (PSD) mask requirements, a set of tools
-    to support reduction of the transmit PSD, means to measure this PSD for transmission
-    over telephone wiring, power line wiring and coaxial cable, as well as the allowable
-    total transmit power into a specified termination impedance. It complements the
-    system architecture and physical layer (PHY) specification in Recommendation ITU-T
-    G.9960, and the data link layer (DLL) specification in Recommendation ITU-T G.9961,
-    as well as the modifications and additions to these Recommendations specifying
-    the multiple input/multiple output (MIMO) home networking transceiver in Recommendation
-    ITU-T G.9963.\r\nAmendment 1 adds support for a new profile for 200 MHz baseband
-    coaxial.\r\nAmendment 2 contains the specification of spectral content for 200
-    MHz OFB for telephone lines.\r\nAmendment 3 includes the extension of the Recommendation
-    to operate on an extended bandwidth over coaxial and phoneline mediums."
+  content: "Recommendation ITU-T G.9964 specifies the control parameters that determine spectral content, power spectral density (PSD) mask requirements, a set of tools to support reduction of the transmit PSD, means to measure this PSD for transmission over telephone wiring, power line wiring and coaxial cable, as well as the allowable total transmit power into a specified termination impedance. It complements the system architecture and physical layer (PHY) specification in Recommendation ITU-T G.9960, and the data link layer (DLL) specification in Recommendation ITU-T G.9961, as well as the modifications and additions to these Recommendations specifying the multiple input/multiple output (MIMO) home networking transceiver in Recommendation ITU-T G.9963.\r\nAmendment 1 adds support for a new profile for 200 MHz baseband coaxial.\r\nAmendment 2 contains the specification of spectral content for 200 MHz OFB for telephone lines.\r\nAmendment 3 includes the extension of the Recommendation to operate on an extended bandwidth over coaxial and phoneline mediums."
 status:
   stage:
     content: Withdrawal
@@ -79,8 +67,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wireline-based home networking transceivers – Power
-        spectral density specification
+      content: Unified high-speed wireline-based home networking transceivers –
+        Power spectral density specification
     docidentifier:
     - content: G.9964 (12/2023)
       type: ITU
@@ -106,8 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wireline-based home networking transceivers – Power
-        spectral density specification
+      content: Unified high-speed wireline-based home networking transceivers –
+        Power spectral density specification
     docidentifier:
     - content: G.9964 (12/2011)
       type: ITU

@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.450.8 describes Name Identification features for
-    ITU-T H.323 systems. These features are:\r\n–\tCalling Party Name Presentation
-    and Restriction.\r\n–\tConnected Party Name Presentation and Restriction.\r\n–\tAlerting
-    Party Name Presentation and Restriction.\r\n–\tBusy Party Name Presentation and
-    Restriction.\r\nCalling party name information may be provided by the calling
-    endpoint or by the gatekeeper using the gatekeeper routed call model. Connected
-    party name information, alerting party name information, or busy party name information
-    may be provided by the answering (connected) party, alerting party, or busy party,
-    respectively, or by the gatekeeper using the gatekeeper routed call model.\r\nThis
-    revision incorporates a new error code 507 to indicate \"Unknown Control Association\"
-    and a modification to error code 511 to allow it to be sent from a media gateway.\r\n"
+  content: "Recommendation ITU-T H.450.8 describes Name Identification features for ITU-T H.323 systems. These features are:\r\n–\tCalling Party Name Presentation and Restriction.\r\n–\tConnected Party Name Presentation and Restriction.\r\n–\tAlerting Party Name Presentation and Restriction.\r\n–\tBusy Party Name Presentation and Restriction.\r\nCalling party name information may be provided by the calling endpoint or by the gatekeeper using the gatekeeper routed call model. Connected party name information, alerting party name information, or busy party name information may be provided by the answering (connected) party, alerting party, or busy party, respectively, or by the gatekeeper using the gatekeeper routed call model.\r\nThis revision incorporates a new error code 507 to indicate \"Unknown Control Association\" and a modification to error code 511 to allow it to be sent from a media gateway.\r\n"
 status:
   stage:
     content: Published

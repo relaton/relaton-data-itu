@@ -52,26 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.993.2 specifies an access technology that exploits
-    the existing infrastructure of copper wires that were originally deployed for
-    POTS services. It can be deployed from central offices, from fibre-fed cabinets
-    located near customer premises, or within buildings. This Recommendation is an
-    enhancement to ITU T G.993.1 that supports asymmetric and symmetric transmission
-    at a bidirectional net data rate up to 200 Mbit/s on twisted pairs using a bandwidth
-    up to 30 MHz.\r\n\r\nThis version of this Recommendation integrates all the previous
-    amendments and corrigenda with the 2011 version of Recommendation ITU-T G.993.2.\r\n\r\nThis
-    version of Recommendation ITU-T G.993.2 corrects or adds the following functionality:\r\n\r\n–
-    \          Method to address the misestimation of the SNR during MEDLEY (Amendment
-    2)\r\n\r\n–           Segmentation of SOC messages for profile 35b(Corrigendum
-    1)\r\n\r\n–           Annex D: Long reach VDSL2 (Amendment 3)\r\n\r\n–           Near-end
-    anomalies for loss-of-power, host-reinit and spontaneous interruptions (Amendment
-    4)\r\n\r\n–           Addition of operation per the North American region for
-    profile 35b (Annex Q) (Amendment 4)\r\n\r\n–           Addition of operation per
-    the China region for profile 35b (Annex Q) (new)\r\n\r\n–           Addition of
-    Successful SRA counter (new)\r\n\r\n–           Long reach VDSL2 corrigendum related
-    to MAXNOMATP (new)\r\n\r\n–           Corrigendum to MAXMASK definition in Table
-    7‑5(new)\r\n\r\n–           Corrigendum to use of US0 with 35b profile for the
-    North-America region (new).\r\n"
+  content: "Recommendation ITU-T G.993.2 specifies an access technology that exploits the existing infrastructure of copper wires that were originally deployed for POTS services. It can be deployed from central offices, from fibre-fed cabinets located near customer premises, or within buildings. This Recommendation is an enhancement to ITU T G.993.1 that supports asymmetric and symmetric transmission at a bidirectional net data rate up to 200 Mbit/s on twisted pairs using a bandwidth up to 30 MHz.\r\n\r\nThis version of this Recommendation integrates all the previous amendments and corrigenda with the 2011 version of Recommendation ITU-T G.993.2.\r\n\r\nThis version of Recommendation ITU-T G.993.2 corrects or adds the following functionality:\r\n\r\n–           Method to address the misestimation of the SNR during MEDLEY (Amendment 2)\r\n\r\n–           Segmentation of SOC messages for profile 35b(Corrigendum 1)\r\n\r\n–           Annex D: Long reach VDSL2 (Amendment 3)\r\n\r\n–           Near-end anomalies for loss-of-power, host-reinit and spontaneous interruptions (Amendment 4)\r\n\r\n–           Addition of operation per the North American region for profile 35b (Annex Q) (Amendment 4)\r\n\r\n–           Addition of operation per the China region for profile 35b (Annex Q) (new)\r\n\r\n–           Addition of Successful SRA counter (new)\r\n\r\n–           Long reach VDSL2 corrigendum related to MAXNOMATP (new)\r\n\r\n–           Corrigendum to MAXMASK definition in Table 7‑5(new)\r\n\r\n–           Corrigendum to use of US0 with 35b profile for the North-America region (new).\r\n"
 status:
   stage:
     content: Published

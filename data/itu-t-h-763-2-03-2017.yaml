@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This recommendation describes the functionalities of SVG Tiny, which is
-    issued by W3C organization, as one of multimedia application frameworks for IPTV
-    services. According to different capabilities of terminal devices on supported
-    services and processing performance, SVG Tiny is classified into \"Basic Profile\"
-    and \"Advanced Profile\" for different IPTV terminal device models in this Recommendation.
-    SVG basic profile is designed for the IPTV TD basic model [ITU-T H.721] and mobile
-    model [ITU-T H.723], and SVG advanced profile is designed for the IPTV TD full-fledged
-    model [ITU-T H.722]. SVG advanced profile supports more capabilities of two-dimensional
-    graphics' rendering than SVG basic profile, particularly in styling, animation,
-    multimedia and interactivity. \r\n\r\nThis Recommendation describes the required
-    aspects of SVG modules, elements, attributes and properties to be supported by
-    those two profiles. It also gives some typical example codes or simulation results.\r\n"
+  content: "This recommendation describes the functionalities of SVG Tiny, which is issued by W3C organization, as one of multimedia application frameworks for IPTV services. According to different capabilities of terminal devices on supported services and processing performance, SVG Tiny is classified into \"Basic Profile\" and \"Advanced Profile\" for different IPTV terminal device models in this Recommendation. SVG basic profile is designed for the IPTV TD basic model [ITU-T H.721] and mobile model [ITU-T H.723], and SVG advanced profile is designed for the IPTV TD full-fledged model [ITU-T H.722]. SVG advanced profile supports more capabilities of two-dimensional graphics' rendering than SVG basic profile, particularly in styling, animation, multimedia and interactivity. \r\n\r\nThis Recommendation describes the required aspects of SVG modules, elements, attributes and properties to be supported by those two profiles. It also gives some typical example codes or simulation results.\r\n"
 status:
   stage:
     content: Published

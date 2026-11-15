@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8023 specifies both the functional components and
-    the methodology that should be used in order to specify the Ethernet physical
-    layer and Flex Ethernet interfaces.\r\n\r\nCorrigendum 1 contains text modifications:\r\n\r\n–
-    \          to correct the description of the ETC40G and ETC100G reference points
-    in clause 6.3;\r\n\r\n–           to correct the description of the dCCM mismatch
-    detection process in clause 7.2.2."
+  content: "Recommendation ITU-T G.8023 specifies both the functional components and the methodology that should be used in order to specify the Ethernet physical layer and Flex Ethernet interfaces.\r\n\r\nCorrigendum 1 contains text modifications:\r\n\r\n–           to correct the description of the ETC40G and ETC100G reference points in clause 6.3;\r\n\r\n–           to correct the description of the dCCM mismatch detection process in clause 7.2.2."
 status:
   stage:
     content: Published

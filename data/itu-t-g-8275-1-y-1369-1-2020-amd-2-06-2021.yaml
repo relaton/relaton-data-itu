@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to Recommendation ITU-T G.8275.1/Y.1369.1 (2020) provides
-    the following updates: \r\n\r\n– Clarify the setting of frequencyTraceable for
-    T-GM and T-BC \r\n\r\n– Add details on the use of IEEE 1588-2019 \r\n\r\n– Clarification
-    on some procedures \r\n\r\n– Add new appendix \"Considerations in an environment
-    of more than two PTP ports on a single PTP communication path when using transparent
-    clocks and multicast addressing\" \r\n"
+  content: "Amendment 2 to Recommendation ITU-T G.8275.1/Y.1369.1 (2020) provides the following updates: \r\n\r\n– Clarify the setting of frequencyTraceable for T-GM and T-BC \r\n\r\n– Add details on the use of IEEE 1588-2019 \r\n\r\n– Clarification on some procedures \r\n\r\n– Add new appendix \"Considerations in an environment of more than two PTP ports on a single PTP communication path when using transparent clocks and multicast addressing\" \r\n"
 status:
   stage:
     content: Withdrawal

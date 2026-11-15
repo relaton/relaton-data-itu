@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This annex describes the interworking between ISUP (ISDN User Parts of
-    Signalling System No. 7) and H.225.0 Multimedia Call Control protocol. It specifies
-    the necessary mapping an Interworking Function would utilize to achieve connectivity
-    and functionality between an H.323 network and an ISDN User Part network. \r\nThis
-    annex describes an interworking function when it is in a H.323 to PSTN gateway.
-    The interworking function could reside in other elements of a H.323 network; this
-    is for further study. The mapping described in this annex relates to a H.323 call
-    to Circuit Switched Network Phone.\r\nThis annex does NOT attempt to define functionality
-    in ISUP or Q.931 networks but seeks to show how the ISUP services and functions
-    would interwork with H.225.0. H.225.0 messages contain Q.931 information elements
-    and as such parts of this annex have been derived from Q.699. This annex does
-    NOT show the mapping between H.320 and H.323.\r\n"
+  content: "This annex describes the interworking between ISUP (ISDN User Parts of Signalling System No. 7) and H.225.0 Multimedia Call Control protocol. It specifies the necessary mapping an Interworking Function would utilize to achieve connectivity and functionality between an H.323 network and an ISDN User Part network. \r\nThis annex describes an interworking function when it is in a H.323 to PSTN gateway. The interworking function could reside in other elements of a H.323 network; this is for further study. The mapping described in this annex relates to a H.323 call to Circuit Switched Network Phone.\r\nThis annex does NOT attempt to define functionality in ISUP or Q.931 networks but seeks to show how the ISUP services and functions would interwork with H.225.0. H.225.0 messages contain Q.931 information elements and as such parts of this annex have been derived from Q.699. This annex does NOT show the mapping between H.320 and H.323.\r\n"
 status:
   stage:
     content: Withdrawal

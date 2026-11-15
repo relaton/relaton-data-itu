@@ -52,27 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The ITU-T H.741.x series of Recommendations defines a foundational platform
-    for audience measurement (AM) of IPTV services. They focus on the interface between
-    terminal devices and an audience measurement aggregation function.\r\nThe AM platform
-    integrates a method for end users to report personal information, and is designed
-    to easily add time-shifted and interactive services, and non-terminal device measurement
-    points. While the ITU-T H.741.x series allows the implementation of audience measurement
-    for IPTV services, its mechanism may be equally applicable to non-IPTV services.\r\nThe
-    design philosophy in the ITU-T H.741.x series is focused on scalability, minimizing
-    the use of resources, security, flexibility to support a variety of service provider
-    deployments, and rich privacy support to meet emerging regulations and legislation.\r\nRecommendation
-    ITU-T H.741.1 specifies the operations of AM, including procedures prior to configuration
-    of terminals, configuration of terminals, reporting by terminals, security mechanisms,
-    and recovery from abnormal situations. Informative Appendices I-VII discuss discovery
-    metadata, implementation considerations, examples, permission levels, vendor considerations,
-    alternative privacy schemes, and discuss capabilities and profiles. \r\nAmendment
-    1 to Recommendation ITU-T H.741.1 (integrated into this edition) includes XML
-    schema on audience measurement service discovery in Appendix VIII and XML schema
-    instances for TD-AMF configurations, reports and permits in Appendix IX.\r\nCorrigendum
-    1 replaces the XML namespaces for audience measurement schemas in Appendices VIII
-    and IX. The namespaces were defined as URNs but should adopt the format of URLs,
-    according to the ITU-T Authors' Guide for drafting ITU-T Recommendationslines."
+  content: "The ITU-T H.741.x series of Recommendations defines a foundational platform for audience measurement (AM) of IPTV services. They focus on the interface between terminal devices and an audience measurement aggregation function.\r\nThe AM platform integrates a method for end users to report personal information, and is designed to easily add time-shifted and interactive services, and non-terminal device measurement points. While the ITU-T H.741.x series allows the implementation of audience measurement for IPTV services, its mechanism may be equally applicable to non-IPTV services.\r\nThe design philosophy in the ITU-T H.741.x series is focused on scalability, minimizing the use of resources, security, flexibility to support a variety of service provider deployments, and rich privacy support to meet emerging regulations and legislation.\r\nRecommendation ITU-T H.741.1 specifies the operations of AM, including procedures prior to configuration of terminals, configuration of terminals, reporting by terminals, security mechanisms, and recovery from abnormal situations. Informative Appendices I-VII discuss discovery metadata, implementation considerations, examples, permission levels, vendor considerations, alternative privacy schemes, and discuss capabilities and profiles. \r\nAmendment 1 to Recommendation ITU-T H.741.1 (integrated into this edition) includes XML schema on audience measurement service discovery in Appendix VIII and XML schema instances for TD-AMF configurations, reports and permits in Appendix IX.\r\nCorrigendum 1 replaces the XML namespaces for audience measurement schemas in Appendices VIII and IX. The namespaces were defined as URNs but should adopt the format of URLs, according to the ITU-T Authors' Guide for drafting ITU-T Recommendationslines."
 status:
   stage:
     content: Published

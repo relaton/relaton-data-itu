@@ -47,13 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 3 to ITU-T Recommendation G.992.3 (2005) addresses the following
-    corrections and added functionality:\r\n1)\tClause 7.10.3: Channel initialization
-    policies;\r\n2)\tClause 8.12: Accuracy of test parameters;\r\n3)\tClause A.4:
-    Longitudinal conversion loss;\r\n4)\tClause C.K.3: Packet transmission convergence
-    function (PTM TC);\r\n5)\tClause J.4: Upstream PSD shaping and handshake;\r\n6)\tClause
-    K.3: Handshake of PTM TC encapsulation mode;\r\n7)\tClause M.4: Upstream PSD shaping
-    and handshake;\r\n8)\tNew Appendix VII on automode."
+  content: "Amendment 3 to ITU-T Recommendation G.992.3 (2005) addresses the following corrections and added functionality:\r\n1)\tClause 7.10.3: Channel initialization policies;\r\n2)\tClause 8.12: Accuracy of test parameters;\r\n3)\tClause A.4: Longitudinal conversion loss;\r\n4)\tClause C.K.3: Packet transmission convergence function (PTM TC);\r\n5)\tClause J.4: Upstream PSD shaping and handshake;\r\n6)\tClause K.3: Handshake of PTM TC encapsulation mode;\r\n7)\tClause M.4: Upstream PSD shaping and handshake;\r\n8)\tNew Appendix VII on automode."
 status:
   stage:
     content: Withdrawal
@@ -218,8 +212,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C – Specific requirements for an ADSL system operating in
-        the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix III
+      content: New Annex C – Specific requirements for an ADSL system operating
+        in the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix
+        III
     docidentifier:
     - content: G.992.3 (2002) Amd. 3 (06/2004)
       type: ITU

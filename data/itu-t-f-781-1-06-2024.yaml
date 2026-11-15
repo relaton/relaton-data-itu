@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.781.1 sets up the initial framework for quality
+  content: 'Recommendation ITU-T F.781.1 sets up the initial framework for quality
     control on medical imaging for machine learning applications, including specifying
     the workflow of data quality control for machine learning applications, the requirements
     for medical input images, medical image integration, medical image annotation
-    and criteria on data quality for machine learning applications.\r\n"
+    and criteria on data quality for machine learning applications.
+    '
 status:
   stage:
     content: Published

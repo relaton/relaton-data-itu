@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.743.4 gives overview and requirements for a virtual
-    content delivery network (VCDN). Appendix I has two use cases to show how to apply
-    VCDN scenario. \r\n\r\nCompared with the traditional content delivery network
-    (CDN) service provisioning defined in [ITU-T Y.1901] and [ITU-T Y.2019], VCDN
-    is a new paradigm using cloud computing, network virtualisation and SDN (software
-    defined networking) technology for content delivery for various multimedia services,
-    for providing infrastructure of CDN according to vendors' needs. \r\n\r\nThis
-    Recommendation specifies the requirements for VCDN, including requirements on
-    service provision, physical resource management, virtual resource management,
-    VCDN logically isolated network partition (LINP) management, service management,
-    backbone network, and security consideration.\r\n"
+  content: "Recommendation ITU-T F.743.4 gives overview and requirements for a virtual content delivery network (VCDN). Appendix I has two use cases to show how to apply VCDN scenario. \r\n\r\nCompared with the traditional content delivery network (CDN) service provisioning defined in [ITU-T Y.1901] and [ITU-T Y.2019], VCDN is a new paradigm using cloud computing, network virtualisation and SDN (software defined networking) technology for content delivery for various multimedia services, for providing infrastructure of CDN according to vendors' needs. \r\n\r\nThis Recommendation specifies the requirements for VCDN, including requirements on service provision, physical resource management, virtual resource management, VCDN logically isolated network partition (LINP) management, service management, backbone network, and security consideration.\r\n"
 status:
   stage:
     content: Published

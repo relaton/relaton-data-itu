@@ -53,18 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Continua Design Guidelines (CDG) define a framework of underlying
-    standards and criteria required to ensure the interoperability of devices and
-    data used for personal connected health. It also contains additional design guidelines
-    for interoperability that further clarify or reduce the options in underlying
-    standards or specifications, or by adding a feature missing in an underlying standard
-    or specification. \r\n\r\nThis guidelines document defines the additional design
-    guidelines for the Authenticated Persistent Session CDC (APS), whose function
-    is to provide a secure, long-lived, persistent bi-directional data channel between
-    the WAN application and an AHD application, suitable for sending Unsolicited Commands
-    to the AHD or to devices connected via the AHD.\r\n\r\nThis Recommendation is
-    part of the “H.810 Interoperability design guidelines for personal health systems”
-    sub-series, as follows:\r\n"
+  content: "The Continua Design Guidelines (CDG) define a framework of underlying standards and criteria required to ensure the interoperability of devices and data used for personal connected health. It also contains additional design guidelines for interoperability that further clarify or reduce the options in underlying standards or specifications, or by adding a feature missing in an underlying standard or specification. \r\n\r\nThis guidelines document defines the additional design guidelines for the Authenticated Persistent Session CDC (APS), whose function is to provide a secure, long-lived, persistent bi-directional data channel between the WAN application and an AHD application, suitable for sending Unsolicited Commands to the AHD or to devices connected via the AHD.\r\n\r\nThis Recommendation is part of the “H.810 Interoperability design guidelines for personal health systems” sub-series, as follows:\r\n"
 status:
   stage:
     content: Withdrawal

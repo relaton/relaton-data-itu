@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "It is necessary to clarify the electrical requirements for surge protective
+  content: 'It is necessary to clarify the electrical requirements for surge protective
     devices (SPDs) and surge protective components (SPCs) in order to realize both
     the resistibility and safety of telecommunication systems. Recommendation ITU-T
     K.143 analyses the influence on human safety of lightning measures bridging across
@@ -61,7 +61,8 @@ abstract:
     of lightning protection and requirements on surge suppressor in equipment from
     the human safety standpoint. Requirements for SPDs/SPCs in multiservice surge
     protective devices external to the equipment and SPDs installed on lines in a
-    building lie outside the scope of this Recommendation.\r\n"
+    building lie outside the scope of this Recommendation.
+    '
 status:
   stage:
     content: Published

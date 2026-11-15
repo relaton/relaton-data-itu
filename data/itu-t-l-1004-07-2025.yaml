@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.1004 is applicable to the universal fast-charging
+  content: 'Recommendation ITU-T L.1004 is applicable to the universal fast-charging
     solution (UFCS) for mobile and wireless devices. This Recommendation defines the
     overall framework of the solution for mobile terminals and the role of each part.
     The communication flow between each part of the UFCS and the key functions in
@@ -61,7 +61,8 @@ abstract:
     and energy efficiency. The higher interoperability brings important environmental
     benefits including reduced electronic waste and use of materials and energy, a
     smaller carbon footprint through lesser use of energy and materials to produce
-    chargers and being able to sell devices without a charger.\r\n"
+    chargers and being able to sell devices without a charger.
+    '
 status:
   stage:
     content: Published

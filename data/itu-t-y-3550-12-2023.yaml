@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3550 aims to provide an overview of artificial
+  content: 'Recommendation ITU-T Y.3550 aims to provide an overview of artificial
     intelligence (AI) based cloud service development and operation management based
     on Recommendation ITU-T Y.3525. It impacts four lifecycle stages of cloud service
     development and operation management with AI capabilities to improve software
     development and operation management efficiency. Additionally, this Recommendation
     also specifies the functional requirements of AI based cloud service development
-    and operation management derived from the corresponding use cases.\r\n"
+    and operation management derived from the corresponding use cases.
+    '
 status:
   stage:
     content: Published
@@ -110,7 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -131,8 +132,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

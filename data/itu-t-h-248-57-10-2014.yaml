@@ -52,14 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.57 defines an ITU T H.248 package for ephemeral
-    terminations with real time transport protocol-based streams and allows the media
-    gateway controller to control the handling of real time transport protocol control
-    protocol (RTCP) traffic within the ITU T H.248 stream. RTCP handling comprises
-    functions such as the indication of whether an RTCP flow is used, resource management
-    functions for specific RTCP resources and the allocation scheme of transport port
-    values.\r\nThis revision supports additional RTCP port allocation rules in the
-    context of real-time transport protocol (RTP) transport multiplexing.\r\n"
+  content: "Recommendation ITU-T H.248.57 defines an ITU T H.248 package for ephemeral terminations with real time transport protocol-based streams and allows the media gateway controller to control the handling of real time transport protocol control protocol (RTCP) traffic within the ITU T H.248 stream. RTCP handling comprises functions such as the indication of whether an RTCP flow is used, resource management functions for specific RTCP resources and the allocation scheme of transport port values.\r\nThis revision supports additional RTCP port allocation rules in the context of real-time transport protocol (RTP) transport multiplexing.\r\n"
 status:
   stage:
     content: Published

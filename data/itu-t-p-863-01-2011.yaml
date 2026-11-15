@@ -50,23 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.863 describes an objective method for predicting
-    overall listening speech quality from narrowband (300 to 3'400 Hz) to superwideband
-    (50 to 14'000 Hz) telecommunication scenarios as perceived by the user in an ITU-T
-    P.800 or ITU-T P.830 ACR listening only test. Recommendation ITU-T P.863 supports
-    two operational modes, one for narrowband and one for superwideband. This Recommendation
-    presents a high-level description of the method, advice on how to use it, and
-    part of the results from a benchmark carried out in the period 2006-2010. All
-    essential parts of the model are given as source code specification in C++ notation
-    in Annex B and are provided in separate files which form an integral part of this
-    Recommendation. A conformance testing procedure is also specified in Annex A to
-    allow a user to validate that an alternative implementation of the model is correct.
-    The source code in Annex B shall take precedence in case of conflicts between
-    the high-level descriptions as given in the main body of this Recommendation and
-    the corresponding source code parts. The source code does not contain basic libraries
-    and structure definitions and cannot be compiled to an executable program.\r\n\r\nThis
-    Recommendation includes an electronic attachment containing source code in C++
-    notation (see Annex B) and conformance testing data (see Annex A)."
+  content: "Recommendation ITU-T P.863 describes an objective method for predicting overall listening speech quality from narrowband (300 to 3'400 Hz) to superwideband (50 to 14'000 Hz) telecommunication scenarios as perceived by the user in an ITU-T P.800 or ITU-T P.830 ACR listening only test. Recommendation ITU-T P.863 supports two operational modes, one for narrowband and one for superwideband. This Recommendation presents a high-level description of the method, advice on how to use it, and part of the results from a benchmark carried out in the period 2006-2010. All essential parts of the model are given as source code specification in C++ notation in Annex B and are provided in separate files which form an integral part of this Recommendation. A conformance testing procedure is also specified in Annex A to allow a user to validate that an alternative implementation of the model is correct. The source code in Annex B shall take precedence in case of conflicts between the high-level descriptions as given in the main body of this Recommendation and the corresponding source code parts. The source code does not contain basic libraries and structure definitions and cannot be compiled to an executable program.\r\n\r\nThis Recommendation includes an electronic attachment containing source code in C++ notation (see Annex B) and conformance testing data (see Annex A)."
 status:
   stage:
     content: Withdrawal

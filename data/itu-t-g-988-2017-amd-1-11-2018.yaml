@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.988 specifies the optical network unit (ONU) management
-    and control interface (OMCI) for optical access networks.\r\n\r\nRecommendation
-    ITU-T G.988 specifies the managed entities (MEs) of a protocol-independent management
-    information base (MIB) that models the exchange of information between an optical
-    line termination (OLT) and an ONU. In addition, it covers the ONU management and
-    control channel, protocol and detailed messages.\r\n\r\nAmendment 1 contains various
-    updates to ITU-T G.988 (2017). This amendment contains editorial corrections and
-    clarifications along with the following substantive changes and extensions to
-    PON OMCI related to bonded ONUs, filtering on DHCP for admission control purposes,
-    synchronization alarm support, ONU timezone offset and ONU manufacturing data."
+  content: "Recommendation ITU-T G.988 specifies the optical network unit (ONU) management and control interface (OMCI) for optical access networks.\r\n\r\nRecommendation ITU-T G.988 specifies the managed entities (MEs) of a protocol-independent management information base (MIB) that models the exchange of information between an optical line termination (OLT) and an ONU. In addition, it covers the ONU management and control channel, protocol and detailed messages.\r\n\r\nAmendment 1 contains various updates to ITU-T G.988 (2017). This amendment contains editorial corrections and clarifications along with the following substantive changes and extensions to PON OMCI related to bonded ONUs, filtering on DHCP for admission control purposes, synchronization alarm support, ONU timezone offset and ONU manufacturing data."
 status:
   stage:
     content: Withdrawal

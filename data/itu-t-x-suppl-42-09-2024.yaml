@@ -53,15 +53,16 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 42 to ITU-T X-series Recommendations highlights the need for
+  content: 'Supplement 42 to ITU-T X-series Recommendations highlights the need for
     enhanced authentication systems within the digital financial services (DFS) ecosystem.
     Traditional methods of authentication, such as password and web browser, are deemed
     insufficient, prompting a need for standardized, interoperable and robust solutions
     to mitigate risk. The Supplement outlines technologies and standards to improve
-    DFS authentication. It also emphasizes the transition towards 'advanced' systems
+    DFS authentication. It also emphasizes the transition towards ''advanced'' systems
     that focus on user behaviour and environmental analysis, with multiple points
     of authentication. It further explores two key use cases: enrolment and entity
-    authentication, detailing the process and security measures involved.\r\n"
+    authentication, detailing the process and security measures involved.
+    '
 status:
   stage:
     content: Published

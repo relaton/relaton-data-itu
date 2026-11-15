@@ -53,46 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines a V interface (V5.1) for the connection of
-    an access network (AN) to a local exchange (LE) for the support of the following
-    access types: \r\n– analogue telephone access; \r\n– ISDN basic access with a
-    NT1 separate from the AN or integrated in the AN, based on ITU-T G.960 and ITU-T
-    I.430; \r\n– other analogue or digital accesses for semi-permanent connections
-    without associated outband signalling information, \r\nwith flexible (provisioned)
-    information channel (bearer channel) allocation but without concentration capability
-    within the AN. \r\nThe electrical and functional interface specification uses
-    the 2048 kbit/s parts of ITU-T G.703, ITU-T G.704 and ITU-T G.706. \r\nThe signalling
-    from the PSTN user port is converted into a stimulus protocol with a functional
-    part for the signalling path using layer 3 multiplexing for the information from
-    the different user ports. \r\nThe information from the ISDN D-channels is frame
-    relayed in the access network using the mechanisms defined in ITU-T Q.922. \r\nA
-    control protocol defined in this Recommendation is used for the exchange of the
-    individual port status and control functions required for the coordination with
-    the call control procedures in the local exchange. \r\nIn order to coordinate
-    the traffic demands in the various protocols, 1, 2 or 3 communication channels
-    can be provisioned to transport the various protocols and frame relayed information.
-    The data link layer for the protocols is defined on the basis of ITU-T Q.920 and
-    ITU-T Q.921. \r\nInterface V5.1 is upgradable to V5.2 through re-provisioning
-    and by implementation of the additional functionality. \r\nMajor differences between
-    the first V5.1 Recommendation (1994) and this version are: \r\n- additional definitions
-    in clause 3; \r\n- permanent leased line service has been clarified in clause
-    6; \r\n- clause 8.7.4 adds flow control on LAPV5-DL; \r\n- clause 13.3 adds conditional
-    information elements that affect the messages for PSTN and Control protocol; \r\n-
-    clauses 13.4.7.11 to 13.4.7.13 add three information elements to the V5 PSTN protocol
-    (listed in Table 7);\r\n- Tables 29 to 31 have been updated and completed. The
-    last part of the LE table was missing in the previous version. A proposal is to
-    renumber the tables and use Table 29 (three part/pages) for the AN side and Table
-    30 for the LE side (also three pages). These changes have not been done since
-    it affects the Table references in clause 14 as well. \r\n- additional clause
-    to Annex B (B.14); \r\n- Annex C has highest number of changes. The most important
-    are: \r\n• system startup (Clause C.13); \r\n• startup of PSTN data link (Clause
-    C.14); \r\n• data link failure and reset (Clause C.15); \r\n• PSTN restart procedure
-    (Clause C.16); \r\n• states in the system management procedures (Clause C.17);
-    \r\n• control protocol layer 3 protection mechanism errors (Clause C.18); \r\n•
-    timers (Table C.1); \r\n• failure on layer 1 (Clause C.20); \r\n• restarting of
-    interface (Clause C.21); \r\n• handling of timer TV1 (related to variant and ID
-    check) (Clause C.22); \r\n• alignment of blocking/unblocking (Clause C.23). \r\n-
-    Annex J added."
+  content: "This Recommendation defines a V interface (V5.1) for the connection of an access network (AN) to a local exchange (LE) for the support of the following access types: \r\n– analogue telephone access; \r\n– ISDN basic access with a NT1 separate from the AN or integrated in the AN, based on ITU-T G.960 and ITU-T I.430; \r\n– other analogue or digital accesses for semi-permanent connections without associated outband signalling information, \r\nwith flexible (provisioned) information channel (bearer channel) allocation but without concentration capability within the AN. \r\nThe electrical and functional interface specification uses the 2048 kbit/s parts of ITU-T G.703, ITU-T G.704 and ITU-T G.706. \r\nThe signalling from the PSTN user port is converted into a stimulus protocol with a functional part for the signalling path using layer 3 multiplexing for the information from the different user ports. \r\nThe information from the ISDN D-channels is frame relayed in the access network using the mechanisms defined in ITU-T Q.922. \r\nA control protocol defined in this Recommendation is used for the exchange of the individual port status and control functions required for the coordination with the call control procedures in the local exchange. \r\nIn order to coordinate the traffic demands in the various protocols, 1, 2 or 3 communication channels can be provisioned to transport the various protocols and frame relayed information. The data link layer for the protocols is defined on the basis of ITU-T Q.920 and ITU-T Q.921. \r\nInterface V5.1 is upgradable to V5.2 through re-provisioning and by implementation of the additional functionality. \r\nMajor differences between the first V5.1 Recommendation (1994) and this version are: \r\n- additional definitions in clause 3; \r\n- permanent leased line service has been clarified in clause 6; \r\n- clause 8.7.4 adds flow control on LAPV5-DL; \r\n- clause 13.3 adds conditional information elements that affect the messages for PSTN and Control protocol; \r\n- clauses 13.4.7.11 to 13.4.7.13 add three information elements to the V5 PSTN protocol (listed in Table 7);\r\n- Tables 29 to 31 have been updated and completed. The last part of the LE table was missing in the previous version. A proposal is to renumber the tables and use Table 29 (three part/pages) for the AN side and Table 30 for the LE side (also three pages). These changes have not been done since it affects the Table references in clause 14 as well. \r\n- additional clause to Annex B (B.14); \r\n- Annex C has highest number of changes. The most important are: \r\n• system startup (Clause C.13); \r\n• startup of PSTN data link (Clause C.14); \r\n• data link failure and reset (Clause C.15); \r\n• PSTN restart procedure (Clause C.16); \r\n• states in the system management procedures (Clause C.17); \r\n• control protocol layer 3 protection mechanism errors (Clause C.18); \r\n• timers (Table C.1); \r\n• failure on layer 1 (Clause C.20); \r\n• restarting of interface (Clause C.21); \r\n• handling of timer TV1 (related to variant and ID check) (Clause C.22); \r\n• alignment of blocking/unblocking (Clause C.23). \r\n- Annex J added."
 status:
   stage:
     content: Published
@@ -112,8 +73,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: V-Interfaces at the digital local exchange (LE) – V5.1 interface (based
-        on 2048 kbit/s) for the support of access network (AN)
+      content: V-Interfaces at the digital local exchange (LE) – V5.1 interface
+        (based on 2048 kbit/s) for the support of access network (AN)
     docidentifier:
     - content: G.964 (07/1994)
       type: ITU

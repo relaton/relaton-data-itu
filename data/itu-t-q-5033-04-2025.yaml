@@ -52,28 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Multistream data transmission over parallel channels is one of the well-known
-    options for reducing network delay by increasing the total bandwidth of the connection
-    between the nodes exchanging data. This method is used in particular in the stream
-    control transmission protocol (SCTP), a well-known disadvantage of which is its
-    limited support by network equipment, both terminal and routing.\r\nThis is why
-    many modern protocols of the transport and session layers of the open systems
-    interconnection (OSI) model are developed as extensions of the transmission control
-    protocol (TCP) or work on top of the user datagram protocol (UDP), implementing
-    flow control mechanisms and reliable data delivery.\r\nThere are several examples
-    of multistream protocols based on traditional transport protocols. The Multipath
-    TCP (MPTCP) was created by the Internet Engineering Task Force (IETF) and described
-    in RFC 8684. Korean researchers proposed the Dynamic Multi-stream Transport Protocol
-    over TCP (b-seok). Also, there is a modification of protocol SCTP over UDP suggested
-    by Indian researchers (bbelkhode).\r\nCombining multistream data transmission
-    with the principles of network coding allows, in addition to increasing the throughput,
-    to increase the security of the transmitted user data, since the data in this
-    case is transmitted not in clear form, but in the form of linear combinations
-    of data blocks, which complicates their interception by a third party, requiring
-    the interception of all blocks of data to restore the original information. These
-    aspects are considered in this Recommendation.\r\nRecommendation ITU-T Q.5033
-    includes:\r\n–principle of multistream transmission with network coding;\r\n–protocol
-    placement in the TCP/IP stack;\r\n–protocol logic;\r\n–packet structure.\r\n"
+  content: "Multistream data transmission over parallel channels is one of the well-known options for reducing network delay by increasing the total bandwidth of the connection between the nodes exchanging data. This method is used in particular in the stream control transmission protocol (SCTP), a well-known disadvantage of which is its limited support by network equipment, both terminal and routing.\r\nThis is why many modern protocols of the transport and session layers of the open systems interconnection (OSI) model are developed as extensions of the transmission control protocol (TCP) or work on top of the user datagram protocol (UDP), implementing flow control mechanisms and reliable data delivery.\r\nThere are several examples of multistream protocols based on traditional transport protocols. The Multipath TCP (MPTCP) was created by the Internet Engineering Task Force (IETF) and described in RFC 8684. Korean researchers proposed the Dynamic Multi-stream Transport Protocol over TCP (b-seok). Also, there is a modification of protocol SCTP over UDP suggested by Indian researchers (bbelkhode).\r\nCombining multistream data transmission with the principles of network coding allows, in addition to increasing the throughput, to increase the security of the transmitted user data, since the data in this case is transmitted not in clear form, but in the form of linear combinations of data blocks, which complicates their interception by a third party, requiring the interception of all blocks of data to restore the original information. These aspects are considered in this Recommendation.\r\nRecommendation ITU-T Q.5033 includes:\r\n–principle of multistream transmission with network coding;\r\n–protocol placement in the TCP/IP stack;\r\n–protocol logic;\r\n–packet structure.\r\n"
 status:
   stage:
     content: Published
@@ -331,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -343,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

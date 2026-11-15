@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recent technological developments concerning Internet have become more
-    complex to test and to use in the real world. A larger diversity of conditions
-    must be addressed, and scalability needs to be assessed. The need to do experimentation
-    within testbeds has become more important for testing new use cases in real conditions.
-    This evolution increases the need for and practice of federating and interconnecting
-    different testbeds. However, this powerful approach lacks the availability of
-    clearly standardized application program interfaces (APIs) to support such federation
-    of existing testbeds and resources to support experimentation, testing and validation
-    of new technologies, services and solutions in order to enhance the interoperability
-    of testbeds.\r\nRecommendation ITU-T Q.4068 presents a set of open APIs for interoperable
-    testbed federation able to manage not only the interconnection and the interoperability
-    of testbeds in a federation, but also to handle resources advertisement, allocation
-    and provision. The APIs are designed to manage the users involved in the federation
-    such as the experimenters and to assign roles to the users. In the same way, the
-    usage of a resource is attributed to an experimenter through the open APIs for
-    interoperable testbed federation.\r\n"
+  content: "Recent technological developments concerning Internet have become more complex to test and to use in the real world. A larger diversity of conditions must be addressed, and scalability needs to be assessed. The need to do experimentation within testbeds has become more important for testing new use cases in real conditions. This evolution increases the need for and practice of federating and interconnecting different testbeds. However, this powerful approach lacks the availability of clearly standardized application program interfaces (APIs) to support such federation of existing testbeds and resources to support experimentation, testing and validation of new technologies, services and solutions in order to enhance the interoperability of testbeds.\r\nRecommendation ITU-T Q.4068 presents a set of open APIs for interoperable testbed federation able to manage not only the interconnection and the interoperability of testbeds in a federation, but also to handle resources advertisement, allocation and provision. The APIs are designed to manage the users involved in the federation such as the experimenters and to assign roles to the users. In the same way, the usage of a resource is attributed to an experimenter through the open APIs for interoperable testbed federation.\r\n"
 status:
   stage:
     content: Published
@@ -325,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -337,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

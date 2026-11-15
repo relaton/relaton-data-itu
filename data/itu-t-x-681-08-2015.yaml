@@ -56,12 +56,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.681 | ISO/IEC 8824-2 provides the ASN.1 notation
+  content: 'Recommendation ITU-T X.681 | ISO/IEC 8824-2 provides the ASN.1 notation
     which allows information object classes as well as individual information objects
     and sets thereof to be defined and given reference names. An information object
     class defines the form of a conceptual table (an information object set) with
     one column for each field in the information object class, and with each complete
-    row defining an information object.\r\n"
+    row defining an information object.
+    '
 status:
   stage:
     content: Withdrawal

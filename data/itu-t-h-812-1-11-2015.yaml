@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Continua Design Guidelines (CDG) define a framework of underlying
-    standards and criteria which are required to ensure the interoperability of devices
-    and data used for personal connected health. It also contains additional design
-    guidelines for interoperability that further clarify or reduce the options in
-    underlying standards or specifications, or by adding a feature missing in an underlying
-    standard or specification.\r\nThis specification defines the design guidelines
-    for the Observation upload certified device class (CDC), whose function is to
-    transfer an observation measurement from the medical device to a WAN application
-    over the wide area network (WAN).\r\n"
+  content: "The Continua Design Guidelines (CDG) define a framework of underlying standards and criteria which are required to ensure the interoperability of devices and data used for personal connected health. It also contains additional design guidelines for interoperability that further clarify or reduce the options in underlying standards or specifications, or by adding a feature missing in an underlying standard or specification.\r\nThis specification defines the design guidelines for the Observation upload certified device class (CDC), whose function is to transfer an observation measurement from the medical device to a WAN application over the wide area network (WAN).\r\n"
 status:
   stage:
     content: Withdrawal

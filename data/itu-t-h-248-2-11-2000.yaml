@@ -53,27 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines a package that extends the applicability of
-    the H.248.1 Gateway Control Protocol Recommendation. Specifically, this Recommendation
-    describes packages for fax, text telephone, call type discrimination, and data
-    call detection for use with the H.248.1 Gateway Control Protocol. As defined in
-    ITU-T Rec. H.248.1, a \"package\" is an extension to H.248.1 that supports specific
-    behavior.The packages are intended for control over gateway functions for transport
-    of facsimile or text conversation between different network environments. Extensions
-    can be made for other kinds of data transport.\r\n• The Call Type Discrimination
-    package defines control and monitoring of a PSTN line for the signalling protocols
-    used in the beginning of a session of data transmission for fax, text telephony
-    or data.\r\n• The Text Telephone package defines control of a PSTN text telephone
-    session in any of the modes supported by the automoding text telephone Recommendation,
-    ITU-T Rec. V.18. \r\n• The Fax package defines control of a PSTN fax transmission.\r\n•
-    The Fax/Textphone/Modem Tones Detection package defines control over a termination
-    for detection of any signals from a fax, text telephone or data modem during a
-    connection in voice mode.\r\n• The Text Conversation package defines control over
-    a real time interactive text conversation session using a universal presentation
-    format and transferred with a transport method from a multimedia protocol in any
-    network environment.\r\n• The IP Fax package defines control over facsimile transmission
-    in a packet network.NOTE ? This Recommendation has been renumbered. It was previously
-    known as ITU-T Rec. H.248, Annex F."
+  content: "This Recommendation defines a package that extends the applicability of the H.248.1 Gateway Control Protocol Recommendation. Specifically, this Recommendation describes packages for fax, text telephone, call type discrimination, and data call detection for use with the H.248.1 Gateway Control Protocol. As defined in ITU-T Rec. H.248.1, a \"package\" is an extension to H.248.1 that supports specific behavior.The packages are intended for control over gateway functions for transport of facsimile or text conversation between different network environments. Extensions can be made for other kinds of data transport.\r\n• The Call Type Discrimination package defines control and monitoring of a PSTN line for the signalling protocols used in the beginning of a session of data transmission for fax, text telephony or data.\r\n• The Text Telephone package defines control of a PSTN text telephone session in any of the modes supported by the automoding text telephone Recommendation, ITU-T Rec. V.18. \r\n• The Fax package defines control of a PSTN fax transmission.\r\n• The Fax/Textphone/Modem Tones Detection package defines control over a termination for detection of any signals from a fax, text telephone or data modem during a connection in voice mode.\r\n• The Text Conversation package defines control over a real time interactive text conversation session using a universal presentation format and transferred with a transport method from a multimedia protocol in any network environment.\r\n• The IP Fax package defines control over facsimile transmission in a packet network.NOTE ? This Recommendation has been renumbered. It was previously known as ITU-T Rec. H.248, Annex F."
 status:
   stage:
     content: Withdrawal

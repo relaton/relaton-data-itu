@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3089 specifies the requirements and capabilities
+  content: 'Recommendation ITU-T Y.3089 specifies the requirements and capabilities
     of information-centric networking (ICN) node to support in-network processing
     in networks beyond IMT-2020. It describes the requirements of ICN network node
     from two aspects: service requirements and functional requirements. Based on the
@@ -61,7 +61,8 @@ abstract:
     enhanced ICN network node capabilities to support in-network processing, including
     resource-ID registration and resolution, resource-ID based routing, local resources
     monitoring, collaborative neighbourhood awareness and maintenance, autonomous
-    resource-ID-based forwarding and scheduling.\r\n"
+    resource-ID-based forwarding and scheduling.
+    '
 status:
   stage:
     content: Published
@@ -91,7 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -134,8 +135,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

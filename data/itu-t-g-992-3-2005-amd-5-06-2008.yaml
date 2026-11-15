@@ -47,10 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 5 to Recommendation ITU-T G.992.3 contains the following items:\r•
-    Erasure decoding (new functionality).\r• Impulse noise monitor (new functionality).\r•
-    C-REVERB PRBS (correction).\r• Transmitter referred virtual noise (new functionality).\r•
-    Annex P on reduced transmit power requirements (new functionality)."
+  content: "Amendment 5 to Recommendation ITU-T G.992.3 contains the following items:\r• Erasure decoding (new functionality).\r• Impulse noise monitor (new functionality).\r• C-REVERB PRBS (correction).\r• Transmitter referred virtual noise (new functionality).\r• Annex P on reduced transmit power requirements (new functionality)."
 status:
   stage:
     content: Withdrawal
@@ -215,8 +212,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C – Specific requirements for an ADSL system operating in
-        the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix III
+      content: New Annex C – Specific requirements for an ADSL system operating
+        in the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix
+        III
     docidentifier:
     - content: G.992.3 (2002) Amd. 3 (06/2004)
       type: ITU

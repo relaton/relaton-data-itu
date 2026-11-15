@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.7041/Y.1303 defines a generic framing procedure
-    (GFP) to delineate octet-aligned, variable-length payloads from higher-level client
-    signals for subsequent mapping into octet-synchronous paths such as those defined
-    in Recommendations ITU-T G.707/Y.1322, ITU-T G.8040/Y.1340 and ITU-T G.709/Y.1331.
-    This Recommendation defines:\r\n\r\n–           frame formats for protocol data
-    units (PDUs) transferred between GFP initiation and termination points;\r\n\r\n–
-    \          the mapping procedure for the client signals into GFP;\r\n\r\n–           responses
-    to certain defect conditions.\r\n\r\nThis edition adds the information from both
-    Amendment 2 (2010) to Recommendation ITU-T G.7041 (2008) and the Implementers'
-    Guide ITU-T G.Imp7041 (2009)."
+  content: "Recommendation ITU-T G.7041/Y.1303 defines a generic framing procedure (GFP) to delineate octet-aligned, variable-length payloads from higher-level client signals for subsequent mapping into octet-synchronous paths such as those defined in Recommendations ITU-T G.707/Y.1322, ITU-T G.8040/Y.1340 and ITU-T G.709/Y.1331. This Recommendation defines:\r\n\r\n–           frame formats for protocol data units (PDUs) transferred between GFP initiation and termination points;\r\n\r\n–           the mapping procedure for the client signals into GFP;\r\n\r\n–           responses to certain defect conditions.\r\n\r\nThis edition adds the information from both Amendment 2 (2010) to Recommendation ITU-T G.7041 (2008) and the Implementers' Guide ITU-T G.Imp7041 (2009)."
 status:
   stage:
     content: Withdrawal

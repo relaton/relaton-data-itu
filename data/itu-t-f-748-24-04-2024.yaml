@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Federated machine learning (FML) is an emerging distributed framework
-    that enables collaborative machine learning (ML) and model construction across
-    distributed and decentralized datasets. FML service has distinctive features,
-    such as location of data in the calculation, and data availability without visibility.
-    It allows participants to jointly train ML models without sharing raw data, which
-    can technically break data isolation and promote cooperation among data owners.\r\nFML
-    service involves multiple participants who usually perform different contributions
-    to ML model training tasks due to their many impact factors. An effective and
-    trusted contribution evaluation mechanism for FML service is essential to increase
-    participation of the parties involved and can promote sustainable development
-    of FML services.\r\nRecommendation ITU-T F.748.24 introduces a trusted contribution
-    evaluation service for FML service that combines and takes advantage of FML and
-    distributed ledger technology functionalities, and provides relevant concepts,
-    characteristics, requirements and use cases, and specifies a relevant reference
-    framework and common capabilities.\r\n"
+  content: "Federated machine learning (FML) is an emerging distributed framework that enables collaborative machine learning (ML) and model construction across distributed and decentralized datasets. FML service has distinctive features, such as location of data in the calculation, and data availability without visibility. It allows participants to jointly train ML models without sharing raw data, which can technically break data isolation and promote cooperation among data owners.\r\nFML service involves multiple participants who usually perform different contributions to ML model training tasks due to their many impact factors. An effective and trusted contribution evaluation mechanism for FML service is essential to increase participation of the parties involved and can promote sustainable development of FML services.\r\nRecommendation ITU-T F.748.24 introduces a trusted contribution evaluation service for FML service that combines and takes advantage of FML and distributed ledger technology functionalities, and provides relevant concepts, characteristics, requirements and use cases, and specifies a relevant reference framework and common capabilities.\r\n"
 status:
   stage:
     content: Published

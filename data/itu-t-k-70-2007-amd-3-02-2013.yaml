@@ -50,15 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This amendment consists of a new version (v.3.0.0) of the software electromagnetic
-    field (EMF) estimator, which constitutes Appendix I of Recommendation ITU-T K.70
-    (2007). The main improvements introduced in v.3.0.0 are the following:\r\n• it
-    is allowed to import the antenna patterns directly from the websites of the Kathrein,
-    Andrew and RFS;\r\n• after calculation on the horizontal grid, it is possible
-    to add background in the form of the map downloaded from the Google maps;\r\n•
-    the term \"cumulative exposure\" has been changed to the term \"total exposure\"
-    following the discussion and decision taken during the work on Recommendation
-    ITU-T K.91."
+  content: "This amendment consists of a new version (v.3.0.0) of the software electromagnetic field (EMF) estimator, which constitutes Appendix I of Recommendation ITU-T K.70 (2007). The main improvements introduced in v.3.0.0 are the following:\r\n• it is allowed to import the antenna patterns directly from the websites of the Kathrein, Andrew and RFS;\r\n• after calculation on the horizontal grid, it is possible to add background in the form of the map downloaded from the Google maps;\r\n• the term \"cumulative exposure\" has been changed to the term \"total exposure\" following the discussion and decision taken during the work on Recommendation ITU-T K.91."
 status:
   stage:
     content: Withdrawal

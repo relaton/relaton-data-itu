@@ -52,12 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines a generic framing procedure (GFP) to delineate
-    octet-aligned, variable-length payloads from higher-level client signals for subsequent
-    mapping into octet-synchronous paths such as those defined in ITU-T Recs G.707/Y.1322,
-    G.8040/Y.1340, and G.709/Y.1331. The Recommendation definitions include the:\r\n-
-    frame formats for protocol data units (PDUs) transferred between GFP initiation
-    and termination points;\r\n- mapping procedure for the client signals into GFP."
+  content: "This Recommendation defines a generic framing procedure (GFP) to delineate octet-aligned, variable-length payloads from higher-level client signals for subsequent mapping into octet-synchronous paths such as those defined in ITU-T Recs G.707/Y.1322, G.8040/Y.1340, and G.709/Y.1331. The Recommendation definitions include the:\r\n- frame formats for protocol data units (PDUs) transferred between GFP initiation and termination points;\r\n- mapping procedure for the client signals into GFP."
 status:
   stage:
     content: Withdrawal

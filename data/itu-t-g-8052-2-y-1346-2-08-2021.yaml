@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8052.2/Y.1346.2 specifies the resilience information
-    models and data models for the Ethernet transport network element (NE) to support
-    specific interface protocols and specific management and control (MC) functions.\r\nThe
-    information models are interface protocol neutral and specified using the unified
-    modelling language (UML).\r\nThe data models are interface protocol specific and
-    translated from these information models. The specific data models considered
-    in this Recommendation include, but are not limited to, YANG data models.\r\nThe
-    specific MC functions for resilience covered by this Recommendation include the
-    ITU-T G.8031 Ethernet linear protection and ITU-T G.8032 Ethernet ring protection.\r\nThe
-    YANG data model in this version of the Recommendation covers the Ethernet linear
-    protection mechanism defined in Recommendation ITU-T G.8031/Y.1342.\r\n"
+  content: "Recommendation ITU-T G.8052.2/Y.1346.2 specifies the resilience information models and data models for the Ethernet transport network element (NE) to support specific interface protocols and specific management and control (MC) functions.\r\nThe information models are interface protocol neutral and specified using the unified modelling language (UML).\r\nThe data models are interface protocol specific and translated from these information models. The specific data models considered in this Recommendation include, but are not limited to, YANG data models.\r\nThe specific MC functions for resilience covered by this Recommendation include the ITU-T G.8031 Ethernet linear protection and ITU-T G.8032 Ethernet ring protection.\r\nThe YANG data model in this version of the Recommendation covers the Ethernet linear protection mechanism defined in Recommendation ITU-T G.8031/Y.1342.\r\n"
 status:
   stage:
     content: Published

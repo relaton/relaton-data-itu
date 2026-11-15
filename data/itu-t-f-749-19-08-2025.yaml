@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.749.19 specifies the framework of the data sharing
+  content: 'Recommendation ITU-T F.749.19 specifies the framework of the data sharing
     service platform for electric vehicle (EV) charging. It also specifies the requirements
     of the platform including data collection, data pre-processing, data management,
     data service, application service and platform management. It is applicable to
     the architecture design, research and development of the data sharing service
-    platform among EVs, charging stations and power grid.\r\n"
+    platform among EVs, charging stations and power grid.
+    '
 status:
   stage:
     content: Published

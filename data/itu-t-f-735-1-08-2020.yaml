@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the development of hardware and intelligent algorithms, various intelligent
-    algorithms are developed for a large number of scenarios. In order to meet the
-    various scenarios and requirements, cameras supporting algorithms on-demand deployment
-    and online upgrade without service interruption are needed. A software-defined
-    camera is a kind of intelligent premises unit (IPU), see Recommendation ITU-T
-    F.743.1, which provides a technical approach to decoupling hardware and software
-    and to support algorithms on-demand deployment, online upgrade without service
-    interruption and continuous online learning to adapt to various scenarios. This
-    Recommendation defines the typical scenarios, functional architecture and requirements
-    of such software-defined cameras.\r\nRecommendation ITU-T F.735.1 can facilitate
-    a cooperation between camera manufacturers, customers and intelligent algorithm
-    providers. The aim is to define the basic requirements and functional architecture
-    for software-defined cameras."
+  content: "With the development of hardware and intelligent algorithms, various intelligent algorithms are developed for a large number of scenarios. In order to meet the various scenarios and requirements, cameras supporting algorithms on-demand deployment and online upgrade without service interruption are needed. A software-defined camera is a kind of intelligent premises unit (IPU), see Recommendation ITU-T F.743.1, which provides a technical approach to decoupling hardware and software and to support algorithms on-demand deployment, online upgrade without service interruption and continuous online learning to adapt to various scenarios. This Recommendation defines the typical scenarios, functional architecture and requirements of such software-defined cameras.\r\nRecommendation ITU-T F.735.1 can facilitate a cooperation between camera manufacturers, customers and intelligent algorithm providers. The aim is to define the basic requirements and functional architecture for software-defined cameras."
 status:
   stage:
     content: Published

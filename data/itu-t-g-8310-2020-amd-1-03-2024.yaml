@@ -47,20 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8310 describes the functional architecture of the
-    metro transport network (MTN) using the modelling methodology described in Recommendations
-    ITUT G.800 and ITUT G.805. MTN is primarily intended to support transport of distributed
-    radio access network (DRAN) and cloud radio access network (CRAN) traffic. The
-    MTN functionality is described from a network level viewpoint, taking into account
-    the client characteristic information, client/server layer associations, networking
-    topology, and layer network functionality that provide multiplexing, routing and
-    supervision of the digital clients. \r\nMTN consists of two nonrecursive layers,
-    the MTN path layer, and the MTN section layer. The MTN path layer uses the MTN
-    section layer as its server layer. The MTN path layer provides configurable connection-oriented
-    connectivity. The server layer for the MTN section layer is provided by 50GBASER,
-    100GBASER, 200GBASER, and 400GBASER Ethernet interfaces.\r\nAmendment 1 adds the
-    architecture of fine grain MTN layer which uses the MTN path as its server layer.
-    It also incorporates Corrigendum 1.\r\n"
+  content: "Recommendation ITU-T G.8310 describes the functional architecture of the metro transport network (MTN) using the modelling methodology described in Recommendations ITUT G.800 and ITUT G.805. MTN is primarily intended to support transport of distributed radio access network (DRAN) and cloud radio access network (CRAN) traffic. The MTN functionality is described from a network level viewpoint, taking into account the client characteristic information, client/server layer associations, networking topology, and layer network functionality that provide multiplexing, routing and supervision of the digital clients. \r\nMTN consists of two nonrecursive layers, the MTN path layer, and the MTN section layer. The MTN path layer uses the MTN section layer as its server layer. The MTN path layer provides configurable connection-oriented connectivity. The server layer for the MTN section layer is provided by 50GBASER, 100GBASER, 200GBASER, and 400GBASER Ethernet interfaces.\r\nAmendment 1 adds the architecture of fine grain MTN layer which uses the MTN path as its server layer. It also incorporates Corrigendum 1.\r\n"
 status:
   stage:
     content: Published

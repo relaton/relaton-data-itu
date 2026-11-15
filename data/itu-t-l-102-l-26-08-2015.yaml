@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.26 describes characteristics, construction and
+  content: 'Recommendation ITU-T L.26 describes characteristics, construction and
     test methods of optical fibre cables for aerial application (including lashed
     cables), but does not apply to optical ground wire (OPGW) cables or metal armour
     self-supporting (MASS) cables. First, the characteristics affecting the satisfactory
@@ -60,7 +60,8 @@ abstract:
     whether the cables have these required characteristics are described. The conditions
     required may differ according to the installation environment. Therefore, detailed
     conditions of experiments need to be agreed upon between a user and a supplier
-    on the basis of the environment where the cable is used.\r\n"
+    on the basis of the environment where the cable is used.
+    '
 status:
   stage:
     content: Withdrawal

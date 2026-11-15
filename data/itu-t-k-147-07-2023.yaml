@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.147 considers overvoltages and overcurrents protection
-    of information technology equipment including the IEEE 802.3 Ethernet. This Recommendation
-    describes how surges are coupled into the system and what surge mitigation measures
-    are used, taking into account the difference of implementations and network configurations.
-    Furthermore, it contains the different surge and power fault test circuit approaches
-    and conditions for how the specified tests are applied.\r\nNetworked equipment
-    can be subject to overvoltage and overcurrent transients. Both data and any powering
-    services should be resistant to expected environmental transients. Where equipment
-    has multiple independent ports, such as central hubs, switches, or repeaters,
-    then testing is required for inter-port resistibility.\r\nResistibility testing
-    needs to identify lightning transients coupled into a network by magnetic induction,
-    earth potential rise, resistive coupling and transient coupling by a voltage-limiting
-    operation of surge protective functions or flashover. Voltage limitation may convert
-    common-mode surges into differential-mode surges in the signal path. It is also
-    possible for alternating current mains power faults to couple into the network,
-    which can necessitate the use of overcurrent protection.\r\n"
+  content: "Recommendation ITU-T K.147 considers overvoltages and overcurrents protection of information technology equipment including the IEEE 802.3 Ethernet. This Recommendation describes how surges are coupled into the system and what surge mitigation measures are used, taking into account the difference of implementations and network configurations. Furthermore, it contains the different surge and power fault test circuit approaches and conditions for how the specified tests are applied.\r\nNetworked equipment can be subject to overvoltage and overcurrent transients. Both data and any powering services should be resistant to expected environmental transients. Where equipment has multiple independent ports, such as central hubs, switches, or repeaters, then testing is required for inter-port resistibility.\r\nResistibility testing needs to identify lightning transients coupled into a network by magnetic induction, earth potential rise, resistive coupling and transient coupling by a voltage-limiting operation of surge protective functions or flashover. Voltage limitation may convert common-mode surges into differential-mode surges in the signal path. It is also possible for alternating current mains power faults to couple into the network, which can necessitate the use of overcurrent protection.\r\n"
 status:
   stage:
     content: Withdrawal

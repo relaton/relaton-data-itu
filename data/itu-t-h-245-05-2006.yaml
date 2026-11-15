@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies syntax and semantics of terminal information
-    messages as well as procedures to use them for in-band negotiation at the start
-    of or during communication. The messages cover receiving and transmitting capabilities
-    as well as mode preference from the receiving end, logical channel signalling,
-    and Control & Indication. Acknowledged signalling procedures are specified to
-    ensure reliable audiovisual and data communication.Products claiming compliance
-    with Version 13 of H.245 shall comply with all of the mandatory requirements of
-    this Recommendation. Version 13 products can be identified by H.245 TerminalCapabilitySet
-    messages containing a protocolIdentifier value of {itu-t (0) recommendation (0)
-    h (8) 245 version (0) 13}.Relative to H.245 Version 12 (2005-10), this version
-    includes:\r\n• added H.361 (ex H.mmqos) ASN.1 syntax and semantics;\r\n• added
-    H.249 OID descriptions to Appendix VIII;\r\n• minor modifications to the existing
-    ASN.1 to achieve compilation. This involved adding line breaks, tabs, and in one
-    case replacing what looks like - with a real - comment marker; and\r\n• the removal
-    of \"TIA/EIA\" from the parameter name in Table J.2 - this is an editorial problem
-    identified in March 2005."
+  content: "This Recommendation specifies syntax and semantics of terminal information messages as well as procedures to use them for in-band negotiation at the start of or during communication. The messages cover receiving and transmitting capabilities as well as mode preference from the receiving end, logical channel signalling, and Control & Indication. Acknowledged signalling procedures are specified to ensure reliable audiovisual and data communication.Products claiming compliance with Version 13 of H.245 shall comply with all of the mandatory requirements of this Recommendation. Version 13 products can be identified by H.245 TerminalCapabilitySet messages containing a protocolIdentifier value of {itu-t (0) recommendation (0) h (8) 245 version (0) 13}.Relative to H.245 Version 12 (2005-10), this version includes:\r\n• added H.361 (ex H.mmqos) ASN.1 syntax and semantics;\r\n• added H.249 OID descriptions to Appendix VIII;\r\n• minor modifications to the existing ASN.1 to achieve compilation. This involved adding line breaks, tabs, and in one case replacing what looks like - with a real - comment marker; and\r\n• the removal of \"TIA/EIA\" from the parameter name in Table J.2 - this is an editorial problem identified in March 2005."
 status:
   stage:
     content: Withdrawal

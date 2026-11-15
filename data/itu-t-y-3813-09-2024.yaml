@@ -52,11 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "For quantum key distribution networks (QKDNs), Recommendation ITU-T Y.3813
+  content: 'For quantum key distribution networks (QKDNs), Recommendation ITU-T Y.3813
     specifies functional requirements for QKDN interworking (QKDNi). This Recommendation
     describes the functional requirements for the key management layer, QKDN control
     layer and QKDN management layer, for interworking using gateway nodes (GWNs) and/or
-    interworking nodes (IWNs).\r\n"
+    interworking nodes (IWNs).
+    '
 status:
   stage:
     content: Published
@@ -96,7 +97,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -117,8 +118,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -181,8 +181,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end
-        cryptographic services with non-quantum cryptography
+      content: ITU-T Y.3800 series – Quantum key distribution networks – Role
+        in end-to-end cryptographic services with non-quantum cryptography
     docidentifier:
     - content: Y Suppl. 79 (11/2023)
       type: ITU
@@ -286,7 +286,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Technical considerations of quantum network architecture
+      content: ITU-T Y.3800-series – Technical considerations of quantum network
+        architecture
     docidentifier:
     - content: Y Suppl. 115 (10/2026)
       type: ITU

@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "ITU-T Recommendation H.248.8 defines the service change reasons that are
-    used in the core H.248.1 protocol. It lists the service change reason code associated
-    with the service change reason code name. It provides a definition of when the
-    service change reason is to be used. It also provides an indication of what text
-    may be included in the service change extension to allow further interpretation
-    of the service change reason. Clause 5 provides these details.\r\nThis revision
-    addresses the following aspects:\r\n• Addition of new error codes: 472, 473, 511,
-    543.\r\n• Expansion of Error Codes: 401, 500.\r\n• Clarification on the usage
-    of error text.\r\nNOTE - This Recommendation has been renamed. It was formerly
-    known as Annex L to ITU-T Rec. H.248."
+  content: "ITU-T Recommendation H.248.8 defines the service change reasons that are used in the core H.248.1 protocol. It lists the service change reason code associated with the service change reason code name. It provides a definition of when the service change reason is to be used. It also provides an indication of what text may be included in the service change extension to allow further interpretation of the service change reason. Clause 5 provides these details.\r\nThis revision addresses the following aspects:\r\n• Addition of new error codes: 472, 473, 511, 543.\r\n• Expansion of Error Codes: 401, 500.\r\n• Clarification on the usage of error text.\r\nNOTE - This Recommendation has been renamed. It was formerly known as Annex L to ITU-T Rec. H.248."
 status:
   stage:
     content: Withdrawal

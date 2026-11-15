@@ -53,10 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3946.2 specifies a Test Suite Structure and Test
-    Purposes (TSS&TP) for the SIP protocol as described in IETF RFC 3261, \"Session
-    Initiation Protocol\". This Recommendation has been produced by ETSI TS 102 027\x1E2
-    and is endorsed by ITU-T without modifications."
+  content: Recommendation ITU-T Q.3946.2 specifies a Test Suite Structure and Test
+    Purposes (TSS&TP) for the SIP protocol as described in IETF RFC 3261, "Session
+    Initiation Protocol". This Recommendation has been produced by ETSI TS 102 0272
+    and is endorsed by ITU-T without modifications.
 status:
   stage:
     content: Published
@@ -314,9 +314,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -326,8 +326,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

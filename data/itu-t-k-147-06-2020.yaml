@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Ethernet, using twisted pair cabling, is a ubiquitous communications link,
-    which also can act as a powering feed. Usually Ethernet is implemented as a star
-    network and terminal ports can be independently tested for resistibility. Where
-    equipment has multiple independent Ethernet ports, such as central hubs, switches,
-    or repeaters, then testing is required for inter-port resistibility.\r\nResistibility
-    testing needs to test for lightning transients coupled into a network by magnetic
-    induction, earth potential rise, resistive coupling and transient coupling by
-    a voltage limiting operation of surge protective functions or flashover. The voltage
-    limiting operation may convert common-mode surges into differential-mode surges
-    in the signal path. It is also possible for alternating current (AC) mains power
-    faults to couple into the network.\r\nRecommendation ITU-T K.147 covers the different
-    \"IEEE 802.3 Ethernet\" implementations, their configurations, how surges are
-    coupled into the system and what surge mitigation measures are used. Following
-    this overview, the rational for the different surge and power fault test circuit
-    approaches and when they are specified is given."
+  content: "Ethernet, using twisted pair cabling, is a ubiquitous communications link, which also can act as a powering feed. Usually Ethernet is implemented as a star network and terminal ports can be independently tested for resistibility. Where equipment has multiple independent Ethernet ports, such as central hubs, switches, or repeaters, then testing is required for inter-port resistibility.\r\nResistibility testing needs to test for lightning transients coupled into a network by magnetic induction, earth potential rise, resistive coupling and transient coupling by a voltage limiting operation of surge protective functions or flashover. The voltage limiting operation may convert common-mode surges into differential-mode surges in the signal path. It is also possible for alternating current (AC) mains power faults to couple into the network.\r\nRecommendation ITU-T K.147 covers the different \"IEEE 802.3 Ethernet\" implementations, their configurations, how surges are coupled into the system and what surge mitigation measures are used. Following this overview, the rational for the different surge and power fault test circuit approaches and when they are specified is given."
 status:
   stage:
     content: Withdrawal

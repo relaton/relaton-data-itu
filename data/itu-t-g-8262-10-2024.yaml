@@ -52,10 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8262 outlines requirements for timing devices used
+  content: 'Recommendation ITU-T G.8262 outlines requirements for timing devices used
     in synchronizing network equipment that uses the physical layer to deliver frequency
     synchronization. This Recommendation defines the requirements for clocks, e.g.,
-    bandwidth, frequency accuracy, holdover and noise generation.\r\n"
+    bandwidth, frequency accuracy, holdover and noise generation.
+    '
 status:
   stage:
     content: Published

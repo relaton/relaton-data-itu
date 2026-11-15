@@ -52,13 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.695 provides optical parameter values for physical
+  content: Recommendation ITU-T G.695 provides optical parameter values for physical
     layer interfaces of coarse wavelength division multiplexing (CWDM) applications
     with up to 16 channels and up to 25 Gbit/s. Applications are defined using two
     different methods, one using multichannel interface parameters and the other using
     single-channel interface parameters. Both unidirectional and bidirectional applications
-    are specified. In this version of this Recommendation, codes for 4\x1Echannel
-    NRZ 10G long-haul and NRZ 25G short-haul black-box applications have been added."
+    are specified. In this version of this Recommendation, codes for 4channel NRZ
+    10G long-haul and NRZ 25G short-haul black-box applications have been added.
 status:
   stage:
     content: Withdrawal

@@ -52,14 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.36 specifies the requirements and framework
+  content: 'Recommendation ITU-T F.748.36 specifies the requirements and framework
     of the multi-algorithm scheduling (MAS) systems for artificial intelligence (AI)-based
     multimedia applications. The MAS systems consist of the scheduling unit, the algorithm
     warehouse unit and the computing power resource management unit. The MAS systems
     schedule multiple algorithms (multi-type, multi-version or from multiple providers)
     across heterogeneous computing power resources based on specific tasks on-demand.
     This Recommendation is intended to guide the design, development, application
-    and implementation of MAS systems for AI-based multimedia applications.\r\n"
+    and implementation of MAS systems for AI-based multimedia applications.
+    '
 status:
   stage:
     content: Published

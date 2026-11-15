@@ -53,26 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides accompanying reference software for ITU-T
-    Rec. H.264 | ISO/IEC 14496-10 as an electronic attachment. The software is an
-    integral part of ITU-T Rec. H.264.2.The purpose of this Recommendation is to provide
-    the following.\r\n• Reference decoder software capable of decoding bitstreams
-    that conform to ITU-T Rec. H.264 | ISO/IEC 14496-10 in a manner that conforms
-    to the decoding process specified in ITU-T Rec. H.264 | ISO/IEC 14496-10.\r\n•
-    Reference encoder software capable of producing bitstreams that conform to ITU-T
-    Rec. H.264 | ISO/IEC 14496-10.The use of this reference software is not required
-    for making an implementation of an encoder or decoder in conformance to ITU-T
-    Rec. H.264 | ISO/IEC 14496-10. Requirements established in ITU-T Rec. H.264 |
-    ISO/IEC 14496-10 take precedence over the behaviour of the reference software.This
-    edition integrates the modifications introduced by Corrigendum 1 (2005-10), which
-    only affected the C source code.Corrigendum 1 corrected various minor errors in
-    the reference decoder software and additionally provided enhancements of the non-normative
-    example encoding processing. The software version currently in-force is referred
-    to as \"JM10.1\".This edition integrates the modifications intoduced by Corrigendum
-    1 (2005-10), which only affected the C source code.Corrigendum 1 corrected various
-    minor errors in the reference decoder software and additionally provided enhancements
-    of the non-normative example encoding processing. The software version currently
-    in-force is referred to as \"JM10.1\"."
+  content: "This Recommendation provides accompanying reference software for ITU-T Rec. H.264 | ISO/IEC 14496-10 as an electronic attachment. The software is an integral part of ITU-T Rec. H.264.2.The purpose of this Recommendation is to provide the following.\r\n• Reference decoder software capable of decoding bitstreams that conform to ITU-T Rec. H.264 | ISO/IEC 14496-10 in a manner that conforms to the decoding process specified in ITU-T Rec. H.264 | ISO/IEC 14496-10.\r\n• Reference encoder software capable of producing bitstreams that conform to ITU-T Rec. H.264 | ISO/IEC 14496-10.The use of this reference software is not required for making an implementation of an encoder or decoder in conformance to ITU-T Rec. H.264 | ISO/IEC 14496-10. Requirements established in ITU-T Rec. H.264 | ISO/IEC 14496-10 take precedence over the behaviour of the reference software.This edition integrates the modifications introduced by Corrigendum 1 (2005-10), which only affected the C source code.Corrigendum 1 corrected various minor errors in the reference decoder software and additionally provided enhancements of the non-normative example encoding processing. The software version currently in-force is referred to as \"JM10.1\".This edition integrates the modifications intoduced by Corrigendum 1 (2005-10), which only affected the C source code.Corrigendum 1 corrected various minor errors in the reference decoder software and additionally provided enhancements of the non-normative example encoding processing. The software version currently in-force is referred to as \"JM10.1\"."
 status:
   stage:
     content: Withdrawal

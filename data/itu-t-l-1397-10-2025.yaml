@@ -54,19 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The exchange of information, i.e., measurements, warnings and alarms,
-    and inventory and configuration data, will become key for an efficient and highly
-    automated cooperation of different equipment at the telecom site. This exchange
-    of information may occur on various architectural levels on-site or at even higher
-    architectural layers between the network management system (NMS). As the telco-site
-    responsibilities are often split between MNOs, telecommunication infrastructure
-    companies (TowerCos) and electricity serving companies (ESCos), the exchange of
-    relevant information via data models and interfaces must be in the focus of standardization,
-    and it shall consider the upcoming virtualization and disaggregation at base-station
-    and aggregation network sites. \r\nRecommendation ITU-T L.1397 covers one part
-    – Battery system with integrated control and monitoring information model – while
-    other parts will be covered by other Recommendations currently under development
-    or to be developed.\r\n"
+  content: "The exchange of information, i.e., measurements, warnings and alarms, and inventory and configuration data, will become key for an efficient and highly automated cooperation of different equipment at the telecom site. This exchange of information may occur on various architectural levels on-site or at even higher architectural layers between the network management system (NMS). As the telco-site responsibilities are often split between MNOs, telecommunication infrastructure companies (TowerCos) and electricity serving companies (ESCos), the exchange of relevant information via data models and interfaces must be in the focus of standardization, and it shall consider the upcoming virtualization and disaggregation at base-station and aggregation network sites. \r\nRecommendation ITU-T L.1397 covers one part – Battery system with integrated control and monitoring information model – while other parts will be covered by other Recommendations currently under development or to be developed.\r\n"
 status:
   stage:
     content: Published

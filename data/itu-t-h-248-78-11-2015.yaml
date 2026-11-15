@@ -53,20 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.78 defines a package that allows bearer-level
-    application protocol (such as real time streaming protocol (RTSP) or message session
-    relay protocol (MSRP)) messages received by a media gateway (MG) to be communicated
-    to a media gateway controller (MGC). This allows the MGC to perform application-level
-    gateway functionality such as network address translation on the messages and
-    then forward the messages to the MG for sending to the destination.\r\n\r\nThe
-    03/2013 revision incorporates an update to correctly refer to the \"Message Session
-    Relay Protocol\".\r\n\r\nThe 04/2015 revision adds a further ITU-T H.248 package
-    for support of:\r\n\r\na)          MG located application-level gateway functionality
-    and\r\n\r\nb)          MG message backhauling functionality\r\n\r\nIt also updates
-    the title from \"bearer-level application level gateway\" to \"bearer-level message
-    backhauling and application level gateway\". \r\n\r\nThis revision adds an annex
-    that describes Extensible Messaging and Presence Protocol (XMPP) to MSRP interworking
-    utilising mechanisms defined in this Recommendation.\r\n"
+  content: "Recommendation ITU-T H.248.78 defines a package that allows bearer-level application protocol (such as real time streaming protocol (RTSP) or message session relay protocol (MSRP)) messages received by a media gateway (MG) to be communicated to a media gateway controller (MGC). This allows the MGC to perform application-level gateway functionality such as network address translation on the messages and then forward the messages to the MG for sending to the destination.\r\n\r\nThe 03/2013 revision incorporates an update to correctly refer to the \"Message Session Relay Protocol\".\r\n\r\nThe 04/2015 revision adds a further ITU-T H.248 package for support of:\r\n\r\na)          MG located application-level gateway functionality and\r\n\r\nb)          MG message backhauling functionality\r\n\r\nIt also updates the title from \"bearer-level application level gateway\" to \"bearer-level message backhauling and application level gateway\". \r\n\r\nThis revision adds an annex that describes Extensible Messaging and Presence Protocol (XMPP) to MSRP interworking utilising mechanisms defined in this Recommendation.\r\n"
 status:
   stage:
     content: Published

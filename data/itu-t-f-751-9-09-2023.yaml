@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.751.9 specifies a trusted execution environment
-    based confidential computing on distributed ledger technology systems. In addition,
-    this Recommendation:\r\n–decomposes users' confidentiality demand into concrete
-    requirements for each step during distributed ledger technology (DLT) service
-    utilization;\r\n–analyses detailed security requirements and technical requirements
-    of trusted execution environment based confidential computing to guarantee confidentiality
-    in the life cycle of a transaction from end to end;\r\n–addresses the framework
-    of trusted execution environment based confidential computing, as well as detailed
-    procedures to realize security requirements and technical requirements.\r\n\r\n"
+  content: "Recommendation ITU-T F.751.9 specifies a trusted execution environment based confidential computing on distributed ledger technology systems. In addition, this Recommendation:\r\n–decomposes users' confidentiality demand into concrete requirements for each step during distributed ledger technology (DLT) service utilization;\r\n–analyses detailed security requirements and technical requirements of trusted execution environment based confidential computing to guarantee confidentiality in the life cycle of a transaction from end to end;\r\n–addresses the framework of trusted execution environment based confidential computing, as well as detailed procedures to realize security requirements and technical requirements.\r\n\r\n"
 status:
   stage:
     content: Published

@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.2111 specifies the functional architecture and
-    requirements for the \r\nresource and admission control functions (RACF) in next
-    generation networks (NGN), which may \r\ninvolve a variety of access and core
-    transport technologies and multiple domains. The RACF \r\nprovides real-time application-driven
-    and policy-based transport resource management in support of \r\nend-to-end quality
-    of service (QoS), gate control, network address translation, and traversal of
-    \r\nremote network address translators. The RACF is not service-specific. Services
-    can make use of \r\nRACF whether the IP multimedia subsystem is involved or not.\r\nIn
-    particular, this edition of Recommendation ITU-T Y.2111 includes extensions to
-    the 2008 edition \r\nto address issues related to the interaction with 3GPP policy
-    control functionalities, resource and \r\nadmission control between NGNs and RACF-unaware
-    IP networks, wholesale, time-shifted TV \r\nservices, QoS downgrading, mobility,
-    resource and admission control based on user subscription \r\nprofile, support
-    of deep packet inspection (DPI), communication between RACF and management of
-    \r\nperformance measurement (MPM), policy-based charging control, and IPTV service
-    by invitation.\r\n \r\n \r\n"
+  content: "Recommendation ITU-T Y.2111 specifies the functional architecture and requirements for the \r\nresource and admission control functions (RACF) in next generation networks (NGN), which may \r\ninvolve a variety of access and core transport technologies and multiple domains. The RACF \r\nprovides real-time application-driven and policy-based transport resource management in support of \r\nend-to-end quality of service (QoS), gate control, network address translation, and traversal of \r\nremote network address translators. The RACF is not service-specific. Services can make use of \r\nRACF whether the IP multimedia subsystem is involved or not.\r\nIn particular, this edition of Recommendation ITU-T Y.2111 includes extensions to the 2008 edition \r\nto address issues related to the interaction with 3GPP policy control functionalities, resource and \r\nadmission control between NGNs and RACF-unaware IP networks, wholesale, time-shifted TV \r\nservices, QoS downgrading, mobility, resource and admission control based on user subscription \r\nprofile, support of deep packet inspection (DPI), communication between RACF and management of \r\nperformance measurement (MPM), policy-based charging control, and IPTV service by invitation.\r\n \r\n \r\n"
 status:
   stage:
     content: Published
@@ -128,8 +113,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in
-        next generation networks
+      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems
+        in next generation networks
     docidentifier:
     - content: Y Suppl. 6 (09/2008)
       type: ITU
@@ -149,8 +134,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and
-        consortia
+      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums
+        and consortia
     docidentifier:
     - content: Y Suppl. 8 (01/2010)
       type: ITU
@@ -246,7 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -267,8 +252,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

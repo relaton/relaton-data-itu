@@ -47,18 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.798 specifies both the components and the methodology
-    that should be used in order to specify the optical transport network (OTN) functionality
-    of network elements; it does not specify individual optical transport network
-    equipment.\r\n\r\nAmendment 1 contains text modifications and additions for:\r\n\r\n–
-    \          moving the ODUkP to Ethernet MAC layer and Ethernet Reconciliation
-    sublayer adaptation functions from ITU-T G.8021 to ITU-T G.798.\r\n\r\n–           supporting
-    the adaptation of ODUkP to Ethernet Coding sublayer for 25 Gb/s, 200 Gb/s and
-    400 Gb/s Ethernet signals.\r\n\r\n–           alignment with ITU-T G.8023.\r\n\r\n–
-    \          replacing Appendix VIII to align with ITU-T G.872 and ITU-T G.873.1\r\n\r\nAmendment
-    2 contains text modifications and additions for:\r\n\r\n–           OTSi to OTU4
-    adaptation function with SC FEC.\r\n\r\n–           OTSi to FlexO-1-SC adaptation
-    function.\r\n\r\n–           alignment with ITU-T G.709.1."
+  content: "Recommendation ITU-T G.798 specifies both the components and the methodology that should be used in order to specify the optical transport network (OTN) functionality of network elements; it does not specify individual optical transport network equipment.\r\n\r\nAmendment 1 contains text modifications and additions for:\r\n\r\n–           moving the ODUkP to Ethernet MAC layer and Ethernet Reconciliation sublayer adaptation functions from ITU-T G.8021 to ITU-T G.798.\r\n\r\n–           supporting the adaptation of ODUkP to Ethernet Coding sublayer for 25 Gb/s, 200 Gb/s and 400 Gb/s Ethernet signals.\r\n\r\n–           alignment with ITU-T G.8023.\r\n\r\n–           replacing Appendix VIII to align with ITU-T G.872 and ITU-T G.873.1\r\n\r\nAmendment 2 contains text modifications and additions for:\r\n\r\n–           OTSi to OTU4 adaptation function with SC FEC.\r\n\r\n–           OTSi to FlexO-1-SC adaptation function.\r\n\r\n–           alignment with ITU-T G.709.1."
 status:
   stage:
     content: Withdrawal

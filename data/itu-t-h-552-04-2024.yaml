@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.552 specifies essential requirements for the implementation
-    of vehicle multimedia systems (VMSs), addressing four of their main aspects:\r\n–connectivity,
-    providing essential standard references and specific performance requirements
-    for the vehicular environment;\r\n–human machine interface, dealing with voice
-    assistant (VA) and auditory interaction requirements;\r\n–media format and control,
-    providing standard references for different types of media for VMSs;\r\n–smartphone
-    infotainment assistant, with requirements related to the interface architecture
-    between smartphones and VMSs, as well as performance requirements to provide a
-    fair level of user experience.\r\nTwo appendices provide VMS implementation guidance:\r\n–radio
-    frequency performance criteria for wireless local area network (WLAN) and user
-    performance testing scenarios for WLAN and wireless personal area network connectivity;\r\n–implementation
-    of a diagnostic interface for tuning the VA functionalities.\r\n"
+  content: "Recommendation ITU-T H.552 specifies essential requirements for the implementation of vehicle multimedia systems (VMSs), addressing four of their main aspects:\r\n–connectivity, providing essential standard references and specific performance requirements for the vehicular environment;\r\n–human machine interface, dealing with voice assistant (VA) and auditory interaction requirements;\r\n–media format and control, providing standard references for different types of media for VMSs;\r\n–smartphone infotainment assistant, with requirements related to the interface architecture between smartphones and VMSs, as well as performance requirements to provide a fair level of user experience.\r\nTwo appendices provide VMS implementation guidance:\r\n–radio frequency performance criteria for wireless local area network (WLAN) and user performance testing scenarios for WLAN and wireless personal area network connectivity;\r\n–implementation of a diagnostic interface for tuning the VA functionalities.\r\n"
 status:
   stage:
     content: Published

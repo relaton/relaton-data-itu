@@ -53,9 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3614 specifies the protocol for originating identification
+  content: 'Recommendation ITU-T Q.3614 specifies the protocol for originating identification
     presentation and originating identification restriction (OIP/OIR) as a next-generation
-    network (NGN) supplementary service.\r\n"
+    network (NGN) supplementary service.
+    '
 status:
   stage:
     content: Published
@@ -313,9 +314,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -325,8 +326,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

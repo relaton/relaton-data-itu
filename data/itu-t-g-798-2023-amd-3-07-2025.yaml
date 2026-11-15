@@ -47,18 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.798 specifies both the components and the methodology
-    that should be used in order to specify the optical transport network (OTN) functionality
-    of network elements; it does not specify individual optical transport network
-    equipment.\r\nAmendment 2 to Recommendation ITU-T G.798 (2023)\r\n–adds FlexOxR
-    and FlexOnM layer atomic functions to support FlexO regenerator applications,\r\n–adds
-    ODUflexP to ETC800GR adaptation function,\r\n–adds fgOTN layer atomic functions
-    to support fine-grained OTN applications,\r\n–makes some editorial changes.\r\nAmendment
-    3 to Recommendation ITU-T G.798 (2023)\r\n–completes defects and generic processes
-    specification for fgOTN and FlexO regenerator functionality;\r\n–aligns the deskew
-    capability of short-reach FlexO interfaces to latest Recommendation ITUT G.709.5;\r\n–adds
-    support for adaptation of fgODUflex to multiple PDH path clients;\r\n–corrects
-    various functional mistakes;\r\n–makes some editorial changes.\r\n"
+  content: "Recommendation ITU-T G.798 specifies both the components and the methodology that should be used in order to specify the optical transport network (OTN) functionality of network elements; it does not specify individual optical transport network equipment.\r\nAmendment 2 to Recommendation ITU-T G.798 (2023)\r\n–adds FlexOxR and FlexOnM layer atomic functions to support FlexO regenerator applications,\r\n–adds ODUflexP to ETC800GR adaptation function,\r\n–adds fgOTN layer atomic functions to support fine-grained OTN applications,\r\n–makes some editorial changes.\r\nAmendment 3 to Recommendation ITU-T G.798 (2023)\r\n–completes defects and generic processes specification for fgOTN and FlexO regenerator functionality;\r\n–aligns the deskew capability of short-reach FlexO interfaces to latest Recommendation ITUT G.709.5;\r\n–adds support for adaptation of fgODUflex to multiple PDH path clients;\r\n–corrects various functional mistakes;\r\n–makes some editorial changes.\r\n"
 status:
   stage:
     content: Withdrawal

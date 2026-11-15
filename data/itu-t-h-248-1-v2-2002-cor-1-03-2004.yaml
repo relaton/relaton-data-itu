@@ -47,7 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "To achieve greater scalability, this Recommendation decomposes the H.323
+  content: 'To achieve greater scalability, this Recommendation decomposes the H.323
     Gateway function defined in ITU-T Rec. H.246 into functional subcomponents and
     specifies the protocols these components use to communicate. This allows implementations
     of H.323 gateways to be highly scalable and encourages leverage of widely deployed
@@ -59,22 +59,22 @@ abstract:
     several enhancements to ITU-T Rec. H.248.1 Version 1:? individual property, signal,
     event and statistic auditing;? improved multiplex handling;? topology for streams;?
     improved description of profiles;? serviceChange capability change.Corrigendum
-    1 corrects several defects found in the Recommendation, in particular:\r• Specification
-    of types for rtp/jit and rtp/delay in E.12.4;\r• Definition of the '#' symbol
-    in the \"unequal\" construct in text encoding;\r• Definition of the symbol for
-    the NULL context in text encoding;\r• Corrections: to Appendix I example statistics,
-    package guidelines for statistics in 12.1.5; ambiguous audit and individual audit
-    return; Context Audit Return; Typographical error in 7.1.2;\r• Specification of
-    the meaning of \"automatic\" in E.13 \"TDM Package\";\r• Additional codepoint
-    and of binary value for packetization time in Annex C;\r• Clarification of wildcarding
-    principles and of wildcarding in the Topology Descriptor;\r• Clarification of:
-    statistics and the Move command; modification of terminations by MGCs; optional
-    commands in an action; ordering of transactions; precedence of LocalControl mode
-    property versus SDP mode; Digit processing; usage of digitmap timer symbols with
-    range notation; use of StreamID = 0; AuditCapabilities return for string values;
-    protocol version negotiation;\r• Clarification that the network package can apply
-    to TDM.NOTE - This Recommendation comprises the renumbering of ITU-T Rec. H.248,
-    its Annexes A through E, and its Appendix I."
+    1 corrects several defects found in the Recommendation, in particular:    •
+    Specification of types for rtp/jit and rtp/delay in E.12.4;    • Definition
+    of the ''#'' symbol in the "unequal" construct in text encoding;    • Definition
+    of the symbol for the NULL context in text encoding;    • Corrections: to Appendix
+    I example statistics, package guidelines for statistics in 12.1.5; ambiguous audit
+    and individual audit return; Context Audit Return; Typographical error in 7.1.2;    •
+    Specification of the meaning of "automatic" in E.13 "TDM Package";    • Additional
+    codepoint and of binary value for packetization time in Annex C;    • Clarification
+    of wildcarding principles and of wildcarding in the Topology Descriptor;    •
+    Clarification of: statistics and the Move command; modification of terminations
+    by MGCs; optional commands in an action; ordering of transactions; precedence
+    of LocalControl mode property versus SDP mode; Digit processing; usage of digitmap
+    timer symbols with range notation; use of StreamID = 0; AuditCapabilities return
+    for string values; protocol version negotiation;    • Clarification that the
+    network package can apply to TDM.NOTE - This Recommendation comprises the renumbering
+    of ITU-T Rec. H.248, its Annexes A through E, and its Appendix I.'
 status:
   stage:
     content: Withdrawal

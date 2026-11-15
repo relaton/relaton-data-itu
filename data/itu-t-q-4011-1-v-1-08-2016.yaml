@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Recommendation ITU-T Q.4011.1 v.1 specifies the testing requirements
-    for supplementary service “Closed User Group (CUG) using IP Multimedia (IM) Core
-    Network (CN) subsystem; Conformance Test Specification; Part 1: Protocol Implementation
-    Conformance Statement (PICS)”.\r\n\r\nThe version number, v.1, indicates that
-    this is version one of Recommendation Q.4011.1, and that it relates to Release
-    10 of the relevant 3GPP/ETSI standard.\r\n\r\nThis Recommendation endorses ETSI
-    TS 101 597-1 V1.1.1 (2013-07); IMS Network Testing (INT); Closed User Group (CUG)
-    using IP Multimedia (IM) Core Network (CN) subsystem; Conformance Test Specification;
-    Part 1: Protocol Implementation Conformance Statement (PICS).\r\n"
+  content: "The Recommendation ITU-T Q.4011.1 v.1 specifies the testing requirements for supplementary service “Closed User Group (CUG) using IP Multimedia (IM) Core Network (CN) subsystem; Conformance Test Specification; Part 1: Protocol Implementation Conformance Statement (PICS)”.\r\n\r\nThe version number, v.1, indicates that this is version one of Recommendation Q.4011.1, and that it relates to Release 10 of the relevant 3GPP/ETSI standard.\r\n\r\nThis Recommendation endorses ETSI TS 101 597-1 V1.1.1 (2013-07); IMS Network Testing (INT); Closed User Group (CUG) using IP Multimedia (IM) Core Network (CN) subsystem; Conformance Test Specification; Part 1: Protocol Implementation Conformance Statement (PICS).\r\n"
 status:
   stage:
     content: Published
@@ -319,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -331,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

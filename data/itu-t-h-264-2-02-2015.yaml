@@ -53,48 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.264.2 provides accompanying reference software
-    for Rec. ITU-T H.264 | ISO/IEC 14496-10 as an electronic attachment. The software
-    is an integral part of Rec. ITU-T H.264.2.\r\nThe purpose of this Recommendation
-    is to provide the following.\r\n•\tReference decoder software capable of decoding
-    bitstreams that conform to Rec. ITU-T H.264 | ISO/IEC 14496\x1E10 in a manner
-    that conforms to the decoding process specified in Rec. ITU\x1ET H.264 | ISO/IEC 14496\x1E10.\r\n•\tReference
-    encoder software capable of producing bitstreams that conform to Rec. ITU-T H.264
-    | ISO/IEC 14496\x1E10.\r\nThe use of this reference software is not required for
-    making an implementation of an encoder or decoder in conformance to Rec. ITU-T H.264 | ISO/IEC
-    14496\x1E10. Requirements established in Rec. ITU\x1ET H.264 | ISO/IEC 14496\x1E10
-    take precedence over the behaviour of the reference software.\r\nThe edition approved
-    in 2009-05 incorporated changes made to the reference software for Rec. ITU-T H.264
-    | ISO/IEC 14496-10 advanced video coding. The changes contain improvements of
-    encoder compression capability, bug fixes, speed and memory resource usage improvements,
-    restructuring of the software for readability and ease of software maintenance,
-    and the addition of support for new profiles of ITU-T H.264. The new profiles
-    are from the set of profiles targeting professional applications that were added
-    to Rec. ITU-T H.264 | ISO/IEC 14496-10 in 2007. No changes were made to the text
-    of the Recommendation.\r\nThe edition approved in 2010-06 contained improvements
-    of encoder compression capability, bug fixes, speed and memory resource usage
-    improvements, restructuring of the software for readability and ease of software
-    maintenance. In addition, this edition includes support for the Scalable Baseline,
-    Scalable High, Scalable High Intra, Multiview High, and Stereo High profiles.
-    The support for the scalable profiles specified in Annex G of Rec. ITU-T H.264
-    | ISO/IEC 14496-10 (Scalable Baseline, Scalable High, and Scalable High Intra)
-    and the support for the multiview profiles specified in Annex H of Rec. ITU-T
-    H.264 | ISO/IEC 14496-10 (Multiview High and Stereo High) are provided in separate
-    software solutions.\r\nThe edition approved in 2012-01 only introduced changes
-    to the reference software of Recommendation ITU\x1ET H.264.2 (the text is the
-    same as of the edition approved 2010-06). The changes in the reference software
-    improve the encoder compression capability, fix bugs, and improve speed and memory
-    resource usage. The software was also restructured for better readability and
-    ease of maintenance.\r\nThis edition approved in 2014-07 contains bug fixes for
-    the profiles specified in Annex A of Rec. ITU-T H.264 | ISO/IEC 14496-10. In addition,
-    this edition includes support for the MFC High profile specified in Annex H of
-    Rec. ITU-T H.264 | ISO/IEC 14496-10, support for the Multiview Depth High profile
-    specified in Annex I of Rec. ITU-T H.264 | ISO/IEC 14496-10, and support for the
-    Enhanced Multiview Depth High profile specified in Annex J of Rec. ITU-T H.264
-    | ISO/IEC 14496-10, which are provided in separate software packages.\r\nThis
-    Recommendation was developed jointly with ISO/IEC JTC 1/SC 29/WG 11 (MPEG) and
-    corresponds to part of ISO/IEC 14496-5, up to and including ISO/IEC 14496-5 (2001)
-    Amendments 33, 34 and 35."
+  content: "Recommendation ITU-T H.264.2 provides accompanying reference software for Rec. ITU-T H.264 | ISO/IEC 14496-10 as an electronic attachment. The software is an integral part of Rec. ITU-T H.264.2.\r\nThe purpose of this Recommendation is to provide the following.\r\n•\tReference decoder software capable of decoding bitstreams that conform to Rec. ITU-T H.264 | ISO/IEC 14496\x1e10 in a manner that conforms to the decoding process specified in Rec. ITU\x1eT H.264 | ISO/IEC 14496\x1e10.\r\n•\tReference encoder software capable of producing bitstreams that conform to Rec. ITU-T H.264 | ISO/IEC 14496\x1e10.\r\nThe use of this reference software is not required for making an implementation of an encoder or decoder in conformance to Rec. ITU-T H.264 | ISO/IEC 14496\x1e10. Requirements established in Rec. ITU\x1eT H.264 | ISO/IEC 14496\x1e10 take precedence over the behaviour of the reference software.\r\nThe edition approved in 2009-05 incorporated changes made to the reference software for Rec. ITU-T H.264 | ISO/IEC 14496-10 advanced video coding. The changes contain improvements of encoder compression capability, bug fixes, speed and memory resource usage improvements, restructuring of the software for readability and ease of software maintenance, and the addition of support for new profiles of ITU-T H.264. The new profiles are from the set of profiles targeting professional applications that were added to Rec. ITU-T H.264 | ISO/IEC 14496-10 in 2007. No changes were made to the text of the Recommendation.\r\nThe edition approved in 2010-06 contained improvements of encoder compression capability, bug fixes, speed and memory resource usage improvements, restructuring of the software for readability and ease of software maintenance. In addition, this edition includes support for the Scalable Baseline, Scalable High, Scalable High Intra, Multiview High, and Stereo High profiles. The support for the scalable profiles specified in Annex G of Rec. ITU-T H.264 | ISO/IEC 14496-10 (Scalable Baseline, Scalable High, and Scalable High Intra) and the support for the multiview profiles specified in Annex H of Rec. ITU-T H.264 | ISO/IEC 14496-10 (Multiview High and Stereo High) are provided in separate software solutions.\r\nThe edition approved in 2012-01 only introduced changes to the reference software of Recommendation ITU\x1eT H.264.2 (the text is the same as of the edition approved 2010-06). The changes in the reference software improve the encoder compression capability, fix bugs, and improve speed and memory resource usage. The software was also restructured for better readability and ease of maintenance.\r\nThis edition approved in 2014-07 contains bug fixes for the profiles specified in Annex A of Rec. ITU-T H.264 | ISO/IEC 14496-10. In addition, this edition includes support for the MFC High profile specified in Annex H of Rec. ITU-T H.264 | ISO/IEC 14496-10, support for the Multiview Depth High profile specified in Annex I of Rec. ITU-T H.264 | ISO/IEC 14496-10, and support for the Enhanced Multiview Depth High profile specified in Annex J of Rec. ITU-T H.264 | ISO/IEC 14496-10, which are provided in separate software packages.\r\nThis Recommendation was developed jointly with ISO/IEC JTC 1/SC 29/WG 11 (MPEG) and corresponds to part of ISO/IEC 14496-5, up to and including ISO/IEC 14496-5 (2001) Amendments 33, 34 and 35."
 status:
   stage:
     content: Withdrawal

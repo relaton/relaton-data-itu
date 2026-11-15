@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.161.1 defines do-no-harm (DNH) tests for network-based
-    and terminal\x1Ebased voice quality enhancement (VQE) functions and non-VQE functions.
-    \r\nConventionally, performance specifications are written for telecommunication
-    equipment to specify their performance characteristics in their intended application.
-    Do-no-harm testing is a concept that has been introduced to specify tests which
-    may be carried out to evaluate situations where the equipment, although meeting
-    its performance specifications in its intended application, may cause some other
-    unexpected performance degradation. Specific DNH tests which relate to \"fixed
-    de-jitter buffer operation\" and \"long-term media path delay stability\" are
-    described in the annexes of this Recommendation. Where appropriate, these tests
-    are backed up by case studies which are described in the appendices. It is anticipated
-    that additional annexes covering other DNH scenarios will be added in the future."
+  content: "Recommendation ITU-T G.161.1 defines do-no-harm (DNH) tests for network-based and terminal\x1ebased voice quality enhancement (VQE) functions and non-VQE functions. \r\nConventionally, performance specifications are written for telecommunication equipment to specify their performance characteristics in their intended application. Do-no-harm testing is a concept that has been introduced to specify tests which may be carried out to evaluate situations where the equipment, although meeting its performance specifications in its intended application, may cause some other unexpected performance degradation. Specific DNH tests which relate to \"fixed de-jitter buffer operation\" and \"long-term media path delay stability\" are described in the annexes of this Recommendation. Where appropriate, these tests are backed up by case studies which are described in the appendices. It is anticipated that additional annexes covering other DNH scenarios will be added in the future."
 status:
   stage:
     content: Published

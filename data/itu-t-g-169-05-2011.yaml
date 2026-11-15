@@ -52,24 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.169 applies to the testing of automatic level control
-    (ALC) devices intended for use in digital network-based equipment. It does not
-    apply to subscriber-based level control devices, devices that operate in the analogue
-    domain, or any means of fixed level control within the network which may be part
-    of an overall network transmission plan.\r\n\r\nThe scope of this Recommendation
-    is to define certain performance constraints for network ALC devices and, where
-    appropriate, to define laboratory tests that may be performed on an ALC device
-    to verify that these constraints are met.\r\n\r\nAn ALC device that satisfies
-    all the constraints and passes all of the tests in this Recommendation should
-    ensure (but will not guarantee) that the pre-existing standard of overall network
-    performance (e.g., the transmission of speech, voiceband data and other voiceband
-    signals, ISDN, etc.) is not degraded when the ALC device is installed in the network.\r\n\r\nThis
-    Recommendation also describes the general characteristics of ALC devices and indicates
-    what characteristics are important to provide acceptable performance in the network.
-    Issues relating to the interaction of ALC devices with other network and subscriber
-    equipment are also discussed in this Recommendation.\r\n\r\nThis Recommendation
-    does not define a standard algorithm.\r\n\r\nThis Recommendation does not define
-    planning rules, deployment aspects, or target levels for ALC devices."
+  content: "Recommendation ITU-T G.169 applies to the testing of automatic level control (ALC) devices intended for use in digital network-based equipment. It does not apply to subscriber-based level control devices, devices that operate in the analogue domain, or any means of fixed level control within the network which may be part of an overall network transmission plan.\r\n\r\nThe scope of this Recommendation is to define certain performance constraints for network ALC devices and, where appropriate, to define laboratory tests that may be performed on an ALC device to verify that these constraints are met.\r\n\r\nAn ALC device that satisfies all the constraints and passes all of the tests in this Recommendation should ensure (but will not guarantee) that the pre-existing standard of overall network performance (e.g., the transmission of speech, voiceband data and other voiceband signals, ISDN, etc.) is not degraded when the ALC device is installed in the network.\r\n\r\nThis Recommendation also describes the general characteristics of ALC devices and indicates what characteristics are important to provide acceptable performance in the network. Issues relating to the interaction of ALC devices with other network and subscriber equipment are also discussed in this Recommendation.\r\n\r\nThis Recommendation does not define a standard algorithm.\r\n\r\nThis Recommendation does not define planning rules, deployment aspects, or target levels for ALC devices."
 status:
   stage:
     content: Published

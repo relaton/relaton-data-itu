@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T 4460 describes the architectural reference models
-    of devices for Internet of things (IoT) applications, based on a classification
-    of devices defined by processing power and communication capabilities. The architectural
-    reference models described also includes the device's functional entities and
-    the functional entities interaction for each device's architectural reference
-    model.\r\n\r\nProcessing power and communication capabilities define how the device
-    communicates and interacts with other entities in an IoT solution. By correlating
-    the processing and communication capabilities classifications, it is possible
-    to enumerate three types of devices:\r\n\r\n1)          low processing and low
-    connectivity device – LPLC device;\r\n\r\n2)          low processing and high
-    connectivity device – LPHC device;\r\n\r\n3)          high processing and high
-    connectivity device – HPHC device.\r\n\r\nNOTE – Devices with no processing capabilities
-    are also not considered on this Recommendation because they are simple devices
-    (ID tags) that were defined in Recommendation ITU-T Y.4108/Y.2213."
+  content: "Recommendation ITU-T 4460 describes the architectural reference models of devices for Internet of things (IoT) applications, based on a classification of devices defined by processing power and communication capabilities. The architectural reference models described also includes the device's functional entities and the functional entities interaction for each device's architectural reference model.\r\n\r\nProcessing power and communication capabilities define how the device communicates and interacts with other entities in an IoT solution. By correlating the processing and communication capabilities classifications, it is possible to enumerate three types of devices:\r\n\r\n1)          low processing and low connectivity device – LPLC device;\r\n\r\n2)          low processing and high connectivity device – LPHC device;\r\n\r\n3)          high processing and high connectivity device – HPHC device.\r\n\r\nNOTE – Devices with no processing capabilities are also not considered on this Recommendation because they are simple devices (ID tags) that were defined in Recommendation ITU-T Y.4108/Y.2213."
 status:
   stage:
     content: Published
@@ -96,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -159,8 +147,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -180,7 +168,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -233,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -244,7 +231,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -276,8 +264,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

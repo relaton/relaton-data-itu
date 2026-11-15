@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "One of the challenges in the area of software-defined networking (SDN)
-    is to ensure the compatibility of solutions from various producers at all layers
-    of the network function virtualization (NFV) and SDN network. There are many SDN
-    solutions, both open-source and proprietary; each is unique in terms of the software
-    implementation by the object, which, even if it delivers the functionality required
-    by the standard, is still at risk in certain cases of the network failing or holding
-    up traffic owing to a loss of the OpenFlow connection between the SDN switch and
-    controller of the programmable network, exposing the operator (network owner)
-    to the risk of financial and other losses (e.g., of customers).\r\nTo prevent
-    such situations, when installing equipment on a telecommunication network, the
-    operator tests the equipment in question for compatibility with other devices
-    already operating on the network. In the case of SDN, tests are required to check
-    the compatibility of OpenFlow protocol modules of each version installed on the
-    device being tested.\r\nRecommendation ITU-T Q.3963 has been developed with a
-    view to harmonizing existing practices in the area of compatibility testing of
-    devices using the OpenFlow operation system (OS)."
+  content: "One of the challenges in the area of software-defined networking (SDN) is to ensure the compatibility of solutions from various producers at all layers of the network function virtualization (NFV) and SDN network. There are many SDN solutions, both open-source and proprietary; each is unique in terms of the software implementation by the object, which, even if it delivers the functionality required by the standard, is still at risk in certain cases of the network failing or holding up traffic owing to a loss of the OpenFlow connection between the SDN switch and controller of the programmable network, exposing the operator (network owner) to the risk of financial and other losses (e.g., of customers).\r\nTo prevent such situations, when installing equipment on a telecommunication network, the operator tests the equipment in question for compatibility with other devices already operating on the network. In the case of SDN, tests are required to check the compatibility of OpenFlow protocol modules of each version installed on the device being tested.\r\nRecommendation ITU-T Q.3963 has been developed with a view to harmonizing existing practices in the area of compatibility testing of devices using the OpenFlow operation system (OS)."
 status:
   stage:
     content: Published
@@ -325,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -337,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

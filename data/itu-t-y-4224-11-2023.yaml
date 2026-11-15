@@ -52,25 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A digital twin is the digital representation of an object of interest
-    with data connections that enable convergence between the physical and digital
-    states at an appropriate rate of synchronization. Also, a digital twin has the
-    capabilities of connection, integration, analysis, simulation, visualization,
-    optimization and provides an integrated view throughout the life-cycle of the
-    objects of interest. The digital twin can provide real-time monitoring and proactive
-    control, predictive maintenance by data analytics, cost and downtime reduction,
-    and so on. Due to these benefits, various industries have adopted the digital
-    twin technology. \r\nThe smart cities and communities may have many kinds of cross
-    domain problems, such as manufacturing, transportation, energy and safety, and
-    it is difficult to resolve these problems by individual digital twins. To solve
-    them, the digital twins in various domains can be federated. \r\nThe federated
-    digital twins collect and analyse the information from various domains, provide
-    the solution for the problems, and simulate the effects. For this, some components
-    and functions are needed to support for digital twin federation. First, registration
-    of information for each digital twin is performed. And the discovery, connection,
-    and utilization for the adequate digital twins are carried out for digital twin
-    federation. \r\nRecommendation ITU-T Y.4224 defines the requirements for digital
-    twin federation.\r\n"
+  content: "A digital twin is the digital representation of an object of interest with data connections that enable convergence between the physical and digital states at an appropriate rate of synchronization. Also, a digital twin has the capabilities of connection, integration, analysis, simulation, visualization, optimization and provides an integrated view throughout the life-cycle of the objects of interest. The digital twin can provide real-time monitoring and proactive control, predictive maintenance by data analytics, cost and downtime reduction, and so on. Due to these benefits, various industries have adopted the digital twin technology. \r\nThe smart cities and communities may have many kinds of cross domain problems, such as manufacturing, transportation, energy and safety, and it is difficult to resolve these problems by individual digital twins. To solve them, the digital twins in various domains can be federated. \r\nThe federated digital twins collect and analyse the information from various domains, provide the solution for the problems, and simulate the effects. For this, some components and functions are needed to support for digital twin federation. First, registration of information for each digital twin is performed. And the discovery, connection, and utilization for the adequate digital twins are carried out for digital twin federation. \r\nRecommendation ITU-T Y.4224 defines the requirements for digital twin federation.\r\n"
 status:
   stage:
     content: Published
@@ -90,7 +72,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -153,8 +136,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -174,7 +157,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -216,8 +199,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -227,7 +209,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -259,8 +242,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

@@ -52,13 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.103 describes characteristics, construction and
+  content: 'Recommendation ITU-T L.103 describes characteristics, construction and
     test methods for optical fibre cables for indoor applications. In order for an
     optical fibre to perform appropriately, characteristics that a cable should have
     been described. Also, the method of determining whether the cable has the required
     characteristics is described. Required conditions may differ according to the
     installation environment; detailed test conditions need to be agreed upon between
-    the user and manufacturer for the environment where a cable is to be used.\r\n"
+    the user and manufacturer for the environment where a cable is to be used.
+    '
 status:
   stage:
     content: Published

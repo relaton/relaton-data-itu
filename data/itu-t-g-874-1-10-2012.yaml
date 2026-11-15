@@ -51,20 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.874.1 provides a protocol-neutral management information
-    model for managing network elements in the optical transport network (OTN). The
-    model contains the managed entities and their properties that are useful to describe
-    the information exchanged across interfaces defined in the ITU-T M.3010 telecommunications
-    management network (TMN) architecture. The protocol-neutral management information
-    model shall be used as the base for defining protocol\x1Especific management information
-    models, for example, CMISE, CORBA and SNMP information models. Mapping from the
-    protocol-neutral entities into protocol-specific objects is a decision of the
-    specific protocol modelling design and should be described in the protocol-specific
-    information model Recommendations.\r\nThe 2012 revision of this Recommendation
-    has updated the management information model to support the management of the
-    new transport functions that have been introduced in the 2010 revision of Recommendation
-    ITU-T G.798 and also to support the management requirements enhancement introduced
-    in the 2010 revision of Recommendation ITU-T G.874."
+  content: "Recommendation ITU-T G.874.1 provides a protocol-neutral management information model for managing network elements in the optical transport network (OTN). The model contains the managed entities and their properties that are useful to describe the information exchanged across interfaces defined in the ITU-T M.3010 telecommunications management network (TMN) architecture. The protocol-neutral management information model shall be used as the base for defining protocol\x1especific management information models, for example, CMISE, CORBA and SNMP information models. Mapping from the protocol-neutral entities into protocol-specific objects is a decision of the specific protocol modelling design and should be described in the protocol-specific information model Recommendations.\r\nThe 2012 revision of this Recommendation has updated the management information model to support the management of the new transport functions that have been introduced in the 2010 revision of Recommendation ITU-T G.798 and also to support the management requirements enhancement introduced in the 2010 revision of Recommendation ITU-T G.874."
 status:
   stage:
     content: Withdrawal

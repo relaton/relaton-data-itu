@@ -47,15 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8265/Y.1365 describes the architecture and requirements
-    for packet based frequency distribution in telecom networks. Examples of packet-based
-    frequency distribution include the network time protocol (NTP), IEEE-1588-2008
-    and IEEE 1588-2019 and are briefly described here. Details necessary to utilize
-    IEEE-1588-2008 and IEEE 588-2019 in a manner consistent with the architecture
-    are defined in other Recommendations.\r\nAmendment 1 includes the following changes:\r\n–\tIPv6
-    mapping, in addition to IPv4, is now mandatory;\r\n–\tClarifying notes have been
-    added to the tables in Annex A which contains the PTP profile.\r\n–\tProvides
-    carifications to PTP attribute values\r\n"
+  content: "Recommendation ITU-T G.8265/Y.1365 describes the architecture and requirements for packet based frequency distribution in telecom networks. Examples of packet-based frequency distribution include the network time protocol (NTP), IEEE-1588-2008 and IEEE 1588-2019 and are briefly described here. Details necessary to utilize IEEE-1588-2008 and IEEE 588-2019 in a manner consistent with the architecture are defined in other Recommendations.\r\nAmendment 1 includes the following changes:\r\n–\tIPv6 mapping, in addition to IPv4, is now mandatory;\r\n–\tClarifying notes have been added to the tables in Annex A which contains the PTP profile.\r\n–\tProvides carifications to PTP attribute values\r\n"
 status:
   stage:
     content: Withdrawal

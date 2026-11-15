@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 46 to ITU-T G-series Recommendations defines a test plan whose
+  content: 'Supplement 46 to ITU-T G-series Recommendations defines a test plan whose
     purpose is to verify interoperability between a G-PON OLT and ONU. Emphasis is
     placed on test cases that address the G-PON physical layer (ITU-T G.984.2), the
     TC layer (ITU-T G.984.3) and low-level components of the management layer (ITU-T
@@ -61,8 +61,9 @@ abstract:
     testing is conducted by or on behalf of four interests: the OLT vendor, the ONU
     vendor, one or more network operators who are potential customers, and possibly
     a third-party testing lab. For each test case, the supplement provides detailed
-    information on:\r• purpose;\r• reference standard;\r• preconditions and dependencies;\r•
-    test set-up;\r• test equipment;\r• test procedure;\r• pass - fail criteria."
+    information on:    • purpose;    • reference standard;    • preconditions
+    and dependencies;    • test set-up;    • test equipment;    • test procedure;    •
+    pass - fail criteria.'
 status:
   stage:
     content: Published

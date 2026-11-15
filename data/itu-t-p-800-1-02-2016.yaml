@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides a terminology which shall be used in conjunction
+  content: 'This Recommendation provides a terminology which shall be used in conjunction
     with audio, video and audio-visual quality expressions in terms of Mean Opinion
     Score (MOS). This terminology is motivated by the intention to avoid misunderstanding
     as to whether specific values of MOS for audio are related to listening quality,
@@ -61,7 +61,8 @@ abstract:
     the concept to video and audio-visual quality. Furthermore, this Recommendation
     provides identifiers regarding the audio bandwidth, the type of interface (electrical
     or acoustical), and the video resolution. Further guidance on the interpretation
-    of MOS is given in Rec. P.800.2.\r\n"
+    of MOS is given in Rec. P.800.2.
+    '
 status:
   stage:
     content: Withdrawal

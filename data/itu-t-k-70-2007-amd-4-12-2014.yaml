@@ -50,22 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 4 to ITU-T K.70 consists of a new version (v.5.0) of the software
-    EMF-estimator, which constitutes Appendix I of Recommendation ITU-T K.70 (2007).
-    The main improvements introduced in v.5.0 are the following:\r\n•\tthe code of
-    the software has been developed and recompiled in the updated programming environment;\r\n•\tthe
-    installation procedure is new and should be much easier to use;\r\n•\tit is possible
-    to open simultaneously many projects, and the results of respective calculations
-    can be directly compared;\r\n•\tthe term \"cumulative exposure\" has been changed
-    to \"total exposure\" following the discussion and decision taken during the development
-    of Recommendation ITU\x1ET K.91.\r\nThe new version v.5.0 of the software does
-    not run on the Windows XP operational system. The design (layout) of the software
-    and the main options have not changed. However, the format of the projects has
-    changed. The new software gives an opportunity to read the old projects (extension
-    *.exp) and to save them in the new format (extension *.expx). To save all changes
-    in the format of the project file it is necessary to use the \"save\" or \"save
-    to\" option. This will allow to fill all the data banks attached to the project
-    file."
+  content: "Amendment 4 to ITU-T K.70 consists of a new version (v.5.0) of the software EMF-estimator, which constitutes Appendix I of Recommendation ITU-T K.70 (2007). The main improvements introduced in v.5.0 are the following:\r\n•\tthe code of the software has been developed and recompiled in the updated programming environment;\r\n•\tthe installation procedure is new and should be much easier to use;\r\n•\tit is possible to open simultaneously many projects, and the results of respective calculations can be directly compared;\r\n•\tthe term \"cumulative exposure\" has been changed to \"total exposure\" following the discussion and decision taken during the development of Recommendation ITU\x1eT K.91.\r\nThe new version v.5.0 of the software does not run on the Windows XP operational system. The design (layout) of the software and the main options have not changed. However, the format of the projects has changed. The new software gives an opportunity to read the old projects (extension *.exp) and to save them in the new format (extension *.expx). To save all changes in the format of the project file it is necessary to use the \"save\" or \"save to\" option. This will allow to fill all the data banks attached to the project file."
 status:
   stage:
     content: Withdrawal

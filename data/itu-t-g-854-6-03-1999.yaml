@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Enterprise community actions covered by this specification:\r• set-up
-    point-to-point trail;\r• modify trail;\r• release trail;\r• create trail termination
-    point;\r• delete trail termination point;\r• associate trail termination point
-    with access group;\r• disassociate trail termination point from access group;\r•
-    associate trail termination point with subnetwork;\r• disassociate trail termination
-    point from subnetwork;\r• report trail set-up;\r• report trail release;\r• report
-    trail modification;\r• report trail termination point creation;\r• report trail
-    termination point deletion;\r• report association of trail termination point with
-    access group;\r• report disassociation of trail termination point from access
-    group;\r• report association of trail termination point with subnetwork;\r• report
-    disassociation of trail termination point from subnetwork."
+  content: "Enterprise community actions covered by this specification:\r• set-up point-to-point trail;\r• modify trail;\r• release trail;\r• create trail termination point;\r• delete trail termination point;\r• associate trail termination point with access group;\r• disassociate trail termination point from access group;\r• associate trail termination point with subnetwork;\r• disassociate trail termination point from subnetwork;\r• report trail set-up;\r• report trail release;\r• report trail modification;\r• report trail termination point creation;\r• report trail termination point deletion;\r• report association of trail termination point with access group;\r• report disassociation of trail termination point from access group;\r• report association of trail termination point with subnetwork;\r• report disassociation of trail termination point from subnetwork."
 status:
   stage:
     content: Published

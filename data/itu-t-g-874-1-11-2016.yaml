@@ -53,32 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.874.1 provides a protocol-neutral management information
-    model for managing network elements in the optical transport network (OTN). The
-    model contains the managed entities and their properties that are useful to describe
-    the information exchanged across interfaces defined in the M.3010 telecommunications
-    management network (TMN) architecture. The protocol-neutral management information
-    model shall be used as the base for defining protocol-specific management information
-    models, for example, CMISE, CORBA, and SNMP information models. Mapping from the
-    protocol-neutral entities into protocol-specific objects is a decision of the
-    specific protocol modelling design and should be described in the protocol-specific
-    information model Recommendations.\r\n\r\nThe 2012 revision of this Recommendation
-    has updated the management information model to support the management of the
-    new transport functions that have been introduced in the 2010 revision of Recommendation
-    ITU-T G.798 and also to support the management requirements enhancement introduced
-    in the 2010 revision of Recommendation ITU-T G.874.\r\n\r\nAmendment 1 enhances
-    the model to cover Delay Measurement (DM), Automatic Protection Switching (APS)
-    configuration, Tributary slot configuration, and ODU type & rate configuration,
-    and to remove the counting of IAE and BIAE.\r\n\r\nAmendment 2 to Recommendation
-    ITU-T G.874.1 (2012): (1) adds the use of an organizationally unique identifier
-    (OUI) to the description of the attributes selectedApplicationIdentifier and supportableApplicationIdentifierList;
-    and (2) sub-classes the OTN Current Data and History Data object classes from
-    the ITU-T Q.822 Current Data and History Data object classes.\r\n\r\nThe 2016
-    revision of this Recommendation has incorporated Amendment 1 and Amendment 2,
-    and in additional the following updates: change the UML modeling tool from RSA
-    to open source Papyrus tool, update the G.874.1 information model to align with
-    the G.7711 v2.0 Core information model, drop subclassing the TP classes from M.3160,
-    and support the additional management requirements in Recommendation ITU-T G.874.\r\n"
+  content: "Recommendation ITU-T G.874.1 provides a protocol-neutral management information model for managing network elements in the optical transport network (OTN). The model contains the managed entities and their properties that are useful to describe the information exchanged across interfaces defined in the M.3010 telecommunications management network (TMN) architecture. The protocol-neutral management information model shall be used as the base for defining protocol-specific management information models, for example, CMISE, CORBA, and SNMP information models. Mapping from the protocol-neutral entities into protocol-specific objects is a decision of the specific protocol modelling design and should be described in the protocol-specific information model Recommendations.\r\n\r\nThe 2012 revision of this Recommendation has updated the management information model to support the management of the new transport functions that have been introduced in the 2010 revision of Recommendation ITU-T G.798 and also to support the management requirements enhancement introduced in the 2010 revision of Recommendation ITU-T G.874.\r\n\r\nAmendment 1 enhances the model to cover Delay Measurement (DM), Automatic Protection Switching (APS) configuration, Tributary slot configuration, and ODU type & rate configuration, and to remove the counting of IAE and BIAE.\r\n\r\nAmendment 2 to Recommendation ITU-T G.874.1 (2012): (1) adds the use of an organizationally unique identifier (OUI) to the description of the attributes selectedApplicationIdentifier and supportableApplicationIdentifierList; and (2) sub-classes the OTN Current Data and History Data object classes from the ITU-T Q.822 Current Data and History Data object classes.\r\n\r\nThe 2016 revision of this Recommendation has incorporated Amendment 1 and Amendment 2, and in additional the following updates: change the UML modeling tool from RSA to open source Papyrus tool, update the G.874.1 information model to align with the G.7711 v2.0 Core information model, drop subclassing the TP classes from M.3160, and support the additional management requirements in Recommendation ITU-T G.874.\r\n"
 status:
   stage:
     content: Withdrawal

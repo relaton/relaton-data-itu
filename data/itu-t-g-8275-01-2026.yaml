@@ -52,25 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275 specifies common aspects of phase and time
-    profiles defined in ITUT G.8275.1 and ITU-T G.8275.2. This Recommendation includes
-    the precision time protocol (PTP) functions per IEEE 1588 that are necessary to
-    ensure interoperability for the delivery of accurate phase/time synchronization.\r\nThis
-    revision:\r\n1)Splits the contents of the previous revision into this revision,
-    which addresses the common aspects of PTP profiles, and Recommendation ITU-T G.8274,
-    which addresses the PTP architecture aspects;\r\n2)Revises the title of the Recommendation
-    to \"Common aspects of PTP profiles for phase/time synchronization\";\r\n3)Rewrites
-    the summary, scope and clause 6;\r\n4)Move the contents of clauses 7 and 9 of
-    the previous revision to Recommendation ITUT G.8274;\r\n5)Moves the contents of
-    Annex A, Appendix I, Appendix II, Appendix V, Appendix VII and Appendix X to Recommendation
-    ITU-T G.8274, and adds a reference to Recommendation ITU-T G.8274 for these annexes
-    and appendices;\r\n6)Improves the contents of Annex F;\r\n7)Adds a new Annex G
-    \"Synchronization service availability performance metrics (optional)\";\r\n8)Adds
-    a new deployment case about interworking function (IWF) in Appendix III;\r\n9)Adds
-    a new Appendix XIV \"Calculation of offsetScaledLogVariance for T-GM timed by
-    PRTC or ePRTC\";\r\n10)Adds a new Appendix XV \"Considerations of deploying ePRTCs
-    and PRTCs in the network\";\r\n11)Adds a new Appendix XVI \"Considerations on
-    timer reconfiguration\".\r\n"
+  content: "Recommendation ITU-T G.8275 specifies common aspects of phase and time profiles defined in ITUT G.8275.1 and ITU-T G.8275.2. This Recommendation includes the precision time protocol (PTP) functions per IEEE 1588 that are necessary to ensure interoperability for the delivery of accurate phase/time synchronization.\r\nThis revision:\r\n1)Splits the contents of the previous revision into this revision, which addresses the common aspects of PTP profiles, and Recommendation ITU-T G.8274, which addresses the PTP architecture aspects;\r\n2)Revises the title of the Recommendation to \"Common aspects of PTP profiles for phase/time synchronization\";\r\n3)Rewrites the summary, scope and clause 6;\r\n4)Move the contents of clauses 7 and 9 of the previous revision to Recommendation ITUT G.8274;\r\n5)Moves the contents of Annex A, Appendix I, Appendix II, Appendix V, Appendix VII and Appendix X to Recommendation ITU-T G.8274, and adds a reference to Recommendation ITU-T G.8274 for these annexes and appendices;\r\n6)Improves the contents of Annex F;\r\n7)Adds a new Annex G \"Synchronization service availability performance metrics (optional)\";\r\n8)Adds a new deployment case about interworking function (IWF) in Appendix III;\r\n9)Adds a new Appendix XIV \"Calculation of offsetScaledLogVariance for T-GM timed by PRTC or ePRTC\";\r\n10)Adds a new Appendix XV \"Considerations of deploying ePRTCs and PRTCs in the network\";\r\n11)Adds a new Appendix XVI \"Considerations on timer reconfiguration\".\r\n"
 status:
   stage:
     content: Published

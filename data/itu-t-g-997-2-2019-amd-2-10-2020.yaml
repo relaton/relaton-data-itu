@@ -47,20 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.997.2 specifies the physical layer management for
-    fast access to subscriber terminals (G.fast) transmission systems. It specifies
-    managed objects for configuration, fault, status, inventory and performance management.
-    \r\n\r\nAmendment 2 to ITU-T Rec. G.997.2 integrates the Amendment 1 of ITU-T
-    Rec. G.997.2 and includes the following new material: \r\n\r\n– Extend the range
-    of minimal Mds with cDTA to 5 \r\n\r\nIn addition, it corrects the following items:
-    \r\n\r\n– Aligned the valid ranges of frequencies of MIBPSDMASK with ITU-T G.9701.
-    \r\n\r\n– Explicit the \"empty array\" in the valid values of configuration parameters.
-    \r\n\r\n– Explicit the constraint of ITU-T G.9701 on the configuration of RMCR_LOR_TRIGGER
-    and LOR_PERSISTENCY. \r\n\r\n– Correct the frequency range of one IAR \r\n\r\n–
-    Update the reference IETF RFC 6020 to IETF RFC 7950 \r\n\r\n– Update the reference
-    IETF RFC 7223 to IETF RFC 8343 – Correct references to ITU-T G.9701. \r\n\r\nThe
-    changes relative to corrected items are with the following change bars. The changes
-    relative to new material are with the following change bars. \r\n"
+  content: "Recommendation ITU-T G.997.2 specifies the physical layer management for fast access to subscriber terminals (G.fast) transmission systems. It specifies managed objects for configuration, fault, status, inventory and performance management. \r\n\r\nAmendment 2 to ITU-T Rec. G.997.2 integrates the Amendment 1 of ITU-T Rec. G.997.2 and includes the following new material: \r\n\r\n– Extend the range of minimal Mds with cDTA to 5 \r\n\r\nIn addition, it corrects the following items: \r\n\r\n– Aligned the valid ranges of frequencies of MIBPSDMASK with ITU-T G.9701. \r\n\r\n– Explicit the \"empty array\" in the valid values of configuration parameters. \r\n\r\n– Explicit the constraint of ITU-T G.9701 on the configuration of RMCR_LOR_TRIGGER and LOR_PERSISTENCY. \r\n\r\n– Correct the frequency range of one IAR \r\n\r\n– Update the reference IETF RFC 6020 to IETF RFC 7950 \r\n\r\n– Update the reference IETF RFC 7223 to IETF RFC 8343 – Correct references to ITU-T G.9701. \r\n\r\nThe changes relative to corrected items are with the following change bars. The changes relative to new material are with the following change bars. \r\n"
 status:
   stage:
     content: Published

@@ -53,14 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3315 describes the signalling requirements, based
-    on the service platform broadband network gateway (BNG) architecture, needed to
-    achieve outstanding benefits like easy deployment of network services, fine grained
-    network services, etc. This Recommendation covers the following three aspects
-    for the signalling requirements:\r\n1)\tnetwork services combination/orchestration,
-    i.e., the packet routes between network services\r\n2)\tservice configuration
-    on the BNG\r\n3)\tBNG resources, status and event notification to the service
-    platform.\r\n"
+  content: "Recommendation ITU-T Q.3315 describes the signalling requirements, based on the service platform broadband network gateway (BNG) architecture, needed to achieve outstanding benefits like easy deployment of network services, fine grained network services, etc. This Recommendation covers the following three aspects for the signalling requirements:\r\n1)\tnetwork services combination/orchestration, i.e., the packet routes between network services\r\n2)\tservice configuration on the BNG\r\n3)\tBNG resources, status and event notification to the service platform.\r\n"
 status:
   stage:
     content: Published
@@ -318,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -330,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

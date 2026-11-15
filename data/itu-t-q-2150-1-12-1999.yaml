@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies the AAL type 2 signalling transport converter
-    on broadband MTP. This AAL type 2 signalling transport converter on broadband
-    MTP utilizes the services offered by the message transfer part of Signalling System
-    No. 7. The sublayer structure, the PDU structures of the signalling transport
-    converter sublayer, and the mechanisms for the provision of the AAL type 2 generic
-    signalling transport service are defined in depth.\r\nThe intent of this Recommendation
-    is to provide a new protocol specification that can be used primarily in the B-ISDN
-    ATM environment for the provision of a signalling transport service. In particular,
-    this protocol provides a generic signalling transport service that is used by
-    the AAL type 2 signalling protocol.\r\n"
+  content: "This Recommendation specifies the AAL type 2 signalling transport converter on broadband MTP. This AAL type 2 signalling transport converter on broadband MTP utilizes the services offered by the message transfer part of Signalling System No. 7. The sublayer structure, the PDU structures of the signalling transport converter sublayer, and the mechanisms for the provision of the AAL type 2 generic signalling transport service are defined in depth.\r\nThe intent of this Recommendation is to provide a new protocol specification that can be used primarily in the B-ISDN ATM environment for the provision of a signalling transport service. In particular, this protocol provides a generic signalling transport service that is used by the AAL type 2 signalling protocol.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -329,9 +320,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -341,8 +332,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

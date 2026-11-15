@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T P.501 extends the applicability of
-    the AM-FM test signal to super-wideband and fullband applications.\r\n\r\n1)         Clause
-    7.2.4.1\r\n\r\nInclude after “Table 7-6 lists the corresponding properties for
-    wideband applications.”:\r\n\r\nThis signal is used for super-wideband and fullband
-    applications as well.\r\n\r\nNOTE – In human speech, energy above 7 kHz is present
-    mostly during non-voiced parts and to a lesser extent during voiced parts. The
-    AM-FM signal simulates the harmonic content of voiced parts of human speech and
-    its 7 kHz frequency range is considered sufficient also in super-wideband and
-    fullband, for the specific purpose of separating simultaneous talkers, e.g. during
-    double-talk evaluation.\r\n"
+  content: "Amendment 1 to Recommendation ITU-T P.501 extends the applicability of the AM-FM test signal to super-wideband and fullband applications.\r\n\r\n1)         Clause 7.2.4.1\r\n\r\nInclude after “Table 7-6 lists the corresponding properties for wideband applications.”:\r\n\r\nThis signal is used for super-wideband and fullband applications as well.\r\n\r\nNOTE – In human speech, energy above 7 kHz is present mostly during non-voiced parts and to a lesser extent during voiced parts. The AM-FM signal simulates the harmonic content of voiced parts of human speech and its 7 kHz frequency range is considered sufficient also in super-wideband and fullband, for the specific purpose of separating simultaneous talkers, e.g. during double-talk evaluation.\r\n"
 status:
   stage:
     content: Withdrawal

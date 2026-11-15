@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 1 to Recommendation ITU-T G.992.3 (2009) contains:\r• Corrections
-    to test parameters definitions and accuracy.\r• Editorial change to clause on
-    interleaver."
+  content: "Corrigendum 1 to Recommendation ITU-T G.992.3 (2009) contains:\r• Corrections to test parameters definitions and accuracy.\r• Editorial change to clause on interleaver."
 status:
   stage:
     content: Published
@@ -214,8 +212,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C – Specific requirements for an ADSL system operating in
-        the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix III
+      content: New Annex C – Specific requirements for an ADSL system operating
+        in the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix
+        III
     docidentifier:
     - content: G.992.3 (2002) Amd. 3 (06/2004)
       type: ITU

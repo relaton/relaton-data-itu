@@ -52,29 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.7721.1 specifies the synchronization information
-    models and data models for transport network elements (NEs) to support specific
-    interface protocols and specific management and control (MC) functions.\r\nThe
-    information models are interface protocol neutral and specified using the unified
-    modelling language (UML).\r\nThe data models are interface protocol specific and
-    are directly derived from these information models. The specific data models considered
-    in this Recommendation include, but are not limited to, yet another next generation
-    (YANG) data models.\r\nThe specific MC functions for synchronization covered by
-    this Recommendation are specified in Recommendations ITU-T G.8265.1, ITU-T G.8275.1
-    and ITU-T G.8275.2.\r\nThe precision time protocol (PTP) telecom profile YANG
-    modules defined in this Recommendation augments:\r\n•The PTP YANG module defined
-    in IETF RFC 8575 for the management of the precision time protocol (PTP) defined
-    in IEEE 1588-2008.\r\n•The PTP-TT YANG module defined in IEEE 1588e-2024 for the
-    management of the precision time protocol (PTP) defined in IEEE 1588-2019, with
-    the inclusive language.\r\nThe UML information model and YANG data model in this
-    version of the Recommendation covers the PTP telecom profiles defined in Recommendations
-    ITU-T G.8265.1, ITUT G.8275.1 and ITUT G.8275.2.\r\nAmendment 1 updates the Recommendation
-    to align the data model for PTP telecom profile with the latest editions of PTP
-    Telecom Profiles Recommendations (i.e., ITU-T G.8265.1 Edition 4.1, ITU-T G.8275.1
-    Edition 4.2 and ITU-T G.8275.2 Edition 3.2).\r\nThis revision updates ITU-T G.7721.1
-    to add the YANG data model for SyncPhy in alignment with the data set defined
-    in Recommendation ITU-T G.781 Edition 5.2 and the SyncPhy information model defined
-    in Recommendation ITU-T G.7721.\r\n"
+  content: "Recommendation ITU-T G.7721.1 specifies the synchronization information models and data models for transport network elements (NEs) to support specific interface protocols and specific management and control (MC) functions.\r\nThe information models are interface protocol neutral and specified using the unified modelling language (UML).\r\nThe data models are interface protocol specific and are directly derived from these information models. The specific data models considered in this Recommendation include, but are not limited to, yet another next generation (YANG) data models.\r\nThe specific MC functions for synchronization covered by this Recommendation are specified in Recommendations ITU-T G.8265.1, ITU-T G.8275.1 and ITU-T G.8275.2.\r\nThe precision time protocol (PTP) telecom profile YANG modules defined in this Recommendation augments:\r\n•The PTP YANG module defined in IETF RFC 8575 for the management of the precision time protocol (PTP) defined in IEEE 1588-2008.\r\n•The PTP-TT YANG module defined in IEEE 1588e-2024 for the management of the precision time protocol (PTP) defined in IEEE 1588-2019, with the inclusive language.\r\nThe UML information model and YANG data model in this version of the Recommendation covers the PTP telecom profiles defined in Recommendations ITU-T G.8265.1, ITUT G.8275.1 and ITUT G.8275.2.\r\nAmendment 1 updates the Recommendation to align the data model for PTP telecom profile with the latest editions of PTP Telecom Profiles Recommendations (i.e., ITU-T G.8265.1 Edition 4.1, ITU-T G.8275.1 Edition 4.2 and ITU-T G.8275.2 Edition 3.2).\r\nThis revision updates ITU-T G.7721.1 to add the YANG data model for SyncPhy in alignment with the data set defined in Recommendation ITU-T G.781 Edition 5.2 and the SyncPhy information model defined in Recommendation ITU-T G.7721.\r\n"
 status:
   stage:
     content: Published

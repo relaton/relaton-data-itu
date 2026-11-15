@@ -52,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.14 provides a package that allows a media gateway
-    to detect the failure of its active media gateway controller through message inactivity.This
-    revision provides the following clarifications for the inactivity timer package
-    version 1:\r• the event inactivity timeout (ito) may be provisioned;\r• the event
-    parameter maximum inactivity time (mit) is an optional element;\r• the event parameter
-    maximum inactivity time (mit) has a default value, which may be provisioned.This
-    revision also provides an example setting for the inactivity timer."
+  content: "Recommendation ITU-T H.248.14 provides a package that allows a media gateway to detect the failure of its active media gateway controller through message inactivity.This revision provides the following clarifications for the inactivity timer package version 1:\r• the event inactivity timeout (ito) may be provisioned;\r• the event parameter maximum inactivity time (mit) is an optional element;\r• the event parameter maximum inactivity time (mit) has a default value, which may be provisioned.This revision also provides an example setting for the inactivity timer."
 status:
   stage:
     content: Published

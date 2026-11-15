@@ -52,12 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.40 describes the principle used to detect application
-    data inactivity for IP transport connections in general, like e.g., avoid a potential
-    situation of deadlock if latching was set but no application data stream is incoming
-    to latch on. The solution is based on an event to detect if application data had
-    stopped (or not started).\r\nThis revision provides additional information regarding
-    the setting of the detection time for the IP flow stop event.\r\n"
+  content: "Recommendation ITU-T H.248.40 describes the principle used to detect application data inactivity for IP transport connections in general, like e.g., avoid a potential situation of deadlock if latching was set but no application data stream is incoming to latch on. The solution is based on an event to detect if application data had stopped (or not started).\r\nThis revision provides additional information regarding the setting of the detection time for the IP flow stop event.\r\n"
 status:
   stage:
     content: Published

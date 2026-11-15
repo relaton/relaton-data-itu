@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.776.4 provides information and requirements for
-    signal processing network equipment (SPNE). It can be applied to traditional networks
-    and next generation networks (NGNs). SPNE such as network echo cancellers (ECs),
-    voice gateways and digital circuit multiplication equipment (DCME) may include
-    signal processing functions (SPFs) (echo cancellation, noise reduction (NR), automatic
-    level control (ALC), circuit multiplication, etc.).\r\nInformation in this Recommendation
-    is based on actual and planned equipment installed (or to be installed) in telecommunication
-    networks. This Recommendation describes components, functionality, delay requirements,
-    alarm handling and algorithms used by these devices. Transport, signalling, control,
-    OAM and testing interfaces are also described.\r\n"
+  content: "Recommendation ITU-T G.776.4 provides information and requirements for signal processing network equipment (SPNE). It can be applied to traditional networks and next generation networks (NGNs). SPNE such as network echo cancellers (ECs), voice gateways and digital circuit multiplication equipment (DCME) may include signal processing functions (SPFs) (echo cancellation, noise reduction (NR), automatic level control (ALC), circuit multiplication, etc.).\r\nInformation in this Recommendation is based on actual and planned equipment installed (or to be installed) in telecommunication networks. This Recommendation describes components, functionality, delay requirements, alarm handling and algorithms used by these devices. Transport, signalling, control, OAM and testing interfaces are also described.\r\n"
 status:
   stage:
     content: Published

@@ -52,16 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.43 specifies the framework and requirements
+  content: 'Recommendation ITU-T F.748.43 specifies the framework and requirements
     for the foundation model platform in multimedia, which aims to address issues
     like application barriers, resource and computational power needs, and complex
-    processes, despite foundation models' role in content generation. It delivers
+    processes, despite foundation models'' role in content generation. It delivers
     artificial intelligence (AI) capabilities for multimedia applications. The formulation
     of this foundation model platform framework fills the vacuum of platform standards
     for the production and operation of foundation models in the multimedia field,
     helping producer enterprises guide product research and standardize their construction
     of foundation model platforms, and provides enterprise users with selection references
-    for foundation model platform products.\r\n"
+    for foundation model platform products.
+    '
 status:
   stage:
     content: Published

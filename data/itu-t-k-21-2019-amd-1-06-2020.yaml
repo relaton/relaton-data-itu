@@ -47,24 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.21 specifies resistibility requirements and test
-    procedures for telecommunication equipment that is attached to or installed within
-    a customer's premises.\r\nOvervoltages or overcurrents covered by this Recommendation
-    include surges due to lightning on or near the line plant, short-term induction
-    from adjacent alternating current (a.c.) power lines or railway systems, earth
-    potential rise due to power faults, direct contact between telecommunication lines
-    and power lines, and electrostatic discharges (ESDs). The sources for overvoltages
-    in internal lines are mainly inductive coupling caused by lightning currents being
-    conducted in nearby lightning strikes or lightning currents being conducted by
-    nearby conductors.\r\nChanges compared with Recommendation ITU-T K.21 (2018) include:\r\n•
-    added special resistibility requirements\r\n• added DC insulation resistance test;\r\n•
-    added Test 7.10\r\n• changes to some test labels.\r\nAmendment 1 refers to Annex
-    A, which applies to special environments, in particular primary protection that
-    has a poor earth connection that does not meet the requirements of Recommendation
-    ITU-T K.66. This condition is simulated by increasing the STP earth resistance
-    (R1) from zero to 100. Readers have overlooked this change, possibly because the
-    test circuit diagram is in Recommendation ITU-T K.44. To alert readers of this,
-    a text note has been inserted in the Comments column."
+  content: "Recommendation ITU-T K.21 specifies resistibility requirements and test procedures for telecommunication equipment that is attached to or installed within a customer's premises.\r\nOvervoltages or overcurrents covered by this Recommendation include surges due to lightning on or near the line plant, short-term induction from adjacent alternating current (a.c.) power lines or railway systems, earth potential rise due to power faults, direct contact between telecommunication lines and power lines, and electrostatic discharges (ESDs). The sources for overvoltages in internal lines are mainly inductive coupling caused by lightning currents being conducted in nearby lightning strikes or lightning currents being conducted by nearby conductors.\r\nChanges compared with Recommendation ITU-T K.21 (2018) include:\r\n• added special resistibility requirements\r\n• added DC insulation resistance test;\r\n• added Test 7.10\r\n• changes to some test labels.\r\nAmendment 1 refers to Annex A, which applies to special environments, in particular primary protection that has a poor earth connection that does not meet the requirements of Recommendation ITU-T K.66. This condition is simulated by increasing the STP earth resistance (R1) from zero to 100. Readers have overlooked this change, possibly because the test circuit diagram is in Recommendation ITU-T K.44. To alert readers of this, a text note has been inserted in the Comments column."
 status:
   stage:
     content: Withdrawal
@@ -327,8 +310,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge testing
-        factors
+      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge
+        testing factors
     docidentifier:
     - content: K Suppl. 15 (09/2018)
       type: ITU
@@ -358,8 +341,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.21 – Rationale for setting resistibility requirements of telecommunication
-        equipment installed in customer premises against lightning
+      content: ITU-T K.21 – Rationale for setting resistibility requirements of
+        telecommunication equipment installed in customer premises against lightning
     docidentifier:
     - content: K Suppl. 21 (05/2021)
       type: ITU

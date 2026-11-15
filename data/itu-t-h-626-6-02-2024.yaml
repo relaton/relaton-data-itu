@@ -52,14 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.626.6 defines an architecture for big data application
+  content: 'Recommendation ITU-T H.626.6 defines an architecture for big data application
     in video surveillance systems, including the functional architecture and reference
     points. As the amount of video data is growing in video surveillance systems,
     a suitable architecture is needed to support the requirements for big data application
     in video surveillance systems to deal with the structured and unstructured data,
     and to enhance the efficiency of huge data retrieval and data mining across time
     and space range. This Recommendation is based on Recommendation ITU-T F.743.7,
-    Requirements for big data-enhanced visual surveillance services.\r\n"
+    Requirements for big data-enhanced visual surveillance services.
+    '
 status:
   stage:
     content: Published

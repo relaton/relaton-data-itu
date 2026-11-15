@@ -55,20 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU‑T H.265.1 \"Conformance specification for ITU-T H.265
-    high efficiency video coding\" specifies tests for (non-exhaustive) testing to
-    verify whether bitstreams and decoders meet the normative requirements specified
-    in Rec. ITU‑T H.265 | ISO/IEC 23008-2. The bitstreams provided in this Recommendation
-    correspond to the 02-2018 version of Rec. ITU-T H.265 | ISO/IEC 23008-2.\r\n\r\nThe
-    second version of this specification added tests for the format range and high
-    throughput extensions (RExt), scalable extensions (SHVC), multi-view extensions
-    (MV-HEVC), and 3D extensions (3D-HEVC), and includes some additional tests and
-    minor corrections to the tests specified for the prior profiles.\r\n\r\nThe third
-    version of this specification added tests for the screen content coding (SCC)
-    extensions and non-intra high throughput profiles.\r\n\r\nThis Recommendation
-    was developed jointly with ISO/IEC JTC 1/SC 29/WG 11 (MPEG) and corresponds in
-    a technically aligned manner to ISO/IEC 23008-8.\r\n\r\nThe conformance bitstreams
-    needed for this Recommendation are available at the following link: https://itu.int/wftp3/av-arch/jctvc-site/bitstream_exchange/draft_conformance/."
+  content: "Recommendation ITU‑T H.265.1 \"Conformance specification for ITU-T H.265 high efficiency video coding\" specifies tests for (non-exhaustive) testing to verify whether bitstreams and decoders meet the normative requirements specified in Rec. ITU‑T H.265 | ISO/IEC 23008-2. The bitstreams provided in this Recommendation correspond to the 02-2018 version of Rec. ITU-T H.265 | ISO/IEC 23008-2.\r\n\r\nThe second version of this specification added tests for the format range and high throughput extensions (RExt), scalable extensions (SHVC), multi-view extensions (MV-HEVC), and 3D extensions (3D-HEVC), and includes some additional tests and minor corrections to the tests specified for the prior profiles.\r\n\r\nThe third version of this specification added tests for the screen content coding (SCC) extensions and non-intra high throughput profiles.\r\n\r\nThis Recommendation was developed jointly with ISO/IEC JTC 1/SC 29/WG 11 (MPEG) and corresponds in a technically aligned manner to ISO/IEC 23008-8.\r\n\r\nThe conformance bitstreams needed for this Recommendation are available at the following link: https://itu.int/wftp3/av-arch/jctvc-site/bitstream_exchange/draft_conformance/."
 status:
   stage:
     content: Published

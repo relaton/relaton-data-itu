@@ -47,14 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.8051/Y.1345 (08/2015) provides:\r\n\r\n-
-    \         Addition of fFOP –PM and fFOP-TO for ETH_C_MI in clause 7 \r\n\r\n-
-    \         Deletion of the description related to ODUkP-X-L/MT_A in clause 7, 8
-    and 10, due to the deletion LCAS-capable ODUk to ETH Adaptation function in G.8021\r\n\r\n-
-    \         Update the text in clause 8.3 “Protection switching” \r\n\r\n-          Update
-    RAPS (G.8032) related MIs for ETH-C in Table8-4\r\n\r\n-          Addition the
-    definitions for Traffic condition and shaping functions in clause 3\r\n\r\n-          Update
-    some reference in clause 2 \r\n"
+  content: "Amendment 1 to Recommendation ITU-T G.8051/Y.1345 (08/2015) provides:\r\n\r\n-          Addition of fFOP –PM and fFOP-TO for ETH_C_MI in clause 7 \r\n\r\n-          Deletion of the description related to ODUkP-X-L/MT_A in clause 7, 8 and 10, due to the deletion LCAS-capable ODUk to ETH Adaptation function in G.8021\r\n\r\n-          Update the text in clause 8.3 “Protection switching” \r\n\r\n-          Update RAPS (G.8032) related MIs for ETH-C in Table8-4\r\n\r\n-          Addition the definitions for Traffic condition and shaping functions in clause 3\r\n\r\n-          Update some reference in clause 2 \r\n"
 status:
   stage:
     content: Withdrawal

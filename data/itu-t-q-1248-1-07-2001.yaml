@@ -51,39 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Q.1248.x family of ITU-T Recommendations defines the Intelligent Network
-    (IN) Application Protocol (INAP) for IN Capability Set 4 (IN CS-4). This definition
-    is based upon IN CS-3 Q.1238.x (2000) family of ITU-T Recommendations and upon
-    the general rules for INAP provided in ITU-T Rec. Q.1208, and is consistent with
-    the scope of IN CS-4 as defined in ITU-T Rec. Q.1241.\r\n\r\nIn addition to the
-    features supporting IN CS-3, the Q.1248.x family Recommendations provides general
-    extensions to the CS-3 INAP in support of IN CS-4 target services;\r\n\r\nWithin
-    the Q.124x series of ITU-T Recommendations, the Q.1248.x family of ITU-T Recommendations
-    describes the protocol realizing the Q.1241 Distributed Functional Plane (DFP)
-    in a service and vendor implementation independent manner, as constrained by the
-    capabilities of the embedded base of network technology. This provides the flexibility
-    to allocate distributed functionality into multiple physical network configurations
-    and to evolve IN from IN CS-4 to some future CS-N.\r\n\r\nThe Q.1248.x family
-    of ITU-T Recommendations describes the Intelligent Network modelling of each Functional
-    Entity (FE) and their relationships as defined as part of the DFP. It also defines
-    the INAP (Intelligent Network Application Protocol) required for the communication
-    of functional entities when they are located in different physical entities.\r\n\r\nIntelligent
-    Network Capability Set 4 (IN CS-4) supports the following functional entities:\r\n–
-    Service Switching Function (SSF);\r\n– Service Control Function (SCF);\r\n– Specialized
-    Resource Function (SRF);\r\n– Service Data Function (SDF);\r\n– Call-Unrelated
-    Service Function (CUSF);\r\n– Service Management Function (SMF).\r\n\r\nEach of
-    the interfaces defined between the functional entities is defined in a separate
-    Recommendation in the Q.1248.x series: \r\n\r\n- ITU-T Rec. Q.1248.1     Describes
-    the common aspects of IN including an overview of each FE. It also describes aspects
-    of the protocol that are common to all interfaces, including services assumed
-    from lower layers, IN security information and the common data types used on all
-    the interfaces. \r\n\r\nThe interfaces and the description of the functional entities
-    in relation to those interfaces are defined in Recommendations:\r\n- ITU-T Q.1248.2
-    \    SSF-SCF interface.\r\n- ITU-T Q.1248.3     SCF-SRF interface.\r\n- ITU-T
-    Q.1248.4     SCF-SDF interface.\r\n- ITU-T Q.1248.5     SDF-SDF interface.\r\n-
-    ITU-T Q.1248.6     SCF-SCF interface.\r\n- ITU-T Q.1248.7     SCF-CUSF interface.\r\n\r\nThis
-    Recommendation includes an electronic attachment containing the ASN.1 definitions
-    for the CS-4 common aspects."
+  content: "The Q.1248.x family of ITU-T Recommendations defines the Intelligent Network (IN) Application Protocol (INAP) for IN Capability Set 4 (IN CS-4). This definition is based upon IN CS-3 Q.1238.x (2000) family of ITU-T Recommendations and upon the general rules for INAP provided in ITU-T Rec. Q.1208, and is consistent with the scope of IN CS-4 as defined in ITU-T Rec. Q.1241.\r\n\r\nIn addition to the features supporting IN CS-3, the Q.1248.x family Recommendations provides general extensions to the CS-3 INAP in support of IN CS-4 target services;\r\n\r\nWithin the Q.124x series of ITU-T Recommendations, the Q.1248.x family of ITU-T Recommendations describes the protocol realizing the Q.1241 Distributed Functional Plane (DFP) in a service and vendor implementation independent manner, as constrained by the capabilities of the embedded base of network technology. This provides the flexibility to allocate distributed functionality into multiple physical network configurations and to evolve IN from IN CS-4 to some future CS-N.\r\n\r\nThe Q.1248.x family of ITU-T Recommendations describes the Intelligent Network modelling of each Functional Entity (FE) and their relationships as defined as part of the DFP. It also defines the INAP (Intelligent Network Application Protocol) required for the communication of functional entities when they are located in different physical entities.\r\n\r\nIntelligent Network Capability Set 4 (IN CS-4) supports the following functional entities:\r\n– Service Switching Function (SSF);\r\n– Service Control Function (SCF);\r\n– Specialized Resource Function (SRF);\r\n– Service Data Function (SDF);\r\n– Call-Unrelated Service Function (CUSF);\r\n– Service Management Function (SMF).\r\n\r\nEach of the interfaces defined between the functional entities is defined in a separate Recommendation in the Q.1248.x series: \r\n\r\n- ITU-T Rec. Q.1248.1     Describes the common aspects of IN including an overview of each FE. It also describes aspects of the protocol that are common to all interfaces, including services assumed from lower layers, IN security information and the common data types used on all the interfaces. \r\n\r\nThe interfaces and the description of the functional entities in relation to those interfaces are defined in Recommendations:\r\n- ITU-T Q.1248.2     SSF-SCF interface.\r\n- ITU-T Q.1248.3     SCF-SRF interface.\r\n- ITU-T Q.1248.4     SCF-SDF interface.\r\n- ITU-T Q.1248.5     SDF-SDF interface.\r\n- ITU-T Q.1248.6     SCF-SCF interface.\r\n- ITU-T Q.1248.7     SCF-CUSF interface.\r\n\r\nThis Recommendation includes an electronic attachment containing the ASN.1 definitions for the CS-4 common aspects."
 status:
   stage:
     content: Published
@@ -341,9 +309,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -353,8 +321,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

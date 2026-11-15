@@ -53,29 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "ITU-T Recommendation G.9954 defines the PHY, MAC, LINK and CONVERGENCE
-    protocol stack layers for the G.9954v2 system providing the following features:\r•
-    Operation over phoneline and/or over coax;\r• PHY-layer payload transmission rates
-    of 4 to 320 Mbit/s;\r• Rate adaptive transceivers that optimize data rates and
-    packet error rates for dynamically varying channel conditions on a per-packet
-    basis;\r• QAM modulation technique for communication over phone wire or coaxial
-    cabling;\r• Spectrum notching over phoneline for compatibility with amateur radio
-    services;\r• Synchronous MAC protocol controlled by a dynamically elected master
-    employing a collision avoidance media access strategy;\r• Support for constant
-    and variable bit-rate data services;\r• Peer-to-peer communication within a master-controlled
-    network;\r• Packet aggregation (packetization) performed within the G.9954v2 protocol
-    stack layer up to latency limits of the service flow and available transmission
-    bandwidth;\r• Quality of service guarantees for bandwidth, jitter, latency and
-    BER;\r• QoS support for services with explicit traffic and rate specifications
-    providing a link layer that is well suited for streaming audio and video;\r• Protocol-specific
-    convergence layers;\r• Backward compatible with G.9951/G.9952 in mode A over phoneline
-    using G.9951/G.9952 asynchronous MAC protocol;\r• Coexistence and interoperability
-    between G.9954v1 and G.9954v2 devices in a mixed network;\r• Compatibility with
-    other phoneline services such as POTS, V.90, ISDN and G.992.1, G.992.2, G.992.3,
-    and G.992.4;\r• Compatibility with other coaxial services such as VDSL, VDSL2
-    and cable-TV channels;\r• Interoperability between phone and coax PHY layers using
-    spectral modes A and B, thus allowing a mixed phoneline/coaxial network;\r• Local
-    and remote management of G.9954v2 devices;\r• Provisions for future security extensions."
+  content: "ITU-T Recommendation G.9954 defines the PHY, MAC, LINK and CONVERGENCE protocol stack layers for the G.9954v2 system providing the following features:\r• Operation over phoneline and/or over coax;\r• PHY-layer payload transmission rates of 4 to 320 Mbit/s;\r• Rate adaptive transceivers that optimize data rates and packet error rates for dynamically varying channel conditions on a per-packet basis;\r• QAM modulation technique for communication over phone wire or coaxial cabling;\r• Spectrum notching over phoneline for compatibility with amateur radio services;\r• Synchronous MAC protocol controlled by a dynamically elected master employing a collision avoidance media access strategy;\r• Support for constant and variable bit-rate data services;\r• Peer-to-peer communication within a master-controlled network;\r• Packet aggregation (packetization) performed within the G.9954v2 protocol stack layer up to latency limits of the service flow and available transmission bandwidth;\r• Quality of service guarantees for bandwidth, jitter, latency and BER;\r• QoS support for services with explicit traffic and rate specifications providing a link layer that is well suited for streaming audio and video;\r• Protocol-specific convergence layers;\r• Backward compatible with G.9951/G.9952 in mode A over phoneline using G.9951/G.9952 asynchronous MAC protocol;\r• Coexistence and interoperability between G.9954v1 and G.9954v2 devices in a mixed network;\r• Compatibility with other phoneline services such as POTS, V.90, ISDN and G.992.1, G.992.2, G.992.3, and G.992.4;\r• Compatibility with other coaxial services such as VDSL, VDSL2 and cable-TV channels;\r• Interoperability between phone and coax PHY layers using spectral modes A and B, thus allowing a mixed phoneline/coaxial network;\r• Local and remote management of G.9954v2 devices;\r• Provisions for future security extensions."
 status:
   stage:
     content: Published

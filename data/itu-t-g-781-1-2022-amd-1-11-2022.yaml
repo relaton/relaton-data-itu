@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.781.1 specifies a functional architecture model
-    and corresponding atomic functions for the transport of time and frequency synchronization
-    via packet-based methods using the precision time protocol (PTP).\r\nAmendment
-    1 to Recommendation ITU-T G.781.1 provides the following updates:\r\n•\tAddition
-    of FlexO to SD packet-based sync adaptation functions\r\n•\tMinor corrections
-    and clarifications.\r\n"
+  content: "Recommendation ITU-T G.781.1 specifies a functional architecture model and corresponding atomic functions for the transport of time and frequency synchronization via packet-based methods using the precision time protocol (PTP).\r\nAmendment 1 to Recommendation ITU-T G.781.1 provides the following updates:\r\n•\tAddition of FlexO to SD packet-based sync adaptation functions\r\n•\tMinor corrections and clarifications.\r\n"
 status:
   stage:
     content: Withdrawal

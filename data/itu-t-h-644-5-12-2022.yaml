@@ -53,20 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.644.5 specifies the functional architecture and
-    related functional components of content request routing/redirecting service (CRRS),
-    and the reference points of a CRRS within a multimedia content delivery network
-    (MCDN). With consideration for different network environments, content/service
-    types and user/terminal device profiles, this Recommendation also presents potential
-    solutions with the procedures for CRRS to complete the end-user-to-MCDN node attachment
-    in the case of Internet protocol television (IPTV) service (dedicated network),
-    over the top (OTT) media service (public/open Internet) and mobile media streaming
-    service such as 5G network with mobile/multi-access edge computing (MEC) enabled
-    service.\r\nUsing Recommendation ITU-T H.644.5, a MCDN service provider and manufacturer
-    can deploy their MCDN node, especially the edge node, deeper into a network edge.
-    The CRRS provides a comprehensive solution to guide users to find the nearest
-    MCDN node for accessing the request content by ignoring the differentiation of
-    network, service type and terminal device and user's location.\r\n"
+  content: "Recommendation ITU-T H.644.5 specifies the functional architecture and related functional components of content request routing/redirecting service (CRRS), and the reference points of a CRRS within a multimedia content delivery network (MCDN). With consideration for different network environments, content/service types and user/terminal device profiles, this Recommendation also presents potential solutions with the procedures for CRRS to complete the end-user-to-MCDN node attachment in the case of Internet protocol television (IPTV) service (dedicated network), over the top (OTT) media service (public/open Internet) and mobile media streaming service such as 5G network with mobile/multi-access edge computing (MEC) enabled service.\r\nUsing Recommendation ITU-T H.644.5, a MCDN service provider and manufacturer can deploy their MCDN node, especially the edge node, deeper into a network edge. The CRRS provides a comprehensive solution to guide users to find the nearest MCDN node for accessing the request content by ignoring the differentiation of network, service type and terminal device and user's location.\r\n"
 status:
   stage:
     content: Published

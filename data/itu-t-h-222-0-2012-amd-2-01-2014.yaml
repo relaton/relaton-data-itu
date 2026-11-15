@@ -56,12 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to ITU-T H.222.0 (2012) | ISO/IEC 13818-1:2013 specifies three
-    items: \r\n–\ta new descriptor to signal transport profiles, and it specifies
-    a profile for 'adaptive streaming' applications;\r\n–\tit extends the MVC_extension
-    descriptor to signal association between stereoscopic MVC views to the left or
-    right eye for display assistance;\r\n–\ta new informative annex which defines
-    the currently used MIME types for MPEG-2 transport streams."
+  content: "Amendment 2 to ITU-T H.222.0 (2012) | ISO/IEC 13818-1:2013 specifies three items: \r\n–\ta new descriptor to signal transport profiles, and it specifies a profile for 'adaptive streaming' applications;\r\n–\tit extends the MVC_extension descriptor to signal association between stereoscopic MVC views to the left or right eye for display assistance;\r\n–\ta new informative annex which defines the currently used MIME types for MPEG-2 transport streams."
 status:
   stage:
     content: Withdrawal

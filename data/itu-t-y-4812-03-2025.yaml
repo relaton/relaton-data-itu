@@ -53,18 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.4812 describes identity interoperability for IoT
-    devices across metaverse platforms and provides relevant technical features and
-    reference framework.\r\nWith regard to the Internet of things (IoT) (Recommendation
-    ITU-T Y.4000), each IoT device may have a single or multiple unique identities
-    in multiple IoT systems. Similarly, each IoT device also may have a single or
-    multiple identities in multiple metaverses. The identity of an IoT device usually
-    includes a unique identifier and a corresponding identity object (Recommendation
-    ITU-T Y.4811). \r\nAlthough it may take advantage of one IoT device having one
-    unique identity in multiple metaverses, there are challenges; how those metaverses
-    identify, authenticate, and authorize the IoT devices when they are roaming across
-    metaverse platforms, and how the trustworthy shared storages interact with each
-    other to support identity interoperability across storages.\r\n\r\n"
+  content: "Recommendation ITU-T Y.4812 describes identity interoperability for IoT devices across metaverse platforms and provides relevant technical features and reference framework.\r\nWith regard to the Internet of things (IoT) (Recommendation ITU-T Y.4000), each IoT device may have a single or multiple unique identities in multiple IoT systems. Similarly, each IoT device also may have a single or multiple identities in multiple metaverses. The identity of an IoT device usually includes a unique identifier and a corresponding identity object (Recommendation ITU-T Y.4811). \r\nAlthough it may take advantage of one IoT device having one unique identity in multiple metaverses, there are challenges; how those metaverses identify, authenticate, and authorize the IoT devices when they are roaming across metaverse platforms, and how the trustworthy shared storages interact with each other to support identity interoperability across storages.\r\n\r\n"
 status:
   stage:
     content: Published
@@ -84,7 +73,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -147,8 +137,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -168,7 +158,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -210,8 +200,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -221,7 +210,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -253,8 +243,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

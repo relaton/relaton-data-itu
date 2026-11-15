@@ -52,10 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8020.3 incorporates by reference the definition
+  content: 'Recommendation ITU-T G.8020.3 incorporates by reference the definition
     of Ethernet local area, access and metropolitan area networks as specified in
-    IEEE Std 802.3-2022 \"IEEE Standard for Ethernet\" and its approved amendments,
-    corrigenda and errata.\r\n"
+    IEEE Std 802.3-2022 "IEEE Standard for Ethernet" and its approved amendments,
+    corrigenda and errata.
+    '
 status:
   stage:
     content: Withdrawal

@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Edge cloud is defined in Recommendation ITU-T Y.3508 as cloud computing
+  content: 'Edge cloud is defined in Recommendation ITU-T Y.3508 as cloud computing
     deployed to the edge of the network accessed by cloud service customers (CSCs)
     with small capacity resources enabling cloud service. In the edge cloud, the cloud
     service is provided in the form of lightweight cloud service by the cloud service
@@ -60,7 +60,8 @@ abstract:
     to reconfigure the functionality of cloud service to fit on edge cloud such as
     base station and gateway with small capacity resources. Recommendation ITU-T Y.3552
     provides the overview of edge cloud, logical components, capabilities for lightweight
-    cloud service and functional requirements of edge cloud through various use cases.\r\n"
+    cloud service and functional requirements of edge cloud through various use cases.
+    '
 status:
   stage:
     content: Published
@@ -111,7 +112,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -132,8 +133,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

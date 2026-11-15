@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.5029 defines data management interfaces for intelligent
+  content: 'Recommendation ITU-T Q.5029 defines data management interfaces for intelligent
     edge computing-based digital twin smart aquaculture service. The data management
     interface includes data resources and interfaces for data processing. Data resources
     can be used to decide what data are for. A lot of data are needed to check environment
     and fish growth status. The interfaces for data processing define web-based application
     programming interfaces (APIs), including data creation, retrieving, update and
-    deletion.\r\n"
+    deletion.
+    '
 status:
   stage:
     content: Published
@@ -317,9 +318,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -329,8 +330,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

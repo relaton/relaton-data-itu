@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8152/Y.1375 contains the protocol neutral unified
-    modelling language (UML) model for multi-protocol label switching – transport
-    profile (MPLS-TP) network element (NE) management.\r\n\r\nThis Recommendation
-    provides a representation of the MPLS-TP technology using the methodologies that
-    have been used for other transport technologies (e.g., SDH, OTN and Ethernet).
-    \r\n\r\nThe 2018 revision of this Recommendation up-versions the UML model tool
-    to Papyrus v3.2.0 and the profile to v0.2.13, updates the model to add the MEP
-    proactive measurement MI, MEP configuration MI and MIP configuration MI, adds
-    the Spec model for MPLS-TP model, replaces the G.8152NE and MT_NE with the MMPLS-TP
-    constraint domain, and MT_SubnetworkProtectionGroup specifies the FcSwitch, and
-    MT_CrossConnection specifies the ForwardingConstruct.\r\n"
+  content: "Recommendation ITU-T G.8152/Y.1375 contains the protocol neutral unified modelling language (UML) model for multi-protocol label switching – transport profile (MPLS-TP) network element (NE) management.\r\n\r\nThis Recommendation provides a representation of the MPLS-TP technology using the methodologies that have been used for other transport technologies (e.g., SDH, OTN and Ethernet). \r\n\r\nThe 2018 revision of this Recommendation up-versions the UML model tool to Papyrus v3.2.0 and the profile to v0.2.13, updates the model to add the MEP proactive measurement MI, MEP configuration MI and MIP configuration MI, adds the Spec model for MPLS-TP model, replaces the G.8152NE and MT_NE with the MMPLS-TP constraint domain, and MT_SubnetworkProtectionGroup specifies the FcSwitch, and MT_CrossConnection specifies the ForwardingConstruct.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -100,8 +90,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Protocol-neutral management information model for the MPLS-TP network
-        element"
+      content: " Protocol-neutral management information model for the MPLS-TP network element"
     docidentifier:
     - content: G.8152/Y.1375 (12/2016)
       type: ITU

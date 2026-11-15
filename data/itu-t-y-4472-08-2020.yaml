@@ -53,34 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A growing number of smart cities and administrations are inclined to collaborate
-    and mutualize their efforts and resources for IoT deployments and open data sharing.
-    This Recommendation studies the concept and potential of developing a secure open
-    and interoperable API in the context of IoT deployment and open data management
-    in smart cities. It analyses current solutions implemented by administrations
-    around the world, where applicable, including those adopted by smart cities, to
-    share their data through open and interoperable interfaces. It subsequently specifies
-    an open and interoperable API for secure open data architecture, as well as for
-    supporting IoT data interoperability for smart cities.  This Recommendation presents
-    a complete set of Open APIs dedicated to smart cities offering different features
-    covering the needs of interoperable smart city framework development. In order
-    to achieve interoperability between heterogeneous platforms and the development
-    of smart cities, the Recommendation has proposed \"interoperability points\" in
-    southbound and northbound interfaces in a smart city framework.  It provides a
-    list of core API sets focusing on data interoperability, including context data
-    management APIs, data transactions APIs, data storage APIs and security APIs.
-    Through the mechanism of subscriptions, it is possible to get a performant and
-    scalable context data managment. The data storage APIs allow a granular management
-    of the saved data for all cases, in particular both for open data and private
-    data. The data transaction APIs facilitate exposure and access to the data through
-    a data marketplace. In addition, security and privacy APIs are seriously taken
-    into account to provide secure data exchange. It should be noted that data interoperability
-    with open APIs can be completed by using common data models, which is briefly
-    discussed. Common data models built upon the collaboration with several standard
-    fora and European projects are open for public use. The development of an interoperable
-    framework makes smart city platforms cost efficient, flexible and extendable.
-    Interoperability is not a choice but a must in smart city systems that embed multiple
-    verticals. \r\n"
+  content: "A growing number of smart cities and administrations are inclined to collaborate and mutualize their efforts and resources for IoT deployments and open data sharing. This Recommendation studies the concept and potential of developing a secure open and interoperable API in the context of IoT deployment and open data management in smart cities. It analyses current solutions implemented by administrations around the world, where applicable, including those adopted by smart cities, to share their data through open and interoperable interfaces. It subsequently specifies an open and interoperable API for secure open data architecture, as well as for supporting IoT data interoperability for smart cities.  This Recommendation presents a complete set of Open APIs dedicated to smart cities offering different features covering the needs of interoperable smart city framework development. In order to achieve interoperability between heterogeneous platforms and the development of smart cities, the Recommendation has proposed \"interoperability points\" in southbound and northbound interfaces in a smart city framework.  It provides a list of core API sets focusing on data interoperability, including context data management APIs, data transactions APIs, data storage APIs and security APIs. Through the mechanism of subscriptions, it is possible to get a performant and scalable context data managment. The data storage APIs allow a granular management of the saved data for all cases, in particular both for open data and private data. The data transaction APIs facilitate exposure and access to the data through a data marketplace. In addition, security and privacy APIs are seriously taken into account to provide secure data exchange. It should be noted that data interoperability with open APIs can be completed by using common data models, which is briefly discussed. Common data models built upon the collaboration with several standard fora and European projects are open for public use. The development of an interoperable framework makes smart city platforms cost efficient, flexible and extendable. Interoperability is not a choice but a must in smart city systems that embed multiple verticals. \r\n"
 status:
   stage:
     content: Published
@@ -111,7 +84,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -174,8 +148,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -195,7 +169,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -248,8 +222,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -259,7 +232,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -291,8 +265,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

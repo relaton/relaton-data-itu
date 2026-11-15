@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.873.1 defines the automatic protection switching
-    (APS) protocol and protection switching operation for the linear protection schemes
-    for the optical transport network at the optical channel data unit k (ODUk) level.
-    Protection schemes considered in this Recommendation are:\r\n–\tODUk subnetwork
-    connection protection with inherent monitoring (1+1, 1:n);\r\n–\tODUk subnetwork
-    connection protection with non-intrusive monitoring (1+1);\r\n–\tODUk subnetwork
-    connection protection with sublayer monitoring (1+1, 1:n).\r\n–\tODUk compound
-    link subnetwork connection group protection with inherent monitoring (1+1, 1:1).\r\nIn
-    addition, client-related protection architectures are described.\r\n"
+  content: "Recommendation ITU-T G.873.1 defines the automatic protection switching (APS) protocol and protection switching operation for the linear protection schemes for the optical transport network at the optical channel data unit k (ODUk) level. Protection schemes considered in this Recommendation are:\r\n–\tODUk subnetwork connection protection with inherent monitoring (1+1, 1:n);\r\n–\tODUk subnetwork connection protection with non-intrusive monitoring (1+1);\r\n–\tODUk subnetwork connection protection with sublayer monitoring (1+1, 1:n).\r\n–\tODUk compound link subnetwork connection group protection with inherent monitoring (1+1, 1:1).\r\nIn addition, client-related protection architectures are described.\r\n"
 status:
   stage:
     content: Withdrawal

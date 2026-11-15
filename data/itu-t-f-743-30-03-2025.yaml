@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.743.30 defines a cloud computing platform architecture
+  content: 'Recommendation ITU-T F.743.30 defines a cloud computing platform architecture
     that supports video surveillance systems. Cloud computing is a widely adopted
     paradigm that aims at providing various computing services over the network. By
     leveraging virtualization technology, cloud computing realizes a ubiquitous, flexible
@@ -62,7 +62,8 @@ abstract:
     computing offers flexible, efficient, reliable and distributed computing services
     for the largescale surveillance video processing. This Recommendation describes
     the architecture, entities, reference points and service control flows of a cloud
-    computing platform supporting a video surveillance system.\r\n"
+    computing platform supporting a video surveillance system.
+    '
 status:
   stage:
     content: Published

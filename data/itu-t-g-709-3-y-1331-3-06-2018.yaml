@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines flexible OTN (FlexO) long-reach interfaces
-    that support bonding (i.e. grouping) of multiple of these interfaces such that
-    an OTUCn (n ≥ 1) can be transferred via one or more optical tributary signals
-    (OTSi) over one or more physical interfaces. The Recommendation specifies the
-    frame structure for FlexO long reach interfaces using forward error correction
-    codes with a higher coding gain than used in the FlexO short reach interfaces
-    that are specified in G.709.1.  \r\n\r\nNOTE – In this first edition only a 100G
-    FlexO long reach interface is specified. Other FlexO long reach interface specifications
-    are for further study.\r\n"
+  content: "This Recommendation defines flexible OTN (FlexO) long-reach interfaces that support bonding (i.e. grouping) of multiple of these interfaces such that an OTUCn (n ≥ 1) can be transferred via one or more optical tributary signals (OTSi) over one or more physical interfaces. The Recommendation specifies the frame structure for FlexO long reach interfaces using forward error correction codes with a higher coding gain than used in the FlexO short reach interfaces that are specified in G.709.1.  \r\n\r\nNOTE – In this first edition only a 100G FlexO long reach interface is specified. Other FlexO long reach interface specifications are for further study.\r\n"
 status:
   stage:
     content: Withdrawal

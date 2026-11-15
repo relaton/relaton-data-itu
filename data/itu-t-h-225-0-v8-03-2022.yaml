@@ -53,24 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.225.0 covers the technical requirements for narrow-band
-    visual telephone services defined in H.200 and F.720-series Recommendations, in
-    those situations where the transmission path includes one or more packet-based
-    networks, each of which is configured and managed to provide a non-guaranteed
-    Quality of Service (QoS) which is not equivalent to that of N ISDN, such that
-    additional protection or recovery mechanisms beyond those mandated by Rec. ITU
-    T H.320 need be provided in the terminals. It is noted that Rec. ITU-T H.322 addresses
-    the use of some other LANs which are able to provide the underlying performance
-    not assumed by ITU T Recs H.323 and H.225.0.\r\nThis Recommendation describes
-    how audio, video, data, and control information on a packet-based network can
-    be managed to provide conversational services in H.323 equipment.\r\nProducts
-    claiming compliance with Version 8 of H.225.0 (this version) shall comply with
-    all of the mandatory requirements of this Recommendation. Version 8 products can
-    be identified by H.225.0 messages containing a protocolIdentifier value of {itu-t
-    (0) recommendation (0) h (8) 2250 version (0) 8}.\r\nThis revision incorporates
-    the following changes:\r\n1)\tEnhancements for language capability exchange.\r\n2)\tModification
-    to the scope regarding use on the Internet.\r\n3)\tClarification that the Facility
-    message may be used to initiate call transfer.\r\n"
+  content: "Recommendation ITU-T H.225.0 covers the technical requirements for narrow-band visual telephone services defined in H.200 and F.720-series Recommendations, in those situations where the transmission path includes one or more packet-based networks, each of which is configured and managed to provide a non-guaranteed Quality of Service (QoS) which is not equivalent to that of N ISDN, such that additional protection or recovery mechanisms beyond those mandated by Rec. ITU T H.320 need be provided in the terminals. It is noted that Rec. ITU-T H.322 addresses the use of some other LANs which are able to provide the underlying performance not assumed by ITU T Recs H.323 and H.225.0.\r\nThis Recommendation describes how audio, video, data, and control information on a packet-based network can be managed to provide conversational services in H.323 equipment.\r\nProducts claiming compliance with Version 8 of H.225.0 (this version) shall comply with all of the mandatory requirements of this Recommendation. Version 8 products can be identified by H.225.0 messages containing a protocolIdentifier value of {itu-t (0) recommendation (0) h (8) 2250 version (0) 8}.\r\nThis revision incorporates the following changes:\r\n1)\tEnhancements for language capability exchange.\r\n2)\tModification to the scope regarding use on the Internet.\r\n3)\tClarification that the Facility message may be used to initiate call transfer.\r\n"
 status:
   stage:
     content: Published

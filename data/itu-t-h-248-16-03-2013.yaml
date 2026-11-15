@@ -52,14 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.16 defines two packages that provide enhanced
-    digit collection capabilities for Recommendation ITU-T H.248.1:\r\n–\textended
-    DTMF digit map completion event, incorporating detailed reporting of timeouts,
-    digit buffering control, and reporting and control of processing of extra events;\r\n–\tenhanced
-    DTMF digit map completion event, incorporating additional digit collection procedures
-    for reporting a completion event.\r\nThis Revision incorporates a new Completion
-    Event \"Unsuccessful Match Reporting\" parameter in the \"Extended DTMF detection\"
-    and \"Enhanced DTMF detection\" packages.\r\n"
+  content: "Recommendation ITU-T H.248.16 defines two packages that provide enhanced digit collection capabilities for Recommendation ITU-T H.248.1:\r\n–\textended DTMF digit map completion event, incorporating detailed reporting of timeouts, digit buffering control, and reporting and control of processing of extra events;\r\n–\tenhanced DTMF digit map completion event, incorporating additional digit collection procedures for reporting a completion event.\r\nThis Revision incorporates a new Completion Event \"Unsuccessful Match Reporting\" parameter in the \"Extended DTMF detection\" and \"Enhanced DTMF detection\" packages.\r\n"
 status:
   stage:
     content: Published

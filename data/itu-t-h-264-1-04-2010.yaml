@@ -55,37 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.264.1 specifies tests designed to verify whether
-    bitstreams and decoders meet the normative requirements specified in ITU-T H.264
-    | ISO/IEC 14496-10:\r• An encoder can claim conformance to ITU-T H.264 | ISO/IEC
-    14496-10 if the bitstreams that it generates are conforming bitstreams.\r• A decoder
-    can claim conformance to a specified profile and level of ITU-T H.264 if it can
-    properly decode all bitstreams obeying constraints specified in ITU-T H.264 |
-    ISO/IEC 14496-10.The tests specified in this Recommendation provide methods for
-    (non-exhaustive) testing of whether encoders and decoders meet these requirements.
-    This twin text with ISO/IEC has been jointly developed in the context of the ITU-T/ISO/IEC
-    Joint Video Team (JVT) and has been submitted to ISO/IEC JTC 1/SC 29/WG 11 (MPEG)
-    as ISO/IEC 14496-4:2002/Amendment 6 (2005 E), ISO/IEC 14496-4:2004/Amendment 9,
-    ISO/IEC 14496-4:2004/Amendment 30, ISO/IEC 14496-4:2004/Amendment 31, and ISO/IEC
-    14496-4:2004/Amendment 38.The first approved version of ITU-T H.264.1 (03/2005)
-    included the specification of bitstreams for the testing of decoders for conformance
-    to the Baseline, Extended, Main, High, High 10, and High 4:2:2 profiles specified
-    in ITU-T H.264 | ISO/IEC 14496-10.Corrigendum 1 to H.264.1 (09/2005), which was
-    integrated into the first published edition of ITU-T H.264.1, provided improved
-    synchronization with the technically-aligned twin text in ISO/IEC, removed some
-    errors, and added tests for some required features that were not tested in the
-    previous version.The second edition of ITU-T H.264.1 (06/2008) provided corrections
-    relative to the previous version of ITU-T H.264.1 and added additional bitstreams
-    for the testing of decoders for conformance to the High 4:4:4 Predictive, High
-    10 Intra, High 4:2:2 Intra, High 4:4:4 Intra, and CAVLC 4:4:4 Intra profiles specified
-    in ITU-T H.264 | ISO/IEC 14496-10.This third edition of Recommendation ITU-T H.264.1
-    (04/2010) adds additional bitstreams for the testing of decoders for conformance
-    to the Constrained Baseline, Scalable Baseline, Scalable High, Scalable High Intra,
-    Multiview High, and Stereo High profiles specified in ITU-T H.264 | ISO/IEC 14496-10.
-    Some of these added bitstreams are also specified for the testing of decoders
-    for conformance to the previously-existing profiles.The conformance bitstreams
-    identified in ITU-T H.264.1 are available as an electronic attachment to this
-    Recommendation and can be downloaded from the ITU-T Test Signal Database at http://itu.int/net/ITU-T/sigdb/spevideo/Hseries-s.htm#H.264.1."
+  content: "Recommendation ITU-T H.264.1 specifies tests designed to verify whether bitstreams and decoders meet the normative requirements specified in ITU-T H.264 | ISO/IEC 14496-10:\r• An encoder can claim conformance to ITU-T H.264 | ISO/IEC 14496-10 if the bitstreams that it generates are conforming bitstreams.\r• A decoder can claim conformance to a specified profile and level of ITU-T H.264 if it can properly decode all bitstreams obeying constraints specified in ITU-T H.264 | ISO/IEC 14496-10.The tests specified in this Recommendation provide methods for (non-exhaustive) testing of whether encoders and decoders meet these requirements. This twin text with ISO/IEC has been jointly developed in the context of the ITU-T/ISO/IEC Joint Video Team (JVT) and has been submitted to ISO/IEC JTC 1/SC 29/WG 11 (MPEG) as ISO/IEC 14496-4:2002/Amendment 6 (2005 E), ISO/IEC 14496-4:2004/Amendment 9, ISO/IEC 14496-4:2004/Amendment 30, ISO/IEC 14496-4:2004/Amendment 31, and ISO/IEC 14496-4:2004/Amendment 38.The first approved version of ITU-T H.264.1 (03/2005) included the specification of bitstreams for the testing of decoders for conformance to the Baseline, Extended, Main, High, High 10, and High 4:2:2 profiles specified in ITU-T H.264 | ISO/IEC 14496-10.Corrigendum 1 to H.264.1 (09/2005), which was integrated into the first published edition of ITU-T H.264.1, provided improved synchronization with the technically-aligned twin text in ISO/IEC, removed some errors, and added tests for some required features that were not tested in the previous version.The second edition of ITU-T H.264.1 (06/2008) provided corrections relative to the previous version of ITU-T H.264.1 and added additional bitstreams for the testing of decoders for conformance to the High 4:4:4 Predictive, High 10 Intra, High 4:2:2 Intra, High 4:4:4 Intra, and CAVLC 4:4:4 Intra profiles specified in ITU-T H.264 | ISO/IEC 14496-10.This third edition of Recommendation ITU-T H.264.1 (04/2010) adds additional bitstreams for the testing of decoders for conformance to the Constrained Baseline, Scalable Baseline, Scalable High, Scalable High Intra, Multiview High, and Stereo High profiles specified in ITU-T H.264 | ISO/IEC 14496-10. Some of these added bitstreams are also specified for the testing of decoders for conformance to the previously-existing profiles.The conformance bitstreams identified in ITU-T H.264.1 are available as an electronic attachment to this Recommendation and can be downloaded from the ITU-T Test Signal Database at http://itu.int/net/ITU-T/sigdb/spevideo/Hseries-s.htm#H.264.1."
 status:
   stage:
     content: Withdrawal

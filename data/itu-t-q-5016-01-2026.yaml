@@ -53,12 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Fixed, mobile and satellite convergence (FMSC) are the capabilities that
-    provide services and applications to end users regardless of the fixed, mobile
-    or satellite access technologies being used and independently of the users' location.
-    \r\nRecommendation ITU-T Q.5016 specifies the signalling architecture in FMSC
-    networks for IMT2020 and beyond, focusing on interfaces among network functions,
-    and between satellite-based and landbased networks.\r\n"
+  content: "Fixed, mobile and satellite convergence (FMSC) are the capabilities that provide services and applications to end users regardless of the fixed, mobile or satellite access technologies being used and independently of the users' location. \r\nRecommendation ITU-T Q.5016 specifies the signalling architecture in FMSC networks for IMT2020 and beyond, focusing on interfaces among network functions, and between satellite-based and landbased networks.\r\n"
 status:
   stage:
     content: Published
@@ -316,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -328,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

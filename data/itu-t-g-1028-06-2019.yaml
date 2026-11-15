@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.1028 provides guidelines concerning the key aspects
-    impacting end-to-end performance of managed voice applications over LTE networks
-    and how they can be properly assessed using current elements of knowledge.\r\n\r\nSome
-    typical end-to-end scenarios are described, involving cases with LTE access at
-    both sides of the communication, or with a different access technology at one
-    side (wireless or wireline access). These scenarios are based on typical reference
-    connections defined in this Recommendation, composed of various segments, including:
-    terminal, wireless access, backhaul network, core network. Considerations regarding
-    the sharing of the budget of some key parameters and the location where they can
-    be assessed across these segments are provided.\r\n\r\nAs far as the specific
-    impact of the circuit switched fall back (CSFB) procedure on quality of service
-    (QoS) is concerned, dedicated information and material is available in the companion
-    Recommendation ITU-T G.1028.2, Assessment of the LTE circuit switched fall back
-    – Impact on voice quality of service."
+  content: "Recommendation ITU-T G.1028 provides guidelines concerning the key aspects impacting end-to-end performance of managed voice applications over LTE networks and how they can be properly assessed using current elements of knowledge.\r\n\r\nSome typical end-to-end scenarios are described, involving cases with LTE access at both sides of the communication, or with a different access technology at one side (wireless or wireline access). These scenarios are based on typical reference connections defined in this Recommendation, composed of various segments, including: terminal, wireless access, backhaul network, core network. Considerations regarding the sharing of the budget of some key parameters and the location where they can be assessed across these segments are provided.\r\n\r\nAs far as the specific impact of the circuit switched fall back (CSFB) procedure on quality of service (QoS) is concerned, dedicated information and material is available in the companion Recommendation ITU-T G.1028.2, Assessment of the LTE circuit switched fall back – Impact on voice quality of service."
 status:
   stage:
     content: Published

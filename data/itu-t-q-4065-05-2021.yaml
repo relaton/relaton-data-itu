@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "According to ITU-T Technology Watch Report, The Tactile Internet (2014),
-    the character of the tactile Internet is defined as extremely low latency in combination
-    with high availability, reliability and security. \r\n\r\nThe existing telecommunication
-    networks are mainly developed for distributing traditional voice, video and data
-    services which parameters do not require extremely low latency. \r\n\r\nThe services
-    which are based on tactile Internet will require establishing new principles of
-    data processing in current and future networks. Currently, most existing telecommunication
-    networks do not allow operators to scale tactile Internet services and provide
-    it to most of their customers. \r\n\r\nIn this regard, a model network may become
-    an operator's tool aimed at testing the tactile Internet services before the implementation
-    on the live telecommunication network. \r\n\r\nRecommendation ITU-T Q.4065 describes
-    the architecture, scenarios, and key networks metrics for establishing model network
-    for testing tactile Internet services. Specifically, the aim of a model network
-    is to study the general principles of data generation for transmission of a tactile
-    sensation through the telecommunication networks, including analysis of the network
-    latency and other network performance parameters. \r\n"
+  content: "According to ITU-T Technology Watch Report, The Tactile Internet (2014), the character of the tactile Internet is defined as extremely low latency in combination with high availability, reliability and security. \r\n\r\nThe existing telecommunication networks are mainly developed for distributing traditional voice, video and data services which parameters do not require extremely low latency. \r\n\r\nThe services which are based on tactile Internet will require establishing new principles of data processing in current and future networks. Currently, most existing telecommunication networks do not allow operators to scale tactile Internet services and provide it to most of their customers. \r\n\r\nIn this regard, a model network may become an operator's tool aimed at testing the tactile Internet services before the implementation on the live telecommunication network. \r\n\r\nRecommendation ITU-T Q.4065 describes the architecture, scenarios, and key networks metrics for establishing model network for testing tactile Internet services. Specifically, the aim of a model network is to study the general principles of data generation for transmission of a tactile sensation through the telecommunication networks, including analysis of the network latency and other network performance parameters. \r\n"
 status:
   stage:
     content: Published
@@ -325,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -337,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

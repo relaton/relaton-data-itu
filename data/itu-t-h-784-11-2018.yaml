@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A display device is an important component of a digital signage (DS) terminal
-    device which presents the visual information and interacts with users. Since a
-    DS service operator may deploy DS terminal devices at various places and environments,
-    the display device embedded in DS terminal device is required to be controlled
-    and configured appropriately for the deployed place and environment. To control
-    and configure a display device, a DS client can interact with the display device
-    through a display device control interface.\r\n\r\nRecommendation ITU-T H.784
-    addresses the display device control interface between a display device and a
-    DS client. The Recommendation introduces an overview of the display device control
-    interface and describes the functions and procedures for controlling and configuring
-    the display device through the interface.\r\n"
+  content: "A display device is an important component of a digital signage (DS) terminal device which presents the visual information and interacts with users. Since a DS service operator may deploy DS terminal devices at various places and environments, the display device embedded in DS terminal device is required to be controlled and configured appropriately for the deployed place and environment. To control and configure a display device, a DS client can interact with the display device through a display device control interface.\r\n\r\nRecommendation ITU-T H.784 addresses the display device control interface between a display device and a DS client. The Recommendation introduces an overview of the display device control interface and describes the functions and procedures for controlling and configuring the display device through the interface.\r\n"
 status:
   stage:
     content: Published

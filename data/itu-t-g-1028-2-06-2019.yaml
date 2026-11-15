@@ -53,18 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "While the long term evolution (LTE) circuit switched fall back (CSFB)
-    can be considered as a separate procedure from voice service delivery over LTE,
-    it has an impact on the quality of service (QoS) for the voice services and is
-    therefore worthy of attention and consideration. Indeed, operators have to make
-    sure that clients purchasing LTE‑capable devices must keep the level of QoS they
-    are accustomed to when compared  with their former 2G and 3G devices, even when
-    VoLTE is unavailable (for any reason, such as,  networkor device). Therefore,
-    specific and complementary key performance indicators (KPIs) are proposed in this
-    Recommendation, together with procedures for their assessment.\r\n\r\nIt should
-    be noted that this Recommendation focuses only on the specific impact of CSFB.
-    The information it contains must be considered as a complement to provisions already
-    defined in Recommendation ITU-T G.1028."
+  content: "While the long term evolution (LTE) circuit switched fall back (CSFB) can be considered as a separate procedure from voice service delivery over LTE, it has an impact on the quality of service (QoS) for the voice services and is therefore worthy of attention and consideration. Indeed, operators have to make sure that clients purchasing LTE‑capable devices must keep the level of QoS they are accustomed to when compared  with their former 2G and 3G devices, even when VoLTE is unavailable (for any reason, such as,  networkor device). Therefore, specific and complementary key performance indicators (KPIs) are proposed in this Recommendation, together with procedures for their assessment.\r\n\r\nIt should be noted that this Recommendation focuses only on the specific impact of CSFB. The information it contains must be considered as a complement to provisions already defined in Recommendation ITU-T G.1028."
 status:
   stage:
     content: Published

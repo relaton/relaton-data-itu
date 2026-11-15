@@ -51,11 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This annex defines the necessary mechanisms for switching operation between
-    6.4 kbit/s G.729 Annex D and 11.8 kbit/s G.729 Annex E. Previously, only one switching
-    from 8 kbit/s G.729 was specified.\r\nThis annex includes an electronic attachment
-    containing version 1.1. of reference C code and test vectors for fixed-point implementation
-    of CS-ACELP at 6.4 kbit/s, 8 kbit/s and 11.8 kbit/s without DTX functionality.\r\n"
+  content: "This annex defines the necessary mechanisms for switching operation between 6.4 kbit/s G.729 Annex D and 11.8 kbit/s G.729 Annex E. Previously, only one switching from 8 kbit/s G.729 was specified.\r\nThis annex includes an electronic attachment containing version 1.1. of reference C code and test vectors for fixed-point implementation of CS-ACELP at 6.4 kbit/s, 8 kbit/s and 11.8 kbit/s without DTX functionality.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -108,7 +104,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G.729 Annex B enhancements in voice-over-IP applications – Option 2
+      content: G.729 Annex B enhancements in voice-over-IP applications – Option
+        2
     docidentifier:
     - content: G.729 App. III (08/2005)
       type: ITU
@@ -118,7 +115,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G.729 Annex B enhancements in voice-over-IP applications – Option 1
+      content: G.729 Annex B enhancements in voice-over-IP applications – Option
+        1
     docidentifier:
     - content: G.729 App. II (08/2005)
       type: ITU

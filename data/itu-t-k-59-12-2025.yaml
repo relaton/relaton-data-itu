@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.59 aims to establish minimum requirements, procedures
+  content: 'Recommendation ITU-T K.59 aims to establish minimum requirements, procedures
     and management rules to be followed to take into account electromagnetic compatibility
     (EMC), resistibility and safety aspects for connection to unbundled cables. With
     the liberalization of telecommunications, many services are provided by several
@@ -61,7 +61,8 @@ abstract:
     of the cable, may use several pairs in the cable for various services. In this
     situation, EMC resistibility and safety problems may occur in the cable. Therefore,
     it is necessary to establish proper requirements and procedures from an EMC point
-    of view.\r\n"
+    of view.
+    '
 status:
   stage:
     content: Published

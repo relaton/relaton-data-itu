@@ -53,31 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies both the components and the methodology
-    that should be used in order to specify SDH functionality of network elements;
-    it does not specify an individual SDH equipment as such.\r\n\r\nThis Recommendation
-    forms part of a suite of Recommendations covering the full functionality of network
-    equipment. These Recommendations are ITU‑T Recs G.806 [13] (Conventions and Generic
-    Equip­ment Functions), G.783, G.705 (PDH functions) [5], G.781 [9] (Synchronization
-    functions), G.784 (Management function) [10] and I.732 [21] (ATM functions) and
-    follow the principles defined in ITU‑T Rec. G.803 [11].\r\n\r\nThis Recommendation
-    specifies a library of basic building blocks and a set of rules by which they
-    may be combined in order to describe a digital transmission equipment. The library
-    comprises the functional building blocks needed to specify completely the generic
-    functional structure of the Synchronous Digital Hierarchy. In order to be compliant
-    with this Recommendation, equipment needs to be describable as an interconnection
-    of a subset of these functional blocks contained within this Recommendation. The
-    interconnections of these blocks should obey the combination rules given.\r\n\r\nThe
-    specification method is based on functional decomposition of the equipment into
-    atomic, and compound functions. The description is generic and no particular physical
-    partitioning of functions is implied. The input/output information flows associated
-    with the functional blocks serve for defining the functions of the blocks and
-    are considered to be conceptual, not physical.\r\n\r\nNot every atomic function
-    defined in this Recommendation is required for every application. Different subsets
-    of atomic functions may be assembled in different ways according to the combination
-    rules given in this Recommendation to provide a variety of different capabilities.
-    Network operators and equipment suppliers may choose which functions must be implemented
-    for each application."
+  content: "This Recommendation specifies both the components and the methodology that should be used in order to specify SDH functionality of network elements; it does not specify an individual SDH equipment as such.\r\n\r\nThis Recommendation forms part of a suite of Recommendations covering the full functionality of network equipment. These Recommendations are ITU‑T Recs G.806 [13] (Conventions and Generic Equip­ment Functions), G.783, G.705 (PDH functions) [5], G.781 [9] (Synchronization functions), G.784 (Management function) [10] and I.732 [21] (ATM functions) and follow the principles defined in ITU‑T Rec. G.803 [11].\r\n\r\nThis Recommendation specifies a library of basic building blocks and a set of rules by which they may be combined in order to describe a digital transmission equipment. The library comprises the functional building blocks needed to specify completely the generic functional structure of the Synchronous Digital Hierarchy. In order to be compliant with this Recommendation, equipment needs to be describable as an interconnection of a subset of these functional blocks contained within this Recommendation. The interconnections of these blocks should obey the combination rules given.\r\n\r\nThe specification method is based on functional decomposition of the equipment into atomic, and compound functions. The description is generic and no particular physical partitioning of functions is implied. The input/output information flows associated with the functional blocks serve for defining the functions of the blocks and are considered to be conceptual, not physical.\r\n\r\nNot every atomic function defined in this Recommendation is required for every application. Different subsets of atomic functions may be assembled in different ways according to the combination rules given in this Recommendation to provide a variety of different capabilities. Network operators and equipment suppliers may choose which functions must be implemented for each application."
 status:
   stage:
     content: Published

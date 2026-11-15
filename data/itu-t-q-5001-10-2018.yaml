@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A huge volume of data has been generated from the various smart things.
-    Lots of smart services have been working based on cloud systems. However, the
-    network bottleneck between terminals and a cloud system has incurred various issues
-    (e.g., data loss, network delay, etc.).  An edge computing technology between
-    user equipment and cloud server system is attracted to solve these problems. In
-    addition, applying the intelligent data processing functions by providing AI technologies
-    will provide enhanced networking capabilities for new emerging services and applications.\r\n\r\nRegarding
-    these emerging environments, this Recommendation defines the intelligent edge
-    computing. It is applicable to collect, store, and process data reliably in the
-    intelligent edge computing, especially to support mission critical services. Thus,
-    the main functionality of intelligent edge computing is collecting, processing,
-    analysing the data and providing the values based on intelligent data processing.\r\n\r\nThis
-    Recommendation specifies use cases, signalling requirements and an architecture
-    of intelligent edge computing.\r\n"
+  content: "A huge volume of data has been generated from the various smart things. Lots of smart services have been working based on cloud systems. However, the network bottleneck between terminals and a cloud system has incurred various issues (e.g., data loss, network delay, etc.).  An edge computing technology between user equipment and cloud server system is attracted to solve these problems. In addition, applying the intelligent data processing functions by providing AI technologies will provide enhanced networking capabilities for new emerging services and applications.\r\n\r\nRegarding these emerging environments, this Recommendation defines the intelligent edge computing. It is applicable to collect, store, and process data reliably in the intelligent edge computing, especially to support mission critical services. Thus, the main functionality of intelligent edge computing is collecting, processing, analysing the data and providing the values based on intelligent data processing.\r\n\r\nThis Recommendation specifies use cases, signalling requirements and an architecture of intelligent edge computing.\r\n"
 status:
   stage:
     content: Published
@@ -323,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -335,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

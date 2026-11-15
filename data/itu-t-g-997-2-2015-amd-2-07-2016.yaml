@@ -47,11 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to Recommendation ITU-T G.997.2 (2015) includes:\r\n\r\n-
-    \         Add support of PM counters for Link Stage Usage\r\n-          Support
-    for Annex Z for cross-layer link state control of ITU-T G.9701.\r\n-          Add
-    upstream Hlog parameter\r\n-          Add VCE ID and VCE port index\r\n-          Add
-    downstream Xlog parameter\r\n-          Add support for new G.9701 profile 106b\r\n"
+  content: "Amendment 2 to Recommendation ITU-T G.997.2 (2015) includes:\r\n\r\n-          Add support of PM counters for Link Stage Usage\r\n-          Support for Annex Z for cross-layer link state control of ITU-T G.9701.\r\n-          Add upstream Hlog parameter\r\n-          Add VCE ID and VCE port index\r\n-          Add downstream Xlog parameter\r\n-          Add support for new G.9701 profile 106b\r\n"
 status:
   stage:
     content: Withdrawal

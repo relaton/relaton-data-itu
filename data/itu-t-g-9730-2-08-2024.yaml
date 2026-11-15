@@ -52,14 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9730.2 identifies the capabilities and features
+  content: 'Recommendation ITU-T G.9730.2 identifies the capabilities and features
     of fibre optical submarine telecommunication cable systems equipped with scientific
     monitoring sensors along the length of the undersea optical cables (i.e., SMART
     cables). It describes at a high-level the characteristics and requirements of
     a scientific monitoring and reliable telecommunication (SMART) cable system (e.g.,
     no interference between telecommunications and sensing functions, reliability
     of each function, operations and maintenance, general attributes of a power and
-    communication interface).\r\n"
+    communication interface).
+    '
 status:
   stage:
     content: Published

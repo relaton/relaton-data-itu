@@ -50,20 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.191 provides source code for speech and audio processing
-    modules for narrowband, wideband and super-wideband telephony applications. The
-    set includes codecs, filters, noise generators.\r\nThis edition introduces changes
-    to Annex A, which describes the ITU-T Software Tools (STL) containing a high-quality,
-    portable C code library for speech processing applications. This release of the
-    STL, also known as STL2024, incorporates:\r\n•BS1770demo improvements:\r\n–a new
-    RMS option disabling the gating function for background noise measurement,\r\n–the
-    handling of the edge case where all gating blacks are below −70 LKFS,\r\n–improved
-    reporting with scaling factor being reported in the linear and log domains.\r\n•WMC
-    Tools updates:\r\n–New command line parameter to allow control on the number of
-    frames per second (default still 50)\r\n–Export information on all memory allocations
-    occurring during runtime\r\n–Example script for graphical analysis and profiling
-    of dynamic memory allocation\r\n–Bugs fixes and code improvements.\r\nRecommendation
-    ITU-T G.191 includes an electronic attachment containing STL2024 and manual.\r\n"
+  content: "Recommendation ITU-T G.191 provides source code for speech and audio processing modules for narrowband, wideband and super-wideband telephony applications. The set includes codecs, filters, noise generators.\r\nThis edition introduces changes to Annex A, which describes the ITU-T Software Tools (STL) containing a high-quality, portable C code library for speech processing applications. This release of the STL, also known as STL2024, incorporates:\r\n•BS1770demo improvements:\r\n–a new RMS option disabling the gating function for background noise measurement,\r\n–the handling of the edge case where all gating blacks are below −70 LKFS,\r\n–improved reporting with scaling factor being reported in the linear and log domains.\r\n•WMC Tools updates:\r\n–New command line parameter to allow control on the number of frames per second (default still 50)\r\n–Export information on all memory allocations occurring during runtime\r\n–Example script for graphical analysis and profiling of dynamic memory allocation\r\n–Bugs fixes and code improvements.\r\nRecommendation ITU-T G.191 includes an electronic attachment containing STL2024 and manual.\r\n"
 status:
   stage:
     content: Withdrawal

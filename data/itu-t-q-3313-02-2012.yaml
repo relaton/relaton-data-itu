@@ -53,27 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3313 specifies the signalling format and procedures
-    for the flow state aware (FSA) transfer capability in a bounded subnetwork of
-    a next generation network (NGN). The FSA transfer capability provides QoS controls
-    that operate on a per-flow basis, allowing flows within a bounded subnetwork of
-    an NGN to receive different treatments depending on signalled parameters. These
-    parameters are requested using in-band signalling. The parameters contained in
-    these signals are included in the \"flow state\" maintained on each flow (or each
-    aggregate flow), at each FSA node.\r\n\r\nService options that may be selected
-    include the requested support of the highest available end-to-end rate for data
-    transfer, assuming some source-to-receiver forwarding paths are entirely within
-    the bounded subnetwork of an NGN. \r\n\r\nThe focus of this Recommendation is
-    on broadband (including mobile) service access scenarios typically involving restricted
-    bandwidth shared by many flows. In such circumstances, customer satisfaction,
-    when there is temporary congestion, may be best handled by applying flow preferences
-    and QoS differently for each customer and not simply on the type of media. This
-    leads to the notion of customised QoS supported partly by signalling and partly
-    through web-based tools. \r\n\r\nThese concepts may also be applied to flow aggregates,
-    with associated signalling support acting at the aggregate level between aggregation
-    end-points, as defined in Recommendation ITU-T Y.2121. The customization of aggregates
-    in this Recommendation is limited to the notions of preference priority and FSA
-    transfer capability."
+  content: "Recommendation ITU-T Q.3313 specifies the signalling format and procedures for the flow state aware (FSA) transfer capability in a bounded subnetwork of a next generation network (NGN). The FSA transfer capability provides QoS controls that operate on a per-flow basis, allowing flows within a bounded subnetwork of an NGN to receive different treatments depending on signalled parameters. These parameters are requested using in-band signalling. The parameters contained in these signals are included in the \"flow state\" maintained on each flow (or each aggregate flow), at each FSA node.\r\n\r\nService options that may be selected include the requested support of the highest available end-to-end rate for data transfer, assuming some source-to-receiver forwarding paths are entirely within the bounded subnetwork of an NGN. \r\n\r\nThe focus of this Recommendation is on broadband (including mobile) service access scenarios typically involving restricted bandwidth shared by many flows. In such circumstances, customer satisfaction, when there is temporary congestion, may be best handled by applying flow preferences and QoS differently for each customer and not simply on the type of media. This leads to the notion of customised QoS supported partly by signalling and partly through web-based tools. \r\n\r\nThese concepts may also be applied to flow aggregates, with associated signalling support acting at the aggregate level between aggregation end-points, as defined in Recommendation ITU-T Y.2121. The customization of aggregates in this Recommendation is limited to the notions of preference priority and FSA transfer capability."
 status:
   stage:
     content: Published
@@ -331,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -343,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

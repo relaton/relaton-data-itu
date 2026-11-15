@@ -5,8 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Fixed, mobile and satellite convergence – Functional requirements and functional
-    architecture of the transformer model based unified control entity
+  content: Fixed, mobile and satellite convergence – Functional requirements and
+    functional architecture of the transformer model based unified control entity
   type: main
 source:
 - type: src
@@ -53,19 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "One of the solutions to the unified control problems is the transformer-model-based
-    control entity. When network control functions are implemented with the aid of
-    a transformer model, the following advantages can be achieved: unified network
-    control of the whole network, high extensibility, lower implementation cost, a
-    unified interface and better end-to-end service. Therefore, it is a good solution
-    for network control functions to be converged with transformer-model-related technologies;
-    and it is beneficial and appropriate to implement network control functions based
-    on the transformer model.\r\nFixed, mobile and satellite convergence (FMSC) is
-    the capability that provides services and applications to end users regardless
-    of the fixed, mobile or satellite access technologies being used. Recommendation
-    ITU-T Y.3222 specifies the basic model, functional requirements, functional architecture
-    and interfaces of the transformer-model-based unified control entity (TUCE) for
-    FMSC networks and other heterogeneous networks.\r\n"
+  content: "One of the solutions to the unified control problems is the transformer-model-based control entity. When network control functions are implemented with the aid of a transformer model, the following advantages can be achieved: unified network control of the whole network, high extensibility, lower implementation cost, a unified interface and better end-to-end service. Therefore, it is a good solution for network control functions to be converged with transformer-model-related technologies; and it is beneficial and appropriate to implement network control functions based on the transformer model.\r\nFixed, mobile and satellite convergence (FMSC) is the capability that provides services and applications to end users regardless of the fixed, mobile or satellite access technologies being used. Recommendation ITU-T Y.3222 specifies the basic model, functional requirements, functional architecture and interfaces of the transformer-model-based unified control entity (TUCE) for FMSC networks and other heterogeneous networks.\r\n"
 status:
   stage:
     content: Published
@@ -95,7 +83,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -116,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

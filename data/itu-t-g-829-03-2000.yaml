@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "ITU-T Recommendation G.828 [6] specifies error performance parameters
-    and objectives of international, constant bit rate synchronous digital paths.
-    Error performance objectives of ITU-T Recommendation G.828 refer to the hypothetical
-    reference path (HRP) of a length of 27 500 km. ITU-T Recommendation G.828 does
-    not contain information on path elements.\r\nNOTE - Performance objectives for
-    SDH paths using equipment designed prior to the adoption of Recommendation G.828
-    in March 2000 are given in ITU-T Recommendation G.826. [5]This ITU-T Recommendation
-    defines error performance events and block structures for SDH multiplex and regenerator
-    sections (see ITU-T Recommendations G.707 [1] and G.708 [2] for reference). SDH
-    equipment functional blocks and SDH management are defined in ITU-T Recommendations
-    G.783 [3] and G.784 [4]. Observing the definitions given in this Recommendation
-    shall ensure that error performance assessment on SDH multiplex and regenerator
-    sections yields compatible results. Definition ofevents in this ITU-T Recommendation
-    is based on the same basic concept as in ITU-T Recommendation G.828 [6].Performance
-    monitoring of SDH sections is not mandatory. If implemented, the specifications
-    of this ITU-T Recommendation apply"
+  content: "ITU-T Recommendation G.828 [6] specifies error performance parameters and objectives of international, constant bit rate synchronous digital paths. Error performance objectives of ITU-T Recommendation G.828 refer to the hypothetical reference path (HRP) of a length of 27 500 km. ITU-T Recommendation G.828 does not contain information on path elements.\r\nNOTE - Performance objectives for SDH paths using equipment designed prior to the adoption of Recommendation G.828 in March 2000 are given in ITU-T Recommendation G.826. [5]This ITU-T Recommendation defines error performance events and block structures for SDH multiplex and regenerator sections (see ITU-T Recommendations G.707 [1] and G.708 [2] for reference). SDH equipment functional blocks and SDH management are defined in ITU-T Recommendations G.783 [3] and G.784 [4]. Observing the definitions given in this Recommendation shall ensure that error performance assessment on SDH multiplex and regenerator sections yields compatible results. Definition ofevents in this ITU-T Recommendation is based on the same basic concept as in ITU-T Recommendation G.828 [6].Performance monitoring of SDH sections is not mandatory. If implemented, the specifications of this ITU-T Recommendation apply"
 status:
   stage:
     content: Withdrawal

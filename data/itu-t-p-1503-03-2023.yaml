@@ -51,31 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation is based on ITU-T Rec. G.1033, where a conceptual
-    framework for Quality of service and quality of experience aspects of digital
-    financial services is standardized, and on ITU-T Rec. P.1502 which standardizes
-    a methodology for QoE testing of digital financial services for the basic person-to-person
-    (P2P) money transfers between two devices using the same network and DFS operator.
-    \r\nThe present document has three main parts. \r\nFirstly, the methodological
-    framework and use case definitions for a generalized P2P money transfer use case
-    are given. In this framework, the DFS operator used to send money, and the operator
-    receiving this very money (i.e. the A and B side of a money transfer) are parameters
-    of the use case, which integrates all variations (same operator/inter-operators;
-    same country/cross-country) into the same methodological context.\r\nThe second
-    element of this Recommendation is a comprehensive framework for data elements
-    and related processing, including tools and procedures providing operational robustness
-    and a high level of data quality. The data objects defined here support test planning
-    and management as well as provide the input data foundation for efficient processing
-    of data. Also, guidance is given on how data processing can be done in a consistent
-    and efficient way. \r\nLast but not least, this Recommendation describes a new
-    tool, and the corresponding methodology, designed to assist field test teams in
-    data collection. This tool (“multi-stopwatch”) has already been conceptually suggested
-    in ITU-T Rec. P.1502. It is an electronic time-taking tool similar to a stopwatch
-    but supporting testers to record the events within a DFS test case and upload
-    data entered by testers directly to a central location. This tool eliminates the
-    needs and weaknesses of manual entering of time readings and the process of transferring
-    them to post-processing through multiple transformation stages, e.g. from handwritten
-    notes to entries in a spreadsheet.\r\n"
+  content: "This Recommendation is based on ITU-T Rec. G.1033, where a conceptual framework for Quality of service and quality of experience aspects of digital financial services is standardized, and on ITU-T Rec. P.1502 which standardizes a methodology for QoE testing of digital financial services for the basic person-to-person (P2P) money transfers between two devices using the same network and DFS operator. \r\nThe present document has three main parts. \r\nFirstly, the methodological framework and use case definitions for a generalized P2P money transfer use case are given. In this framework, the DFS operator used to send money, and the operator receiving this very money (i.e. the A and B side of a money transfer) are parameters of the use case, which integrates all variations (same operator/inter-operators; same country/cross-country) into the same methodological context.\r\nThe second element of this Recommendation is a comprehensive framework for data elements and related processing, including tools and procedures providing operational robustness and a high level of data quality. The data objects defined here support test planning and management as well as provide the input data foundation for efficient processing of data. Also, guidance is given on how data processing can be done in a consistent and efficient way. \r\nLast but not least, this Recommendation describes a new tool, and the corresponding methodology, designed to assist field test teams in data collection. This tool (“multi-stopwatch”) has already been conceptually suggested in ITU-T Rec. P.1502. It is an electronic time-taking tool similar to a stopwatch but supporting testers to record the events within a DFS test case and upload data entered by testers directly to a central location. This tool eliminates the needs and weaknesses of manual entering of time readings and the process of transferring them to post-processing through multiple transformation stages, e.g. from handwritten notes to entries in a spreadsheet.\r\n"
 status:
   stage:
     content: Published

@@ -53,32 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "\r\nSummary\r\nInternet of things (IoT) technology has permeated diverse
-    sectors, facilitating automation, data-driven insights, and operational efficiencies.
-    However, this widespread adoption has introduced challenges related to security
-    vulnerabilities, interoperability complexities, and network performance optimization.
-    The pervasive integration of IoT devices across industries underscores the pressing
-    need for robust network infrastructures that prioritize reliability, interoperability,
-    and security.\r\nManufacturer usage description (MUD), as specified in IETF RFC
-    8520, emerges as a foundational tool in fortifying IoT ecosystems, offering not
-    only security enhancements but also significant benefits in addressing interoperability
-    challenges and optimizing network performance.\r\nThe main objective of the IETF's
-    manufacturer usage description (MUD) specification is to provide a means for end
-    devices to signal to the network what sort of access and network functionality
-    they require to properly function. MUD can offer a standardized approach for manufacturers
-    to specify the necessary network communications for an IoT device to operate according
-    to their manufacturers' intentions. The IETF MUD framework requires a standardized
-    approach for the generation of an operational behavioural profile of IoT devices
-    called MUD profiles and the use of these profiles to secure their network and
-    monitor the runtime behaviour of IoT devices. By implementing MUD, the network
-    can automatically allow only the essential traffic required for the device to
-    operate as intended, while blocking any unauthorized communication attempts.\r\nRecommendation
-    ITU-T Q.4080 aims to establish a standardized testing framework for testing and
-    monitoring IoT devices and networks to ensure conformance with the IETF RFC 8520
-    (MUD). It consists of testing requirements, testing procedures and expected behaviour
-    to verify an IoT device’s conformance to MUD Specification. Compliance with MUD
-    is crucial and serves as a key requirement for IoT security, thereby mitigating
-    potential risks associated with unauthorized network access and cyber threats.\r\n"
+  content: "\r\nSummary\r\nInternet of things (IoT) technology has permeated diverse sectors, facilitating automation, data-driven insights, and operational efficiencies. However, this widespread adoption has introduced challenges related to security vulnerabilities, interoperability complexities, and network performance optimization. The pervasive integration of IoT devices across industries underscores the pressing need for robust network infrastructures that prioritize reliability, interoperability, and security.\r\nManufacturer usage description (MUD), as specified in IETF RFC 8520, emerges as a foundational tool in fortifying IoT ecosystems, offering not only security enhancements but also significant benefits in addressing interoperability challenges and optimizing network performance.\r\nThe main objective of the IETF's manufacturer usage description (MUD) specification is to provide a means for end devices to signal to the network what sort of access and network functionality they require to properly function. MUD can offer a standardized approach for manufacturers to specify the necessary network communications for an IoT device to operate according to their manufacturers' intentions. The IETF MUD framework requires a standardized approach for the generation of an operational behavioural profile of IoT devices called MUD profiles and the use of these profiles to secure their network and monitor the runtime behaviour of IoT devices. By implementing MUD, the network can automatically allow only the essential traffic required for the device to operate as intended, while blocking any unauthorized communication attempts.\r\nRecommendation ITU-T Q.4080 aims to establish a standardized testing framework for testing and monitoring IoT devices and networks to ensure conformance with the IETF RFC 8520 (MUD). It consists of testing requirements, testing procedures and expected behaviour to verify an IoT device’s conformance to MUD Specification. Compliance with MUD is crucial and serves as a key requirement for IoT security, thereby mitigating potential risks associated with unauthorized network access and cyber threats.\r\n"
 status:
   stage:
     content: Published
@@ -336,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -348,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

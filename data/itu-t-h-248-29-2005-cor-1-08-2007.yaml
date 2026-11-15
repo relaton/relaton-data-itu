@@ -52,29 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The packages in this Recommendation provide H.248 support for Channel
-    Associated Signalling (CAS) compelled register signalling. This can be used for
-    R2, although the packages are generic so that they can also be used for other
-    non-R2 compelled schemes. This Recommendation proposes methods to support:\r•
-    standard en bloc compelling;\r• overlap compelling;\r• the ability to enable end-to-end
-    compelled signalling.This Recommendation provides only the capabilities of compelled
-    register signalling and it is expected that a system would need to implement the
-    bcas, icas and casblk packages for the line signalling components of any CAS protocol.Three
-    packages are defined in Annex A:\r• icasc which provides standard en bloc compelling;\r•
-    icasco which extends icasc and provides overlap compelling in addition to en bloc;\r•
-    icasce which extends icasco and provides the ability to enable end-to-end signalling
-    in addition to en bloc and overlap.Annex B defines an alternative package for
-    support of these functions, called icascgen. This package defines a generic register
-    signalling, which may be used for national variants of Signalling System R2. This
-    kind of interregister signalling is a compelled multifrequency code system. The
-    package is suitable for ITU-T Signalling System R2, although it is defined in
-    a generic way. Thus it can also be used exclusively, or in addition to the packages
-    defined in Annex A. The proposed package comprises following compelled address
-    transfer modes:\r• generic standard en bloc compelling; and\r• overlap procedures.NOTE
-    - The ability to enable end-to-end compelled signalling utilizing Annex B is for
-    further study.Annex B introduces the concepts of Detection Events Map and Generation
-    Signals Map, which are very similar to H.248 Digit Map usage.Corrigendum 1 introduces
-    corrections to Figures A.2, A.3, A.4 and A.5."
+  content: "The packages in this Recommendation provide H.248 support for Channel Associated Signalling (CAS) compelled register signalling. This can be used for R2, although the packages are generic so that they can also be used for other non-R2 compelled schemes. This Recommendation proposes methods to support:\r• standard en bloc compelling;\r• overlap compelling;\r• the ability to enable end-to-end compelled signalling.This Recommendation provides only the capabilities of compelled register signalling and it is expected that a system would need to implement the bcas, icas and casblk packages for the line signalling components of any CAS protocol.Three packages are defined in Annex A:\r• icasc which provides standard en bloc compelling;\r• icasco which extends icasc and provides overlap compelling in addition to en bloc;\r• icasce which extends icasco and provides the ability to enable end-to-end signalling in addition to en bloc and overlap.Annex B defines an alternative package for support of these functions, called icascgen. This package defines a generic register signalling, which may be used for national variants of Signalling System R2. This kind of interregister signalling is a compelled multifrequency code system. The package is suitable for ITU-T Signalling System R2, although it is defined in a generic way. Thus it can also be used exclusively, or in addition to the packages defined in Annex A. The proposed package comprises following compelled address transfer modes:\r• generic standard en bloc compelling; and\r• overlap procedures.NOTE - The ability to enable end-to-end compelled signalling utilizing Annex B is for further study.Annex B introduces the concepts of Detection Events Map and Generation Signals Map, which are very similar to H.248 Digit Map usage.Corrigendum 1 introduces corrections to Figures A.2, A.3, A.4 and A.5."
 status:
   stage:
     content: Withdrawal

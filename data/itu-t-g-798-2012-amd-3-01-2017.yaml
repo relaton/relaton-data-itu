@@ -47,14 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 3 to Recommendation ITU-T G.798 (2012):\r\n\r\n-          adds
-    Beyond 100 Gbit/s equipment functions and processes\r\n\r\n-          includes
-    the specification of OTUCn and ODUCn functions by generalizes OTUk and ODUk functions
-    to OTU and ODU\r\n\r\n-          adds ODUflex to FlexE client and subgroup adaptation
-    functions\r\n\r\n-          adds FlexO functions and processes\r\n\r\n-          deletes
-    the ODU virtual concatenation functions\r\n\r\n-          deletes the ODUkP to
-    ATM adaptation functions\r\n\r\n-          removes the processes related to the
-    TCM ACT and FTFL overhead fields\r\n"
+  content: "Amendment 3 to Recommendation ITU-T G.798 (2012):\r\n\r\n-          adds Beyond 100 Gbit/s equipment functions and processes\r\n\r\n-          includes the specification of OTUCn and ODUCn functions by generalizes OTUk and ODUk functions to OTU and ODU\r\n\r\n-          adds ODUflex to FlexE client and subgroup adaptation functions\r\n\r\n-          adds FlexO functions and processes\r\n\r\n-          deletes the ODU virtual concatenation functions\r\n\r\n-          deletes the ODUkP to ATM adaptation functions\r\n\r\n-          removes the processes related to the TCM ACT and FTFL overhead fields\r\n"
 status:
   stage:
     content: Withdrawal

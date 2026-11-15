@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides guidelines concerning the key aspects impacting
-    end-to-end performance of managed voice applications over LTE networks and how
-    they can be properly assessed using current elements of knowledge.\r\n\r\nSome
-    typical end-to-end scenarios are described, involving cases with LTE access at
-    both sides of the communication, or with a different access technology at one
-    side (wireless or wireline access). These scenarios are based on typical reference
-    connections defined in this Recommendation, composed of various segments, including:
-    terminal, wireless access, backhaul network, core network. Considerations regarding
-    the sharing of the budget of some key parameters and the location where they can
-    be assessed across these segments are provided.\r\n"
+  content: "This Recommendation provides guidelines concerning the key aspects impacting end-to-end performance of managed voice applications over LTE networks and how they can be properly assessed using current elements of knowledge.\r\n\r\nSome typical end-to-end scenarios are described, involving cases with LTE access at both sides of the communication, or with a different access technology at one side (wireless or wireline access). These scenarios are based on typical reference connections defined in this Recommendation, composed of various segments, including: terminal, wireless access, backhaul network, core network. Considerations regarding the sharing of the budget of some key parameters and the location where they can be assessed across these segments are provided.\r\n"
 status:
   stage:
     content: Withdrawal

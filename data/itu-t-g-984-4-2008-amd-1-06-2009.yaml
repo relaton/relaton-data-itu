@@ -47,15 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.984.4 contains various updates to
-    ITU-T G.984.4 (2008). A number of editorial corrections and clarifications are
-    included, along with the following substantive changes and extensions to G-PON
-    OMCI.\r• OMCI for reach extenders\r• PM extensions for Ethernet bridge ports and
-    circuit emulation services (pseudowires)\r• Update of OMCI to align with Recommendation
-    ITU-T G.997.1 (2009)\r• Revision of the VLAN tagging filter data managed entity\r•
-    A managed entity to control out-of-band file transfer through OMCI\r• Extended
-    descriptions and OMCI extensions on traffic management and quality of service\r•
-    A number of additional minor extensions to OMCI"
+  content: "Amendment 1 to Recommendation ITU-T G.984.4 contains various updates to ITU-T G.984.4 (2008). A number of editorial corrections and clarifications are included, along with the following substantive changes and extensions to G-PON OMCI.\r• OMCI for reach extenders\r• PM extensions for Ethernet bridge ports and circuit emulation services (pseudowires)\r• Update of OMCI to align with Recommendation ITU-T G.997.1 (2009)\r• Revision of the VLAN tagging filter data managed entity\r• A managed entity to control out-of-band file transfer through OMCI\r• Extended descriptions and OMCI extensions on traffic management and quality of service\r• A number of additional minor extensions to OMCI"
 status:
   stage:
     content: Published

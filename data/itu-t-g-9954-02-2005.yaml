@@ -5,8 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Phoneline networking transceivers – Enhanced physical, media access, and
-    link layer specifications
+  content: Phoneline networking transceivers – Enhanced physical, media access,
+    and link layer specifications
   type: main
 source:
 - type: src
@@ -53,28 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines the PHY, MAC, LINK and CONVERGENCE protocol
-    stack layers for the G.9954 system providing the following features:\r\n• PHY-layer
-    payload transmission rates of 4 to 240 Mbit/s;\r\n• Rate adaptive transceivers
-    that optimize data rates and packet error rates for dynamically varying channel
-    conditions on a per-packet basis;\r\n• Frequency Diverse QAM for robust communication
-    over highly frequency-selective channels;\r\n• Spectrum notching for compatibility
-    with Amateur Radio services;\r\n• Synchronous MAC protocol controlled by a dynamically
-    elected master employing a combination of collision avoidance and controlled contention-based
-    access strategies;\r\n• Support for isochronous and asynchronous data services;\r\n•
-    Peer-to-peer communication within a master-controlled network;\r\n• Master-less
-    mode of operation using G.9951/2-like asynchronous MAC protocol;\r\n• Packet aggregation
-    (packetization) performed within the G.9954 protocol stack layer up to latency
-    limits of the service flow and available transmission bandwidth;\r\n• Quality
-    of Service guarantees for bandwidth, jitter, latency and BER;\r\n• QoS support
-    for services with explicit traffic and rate specifications providing a link layer
-    that is well suited for streaming audio and video;\r\n• Protocol-specific convergence
-    layers;\r\n• Backward Compatible with G.9951/2, allowing transmissions at G.9951/2
-    compatibility mode rates;\r\n• Coexistence and interoperability between G.9951/2
-    and G.9954 devices in a mixed network;\r\n• Compatibility with other phoneline
-    services such as POTS, V.90, ISDN and G.992.1, G.992.2, G.992.3, and G.992.4;\r\n•
-    Local and remote management of G.9954 devices;\r\n• Provisions for future security
-    extensions."
+  content: "This Recommendation defines the PHY, MAC, LINK and CONVERGENCE protocol stack layers for the G.9954 system providing the following features:\r\n• PHY-layer payload transmission rates of 4 to 240 Mbit/s;\r\n• Rate adaptive transceivers that optimize data rates and packet error rates for dynamically varying channel conditions on a per-packet basis;\r\n• Frequency Diverse QAM for robust communication over highly frequency-selective channels;\r\n• Spectrum notching for compatibility with Amateur Radio services;\r\n• Synchronous MAC protocol controlled by a dynamically elected master employing a combination of collision avoidance and controlled contention-based access strategies;\r\n• Support for isochronous and asynchronous data services;\r\n• Peer-to-peer communication within a master-controlled network;\r\n• Master-less mode of operation using G.9951/2-like asynchronous MAC protocol;\r\n• Packet aggregation (packetization) performed within the G.9954 protocol stack layer up to latency limits of the service flow and available transmission bandwidth;\r\n• Quality of Service guarantees for bandwidth, jitter, latency and BER;\r\n• QoS support for services with explicit traffic and rate specifications providing a link layer that is well suited for streaming audio and video;\r\n• Protocol-specific convergence layers;\r\n• Backward Compatible with G.9951/2, allowing transmissions at G.9951/2 compatibility mode rates;\r\n• Coexistence and interoperability between G.9951/2 and G.9954 devices in a mixed network;\r\n• Compatibility with other phoneline services such as POTS, V.90, ISDN and G.992.1, G.992.2, G.992.3, and G.992.4;\r\n• Local and remote management of G.9954 devices;\r\n• Provisions for future security extensions."
 status:
   stage:
     content: Withdrawal

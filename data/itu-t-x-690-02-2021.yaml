@@ -57,18 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.690 | ISO/IEC 8825-1 defines a set of Basic Encoding
-    Rules (BER) that may be applied to values of types defined using the ASN.1 notation.
-    Application of these encoding rules produces a transfer syntax for such values.
-    It is implicit in the specification of these encoding rules that they are also
-    used for decoding. This Recommendation | International Standard defines also a
-    set of Distinguished Encoding Rules (DER) and a set of Canonical Encoding Rules
-    (CER) both of which provide constraints on the Basic Encoding Rules (BER). The
-    key difference between them is that DER uses the definite length form of encoding
-    while CER uses the indefinite length form. DER is more suitable for the small
-    encoded values, while CER is more suitable for the large ones. It is implicit
-    in the specification of these encoding rules that they are also used for decoding.
-    \r\n"
+  content: "Recommendation ITU-T X.690 | ISO/IEC 8825-1 defines a set of Basic Encoding Rules (BER) that may be applied to values of types defined using the ASN.1 notation. Application of these encoding rules produces a transfer syntax for such values. It is implicit in the specification of these encoding rules that they are also used for decoding. This Recommendation | International Standard defines also a set of Distinguished Encoding Rules (DER) and a set of Canonical Encoding Rules (CER) both of which provide constraints on the Basic Encoding Rules (BER). The key difference between them is that DER uses the definite length form of encoding while CER uses the indefinite length form. DER is more suitable for the small encoded values, while CER is more suitable for the large ones. It is implicit in the specification of these encoding rules that they are also used for decoding. \r\n"
 status:
   stage:
     content: Published
@@ -98,9 +87,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of
+        Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished
+        Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (08/2015)
       type: ITU
@@ -126,9 +115,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of
+        Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished
+        Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (11/2008)
       type: ITU
@@ -166,9 +155,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of
+        Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished
+        Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (07/2002)
       type: ITU
@@ -204,9 +193,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of
+        Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished
+        Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (12/1997)
       type: ITU
@@ -240,9 +229,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Information technology – ASN.1 encoding rules: Specification of Basic
-        Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
-        Rules (DER)'
+      content: 'Information technology – ASN.1 encoding rules: Specification of
+        Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished
+        Encoding Rules (DER)'
     docidentifier:
     - content: X.690 (07/1994)
       type: ITU

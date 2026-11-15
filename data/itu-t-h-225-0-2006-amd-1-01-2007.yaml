@@ -53,30 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation covers the technical requirements for narrow-band
-    visual telephone services defined in H.200 and F.720-series Recommendations, in
-    those situations where the transmission path includes one or more packet-based
-    networks, each of which is configured and managed to provide a non-guaranteed
-    Quality of Service (QoS) which is not equivalent to that of N-ISDN, such that
-    additional protection or recovery mechanisms beyond those mandated by ITU-T Rec.
-    H.320 need be provided in the terminals. It is noted that ITU-T Rec. H.322 addresses
-    the use of some other LANs which are able to provide the underlying performance
-    not assumed by the ITU-T Recs H.323 and H.225.0.This Recommendation describes
-    how audio, video, data, and control information on a packet-based network can
-    be managed to provide conversational services in H.323 equipment.Products claiming
-    compliance with Version 6 of H.225.0 (this version) shall comply with all of the
-    mandatory requirements of this Recommendation. Version 6 products can be identified
-    by H.225.0 messages containing a protocolIdentifier value of {itu-t (0) recommendation
-    (0) h (8) 2250 version (0) 6}. Amendment 1 adds the ability for intermediary systems
-    that implement H.323 procedures to re-route calls to advise the transferred party
-    and the transferred-to party of the alias addresses of the party to which the
-    devices are communicating upon completion of the call transfer. This amendment
-    also modifies the text related to echo control procedures to add clarity and improve
-    the accuracy. The specific changes are:- Amended 7.4.2 to contain a new Information
-    Element in Table 18 for Connected Number and three new field definitions: connectedAddress,
-    presentationIndicator, screeningIndicator.\r\n- Amended ASN.1 in Annex H for Notify-UUIE
-    to include these three new field definitions.\r\n- Amended 8.6 to clarify and
-    improve the accuracy of the echo control procedures."
+  content: "This Recommendation covers the technical requirements for narrow-band visual telephone services defined in H.200 and F.720-series Recommendations, in those situations where the transmission path includes one or more packet-based networks, each of which is configured and managed to provide a non-guaranteed Quality of Service (QoS) which is not equivalent to that of N-ISDN, such that additional protection or recovery mechanisms beyond those mandated by ITU-T Rec. H.320 need be provided in the terminals. It is noted that ITU-T Rec. H.322 addresses the use of some other LANs which are able to provide the underlying performance not assumed by the ITU-T Recs H.323 and H.225.0.This Recommendation describes how audio, video, data, and control information on a packet-based network can be managed to provide conversational services in H.323 equipment.Products claiming compliance with Version 6 of H.225.0 (this version) shall comply with all of the mandatory requirements of this Recommendation. Version 6 products can be identified by H.225.0 messages containing a protocolIdentifier value of {itu-t (0) recommendation (0) h (8) 2250 version (0) 6}. Amendment 1 adds the ability for intermediary systems that implement H.323 procedures to re-route calls to advise the transferred party and the transferred-to party of the alias addresses of the party to which the devices are communicating upon completion of the call transfer. This amendment also modifies the text related to echo control procedures to add clarity and improve the accuracy. The specific changes are:- Amended 7.4.2 to contain a new Information Element in Table 18 for Connected Number and three new field definitions: connectedAddress, presentationIndicator, screeningIndicator.\r\n- Amended ASN.1 in Annex H for Notify-UUIE to include these three new field definitions.\r\n- Amended 8.6 to clarify and improve the accuracy of the echo control procedures."
 status:
   stage:
     content: Withdrawal

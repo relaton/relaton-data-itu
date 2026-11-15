@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides authentication and integrity protection,
-    or authentication-only for H.225.0 RAS and call signalling, H.225.0, and tunnelled
-    H.245 using password-based HMAC‑SHA1-96 hash protection of H.225.0 RAS and Call
-    Signalling messages by using secure password-based cryptographic techniques. The
-    security profile is applicable to H.323 terminal‑to‑gatekeeper, gatekeeper-to-gatekeeper,
-    H.323 gateway-to-gatekeeper and to other H.323 entities in administered environments
-    with symmetric assigned keys/passwords.\r\nIn earlier versions of the H.235 subseries,
-    this profile was contained in Annex D/H.235. Appendices IV, V, VI to H.235.0 show
-    the complete clause, figure, and table mapping between H.235 versions 3 and 4."
+  content: "This Recommendation provides authentication and integrity protection, or authentication-only for H.225.0 RAS and call signalling, H.225.0, and tunnelled H.245 using password-based HMAC‑SHA1-96 hash protection of H.225.0 RAS and Call Signalling messages by using secure password-based cryptographic techniques. The security profile is applicable to H.323 terminal‑to‑gatekeeper, gatekeeper-to-gatekeeper, H.323 gateway-to-gatekeeper and to other H.323 entities in administered environments with symmetric assigned keys/passwords.\r\nIn earlier versions of the H.235 subseries, this profile was contained in Annex D/H.235. Appendices IV, V, VI to H.235.0 show the complete clause, figure, and table mapping between H.235 versions 3 and 4."
 status:
   stage:
     content: Published

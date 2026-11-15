@@ -47,18 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8272.1 specifies the requirements for enhanced
-    primary reference time clocks (ePRTCs) suitable for time and phase synchronization
-    in packet networks. It defines the error allowed at the time output of the ePRTC.
-    These requirements apply under the normal environmental conditions specified for
-    the equipment.\r\nAmendment 1 to Recommendation ITU-T G.8272.1 (2024) provides
-    the following updates:\r\n•Changes \"time standard\" to \"time scale\" and clarifies
-    the use of UTC.\r\n•Replaces the term \"calibration\" with the more appropriate
-    term \"compensation\".\r\n•Adds new clause 8.3 on recovery from holdover.\r\n•Adds
-    new clause 9.1.1 on input phase and time interfaces.\r\n•Adds synchronous Ethernet
-    as an optional new input frequency interface.\r\n•Adds new Appendix VI on ePRTC
-    used as a travelling clock.\r\n•Adds material on \"UTC time signal source\" to
-    clause 5, Conventions.\r\n"
+  content: "Recommendation ITU-T G.8272.1 specifies the requirements for enhanced primary reference time clocks (ePRTCs) suitable for time and phase synchronization in packet networks. It defines the error allowed at the time output of the ePRTC. These requirements apply under the normal environmental conditions specified for the equipment.\r\nAmendment 1 to Recommendation ITU-T G.8272.1 (2024) provides the following updates:\r\n•Changes \"time standard\" to \"time scale\" and clarifies the use of UTC.\r\n•Replaces the term \"calibration\" with the more appropriate term \"compensation\".\r\n•Adds new clause 8.3 on recovery from holdover.\r\n•Adds new clause 9.1.1 on input phase and time interfaces.\r\n•Adds synchronous Ethernet as an optional new input frequency interface.\r\n•Adds new Appendix VI on ePRTC used as a travelling clock.\r\n•Adds material on \"UTC time signal source\" to clause 5, Conventions.\r\n"
 status:
   stage:
     content: Published

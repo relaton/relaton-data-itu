@@ -53,17 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the rapid development of Internet services, services like cloud-based
-    games that are highly sensitive to network quality have gradually gained an increasing
-    proportion. Small and micro enterprises require cost-effective dedicated network
-    access that delivers a secure, stable and efficient Internet environment tailored
-    to their specific operational demands. Functions related to subscriber service
-    level agreement (SLA) identification can be introduced in the virtual broadband
-    network gateway (vBNG) to address this issue. With acceleration strategies and
-    filtering policies, the vBNG can sort the traffic and provide differentiated tunnels
-    based on the subscriber's SLA. \r\nRecommendation ITU-T Q.3744 specifies scenarios,
-    architecture, requirements and signalling procedures for the subscriber SLA-based
-    vBNG.\r\n"
+  content: "With the rapid development of Internet services, services like cloud-based games that are highly sensitive to network quality have gradually gained an increasing proportion. Small and micro enterprises require cost-effective dedicated network access that delivers a secure, stable and efficient Internet environment tailored to their specific operational demands. Functions related to subscriber service level agreement (SLA) identification can be introduced in the virtual broadband network gateway (vBNG) to address this issue. With acceleration strategies and filtering policies, the vBNG can sort the traffic and provide differentiated tunnels based on the subscriber's SLA. \r\nRecommendation ITU-T Q.3744 specifies scenarios, architecture, requirements and signalling procedures for the subscriber SLA-based vBNG.\r\n"
 status:
   stage:
     content: Published
@@ -321,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -333,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

@@ -52,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.78 defines a package that allows bearer-level
-    application protocol (such as real time streaming protocol (RTSP) or message session
-    relay protocol (MSRP)) messages received by a media gateway (MG) to be communicated
-    to a media gateway controller (MGC). This allows the MGC to perform application-level
-    gateway functionality such as network address translation on the messages and
-    then forward the messages to the MG for sending to the destination.\r\nThis revision
-    incorporates an update to correctly refer to the \"Message Session Relay Protocol\".\r\n"
+  content: "Recommendation ITU-T H.248.78 defines a package that allows bearer-level application protocol (such as real time streaming protocol (RTSP) or message session relay protocol (MSRP)) messages received by a media gateway (MG) to be communicated to a media gateway controller (MGC). This allows the MGC to perform application-level gateway functionality such as network address translation on the messages and then forward the messages to the MG for sending to the destination.\r\nThis revision incorporates an update to correctly refer to the \"Message Session Relay Protocol\".\r\n"
 status:
   stage:
     content: Withdrawal

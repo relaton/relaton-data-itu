@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides for synchronisation and aggregation of multiple
-    channels of 64 kbit/s or 56 kbit/s, each being with or without octet integrity
-    and relative transmission delay in the range ± 1 second. It is applicable to a
-    wide range of user data transport up to 63 channels using ISO/IEC standard 13871,
-    but special provision is made for audiovisual systems according to Recommendation
-    H.221 [1], up to 24 channels; the aggregation may be network-based or associated
-    with Customer-Premises Equipment. The available operating modes (B1, B2, B3, H2)
-    provide options with/without transmission-management overhead and user-data rates
-    at/less-than the exact multiples of 64/56 kbit/s.\r\nThe number of aggregated
-    channels may be varied dynamically during a session. Procedures are given for
-    dealing with faults, including loss of channels and slip.\r\nCall control is not
-    covered in this Recommendation.\r\n"
+  content: "This Recommendation provides for synchronisation and aggregation of multiple channels of 64 kbit/s or 56 kbit/s, each being with or without octet integrity and relative transmission delay in the range ± 1 second. It is applicable to a wide range of user data transport up to 63 channels using ISO/IEC standard 13871, but special provision is made for audiovisual systems according to Recommendation H.221 [1], up to 24 channels; the aggregation may be network-based or associated with Customer-Premises Equipment. The available operating modes (B1, B2, B3, H2) provide options with/without transmission-management overhead and user-data rates at/less-than the exact multiples of 64/56 kbit/s.\r\nThe number of aggregated channels may be varied dynamically during a session. Procedures are given for dealing with faults, including loss of channels and slip.\r\nCall control is not covered in this Recommendation.\r\n"
 status:
   stage:
     content: Published

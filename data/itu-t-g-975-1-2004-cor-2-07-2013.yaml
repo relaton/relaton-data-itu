@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 2 to Recommendation ITU-T G.975.1 (2004) covers the following
-    functionalities:\r\n–\tCorrections to the minimal polynomials of clauses I.3.2.1
-    and I.3.2.2.\r\n–\tCorrections to Figure I.9 – BCH(3860,3824) frame format in
-    clause I.3.2.3.\r\n–\tCorrections to Figure I.11 – BCH(2040,1930) frame format
-    in clause I.3.2.3.\r\n–\tEditorial clarification of the BCH code length in clause
-    I.4\r\n"
+  content: "Corrigendum 2 to Recommendation ITU-T G.975.1 (2004) covers the following functionalities:\r\n–\tCorrections to the minimal polynomials of clauses I.3.2.1 and I.3.2.2.\r\n–\tCorrections to Figure I.9 – BCH(3860,3824) frame format in clause I.3.2.3.\r\n–\tCorrections to Figure I.11 – BCH(2040,1930) frame format in clause I.3.2.3.\r\n–\tEditorial clarification of the BCH code length in clause I.4\r\n"
 status:
   stage:
     content: Published

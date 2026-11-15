@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.997.2 specifies the physical layer management for
-    fast access to subscriber terminals (G.fast) transmission systems. It specifies
-    managed objects for configuration, fault, status, inventory and performance management.\r\nThe
-    2018 edition of this Recommendation integrates ITU-T G.997.2 (2015) and all its
-    amendments and corrigenda. It adds the following new technical material:\r\n–\tcorrection
-    on loss of power definition for reverse power feeding (RPF);\r\n–\tcorrection
-    to the special value of SNRps;\r\n–\tinclusion of managed objects for showtime
-    reconfiguration;\r\n–\tcorrection to the range of valid values of LOM_PERSISTENCYds/us;\r\n–\tinclusion
-    of managed objects CLASSMASKds/us.\r\nCorrigendum 1 includes:\r\n–\tcorrection
-    to the format of the test parameters objects.\r\n"
+  content: "Recommendation ITU-T G.997.2 specifies the physical layer management for fast access to subscriber terminals (G.fast) transmission systems. It specifies managed objects for configuration, fault, status, inventory and performance management.\r\nThe 2018 edition of this Recommendation integrates ITU-T G.997.2 (2015) and all its amendments and corrigenda. It adds the following new technical material:\r\n–\tcorrection on loss of power definition for reverse power feeding (RPF);\r\n–\tcorrection to the special value of SNRps;\r\n–\tinclusion of managed objects for showtime reconfiguration;\r\n–\tcorrection to the range of valid values of LOM_PERSISTENCYds/us;\r\n–\tinclusion of managed objects CLASSMASKds/us.\r\nCorrigendum 1 includes:\r\n–\tcorrection to the format of the test parameters objects.\r\n"
 status:
   stage:
     content: Published

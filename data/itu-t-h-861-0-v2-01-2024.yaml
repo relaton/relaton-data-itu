@@ -52,13 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.861.0 (V2) describes a conceptual ecosystem intended
+  content: 'Recommendation ITU-T H.861.0 (V2) describes a conceptual ecosystem intended
     to exchange brain data based on communication platform requirements and definitions.
     Starting from a background of brain data exchange in the context of e-health,
     a functional framework model for a multimedia brain information platform (MBI-PF)
     is outlined. This model is then developed into a set of communication platforms
     which enable not only experts but also non-experts to utilize brain data for monitoring
-    and maintaining health status of the brain.\r\n"
+    and maintaining health status of the brain.
+    '
 status:
   stage:
     content: Published

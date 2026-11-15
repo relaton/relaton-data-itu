@@ -52,11 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This recommendation provides architecture and mechanisms for shared ring
-    protection for MPLS transport profile (MPLS-TP) networks. It describes the MPLS-TP
-    Shared Ring Protection (MSRP) mechanisms and the Ring Protection Switch (RPS)
-    protocol. \r\n\r\nThe mechanisms defined herein protect point-to-point MPLS-TP
-    label switched paths (LSPs) against failures at the MPLS-TP section layer.\r\n"
+  content: "This recommendation provides architecture and mechanisms for shared ring protection for MPLS transport profile (MPLS-TP) networks. It describes the MPLS-TP Shared Ring Protection (MSRP) mechanisms and the Ring Protection Switch (RPS) protocol. \r\n\r\nThe mechanisms defined herein protect point-to-point MPLS-TP label switched paths (LSPs) against failures at the MPLS-TP section layer.\r\n"
 status:
   stage:
     content: Published

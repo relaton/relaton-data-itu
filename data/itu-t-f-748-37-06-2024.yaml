@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.37 specifies the requirements and framework
+  content: 'Recommendation ITU-T F.748.37 specifies the requirements and framework
     for a joint semantic query system of unstructured data across clusters, enabling
     efficient and rapid queries of unstructured data without changing the physical
-    location of the data.\r\n"
+    location of the data.
+    '
 status:
   stage:
     content: Published

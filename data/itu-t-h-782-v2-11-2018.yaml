@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.782 specifies the data elements and structures
-    of the metadata for digital signage services. The metadata describes information
-    for contents, terminal devices, play logs, playlist schedule, screen layout, etc.
-    The metadata is handled by a digital signage server, a digital signage client,
-    a content delivery server, and a content delivery client. It also specifies general
-    information flows to describe how the metadata are used in the digital signage
-    services.\r\n\r\nThis revision updates the data types of elements/attributes of
-    identifiers. This update aims to widen applicability of the specifications at
-    the price of easy extensible markup language (XML) validation.\r\n"
+  content: "Recommendation ITU-T H.782 specifies the data elements and structures of the metadata for digital signage services. The metadata describes information for contents, terminal devices, play logs, playlist schedule, screen layout, etc. The metadata is handled by a digital signage server, a digital signage client, a content delivery server, and a content delivery client. It also specifies general information flows to describe how the metadata are used in the digital signage services.\r\n\r\nThis revision updates the data types of elements/attributes of identifiers. This update aims to widen applicability of the specifications at the price of easy extensible markup language (XML) validation.\r\n"
 status:
   stage:
     content: Published

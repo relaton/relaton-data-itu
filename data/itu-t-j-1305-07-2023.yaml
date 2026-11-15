@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1305 specifies requirements for the architecture
+  content: 'Recommendation ITU-T J.1305 specifies requirements for the architecture
     and related components of audiovisual media based on microservice technologies.
     Recommendation ITU-T J.1305 applies to the design, development, construction,
     operation and maintenance of audiovisual media systems based on microservices.
@@ -68,7 +68,8 @@ abstract:
     services. From the perspective of microservice, Recommendation ITU-T J.1305 specifies
     the microservices architecture of integrated media based on container, virtual
     machine, cloud and other infrastructures to support the audiovisual media business
-    carried out by microservices on a variety of infrastructures.\r\n"
+    carried out by microservices on a variety of infrastructures.
+    '
 status:
   stage:
     content: Published

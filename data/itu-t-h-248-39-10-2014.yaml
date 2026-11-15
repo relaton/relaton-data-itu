@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.39 describes the principles used to identify
-    a single session description protocol (SDP) sub-field and how to apply wildcarding
-    to that sub-field. The sub-field may be fully specified, wildcarded (CHOOSE \"$\"
-    or ALL \"*\") or not significant \"-\". Being able to identify a single sub-field
-    is of use when requesting the media gateway (MG) to choose a parameter, specifying
-    a range or for the purposes of auditing. Further specification of how SDP can
-    be wildcarded will assist in interoperation between a media gateway controller
-    (MGC) and an MG.\r\nThis revision incorporates guidelines for the wildcarding
-    of source-specific media attributes. It also includes a package to indicate MG
-    support for advanced wildcarding procedures that allow a MGC to request multiple
-    SDP parameter values and/or multiple SDP lines to be returned in response to a
-    CHOOSE request. Additionally, it allows the linking of multiple CHOOSE wildcards
-    so that they return the same value. Furthermore, a new maintain value wildcard
-    is introduced to allow the retention of a previously set value to avoid repetition
-    of redundant information."
+  content: "Recommendation ITU-T H.248.39 describes the principles used to identify a single session description protocol (SDP) sub-field and how to apply wildcarding to that sub-field. The sub-field may be fully specified, wildcarded (CHOOSE \"$\" or ALL \"*\") or not significant \"-\". Being able to identify a single sub-field is of use when requesting the media gateway (MG) to choose a parameter, specifying a range or for the purposes of auditing. Further specification of how SDP can be wildcarded will assist in interoperation between a media gateway controller (MGC) and an MG.\r\nThis revision incorporates guidelines for the wildcarding of source-specific media attributes. It also includes a package to indicate MG support for advanced wildcarding procedures that allow a MGC to request multiple SDP parameter values and/or multiple SDP lines to be returned in response to a CHOOSE request. Additionally, it allows the linking of multiple CHOOSE wildcards so that they return the same value. Furthermore, a new maintain value wildcard is introduced to allow the retention of a previously set value to avoid repetition of redundant information."
 status:
   stage:
     content: Published

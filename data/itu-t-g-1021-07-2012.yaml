@@ -52,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.1021 defines buffer models that describe the behaviour
-    of the client buffers used at the receiver side of audio/video applications. \r\nBuffer
-    models receive as input IP packets associated with meta information on their content
-    and provide as output client states associated with relevant timing information.\r\nThe
-    buffer models are intended to be used for the development of client performance
-    metrics in order to complement the IP-layer metrics defined in Recommendation
-    ITU-T Y.1540.\r\n"
+  content: "Recommendation ITU-T G.1021 defines buffer models that describe the behaviour of the client buffers used at the receiver side of audio/video applications. \r\nBuffer models receive as input IP packets associated with meta information on their content and provide as output client states associated with relevant timing information.\r\nThe buffer models are intended to be used for the development of client performance metrics in order to complement the IP-layer metrics defined in Recommendation ITU-T Y.1540.\r\n"
 status:
   stage:
     content: Published

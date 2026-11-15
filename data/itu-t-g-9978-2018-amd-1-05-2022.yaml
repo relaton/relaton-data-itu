@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9978 specifies the various secure admission methods
-    for a node to enter a G.hn domain, including media access control (MAC) authorization-based
-    secure admission, generic pairing, auto-pairing and passphrase-based secure admission.
-    This latest revision includes new use cases.\r\nAmendment 1 adds support for native
-    authentication and external authentication, as specified in Recommendation ITU-T
-    G.9961.\r\n"
+  content: "Recommendation ITU-T G.9978 specifies the various secure admission methods for a node to enter a G.hn domain, including media access control (MAC) authorization-based secure admission, generic pairing, auto-pairing and passphrase-based secure admission. This latest revision includes new use cases.\r\nAmendment 1 adds support for native authentication and external authentication, as specified in Recommendation ITU-T G.9961.\r\n"
 status:
   stage:
     content: Published

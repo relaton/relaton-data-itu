@@ -53,36 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation covers the technical requirements for narrow-band
-    visual telephone services defined in H.200 and F.720-series Recommendations, in
-    those situations where the transmission path includes one or more packet-based
-    networks, each of which is configured and managed to provide a non-guaranteed
-    Quality of Service (QoS) which is not equivalent to that of N-ISDN, such that
-    additional protection or recovery mechanisms beyond those mandated by ITU-T Rec.
-    H.320 need be provided in the terminals. It is noted that ITU-T Rec. H.322 addresses
-    the use of some other LANs which are able to provide the underlying performance
-    not assumed by the ITU-T Recs H.323 and H.225.0.\r\nThis Recommendation describes
-    how audio, video, data, and control information on a packet-based network can
-    be managed to provide conversational services in H.323 equipment.\r\nProducts
-    claiming compliance with Version 6 of H.225.0 (this version) shall comply with
-    all of the mandatory requirements of this Recommendation. Version 6 products can
-    be identified by H.225.0 messages containing a protocolIdentifier value of {itu-t
-    (0) recommendation (0) h (8) 2250 version (0) 6}.\r\nThis revision brings the
-    following features:\r\n1)\tExtension to H.225.0 AliasAddress to support digit
-    codes 10 to 14.\r\n2)\tAdded the capability of a gatekeeper to assign an E.164
-    alias to an endpoint that does not register any by itself.\r\n3)\tAdded no-bandwidth
-    error code in H.225.0 AdmissionRejectReason.\r\n4)\tASN.1 and text changes required
-    for Assigned Gatekeeper procedures.\r\n5)\tChanges to Clause 7.5 to add the requirement
-    to re-start T310 timer when a PI value of 1 or 8 is received.\r\n6)\tChanges to
-    H.225.0 ASN to take care of H.361 changes.\r\n7)\tChanges to ASN.1 definition
-    and text to address the addition of 'language' field in LRQ and RRQ structures
-    for new Rec. H.460.21 (ex H.460.MB).\r\n8)\tCorrected a spelling mistake in the
-    comments for unallocatedNumber in ASN.1 specification.\r\nThis revision also clarifies
-    text or corrects errors previously identified in Implementors' Guides: added mapping
-    tables for LocationRejectReason/AdmissionRejectReason and AccessRejectionReason/AdmissionRejectReason,
-    clarified the description of the insertion of additionalSourceAddresses by a gatekeeper,
-    and the text on the use of Facility message to carry h245Address, and corrected
-    text describing length of UUIE field."
+  content: "This Recommendation covers the technical requirements for narrow-band visual telephone services defined in H.200 and F.720-series Recommendations, in those situations where the transmission path includes one or more packet-based networks, each of which is configured and managed to provide a non-guaranteed Quality of Service (QoS) which is not equivalent to that of N-ISDN, such that additional protection or recovery mechanisms beyond those mandated by ITU-T Rec. H.320 need be provided in the terminals. It is noted that ITU-T Rec. H.322 addresses the use of some other LANs which are able to provide the underlying performance not assumed by the ITU-T Recs H.323 and H.225.0.\r\nThis Recommendation describes how audio, video, data, and control information on a packet-based network can be managed to provide conversational services in H.323 equipment.\r\nProducts claiming compliance with Version 6 of H.225.0 (this version) shall comply with all of the mandatory requirements of this Recommendation. Version 6 products can be identified by H.225.0 messages containing a protocolIdentifier value of {itu-t (0) recommendation (0) h (8) 2250 version (0) 6}.\r\nThis revision brings the following features:\r\n1)\tExtension to H.225.0 AliasAddress to support digit codes 10 to 14.\r\n2)\tAdded the capability of a gatekeeper to assign an E.164 alias to an endpoint that does not register any by itself.\r\n3)\tAdded no-bandwidth error code in H.225.0 AdmissionRejectReason.\r\n4)\tASN.1 and text changes required for Assigned Gatekeeper procedures.\r\n5)\tChanges to Clause 7.5 to add the requirement to re-start T310 timer when a PI value of 1 or 8 is received.\r\n6)\tChanges to H.225.0 ASN to take care of H.361 changes.\r\n7)\tChanges to ASN.1 definition and text to address the addition of 'language' field in LRQ and RRQ structures for new Rec. H.460.21 (ex H.460.MB).\r\n8)\tCorrected a spelling mistake in the comments for unallocatedNumber in ASN.1 specification.\r\nThis revision also clarifies text or corrects errors previously identified in Implementors' Guides: added mapping tables for LocationRejectReason/AdmissionRejectReason and AccessRejectionReason/AdmissionRejectReason, clarified the description of the insertion of additionalSourceAddresses by a gatekeeper, and the text on the use of Facility message to carry h245Address, and corrected text describing length of UUIE field."
 status:
   stage:
     content: Withdrawal

@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides guidelines for interworking the Media Resource
-    Control Protocol version 2 [IETF RFC 6787] to the H.248 sub-series of Recommendations.
-    Packages are defined to support functionality required by MRCP but not already
-    supported by the H.248 sub-series of Recommendations.\r\n\r\nThis new functionality
-    includes:\r\n\r\n–               A Package to detect the start of media inputs
-    when recording is specified.\r\n\r\n–               A Package to enable the MGC
-    to trim a period of time off the end of a recorded media file.\r\n\r\n–               A
-    Package that enables a MGC to control the sensitivity associated with a recording.\r\n\r\n–
-    \              An Enhanced Automatic Speech Recognition (ASR) Package to enables
-    the \"Confidence Threshold\", \"N Best List\" and the \"Input Waveform URI\" to
-    be specified.\r\n\r\n–               An Enhanced TTS Package to enable the \"Play
-    Offset\" and \"Play Length\" to be specified.\r\n\r\n–               A Play Offset
-    Control Package to enable the MGC to offset an already playing signal.\r\n"
+  content: "This Recommendation provides guidelines for interworking the Media Resource Control Protocol version 2 [IETF RFC 6787] to the H.248 sub-series of Recommendations. Packages are defined to support functionality required by MRCP but not already supported by the H.248 sub-series of Recommendations.\r\n\r\nThis new functionality includes:\r\n\r\n–               A Package to detect the start of media inputs when recording is specified.\r\n\r\n–               A Package to enable the MGC to trim a period of time off the end of a recorded media file.\r\n\r\n–               A Package that enables a MGC to control the sensitivity associated with a recording.\r\n\r\n–               An Enhanced Automatic Speech Recognition (ASR) Package to enables the \"Confidence Threshold\", \"N Best List\" and the \"Input Waveform URI\" to be specified.\r\n\r\n–               An Enhanced TTS Package to enable the \"Play Offset\" and \"Play Length\" to be specified.\r\n\r\n–               A Play Offset Control Package to enable the MGC to offset an already playing signal.\r\n"
 status:
   stage:
     content: Published

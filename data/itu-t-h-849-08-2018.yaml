@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.849 provides a test suite structure (TSS) and the
-    test purposes (TP) for the transcoding by personal health devices in the Personal
-    Health Devices (PHD) interface of application-level data between the Bluetooth
-    Low Energy Bluetooth Generic Attribute Profile format and the IEEE 11073-20601
-    data format, based on the requirements defined in the Recommendations of the ITU-T
-    H.810 sub-series, of which Recommendation ITU‑T H.810 (2017) is the base Recommendation.
-    The objective of this test specification is to provide a high probability of interoperability
-    at this interface.\r\n\r\nRecommendation ITU-T H.849 is a transposition o_usf
-    Continua Test Tool DG2016, Test Suite Structure & Test Purposes, Personal Health
-    Devices Interface; Part 9: PHD Transcoding Whitepaper. Personal Health Device
-    BLE (Version 1.6, 2016-09-20), that was developed by the Personal Connected Health
-    Alliance. A number of versions of this specification existed before transposition.\r\n\r\nThis
-    Recommendation includes an electronic attachment with the protocol implementation
-    conformance statements (PICS) and the protocol implementation extra information
-    for testing (PIXIT) required for the implementation of Annex A.\r\n"
+  content: "Recommendation ITU-T H.849 provides a test suite structure (TSS) and the test purposes (TP) for the transcoding by personal health devices in the Personal Health Devices (PHD) interface of application-level data between the Bluetooth Low Energy Bluetooth Generic Attribute Profile format and the IEEE 11073-20601 data format, based on the requirements defined in the Recommendations of the ITU-T H.810 sub-series, of which Recommendation ITU‑T H.810 (2017) is the base Recommendation. The objective of this test specification is to provide a high probability of interoperability at this interface.\r\n\r\nRecommendation ITU-T H.849 is a transposition o_usf Continua Test Tool DG2016, Test Suite Structure & Test Purposes, Personal Health Devices Interface; Part 9: PHD Transcoding Whitepaper. Personal Health Device BLE (Version 1.6, 2016-09-20), that was developed by the Personal Connected Health Alliance. A number of versions of this specification existed before transposition.\r\n\r\nThis Recommendation includes an electronic attachment with the protocol implementation conformance statements (PICS) and the protocol implementation extra information for testing (PIXIT) required for the implementation of Annex A.\r\n"
 status:
   stage:
     content: Withdrawal

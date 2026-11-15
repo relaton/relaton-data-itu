@@ -47,23 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This amendment contains extensions to the fifth edition (06/2016) of Recommendation
-    ITU T G.709/Y.1331, related to the:\r\n–\tAddition of paragraph that describes
-    that ITU-T G.798 complements ITU-T G.709 (1)\r\n–\tAddition of references to Recommendation
-    ITU-T G.8260 (2)\r\n–\tAddition of definitions and conventions that have been
-    included in the past in ITU-T G.870 (3, 5)\r\n–\tDeletion and addition of abbreviations
-    (4) \r\n–\tAddition of a sentence that describes that 3R regeneration is used
-    on both sides of an interface interconnecting user and provider administrations
-    and two provider administrations (6) \r\n–\tCorrections to the STU, MOTU, SOTUm
-    and MOTUm descriptions (8.1, 8.2, 8.3, 8.4)\r\n–\tAddition of a note describing
-    a vendor specific mode in the GCC0 communication channel deployment (15.7.2.2)\r\n–\tDeletion
-    of OTUCn OSMC (15, 15.7.1, 15.7.2.4, 15.7.2.4.1.2)\r\n–\tDeletion of reference
-    to concatenation (15.9.2)\r\n–\tAligning the OPUk/OPUflex clock performance requirement
-    in case of BMP based client mapping with ITU-T G.8251 and ITU-T G.798 (17.2, 17.19,
-    17.12)\r\n–\tClarify the 2-bit alignment when mapping 66-bit blocks into the OPUflex
-    payload area (17.11, 17.12)\r\n–\tChanging the minimum number of FlexE signals
-    in a FlexE aware mapping into an OPUflex (17.12)\r\n–\tAddition of 25GE client
-    signal (2, 15.9.2.1.1, 17.13, 17.13.1)\r\n–\tDeletion of ODUCn HAO reference (20.4.3.1)."
+  content: "This amendment contains extensions to the fifth edition (06/2016) of Recommendation ITU T G.709/Y.1331, related to the:\r\n–\tAddition of paragraph that describes that ITU-T G.798 complements ITU-T G.709 (1)\r\n–\tAddition of references to Recommendation ITU-T G.8260 (2)\r\n–\tAddition of definitions and conventions that have been included in the past in ITU-T G.870 (3, 5)\r\n–\tDeletion and addition of abbreviations (4) \r\n–\tAddition of a sentence that describes that 3R regeneration is used on both sides of an interface interconnecting user and provider administrations and two provider administrations (6) \r\n–\tCorrections to the STU, MOTU, SOTUm and MOTUm descriptions (8.1, 8.2, 8.3, 8.4)\r\n–\tAddition of a note describing a vendor specific mode in the GCC0 communication channel deployment (15.7.2.2)\r\n–\tDeletion of OTUCn OSMC (15, 15.7.1, 15.7.2.4, 15.7.2.4.1.2)\r\n–\tDeletion of reference to concatenation (15.9.2)\r\n–\tAligning the OPUk/OPUflex clock performance requirement in case of BMP based client mapping with ITU-T G.8251 and ITU-T G.798 (17.2, 17.19, 17.12)\r\n–\tClarify the 2-bit alignment when mapping 66-bit blocks into the OPUflex payload area (17.11, 17.12)\r\n–\tChanging the minimum number of FlexE signals in a FlexE aware mapping into an OPUflex (17.12)\r\n–\tAddition of 25GE client signal (2, 15.9.2.1.1, 17.13, 17.13.1)\r\n–\tDeletion of ODUCn HAO reference (20.4.3.1)."
 status:
   stage:
     content: Withdrawal

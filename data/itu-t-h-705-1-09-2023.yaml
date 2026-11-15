@@ -53,20 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.705.1 describes a layered architecture of Internet
-    protocol television (IPTV) service platform intended to provide open service capabilities
-    for diversified IPTV services. In comparison with the high-level IPTV functional
-    architecture defined in Recommendation ITU-T Y.1910, the layered architecture
-    decouples service logic from data resources and decomposes the functions of the
-    IPTV service platform into more granular modules. This Recommendation specifies
-    the fine-grained functional modules and reference points, by considering the aspects
-    of service offering and operational management. It also defines typical procedural
-    flows on content preparation, service presentation and content consumption in
-    appendices.\r\nThis Recommendation provides a reference for IPTV service providers
-    to construct the open platform of IPTV services and enables automatic deployment
-    and fast iteration of multimedia applications in the platform. It is of benefit
-    in promoting the service capability of IPTV and further enhances user experience
-    on using diversified IPTV services.\r\n"
+  content: "Recommendation ITU-T H.705.1 describes a layered architecture of Internet protocol television (IPTV) service platform intended to provide open service capabilities for diversified IPTV services. In comparison with the high-level IPTV functional architecture defined in Recommendation ITU-T Y.1910, the layered architecture decouples service logic from data resources and decomposes the functions of the IPTV service platform into more granular modules. This Recommendation specifies the fine-grained functional modules and reference points, by considering the aspects of service offering and operational management. It also defines typical procedural flows on content preparation, service presentation and content consumption in appendices.\r\nThis Recommendation provides a reference for IPTV service providers to construct the open platform of IPTV services and enables automatic deployment and fast iteration of multimedia applications in the platform. It is of benefit in promoting the service capability of IPTV and further enhances user experience on using diversified IPTV services.\r\n"
 status:
   stage:
     content: Published

@@ -50,19 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.761 gives the specification of the nested context
-    language (NCL) and of an NCL presentation engine called Ginga-NCL to provide interoperability
-    and harmonization among IPTV multimedia application frameworks.\r\n\r\nNCL is
-    a glue language that holds media objects together in multimedia presentations,
-    no matter which object types they are. As an example, NCL treats an HTML document
-    as one of its possible media objects. In this way, NCL does not substitute, but
-    embed, XHTML-based documents. The same reasoning applies to other media content
-    and multimedia content objects, and also to objects with content coded in any
-    computer language. Ginga-NCL is an NCL presentation engine built as a component
-    of a DTV middleware. A very special NCL object type defined in Ginga-NCL is NCLua,
-    an imperative media-object with Lua code. \r\n\r\nThis Recommendation includes
-    an electronic attachment containing NCL 3.0 module schemas used in the Enhanced
-    DTV profile."
+  content: "Recommendation ITU-T H.761 gives the specification of the nested context language (NCL) and of an NCL presentation engine called Ginga-NCL to provide interoperability and harmonization among IPTV multimedia application frameworks.\r\n\r\nNCL is a glue language that holds media objects together in multimedia presentations, no matter which object types they are. As an example, NCL treats an HTML document as one of its possible media objects. In this way, NCL does not substitute, but embed, XHTML-based documents. The same reasoning applies to other media content and multimedia content objects, and also to objects with content coded in any computer language. Ginga-NCL is an NCL presentation engine built as a component of a DTV middleware. A very special NCL object type defined in Ginga-NCL is NCLua, an imperative media-object with Lua code. \r\n\r\nThis Recommendation includes an electronic attachment containing NCL 3.0 module schemas used in the Enhanced DTV profile."
 status:
   stage:
     content: Withdrawal

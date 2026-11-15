@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.798 specifies both the components and the methodology
-    that should be used in order to specify the optical transport network (OTN) functionality
-    of network elements; it does not specify individual optical transport network
-    equipment.\r\n\r\nEdition 6.0 of this Recommendation includes the text of Amendments
-    1, 2 and 3, as well as Corrigendum 1 to Edition 5.0 of this Recommendation, addition
-    of Beyond 100 Gbit/s OTU and ODU functions and optical layer terminology updates.
-    Edition 6.0 furthermore deleted the ODU virtual concatenation functions and the
-    ODUkP to ATM adaptation function and removed the processing of the TCM ACT and
-    FTFL overhead bytes.\r\n"
+  content: "Recommendation ITU-T G.798 specifies both the components and the methodology that should be used in order to specify the optical transport network (OTN) functionality of network elements; it does not specify individual optical transport network equipment.\r\n\r\nEdition 6.0 of this Recommendation includes the text of Amendments 1, 2 and 3, as well as Corrigendum 1 to Edition 5.0 of this Recommendation, addition of Beyond 100 Gbit/s OTU and ODU functions and optical layer terminology updates. Edition 6.0 furthermore deleted the ODU virtual concatenation functions and the ODUkP to ATM adaptation function and removed the processing of the TCM ACT and FTFL overhead bytes.\r\n"
 status:
   stage:
     content: Withdrawal

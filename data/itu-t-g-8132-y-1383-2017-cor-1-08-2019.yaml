@@ -47,13 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8132/Y.1383 provides architecture and mechanisms
-    for shared ring protection for multi-protocol label switching-transport profile
-    (MPLS-TP) networks. It describes the MPLS-TP shared ring protection (MSRP) mechanisms
-    and the ring protection switch (RPS) protocol.\r\n\r\nThe mechanisms defined herein
-    protect point-to-point MPLS-TP label switched paths (LSPs) against failures at
-    the MPLS-TP section layer.\r\n\r\nCorrigendum 1 provides updates to align with
-    the changes made in Recommendation ITU-T G.808.2."
+  content: "Recommendation ITU-T G.8132/Y.1383 provides architecture and mechanisms for shared ring protection for multi-protocol label switching-transport profile (MPLS-TP) networks. It describes the MPLS-TP shared ring protection (MSRP) mechanisms and the ring protection switch (RPS) protocol.\r\n\r\nThe mechanisms defined herein protect point-to-point MPLS-TP label switched paths (LSPs) against failures at the MPLS-TP section layer.\r\n\r\nCorrigendum 1 provides updates to align with the changes made in Recommendation ITU-T G.808.2."
 status:
   stage:
     content: Published

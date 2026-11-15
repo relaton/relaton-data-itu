@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.766 specifies Lua as one of the standard multimedia
-    application frameworks for Internet protocol television (IPTV) services. Lua is
-    an extension programming language designed to support general procedural programming
-    with data description facilities. Lua is the scripting language for the Ginga-nested
-    context language (Ginga-NCL) in Recommendation ITU-T H.761. The Lua engine is
-    distributed as free software under the MIT licence.\r\nLua for IPTV services is
-    structured in two sets of application programming interfaces (APIs). The Lua IPTV
-    core API is a basic, mandatory API that conforms with Ginga-NCL in Recommendation
-    ITU-T H.761. The Lua IPTV extended API includes enhanced functionality that a
-    Lua implementation is recommended to support. Recommendation ITU-T H.766 specifies
-    the Lua IPTV core API and the Lua IPTV extended API. Recommendation ITU-T H.766
-    includes an annex with a reference manual for Lua 5.1 as well as an appendix with
-    sample Lua code that implements a simple health application.\r\n"
+  content: "Recommendation ITU-T H.766 specifies Lua as one of the standard multimedia application frameworks for Internet protocol television (IPTV) services. Lua is an extension programming language designed to support general procedural programming with data description facilities. Lua is the scripting language for the Ginga-nested context language (Ginga-NCL) in Recommendation ITU-T H.761. The Lua engine is distributed as free software under the MIT licence.\r\nLua for IPTV services is structured in two sets of application programming interfaces (APIs). The Lua IPTV core API is a basic, mandatory API that conforms with Ginga-NCL in Recommendation ITU-T H.761. The Lua IPTV extended API includes enhanced functionality that a Lua implementation is recommended to support. Recommendation ITU-T H.766 specifies the Lua IPTV core API and the Lua IPTV extended API. Recommendation ITU-T H.766 includes an annex with a reference manual for Lua 5.1 as well as an appendix with sample Lua code that implements a simple health application.\r\n"
 status:
   stage:
     content: Published

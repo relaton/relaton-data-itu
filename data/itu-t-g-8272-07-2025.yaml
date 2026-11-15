@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8272 specifies the requirements for primary reference
-    time clocks (PRTCs) suitable for time, phase and frequency synchronization in
-    packet networks. It defines the error allowed at the time output of the PRTC.
-    These requirements apply under the normal environmental conditions specified for
-    the equipment.\r\nThis edition of the Recommendation provides the following updates:\r\n•Changed
-    \"time standard\" to \"time scale\" and clarified the use of UTC.\r\n•Replaced
-    the term \"calibration\" with the more appropriate term \"compensation\".\r\n•Modification
-    to scope.\r\n•New text added under clause 7 \"Holdover\".\r\n•Modifications to
-    Appendix III.\r\n"
+  content: "Recommendation ITU-T G.8272 specifies the requirements for primary reference time clocks (PRTCs) suitable for time, phase and frequency synchronization in packet networks. It defines the error allowed at the time output of the PRTC. These requirements apply under the normal environmental conditions specified for the equipment.\r\nThis edition of the Recommendation provides the following updates:\r\n•Changed \"time standard\" to \"time scale\" and clarified the use of UTC.\r\n•Replaced the term \"calibration\" with the more appropriate term \"compensation\".\r\n•Modification to scope.\r\n•New text added under clause 7 \"Holdover\".\r\n•Modifications to Appendix III.\r\n"
 status:
   stage:
     content: Published

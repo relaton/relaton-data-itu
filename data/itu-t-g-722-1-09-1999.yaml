@@ -51,14 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes a low complexity encoder and decoder that
-    may be used for 7 kHz bandwidth audio signals working at 24 kbit/s or 32 kbit/s.
-    Further, this algorithm is recommended for use in hands-free applications such
-    as conferencing where there is a low probability of frame loss. It may be used
-    with speech or music inputs. The bit rate may be changed at any 20 ms frame boundary.\r\nThis
-    Recommendation includes a software package which contains the encoder and decoder
-    source code and a set of test vectors for developers. These vectors are a tool
-    providing an indication of success in implementing this code.\r\n"
+  content: "This Recommendation describes a low complexity encoder and decoder that may be used for 7 kHz bandwidth audio signals working at 24 kbit/s or 32 kbit/s. Further, this algorithm is recommended for use in hands-free applications such as conferencing where there is a low probability of frame loss. It may be used with speech or music inputs. The bit rate may be changed at any 20 ms frame boundary.\r\nThis Recommendation includes a software package which contains the encoder and decoder source code and a set of test vectors for developers. These vectors are a tool providing an indication of success in implementing this code.\r\n"
 status:
   stage:
     content: Withdrawal

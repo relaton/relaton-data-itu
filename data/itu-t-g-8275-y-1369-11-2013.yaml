@@ -52,10 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275/Y.1369 describes the architecture and requirements
-    for packet\x1Ebased time and phase distribution in telecom networks. The architecture
-    described is mainly applicable to the use of IEEE 1588. Details necessary to utilize
-    IEEE 1588 in a manner consistent with the architecture are defined in other Recommendations."
+  content: Recommendation ITU-T G.8275/Y.1369 describes the architecture and requirements
+    for packetbased time and phase distribution in telecom networks. The architecture
+    described is mainly applicable to the use of IEEE 1588. Details necessary to
+    utilize IEEE 1588 in a manner consistent with the architecture are defined in
+    other Recommendations.
 status:
   stage:
     content: Withdrawal

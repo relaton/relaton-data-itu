@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.751.20 specifies the reference architecture for
+  content: 'Recommendation ITU-T F.751.20 specifies the reference architecture for
     distributed ledger technology (DLT)-based multimedia data delivery management
     systems including three subsystems and the related high-level requirements to
     solve the problems of quality assurance and trusted sharing of multimedia data,
     support the construction of a traceable value and revenue distribution system,
-    and the corresponding multimedia data applications and services.\r\n"
+    and the corresponding multimedia data applications and services.
+    '
 status:
   stage:
     content: Published

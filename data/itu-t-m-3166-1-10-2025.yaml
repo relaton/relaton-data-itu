@@ -52,9 +52,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3166.1 proposes the protocol-neutral requirements
+  content: 'Recommendation ITU-T M.3166.1 proposes the protocol-neutral requirements
     for the management interface between a blockchain management system and blockchain
-    systems. It defines the interface's position and specifies management requirements
+    systems. It defines the interface''s position and specifies management requirements
     across key functional areas, including configuration management, performance management,
     fault management, and log management. This Recommendation aims to standardize
     the design, development, and application of blockchain system management interfaces
@@ -64,7 +64,8 @@ abstract:
     use cases, definitions, and references to existing ITU-T Recommendations, ensuring
     alignment with broader telecommunications management standards. This series of
     Recommendations is intended to enhance the stability, transparency, and interoperability
-    of blockchain systems in diverse applications.\r\n"
+    of blockchain systems in diverse applications.
+    '
 status:
   stage:
     content: Published

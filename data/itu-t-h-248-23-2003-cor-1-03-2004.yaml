@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "ITU-T Rec. H.248.23 defines two packages that provide enhanced alerting
-    and data transfer capabilities for H.248. This corrigendum corrects the following
-    aspects:\r• Erroneous checksum in examples;\r• Endian encoding reference."
+  content: "ITU-T Rec. H.248.23 defines two packages that provide enhanced alerting and data transfer capabilities for H.248. This corrigendum corrects the following aspects:\r• Erroneous checksum in examples;\r• Endian encoding reference."
 status:
   stage:
     content: Withdrawal

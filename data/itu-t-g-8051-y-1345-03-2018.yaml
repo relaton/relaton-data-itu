@@ -52,32 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8051/Y.1345 addresses management aspects of the
-    Ethernet transport network element containing transport functions of one or more
-    of the layer networks of the Ethernet transport network. The management of the
-    Ethernet layer networks is separable from that of its client layer networks so
-    that the same means of management can be used regardless of the client. The management
-    functions for fault management, configuration management, performance monitoring,
-    and security management are specified.\r\n\r\nThe 2009 Revision of this Recommendation
-    has added the management of additional transport functions that have been introduced
-    in the 2009 Revision of Recommendation ITU‑T G.8021/Y.1341.\r\n\r\nThe 2013 Revision
-    of this Recommendation has added the management of additional functions, including:
-    CSF; proactive loss measurement using LMM/LMR; proactive delay measurement using
-    DMM/DMR and 1DM; synthetic loss measurement using SLM/SLR and 1SL (proactive and
-    on-demand); PM requirements on PDU generation type, Message period, Measurement
-    interval, Repetition period, Start time, Stop time and Session duration; and PM
-    data collection requirements.\r\n\r\nThe 2015 Revision of this Recommendation
-    has updated the management information (MI) signals for the ETHx_FT function in
-    clause 8.5, the MI signals for the ETHx/MCC function in clause 8.6, the one-way
-    synthetic loss measurement (1SL) MI signal for the ETHDe_FT_Sk function in clause
-    8.8, and the on-demand and proactive loss measurement requirements in clause 10.2.The
-    2018 Revision of this Recommendation has updated the fault cause persistency function
-    at ETH-C function for ring protection, the configuration management for protection
-    switching and connection functions. And, in align with ITU‑T G.8021/Y.1341, this
-    revision has removed both fault management functions and the management information
-    (MI) signals that are related to ETYn_TT, ODUkP-X-L/MT_A, and ETYn/ETH_A. This
-    revision has also removed theMI signals to activate processes in Adaptation functions
-    (i.e. MI_Active).\r\n"
+  content: "Recommendation ITU-T G.8051/Y.1345 addresses management aspects of the Ethernet transport network element containing transport functions of one or more of the layer networks of the Ethernet transport network. The management of the Ethernet layer networks is separable from that of its client layer networks so that the same means of management can be used regardless of the client. The management functions for fault management, configuration management, performance monitoring, and security management are specified.\r\n\r\nThe 2009 Revision of this Recommendation has added the management of additional transport functions that have been introduced in the 2009 Revision of Recommendation ITU‑T G.8021/Y.1341.\r\n\r\nThe 2013 Revision of this Recommendation has added the management of additional functions, including: CSF; proactive loss measurement using LMM/LMR; proactive delay measurement using DMM/DMR and 1DM; synthetic loss measurement using SLM/SLR and 1SL (proactive and on-demand); PM requirements on PDU generation type, Message period, Measurement interval, Repetition period, Start time, Stop time and Session duration; and PM data collection requirements.\r\n\r\nThe 2015 Revision of this Recommendation has updated the management information (MI) signals for the ETHx_FT function in clause 8.5, the MI signals for the ETHx/MCC function in clause 8.6, the one-way synthetic loss measurement (1SL) MI signal for the ETHDe_FT_Sk function in clause 8.8, and the on-demand and proactive loss measurement requirements in clause 10.2.The 2018 Revision of this Recommendation has updated the fault cause persistency function at ETH-C function for ring protection, the configuration management for protection switching and connection functions. And, in align with ITU‑T G.8021/Y.1341, this revision has removed both fault management functions and the management information (MI) signals that are related to ETYn_TT, ODUkP-X-L/MT_A, and ETYn/ETH_A. This revision has also removed theMI signals to activate processes in Adaptation functions (i.e. MI_Active).\r\n"
 status:
   stage:
     content: Withdrawal

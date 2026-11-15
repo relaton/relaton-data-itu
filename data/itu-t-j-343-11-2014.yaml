@@ -52,12 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.343 specifies objective video quality measurement
+  content: 'Recommendation ITU-T J.343 specifies objective video quality measurement
     methods which use bitstream data in addition to processed video sequences. From
     bitstream data, the models can obtain additional information on the codec type,
     bit rate, frame rate, some transmission errors and spatial/temporal shifts. Consequently,
     such models may provide improved performance compared to objective video quality
-    models, which use only processed video sequences.\r\n"
+    models, which use only processed video sequences.
+    '
 status:
   stage:
     content: Published

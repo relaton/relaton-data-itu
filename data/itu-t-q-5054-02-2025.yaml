@@ -53,42 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.5054 provides a consumer-centric framework through
-    a unified platform considering possible scenarios and a multipronged approach
-    for combating counterfeit and stolen mobile telecommunication/ICT devices.\r\nThis
-    Recommendation builds upon Recommendation ITU-T Q.5050, which offers a reference
-    framework with high-level challenges and requirements that should be considered
-    when deploying solutions to combat the circulation and use of counterfeit information
-    and communication technology (ICT) devices. Furthermore, Recommendation ITU-T
-    Q.5051 presents a 'Framework for combating the use of stolen mobile devices'.
-    It also defines possible communication channels and consumer interfaces with platform,
-    indicative query and response formats including approaches for consumer education
-    and awareness. The Recommendation also covers key features of the platform, key
-    security considerations, implementation scenarios and possible technical challenges
-    related inter alia to vendor agnostic interfaces, mobile equipment bulk verification,
-    dealing with devices with replicated unique identifiers and the reporting and
-    handling of stolen or lost mobile telecommunication/ICT devices and their restoration
-    upon recovery.\r\nWith the rapid growth in the reach of the Internet and accelerated
-    adoption and usage of ICT during the COVID-19 pandemic, the circulation and use
-    of counterfeit ICT devices has increased considerably. According to an OECD report
-    published in 2017, at that time already nearly one in five mobile phones shipped
-    internationally was fake or counterfeit. The growing trade in counterfeit IT and
-    communications hardware burdens on consumers, manufacturers and public finances.\r\nA
-    counterfeit ICT device is a product that explicitly infringes the trademarks,
-    copies hardware or software designs, or infringes brand or packaging rights of
-    an original or authentic product and, in general, infringes applicable national
-    and/or international technical standards, regulatory requirements or conformity
-    processes, manufacturing licensing agreements or other applicable policy requirements.
-    Major mobile telecommunication/ICT devices include inter alia smartphones, tablets,
-    IoT devices, wearables, modems, dongles and wireless local area network (WLAN)
-    routers with cellular network connectivity. In addition to counterfeit mobile
-    telecommunication/ICT devices, the use of stolen devices in mobile network also
-    poses a serious security and law and order problem.\r\nThe unchecked proliferation
-    of counterfeit and stolen mobile telecommunication/ICT devices in public land
-    mobile networks (PLMNs) poses a serious challenge to regulators, law enforcement
-    agencies (LEA) and end consumers and adversely affects the economy in general.
-    The supply and demand economics of counterfeit and stolen devices complicate attempts
-    to check the local as well as global market scenario for such devices.\r\n"
+  content: "Recommendation ITU-T Q.5054 provides a consumer-centric framework through a unified platform considering possible scenarios and a multipronged approach for combating counterfeit and stolen mobile telecommunication/ICT devices.\r\nThis Recommendation builds upon Recommendation ITU-T Q.5050, which offers a reference framework with high-level challenges and requirements that should be considered when deploying solutions to combat the circulation and use of counterfeit information and communication technology (ICT) devices. Furthermore, Recommendation ITU-T Q.5051 presents a 'Framework for combating the use of stolen mobile devices'. It also defines possible communication channels and consumer interfaces with platform, indicative query and response formats including approaches for consumer education and awareness. The Recommendation also covers key features of the platform, key security considerations, implementation scenarios and possible technical challenges related inter alia to vendor agnostic interfaces, mobile equipment bulk verification, dealing with devices with replicated unique identifiers and the reporting and handling of stolen or lost mobile telecommunication/ICT devices and their restoration upon recovery.\r\nWith the rapid growth in the reach of the Internet and accelerated adoption and usage of ICT during the COVID-19 pandemic, the circulation and use of counterfeit ICT devices has increased considerably. According to an OECD report published in 2017, at that time already nearly one in five mobile phones shipped internationally was fake or counterfeit. The growing trade in counterfeit IT and communications hardware burdens on consumers, manufacturers and public finances.\r\nA counterfeit ICT device is a product that explicitly infringes the trademarks, copies hardware or software designs, or infringes brand or packaging rights of an original or authentic product and, in general, infringes applicable national and/or international technical standards, regulatory requirements or conformity processes, manufacturing licensing agreements or other applicable policy requirements. Major mobile telecommunication/ICT devices include inter alia smartphones, tablets, IoT devices, wearables, modems, dongles and wireless local area network (WLAN) routers with cellular network connectivity. In addition to counterfeit mobile telecommunication/ICT devices, the use of stolen devices in mobile network also poses a serious security and law and order problem.\r\nThe unchecked proliferation of counterfeit and stolen mobile telecommunication/ICT devices in public land mobile networks (PLMNs) poses a serious challenge to regulators, law enforcement agencies (LEA) and end consumers and adversely affects the economy in general. The supply and demand economics of counterfeit and stolen devices complicate attempts to check the local as well as global market scenario for such devices.\r\n"
 status:
   stage:
     content: Published
@@ -346,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -358,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

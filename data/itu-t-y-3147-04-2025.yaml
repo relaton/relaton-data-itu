@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3147 specifies the quality of service (QoS) requirements
+  content: 'Recommendation ITU-T Y.3147 specifies the quality of service (QoS) requirements
     and framework of deterministic communications for remote device control services
     over IMT-2020 and beyond. First, it provides an overview of deterministic communication
     services for remote device services over IMT2020 and beyond. Second, it specifies
     the general QoS metrics and a high-level QoS assurance model for remote device
     control services. Last, it defines a framework and example of operational procedure.
-    In addition, it also provides two use cases in Appendix I.\r\n"
+    In addition, it also provides two use cases in Appendix I.
+    '
 status:
   stage:
     content: Published
@@ -100,7 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -132,8 +133,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -227,7 +227,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 111 to ITU-T Y.3100-series - Guidance for migrating existing
+      content: Supplement 111 to ITU-T Y.3100-series – Guidance for migrating existing
         mobile network technologies to IMT-2020 and beyond
     docidentifier:
     - content: Y Suppl. 111 (07/2026)

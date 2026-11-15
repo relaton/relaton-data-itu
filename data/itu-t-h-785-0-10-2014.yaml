@@ -52,13 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.785.0 describes overall aspects and high-level
+  content: 'Recommendation ITU-T H.785.0 describes overall aspects and high-level
     requirements for disaster information services provided through digital signage.
     The main services expected to be applied are early warning to lessen damages,
     reports of up-to-the-minute situations and announcements of traffic status/evacuation
     sites. The requirements are categorized into eight areas: general, operational
     management, application/delivery, contents, security, network, terminal device/display
-    and accessibility.\r\n"
+    and accessibility.
+    '
 status:
   stage:
     content: Published

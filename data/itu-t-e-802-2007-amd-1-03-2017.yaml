@@ -50,17 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T E.802 incorporates Annex A, which
-    provides guidance on the selection of representative samples in the measurement
-    of QoS parameters. Recommendation ITU-T E.802 had opted not to give this guidance
-    because “the selection of representative samples is a process that is heavily
-    influenced by specific technical and operational conditions of the measurement
-    task.” (see clause 8.5).  Annex A therefore provides guidance that takes into
-    account these technical (statistical) and operational (practical QoS data collection)
-    conditions by proposing a simple random sampling methodology. \r\n\r\nThis amendment
-    also adds Appendices IV and V with additional information on the implementation
-    of the sampling algorithm included in Annex A, and on the use of sample-based
-    QoS parameters.\r\n"
+  content: "Amendment 1 to Recommendation ITU-T E.802 incorporates Annex A, which provides guidance on the selection of representative samples in the measurement of QoS parameters. Recommendation ITU-T E.802 had opted not to give this guidance because “the selection of representative samples is a process that is heavily influenced by specific technical and operational conditions of the measurement task.” (see clause 8.5).  Annex A therefore provides guidance that takes into account these technical (statistical) and operational (practical QoS data collection) conditions by proposing a simple random sampling methodology. \r\n\r\nThis amendment also adds Appendices IV and V with additional information on the implementation of the sampling algorithm included in Annex A, and on the use of sample-based QoS parameters.\r\n"
 status:
   stage:
     content: Published

@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Image aesthetics assessment (IAA) aims to evaluate whether an image conforms
+  content: 'Image aesthetics assessment (IAA) aims to evaluate whether an image conforms
     to the aesthetic preferences of a potential audience. Recommendation ITU-T F.740.4
     defines metadata for image aesthetics assessment with aesthetic attributes in
     a mobile terminal computational photography system. The metadata is divided into
@@ -62,7 +62,8 @@ abstract:
     of each dimension. The role-based metadata defined in this Recommendation can
     be used to guide the construction of IAA datasets, and to provide multiple aesthetic
     attributes evaluation for IAA. Moreover, sample collection requirements and qualifications
-    for annotators are recommended to guide high quality data construction.\r\n"
+    for annotators are recommended to guide high quality data construction.
+    '
 status:
   stage:
     content: Published

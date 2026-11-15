@@ -52,27 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies syntax and semantics of terminal information
-    messages as well as procedures to use them for in-band negotiation at the start
-    of or during communication. The messages cover receiving and transmitting capabilities
-    as well as mode preference from the receiving end, logical channel signalling,
-    and Control & Indication. Acknowledged signalling procedures are specified to
-    ensure reliable audiovisual and data communication.Products claiming compliance
-    with Version 15 of H.245 shall comply with all of the mandatory requirements of
-    this Recommendation. Version 15 products can be identified by H.245 TerminalCapabilitySet
-    messages containing a protocolIdentifier value of {itu-t (0) recommendation (0)
-    h (8) 245 version (0) 15}.Relative to H.245 Version 14 (2008-06), this version:\r•
-    Fixed three errors in the ASN.1. These were essentially the same error three times,
-    in depFECxxx (xxx == Mode, Data or Cap), where there was an unnecessary comma
-    after CHOICE.\r• Added ASN.1 code points for masterMCU (same as H.230 MIM) and
-    cancelMasterMCU (same as H.230 cancel MIM), as in the H.323 Implementors' Guide.\r•
-    Added three rows to Appendix VIII, Table VIII.1, as in the H.323 Implementors'
-    Guide.\r• Added the proposed changes concerning Opening Multicast Channels in
-    H.323, including listing the OID in Appendix VIII, Table VIII.1.\r• Added T140Data
-    and T140Audio capability OIDs to Appendix VIII, Table VIII.1.\r• Added a reference
-    to RFC 4733 and replaced references in the text to RFC 2833 with references to
-    RFC 4733. Where the text previously referenced section 3.9 of RFC 2833, the proposed
-    new text simply references RFC 4733."
+  content: "This Recommendation specifies syntax and semantics of terminal information messages as well as procedures to use them for in-band negotiation at the start of or during communication. The messages cover receiving and transmitting capabilities as well as mode preference from the receiving end, logical channel signalling, and Control & Indication. Acknowledged signalling procedures are specified to ensure reliable audiovisual and data communication.Products claiming compliance with Version 15 of H.245 shall comply with all of the mandatory requirements of this Recommendation. Version 15 products can be identified by H.245 TerminalCapabilitySet messages containing a protocolIdentifier value of {itu-t (0) recommendation (0) h (8) 245 version (0) 15}.Relative to H.245 Version 14 (2008-06), this version:\r• Fixed three errors in the ASN.1. These were essentially the same error three times, in depFECxxx (xxx == Mode, Data or Cap), where there was an unnecessary comma after CHOICE.\r• Added ASN.1 code points for masterMCU (same as H.230 MIM) and cancelMasterMCU (same as H.230 cancel MIM), as in the H.323 Implementors' Guide.\r• Added three rows to Appendix VIII, Table VIII.1, as in the H.323 Implementors' Guide.\r• Added the proposed changes concerning Opening Multicast Channels in H.323, including listing the OID in Appendix VIII, Table VIII.1.\r• Added T140Data and T140Audio capability OIDs to Appendix VIII, Table VIII.1.\r• Added a reference to RFC 4733 and replaced references in the text to RFC 2833 with references to RFC 4733. Where the text previously referenced section 3.9 of RFC 2833, the proposed new text simply references RFC 4733."
 status:
   stage:
     content: Withdrawal

@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation ITU-T J.288 proposes an encapsulation scheme of TLV
-    specified in ITU-R BT.1869 for cable transmission systems being designed on the
-    basis of ITU-T J.83. \r\n\r\nMany of the existing digital broadcasting systems
-    transfer MPEG-2 TS as their input stream format. In contrast, variable-length
-    packets formats such as TLV are specified for transmitting IP packets efficiently
-    over broadcasting channels as aggregates of variable-length packets. In order
-    to transmit TLV with the existing ITU-T J.83 transmission system, it is necessary
-    that variable-length TLV packets should be fragmented and encapsulated into fixed-length
-    188-byte packets.\r\n"
+  content: "This Recommendation ITU-T J.288 proposes an encapsulation scheme of TLV specified in ITU-R BT.1869 for cable transmission systems being designed on the basis of ITU-T J.83. \r\n\r\nMany of the existing digital broadcasting systems transfer MPEG-2 TS as their input stream format. In contrast, variable-length packets formats such as TLV are specified for transmitting IP packets efficiently over broadcasting channels as aggregates of variable-length packets. In order to transmit TLV with the existing ITU-T J.83 transmission system, it is necessary that variable-length TLV packets should be fragmented and encapsulated into fixed-length 188-byte packets.\r\n"
 status:
   stage:
     content: Withdrawal

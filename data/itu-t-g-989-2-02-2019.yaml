@@ -53,31 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.989.2 specifies the physical media dependent (PMD)
-    layer requirements for a passive optical network (PON) system with a nominal aggregate
-    capacity of 40 Gbit/s in the downstream direction and 10 Gbit/s in the upstream
-    direction, hereinafter referred to as NG-PON2.NG-PON2 is a flexible optical fibre
-    access network capable of supporting the bandwidth requirements of mobile backhaul,
-    business and residential services. Furthermore, this Recommendation describes
-    optional configurations, to extend beyond this nominal capacity, as the ITU-T
-    G.989 series of Recommendations allows for multiple upstream and downstream line
-    rates.\r\n\r\nThe NG-PON2 wavelength plan is defined to enable the coexistence
-    through wavelength overlay with legacy PON systems (see ITU-TG.989.1). The transmission
-    convergence (TC) layer is based on Recommendation ITU-T G.987.3, with unique modifications
-    for NG-PON2 captured in Recommendation ITU-T G.989.3. The optical network unit
-    (ONU) management and control interface (OMCI) specifications are described in
-    Recommendation ITU-TG.988 for NG‑PON2 extensions.\r\n\r\nThis Recommendation specifies
-    the characteristics of hybrid time and wavelength division multiplexing (TWDM)
-    channels, referred to as TWDM PON. The characteristics of optional, tunable point-to-point
-    wave length overlay channels are also described, referred to as point-to-point
-    wavelength division multiplexing (PtP WDM) PON.\r\n\r\nThe TWDM PON described
-    in this Recommendation represents a further development from the systems described
-    in the ITU-T G.984 and ITU-TG.987 series of Recommendations. To the greatest extent
-    possible, this Recommendation retains the requirements of ITU-T G.984.1 and ITU-T
-    G.987.1 to ensure maximal reuse of existing technology and compatibility with
-    deployed optical access systems and optical fibre infrastructure.\r\n\r\nEdition
-    2.0 continues the maintenance and evolution of physical media dependent (PMD)
-    layer specification.\r\n"
+  content: "Recommendation ITU-T G.989.2 specifies the physical media dependent (PMD) layer requirements for a passive optical network (PON) system with a nominal aggregate capacity of 40 Gbit/s in the downstream direction and 10 Gbit/s in the upstream direction, hereinafter referred to as NG-PON2.NG-PON2 is a flexible optical fibre access network capable of supporting the bandwidth requirements of mobile backhaul, business and residential services. Furthermore, this Recommendation describes optional configurations, to extend beyond this nominal capacity, as the ITU-T G.989 series of Recommendations allows for multiple upstream and downstream line rates.\r\n\r\nThe NG-PON2 wavelength plan is defined to enable the coexistence through wavelength overlay with legacy PON systems (see ITU-TG.989.1). The transmission convergence (TC) layer is based on Recommendation ITU-T G.987.3, with unique modifications for NG-PON2 captured in Recommendation ITU-T G.989.3. The optical network unit (ONU) management and control interface (OMCI) specifications are described in Recommendation ITU-TG.988 for NG‑PON2 extensions.\r\n\r\nThis Recommendation specifies the characteristics of hybrid time and wavelength division multiplexing (TWDM) channels, referred to as TWDM PON. The characteristics of optional, tunable point-to-point wave length overlay channels are also described, referred to as point-to-point wavelength division multiplexing (PtP WDM) PON.\r\n\r\nThe TWDM PON described in this Recommendation represents a further development from the systems described in the ITU-T G.984 and ITU-TG.987 series of Recommendations. To the greatest extent possible, this Recommendation retains the requirements of ITU-T G.984.1 and ITU-T G.987.1 to ensure maximal reuse of existing technology and compatibility with deployed optical access systems and optical fibre infrastructure.\r\n\r\nEdition 2.0 continues the maintenance and evolution of physical media dependent (PMD) layer specification.\r\n"
 status:
   stage:
     content: Published

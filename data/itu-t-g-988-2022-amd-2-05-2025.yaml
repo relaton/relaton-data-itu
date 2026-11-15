@@ -47,34 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITUT G.988 specifies the optical network unit (ONU) management
-    and control interface (OMCI) for optical access networks.\r\nRecommendation ITUT G.988
-    specifies the managed entities (MEs) of a protocol-independent management information
-    base (MIB) that models the exchange of information between an optical line termination
-    (OLT) and an ONU. In addition, it covers the ONU management and control channel,
-    protocol and detailed messages.\r\nAmendment 1 to Recommendation ITUT G.988 (2022)
-    incorporates regular maintenance items including:\r\n–Clarifications to the use
-    of Enhanced FEC PM and forward error correct PM MEs on PON systems that use LDPC
-    (e.g., HS-PON).\r\n–Modifications to power over Ethernet control to manage PoE,
-    PoE+ and PoE++ devices as defined in IEEE 802.3.\r\n–Modification to VoIP application
-    service profile ME to add GR-1188 Absence of Calling Name support.\r\nAmendment 2
-    to Recommendation ITUT G.988 (2022) incorporates regular maintenance items including:\r\n–Clarifications
-    of the applicability of ONU dynamic power management control ME to G-PON systems.\r\n–Support
-    of 802.1X ONU authentication termination point ME.\r\n–Clarifications around the
-    use of Enhanced FEC PM history data and FEC PM history data for different PON
-    technologies.\r\n–Corrections to the order of attributes of extended VLAN tagging
-    operation configuration data ME to align with Figure 9.3.13-1.\r\n–Support of
-    the configuration of TCP/UDP port number to listen to for future SIP signalling
-    transactional response message.\r\n–Support of a scaling factor for traffic descriptor
-    to accommodate HS-PON rates.\r\n–Clarifications to the ONU-G synchronize time.\r\n–Modification
-    of authentication security ME to accommodate larger username, password and realm.\r\n–Modification
-    of synchronous Ethernet operation ME to configure ESMC VLAN.\r\n–Modification
-    of precision time protocol status ME to support enhanced PTP slave table that
-    reports additional PTP attributes. \r\n–Updates to support HS-PON TDM performance
-    monitoring per Table 14-1 of ITU‑T G.9804.2.\r\n–Updates to support 50G and 100G
-    interfaces to PPTP Ethernet UNI ME.\r\n–Updates to ONU manufacturing data ME to
-    unique IEEE 802 MAC address of the physical ONU.\r\n–Obsoletion of Table 9.1.5-1,
-    code point 229 (resulting from HSP 12.4416 Gbit/s upstream rate deprecation).\r\n"
+  content: "Recommendation ITUT G.988 specifies the optical network unit (ONU) management and control interface (OMCI) for optical access networks.\r\nRecommendation ITUT G.988 specifies the managed entities (MEs) of a protocol-independent management information base (MIB) that models the exchange of information between an optical line termination (OLT) and an ONU. In addition, it covers the ONU management and control channel, protocol and detailed messages.\r\nAmendment 1 to Recommendation ITUT G.988 (2022) incorporates regular maintenance items including:\r\n–Clarifications to the use of Enhanced FEC PM and forward error correct PM MEs on PON systems that use LDPC (e.g., HS-PON).\r\n–Modifications to power over Ethernet control to manage PoE, PoE+ and PoE++ devices as defined in IEEE 802.3.\r\n–Modification to VoIP application service profile ME to add GR-1188 Absence of Calling Name support.\r\nAmendment 2 to Recommendation ITUT G.988 (2022) incorporates regular maintenance items including:\r\n–Clarifications of the applicability of ONU dynamic power management control ME to G-PON systems.\r\n–Support of 802.1X ONU authentication termination point ME.\r\n–Clarifications around the use of Enhanced FEC PM history data and FEC PM history data for different PON technologies.\r\n–Corrections to the order of attributes of extended VLAN tagging operation configuration data ME to align with Figure 9.3.13-1.\r\n–Support of the configuration of TCP/UDP port number to listen to for future SIP signalling transactional response message.\r\n–Support of a scaling factor for traffic descriptor to accommodate HS-PON rates.\r\n–Clarifications to the ONU-G synchronize time.\r\n–Modification of authentication security ME to accommodate larger username, password and realm.\r\n–Modification of synchronous Ethernet operation ME to configure ESMC VLAN.\r\n–Modification of precision time protocol status ME to support enhanced PTP slave table that reports additional PTP attributes. \r\n–Updates to support HS-PON TDM performance monitoring per Table 14-1 of ITU‑T G.9804.2.\r\n–Updates to support 50G and 100G interfaces to PPTP Ethernet UNI ME.\r\n–Updates to ONU manufacturing data ME to unique IEEE 802 MAC address of the physical ONU.\r\n–Obsoletion of Table 9.1.5-1, code point 229 (resulting from HSP 12.4416 Gbit/s upstream rate deprecation).\r\n"
 status:
   stage:
     content: Published

@@ -47,28 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.988 specifies the optical network unit (ONU) management
-    and control interface (OMCI) for optical access networks.\r\nRecommendation ITU-T
-    G.988 specifies the managed entities (MEs) of a protocol-independent management
-    information base (MIB) that models the exchange of information between an optical
-    line termination (OLT) and an ONU. In addition, it covers the ONU management and
-    control channel, protocol and detailed messages.\r\nAmendment 1 contains various
-    updates to ITU-T G.988 (2017). This amendment contains editorial corrections and
-    clarifications along with the following substantive changes and extensions to
-    PON OMCI related to bonded ONUs, filtering on DHCP for admission control purposes,
-    synchronization alarm support, ONU timezone offset and ONU manufacturing data.\r\nAmendment
-    2 adds support for DC voltage-based visual message indicators in ITU-T G.988 voice
-    over IP (VOIP) application service profile ME.\r\nAmendment 3 makes editorial
-    changes on extended virtual local area network (VLAN) and adds: \r\n•\tSupport
-    for the discovery of Extended VLAN tagging operation configuration data ME enhanced
-    mode through the ONU3-G ME.\r\n•\tSupport for Extended VLAN ME tagging operation
-    configuration data ME enhanced mode.\r\n•\tCorrections to Table 9.1.5-1 \"Plug-in
-    unit types\".\r\nThis amendment makes editorial changes to TWDM channel tuning
-    performance history data part 1, TWDM channel managed entity and clause 9.2.21.
-    Amendment 4 also adds:\r\n•\tSupport of RFC 2543 call hold (with connection address
-    0.0.0.0).\r\n•\tSupport of dial plan alarms.\r\n•\tSupport of DHCP performance
-    monitoring.\r\n•\tSupport of ONU operational performance monitoring.\r\n•\tSupports
-    additional VCD voice alarms.\r\n•\tAdds clarifications to FEC seconds definition.\r\n"
+  content: "Recommendation ITU-T G.988 specifies the optical network unit (ONU) management and control interface (OMCI) for optical access networks.\r\nRecommendation ITU-T G.988 specifies the managed entities (MEs) of a protocol-independent management information base (MIB) that models the exchange of information between an optical line termination (OLT) and an ONU. In addition, it covers the ONU management and control channel, protocol and detailed messages.\r\nAmendment 1 contains various updates to ITU-T G.988 (2017). This amendment contains editorial corrections and clarifications along with the following substantive changes and extensions to PON OMCI related to bonded ONUs, filtering on DHCP for admission control purposes, synchronization alarm support, ONU timezone offset and ONU manufacturing data.\r\nAmendment 2 adds support for DC voltage-based visual message indicators in ITU-T G.988 voice over IP (VOIP) application service profile ME.\r\nAmendment 3 makes editorial changes on extended virtual local area network (VLAN) and adds: \r\n•\tSupport for the discovery of Extended VLAN tagging operation configuration data ME enhanced mode through the ONU3-G ME.\r\n•\tSupport for Extended VLAN ME tagging operation configuration data ME enhanced mode.\r\n•\tCorrections to Table 9.1.5-1 \"Plug-in unit types\".\r\nThis amendment makes editorial changes to TWDM channel tuning performance history data part 1, TWDM channel managed entity and clause 9.2.21. Amendment 4 also adds:\r\n•\tSupport of RFC 2543 call hold (with connection address 0.0.0.0).\r\n•\tSupport of dial plan alarms.\r\n•\tSupport of DHCP performance monitoring.\r\n•\tSupport of ONU operational performance monitoring.\r\n•\tSupports additional VCD voice alarms.\r\n•\tAdds clarifications to FEC seconds definition.\r\n"
 status:
   stage:
     content: Withdrawal

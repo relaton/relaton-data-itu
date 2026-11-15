@@ -53,16 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.460.22 defines a security negotiation mechanism
-    for ITU-T H.225.0 call signalling. The negotiated security mechanism between two
-    entities is to be applied for ITU-T H.225.0 call signalling messages before initiating
-    a call establishment procedure. Detailed negotiation procedures, which provide
-    the necessary security interoperability among ITU-T H.323 systems, are specified
-    in this Recommendation. The syntax of the security capability parameters in call
-    signalling messages is also specified.\r\nThis revision includes procedural clarifications
-    and introduces support for ITU-T H.460.18 and ITU-T H.460.19 NAT traversal and
-    negotiating datagram transport layer security (DTLS) for ITU-T H.323 Annex E over
-    UDP transport.\r\n"
+  content: "Recommendation ITU-T H.460.22 defines a security negotiation mechanism for ITU-T H.225.0 call signalling. The negotiated security mechanism between two entities is to be applied for ITU-T H.225.0 call signalling messages before initiating a call establishment procedure. Detailed negotiation procedures, which provide the necessary security interoperability among ITU-T H.323 systems, are specified in this Recommendation. The syntax of the security capability parameters in call signalling messages is also specified.\r\nThis revision includes procedural clarifications and introduces support for ITU-T H.460.18 and ITU-T H.460.19 NAT traversal and negotiating datagram transport layer security (DTLS) for ITU-T H.323 Annex E over UDP transport.\r\n"
 status:
   stage:
     content: Published

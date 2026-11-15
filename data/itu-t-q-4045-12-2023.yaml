@@ -52,12 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.4045 provides an overview and framework requirements
+  content: 'Recommendation ITU-T Q.4045 provides an overview and framework requirements
     of network function virtualization (NFV) automated testing. This Recommendation
     introduces the NFV automated testing framework, and provides an overview of NFV
     automated testing and design considerations. In addition, the framework and requirements
     for NFV automated testing are derived based on the use cases presented Appendix
-    I.\r\n"
+    I.
+    '
 status:
   stage:
     content: Published
@@ -315,9 +316,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -327,8 +328,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

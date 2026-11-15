@@ -50,11 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This annex specifies the bit-exact ANSI C-code implementation of the AMR-WB
-    algorithm specified in ITU-T Rec. G.722.2, its Annexes A and B, and its Appendix
-    I (non-normative). \r\nThe C-code specified in this annex was also adopted by
-    3GPP in 3GPP specification TS 26.173.\r\nThis annex includes an electronic attachment
-    containing the C code of the G.722.2 AMR-WB speech  transcoder.\r\n"
+  content: "This annex specifies the bit-exact ANSI C-code implementation of the AMR-WB algorithm specified in ITU-T Rec. G.722.2, its Annexes A and B, and its Appendix I (non-normative). \r\nThe C-code specified in this annex was also adopted by 3GPP in 3GPP specification TS 26.173.\r\nThis annex includes an electronic attachment containing the C code of the G.722.2 AMR-WB speech  transcoder.\r\n"
 status:
   stage:
     content: Withdrawal

@@ -53,22 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1199 provides a parametric object-recognition-ratio-estimation
-    model to check whether an observer in a monitoring centre can recognize an object
-    (e.g., a person who jumps out onto the road or debris on the road) while viewing
-    the video taken by an autonomous vehicle's surveillance camera and delivered to
-    the monitoring centre. This object-recognition ratio can be used as an indicator
-    to check whether the surveillance video delivered to the remote monitoring centre
-    is of sufficient quality for remote monitoring around the autonomous vehicle.\r\nThe
-    input used by the model consists of information obtained from video streams and
-    vehicle information. Four different modes, which are called modes of operation,
-    can be used for estimating the object-recognition ratio in this Recommendation:\r\n–Mode
-    0: Information obtained from the video stream, such as the video resolution, video
-    bitrate and video frame rate, in addition to packet loss information.\r\n–Mode
-    1: Information obtained from the video stream and frozen video frame information
-    based on frame inspection.\r\n–Mode 2: The same information as Mode 0, with the
-    addition of vehicle velocity.\r\n–Mode 3: The same information as Mode 1, with
-    the addition of vehicle velocity.\r\n"
+  content: "Recommendation ITU-T P.1199 provides a parametric object-recognition-ratio-estimation model to check whether an observer in a monitoring centre can recognize an object (e.g., a person who jumps out onto the road or debris on the road) while viewing the video taken by an autonomous vehicle's surveillance camera and delivered to the monitoring centre. This object-recognition ratio can be used as an indicator to check whether the surveillance video delivered to the remote monitoring centre is of sufficient quality for remote monitoring around the autonomous vehicle.\r\nThe input used by the model consists of information obtained from video streams and vehicle information. Four different modes, which are called modes of operation, can be used for estimating the object-recognition ratio in this Recommendation:\r\n–Mode 0: Information obtained from the video stream, such as the video resolution, video bitrate and video frame rate, in addition to packet loss information.\r\n–Mode 1: Information obtained from the video stream and frozen video frame information based on frame inspection.\r\n–Mode 2: The same information as Mode 0, with the addition of vehicle velocity.\r\n–Mode 3: The same information as Mode 1, with the addition of vehicle velocity.\r\n"
 status:
   stage:
     content: Withdrawal

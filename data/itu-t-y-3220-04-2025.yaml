@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Fixed, mobile and satellite convergence (FMSC) is the capability that
+  content: 'Fixed, mobile and satellite convergence (FMSC) is the capability that
     provides services and applications to end users regardless of the fixed, mobile
     or satellite access technologies being used. Location service enhancement in the
     FMSC network is a network capability to provide more accurate and reliable location
@@ -61,7 +61,8 @@ abstract:
     mobile base station location information to meet the growing demand for location-based
     services. Recommendation ITU-T Y.3220 specifies overview, requirements, framework,
     procedures, security considerations and use cases of location service in the FMSC
-    network, in the context of IMT2020 and beyond.\r\n"
+    network, in the context of IMT2020 and beyond.
+    '
 status:
   stage:
     content: Published
@@ -91,7 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -112,8 +113,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

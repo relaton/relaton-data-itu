@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the advantages of high time-domain resolution, less data redundancy,
+  content: 'With the advantages of high time-domain resolution, less data redundancy,
     low power consumption, and high dynamic range, the event-based vision system (EV-SYS)
     can be used in power consumption sensitive, high-speed movement and extreme lighting
     scenarios, such as high-speed industrial detection, autonomous driving, video
@@ -62,7 +62,8 @@ abstract:
     the traditional vision algorithms cannot be applied. None of the existing machine
     vision standards has developed based on EV-SYS. The EV-SYS will be used in high-speed
     motion scenarios beyond the existing standards. Recommendation ITU-T F.747.15
-    provides the related requirements and reference use cases for EVSYS.\r\n"
+    provides the related requirements and reference use cases for EVSYS.
+    '
 status:
   stage:
     content: Published

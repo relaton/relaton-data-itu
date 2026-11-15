@@ -53,18 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Z.166 specifies the control interfaces for Testing
-    and Test Control Notation 3 (TTCN-3) test system implementations. The TTCN-3 control
-    interfaces (TCIs) provide a standardized adaptation for management, test component
-    handling and encoding/decoding of a test system to a particular test platform.
-    This Recommendation defines the interfaces as a set of operations independent
-    of a target language.\r\n\r\nThe interfaces are defined to be compatible with
-    the TTCN-3 standards (see clause 2 of ETSI ES 201 873-6 V4.11.1). The interface
-    definition uses the Common Object Request Broker Architecture (CORBA) Interface
-    Definition Language (IDL) to specify the TCI completely. Clauses 8, 9 and 9.7
-    of ETSI ES 201 873-6 V4.11.1 present language mappings for this abstract specification
-    to the target languages Java and ANSI C.\r\n\r\nThis revision of the Recommendation
-    contains amendments, clarifications, corrigenda and editorial corrections."
+  content: "Recommendation ITU-T Z.166 specifies the control interfaces for Testing and Test Control Notation 3 (TTCN-3) test system implementations. The TTCN-3 control interfaces (TCIs) provide a standardized adaptation for management, test component handling and encoding/decoding of a test system to a particular test platform. This Recommendation defines the interfaces as a set of operations independent of a target language.\r\n\r\nThe interfaces are defined to be compatible with the TTCN-3 standards (see clause 2 of ETSI ES 201 873-6 V4.11.1). The interface definition uses the Common Object Request Broker Architecture (CORBA) Interface Definition Language (IDL) to specify the TCI completely. Clauses 8, 9 and 9.7 of ETSI ES 201 873-6 V4.11.1 present language mappings for this abstract specification to the target languages Java and ANSI C.\r\n\r\nThis revision of the Recommendation contains amendments, clarifications, corrigenda and editorial corrections."
 status:
   stage:
     content: Withdrawal
@@ -227,8 +216,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU
+        System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

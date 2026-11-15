@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.7710/Y.1701 addresses the equipment management
-    functions (EMFs) inside a transport network element that are common to multiple
-    technologies. For example, common applications are described for date and time,
-    fault management, configuration management, account management, performance management
-    and security management. These applications result in the specification of common
-    EMF functions and their requirements.\r\nThe 2012 revision of this Recommendation
-    has incorporated the following below.\r\n–\tRecommendation ITU-T G.7710/Y.1701
-    Corrigendum 1 (11/2009): \r\n\tthis mainly contains an updated equipment management
-    function process block diagram.\r\n–\tRecommendation ITU-T G.7710/Y.1701 Amendment
-    1 (07/2010):\r\n\tupdates the packet layer related specification of severely errored
-    second (SES) to align it with the SES definition in Recommendation ITU-T Y.1563.\r\n–\tRecommendation
-    ITU-T G.7710/Y.1701 Corrigendum 2 (04/2011): \r\n\tthis adds the missing 6 LBC
-    terms to the process description, and \r\n–\tgives additional specifications on
-    gauge measurement.\r\n"
+  content: "Recommendation ITU-T G.7710/Y.1701 addresses the equipment management functions (EMFs) inside a transport network element that are common to multiple technologies. For example, common applications are described for date and time, fault management, configuration management, account management, performance management and security management. These applications result in the specification of common EMF functions and their requirements.\r\nThe 2012 revision of this Recommendation has incorporated the following below.\r\n–\tRecommendation ITU-T G.7710/Y.1701 Corrigendum 1 (11/2009): \r\n\tthis mainly contains an updated equipment management function process block diagram.\r\n–\tRecommendation ITU-T G.7710/Y.1701 Amendment 1 (07/2010):\r\n\tupdates the packet layer related specification of severely errored second (SES) to align it with the SES definition in Recommendation ITU-T Y.1563.\r\n–\tRecommendation ITU-T G.7710/Y.1701 Corrigendum 2 (04/2011): \r\n\tthis adds the missing 6 LBC terms to the process description, and \r\n–\tgives additional specifications on gauge measurement.\r\n"
 status:
   stage:
     content: Withdrawal

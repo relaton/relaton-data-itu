@@ -52,11 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.5027 specifies protocol for IMT-2020 network integration
+  content: 'Recommendation ITU-T Q.5027 specifies protocol for IMT-2020 network integration
     with time sensitive network (TSN) and introduces the communication mechanism between
     the IMT-2020 network and the TSN system. It also describes the parameters, procedures,
     signalling flow and message format between the core network function of the IMT-2020
-    network and the TSN translator.\r\n"
+    network and the TSN translator.
+    '
 status:
   stage:
     content: Published
@@ -314,9 +315,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -326,8 +327,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

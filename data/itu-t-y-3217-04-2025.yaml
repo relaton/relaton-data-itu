@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Peer-to-peer (P2P) networks can provide several benefits in fixed mobile
+  content: 'Peer-to-peer (P2P) networks can provide several benefits in fixed mobile
     satellite convergence (FMSC) network for providing IMT-2020 networks and beyond
     services including distributed data processing and content caching. FMSC is the
     capability that provides services and applications to end users regardless of
     the fixed, mobile or satellite access technologies being used. Recommendation
     ITU-T Y.3217 specifies the peer-to-peer services in FMSC network for IMT-2020
     networks and beyond, focusing on general consideration, requirements, functional
-    architecture, workflow and security considerations.\r\n"
+    architecture, workflow and security considerations.
+    '
 status:
   stage:
     content: Published
@@ -90,7 +91,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -111,8 +112,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

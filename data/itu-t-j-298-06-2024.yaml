@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.298 describes the requirements and technical specifications
+  content: 'Recommendation ITU-T J.298 describes the requirements and technical specifications
     of a cable TV hybrid set-top box compatible with terrestrial and satellite TV
     transport. The main purpose of the Recommendation is to specify minimum and basic
     requirements for a hybrid set-top box (STB), which meets the requirements of all
@@ -63,7 +63,8 @@ abstract:
     so that the STB is able to receive satellite or terrestrial broadcasting services.
     The basic functionalities for IP-based interactive video services are also required
     so that the STB is able to support the latest Internet protocol (IP) interactive
-    services together with legacy cable and satellite/terrestrial services.\r\n"
+    services together with legacy cable and satellite/terrestrial services.
+    '
 status:
   stage:
     content: Published

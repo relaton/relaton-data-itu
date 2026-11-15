@@ -55,26 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to ITU-T H.222.0 (2014) | ISO/IEC 13818-1:2015 enables signalling
-    and synchronization of external enhancements of programs carried over an MPEG-2
-    Transport Stream (TS). Specifically, it enables transport of a media timeline
-    in an MPEG-2 TS program, in order to provide a stable media timeline not sensitive
-    to program clock reference (PCR) discontinuities; it also enables signalling of
-    the location of current and potentially upcoming external media enhancements.
-    The technologies included in this amendment can be used to locate and synchronize
-    external content with an MPEG-2 TS program, regardless of the external content
-    packaging or coding types. To accommodate the different application use cases,
-    the signalling information and the timing information may be sent at different
-    frequencies.\r\nIn order to provide frame-accurate timeline alignments despite
-    potential PCR discontinuities that typically occur in an MPEG- 2 TS network, different
-    types of time codes can be inserted into the TS. The information can be sent in
-    a dedicated packetized elementary stream (PES) identified in the program's program
-    map table (PMT), for cases where bandwidth requirements are not too constrained,
-    or can be inserted in the adaptation field of the media packet identifier (PID)
-    when the overhead of sending one TS packet per time code would be too high. For
-    example, the typical bitrates for time code signalling for each frame of a 60
-    Hz video is around 90 kbit/s using PES only carriage and between 4 and 7 kbit/s
-    using adaptation field scheme.\r\n"
+  content: "Amendment 1 to ITU-T H.222.0 (2014) | ISO/IEC 13818-1:2015 enables signalling and synchronization of external enhancements of programs carried over an MPEG-2 Transport Stream (TS). Specifically, it enables transport of a media timeline in an MPEG-2 TS program, in order to provide a stable media timeline not sensitive to program clock reference (PCR) discontinuities; it also enables signalling of the location of current and potentially upcoming external media enhancements. The technologies included in this amendment can be used to locate and synchronize external content with an MPEG-2 TS program, regardless of the external content packaging or coding types. To accommodate the different application use cases, the signalling information and the timing information may be sent at different frequencies.\r\nIn order to provide frame-accurate timeline alignments despite potential PCR discontinuities that typically occur in an MPEG- 2 TS network, different types of time codes can be inserted into the TS. The information can be sent in a dedicated packetized elementary stream (PES) identified in the program's program map table (PMT), for cases where bandwidth requirements are not too constrained, or can be inserted in the adaptation field of the media packet identifier (PID) when the overhead of sending one TS packet per time code would be too high. For example, the typical bitrates for time code signalling for each frame of a 60 Hz video is around 90 kbit/s using PES only carriage and between 4 and 7 kbit/s using adaptation field scheme.\r\n"
 status:
   stage:
     content: Withdrawal

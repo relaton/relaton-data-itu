@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8310 describes the functional architecture of the
-    metro transport network (MTN) using the modelling methodology described in Recommendations
-    ITU-T G.800 and ITU-T G.805. MTN is primarily intended to support transport of
-    distributed radio access network (D-RAN) and cloud radio access network (C-RAN)
-    traffic. The MTN functionality is described from a network level viewpoint, taking
-    into account the client characteristic information, client/server layer associations,
-    networking topology, and layer network functionality that provide multiplexing,
-    routing and supervision of the digital clients.  \r\n\r\nMTN consists of two non-recursive
-    layers, the MTN path layer, and the MTN section layer. The MTN path layer uses
-    the MTN section layer as its server layer. The MTN path layer provides configurable
-    connection-oriented connectivity. The server layer for the MTN section layer is
-    provided by 50GBASE-R, 100GBASE-R, 200GBASE-R, and 400GBASE-R Ethernet interfaces.
-    \r\n"
+  content: "Recommendation ITU-T G.8310 describes the functional architecture of the metro transport network (MTN) using the modelling methodology described in Recommendations ITU-T G.800 and ITU-T G.805. MTN is primarily intended to support transport of distributed radio access network (D-RAN) and cloud radio access network (C-RAN) traffic. The MTN functionality is described from a network level viewpoint, taking into account the client characteristic information, client/server layer associations, networking topology, and layer network functionality that provide multiplexing, routing and supervision of the digital clients.  \r\n\r\nMTN consists of two non-recursive layers, the MTN path layer, and the MTN section layer. The MTN path layer uses the MTN section layer as its server layer. The MTN path layer provides configurable connection-oriented connectivity. The server layer for the MTN section layer is provided by 50GBASE-R, 100GBASE-R, 200GBASE-R, and 400GBASE-R Ethernet interfaces. \r\n"
 status:
   stage:
     content: Published

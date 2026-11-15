@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.5007 specifies signalling architecture for microservices
-    based intelligent edge computing (IEC) to provide intelligence to the edge network
-    for efficient data processing within the network.\r\nTo develop the IEC architecture,
-    there are a couple of software-oriented architectural ways for building a flexible
-    protocol architecture achieved by deploying and operating the architecture. One
-    approach is a unified software-oriented architecture that composes logically modular
-    functions in a tightly coupled way similar to a monolithic architecture. Another
-    approach is a microservice architecture, which loosely composes logically or physically
-    separated processing functions as individual microservices. \r\nSince the IEC
-    has been developed on different hardware specifications and various functionalities
-    desired by each business demands, it has been standardized based on the microservices
-    and used as a reference standard for implementation. Adopting a microservices
-    based IEC architecture facilitates continuous development and operation through
-    the updating of individual microservices. This Recommendation specifies the signalling
-    architecture, protocol interfaces, and protocol procedures for microservices based
-    intelligent edge computing.\r\n"
+  content: "Recommendation ITU-T Q.5007 specifies signalling architecture for microservices based intelligent edge computing (IEC) to provide intelligence to the edge network for efficient data processing within the network.\r\nTo develop the IEC architecture, there are a couple of software-oriented architectural ways for building a flexible protocol architecture achieved by deploying and operating the architecture. One approach is a unified software-oriented architecture that composes logically modular functions in a tightly coupled way similar to a monolithic architecture. Another approach is a microservice architecture, which loosely composes logically or physically separated processing functions as individual microservices. \r\nSince the IEC has been developed on different hardware specifications and various functionalities desired by each business demands, it has been standardized based on the microservices and used as a reference standard for implementation. Adopting a microservices based IEC architecture facilitates continuous development and operation through the updating of individual microservices. This Recommendation specifies the signalling architecture, protocol interfaces, and protocol procedures for microservices based intelligent edge computing.\r\n"
 status:
   stage:
     content: Published
@@ -325,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -337,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

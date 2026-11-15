@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.751.27 specifies a framework, and functional and
+  content: 'Recommendation ITU-T F.751.27 specifies a framework, and functional and
     security requirements for distributed ledger technology (DLT)-based multimedia
     data asset service to support multimedia data asset generation, purchase, trade
     and transfer in a trusted manner. This Recommendation can be used as guidance
     by the relevant parties to research, develop, test, deploy and manage the distributed
-    ledger technology-based multimedia data asset services.\r\n"
+    ledger technology-based multimedia data asset services.
+    '
 status:
   stage:
     content: Published

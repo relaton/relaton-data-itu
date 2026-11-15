@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.702 defines three profiles for accessibility features
-    in Internet protocol television (IPTV) systems, with increasing levels of support.
-    The Basic profile provides an entry-level support of accessibility, whereas the
-    Main profile provides the widest range of features; the Enhanced profile provides
-    the middle level support between the Basic profile and the Main profile. Accessibility
-    information is information such as captions, sign language streams and audio description
-    that are sent separately from video contents to IPTV terminal devices. By defining
-    the above profiles, persons with disabilities can choose more easily the terminal
-    devices that have the functions they need.\r\n\r\nCorrigendum 1 harmonizes the
-    variations of the profile name, such as \"basic accessibility profile\" and \"basic
-    profile\", into \"basic profile\", and uniforms the variations of the optionality,
-    \"O\" and \"OR\", into \"OR\".\r\n"
+  content: "Recommendation ITU-T H.702 defines three profiles for accessibility features in Internet protocol television (IPTV) systems, with increasing levels of support. The Basic profile provides an entry-level support of accessibility, whereas the Main profile provides the widest range of features; the Enhanced profile provides the middle level support between the Basic profile and the Main profile. Accessibility information is information such as captions, sign language streams and audio description that are sent separately from video contents to IPTV terminal devices. By defining the above profiles, persons with disabilities can choose more easily the terminal devices that have the functions they need.\r\n\r\nCorrigendum 1 harmonizes the variations of the profile name, such as \"basic accessibility profile\" and \"basic profile\", into \"basic profile\", and uniforms the variations of the optionality, \"O\" and \"OR\", into \"OR\".\r\n"
 status:
   stage:
     content: Withdrawal

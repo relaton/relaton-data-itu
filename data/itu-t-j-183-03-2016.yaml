@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation ITU-T J.183 describes a time-division multiplexing
-    (TDM) format for transmitting multiple MPEG-2 transport streams and/or generic
-    formats of transport streams by using a simple implementation of MPEG-2 systems
-    physical interface on cable television systems. The TDM frame encapsulates the
-    MPEG-2 transport streams and/or generic formats of transport streams, which are
-    packetized into 188-byte length prior to transmission. It also describes the framing
-    structure for high speed transmission by channel bonding technology.\r\n\r\nThe
-    format features interoperability with the existing satellite transmodulation format,
-    which is based on the specification of Annex C/J.83 and Annex C/J.84 (SMATV system
-    C(III)).\r\n\r\nIt may also be applicable to other transmission systems. When
-    this format is introduced into existing digital cable television systems, information
-    about the frame format is recommended to be transmitted by the network information
-    table simultaneously. It is necessary for the set-top box to identify the digital
-    channel containing multiple MPEG-2 transport streams and/or generic formats of
-    transport streams.\r\n"
+  content: "This Recommendation ITU-T J.183 describes a time-division multiplexing (TDM) format for transmitting multiple MPEG-2 transport streams and/or generic formats of transport streams by using a simple implementation of MPEG-2 systems physical interface on cable television systems. The TDM frame encapsulates the MPEG-2 transport streams and/or generic formats of transport streams, which are packetized into 188-byte length prior to transmission. It also describes the framing structure for high speed transmission by channel bonding technology.\r\n\r\nThe format features interoperability with the existing satellite transmodulation format, which is based on the specification of Annex C/J.83 and Annex C/J.84 (SMATV system C(III)).\r\n\r\nIt may also be applicable to other transmission systems. When this format is introduced into existing digital cable television systems, information about the frame format is recommended to be transmitted by the network information table simultaneously. It is necessary for the set-top box to identify the digital channel containing multiple MPEG-2 transport streams and/or generic formats of transport streams.\r\n"
 status:
   stage:
     content: Published

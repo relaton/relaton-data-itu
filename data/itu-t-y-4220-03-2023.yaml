@@ -53,19 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "By deploying Internet of things (IoT) devices, smart home makes use of
-    IoT technologies to collect ambient information, detect abnormal events at home
-    and report to relevant personnel or institutions. \r\nIn this Recommendation the
-    term \"abnormal event\" is intended as meaning a human health injury event at
-    home. Examples of abnormal events at home include, but are not limited to, coughing,
-    dyspnoea, falls, headache, quiescent behaviour, sleep apnoea, stroke, transient
-    ischemic attacks.\r\nSuch a smart home system aims to reduce injuries and casualties
-    at home. Various products have emerged in this field. However, the lack of standards
-    could limit the abilities of vendors to meet the rising demands across the globe,
-    such as lower false alarm rates, more convenient deployment, better handling of
-    privacy concerns, etc. In order to ensure the system quality, Recommendation ITU-T
-    Y.4220 specifies the requirements and capability framework of the abnormal event
-    detection system (AEDS) for smart home.\r\n"
+  content: "By deploying Internet of things (IoT) devices, smart home makes use of IoT technologies to collect ambient information, detect abnormal events at home and report to relevant personnel or institutions. \r\nIn this Recommendation the term \"abnormal event\" is intended as meaning a human health injury event at home. Examples of abnormal events at home include, but are not limited to, coughing, dyspnoea, falls, headache, quiescent behaviour, sleep apnoea, stroke, transient ischemic attacks.\r\nSuch a smart home system aims to reduce injuries and casualties at home. Various products have emerged in this field. However, the lack of standards could limit the abilities of vendors to meet the rising demands across the globe, such as lower false alarm rates, more convenient deployment, better handling of privacy concerns, etc. In order to ensure the system quality, Recommendation ITU-T Y.4220 specifies the requirements and capability framework of the abnormal event detection system (AEDS) for smart home.\r\n"
 status:
   stage:
     content: Published
@@ -85,7 +73,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -148,8 +137,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -169,7 +158,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -211,8 +200,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -222,7 +210,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -254,8 +243,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

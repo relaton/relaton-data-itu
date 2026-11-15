@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.1071 provides algorithmic models for network planning
-    of IP-based video services. This Recommendation addresses two application areas:\r\n–\tthe
-    higher resolution (HR) application area, including services such as IPTV;\r\n–\tthe
-    lower resolution (LR) application area, including services such as mobile TV.\r\nThe
-    algorithmic model addressing the HR application area is described in Annex A.\r\nThe
-    algorithmic model addressing the LR application area is described in Annex B.\r\nThe
-    application of the models is limited to QoE/QoS planning. Other applications such
-    as quality benchmarking and monitoring are outside the scope of this Recommendation.\r\nAs
-    input, the models take network planning assumptions, for example, the video resolution,
-    the audio and video codec types and profiles, the audio and video bitrates, the
-    packet-loss-rate and the packet-loss distribution.\r\nAs output, the model algorithms
-    provide individual estimates of audio, video and audiovisual quality in terms
-    of the five-point absolute category rating (ACR) mean opinion score (MOS) scale.
-    Further diagnostic information on causes of quality degradations can also be made
-    available.\r\n"
+  content: "Recommendation ITU-T G.1071 provides algorithmic models for network planning of IP-based video services. This Recommendation addresses two application areas:\r\n–\tthe higher resolution (HR) application area, including services such as IPTV;\r\n–\tthe lower resolution (LR) application area, including services such as mobile TV.\r\nThe algorithmic model addressing the HR application area is described in Annex A.\r\nThe algorithmic model addressing the LR application area is described in Annex B.\r\nThe application of the models is limited to QoE/QoS planning. Other applications such as quality benchmarking and monitoring are outside the scope of this Recommendation.\r\nAs input, the models take network planning assumptions, for example, the video resolution, the audio and video codec types and profiles, the audio and video bitrates, the packet-loss-rate and the packet-loss distribution.\r\nAs output, the model algorithms provide individual estimates of audio, video and audiovisual quality in terms of the five-point absolute category rating (ACR) mean opinion score (MOS) scale. Further diagnostic information on causes of quality degradations can also be made available.\r\n"
 status:
   stage:
     content: Withdrawal

@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.810 describes the modulated noise reference unit
-    (MNRU), a standalone unit for introducing controlled degradations to speech signals.
-    The MNRU has been extensively used in subjective performance evaluations of digital
-    processes as reference conditions.\r\nHistorically, MNRU was implemented in analogue
-    hardware. The Recommendation was subsequently complemented with the description
-    of digital implementations of the MNRU for narrowband and wideband signals. \r\nThis
-    revision provides the extension of digital MNRU to fullband signals, which shapes
-    the flat Gaussian noise used in the narrowband and wideband versions with an average
-    speech power spectrum. The introduction of the shaped noise provides a more representative
-    degradation for super-wideband and fullband speech as it reduces the energy of
-    the noise towards high frequencies.\r\nA reference implementation of the algorithms
-    is provided in the software tool library (STL), Recommendation ITU T G.191.\r\n"
+  content: "Recommendation ITU-T P.810 describes the modulated noise reference unit (MNRU), a standalone unit for introducing controlled degradations to speech signals. The MNRU has been extensively used in subjective performance evaluations of digital processes as reference conditions.\r\nHistorically, MNRU was implemented in analogue hardware. The Recommendation was subsequently complemented with the description of digital implementations of the MNRU for narrowband and wideband signals. \r\nThis revision provides the extension of digital MNRU to fullband signals, which shapes the flat Gaussian noise used in the narrowband and wideband versions with an average speech power spectrum. The introduction of the shaped noise provides a more representative degradation for super-wideband and fullband speech as it reduces the energy of the noise towards high frequencies.\r\nA reference implementation of the algorithms is provided in the software tool library (STL), Recommendation ITU T G.191.\r\n"
 status:
   stage:
     content: Published

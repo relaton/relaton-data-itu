@@ -52,23 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1203.3 specifies the quality integration module
-    for Recommendation ITU-T P.1203. The ITU-T P.1203 series of ITU-T Recommendations
-    specify modules for monitoring the audio, video and audiovisual quality of video
-    services such as adaptive bit-rate video streaming. The respective ITU-T work
-    item has formerly been referred to as P.NATS (parametric non-intrusive assessment
-    of TCP-based multimedia streaming quality). The ITU-T P.1203.3 part of Recommendation
-    ITU-T P.1203 can be applied to the monitoring of performance and quality of experience
-    (QoE) of video services such as adaptive bit-rate video streaming. Besides stream-based
-    input information, the ITU-T P.1203.3 quality integration module takes the per-one-second
-    video- and audio-quality scores calculated according to ITU-T P.1203.1 and ITU-T
-    P.1203.2, respectively, as input.\r\nOnly one quality integration module is recommended
-    for all four modes 0 to 3 of the Recommendation ITU-T P.1203 model series, unique
-    across all modes.\r\nThis Recommendation includes an electronic attachment containing
-    the 20 trees described in clause 8.4.\r\nThis revision to Recommendation ITU-T
-    P.1203.3 (2007) replaces equation (20) in clause 8.3.\r\nAmendment 1 introduces
-    an adjustment of the audiovisual quality of ITU-T P.1203.3 for the case of very
-    low audio quality and long stalling events."
+  content: "Recommendation ITU-T P.1203.3 specifies the quality integration module for Recommendation ITU-T P.1203. The ITU-T P.1203 series of ITU-T Recommendations specify modules for monitoring the audio, video and audiovisual quality of video services such as adaptive bit-rate video streaming. The respective ITU-T work item has formerly been referred to as P.NATS (parametric non-intrusive assessment of TCP-based multimedia streaming quality). The ITU-T P.1203.3 part of Recommendation ITU-T P.1203 can be applied to the monitoring of performance and quality of experience (QoE) of video services such as adaptive bit-rate video streaming. Besides stream-based input information, the ITU-T P.1203.3 quality integration module takes the per-one-second video- and audio-quality scores calculated according to ITU-T P.1203.1 and ITU-T P.1203.2, respectively, as input.\r\nOnly one quality integration module is recommended for all four modes 0 to 3 of the Recommendation ITU-T P.1203 model series, unique across all modes.\r\nThis Recommendation includes an electronic attachment containing the 20 trees described in clause 8.4.\r\nThis revision to Recommendation ITU-T P.1203.3 (2007) replaces equation (20) in clause 8.3.\r\nAmendment 1 introduces an adjustment of the audiovisual quality of ITU-T P.1203.3 for the case of very low audio quality and long stalling events."
 status:
   stage:
     content: Published

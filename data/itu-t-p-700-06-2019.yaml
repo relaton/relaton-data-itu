@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.700 describes a unified method required for calculating
-    loudness, allowing comparison of narrowband (NB) (300-3.4k Hz), wideband (WB)
-    (100-8k Hz), super-wideband (SWB) (50-14k Hz) and fullband (FB) (10-20k Hz) telephony,
-    for all types of terminals including handset, hands-free and conference terminals.\r\n\r\nThe
-    model described in this Recommendation is consistent when switching from one bandwidth
-    to another and independent of the listening situation (e.g., handset, headset,
-    hands-free) with regards to producing a constant perceived loudness.\r\n\r\nCompered
-    to loudness rating (LR) models, like the one presented in ITU-T P.79, the present
-    method predicts the absolute loudness, considers auditory masking and is applicable
-    to a wide range of acoustic levels.\r\n\r\nThis Recommendation incorporates a
-    number of annexes that hold test vectors for validation of loudness model implementations
-    as well as of the descriptions and results of the loudness experiments that form
-    the basis for this Recommendation."
+  content: "Recommendation ITU-T P.700 describes a unified method required for calculating loudness, allowing comparison of narrowband (NB) (300-3.4k Hz), wideband (WB) (100-8k Hz), super-wideband (SWB) (50-14k Hz) and fullband (FB) (10-20k Hz) telephony, for all types of terminals including handset, hands-free and conference terminals.\r\n\r\nThe model described in this Recommendation is consistent when switching from one bandwidth to another and independent of the listening situation (e.g., handset, headset, hands-free) with regards to producing a constant perceived loudness.\r\n\r\nCompered to loudness rating (LR) models, like the one presented in ITU-T P.79, the present method predicts the absolute loudness, considers auditory masking and is applicable to a wide range of acoustic levels.\r\n\r\nThis Recommendation incorporates a number of annexes that hold test vectors for validation of loudness model implementations as well as of the descriptions and results of the loudness experiments that form the basis for this Recommendation."
 status:
   stage:
     content: Withdrawal

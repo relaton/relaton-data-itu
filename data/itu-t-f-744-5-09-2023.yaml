@@ -52,13 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.744.5 describes the requirements for a peer-to-peer
+  content: 'Recommendation ITU-T F.744.5 describes the requirements for a peer-to-peer
     content delivery network (P2P CDN). It specifies the overall functional architecture,
     domains and functional role relationships, functional blocks and their mutual
     relationships, service provision requirements, availability requirements, scalability
     requirements and security considerations. P2P CDN provides a scalable and elastic
     CDN function pool of shareable terminal device computing resources, storage resources
-    and uplink bandwidth to save loads of the current CDN and improve user experience.\r\n"
+    and uplink bandwidth to save loads of the current CDN and improve user experience.
+    '
 status:
   stage:
     content: Published

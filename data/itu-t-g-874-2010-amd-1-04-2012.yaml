@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.874 (2010) includes the following
-    updates to align with Amendment 1 (2011), Corrigendum 2 (2011) and Amendment 2
-    (2012) of Recommendation ITU-T G.798 (2010).\r\n–\tAdd ODUkT_TT_Sk_MI_LTCAct_Enable,
-    default \"false\".\r\n–\tAdd fault cause and MI for new ODUkP-h/ETH_A, k=1,2,
-    3,flex.\r\n–\tAdd fault cause and MI for new ODUkP-h/ODUj-21_A, k=2,3,4; j=0,1,2,2e,3,flex.\r\n–\tAdd
-    new MI input ODUkT_TCMCm_MI_TCM_Extension."
+  content: "Amendment 1 to Recommendation ITU-T G.874 (2010) includes the following updates to align with Amendment 1 (2011), Corrigendum 2 (2011) and Amendment 2 (2012) of Recommendation ITU-T G.798 (2010).\r\n–\tAdd ODUkT_TT_Sk_MI_LTCAct_Enable, default \"false\".\r\n–\tAdd fault cause and MI for new ODUkP-h/ETH_A, k=1,2, 3,flex.\r\n–\tAdd fault cause and MI for new ODUkP-h/ODUj-21_A, k=2,3,4; j=0,1,2,2e,3,flex.\r\n–\tAdd new MI input ODUkT_TCMCm_MI_TCM_Extension."
 status:
   stage:
     content: Withdrawal

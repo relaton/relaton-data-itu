@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This corrigendum modifies the references in 2.2/Q.2961.2 by adding a reference
-    to Recommendation Q.2961.6. Also Table A.1/Q.2961.2 is replaced by a new table,
-    where:\r• the terms \"SBR2/SBR3\" have been removed;\r• Note 6 has been updated;
-    and\r• a new Note 14 has been added.The existing implementations are not affected
-    by these changes, however, existing and future implementations should use the
-    terminology for ATM transfer capabilities described in the new Table A.1/Q.2961.2."
+  content: "This corrigendum modifies the references in 2.2/Q.2961.2 by adding a reference to Recommendation Q.2961.6. Also Table A.1/Q.2961.2 is replaced by a new table, where:\r• the terms \"SBR2/SBR3\" have been removed;\r• Note 6 has been updated; and\r• a new Note 14 has been added.The existing implementations are not affected by these changes, however, existing and future implementations should use the terminology for ATM transfer capabilities described in the new Table A.1/Q.2961.2."
 status:
   stage:
     content: Published
@@ -72,9 +67,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'Digital subscriber signalling system No. 2 – Additional traffic parameters
-        : Support of ATM Transfer capability in the broadband bearer capability information
-        element'
+      content: 'Digital subscriber signalling system No. 2 – Additional traffic
+        parameters : Support of ATM Transfer capability in the broadband bearer capability
+        information element'
     docidentifier:
     - content: Q.2961.2 (06/1997)
       type: ITU
@@ -323,9 +318,9 @@ relation:
     - language: en
       script: Latn
       content: 'Supplement to ITU-T Q.2900 series Recommendations: Broadband integrated
-        services digital network (B-ISDN) – Digital subscriber signalling system No.
-        2 (DSS2) – User-network interface layer 3 – Overview of B-ISDN DSS2 signalling
-        capabilities'
+        services digital network (B-ISDN) – Digital subscriber signalling system
+        No. 2 (DSS2) – User-network interface layer 3 – Overview of B-ISDN DSS2
+        signalling capabilities'
     docidentifier:
     - content: Q Suppl. 25 (12/1999)
       type: ITU
@@ -335,9 +330,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -347,8 +342,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

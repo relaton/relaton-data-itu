@@ -52,10 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1003 specifies the renewable conditional access
+  content: 'Recommendation ITU-T J.1003 specifies the renewable conditional access
     system (RCAS) network protocol that supports authentication and secure download
     of conditional access client software (CACS) required in Recommendation ITU-T
-    J.1001.\r\n"
+    J.1001.
+    '
 status:
   stage:
     content: Published

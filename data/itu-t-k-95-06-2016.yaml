@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Telecommunication devices and equipment can use non-linear limiting, linear
+  content: 'Telecommunication devices and equipment can use non-linear limiting, linear
     attenuating, or both types of functions to mitigate surges occurring on services.
     Isolating transformers attenuate common-mode voltage surges on a service. Recommendation
     ITU-T K.95 gives test methods and preferred values for the isolating transformer
     surge parameters that are harmonized with established international standards
-    on insulation coordination levels and test techniques.\r\n"
+    on insulation coordination levels and test techniques.
+    '
 status:
   stage:
     content: Published

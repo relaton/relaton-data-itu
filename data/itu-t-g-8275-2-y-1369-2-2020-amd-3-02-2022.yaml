@@ -47,17 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275.2/Y.1369.2 contains the ITU-T precision time
-    protocol (PTP) profile for phase/time distribution with partial timing support
-    from the network (unicast mode). It provides the necessary details to utilize
-    IEEE 1588 in a manner consistent with the architecture described in Recommendation
-    ITU-T G. 8275/Y.1369. This Recommendation defines the PTP profile for unicast
-    mode only. Future editions of this Recommendation may contain a separate profile
-    for a mixed unicast/multicast case\r\nAmendment 3provides the following updates:\r\n–\tReplaced
-    masterOnly procedures with a pointer to the procedures defined in IEEE 1588 2019\r\n–\tAdded
-    new per port notMaster attribute\r\n–\tAdded indication of datatype for all dataset
-    members (Annex A)\r\n–\tAdded some notes to dataset tables (Annex A)\r\n–\tUpdated
-    requirements related to IPv4 and IPv6 (clauses 6.4 and A.3.2)\r\n"
+  content: "Recommendation ITU-T G.8275.2/Y.1369.2 contains the ITU-T precision time protocol (PTP) profile for phase/time distribution with partial timing support from the network (unicast mode). It provides the necessary details to utilize IEEE 1588 in a manner consistent with the architecture described in Recommendation ITU-T G. 8275/Y.1369. This Recommendation defines the PTP profile for unicast mode only. Future editions of this Recommendation may contain a separate profile for a mixed unicast/multicast case\r\nAmendment 3provides the following updates:\r\n–\tReplaced masterOnly procedures with a pointer to the procedures defined in IEEE 1588 2019\r\n–\tAdded new per port notMaster attribute\r\n–\tAdded indication of datatype for all dataset members (Annex A)\r\n–\tAdded some notes to dataset tables (Annex A)\r\n–\tUpdated requirements related to IPv4 and IPv6 (clauses 6.4 and A.3.2)\r\n"
 status:
   stage:
     content: Withdrawal

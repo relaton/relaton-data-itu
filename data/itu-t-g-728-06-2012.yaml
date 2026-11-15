@@ -50,56 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.728 contains the description of an algorithm for
-    the coding of speech signals at 16 kbit/s using low-delay code excited linear
-    prediction (LD-CELP). The main description is found in the main body of the Recommendation,
-    where the floating-point implementation of LD CELP is described. Annexes A, B,
-    C and D contain tables of constants used by the LD-CELP algorithm. In Annex E,
-    the sequencing of variable adaptation and its use is given and Annex F lists the
-    abbreviations used in this Recommendation. \r\nAnnex G contains the alternative16
-    kbit/s (16-bit) fixed-point specification of ITU-T G.728. The purpose of this
-    Annex is to describe in sufficient detail how ITU-T G.728 operating at 16 kbit/s
-    can be implemented on a fixed-point arithmetic device. A fixed-point implementation
-    based on this description should be capable of fully interworking with a floating-point
-    version of ITU-T G.728 and producing an output signal of equivalent quality, whether
-    that signal is speech or an in-band data signal.\r\nITU-T G.728 LD-CELP can operate
-    at three bitrates other than 16 kbit/s, as defined in Annexes H and J. These additional
-    operating modes are particularly useful for applications such as digital circuit
-    multiplication equipment (DCME).\r\nAnnex H contains the modifications to ITU-T
-    G.728 LD-CELP speech coding algorithm needed to reduce the coding bit rate down
-    to 12.8 and 9.6 kbit/s. These modifications include the modifications to the shape
-    and gain codebooks. Operation at lower rates can assist DCME in handling increased
-    voice traffic while showing a graceful quality degradation.\r\nAnnex I is concerned
-    with how to conceal the loss of bitstream information due to frame erasure or
-    packet loss in the communications channel. During normal operation, the decoder
-    performs in a manner identical with the ITU-T G.728 main body or its Annex G when
-    operating at 16 kbit/s, or with Annex H when operating at 12.8 or 9.6 kbit/s.
-    The modification described in Annex I only involves changing the decoder during
-    times when the bitstream is unavailable. It is presumed that this loss of the
-    bitstream is indicated to the decoder by some external means. Annex I is not essential
-    for normal operation of ITU-T G.728.\r\nAnnex J defines a 40 kbit/s extension
-    that is optimized for voiceband data (VBD). The algorithmic delay is five samples
-    long (0.625 ms), which is the same as the other LD-CELP modes of operation described
-    in this Recommendation. The 40 kbit/s VBD algorithm in Annex J is intended for
-    VBD signal compression transmission in applications such as DCME. The algorithm
-    allows soft transition to and from the other ITU-T G.728 LD-CELP operating modes,
-    and is also designed to maintain toll-quality speech. Annex J is an implementation-efficient
-    alternative to the 40 kbit/s ADPCM mode (ITU-T G.726) in DCME systems that incorporate
-    LD-CELP (ITU-T G.728).\r\nAppendix I contains information on the implementation
-    verification procedures for LD-CELP operating at 16 kbit/s (both floating- and
-    fixed-point operation). This Appendix describes the digital test sequences and
-    the measurement software to be used for implementation verification of ITU T G.728.
-    Provision is included for both floating-point implementations, based on the ITU
-    T G.728 main body, and bit-exact fixed-point implementations, based on Annex G.\r\nAppendix
-    II gives a broad outline of the speech performance of the 16 kbit/s LD-CELP algorithm
-    when interacting with other parts of the network. Some general guidance is also
-    offered on voice-like and non-voice signals. The performance of ITU-T G.728 is
-    compared to that of 32 kbit/s operating mode of the ITU-T G.726 ADPCM) and of
-    ITU-T G.711 (64 kbit/s PCM).\r\nAppendix III provides information on the operation
-    of the algorithm defined in Annex I when frame erasures occur.\r\nThis Recommendation
-    includes an electronic attachment containing programs and test sequences for verification
-    of the floating point and fixed point implementations of the ITU-T G.728 LD-CELP
-    algorithm.\r\n"
+  content: "Recommendation ITU-T G.728 contains the description of an algorithm for the coding of speech signals at 16 kbit/s using low-delay code excited linear prediction (LD-CELP). The main description is found in the main body of the Recommendation, where the floating-point implementation of LD CELP is described. Annexes A, B, C and D contain tables of constants used by the LD-CELP algorithm. In Annex E, the sequencing of variable adaptation and its use is given and Annex F lists the abbreviations used in this Recommendation. \r\nAnnex G contains the alternative16 kbit/s (16-bit) fixed-point specification of ITU-T G.728. The purpose of this Annex is to describe in sufficient detail how ITU-T G.728 operating at 16 kbit/s can be implemented on a fixed-point arithmetic device. A fixed-point implementation based on this description should be capable of fully interworking with a floating-point version of ITU-T G.728 and producing an output signal of equivalent quality, whether that signal is speech or an in-band data signal.\r\nITU-T G.728 LD-CELP can operate at three bitrates other than 16 kbit/s, as defined in Annexes H and J. These additional operating modes are particularly useful for applications such as digital circuit multiplication equipment (DCME).\r\nAnnex H contains the modifications to ITU-T G.728 LD-CELP speech coding algorithm needed to reduce the coding bit rate down to 12.8 and 9.6 kbit/s. These modifications include the modifications to the shape and gain codebooks. Operation at lower rates can assist DCME in handling increased voice traffic while showing a graceful quality degradation.\r\nAnnex I is concerned with how to conceal the loss of bitstream information due to frame erasure or packet loss in the communications channel. During normal operation, the decoder performs in a manner identical with the ITU-T G.728 main body or its Annex G when operating at 16 kbit/s, or with Annex H when operating at 12.8 or 9.6 kbit/s. The modification described in Annex I only involves changing the decoder during times when the bitstream is unavailable. It is presumed that this loss of the bitstream is indicated to the decoder by some external means. Annex I is not essential for normal operation of ITU-T G.728.\r\nAnnex J defines a 40 kbit/s extension that is optimized for voiceband data (VBD). The algorithmic delay is five samples long (0.625 ms), which is the same as the other LD-CELP modes of operation described in this Recommendation. The 40 kbit/s VBD algorithm in Annex J is intended for VBD signal compression transmission in applications such as DCME. The algorithm allows soft transition to and from the other ITU-T G.728 LD-CELP operating modes, and is also designed to maintain toll-quality speech. Annex J is an implementation-efficient alternative to the 40 kbit/s ADPCM mode (ITU-T G.726) in DCME systems that incorporate LD-CELP (ITU-T G.728).\r\nAppendix I contains information on the implementation verification procedures for LD-CELP operating at 16 kbit/s (both floating- and fixed-point operation). This Appendix describes the digital test sequences and the measurement software to be used for implementation verification of ITU T G.728. Provision is included for both floating-point implementations, based on the ITU T G.728 main body, and bit-exact fixed-point implementations, based on Annex G.\r\nAppendix II gives a broad outline of the speech performance of the 16 kbit/s LD-CELP algorithm when interacting with other parts of the network. Some general guidance is also offered on voice-like and non-voice signals. The performance of ITU-T G.728 is compared to that of 32 kbit/s operating mode of the ITU-T G.726 ADPCM) and of ITU-T G.711 (64 kbit/s PCM).\r\nAppendix III provides information on the operation of the algorithm defined in Annex I when frame erasures occur.\r\nThis Recommendation includes an electronic attachment containing programs and test sequences for verification of the floating point and fixed point implementations of the ITU-T G.728 LD-CELP algorithm.\r\n"
 status:
   stage:
     content: Published

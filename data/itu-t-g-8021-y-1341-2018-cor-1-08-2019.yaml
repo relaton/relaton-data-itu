@@ -47,11 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8021/Y.1341 specifies both the functional components
-    and the methodology that should be used in order to specify the Ethernet transport
-    network functionality of network elements; it does not specify individual Ethernet
-    transport network equipment.\r\n\r\nCorrigendum 1 corrects the diagram of the
-    Bandwidth Notification Message (BNM) insert behaviour specified in Figure 8-106"
+  content: "Recommendation ITU-T G.8021/Y.1341 specifies both the functional components and the methodology that should be used in order to specify the Ethernet transport network functionality of network elements; it does not specify individual Ethernet transport network equipment.\r\n\r\nCorrigendum 1 corrects the diagram of the Bandwidth Notification Message (BNM) insert behaviour specified in Figure 8-106"
 status:
   stage:
     content: Withdrawal

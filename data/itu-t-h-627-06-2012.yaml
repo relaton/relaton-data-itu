@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.627 describes the detailed specifications of reference
-    points, signalling and control methods, and overall protocols of a visual surveillance
-    system, based on the requirements described in Recommendation ITU-T F.743 and
-    the functional architecture described in Recommendation ITU-T H.626.\r\nFor the
-    reference points between different functional entities relevant protocols are
-    identified, such as protocols between the premises unit (PU) and service platform,
-    the customer unit (CU) and service platform, and the PU and CU. \r\nFor reference
-    points in the same functional entity, the internal signalling is described, including
-    the signalling flow or information elements relevant for each reference point,
-    such as the signalling for the service control flow, and the media distribution
-    flow in the service platform. \r\nMessage formats and message text which relate
-    to existing protocols (such as SIP, RTP, RTSP, HTTP) used in this Recommendation,
-    are also provided.\r\n"
+  content: "Recommendation ITU-T H.627 describes the detailed specifications of reference points, signalling and control methods, and overall protocols of a visual surveillance system, based on the requirements described in Recommendation ITU-T F.743 and the functional architecture described in Recommendation ITU-T H.626.\r\nFor the reference points between different functional entities relevant protocols are identified, such as protocols between the premises unit (PU) and service platform, the customer unit (CU) and service platform, and the PU and CU. \r\nFor reference points in the same functional entity, the internal signalling is described, including the signalling flow or information elements relevant for each reference point, such as the signalling for the service control flow, and the media distribution flow in the service platform. \r\nMessage formats and message text which relate to existing protocols (such as SIP, RTP, RTSP, HTTP) used in this Recommendation, are also provided.\r\n"
 status:
   stage:
     content: Withdrawal

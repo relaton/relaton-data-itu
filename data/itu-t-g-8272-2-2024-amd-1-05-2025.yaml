@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8272.2 specifies requirements for coherent network
-    primary reference time clocks suitable for time, phase and frequency synchronization
-    in networks. These requirements apply under the normal environmental conditions
-    specified for the equipment.\r\nAmendment 1 provides the following updates:\r\n•Adds
-    material to the scope on cnPRTC clocks and cnPRTC groups of clocks.\r\n•Adds material
-    to clause 10 Coherency.\r\n•Changes \"time standard\" to \"time scale\" and clarifies
-    the use of UTC.\r\n•Replaces the term \"calibration\" with the more appropriate
-    term \"compensation\".\r\n•Adds material on \"UTC time signal source\" to clause
-    5, Conventions.\r\nAdds new Appendix IV, cnPRTC coherency requirement assumptions
-    (GNSS example).\r\n"
+  content: "Recommendation ITU-T G.8272.2 specifies requirements for coherent network primary reference time clocks suitable for time, phase and frequency synchronization in networks. These requirements apply under the normal environmental conditions specified for the equipment.\r\nAmendment 1 provides the following updates:\r\n•Adds material to the scope on cnPRTC clocks and cnPRTC groups of clocks.\r\n•Adds material to clause 10 Coherency.\r\n•Changes \"time standard\" to \"time scale\" and clarifies the use of UTC.\r\n•Replaces the term \"calibration\" with the more appropriate term \"compensation\".\r\n•Adds material on \"UTC time signal source\" to clause 5, Conventions.\r\nAdds new Appendix IV, cnPRTC coherency requirement assumptions (GNSS example).\r\n"
 status:
   stage:
     content: Published

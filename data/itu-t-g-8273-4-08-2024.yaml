@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8273.4 specifies minimum requirements for time
+  content: 'Recommendation ITU-T G.8273.4 specifies minimum requirements for time
     and phase synchronization equipment used in synchronization networks that operates
     in the assisted partial timing support (APTS) and partial timing support (PTS)
-    architectures.\r\n"
+    architectures.
+    '
 status:
   stage:
     content: Published

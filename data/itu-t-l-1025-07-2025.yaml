@@ -54,9 +54,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.1025 addresses the requirements on secure data
+  content: 'Recommendation ITU-T L.1025 addresses the requirements on secure data
     deletion. It aims to give a valid and compliant method to assess if this specific
-    requirement on data deletion has been met.\r\n"
+    requirement on data deletion has been met.
+    '
 status:
   stage:
     content: Published

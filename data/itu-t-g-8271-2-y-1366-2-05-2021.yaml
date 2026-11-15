@@ -53,14 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8271.2/Y.1366.2 specifies the maximum network limits
-    of phase and time error that shall not be exceeded. It specifies the minimum equipment
-    tolerance to phase and time error that shall be provided at the boundary of these
-    packet networks at phase and time synchronization interfaces. It also outlines
-    the minimum requirements for the synchronization function of network elements.
-    Recommendation ITU-T G.8271.2/Y.1366.2 addresses the case of time and phase distribution
-    across a network with the packet-based method with partial timing support to the
-    protocol level from the network. \r\n"
+  content: "Recommendation ITU-T G.8271.2/Y.1366.2 specifies the maximum network limits of phase and time error that shall not be exceeded. It specifies the minimum equipment tolerance to phase and time error that shall be provided at the boundary of these packet networks at phase and time synchronization interfaces. It also outlines the minimum requirements for the synchronization function of network elements. Recommendation ITU-T G.8271.2/Y.1366.2 addresses the case of time and phase distribution across a network with the packet-based method with partial timing support to the protocol level from the network. \r\n"
 status:
   stage:
     content: Published

@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation utilizes the normal procedures of Broadband ISDN User
-    Part (B-ISUP) protocol in order to support soft Permanent Virtual Connections
-    (soft PVCs) between their endpoints. The endpoints are responsible for maintaining
-    the end-to-end circuit by setting up a new switched connection in case the existing
-    switched connection is released or fails. Two types of soft PVC are supported:
-    soft Permanent Virtual Path Connection (PVPC) and soft Permanent Virtual Channel
-    Connection (PVCC). This Recommendation contains the additional message and parameter
-    coding, procedures, ASE descriptions, and interworking mapping tables for the
-    support of soft PVCC\r\nand soft PVPC services."
+  content: "This Recommendation utilizes the normal procedures of Broadband ISDN User Part (B-ISUP) protocol in order to support soft Permanent Virtual Connections (soft PVCs) between their endpoints. The endpoints are responsible for maintaining the end-to-end circuit by setting up a new switched connection in case the existing switched connection is released or fails. Two types of soft PVC are supported: soft Permanent Virtual Path Connection (PVPC) and soft Permanent Virtual Channel Connection (PVCC). This Recommendation contains the additional message and parameter coding, procedures, ASE descriptions, and interworking mapping tables for the support of soft PVCC\r\nand soft PVPC services."
 status:
   stage:
     content: Withdrawal
@@ -336,9 +328,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -348,8 +340,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

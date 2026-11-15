@@ -52,8 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 3 to Recommendation ITU-T G.992.3 (2009) covers the following
-    functionality:\r\n1.\tAccuracy of test parameters (clarification)."
+  content: "Corrigendum 3 to Recommendation ITU-T G.992.3 (2009) covers the following functionality:\r\n1.\tAccuracy of test parameters (clarification)."
 status:
   stage:
     content: Published
@@ -216,8 +215,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C – Specific requirements for an ADSL system operating in
-        the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix III
+      content: New Annex C – Specific requirements for an ADSL system operating
+        in the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix
+        III
     docidentifier:
     - content: G.992.3 (2002) Amd. 3 (06/2004)
       type: ITU

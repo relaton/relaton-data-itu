@@ -50,13 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709.3 specifies 100G, 200G and 400G FlexO Beyond
-    100G (B100G) long-reach interfaces. The Recommendation specifies the structure
-    using forward error correction codes with a higher coding gain suitable for longer
-    reach applications and references common elements from Recommendation ITU-T G.709.1
-    and FEC structures from Recommendation ITU-T G.709.2.\r\nEdition 3 contains the
-    following extensions to Edition 2.1:\r\n–Removal of FlexO-1-SC and FOIC1.k-SC
-    interface\r\n–Move of OTUCn GMP mapping procedure to Recommendation ITU-T G.709.1\r\n"
+  content: "Recommendation ITU-T G.709.3 specifies 100G, 200G and 400G FlexO Beyond 100G (B100G) long-reach interfaces. The Recommendation specifies the structure using forward error correction codes with a higher coding gain suitable for longer reach applications and references common elements from Recommendation ITU-T G.709.1 and FEC structures from Recommendation ITU-T G.709.2.\r\nEdition 3 contains the following extensions to Edition 2.1:\r\n–Removal of FlexO-1-SC and FOIC1.k-SC interface\r\n–Move of OTUCn GMP mapping procedure to Recommendation ITU-T G.709.1\r\n"
 status:
   stage:
     content: Published

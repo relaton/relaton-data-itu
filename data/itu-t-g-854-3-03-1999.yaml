@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The topology management community is used to managing the topology of
+  content: 'The topology management community is used to managing the topology of
     a layer network domain and the relationships between the resources of the layer
     network domain being managed. The service provided by the community allows for
     the creation and deletion of the following resources inside a layer network domain:
@@ -61,15 +61,16 @@ abstract:
     notification receivers of creation and deletion of resources in the community.
     The service is available between one single caller and one single provider.The
     partitioning of subnetworks and links is not addressed in this community.Enterprise
-    community actions covered by this specification:\r• create access group;\r• delete
-    access group;\r• create link;\r• delete link;\r• create link end;\r• delete link
-    end;\r• create subnetwork;\r• delete subnetwork;\r• create topological link;\r•
-    delete topological link;\r• create topological link end;\r• delete topological
-    link end;\r• report access group creation;\r• report access group deletion;\r•
-    report link creation;\r• report link deletion;\r• report link end creation;\r•
-    report link end deletion;\r• report subnetwork creation;\r• report subnetwork
-    deletion;\r• report topological link creation;\r• report topological link deletion;\r•
-    report topological link end creation;\r• report topological link end deletion."
+    community actions covered by this specification:    • create access group;    •
+    delete access group;    • create link;    • delete link;    • create
+    link end;    • delete link end;    • create subnetwork;    • delete subnetwork;    •
+    create topological link;    • delete topological link;    • create topological
+    link end;    • delete topological link end;    • report access group creation;    •
+    report access group deletion;    • report link creation;    • report link
+    deletion;    • report link end creation;    • report link end deletion;    •
+    report subnetwork creation;    • report subnetwork deletion;    • report
+    topological link creation;    • report topological link deletion;    • report
+    topological link end creation;    • report topological link end deletion.'
 status:
   stage:
     content: Published

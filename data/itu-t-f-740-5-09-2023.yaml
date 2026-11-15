@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.740.5 provides the collection procedure of data
+  content: 'Recommendation ITU-T F.740.5 provides the collection procedure of data
     for automatic white balance (AWB) enhancement and describes the requirements for
     all steps, which includes the requirements for scene selecting, shooting setting,
     data capturing and illumination uniformity detecting. The requirements of data
     annotation are also described in this Recommendation, including the illumination
     colour, illumination indicator and device. The goal of this Recommendation is
     to improve the user experience during image data transmission, which is the most
-    popular cultural behaviour.\r\n"
+    popular cultural behaviour.
+    '
 status:
   stage:
     content: Published

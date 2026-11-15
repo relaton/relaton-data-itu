@@ -47,9 +47,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 1 updates clause 8.3.7 on \"Bidirectional transmissions\",
-    modifying the example of hierarchical bidirectional transmission by using a tree
-    topology, which represents a more extensive use case for this feature.\r\n"
+  content: 'Corrigendum 1 updates clause 8.3.7 on "Bidirectional transmissions", modifying
+    the example of hierarchical bidirectional transmission by using a tree topology,
+    which represents a more extensive use case for this feature.
+    '
 status:
   stage:
     content: Published
@@ -77,8 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wireline-based home networking transceivers – Data
-        link layer specification
+      content: Unified high-speed wireline-based home networking transceivers –
+        Data link layer specification
     docidentifier:
     - content: G.9961 (12/2023)
       type: ITU

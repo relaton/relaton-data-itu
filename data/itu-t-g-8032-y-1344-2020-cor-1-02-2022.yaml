@@ -47,15 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8032/Y.1344 defines the automatic protection switching
-    (APS) protocol and protection switching mechanisms for Ethernet layer network
-    (ETH) ring topologies. Included are details pertaining to Ethernet ring protection
-    characteristics, architectures and the ring APS (R-APS) protocol.\r\nThis revision
-    updates references, removes items formerly considered for further study and incorporates
-    terms formerly defined in Recommendation ITU-T G.8001/Y.1354 (2016).\r\nCorrigendum
-    1 clarifies that ETH_C_MI_RAPS_PortIds[0..1] applies to a set of ETH flow points,
-    and that ETH_FF is a process as specified in Recommendation ITU-T G.8021/Y.1341,
-    and corrects editorial errors in Figure 10-1.\r\n"
+  content: "Recommendation ITU-T G.8032/Y.1344 defines the automatic protection switching (APS) protocol and protection switching mechanisms for Ethernet layer network (ETH) ring topologies. Included are details pertaining to Ethernet ring protection characteristics, architectures and the ring APS (R-APS) protocol.\r\nThis revision updates references, removes items formerly considered for further study and incorporates terms formerly defined in Recommendation ITU-T G.8001/Y.1354 (2016).\r\nCorrigendum 1 clarifies that ETH_C_MI_RAPS_PortIds[0..1] applies to a set of ETH flow points, and that ETH_FF is a process as specified in Recommendation ITU-T G.8021/Y.1341, and corrects editorial errors in Figure 10-1.\r\n"
 status:
   stage:
     content: Published

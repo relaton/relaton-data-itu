@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The detection mechanisms for duplicate unique identifiers (UIDs) discussed
-    in Recommendation ITU-T Q.5052 are based on post-processing mobile network data
-    to identify devices for blocking purposes based on criteria defined by individual
-    national regulatory bodies. Through incorporation of one or more of these mechanisms,
-    systems can identify and address the problems that duplicate or cloned devices
-    present to governments, operators and consumers. A combination of one or more
-    methodologies described in Recommendation ITU-T Q.5052 can be employed at any
-    given time. The decision regarding the methodology or methodologies to employ
-    will determine the level of effectiveness of a country's detection mechanism.
-    The presence and detection of duplicate UIDs on mobile networks and identification
-    of the authenticity of a device are two key problems to which stakeholders are
-    looking to find solutions. \r\n"
+  content: "The detection mechanisms for duplicate unique identifiers (UIDs) discussed in Recommendation ITU-T Q.5052 are based on post-processing mobile network data to identify devices for blocking purposes based on criteria defined by individual national regulatory bodies. Through incorporation of one or more of these mechanisms, systems can identify and address the problems that duplicate or cloned devices present to governments, operators and consumers. A combination of one or more methodologies described in Recommendation ITU-T Q.5052 can be employed at any given time. The decision regarding the methodology or methodologies to employ will determine the level of effectiveness of a country's detection mechanism. The presence and detection of duplicate UIDs on mobile networks and identification of the authenticity of a device are two key problems to which stakeholders are looking to find solutions. \r\n"
 status:
   stage:
     content: Published
@@ -321,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -333,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

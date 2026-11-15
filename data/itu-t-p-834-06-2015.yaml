@@ -51,16 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.834 gives a methodology for deriving equipment
-    impairment factors (Ies) for digital signal processing devices, namely low bit-rate
-    codecs. The Ie values are intended to be used as an input to the E-model (see
-    Recommendation ITU-T G.107).\r\n\r\nThe methodology specified in this Recommendation
-    makes use of instrumental models (so-called \"objective methods\"), e.g., of the
-    model defined in Recommendation ITU-T P.862. It is to be considered as supplementary
-    to the methodology based on auditory listening-only tests, described in Recommendation
-    ITU-T P.833. It will provide valid Ie values only for those codecs for which the
-    used instrumental model produces meaningful estimations.\r\n\r\nThis Recommendation
-    includes an electronic attachment containing speech material.\r\n"
+  content: "Recommendation ITU-T P.834 gives a methodology for deriving equipment impairment factors (Ies) for digital signal processing devices, namely low bit-rate codecs. The Ie values are intended to be used as an input to the E-model (see Recommendation ITU-T G.107).\r\n\r\nThe methodology specified in this Recommendation makes use of instrumental models (so-called \"objective methods\"), e.g., of the model defined in Recommendation ITU-T P.862. It is to be considered as supplementary to the methodology based on auditory listening-only tests, described in Recommendation ITU-T P.833. It will provide valid Ie values only for those codecs for which the used instrumental model produces meaningful estimations.\r\n\r\nThis Recommendation includes an electronic attachment containing speech material.\r\n"
 status:
   stage:
     content: Published

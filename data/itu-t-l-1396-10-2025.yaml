@@ -54,19 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.1396 defines the measurement of electrical power
-    and energy consumption of information and communication technology (ICT) equipment
-    as well as environmental parameters (temperature, hygrometry) to improve energy
-    monitoring and to correlate the power consumption to equipment operation activity
-    (telecom traffic, computation, etc.).It also defines the transfer protocol of
-    this measurement data from site to network operation centre. \r\nUnderstanding
-    power consumption provides the opportunity to reduce energy consumption of equipment
-    and the network. Granularity, measurement period and accuracies are defined to
-    meet these targets. They may depend on equipment types and location in the different
-    segments of a network (customer termination, access, core, datacentre, etc.).
-    In addition, these measurements can be used to improve engineering and operation
-    including more accurate dimensioning of power systems, network evolution modelling
-    and prevision, audit on field, etc.\r\n"
+  content: "Recommendation ITU-T L.1396 defines the measurement of electrical power and energy consumption of information and communication technology (ICT) equipment as well as environmental parameters (temperature, hygrometry) to improve energy monitoring and to correlate the power consumption to equipment operation activity (telecom traffic, computation, etc.).It also defines the transfer protocol of this measurement data from site to network operation centre. \r\nUnderstanding power consumption provides the opportunity to reduce energy consumption of equipment and the network. Granularity, measurement period and accuracies are defined to meet these targets. They may depend on equipment types and location in the different segments of a network (customer termination, access, core, datacentre, etc.). In addition, these measurements can be used to improve engineering and operation including more accurate dimensioning of power systems, network evolution modelling and prevision, audit on field, etc.\r\n"
 status:
   stage:
     content: Published

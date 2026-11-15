@@ -53,13 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation introduces support for SCTP bearers in IP Media Gateways.
-    It defines H.248 packages that allow an MGC to control the establishment and the
-    release of SCTP Associations with one of multiple SCTP Streams as well as SCTP
-    reconfiguration procedures. The Recommendation defines a grouping semantics with
-    a deaggregation stream that allows the partition of the protocol stack in two
-    segments: on one side the SCTP Association and layers below and on the other side
-    the individual SCTP Streams.\r\n\r\n \r\n"
+  content: "This Recommendation introduces support for SCTP bearers in IP Media Gateways. It defines H.248 packages that allow an MGC to control the establishment and the release of SCTP Associations with one of multiple SCTP Streams as well as SCTP reconfiguration procedures. The Recommendation defines a grouping semantics with a deaggregation stream that allows the partition of the protocol stack in two segments: on one side the SCTP Association and layers below and on the other side the individual SCTP Streams.\r\n\r\n \r\n"
 status:
   stage:
     content: Published

@@ -47,18 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.872 describes the functional architecture of the
-    optical transport network (OTN) using the modelling methodology described in Recommendations
-    ITU-T G.800, ITU-T G.805 and ITU-T G.807. The OTN functionality is described from
-    a network level viewpoint, taking into account, the characteristic information
-    of clients of OTN, client/server layer associations, networking topology, layer
-    network functionality and optical media network structure, which provide multiplexing,
-    routing and supervision of digital clients. The digital layers of the OTN use
-    the frame formats defined in ITU-T G.709. The media portion of the network is
-    described in terms of media constructs, media elements and optical signal maintenance
-    entities. \r\n\r\nAmendment 1 updates ITU-T G.872 (2019) to align with ITU-T G.807
-    (2020) Amendment 1. It also adds a description of the OTU25 and OTU50 interfaces,
-    and enhances the description of flexible OTN interfaces. \r\n"
+  content: "Recommendation ITU-T G.872 describes the functional architecture of the optical transport network (OTN) using the modelling methodology described in Recommendations ITU-T G.800, ITU-T G.805 and ITU-T G.807. The OTN functionality is described from a network level viewpoint, taking into account, the characteristic information of clients of OTN, client/server layer associations, networking topology, layer network functionality and optical media network structure, which provide multiplexing, routing and supervision of digital clients. The digital layers of the OTN use the frame formats defined in ITU-T G.709. The media portion of the network is described in terms of media constructs, media elements and optical signal maintenance entities. \r\n\r\nAmendment 1 updates ITU-T G.872 (2019) to align with ITU-T G.807 (2020) Amendment 1. It also adds a description of the OTU25 and OTU50 interfaces, and enhances the description of flexible OTN interfaces. \r\n"
 status:
   stage:
     content: Withdrawal

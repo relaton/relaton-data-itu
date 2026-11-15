@@ -47,21 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.8151/Y.1374 (2015) provides:\r\n\r\n-
-    \           Added cFOP related MI signals for Fault Cause Persistency function
-    in Table 7-1, Alarm Reporting Control function in Table 7-2, Operational State
-    function in Table 7-3 to align with ITU-T G.8121/Y.1381. \r\n\r\n-            Add
-    the APS related MI signals for provisioning and reporting for connection functions
-    in Table 8-4 to align with ITU-T G.8121/Y.1381.\r\n\r\n-            Removed APS
-    related MI signals for provisioning and reporting for adaptation functions Table
-    8-2 to align with ITU-T G.8121/Y.1381.\r\n\r\n-            Added new MI signals
-    of intermediate request for LMo, DMo, SLo, and 1DMo to Table 8-3 to align with
-    ITU-T G.8121/Y.1381.\r\n\r\n-            Added new MI signals for proactive measurements
-    to Table 8-1, to align with ITU-T G.8121/Y.1381, as: \r\n\r\n-        Add MT_TT_
-    {So/Sk}_1SLp\r\n\r\n-        Add MT_TT_ {So/Sk}_MI_1LMp_Enable  (Also Removed
-    MT_TT_ {So/Sk}_LMC_Enable from Table 8-1.1)\r\n\r\n-        Add [1…M] to  MT_TT_
-    {So/Sk}_{LMp/DMp/1DMp/1SLp}_OAM_Tool\r\n\r\n-            Rename ODCV to CV in
-    Table 8-3.2 to align with ITU-T G.8121.2/Y.1381.2.\r\n"
+  content: "Amendment 1 to Recommendation ITU-T G.8151/Y.1374 (2015) provides:\r\n\r\n-            Added cFOP related MI signals for Fault Cause Persistency function in Table 7-1, Alarm Reporting Control function in Table 7-2, Operational State function in Table 7-3 to align with ITU-T G.8121/Y.1381. \r\n\r\n-            Add the APS related MI signals for provisioning and reporting for connection functions in Table 8-4 to align with ITU-T G.8121/Y.1381.\r\n\r\n-            Removed APS related MI signals for provisioning and reporting for adaptation functions Table 8-2 to align with ITU-T G.8121/Y.1381.\r\n\r\n-            Added new MI signals of intermediate request for LMo, DMo, SLo, and 1DMo to Table 8-3 to align with ITU-T G.8121/Y.1381.\r\n\r\n-            Added new MI signals for proactive measurements to Table 8-1, to align with ITU-T G.8121/Y.1381, as: \r\n\r\n-        Add MT_TT_ {So/Sk}_1SLp\r\n\r\n-        Add MT_TT_ {So/Sk}_MI_1LMp_Enable  (Also Removed MT_TT_ {So/Sk}_LMC_Enable from Table 8-1.1)\r\n\r\n-        Add [1…M] to  MT_TT_ {So/Sk}_{LMp/DMp/1DMp/1SLp}_OAM_Tool\r\n\r\n-            Rename ODCV to CV in Table 8-3.2 to align with ITU-T G.8121.2/Y.1381.2.\r\n"
 status:
   stage:
     content: Withdrawal

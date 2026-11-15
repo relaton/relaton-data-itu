@@ -50,49 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.720.1 describes an independent front-end processing
-    module implementing a generic sound activity detector (GSAD) that can be applied
-    prior to signal processing applications and can operate on narrow-band or wideband
-    audio input using a 10‑ms frame length (without lookahead), such as used by speech
-    or audio codecs. The primary function of the GSAD is to indicate the input frame
-    activity for performing voice activity detection (VAD). For an active frame, it
-    further indicates if the input frame is speech or music (speech/music discrimination),
-    and for an inactive frame it indicates whether the frame is a silence frame or
-    an audible noise frame (silence detection). The GSAD can also operate when only
-    the primary function of indicating the input frame activity is used. In order
-    to apply GSAD in specific cases, an adaptation layer may be required.\r\n\r\nAn
-    external control signal indicates to the GSAD algorithm which one of the three
-    different operating points to use, namely: bandwidth-saving, balanced and quality-preferred
-    operating points. For the activity detection functionality, these operating points
-    provide selectable balancing between bandwidth saving and audio quality, which
-    can be utilized for high-performance silence compression schemes that can balance
-    between the end-user's speech and audio subjective quality needs and the system
-    and network traffic requirements.\r\n\r\nThe three different operating points
-    also control the GSAD emphasis and balance between speech and music classification
-    for the active frames, which can be utilized for fine-tuning of source‑controlled
-    audio compression systems.\r\n\r\nThe VAD module uses a dual-parameters classification
-    scheme, where one parameter is a differential zero crossing rate measure and the
-    other parameter is a modified segmental: signal to noise ratio (SNR) measure.
-    An initial VAD decision is made with a pair of inequalities, with factors that
-    are adaptive to the long term SNR of the input signal. A final VAD decision is
-    obtained by an adaptive hangover scheme. The speech/music discrimination module
-    calculates the variance of a spectral deviation measure and applies an adaptive
-    threshold to make an initial decision between speech and music. Two spectral peakiness
-    measures further modify that initial decision and a one‑frame hangover is used
-    to obtain the final speech/music discrimination decision. The silence detection
-    module uses an energy threshold to discriminate between a silence frame and an
-    audible noise frame.\r\n\r\nThe main body of this Recommendation provides a detailed
-    description of the overall GSAD configuration, including the operating points;
-    the VAD module; the speech/music discrimination module and the silence detection
-    module. \r\n\r\nAnnex A describes a standalone generic voice activity detector
-    (GVAD) that can be applied prior to signal processing applications and can operate
-    on narrow-band or wideband audio input using 10 ms frame length (without lookahead),
-    such as used by speech or audio codecs. Its function is to indicate the input
-    frame activity. In order to apply GVAD in specific cases, an adaptation layer
-    may be required.\r\n\r\nThe Recommendation also contains an electronic attachment
-    with the ANSI C source code which forms an integral part of this Recommendation,
-    and a set of test vectors. The set of test vectors is also available for download
-    from the ITU-T Test Signal Database at: http://www.itu.int/net/ITU-T/sigdb/speaudio/Gseries.htm#G.720.1."
+  content: "Recommendation ITU-T G.720.1 describes an independent front-end processing module implementing a generic sound activity detector (GSAD) that can be applied prior to signal processing applications and can operate on narrow-band or wideband audio input using a 10‑ms frame length (without lookahead), such as used by speech or audio codecs. The primary function of the GSAD is to indicate the input frame activity for performing voice activity detection (VAD). For an active frame, it further indicates if the input frame is speech or music (speech/music discrimination), and for an inactive frame it indicates whether the frame is a silence frame or an audible noise frame (silence detection). The GSAD can also operate when only the primary function of indicating the input frame activity is used. In order to apply GSAD in specific cases, an adaptation layer may be required.\r\n\r\nAn external control signal indicates to the GSAD algorithm which one of the three different operating points to use, namely: bandwidth-saving, balanced and quality-preferred operating points. For the activity detection functionality, these operating points provide selectable balancing between bandwidth saving and audio quality, which can be utilized for high-performance silence compression schemes that can balance between the end-user's speech and audio subjective quality needs and the system and network traffic requirements.\r\n\r\nThe three different operating points also control the GSAD emphasis and balance between speech and music classification for the active frames, which can be utilized for fine-tuning of source‑controlled audio compression systems.\r\n\r\nThe VAD module uses a dual-parameters classification scheme, where one parameter is a differential zero crossing rate measure and the other parameter is a modified segmental: signal to noise ratio (SNR) measure. An initial VAD decision is made with a pair of inequalities, with factors that are adaptive to the long term SNR of the input signal. A final VAD decision is obtained by an adaptive hangover scheme. The speech/music discrimination module calculates the variance of a spectral deviation measure and applies an adaptive threshold to make an initial decision between speech and music. Two spectral peakiness measures further modify that initial decision and a one‑frame hangover is used to obtain the final speech/music discrimination decision. The silence detection module uses an energy threshold to discriminate between a silence frame and an audible noise frame.\r\n\r\nThe main body of this Recommendation provides a detailed description of the overall GSAD configuration, including the operating points; the VAD module; the speech/music discrimination module and the silence detection module. \r\n\r\nAnnex A describes a standalone generic voice activity detector (GVAD) that can be applied prior to signal processing applications and can operate on narrow-band or wideband audio input using 10 ms frame length (without lookahead), such as used by speech or audio codecs. Its function is to indicate the input frame activity. In order to apply GVAD in specific cases, an adaptation layer may be required.\r\n\r\nThe Recommendation also contains an electronic attachment with the ANSI C source code which forms an integral part of this Recommendation, and a set of test vectors. The set of test vectors is also available for download from the ITU-T Test Signal Database at: http://www.itu.int/net/ITU-T/sigdb/speaudio/Gseries.htm#G.720.1."
 status:
   stage:
     content: Published

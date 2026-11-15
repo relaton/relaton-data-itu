@@ -52,14 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Optional Additional Supplemental Enhancement Information which can be
-    added to an H.263 bitstream to provide backward-compatible enhancements, including:\r•
-    Indication of use of a specific fixed-point IDCT.\r• Picture Messages, including
-    the message types of:? Arbitrary Binary Data;? Text (Arbitrary, Copyright, Caption,
-    Video Description, or Uniform Resource Identifier);? Picture Header Repetition
-    (Current, Previous, Next with Reliable Temporal Reference, or Next with Unreliable
-    Temporal Reference);? Interlaced Field Indications (Top or Bottom); and? Spare
-    Reference Picture Identification."
+  content: "Optional Additional Supplemental Enhancement Information which can be added to an H.263 bitstream to provide backward-compatible enhancements, including:\r• Indication of use of a specific fixed-point IDCT.\r• Picture Messages, including the message types of:? Arbitrary Binary Data;? Text (Arbitrary, Copyright, Caption, Video Description, or Uniform Resource Identifier);? Picture Header Repetition (Current, Previous, Next with Reliable Temporal Reference, or Next with Unreliable Temporal Reference);? Interlaced Field Indications (Top or Bottom); and? Spare Reference Picture Identification."
 status:
   stage:
     content: Withdrawal

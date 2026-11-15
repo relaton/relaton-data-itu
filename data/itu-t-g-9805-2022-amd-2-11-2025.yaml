@@ -47,21 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9805 presents three methods for the coexistence
-    of multiple passive optical network (PON) generations on a common optical distribution
-    network (ODN): coexistence element (CE), multi-PON module (MPM), and splitterbased.
-    These methods allow the reuse of already deployed fibre and splitters when evolving
-    a legacy PON to a higher capacity. Methods for calculating required isolation
-    for coexistence element, filter considerations for higher speed passive optical
-    network (HSP) and asymmetric/symmetric 10-Gigabit passive optical network optical
-    line termination or XG(S)-PON OLT, and optical interface parameters for gigabit-capable
-    passive optical network (GPON) and XG(S)PON MPM supporting classes B+, C+ and
-    D optical path loss (OPL) are also described.\r\nAmendment 1 includes additional
-    3-gen PON systems coexistence methods, and crosstalk analysis between PON systems.\r\nAmendment
-    2 includes Class C+ and D OPL specifications for G-PON/XG(S)-PON 2-generation
-    MPM and G-PON/XG(S)-PON/50G-PON 3-generation MPM, and specifications for 10GEPON/50G-PON
-    2-generation MPM and EPON/10G-EPON/50G-PON 3-generation MPM. The 12.5Gbit/s upstream
-    line rate option for 50G-PON is deprecated.\r\n"
+  content: "Recommendation ITU-T G.9805 presents three methods for the coexistence of multiple passive optical network (PON) generations on a common optical distribution network (ODN): coexistence element (CE), multi-PON module (MPM), and splitterbased. These methods allow the reuse of already deployed fibre and splitters when evolving a legacy PON to a higher capacity. Methods for calculating required isolation for coexistence element, filter considerations for higher speed passive optical network (HSP) and asymmetric/symmetric 10-Gigabit passive optical network optical line termination or XG(S)-PON OLT, and optical interface parameters for gigabit-capable passive optical network (GPON) and XG(S)PON MPM supporting classes B+, C+ and D optical path loss (OPL) are also described.\r\nAmendment 1 includes additional 3-gen PON systems coexistence methods, and crosstalk analysis between PON systems.\r\nAmendment 2 includes Class C+ and D OPL specifications for G-PON/XG(S)-PON 2-generation MPM and G-PON/XG(S)-PON/50G-PON 3-generation MPM, and specifications for 10GEPON/50G-PON 2-generation MPM and EPON/10G-EPON/50G-PON 3-generation MPM. The 12.5Gbit/s upstream line rate option for 50G-PON is deprecated.\r\n"
 status:
   stage:
     content: Published

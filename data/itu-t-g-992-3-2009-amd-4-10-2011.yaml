@@ -47,10 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Functionalities covered in Amendment 4 to Recommendation ITU-T G.992.3
-    (2009) include:\r\n§\tA correction to CIpolicy=1 (corrigendum),\r\n§\tAn extension
-    to the valid values for Lp in L2 low power mode (amendment),\r\n§\tAn extension
-    to the valid values for the gi gain scaling in L2 low power mode (amendment)."
+  content: "Functionalities covered in Amendment 4 to Recommendation ITU-T G.992.3 (2009) include:\r\n§\tA correction to CIpolicy=1 (corrigendum),\r\n§\tAn extension to the valid values for Lp in L2 low power mode (amendment),\r\n§\tAn extension to the valid values for the gi gain scaling in L2 low power mode (amendment)."
 status:
   stage:
     content: Published
@@ -215,8 +212,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C – Specific requirements for an ADSL system operating in
-        the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix III
+      content: New Annex C – Specific requirements for an ADSL system operating
+        in the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix
+        III
     docidentifier:
     - content: G.992.3 (2002) Amd. 3 (06/2004)
       type: ITU

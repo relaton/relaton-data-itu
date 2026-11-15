@@ -52,23 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In recent years, IP-based video services have developed rapidly in cable
-    (CATV) networks, especially the highly asymmetric IP-based services with large
-    bandwidth, such as 4K, 8K and VR, whose single program bandwidth might easily
-    exceed 35Mbps or even up to 100Mbps. This requires a large downlink bandwidth
-    of transmission channels and poses challenges to existing CATV technologies. For
-    this scenario, it is necessary to propose a low cost and low complexity solution
-    to meet the bandwidth requirements of the current asymmetric IP-based video services.
-    Recommendation ITU-T J.1211 specifies an IPVB technology, which simply adds a
-    one-way IP-based video broadcast system to the existing low-cost bidirectional
-    CATV networks. The IPVB can greatly increase the bandwidth of downlink programs,
-    and at the same time, have the characteristics of being low cost and low complexity.
-    The IPVB in downlink transmits IP-based video streams through broadcast channels
-    which are identified by multicast IP addresses and UDP port numbers, and broadcasts
-    all the IP-based video streams through the CATV networks to all subscribers. By
-    cooperating with the uplink channel provided by the existing bidirectional access
-    networks, it is capable of providing varieties of IP-based high bit rate video
-    services in CATV networks. \r\n"
+  content: "In recent years, IP-based video services have developed rapidly in cable (CATV) networks, especially the highly asymmetric IP-based services with large bandwidth, such as 4K, 8K and VR, whose single program bandwidth might easily exceed 35Mbps or even up to 100Mbps. This requires a large downlink bandwidth of transmission channels and poses challenges to existing CATV technologies. For this scenario, it is necessary to propose a low cost and low complexity solution to meet the bandwidth requirements of the current asymmetric IP-based video services. Recommendation ITU-T J.1211 specifies an IPVB technology, which simply adds a one-way IP-based video broadcast system to the existing low-cost bidirectional CATV networks. The IPVB can greatly increase the bandwidth of downlink programs, and at the same time, have the characteristics of being low cost and low complexity. The IPVB in downlink transmits IP-based video streams through broadcast channels which are identified by multicast IP addresses and UDP port numbers, and broadcasts all the IP-based video streams through the CATV networks to all subscribers. By cooperating with the uplink channel provided by the existing bidirectional access networks, it is capable of providing varieties of IP-based high bit rate video services in CATV networks. \r\n"
 status:
   stage:
     content: Published

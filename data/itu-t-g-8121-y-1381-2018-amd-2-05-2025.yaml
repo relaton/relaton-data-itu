@@ -47,19 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8121/Y.1381 specifies both the functional components
-    and the methodology that should be used in order to specify multi-protocol label
-    switching – transport profile (MPLS-TP) layer network functionality of network
-    elements; it does not specify individual MPLS-TP network equipment as such.\r\nAmendment
-    1:\r\n–Provides new Annex A \"Mapping MPLS-TP packets to OTN using IMP\".\r\n–Replaces
-    Maintenance Communication Channel (MCC) by Management Communication Channel (MCC).\r\n–Makes
-    editorial corrections in Figure 11-37 to Figure 11-40 (replacing ETH_FP by ETH_AP)
-    and Table 11-17.\r\n–Updates the publication dates in References.\r\nCorrigendum
-    1:\r\n–Adds \"(Pattern)\" to MTDe_TT_Sk_MI_1TH_Start in Table 9-19.\r\n–Changes
-    MI_PCS[1…M] to MI_CoS[1...M] in Figure 11-2.\r\nAmendment 2:\r\n–Specifies management
-    information signals for reporting the state of linear and ring protection processes
-    to equipment management functionality in clause 9.1.\r\n–Adds missing abbreviation
-    for MTp and updates some references.\r\n"
+  content: "Recommendation ITU-T G.8121/Y.1381 specifies both the functional components and the methodology that should be used in order to specify multi-protocol label switching – transport profile (MPLS-TP) layer network functionality of network elements; it does not specify individual MPLS-TP network equipment as such.\r\nAmendment 1:\r\n–Provides new Annex A \"Mapping MPLS-TP packets to OTN using IMP\".\r\n–Replaces Maintenance Communication Channel (MCC) by Management Communication Channel (MCC).\r\n–Makes editorial corrections in Figure 11-37 to Figure 11-40 (replacing ETH_FP by ETH_AP) and Table 11-17.\r\n–Updates the publication dates in References.\r\nCorrigendum 1:\r\n–Adds \"(Pattern)\" to MTDe_TT_Sk_MI_1TH_Start in Table 9-19.\r\n–Changes MI_PCS[1…M] to MI_CoS[1...M] in Figure 11-2.\r\nAmendment 2:\r\n–Specifies management information signals for reporting the state of linear and ring protection processes to equipment management functionality in clause 9.1.\r\n–Adds missing abbreviation for MTp and updates some references.\r\n"
 status:
   stage:
     content: Published

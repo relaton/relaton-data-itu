@@ -47,24 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.984.5 defines wavelength ranges reserved for additional
-    service signals to be overlaid via wavelength division multiplexing (WDM) in future
-    passive optical networks (PON) for maximizing the value of optical distribution
-    networks (ODNs). \r\n\r\nAmendment 1 presents three methods for the coexistence
-    of multiple PON generations on a common ODN, which allow the reuse of already
-    deployed fibre and splitters when evolving an operator's network to a higher capacity.
-    Amendment 1 includes a new Appendix IV for a multi-PON module (MPM) with integrated
-    WDM within the optical line termination (OLT). Appendix III provides a method
-    for CEx isolation and directivity calculations in multi-interferer scenarios.
-    Appendix I has been revised with new isolation values and directivity values derived
-    using the method in Appendix III for a 4-port CEx with GPON, XG(S)-PON, NGPON2,
-    and an OTDR. Appendix V provides a method to have PON coexistence using a 2:N
-    splitter. \r\n\r\nAmendment 2 includes updates of general reference diagram of
-    coexistence element, isolation and directivity requirements for GPON and XG(S)-PON
-    pairing of a generic 2-port coexistence CEx, updates of methods for calculating
-    required isolation for WDM/CE/CEM devices, filter considerations for HSP and XG(S)-PON
-    OLT, and optical interface parameters for GPON/XG(S)-PON MPM supporting Class
-    D OPL. \r\n"
+  content: "Recommendation ITU-T G.984.5 defines wavelength ranges reserved for additional service signals to be overlaid via wavelength division multiplexing (WDM) in future passive optical networks (PON) for maximizing the value of optical distribution networks (ODNs). \r\n\r\nAmendment 1 presents three methods for the coexistence of multiple PON generations on a common ODN, which allow the reuse of already deployed fibre and splitters when evolving an operator's network to a higher capacity. Amendment 1 includes a new Appendix IV for a multi-PON module (MPM) with integrated WDM within the optical line termination (OLT). Appendix III provides a method for CEx isolation and directivity calculations in multi-interferer scenarios. Appendix I has been revised with new isolation values and directivity values derived using the method in Appendix III for a 4-port CEx with GPON, XG(S)-PON, NGPON2, and an OTDR. Appendix V provides a method to have PON coexistence using a 2:N splitter. \r\n\r\nAmendment 2 includes updates of general reference diagram of coexistence element, isolation and directivity requirements for GPON and XG(S)-PON pairing of a generic 2-port coexistence CEx, updates of methods for calculating required isolation for WDM/CE/CEM devices, filter considerations for HSP and XG(S)-PON OLT, and optical interface parameters for GPON/XG(S)-PON MPM supporting Class D OPL. \r\n"
 status:
   stage:
     content: Withdrawal

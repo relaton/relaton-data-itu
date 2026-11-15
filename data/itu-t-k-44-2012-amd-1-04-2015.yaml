@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T K.44 (2012) introduces changes to
-    the following clauses:\r\n•\t3.1\tDefinitions\r\n•\t10\tTests\r\n•\tA.3\tTest
-    generators\r\n•\tA.6.2\tCoaxial ports\r\n•\tA.6.7\tEthernet ports\r\n"
+  content: "Amendment 1 to Recommendation ITU-T K.44 (2012) introduces changes to the following clauses:\r\n•\t3.1\tDefinitions\r\n•\t10\tTests\r\n•\tA.3\tTest generators\r\n•\tA.6.2\tCoaxial ports\r\n•\tA.6.7\tEthernet ports\r\n"
 status:
   stage:
     content: Withdrawal

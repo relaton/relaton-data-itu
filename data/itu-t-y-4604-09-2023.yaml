@@ -53,18 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.4604 specifies metadata for camera sensing information
-    (MCSI) and describes characteristics and features of individual pieces of MCSI
-    working on autonomous mobile Internet of things (IoT) devices.\r\nIn the case
-    of low-cost and low-resolution IoT camera sensor devices, it is not possible to
-    support full-featured camera sensing information due to their resource-limited
-    capabilities. Traditional full-performance digital camera devices provide complex
-    metadata such as camera settings (stimulus, sensitivity, shutter speed, etc.),
-    time, location information and camera model.\r\nThere is no guidance for compliant
-    and compromised IoT camera-sensing metadata from different manufacturers. This
-    causes problems related to interchangeable metadata. It is essential therefore
-    to provide basic and minimal camera-sensing metadata to enable interoperability
-    between IoT applications and services.\r\n\r\n"
+  content: "Recommendation ITU-T Y.4604 specifies metadata for camera sensing information (MCSI) and describes characteristics and features of individual pieces of MCSI working on autonomous mobile Internet of things (IoT) devices.\r\nIn the case of low-cost and low-resolution IoT camera sensor devices, it is not possible to support full-featured camera sensing information due to their resource-limited capabilities. Traditional full-performance digital camera devices provide complex metadata such as camera settings (stimulus, sensitivity, shutter speed, etc.), time, location information and camera model.\r\nThere is no guidance for compliant and compromised IoT camera-sensing metadata from different manufacturers. This causes problems related to interchangeable metadata. It is essential therefore to provide basic and minimal camera-sensing metadata to enable interoperability between IoT applications and services.\r\n\r\n"
 status:
   stage:
     content: Published
@@ -84,7 +73,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -157,8 +147,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -178,7 +168,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -220,8 +210,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -231,7 +220,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -263,8 +253,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

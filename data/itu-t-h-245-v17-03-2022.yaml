@@ -52,25 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU T H.245 specifies syntax and semantics of terminal
-    information messages as well as procedures to use them for in-band negotiation
-    at the start of or during communication. The messages cover receiving and transmitting
-    capabilities as well as mode preference from the receiving end, logical channel
-    signalling, and Control & Indication. Acknowledged signalling procedures are specified
-    to ensure reliable audiovisual and data communication.\r\nProducts claiming compliance
-    with Version 17 of Recommendation ITU T H.245 shall comply with all of the mandatory
-    requirements of this Recommendation. Version 17 products can be identified by
-    Recommendation ITU T H.245 TerminalCapabilitySet messages containing a protocolIdentifier
-    value of {ITU T (0) recommendation (0) h (8) 245 version (0) 17}.\r\nRelative
-    to Recommendation ITU T H.245 Version 16 (2011), this version incorporates the
-    following changes:\r\n–\tAdd procedures in Annex V to support better interoperability
-    between IPv4 and IPv6 devices.\r\n–\tUpdated Table VIII.1 to support the revisions
-    made to Recommendation ITU T H.241.\r\n–\tSupport of an SCTP media transport in
-    H.323 systems, including the addition of Annex U.\r\n–\tSupport of DTLS media
-    transport in H.323 systems, including the addition of Annex U.\r\n–\tSupport of
-    out of band data channel establishment for Annex U.\r\n–\tPropose updates to Recommendation
-    ITU T H.245 to support SCTP: split dtls-sctp into udp dtls-sctp and tcp-dtls-sctp.\r\n–\tAdd
-    ExtendedAudioCapability and ExtendedDataCapability in Recommendation ITU T H.245.\r\n"
+  content: "Recommendation ITU T H.245 specifies syntax and semantics of terminal information messages as well as procedures to use them for in-band negotiation at the start of or during communication. The messages cover receiving and transmitting capabilities as well as mode preference from the receiving end, logical channel signalling, and Control & Indication. Acknowledged signalling procedures are specified to ensure reliable audiovisual and data communication.\r\nProducts claiming compliance with Version 17 of Recommendation ITU T H.245 shall comply with all of the mandatory requirements of this Recommendation. Version 17 products can be identified by Recommendation ITU T H.245 TerminalCapabilitySet messages containing a protocolIdentifier value of {ITU T (0) recommendation (0) h (8) 245 version (0) 17}.\r\nRelative to Recommendation ITU T H.245 Version 16 (2011), this version incorporates the following changes:\r\n–\tAdd procedures in Annex V to support better interoperability between IPv4 and IPv6 devices.\r\n–\tUpdated Table VIII.1 to support the revisions made to Recommendation ITU T H.241.\r\n–\tSupport of an SCTP media transport in H.323 systems, including the addition of Annex U.\r\n–\tSupport of DTLS media transport in H.323 systems, including the addition of Annex U.\r\n–\tSupport of out of band data channel establishment for Annex U.\r\n–\tPropose updates to Recommendation ITU T H.245 to support SCTP: split dtls-sctp into udp dtls-sctp and tcp-dtls-sctp.\r\n–\tAdd ExtendedAudioCapability and ExtendedDataCapability in Recommendation ITU T H.245.\r\n"
 status:
   stage:
     content: Published

@@ -47,27 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.987.2 describes the physical layer requirements
-    and specifications for the XG-PON physical media dependent (PMD) layer. Wavelength
-    enhancement bands are described in Recommendation ITU-T G.987.1. The transmission
-    convergence (TC) layer is described in Recommendation ITU-T G.987.3. The ONU management
-    and control interface (OMCI) specifications are described in Recommendation ITU-T
-    G.988.  \r\n\r\nRecommendation ITU-T G.987.2 describes a flexible optical fibre
-    access network capable of supporting the bandwidth requirements of business and
-    residential services. The G.987 series of standards allows for multiple upstream
-    and downstream line rates. This Recommendation currently defines one type of 10-Gigabit-capable
-    passive optical network (XG-PON) system with asymmetric nominal line rate of 9.95328
-    Gbit/s in the downstream direction and 2.48832 Gbit/s in the upstream direction.
-    \r\n\r\nThis Recommendation describes a system that represents an evolutionary
-    development from the systems described in the ITU-T G.984 series. To the greatest
-    extent possible, this Recommendation maintains the requirements of Recommendation
-    ITU-T G.984.1 to ensure maximal continuity with existing systems and optical fibre
-    infrastructure. \r\n\r\nAmendment 2 continues the maintenance and evolution of
-    physical media dependent (PMD) layer specifications for XG-PON as defined in this
-    Recommendation. It includes technical updates and corrections for changing references
-    to XG-PON1 to XG-PON, replacing the mask of the eye diagram for ONU transmitter,
-    updating the DD40 downstream specification, correcting the X/S tolerance mask
-    for ONU and updating the X/S tolerance mask for OLT. \r\n"
+  content: "Recommendation ITU-T G.987.2 describes the physical layer requirements and specifications for the XG-PON physical media dependent (PMD) layer. Wavelength enhancement bands are described in Recommendation ITU-T G.987.1. The transmission convergence (TC) layer is described in Recommendation ITU-T G.987.3. The ONU management and control interface (OMCI) specifications are described in Recommendation ITU-T G.988.  \r\n\r\nRecommendation ITU-T G.987.2 describes a flexible optical fibre access network capable of supporting the bandwidth requirements of business and residential services. The G.987 series of standards allows for multiple upstream and downstream line rates. This Recommendation currently defines one type of 10-Gigabit-capable passive optical network (XG-PON) system with asymmetric nominal line rate of 9.95328 Gbit/s in the downstream direction and 2.48832 Gbit/s in the upstream direction. \r\n\r\nThis Recommendation describes a system that represents an evolutionary development from the systems described in the ITU-T G.984 series. To the greatest extent possible, this Recommendation maintains the requirements of Recommendation ITU-T G.984.1 to ensure maximal continuity with existing systems and optical fibre infrastructure. \r\n\r\nAmendment 2 continues the maintenance and evolution of physical media dependent (PMD) layer specifications for XG-PON as defined in this Recommendation. It includes technical updates and corrections for changing references to XG-PON1 to XG-PON, replacing the mask of the eye diagram for ONU transmitter, updating the DD40 downstream specification, correcting the X/S tolerance mask for ONU and updating the X/S tolerance mask for OLT. \r\n"
 status:
   stage:
     content: Withdrawal

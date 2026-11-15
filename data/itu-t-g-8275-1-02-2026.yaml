@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275.1 specifies a profile for telecommunication
+  content: 'Recommendation ITU-T G.8275.1 specifies a profile for telecommunication
     applications based on the precision time protocol (PTP) as defined in IEEE 1588.
     The profile specifies the PTP functions that are necessary to ensure network element
     interoperability for the delivery of accurate phase/time (and frequency) synchronization.
     The profile is based on the use of full timing support (FTS) from the network
     architecture described in Recommendation ITUT G.8274 and definitions described
-    in Recommendation ITUT G.8260. Common aspects of PTP profiles for phase/time synchronization
-    are specified in Recommendation ITUT G.8275.\r\n"
+    in Recommendation ITUT G.8260. Common aspects of PTP profiles for phase/time
+    synchronization are specified in Recommendation ITUT G.8275.
+    '
 status:
   stage:
     content: Published

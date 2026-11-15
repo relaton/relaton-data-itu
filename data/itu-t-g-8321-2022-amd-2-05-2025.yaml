@@ -47,15 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8321 specifies both the components and methodology
-    that should be used in order to specify the metro transport network (MTN) functionality
-    of network elements; it does not specify individual MTN equipment.\r\nAmendment
-    1 adds Annex A, which specifies new atomic functions to align with Amendment 2
-    to Recommendation ITU-T G.8312, including a new path layer fgMTNP which is above
-    the MTN path, and corrects typos in Figure 9-8 and Figure 9-15.\r\nAmendment 2
-    adds the fgMTNP to CBRx atomic functions and modifies the existing atomic functions
-    to support hitless bandwidth adjustment function. The defect and generic processes
-    are moved from Annex A to clause 6 and clause 8 and Annex A is restructured.\r\n"
+  content: "Recommendation ITU-T G.8321 specifies both the components and methodology that should be used in order to specify the metro transport network (MTN) functionality of network elements; it does not specify individual MTN equipment.\r\nAmendment 1 adds Annex A, which specifies new atomic functions to align with Amendment 2 to Recommendation ITU-T G.8312, including a new path layer fgMTNP which is above the MTN path, and corrects typos in Figure 9-8 and Figure 9-15.\r\nAmendment 2 adds the fgMTNP to CBRx atomic functions and modifies the existing atomic functions to support hitless bandwidth adjustment function. The defect and generic processes are moved from Annex A to clause 6 and clause 8 and Annex A is restructured.\r\n"
 status:
   stage:
     content: Published

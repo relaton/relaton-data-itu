@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.7714.1/Y.1705.1 describes the methods, procedures
-    and transport plane mechanisms for discovering layer adjacency according to the
-    requirements of Recommendation ITU\x1ET G.7714/Y.1705. Layer adjacency discovery
-    describes the process of discovering link connection end-point relationships and
-    verifying their connectivity. Two alternative methods are described: one using
-    a test set in the client layer, the other using in-band overhead in the server
-    layer. Additional actions that may be required for obtaining physical media adjacency
-    discovery, transport entity capability exchange, etc., will be addressed in future
-    Recommendations.\r\nThe 2015 revision to this Recommendation includes:\r\n1)\tsupport
-    for transport networks other than synchronous digital hierarchy (SDH) and optical
-    transport network (OTN), specifically Ethernet (ETH); and\r\n2)\terrata updates."
+  content: "Recommendation ITU-T G.7714.1/Y.1705.1 describes the methods, procedures and transport plane mechanisms for discovering layer adjacency according to the requirements of Recommendation ITU\x1eT G.7714/Y.1705. Layer adjacency discovery describes the process of discovering link connection end-point relationships and verifying their connectivity. Two alternative methods are described: one using a test set in the client layer, the other using in-band overhead in the server layer. Additional actions that may be required for obtaining physical media adjacency discovery, transport entity capability exchange, etc., will be addressed in future Recommendations.\r\nThe 2015 revision to this Recommendation includes:\r\n1)\tsupport for transport networks other than synchronous digital hierarchy (SDH) and optical transport network (OTN), specifically Ethernet (ETH); and\r\n2)\terrata updates."
 status:
   stage:
     content: Withdrawal

@@ -47,22 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.7041/Y.1303 defines a generic framing procedure
-    (GFP) to delineate octet-aligned, variable-length payloads from higher-level client
-    signals for subsequent mapping into octet-synchronous paths, such as those defined
-    in Recommendations ITU‑T G.707/Y.1322, ITU‑T G.8040/Y.1340 and ITU-T G.709/Y.1331.
-    This Recommendation defines:\r\n\r\n–           frame formats for protocol data
-    units (PDUs) transferred between GFP initiation and termination points;\r\n\r\n–
-    \          the mapping procedure for the client signals into GFP;\r\n\r\n–           responses
-    to certain defect conditions.\r\n\r\nThis edition adds the information from Amendment
-    1 (2012), Amendment 2 (2012) and Amendment 3 (2015) to Recommendation ITU‑T G.7041
-    (2011), in addition to new material and text enhancements from contributions to
-    the February 2016 meeting.\r\n\r\nCorrigendum 1 replaces a mistakenly expanded
-    abbreviation with the correct terminology. It also provides some minor editorial
-    clean-up.\r\n\r\nAmendment 1 contains edits to enhance the clarity of the client
-    bit numbering for the GFP-F mappings, especially the synchronization status message
-    (SSM) bit numbering in clause 7.11. It also includes editorial corrections to
-    labelling in four additional figures."
+  content: "Recommendation ITU-T G.7041/Y.1303 defines a generic framing procedure (GFP) to delineate octet-aligned, variable-length payloads from higher-level client signals for subsequent mapping into octet-synchronous paths, such as those defined in Recommendations ITU‑T G.707/Y.1322, ITU‑T G.8040/Y.1340 and ITU-T G.709/Y.1331. This Recommendation defines:\r\n\r\n–           frame formats for protocol data units (PDUs) transferred between GFP initiation and termination points;\r\n\r\n–           the mapping procedure for the client signals into GFP;\r\n\r\n–           responses to certain defect conditions.\r\n\r\nThis edition adds the information from Amendment 1 (2012), Amendment 2 (2012) and Amendment 3 (2015) to Recommendation ITU‑T G.7041 (2011), in addition to new material and text enhancements from contributions to the February 2016 meeting.\r\n\r\nCorrigendum 1 replaces a mistakenly expanded abbreviation with the correct terminology. It also provides some minor editorial clean-up.\r\n\r\nAmendment 1 contains edits to enhance the clarity of the client bit numbering for the GFP-F mappings, especially the synchronization status message (SSM) bit numbering in clause 7.11. It also includes editorial corrections to labelling in four additional figures."
 status:
   stage:
     content: Published

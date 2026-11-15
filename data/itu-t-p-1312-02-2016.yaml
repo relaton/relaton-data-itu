@@ -53,23 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1312 describes a subjective test method for quantifying
-    the effectiveness of telemeeting systems in conveying information in multiparty
-    conversation scenarios. This method utilizes a predefined set of tasks designed
-    to provoke rapid turn-taking and concurrent talking among participants. The goal
-    of these tasks is to stress conferencing systems in order to clearly and measurably
-    demonstrate their limits.\r\nThe method measures the rate at which multiple participants
-    exchange information to assess the effectiveness of communication systems compared
-    to face-to-face communication. This constitutes an objectively-measured performance
-    metric providing stable and repeatable results across different laboratories and
-    that is highly discriminative across various types of system properties.\r\nThis
-    method may be used to evaluate individual subcomponents of a telecommunication
-    system or the system as a whole. The proposed method is especially sensitive to
-    the ability to transmit multiple concurrent voices and maintain their independence.
-    The test has demonstrated sensitivity to system parameters including duplex capability,
-    spatialization, bandwidth and delay. As such, it is suitable for the assessment
-    of multiparty telemeeting systems (see Recommendation ITU-T P.1301 for general
-    guidelines and additional methods)."
+  content: "Recommendation ITU-T P.1312 describes a subjective test method for quantifying the effectiveness of telemeeting systems in conveying information in multiparty conversation scenarios. This method utilizes a predefined set of tasks designed to provoke rapid turn-taking and concurrent talking among participants. The goal of these tasks is to stress conferencing systems in order to clearly and measurably demonstrate their limits.\r\nThe method measures the rate at which multiple participants exchange information to assess the effectiveness of communication systems compared to face-to-face communication. This constitutes an objectively-measured performance metric providing stable and repeatable results across different laboratories and that is highly discriminative across various types of system properties.\r\nThis method may be used to evaluate individual subcomponents of a telecommunication system or the system as a whole. The proposed method is especially sensitive to the ability to transmit multiple concurrent voices and maintain their independence. The test has demonstrated sensitivity to system parameters including duplex capability, spatialization, bandwidth and delay. As such, it is suitable for the assessment of multiparty telemeeting systems (see Recommendation ITU-T P.1301 for general guidelines and additional methods)."
 status:
   stage:
     content: Published

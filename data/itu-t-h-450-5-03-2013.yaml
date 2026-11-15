@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.450.5 describes the procedures and signalling protocol
-    scenarios for the Call Park and Call Pickup supplementary services in ITU-T H.323
-    systems.\r\nThe Call Park supplementary service (SS-PARK) enables User A (the
-    parking user) to place an existing call with User B (the parked user) in a parking
-    position. The call can later be picked up by retrieving the parked party from
-    either the same terminal where the park took place or from another terminal.  \r\nThe
-    Call Pickup supplementary service (SS-PICKUP) enables the picking-up user to pick
-    up either a parked call or an alerting call. Upon successful invocation of SS-PICKUP,
-    the picking-up user is connected with the parked user or with the calling user,
-    depending on selection.\r\nThis Recommendation makes use of the \"generic functional
-    protocol for the support of supplementary services in ITU-T H.323 systems\" as
-    defined in Recommendation ITU-T H.450.1.\r\nThis revision introduces a number
-    of corrections and clarifications by incorporating technical and editorial corrections
-    from the Implementers' Guide for Recommendations of the ITU-T H.323 system (2011).\r\n"
+  content: "Recommendation ITU-T H.450.5 describes the procedures and signalling protocol scenarios for the Call Park and Call Pickup supplementary services in ITU-T H.323 systems.\r\nThe Call Park supplementary service (SS-PARK) enables User A (the parking user) to place an existing call with User B (the parked user) in a parking position. The call can later be picked up by retrieving the parked party from either the same terminal where the park took place or from another terminal.  \r\nThe Call Pickup supplementary service (SS-PICKUP) enables the picking-up user to pick up either a parked call or an alerting call. Upon successful invocation of SS-PICKUP, the picking-up user is connected with the parked user or with the calling user, depending on selection.\r\nThis Recommendation makes use of the \"generic functional protocol for the support of supplementary services in ITU-T H.323 systems\" as defined in Recommendation ITU-T H.450.1.\r\nThis revision introduces a number of corrections and clarifications by incorporating technical and editorial corrections from the Implementers' Guide for Recommendations of the ITU-T H.323 system (2011).\r\n"
 status:
   stage:
     content: Published

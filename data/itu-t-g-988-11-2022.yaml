@@ -52,12 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.988 specifies the optical network unit (ONU) management
-    and control interface (OMCI) for optical access networks.\r\nRecommendation ITU-T
-    G.988 specifies the managed entities (MEs) of a protocol-independent management
-    information base (MIB) that models the exchange of information between an optical
-    line termination (OLT) and an ONU. In addition, it covers the ONU management and
-    control channel, protocol and detailed messages.\r\n"
+  content: "Recommendation ITU-T G.988 specifies the optical network unit (ONU) management and control interface (OMCI) for optical access networks.\r\nRecommendation ITU-T G.988 specifies the managed entities (MEs) of a protocol-independent management information base (MIB) that models the exchange of information between an optical line termination (OLT) and an ONU. In addition, it covers the ONU management and control channel, protocol and detailed messages.\r\n"
 status:
   stage:
     content: Published

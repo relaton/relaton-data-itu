@@ -47,18 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 2 made the following additions and corrections:\n1)Added a
-    keyword for 100 Gbit/s \n2)Added a missing definition for Overload in clause 3\n3)Replaced
-    MAX/max with Maximum and MIN/min with Minimum as needed\n4)Corrects the following
-    typos:\nTable 7-1.3\n•Correct Nominal modulation rate unit to \"Gbaud\"\n•Add
-    \"–\" as the unit for modulation format and bit error ratio\n•Add missing unit
-    \"dBm\" for Launch power in OMAouter minus TDECQ and Average launch power of OFF
-    transmitter\n•Correct mean launch power Minimum for 1.4 dB ≤ TDECQ < 3.2 dB to
-    \"−1.8 + TDECQ\" for Class S and \"6.2 + TDECQ\" for Class B–\n•Correct receiver
-    Sensitivity for 1.4 dB ≤ TDECQ < 3.2 dB to \"−17.3 + TDECQ\" for both Class S
-    and Class B–\nTable 7-1.4\n•Correct nominal modulation rate unit to \"Gbaud\"\n•Add
-    the missing unit for |TDECQ – TECQ| (Maximum): \"dB\"\n•Add \"–\" for the unit
-    of modulation format and bit error ratio\n"
+  content: "Corrigendum 2 made the following additions and corrections:\n1)Added a keyword for 100 Gbit/s \n2)Added a missing definition for Overload in clause 3\n3)Replaced MAX/max with Maximum and MIN/min with Minimum as needed\n4)Corrects the following typos:\nTable 7-1.3\n•Correct Nominal modulation rate unit to \"Gbaud\"\n•Add \"–\" as the unit for modulation format and bit error ratio\n•Add missing unit \"dBm\" for Launch power in OMAouter minus TDECQ and Average launch power of OFF transmitter\n•Correct mean launch power Minimum for 1.4 dB ≤ TDECQ < 3.2 dB to \"−1.8 + TDECQ\" for Class S and \"6.2 + TDECQ\" for Class B–\n•Correct receiver Sensitivity for 1.4 dB ≤ TDECQ < 3.2 dB to \"−17.3 + TDECQ\" for both Class S and Class B–\nTable 7-1.4\n•Correct nominal modulation rate unit to \"Gbaud\"\n•Add the missing unit for |TDECQ – TECQ| (Maximum): \"dB\"\n•Add \"–\" for the unit of modulation format and bit error ratio\n"
 status:
   stage:
     content: Published

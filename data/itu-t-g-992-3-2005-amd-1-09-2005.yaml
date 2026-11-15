@@ -47,23 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This amendment is the first amendment to the integrated ITU T Rec. G.992.3
-    approved in January 2005. It specifies the following additions:\r\n1)\tAdditions
-    to clause 7 and Annex K for new optional valid S and D values in the PMS-TC framer
-    configuration. This allows the achievement of higher net data rates while satisfying
-    a configured minimum impulse noise protection (INP_min);\r\n2)\tAddition to 8.13.2.4
-    for warm handshake. This defines default values for some configuration parameters,
-    when not explicitly exchanged in the G.994.1 (handshake) phase of initialization;\r\n3)\tAdditions
-    to Annex K to include new INP_min values. This allows a finer granularity for
-    configuration of the minimum impulse noise protection (INP_min) and allows an
-    optimization of related net data rates;\r\n4)\tAdditions to the PTM TC Annex K.3
-    to support 64/65-octet packet encapsulation (as defined in new Annex N) in addition
-    to HDLC packet encapsulation;\r\n5)\tA new Annex N defining the 64/65-octet packet
-    encapsulation. The 64/65-octet encapsulation is defined by the IEEE 802.3 Ethernet
-    standard and is now also included in the ITU-T DSL Recommendations;\r\n6)\tA new
-    Appendix VI defining the packet layer to physical layer logical interface.\r\nRevision
-    marks are relative to the latest prepublished integrated version of ITU-T Rec.
-    G.992.3.\r\n"
+  content: "This amendment is the first amendment to the integrated ITU T Rec. G.992.3 approved in January 2005. It specifies the following additions:\r\n1)\tAdditions to clause 7 and Annex K for new optional valid S and D values in the PMS-TC framer configuration. This allows the achievement of higher net data rates while satisfying a configured minimum impulse noise protection (INP_min);\r\n2)\tAddition to 8.13.2.4 for warm handshake. This defines default values for some configuration parameters, when not explicitly exchanged in the G.994.1 (handshake) phase of initialization;\r\n3)\tAdditions to Annex K to include new INP_min values. This allows a finer granularity for configuration of the minimum impulse noise protection (INP_min) and allows an optimization of related net data rates;\r\n4)\tAdditions to the PTM TC Annex K.3 to support 64/65-octet packet encapsulation (as defined in new Annex N) in addition to HDLC packet encapsulation;\r\n5)\tA new Annex N defining the 64/65-octet packet encapsulation. The 64/65-octet encapsulation is defined by the IEEE 802.3 Ethernet standard and is now also included in the ITU-T DSL Recommendations;\r\n6)\tA new Appendix VI defining the packet layer to physical layer logical interface.\r\nRevision marks are relative to the latest prepublished integrated version of ITU-T Rec. G.992.3.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -228,8 +212,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C – Specific requirements for an ADSL system operating in
-        the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix III
+      content: New Annex C – Specific requirements for an ADSL system operating
+        in the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix
+        III
     docidentifier:
     - content: G.992.3 (2002) Amd. 3 (06/2004)
       type: ITU

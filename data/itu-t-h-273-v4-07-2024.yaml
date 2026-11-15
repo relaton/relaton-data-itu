@@ -55,19 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.273 defines various code points and fields that
-    establish properties of a video (or still image) representation and are independent
-    of the compression encoding and bit rate. These properties may describe the appropriate
-    interpretation of decoded data or may, similarly, describe the characteristics
-    of such a signal before the signals are compressed by an encoder that is suitable
-    for compressing such an input signal. \r\nThis edition of ITU-T H.273 removes
-    an informative reference that had been included in the not-yet-published third
-    edition of Rec. ITU-T H.273 (2023), due to a publication delay of the referenced
-    document (a video format specification under development in SMPTE). It also includes
-    some minor corrections and clarifications.\r\nThe text was developed as a twin
-    text Recommendation corresponding to the video code points in ISO/IEC 23091-2
-    (formerly ISO/IEC 23001-8) in collaboration with ISO/IEC JTC 1/SC 29. It is published
-    as a technically aligned twin text by both organizations (ITU-T and ISO/IEC).\r\n"
+  content: "Recommendation ITU-T H.273 defines various code points and fields that establish properties of a video (or still image) representation and are independent of the compression encoding and bit rate. These properties may describe the appropriate interpretation of decoded data or may, similarly, describe the characteristics of such a signal before the signals are compressed by an encoder that is suitable for compressing such an input signal. \r\nThis edition of ITU-T H.273 removes an informative reference that had been included in the not-yet-published third edition of Rec. ITU-T H.273 (2023), due to a publication delay of the referenced document (a video format specification under development in SMPTE). It also includes some minor corrections and clarifications.\r\nThe text was developed as a twin text Recommendation corresponding to the video code points in ISO/IEC 23091-2 (formerly ISO/IEC 23001-8) in collaboration with ISO/IEC JTC 1/SC 29. It is published as a technically aligned twin text by both organizations (ITU-T and ISO/IEC).\r\n"
 status:
   stage:
     content: Published

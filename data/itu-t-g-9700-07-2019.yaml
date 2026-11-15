@@ -52,23 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9700 specifies power spectral density (PSD) mask
-    requirements for fast access to subscriber terminals (G.fast), a set of tools
-    to support reduction of the transmit PSD mask, profile control parameters that
-    determine spectral content, including the allowable maximum aggregate transmit
-    power into a specified termination impedance, and a methodology for transmit PSD
-    verification. It complements the physical layer (PHY) specification in Recommendation
-    ITU‑T G.9701.\r\n\r\nAmendment 1 provided support for a new 106 MHz profile with
-    +8 dBm maximum aggregate transmit power.\r\n\r\nAmendment 2 aligns the text of
-    clause 6.5 on notching of specific frequency bands with ITU-T G.9701 (2014) and
-    its latest amendments, completes the specification of 212 MHz profiles, adds Annex
-    X ''Adaptation to the coax medium'' in support of Annex X ''Operation without
-    multi-line coordination intended for a crosstalk free environment'' that has been
-    specified in Amendment 3 to ITU-T G.9701, and updates the table of International
-    amateur radio frequencies in Appendix I.\r\n\r\nThe 2019 version of ITU-T G.9700
-    integrates the previous version and its amendments, and adds a new 106 MHz limit
-    PSD mask intended to be used for transmission over networks with increased shielding,
-    such as those with shielded cables or where cables are buried underground."
+  content: "Recommendation ITU-T G.9700 specifies power spectral density (PSD) mask requirements for fast access to subscriber terminals (G.fast), a set of tools to support reduction of the transmit PSD mask, profile control parameters that determine spectral content, including the allowable maximum aggregate transmit power into a specified termination impedance, and a methodology for transmit PSD verification. It complements the physical layer (PHY) specification in Recommendation ITU‑T G.9701.\r\n\r\nAmendment 1 provided support for a new 106 MHz profile with +8 dBm maximum aggregate transmit power.\r\n\r\nAmendment 2 aligns the text of clause 6.5 on notching of specific frequency bands with ITU-T G.9701 (2014) and its latest amendments, completes the specification of 212 MHz profiles, adds Annex X ''Adaptation to the coax medium'' in support of Annex X ''Operation without multi-line coordination intended for a crosstalk free environment'' that has been specified in Amendment 3 to ITU-T G.9701, and updates the table of International amateur radio frequencies in Appendix I.\r\n\r\nThe 2019 version of ITU-T G.9700 integrates the previous version and its amendments, and adds a new 106 MHz limit PSD mask intended to be used for transmission over networks with increased shielding, such as those with shielded cables or where cables are buried underground."
 status:
   stage:
     content: Published

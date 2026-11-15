@@ -52,11 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709.5 specifies 100G, 200G, 400G and 800G flexible
+  content: 'Recommendation ITU-T G.709.5 specifies 100G, 200G, 400G and 800G flexible
     optical transport network (FlexO) short-reach interfaces. This Recommendation
     specifies the structure using forward error correction (FEC) code with a coding
     gain suitable for short-reach applications, and references common elements from
-    Recommendation ITU-T G.709.1.\r\n"
+    Recommendation ITU-T G.709.1.
+    '
 status:
   stage:
     content: Published

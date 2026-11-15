@@ -52,10 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.626.8 specifies detailed protocols of the feature-based
+  content: 'Recommendation ITU-T H.626.8 specifies detailed protocols of the feature-based
     distributed intelligent systems, based on the requirements specified in Recommendation
     ITU-T F.748.21 and the functional architecture specified in Recommendation ITU-T
-    F.748.22.\r\n"
+    F.748.22.
+    '
 status:
   stage:
     content: Published

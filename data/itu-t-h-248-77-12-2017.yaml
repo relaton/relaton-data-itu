@@ -53,13 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.77 defines a new ITU-T H.248 package, the secure
-    RTP package. In addition, this Recommendation covers a set of procedures related
-    to SRTP key management. The combination of package and procedures allows a MGC
-    to control the use of secure RTP (SRTP) by a MG.\r\n\r\nThis revision contains
-    an updated package that allows for the usage of DTLS-SRTP key management scheme
-    that exchanges the peers' certificates via the signalling path and then establishes
-    a DTLS connection on the bearer path.\r\n"
+  content: "Recommendation ITU-T H.248.77 defines a new ITU-T H.248 package, the secure RTP package. In addition, this Recommendation covers a set of procedures related to SRTP key management. The combination of package and procedures allows a MGC to control the use of secure RTP (SRTP) by a MG.\r\n\r\nThis revision contains an updated package that allows for the usage of DTLS-SRTP key management scheme that exchanges the peers' certificates via the signalling path and then establishes a DTLS connection on the bearer path.\r\n"
 status:
   stage:
     content: Published

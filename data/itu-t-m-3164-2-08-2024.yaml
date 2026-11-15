@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3164.2 provides the analysis specification of the
+  content: 'Recommendation ITU-T M.3164.2 provides the analysis specification of the
     interface for on-site generic telecommunication smart maintenance (TSM). It describes
     the interface operation interactions for on-site TSM, including the managed entities
     and their relationships for the TSM interface, the interactive control information
     exchanged through this interface, and detailed parameter definitions of each interface
-    operation at a technology-independent level (protocolneutral).\r\n"
+    operation at a technology-independent level (protocolneutral).
+    '
 status:
   stage:
     content: Published

@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.4106 specifies a framework for implementing various
+  content: 'Recommendation ITU-T Q.4106 specifies a framework for implementing various
     services using a hybrid peer-to-peer (HP2P) network, specified in Recommendation
     ITU-T Q.4100. The HP2P network uses two protocols: the peer protocol specified
     in Recommendation ITU-T Q.4102, including its Amendment and the overlay management
@@ -63,7 +63,8 @@ abstract:
     networks for services and applications, including guidance for extending service-specific
     attributes. This Recommendation also provides extensions for providing enhanced
     capabilities on HP2P networks in Annex A, and service scenarios that make use
-    of this framework in Annex B.\r\n"
+    of this framework in Annex B.
+    '
 status:
   stage:
     content: Published
@@ -321,9 +322,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -333,8 +334,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

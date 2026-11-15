@@ -52,10 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 77 to ITU-T Q-series Recommendations describes the signalling
+  content: 'Supplement 77 to ITU-T Q-series Recommendations describes the signalling
     requirements of parallel service function chaining (SFC) packet processing. This
     Supplement focuses on the signalling among the controller, classifier and service
-    function forwarders.\r\n"
+    function forwarders.
+    '
 status:
   stage:
     content: Published

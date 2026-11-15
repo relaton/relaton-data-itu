@@ -53,12 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8133 provides architecture and mechanisms for pseudowire
-    (PW) dual-homing protection in multi-protocol label switching transport profile
-    (MPLS-TP) networks. It also describes the dual-homing coordination (DHC) protocol
-    described in [IETF RFC 8184] and [IETF RFC 8185].\r\n\r\nThe mechanisms defined
-    herein protect point-to-point MPLS-TP PWs against failures within or at the edges
-    of the MPLS-TP network."
+  content: "Recommendation ITU-T G.8133 provides architecture and mechanisms for pseudowire (PW) dual-homing protection in multi-protocol label switching transport profile (MPLS-TP) networks. It also describes the dual-homing coordination (DHC) protocol described in [IETF RFC 8184] and [IETF RFC 8185].\r\n\r\nThe mechanisms defined herein protect point-to-point MPLS-TP PWs against failures within or at the edges of the MPLS-TP network."
 status:
   stage:
     content: Published

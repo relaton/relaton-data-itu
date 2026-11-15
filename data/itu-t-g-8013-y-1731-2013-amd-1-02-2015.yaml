@@ -47,20 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.8013/Y.1731 (2013) provides:\r\n\r\n•
-    \           addition of a new operation, administration and maintenance (OAM)
-    protocol data unit (PDU) called generic notification message (GNM);\r\n\r\n•            addition
-    of new OAM functions and mechanism for Ethernet bandwidth notification (ETH‑BN)
-    that notifies the change of bandwidth of link to management entity group end points
-    (MEPs). Its PDU uses GNM with a SubOpCode for bandwidth notification;\r\n\r\n•
-    \           addition of new OAM functions and mechanism for Ethernet expected
-    defect (ETH-ED) that enables transmission of continuity check message (CCM) frames
-    expected to be interrupted without any interruption to data frames. Its PDU uses
-    maintenance communications channel (MCC) with SubOpCode for expected defect;\r\n\r\n•
-    \           transmission of CCM frames expected to be interrupted without any
-    interruption to data frames. Its PDU uses MCC with ITU-T OUI (00-19-A7) and SubOpCode
-    for expected defect;\r\n\r\n•            corrections to several references in
-    clause 2;\r\n\r\n•            additions of new abbreviations in clause 4.\r\n"
+  content: "Amendment 1 to Recommendation ITU-T G.8013/Y.1731 (2013) provides:\r\n\r\n•            addition of a new operation, administration and maintenance (OAM) protocol data unit (PDU) called generic notification message (GNM);\r\n\r\n•            addition of new OAM functions and mechanism for Ethernet bandwidth notification (ETH‑BN) that notifies the change of bandwidth of link to management entity group end points (MEPs). Its PDU uses GNM with a SubOpCode for bandwidth notification;\r\n\r\n•            addition of new OAM functions and mechanism for Ethernet expected defect (ETH-ED) that enables transmission of continuity check message (CCM) frames expected to be interrupted without any interruption to data frames. Its PDU uses maintenance communications channel (MCC) with SubOpCode for expected defect;\r\n\r\n•            transmission of CCM frames expected to be interrupted without any interruption to data frames. Its PDU uses MCC with ITU-T OUI (00-19-A7) and SubOpCode for expected defect;\r\n\r\n•            corrections to several references in clause 2;\r\n\r\n•            additions of new abbreviations in clause 4.\r\n"
 status:
   stage:
     content: Withdrawal

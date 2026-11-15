@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9806 describes a higher speed bidirectional single
-    fibre point-to-point optical access system than the data rate in existing ITU-T
-    point-to-point access systems. It supports 10 Gbit/s for the optical access services
-    including the optical distribution network (ODN) specification, the physical layer
-    specification, services requirements and the operation, administration and maintenance
-    (OAM) specification.\r\nAmendment 1 added support for 25 Gbit/s. \r\nAmendment
-    2 adds support for 50 Gbit/s.\r\nCorrigendum 1 corrects a typo in Table 7-2.1
-    by replacing the current Mean launch power MAX Class S \"+5.6\" value by \"−5.6\".\r\nAmendment
-    3 adds support for 100 Gbit/s, optical path loss budget classes SL (0-10 dB),
-    SU (515 dB) and BL (10-20 dB).\r\n"
+  content: "Recommendation ITU-T G.9806 describes a higher speed bidirectional single fibre point-to-point optical access system than the data rate in existing ITU-T point-to-point access systems. It supports 10 Gbit/s for the optical access services including the optical distribution network (ODN) specification, the physical layer specification, services requirements and the operation, administration and maintenance (OAM) specification.\r\nAmendment 1 added support for 25 Gbit/s. \r\nAmendment 2 adds support for 50 Gbit/s.\r\nCorrigendum 1 corrects a typo in Table 7-2.1 by replacing the current Mean launch power MAX Class S \"+5.6\" value by \"−5.6\".\r\nAmendment 3 adds support for 100 Gbit/s, optical path loss budget classes SL (0-10 dB), SU (515 dB) and BL (10-20 dB).\r\n"
 status:
   stage:
     content: Published

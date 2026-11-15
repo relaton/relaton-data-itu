@@ -47,13 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275/Y.1369 describes the architecture and requirements
-    for packet based time and phase distribution in telecom networks. The architecture
-    described is mainly applicable to the use of IEEE 1588. Details necessary to utilize
-    IEEE 1588 in a manner consistent with the architecture are defined in other Recommendations.\r\nAmendment
-    3 incorporates a new PRTC deployment use case in clause 7.2.1, a new annex on
-    the use of masterOnly and notMaster and some modifications to align with updates
-    to the profiles.\r\n"
+  content: "Recommendation ITU-T G.8275/Y.1369 describes the architecture and requirements for packet based time and phase distribution in telecom networks. The architecture described is mainly applicable to the use of IEEE 1588. Details necessary to utilize IEEE 1588 in a manner consistent with the architecture are defined in other Recommendations.\r\nAmendment 3 incorporates a new PRTC deployment use case in clause 7.2.1, a new annex on the use of masterOnly and notMaster and some modifications to align with updates to the profiles.\r\n"
 status:
   stage:
     content: Withdrawal

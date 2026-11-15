@@ -47,13 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.807 describes the generic functional architecture
-    of the optical media layer that supports the propagation of signals in the context
-    of a transport network. This description is independent of the client characteristic
-    information (CI) that is being carried by a signal in the media network. \r\n\r\nAmendment
-    1 removes the dependence on the ITU-T G.694.1 grid, names the reference point
-    between the digital layer and the modulator/demodulator and uses M-AI/Client CI
-    to replace digital-lane/digital-client. \r\n"
+  content: "Recommendation ITU-T G.807 describes the generic functional architecture of the optical media layer that supports the propagation of signals in the context of a transport network. This description is independent of the client characteristic information (CI) that is being carried by a signal in the media network. \r\n\r\nAmendment 1 removes the dependence on the ITU-T G.694.1 grid, names the reference point between the digital layer and the modulator/demodulator and uses M-AI/Client CI to replace digital-lane/digital-client. \r\n"
 status:
   stage:
     content: Withdrawal

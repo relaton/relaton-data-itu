@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3941.1 specifies Network integration testing between
-    SIP and ISDN/PSTN network. It is part 5 of a multi-part deliverable covering network
-    integration testing between SIP and ISDN/PSTN network signalling protocols:\r\nPart
-    1:\t\tTest suite structure and test purposes for SIP-ISDN.\r\nPart 2:\t\tAbstract
-    test suite and partial protocol implementation extra information for testing proforma
-    specification for SIP-ISDN.\r\nPart 3:\t\tTest suite structure and test purposes
-    for SIP-SIP.\r\nPart 4:\t\tAbstract test suite and partial protocol implementation
-    extra information for testing proforma specification for SIP-SIP.\r\nPart 5: \t\tTest
-    Suite Structure and Test Purposes (TSS&TP) for Network Integration Tests between
-    ISDN-ISDN and ISDN-PSTN over SIP II NNI / SIP-I NNI.\r\nThe version number, v.1,
-    indicates that this is version one of Recommendation ITU-T Q.3941.1, and that
-    it relates to Release 10 of the relevant 3GPP/ETSI standard.\r\nThis Recommendation
-    endorses ETSI TS 186 001-1 V3.1.1 (2015-11) Core Network and Interoperability
-    Testing (INT); Network Integration Testing between SIP and ISDN/PSTN network signalling
-    protocols; Part 1: Test Suite Structure and Test Purposes (TSS&TP) for SIP-ISDN"
+  content: "Recommendation ITU-T Q.3941.1 specifies Network integration testing between SIP and ISDN/PSTN network. It is part 5 of a multi-part deliverable covering network integration testing between SIP and ISDN/PSTN network signalling protocols:\r\nPart 1:\t\tTest suite structure and test purposes for SIP-ISDN.\r\nPart 2:\t\tAbstract test suite and partial protocol implementation extra information for testing proforma specification for SIP-ISDN.\r\nPart 3:\t\tTest suite structure and test purposes for SIP-SIP.\r\nPart 4:\t\tAbstract test suite and partial protocol implementation extra information for testing proforma specification for SIP-SIP.\r\nPart 5: \t\tTest Suite Structure and Test Purposes (TSS&TP) for Network Integration Tests between ISDN-ISDN and ISDN-PSTN over SIP II NNI / SIP-I NNI.\r\nThe version number, v.1, indicates that this is version one of Recommendation ITU-T Q.3941.1, and that it relates to Release 10 of the relevant 3GPP/ETSI standard.\r\nThis Recommendation endorses ETSI TS 186 001-1 V3.1.1 (2015-11) Core Network and Interoperability Testing (INT); Network Integration Testing between SIP and ISDN/PSTN network signalling protocols; Part 1: Test Suite Structure and Test Purposes (TSS&TP) for SIP-ISDN"
 status:
   stage:
     content: Published
@@ -336,9 +322,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -348,8 +334,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

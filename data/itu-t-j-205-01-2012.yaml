@@ -53,25 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Consumer electronic devices get more and more connected every day. This
-    tendency has also reached digital television (DTV) receivers, blu-ray players,
-    personal video recorder (PVR) devices and even games consoles. \r\n\r\nConsumer
-    electronics manufacturers are taking advantage of the increasing broadband availability
-    and embedding their products with applications that are able to retrieve content
-    from proprietary services available through the Internet. Additionally, increased
-    storage capacity and improved computational capabilities of these devices would
-    allow the end users to customize their devices by installing new applications,
-    as currently being done with mobile phones or games consoles.\r\n\r\nSimilarly,
-    DTV broadcasters are extending their systems to make the most of increased broadband
-    availability to improve their services by adding interactive non-linear and on-demand
-    content to what they already offer. However, most of the current solutions are
-    closed / proprietary, and they are focused on each industry specific problems.\r\n\r\nRecommendation
-    ITU-T J.205 proposes the requirements that should be met by an application control
-    framework for DTV-enabled devices, which is responsible for managing and controlling
-    the interactive content and applications available through cable DTV services
-    that have been installed by the end-user or embedded by the device manufacturer,
-    and providing network agnostic delivery mechanisms and a unified execution environment
-    for them."
+  content: "Consumer electronic devices get more and more connected every day. This tendency has also reached digital television (DTV) receivers, blu-ray players, personal video recorder (PVR) devices and even games consoles. \r\n\r\nConsumer electronics manufacturers are taking advantage of the increasing broadband availability and embedding their products with applications that are able to retrieve content from proprietary services available through the Internet. Additionally, increased storage capacity and improved computational capabilities of these devices would allow the end users to customize their devices by installing new applications, as currently being done with mobile phones or games consoles.\r\n\r\nSimilarly, DTV broadcasters are extending their systems to make the most of increased broadband availability to improve their services by adding interactive non-linear and on-demand content to what they already offer. However, most of the current solutions are closed / proprietary, and they are focused on each industry specific problems.\r\n\r\nRecommendation ITU-T J.205 proposes the requirements that should be met by an application control framework for DTV-enabled devices, which is responsible for managing and controlling the interactive content and applications available through cable DTV services that have been installed by the end-user or embedded by the device manufacturer, and providing network agnostic delivery mechanisms and a unified execution environment for them."
 status:
   stage:
     content: Published

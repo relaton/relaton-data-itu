@@ -53,16 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Software-defined networking (SDN) is used by most evolving networks, including
-    the Internet of things, International Mobile Telecommunications-2020 (IMT-2020)
-    and next-generation networks, because of its numerous advantages, which include
-    reducing end-to-end data latency and improving availability, reliability and flexibility
-    of the system. To meet their scalability requirements, most of these systems use
-    SDN networks with multi-controller configurations. There are several challenges
-    in this field, in particular the multi-vendor issue (software and hardware), interfaces
-    limitations, scalability on the control plane and other challenges related to
-    sustainable multi-controller communication. \r\nRecommendation ITU-T Q.3921 describes
-    methods for testing SDN multi‑controllers based on model networks.\r\n"
+  content: "Software-defined networking (SDN) is used by most evolving networks, including the Internet of things, International Mobile Telecommunications-2020 (IMT-2020) and next-generation networks, because of its numerous advantages, which include reducing end-to-end data latency and improving availability, reliability and flexibility of the system. To meet their scalability requirements, most of these systems use SDN networks with multi-controller configurations. There are several challenges in this field, in particular the multi-vendor issue (software and hardware), interfaces limitations, scalability on the control plane and other challenges related to sustainable multi-controller communication. \r\nRecommendation ITU-T Q.3921 describes methods for testing SDN multi‑controllers based on model networks.\r\n"
 status:
   stage:
     content: Published
@@ -320,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -332,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

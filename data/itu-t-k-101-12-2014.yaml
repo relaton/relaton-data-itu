@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.101 contains the calculation procedure for the
-    shielding factors used in Recommendations ITU\x1ET K.46, ITU-T K.47, ITU-T K.56
-    and ITU-T K.97, and it is intended to:\r\n1)\tprovide the rationale for the shielding
-    factor approximate formulas or values contained in the aforementioned Recommendations;\r\n2)\tallow
-    a more precise calculation of the shielding factors, by using the equations provided
-    in this Recommendation.\r\nThe shielding factors considered in this Recommendation
-    refer to:\r\n•\tthat of the lightning current distribution in a telecommunication
-    tower, i.e., that of the tower (αT) as per Recommendations ITU\x1ET K.56 and ITU-T K.97;\r\n•\tthat
-    of the lightning current distribution among several conductors placed in a cable
-    ladder, i.e., that of the feeder tray (αF) as per Recommendations ITU\x1ET K.56
-    and ITU-T K.97;\r\n•\tthat provided by the cable tray (β) as per Recommendation
-    ITU\x1ET K.56;\r\n•\tthat of parallel conductors (η) as per Recommendation ITU\x1ET K.47;\r\n•\tthat
-    of refraction (δ) due to the earthing connection of a telecommunication cable,
-    as per Recommendation ITU\x1ET K.46;\r\n•\tthat provided by a telecommunication
-    cable having a metallic sheath (shield) (η) as per Recommendation ITU\x1ET K.46."
+  content: "Recommendation ITU-T K.101 contains the calculation procedure for the shielding factors used in Recommendations ITU\x1eT K.46, ITU-T K.47, ITU-T K.56 and ITU-T K.97, and it is intended to:\r\n1)\tprovide the rationale for the shielding factor approximate formulas or values contained in the aforementioned Recommendations;\r\n2)\tallow a more precise calculation of the shielding factors, by using the equations provided in this Recommendation.\r\nThe shielding factors considered in this Recommendation refer to:\r\n•\tthat of the lightning current distribution in a telecommunication tower, i.e., that of the tower (αT) as per Recommendations ITU\x1eT K.56 and ITU-T K.97;\r\n•\tthat of the lightning current distribution among several conductors placed in a cable ladder, i.e., that of the feeder tray (αF) as per Recommendations ITU\x1eT K.56 and ITU-T K.97;\r\n•\tthat provided by the cable tray (β) as per Recommendation ITU\x1eT K.56;\r\n•\tthat of parallel conductors (η) as per Recommendation ITU\x1eT K.47;\r\n•\tthat of refraction (δ) due to the earthing connection of a telecommunication cable, as per Recommendation ITU\x1eT K.46;\r\n•\tthat provided by a telecommunication cable having a metallic sheath (shield) (η) as per Recommendation ITU\x1eT K.46."
 status:
   stage:
     content: Published

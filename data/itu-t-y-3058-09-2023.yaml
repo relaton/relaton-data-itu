@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A trust enabled service is a reliable service which satisfies service
+  content: 'A trust enabled service is a reliable service which satisfies service
     and trust requirements by applying additional functions for trust provisioning
     capabilities to conventional information and communication technology (ICT) service
     entities (including resources, stakeholders and users), and that is able to develop
@@ -62,7 +62,8 @@ abstract:
     for trust enabled service provisioning. It describes the concept and requirements
     and specifies related functional blocks, reference points and trust enabled service
     provisioning procedures between related functional blocks to support trust provisioning
-    processes.\r\n"
+    processes.
+    '
 status:
   stage:
     content: Published
@@ -92,7 +93,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -135,8 +136,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -241,8 +241,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3050-series – Supplement on guideline for standardization of
-        trust technologies in ITU-T SG13
+      content: ITU-T Y.3050-series – Supplement on guideline for standardization
+        of trust technologies in ITU-T SG13
     docidentifier:
     - content: Y Suppl. 113 (07/2026)
       type: ITU

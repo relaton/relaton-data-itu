@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.751.25 specifies framework and requirements for
+  content: 'Recommendation ITU-T F.751.25 specifies framework and requirements for
     distributed ledger technology (DLT)-based demand response (DR) in smart grid,
     which aims at enhancing the efficiency of incentive mechanisms and automating
     responses while ensuring trust and accountability. It includes the stakeholders,
     the framework and the functional requirements of DLT-based DR. The business process
     of DLT-based DR is also provided in the appendix. This Recommendation can be used
     as guidance for the development and application of the DLT-based DR for smart
-    grid.\r\n"
+    grid.
+    '
 status:
   stage:
     content: Published

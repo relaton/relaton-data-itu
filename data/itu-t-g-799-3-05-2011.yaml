@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "As a consequence of the growth of IP and of IP services, different operators
-    have an increased need to support bulk interconnection of voice and voiceband
-    data traffic at the IP level.\r\n\r\nRecommendation ITU-T G.799.3 defines the
-    signal processing functionality and performance of an IP-to-IP gateway that is
-    optimized for the transport of voice and voiceband data. Such a gateway may be
-    used by network operators for the bulk interconnection of voice and voiceband
-    data traffic at the IP level. This Recommendation addresses the following areas
-    of such an IP-to-IP gateway: codec transcoding packetization time, voice performance,
-    facsimile, voiceband data and text telephone support, support and performance
-    of in-band signalling tones, and jitter handling. This Recommendation does not
-    define any new protocols but, where necessary, refers to existing protocols developed
-    within the ITU or by other standards bodies such as the IETF.\r\n\r\nThe support
-    of tandem-free operation (TFO) and other in-band mechanisms for improving speech
-    quality by avoiding tandem codecs will be developed in future editions of this
-    Recommendation."
+  content: "As a consequence of the growth of IP and of IP services, different operators have an increased need to support bulk interconnection of voice and voiceband data traffic at the IP level.\r\n\r\nRecommendation ITU-T G.799.3 defines the signal processing functionality and performance of an IP-to-IP gateway that is optimized for the transport of voice and voiceband data. Such a gateway may be used by network operators for the bulk interconnection of voice and voiceband data traffic at the IP level. This Recommendation addresses the following areas of such an IP-to-IP gateway: codec transcoding packetization time, voice performance, facsimile, voiceband data and text telephone support, support and performance of in-band signalling tones, and jitter handling. This Recommendation does not define any new protocols but, where necessary, refers to existing protocols developed within the ITU or by other standards bodies such as the IETF.\r\n\r\nThe support of tandem-free operation (TFO) and other in-band mechanisms for improving speech quality by avoiding tandem codecs will be developed in future editions of this Recommendation."
 status:
   stage:
     content: Published

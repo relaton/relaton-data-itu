@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Continua Design Guidelines (CDG) define a framework of underlying
-    standards and criteria which are required to ensure the interoperability of devices
-    and data used for personal connected health.\r\nThis Recommendation contains a
-    WAN-IF overview, common design guidelines for all WAN-IF certified device classes
-    (CDC), and the design guidelines for consent enabled AHD and WAN device CDCs.\r\nThe
-    design guidelines which support the following certified device classes (CDC) are
-    defined in separate Recommendations as follows:\r\n–\tH.812.1 Observation upload
-    certified device class\r\n–\tH.812.2 Questionnaires\r\n–\tH.812.3 Capability exchange
-    certified device class\r\n–\tH.812.4 Authenticated persistent session device class\r\n"
+  content: "The Continua Design Guidelines (CDG) define a framework of underlying standards and criteria which are required to ensure the interoperability of devices and data used for personal connected health.\r\nThis Recommendation contains a WAN-IF overview, common design guidelines for all WAN-IF certified device classes (CDC), and the design guidelines for consent enabled AHD and WAN device CDCs.\r\nThe design guidelines which support the following certified device classes (CDC) are defined in separate Recommendations as follows:\r\n–\tH.812.1 Observation upload certified device class\r\n–\tH.812.2 Questionnaires\r\n–\tH.812.3 Capability exchange certified device class\r\n–\tH.812.4 Authenticated persistent session device class\r\n"
 status:
   stage:
     content: Withdrawal

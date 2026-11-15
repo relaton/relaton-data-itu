@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1211 describes a derivation procedure for contribution
+  content: 'Recommendation ITU-T P.1211 describes a derivation procedure for contribution
     values that provide information about a relationship between quality-influencing
     factors (e.g., media quality levels and stalling) and the final media session
     quality score of adaptive audiovisual streaming services. More precisely, contribution
@@ -63,7 +63,8 @@ abstract:
     in cooperative game theory for distributing profits in a game among participants.
     This derivation procedure can be used to monitor the streaming service since operators
     can ascertain which quality-influencing factors decrease the final media session
-    quality score.\r\n"
+    quality score.
+    '
 status:
   stage:
     content: Published

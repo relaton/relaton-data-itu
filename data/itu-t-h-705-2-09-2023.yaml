@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.705.2 specifies the requirements of a live streaming
-    system to utilize quick user datagram protocol (UDP) Internet connections (QUIC)
-    transport protocol to improve its delivery performance and security. It also describes
-    the procedures and framework for QUIC-based live streaming system to provide unicast
-    or multicast service encapsulating in QUIC protocol. \r\nWith this Recommendation,
-    a live streaming service provider can gain an understanding of how to utilize
-    QUIC protocol to provide unicast or multicast live streaming media service. With
-    QUIC transport protocol, the services will have lower connection establishment
-    and delivery delay, enhanced delivery performance, and security insurance.\r\n"
+  content: "Recommendation ITU-T H.705.2 specifies the requirements of a live streaming system to utilize quick user datagram protocol (UDP) Internet connections (QUIC) transport protocol to improve its delivery performance and security. It also describes the procedures and framework for QUIC-based live streaming system to provide unicast or multicast service encapsulating in QUIC protocol. \r\nWith this Recommendation, a live streaming service provider can gain an understanding of how to utilize QUIC protocol to provide unicast or multicast live streaming media service. With QUIC transport protocol, the services will have lower connection establishment and delivery delay, enhanced delivery performance, and security insurance.\r\n"
 status:
   stage:
     content: Published

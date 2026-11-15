@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes the requirements of the network for the
-    Internet of Things (IoT) that enhance the common requirements of the IoT identified
-    in ITU-T Recommendation Y.2066. The requirements focus on the transport functions
-    of the network, but also cover service support functions. \r\n\r\nThe requirements
-    described in this Recommendation are common requirements for core network, access
-    network and IoT area network. \r\n\r\nThere are a lot of use cases of the IoT
-    with heterogeneous characteristics. Considering the current status of deployments
-    in the IoT market, this Recommendation focuses on the requirements of the network
-    for the IoT with smart meters and sensors as devices. Other use cases will be
-    covered in the future revisions of this Recommendation.\r\n"
+  content: "This Recommendation describes the requirements of the network for the Internet of Things (IoT) that enhance the common requirements of the IoT identified in ITU-T Recommendation Y.2066. The requirements focus on the transport functions of the network, but also cover service support functions. \r\n\r\nThe requirements described in this Recommendation are common requirements for core network, access network and IoT area network. \r\n\r\nThere are a lot of use cases of the IoT with heterogeneous characteristics. Considering the current status of deployments in the IoT market, this Recommendation focuses on the requirements of the network for the IoT with smart meters and sensors as devices. Other use cases will be covered in the future revisions of this Recommendation.\r\n"
 status:
   stage:
     content: Published
@@ -81,7 +72,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -154,8 +146,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -175,7 +167,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -217,8 +209,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -228,7 +219,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -260,8 +252,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

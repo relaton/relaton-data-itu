@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.64 has in scope ITU-T H.248 media gateways
-    with connection models using only IP-based ITU-T H.248 streams/terminations. The
-    different modes of IP packet forwarding (in the ITU-T H.248 bearer path) are described.
-    This Recommendation further defines an ITU-T H.248 package for discriminating
-    such modes and protocol elements for the so-called IP router forwarding method.
-    Further ITU-T H.248 packages provide capabilities for service enhanced packet
-    forwarding with respect to the support of additional network address translation.\r\nThis
-    revision clarifies the delivery process of an incoming packet to the ITU-T H.248
-    Context/Termination/Stream to retain consistency with Recommendation ITU-T H.248.79.\r\n"
+  content: "Recommendation ITU-T H.248.64 has in scope ITU-T H.248 media gateways with connection models using only IP-based ITU-T H.248 streams/terminations. The different modes of IP packet forwarding (in the ITU-T H.248 bearer path) are described. This Recommendation further defines an ITU-T H.248 package for discriminating such modes and protocol elements for the so-called IP router forwarding method. Further ITU-T H.248 packages provide capabilities for service enhanced packet forwarding with respect to the support of additional network address translation.\r\nThis revision clarifies the delivery process of an incoming packet to the ITU-T H.248 Context/Termination/Stream to retain consistency with Recommendation ITU-T H.248.79.\r\n"
 status:
   stage:
     content: Published

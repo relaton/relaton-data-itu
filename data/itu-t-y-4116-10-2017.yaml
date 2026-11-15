@@ -53,17 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Accidents and disasters caused by the transportation means affect much
-    lives and properties. The transportation safety can be influenced by the fault
-    of transportation means (i.e., cars, trains, ships, etc.), environmental status
-    (i.e., wind, snow, freezing status, etc.), abnormal status of transportation infrastructure
-    (i.e., bridge, tunnel, road, etc.) and some other human errors. The transportation
-    safety services based on the IoT technologies can reduce the occurrence of accidents
-    and disasters and save the lives and loss of properties in case of disaster.\r\n\r\nThis
-    Recommendation describes requirements for providing transportation safety services.
-    The use cases and related service scenarios which are used to extract requirements
-    for various IoT services and applications are also described in this Recommendation.
-    \r\n"
+  content: "Accidents and disasters caused by the transportation means affect much lives and properties. The transportation safety can be influenced by the fault of transportation means (i.e., cars, trains, ships, etc.), environmental status (i.e., wind, snow, freezing status, etc.), abnormal status of transportation infrastructure (i.e., bridge, tunnel, road, etc.) and some other human errors. The transportation safety services based on the IoT technologies can reduce the occurrence of accidents and disasters and save the lives and loss of properties in case of disaster.\r\n\r\nThis Recommendation describes requirements for providing transportation safety services. The use cases and related service scenarios which are used to extract requirements for various IoT services and applications are also described in this Recommendation. \r\n"
 status:
   stage:
     content: Published
@@ -83,7 +73,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -156,8 +147,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -177,7 +168,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -219,8 +210,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -230,7 +220,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -262,8 +253,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

@@ -57,28 +57,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.660 | ISO/IEC 9834-1 defines a tree structure that
-    supports international object identifiers (OIDs). It includes registration of
-    the top-level arcs of the OID tree. It also specifies procedures for the operation
-    of an International Registration Authority for use, when needed, by other ITU-T
-    Recommendations and/or International Standards.\r\n\r\nFor easy reference, and
-    to emphasize that this tree is an extended form of the original OID tree (defined
-    in earlier versions of this Recommendation | International Standard), this specific
-    tree can be referred to as \"the International Object Identifier tree\", or more
-    commonly as just \"the OID tree\".\r\n\r\nThe original OID tree required all arcs
-    to be unambiguously identified by a primary integer value, with the use for human
-    readability of (not necessarily unambiguous) secondary identifiers (restricted
-    to the Latin alphabet). Secondary identifiers were not normally carried in protocols
-    or used for machine identification. The international object identifier tree extends
-    this by allowing an arc to also be unambiguously identified by a Unicode label
-    (a string of Unicode characters) that can be carried in protocols and can be used
-    for machine identification.\r\n\r\nThe primary integers and secondary identifiers
-    of the international object identifier tree continue to be used in encodings (primary
-    integer values only) and value notation (primary integer values and secondary
-    identifiers) of the ASN.1 OBJECT IDENTIFIER type, which is unchanged. The Unicode
-    labels can only be used in encodings and value notation of the ASN.1 OID-IRI type.\r\n\r\nThis
-    Recommendation | International Standard also provides recommendations on an appropriate
-    fee structure for registration of lower level arcs."
+  content: "Recommendation ITU-T X.660 | ISO/IEC 9834-1 defines a tree structure that supports international object identifiers (OIDs). It includes registration of the top-level arcs of the OID tree. It also specifies procedures for the operation of an International Registration Authority for use, when needed, by other ITU-T Recommendations and/or International Standards.\r\n\r\nFor easy reference, and to emphasize that this tree is an extended form of the original OID tree (defined in earlier versions of this Recommendation | International Standard), this specific tree can be referred to as \"the International Object Identifier tree\", or more commonly as just \"the OID tree\".\r\n\r\nThe original OID tree required all arcs to be unambiguously identified by a primary integer value, with the use for human readability of (not necessarily unambiguous) secondary identifiers (restricted to the Latin alphabet). Secondary identifiers were not normally carried in protocols or used for machine identification. The international object identifier tree extends this by allowing an arc to also be unambiguously identified by a Unicode label (a string of Unicode characters) that can be carried in protocols and can be used for machine identification.\r\n\r\nThe primary integers and secondary identifiers of the international object identifier tree continue to be used in encodings (primary integer values only) and value notation (primary integer values and secondary identifiers) of the ASN.1 OBJECT IDENTIFIER type, which is unchanged. The Unicode labels can only be used in encodings and value notation of the ASN.1 OID-IRI type.\r\n\r\nThis Recommendation | International Standard also provides recommendations on an appropriate fee structure for registration of lower level arcs."
 status:
   stage:
     content: Published

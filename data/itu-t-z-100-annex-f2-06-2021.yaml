@@ -53,10 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Annex F2 describes the static semantic constraints of SDL-2010, the mapping
-    to the abstract grammar and the transformations identified by the 'Model' clauses
-    of Recommendations ITU-T Z.101, Z.102, Z.103, Z.104, Z.105 and Z.107, that are
-    included by reference in Recommendation ITU-T Z.100. \r\n"
+  content: "Annex F2 describes the static semantic constraints of SDL-2010, the mapping to the abstract grammar and the transformations identified by the 'Model' clauses of Recommendations ITU-T Z.101, Z.102, Z.103, Z.104, Z.105 and Z.107, that are included by reference in Recommendation ITU-T Z.100. \r\n"
 status:
   stage:
     content: Published
@@ -597,8 +594,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU
+        System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

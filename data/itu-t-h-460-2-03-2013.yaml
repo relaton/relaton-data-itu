@@ -53,18 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.460.2 describes the procedures and the signalling
-    protocol for Service Provider and Location Portability, while interworking with
-    SCN (using SS No. 7 signalling) interfaces in an ITU-T H.323 network. \r\nService
-    Provider Portability allows subscribers to keep their existing phone numbers/addressing
-    scheme even when changing from one service provider to another without changing
-    their location, and without changing the nature of the service offered. \r\nLocation
-    Portability allows subscribers to retain their existing phone numbers/addressing
-    scheme even when moving from one location to another.\r\nThis Recommendation makes
-    use of the \"Generic extensibility Framework\" specified in Recommendation ITU
-    T H.323 version 4.\r\nThis revision introduces a number of corrections and clarifications
-    by incorporating technical and editorial corrections from the ITU-T H.323-series
-    Implementers Guide (03/2011).\r\n"
+  content: "Recommendation ITU-T H.460.2 describes the procedures and the signalling protocol for Service Provider and Location Portability, while interworking with SCN (using SS No. 7 signalling) interfaces in an ITU-T H.323 network. \r\nService Provider Portability allows subscribers to keep their existing phone numbers/addressing scheme even when changing from one service provider to another without changing their location, and without changing the nature of the service offered. \r\nLocation Portability allows subscribers to retain their existing phone numbers/addressing scheme even when moving from one location to another.\r\nThis Recommendation makes use of the \"Generic extensibility Framework\" specified in Recommendation ITU T H.323 version 4.\r\nThis revision introduces a number of corrections and clarifications by incorporating technical and editorial corrections from the ITU-T H.323-series Implementers Guide (03/2011).\r\n"
 status:
   stage:
     content: Published

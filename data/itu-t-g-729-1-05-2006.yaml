@@ -51,32 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes an 8-32 kbit/s scalable wideband speech
-    and audio coding algorithm interoperable with G.729, G.729A and G.729B.The output
-    of the G.729EV coder has a bandwidth of 50-4000 Hz at 8 and 12 kbit/s and 50-7000
-    Hz from 14 to 32 kbit/s. At 8 kbit/s, G.729EV is fully interoperable with G.729,
-    Annex A/G.729 and Annex B/G.729. Hence, an efficient deployment in existing G.729-based
-    VoIP infrastructures is foreseen. The coder operates on 20 ms frames and has an
-    algorithmic delay of 48.9375 ms. By default, the encoder input and decoder output
-    are sampled at 16 kHz.\r\nThe encoder produces an embedded bitstream structured
-    in 12 layers corresponding to 12 available bit rates from 8 to 32 kbit/s. The
-    bitstream can be truncated at the decoder side or by any component of the communication
-    system to adjust \"on the fly\" the bit rate to the desired value with no need
-    for outband signalling.\r\nThe underlying algorithm is based on a three-stage
-    coding structure: embedded Code-Excited Linear Prediction (CELP) coding of the
-    lower band (50-4000 Hz), parametric coding of the higher band (4000-7000 Hz) by
-    Time-Domain Bandwidth Extension (TDBWE), and enhancement of the full band (50-7000
-    Hz) by a predictive transform coding technique referred to as Time-Domain Aliasing
-    Cancellation (TDAC).Amendment 1 introduces the new Annex A containing the RTP
-    payload format, capability identifiers and parameters for signalling of G.729.1
-    capabilities using H.245. Both format and capability parameters are fully compatible
-    with the corresponding G.729.1 RTP definitions to allow seamless interoperability.
-    Besides the new Annex, Amendment 1 to G.729.1 incorporates changes needed to correct
-    defects in G.729.1 and provides new, more comprehensive test vectors.Amendment
-    2 introduces the new Annex B, which defines an alternative implementation of the
-    G.729.1 algorithm using floating point arithmetic to be used for implementation
-    on DSP hardware optimized for floating-point operations. The accompanying floating
-    point C-code is fully interoperable with the fixed-point C-code."
+  content: "This Recommendation describes an 8-32 kbit/s scalable wideband speech and audio coding algorithm interoperable with G.729, G.729A and G.729B.The output of the G.729EV coder has a bandwidth of 50-4000 Hz at 8 and 12 kbit/s and 50-7000 Hz from 14 to 32 kbit/s. At 8 kbit/s, G.729EV is fully interoperable with G.729, Annex A/G.729 and Annex B/G.729. Hence, an efficient deployment in existing G.729-based VoIP infrastructures is foreseen. The coder operates on 20 ms frames and has an algorithmic delay of 48.9375 ms. By default, the encoder input and decoder output are sampled at 16 kHz.\r\nThe encoder produces an embedded bitstream structured in 12 layers corresponding to 12 available bit rates from 8 to 32 kbit/s. The bitstream can be truncated at the decoder side or by any component of the communication system to adjust \"on the fly\" the bit rate to the desired value with no need for outband signalling.\r\nThe underlying algorithm is based on a three-stage coding structure: embedded Code-Excited Linear Prediction (CELP) coding of the lower band (50-4000 Hz), parametric coding of the higher band (4000-7000 Hz) by Time-Domain Bandwidth Extension (TDBWE), and enhancement of the full band (50-7000 Hz) by a predictive transform coding technique referred to as Time-Domain Aliasing Cancellation (TDAC).Amendment 1 introduces the new Annex A containing the RTP payload format, capability identifiers and parameters for signalling of G.729.1 capabilities using H.245. Both format and capability parameters are fully compatible with the corresponding G.729.1 RTP definitions to allow seamless interoperability. Besides the new Annex, Amendment 1 to G.729.1 incorporates changes needed to correct defects in G.729.1 and provides new, more comprehensive test vectors.Amendment 2 introduces the new Annex B, which defines an alternative implementation of the G.729.1 algorithm using floating point arithmetic to be used for implementation on DSP hardware optimized for floating-point operations. The accompanying floating point C-code is fully interoperable with the fixed-point C-code."
 status:
   stage:
     content: Published

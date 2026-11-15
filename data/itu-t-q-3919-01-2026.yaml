@@ -53,14 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Current source routing measurement methods face multiple limitations,
-    such as inefficiencies in active and passive measurement methods, protocol dependency
-    and redundant overhead. To address these limitations, it is necessary to integrate
-    active and passive measurement methods and establish a normalized and protocol
-    independent data plane to streamline measurement methods. \r\nRecommendation ITU-T
-    Q.3919 aims to provide the requirements, methods and reference model of resource
-    integration and protocol independent methods for source routing measurements,
-    which will contribute to efficient network fault management.\r\n"
+  content: "Current source routing measurement methods face multiple limitations, such as inefficiencies in active and passive measurement methods, protocol dependency and redundant overhead. To address these limitations, it is necessary to integrate active and passive measurement methods and establish a normalized and protocol independent data plane to streamline measurement methods. \r\nRecommendation ITU-T Q.3919 aims to provide the requirements, methods and reference model of resource integration and protocol independent methods for source routing measurements, which will contribute to efficient network fault management.\r\n"
 status:
   stage:
     content: Published
@@ -318,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -330,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

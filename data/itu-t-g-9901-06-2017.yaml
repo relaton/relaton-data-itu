@@ -53,19 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9901 specifies the transmitted output voltage in
-    the band 9-535 kHz, the control parameters that determine spectral content, power
-    spectral density (PSD) mask requirements, a set of tools to support the reduction
-    of the transmit PSD, the means to measure this PSD for transmission over power
-    line wiring, as well as the allowable total transmit power into a specified termination
-    impedance.\r\n\r\nIt also complements the system architecture, physical layer
-    (PHY) and data link layer (DLL) specifications in Recommendations ITU‑T G.9902
-    (G.hnem), ITU-T G.9903 (G3-PLC), and ITU-T G.9904 (PRIME).\r\n\r\nThis revision
-    contains the following modifications:\r\n\r\n·         The output voltage limits
-    set for the G.9902 FCC-2 bandplan have been extended to G.9903 technology and
-    thus placed in the main body. Care has been taken to reference existing standards
-    as much as possible.\r\n\r\n·         The clarification of the tone masking feature
-    in Annex B.\r\n"
+  content: "Recommendation ITU-T G.9901 specifies the transmitted output voltage in the band 9-535 kHz, the control parameters that determine spectral content, power spectral density (PSD) mask requirements, a set of tools to support the reduction of the transmit PSD, the means to measure this PSD for transmission over power line wiring, as well as the allowable total transmit power into a specified termination impedance.\r\n\r\nIt also complements the system architecture, physical layer (PHY) and data link layer (DLL) specifications in Recommendations ITU‑T G.9902 (G.hnem), ITU-T G.9903 (G3-PLC), and ITU-T G.9904 (PRIME).\r\n\r\nThis revision contains the following modifications:\r\n\r\n·         The output voltage limits set for the G.9902 FCC-2 bandplan have been extended to G.9903 technology and thus placed in the main body. Care has been taken to reference existing standards as much as possible.\r\n\r\n·         The clarification of the tone masking feature in Annex B.\r\n"
 status:
   stage:
     content: Published

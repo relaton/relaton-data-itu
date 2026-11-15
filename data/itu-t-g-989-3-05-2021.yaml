@@ -53,24 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.989.3 specifies the transmission convergence layer
-    of 40 Gigabit-capable passive optical network (NG-PON2) systems providing optical
-    access for residential, business, mobile backhaul and other applications.\r\nAn
-    NG-PON2 system supports multiple wavelength channels and enables flexibility to
-    add capacity as the demand grows to 100 Gbit/s and beyond. An NG-PON2 system may
-    contain a set of time and wavelength division multiplexing (TWDM) channels, or
-    a set of point-to-point wavelength division multiplexing (PtP WDM) channels, or
-    both. The TWDM channels operate at the nominal line rates of 9.95328 and 2.48832
-    Gbit/s in both downstream and upstream directions. The PtP WDM channels support
-    nominal line rate classes of 1.25 Gbit/s, 2.5 Gbit/s and 10 Gbit/s, depending
-    on the PtP WDM client.\r\nThe transmission convergence (TC) layer is the protocol
-    layer of the NG-PON2 system that is positioned between the physical media dependent
-    (PMD) layer and service clients. It builds on Recommendation ITU T G.987.3, with
-    modifications for NG-PON2 specific features.\r\nThis Recommendation forms an integral
-    part of the ITU-T G.989 series of Recommendations (ITU T G.989, ITU-T G.989.1
-    and ITU-T G.989.2) that, together with the ONU management and control interface
-    (OMCI) Recommendation, ITU-T G.988, specifies a coherent set of access transmission
-    systems. The NG-PON2 system is also a member of the ITU-T G.9802 family.\r\n"
+  content: "Recommendation ITU-T G.989.3 specifies the transmission convergence layer of 40 Gigabit-capable passive optical network (NG-PON2) systems providing optical access for residential, business, mobile backhaul and other applications.\r\nAn NG-PON2 system supports multiple wavelength channels and enables flexibility to add capacity as the demand grows to 100 Gbit/s and beyond. An NG-PON2 system may contain a set of time and wavelength division multiplexing (TWDM) channels, or a set of point-to-point wavelength division multiplexing (PtP WDM) channels, or both. The TWDM channels operate at the nominal line rates of 9.95328 and 2.48832 Gbit/s in both downstream and upstream directions. The PtP WDM channels support nominal line rate classes of 1.25 Gbit/s, 2.5 Gbit/s and 10 Gbit/s, depending on the PtP WDM client.\r\nThe transmission convergence (TC) layer is the protocol layer of the NG-PON2 system that is positioned between the physical media dependent (PMD) layer and service clients. It builds on Recommendation ITU T G.987.3, with modifications for NG-PON2 specific features.\r\nThis Recommendation forms an integral part of the ITU-T G.989 series of Recommendations (ITU T G.989, ITU-T G.989.1 and ITU-T G.989.2) that, together with the ONU management and control interface (OMCI) Recommendation, ITU-T G.988, specifies a coherent set of access transmission systems. The NG-PON2 system is also a member of the ITU-T G.9802 family.\r\n"
 status:
   stage:
     content: Published

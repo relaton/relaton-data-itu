@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.781.1 specifies a functional architecture model
-    and corresponding atomic functions for the transport of time and frequency synchronization
-    via packet-based methods using the precision time protocol (PTP).\r\nThis revision
-    of Recommendation ITU-T G.781.1 provides the following updates:\r\n•Revised terminology
-    based on inclusive language\r\n•Updated Figure 6-1 \"The high-level functional
-    architecture for transport of packet-based synchronization via PTP over transport
-    layers\"\r\n•Updated Figure 8-11 \"Clock mode state transitions\", the definitions
-    of the modes and Table 810 \"Transition information\"\r\n•Updated clause 9.2 \"OTUk
-    to SD-p adaptation functions\"\r\n•Corrected OTSn to OSC in clause 9.3\r\n•Added
-    clause 9.4 \"FlexE to SD-p adaptation functions\"\r\n•Added clause 9.6 \"MTNSy
-    to SD time sync adaptation functions\".\r\nAdded details in Appendix III \"Analysis
-    of message delay times for NEs in packet-based synchronization networks\".\r\n"
+  content: "Recommendation ITU-T G.781.1 specifies a functional architecture model and corresponding atomic functions for the transport of time and frequency synchronization via packet-based methods using the precision time protocol (PTP).\r\nThis revision of Recommendation ITU-T G.781.1 provides the following updates:\r\n•Revised terminology based on inclusive language\r\n•Updated Figure 6-1 \"The high-level functional architecture for transport of packet-based synchronization via PTP over transport layers\"\r\n•Updated Figure 8-11 \"Clock mode state transitions\", the definitions of the modes and Table 810 \"Transition information\"\r\n•Updated clause 9.2 \"OTUk to SD-p adaptation functions\"\r\n•Corrected OTSn to OSC in clause 9.3\r\n•Added clause 9.4 \"FlexE to SD-p adaptation functions\"\r\n•Added clause 9.6 \"MTNSy to SD time sync adaptation functions\".\r\nAdded details in Appendix III \"Analysis of message delay times for NEs in packet-based synchronization networks\".\r\n"
 status:
   stage:
     content: Published

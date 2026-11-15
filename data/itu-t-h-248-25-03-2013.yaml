@@ -52,14 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.25 defines basic channel associated signalling
-    (CAS) and R1 packages and supplemental CAS packages that, in association with
-    the ITU-T H.248 Protocol, can be used to control a media gateway (MG) from an
-    external media gateway controller (MGC). \r\nThis revision adds a new read-only
-    property containing the current CAS state of the termination, to allow the MGC
-    to resynchronize itself in the event it loses track of this state.\r\nThis revision
-    incorporates an update to the optionality of the \"Pulse off\" and \"Pulse On\"
-    events.\r\n"
+  content: "Recommendation ITU-T H.248.25 defines basic channel associated signalling (CAS) and R1 packages and supplemental CAS packages that, in association with the ITU-T H.248 Protocol, can be used to control a media gateway (MG) from an external media gateway controller (MGC). \r\nThis revision adds a new read-only property containing the current CAS state of the termination, to allow the MGC to resynchronize itself in the event it loses track of this state.\r\nThis revision incorporates an update to the optionality of the \"Pulse off\" and \"Pulse On\" events.\r\n"
 status:
   stage:
     content: Published

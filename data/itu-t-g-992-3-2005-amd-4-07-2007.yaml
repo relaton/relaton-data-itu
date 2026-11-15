@@ -52,9 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This amendment contains text for further amendments to ITU-T Recommendation
-    G.992.3. The following items are included in this amendment:\r• Accuracy of test
-    parameters (new clause 8.12.5 and new Appendix VIII).\r• Annex C amendments."
+  content: "This amendment contains text for further amendments to ITU-T Recommendation G.992.3. The following items are included in this amendment:\r• Accuracy of test parameters (new clause 8.12.5 and new Appendix VIII).\r• Annex C amendments."
 status:
   stage:
     content: Withdrawal
@@ -217,8 +215,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Annex C – Specific requirements for an ADSL system operating in
-        the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix III
+      content: New Annex C – Specific requirements for an ADSL system operating
+        in the same cable as ISDN as defined in ITU-T Recommendation G.961 Appendix
+        III
     docidentifier:
     - content: G.992.3 (2002) Amd. 3 (06/2004)
       type: ITU

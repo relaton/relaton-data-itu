@@ -52,32 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies syntax and semantics of terminal information
-    messages as well as procedures to use them for in-band negotiation at the start
-    of or during communication. The messages cover receiving and transmitting capabilities
-    as well as mode preference from the receiving end, logical channel signalling,
-    and Control & Indication. Acknowledged signalling procedures are specified to
-    ensure reliable audiovisual and data communication.Products claiming compliance
-    with Version 12 of H.245 shall comply with all of the mandatory requirements of
-    this Recommendation. Version 12 products can be identified by H.245 TerminalCapabilitySet
-    messages containing a protocolIdentifier value of {itu-t (0) recommendation (0)
-    h (8) 245 version (0) 12}.Relative to H.245 Version 11 (2005-01), this version
-    includes:\r\n• An entry for G.722.1 Extension to Table VIII.1.\r\n• Relating to
-    draft new ITU-T Rec. H.235.8, removed the comment \"used only by Master\" describing
-    the use of EncryptionSync in OpenLogicalChannel, and added the semantics \"It
-    may also be used by the slave to provide the encryption key and the synchronization
-    point for a media channel sourced by the slave\" to the semantics of EncryptionSync
-    in OpenLogicalChannel.\r\n• Added a new Annex R with the generic capability description
-    for the GSM Adaptive Multi-Rate Narrow Band (AMR-NB) and Adaptive Multi-Rate Wide
-    Band (AMR-WB) codecs.\r\n• Added a new Annex S with generic capability description
-    for the Internet Low Bit Rate Codec (iLBC).\r\n• D.156 with agreement documented
-    in TD-153r1 (WP 2): Optional use of RFC 3984 packetization in H.241. Addition
-    of two new OIDs to Table VIII.1.\r\n• Support of Unicode characters in H.32x systems.\r\n•
-    Clarification of the usage of the \"logical\" parameter in generic capabilities.\r\n•
-    Addition of GenericInformation to the TCS*, OLC*, end session and user input messages.\r\n•
-    Addition of a genericInformation field to UserInputCapability.\r\n• Changed all
-    references to H.235 Annex G to H.235.7.\r\n• Added a reference to H.235.8.\r\n•
-    Modified the reference to H.235 to H.235.0."
+  content: "This Recommendation specifies syntax and semantics of terminal information messages as well as procedures to use them for in-band negotiation at the start of or during communication. The messages cover receiving and transmitting capabilities as well as mode preference from the receiving end, logical channel signalling, and Control & Indication. Acknowledged signalling procedures are specified to ensure reliable audiovisual and data communication.Products claiming compliance with Version 12 of H.245 shall comply with all of the mandatory requirements of this Recommendation. Version 12 products can be identified by H.245 TerminalCapabilitySet messages containing a protocolIdentifier value of {itu-t (0) recommendation (0) h (8) 245 version (0) 12}.Relative to H.245 Version 11 (2005-01), this version includes:\r\n• An entry for G.722.1 Extension to Table VIII.1.\r\n• Relating to draft new ITU-T Rec. H.235.8, removed the comment \"used only by Master\" describing the use of EncryptionSync in OpenLogicalChannel, and added the semantics \"It may also be used by the slave to provide the encryption key and the synchronization point for a media channel sourced by the slave\" to the semantics of EncryptionSync in OpenLogicalChannel.\r\n• Added a new Annex R with the generic capability description for the GSM Adaptive Multi-Rate Narrow Band (AMR-NB) and Adaptive Multi-Rate Wide Band (AMR-WB) codecs.\r\n• Added a new Annex S with generic capability description for the Internet Low Bit Rate Codec (iLBC).\r\n• D.156 with agreement documented in TD-153r1 (WP 2): Optional use of RFC 3984 packetization in H.241. Addition of two new OIDs to Table VIII.1.\r\n• Support of Unicode characters in H.32x systems.\r\n• Clarification of the usage of the \"logical\" parameter in generic capabilities.\r\n• Addition of GenericInformation to the TCS*, OLC*, end session and user input messages.\r\n• Addition of a genericInformation field to UserInputCapability.\r\n• Changed all references to H.235 Annex G to H.235.7.\r\n• Added a reference to H.235.8.\r\n• Modified the reference to H.235 to H.235.0."
 status:
   stage:
     content: Withdrawal

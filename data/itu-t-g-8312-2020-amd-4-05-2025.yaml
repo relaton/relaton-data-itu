@@ -47,17 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8312 describes a transport technology for metro
-    networks (MTNs), including transport of distributed radio access network (D-RAN)
-    and centralized radio access network (C-RAN) traffic. This technology leverages
-    existing and emerging pluggable Ethernet modules and reuses flex Ethernet (FlexE)
-    implementation logic.\r\nAmendment 1 adds several clarifications and also provides
-    test vectors. \r\nAmendment 2 adds an annex to describe the fine grain MTN path
-    and the associate elements.\r\nAmendment 3 adds a new Annex A subclause and Appendix
-    V to describe the method of mapping CBR clients into fgMTNP and a new Annex B
-    to describe the fine grain MTN path hitless resizing mechanism.\r\nAmendment 4
-    adds a new Appendix VI to describe CBR client bit mapping including AMP and GMP,
-    it also updates Table A.1 to define PT value for fgCPU.\r\n"
+  content: "Recommendation ITU-T G.8312 describes a transport technology for metro networks (MTNs), including transport of distributed radio access network (D-RAN) and centralized radio access network (C-RAN) traffic. This technology leverages existing and emerging pluggable Ethernet modules and reuses flex Ethernet (FlexE) implementation logic.\r\nAmendment 1 adds several clarifications and also provides test vectors. \r\nAmendment 2 adds an annex to describe the fine grain MTN path and the associate elements.\r\nAmendment 3 adds a new Annex A subclause and Appendix V to describe the method of mapping CBR clients into fgMTNP and a new Annex B to describe the fine grain MTN path hitless resizing mechanism.\r\nAmendment 4 adds a new Appendix VI to describe CBR client bit mapping including AMP and GMP, it also updates Table A.1 to define PT value for fgCPU.\r\n"
 status:
   stage:
     content: Withdrawal

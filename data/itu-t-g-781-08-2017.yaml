@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.781 defines the atomic functions that are part
-    of the two synchronization layers, the synchronization distribution (SD) layer
-    and the network synchronization (NS) layer. It also defines some atomic functions,
-    part of the transport layer, which are related to synchronization.\r\n\r\nThese
-    functions describe the synchronization of SDH, Ethernet, and OTN NEs and how these
-    NEs are involved in Network Synchronization.\r\n\r\nThe specifications in this
-    Recommendation are the superset of functionality of three regional standards bodies.
-    Care should be taken when selecting from this Recommendation.\r\n\r\nNot every
-    atomic function defined in this Recommendation is required for every application.
-    Different subsets of atomic functions may be assembled in different ways according
-    to the combination rules given in Recommendations ITU-T G.783, ITU-T G.705, ITU-T
-    G.8021, ITU-T G.8121, and ITU-T G.798 to provide a variety of different capabilities.
-    Network operators and equipment suppliers may choose which functions must be implemented
-    for each application.\r\n"
+  content: "Recommendation ITU-T G.781 defines the atomic functions that are part of the two synchronization layers, the synchronization distribution (SD) layer and the network synchronization (NS) layer. It also defines some atomic functions, part of the transport layer, which are related to synchronization.\r\n\r\nThese functions describe the synchronization of SDH, Ethernet, and OTN NEs and how these NEs are involved in Network Synchronization.\r\n\r\nThe specifications in this Recommendation are the superset of functionality of three regional standards bodies. Care should be taken when selecting from this Recommendation.\r\n\r\nNot every atomic function defined in this Recommendation is required for every application. Different subsets of atomic functions may be assembled in different ways according to the combination rules given in Recommendations ITU-T G.783, ITU-T G.705, ITU-T G.8021, ITU-T G.8121, and ITU-T G.798 to provide a variety of different capabilities. Network operators and equipment suppliers may choose which functions must be implemented for each application.\r\n"
 status:
   stage:
     content: Withdrawal

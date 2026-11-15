@@ -56,13 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.680 | ISO/IEC 8824-1 provides a notation called
-    Abstract Syntax Notation One (ASN.1) for \r\ndefining the syntax of information
-    data. It defines a number of simple data types and specifies a notation for referencing
-    \r\nthese types and for specifying values of these types. \r\n\r\nThe ASN.1 notations
-    can be applied whenever it is necessary to define the abstract syntax of information
-    without \r\n\r\nconstraining in any way how the information is encoded for transmission.
-    \r\n"
+  content: "Recommendation ITU-T X.680 | ISO/IEC 8824-1 provides a notation called Abstract Syntax Notation One (ASN.1) for \r\ndefining the syntax of information data. It defines a number of simple data types and specifies a notation for referencing \r\nthese types and for specifying values of these types. \r\n\r\nThe ASN.1 notations can be applied whenever it is necessary to define the abstract syntax of information without \r\n\r\nconstraining in any way how the information is encoded for transmission. \r\n"
 status:
   stage:
     content: Published

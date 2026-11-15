@@ -53,16 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9901 specifies the control parameters that determine
-    spectral content, power spectral density (PSD) mask requirements, a set of tools
-    to support the reduction of the transmit PSD, the means to measure this PSD for
-    transmission over power line wiring, as well as the allowable total transmit power
-    into a specified termination impedance. It complements the system architecture,
-    physical layer (PHY) and data link layer (DLL) specifications in Recommendations
-    ITU T G.9902 (G.hnem), ITU-T G.9903 (G3-PLC) and ITU-T G.9904 (PRIME).\r\nThis
-    Recommendation uses material from Recommendation ITU-T G.9955 including Amendment
-    1; specifically using material from the main body of the text, and Annexes A,
-    B and E. New technical material has not been introduced in this version.\r\n"
+  content: "Recommendation ITU-T G.9901 specifies the control parameters that determine spectral content, power spectral density (PSD) mask requirements, a set of tools to support the reduction of the transmit PSD, the means to measure this PSD for transmission over power line wiring, as well as the allowable total transmit power into a specified termination impedance. It complements the system architecture, physical layer (PHY) and data link layer (DLL) specifications in Recommendations ITU T G.9902 (G.hnem), ITU-T G.9903 (G3-PLC) and ITU-T G.9904 (PRIME).\r\nThis Recommendation uses material from Recommendation ITU-T G.9955 including Amendment 1; specifically using material from the main body of the text, and Annexes A, B and E. New technical material has not been introduced in this version.\r\n"
 status:
   stage:
     content: Withdrawal

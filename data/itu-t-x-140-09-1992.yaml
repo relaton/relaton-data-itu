@@ -53,19 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines a set of general quality of service (QOS)
-    parameters for public data networks (PDNs). The parameters have two essential
-    characteristics:\r\n1)\tthey focus on performance effects which are observable
-    at the network interfaces, rather than their causes within the network; and\r\n2)\ttheir
-    definitions are based on protocol-independent events (e.g. access request) rather
-    than protocol-specific interface events (e.g. issuance of an X.21 call request
-    signal).\r\n\tThese characteristics make the parameters independent of application,
-    network, and service. With proper specialization, they may be used to specify
-    or measure the quality of any data communication service, irrespective of network
-    internal design or network access protocol. Examples of data communication services
-    to which the parameters may be applied are circuit-switched services, packet-switched
-    services, and leased circuit services. The parameters are applicable to both connection-oriented
-    and connectionless services.\r\n"
+  content: "This Recommendation defines a set of general quality of service (QOS) parameters for public data networks (PDNs). The parameters have two essential characteristics:\r\n1)\tthey focus on performance effects which are observable at the network interfaces, rather than their causes within the network; and\r\n2)\ttheir definitions are based on protocol-independent events (e.g. access request) rather than protocol-specific interface events (e.g. issuance of an X.21 call request signal).\r\n\tThese characteristics make the parameters independent of application, network, and service. With proper specialization, they may be used to specify or measure the quality of any data communication service, irrespective of network internal design or network access protocol. Examples of data communication services to which the parameters may be applied are circuit-switched services, packet-switched services, and leased circuit services. The parameters are applicable to both connection-oriented and connectionless services.\r\n"
 status:
   stage:
     content: Published

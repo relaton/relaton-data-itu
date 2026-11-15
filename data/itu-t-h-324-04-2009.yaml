@@ -52,51 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.324 describes terminals for low bit-rate multimedia
-    communication, utilizing ITU-T V.34 modems operating over the general switched
-    telephone network (GSTN), I.400-series user-network interface for integrated services
-    digital network (ISDN) or an appropriate wireless interface for mobile networks.
-    ITU-T H.324 terminals may carry real-time voice, data and video, or any combination,
-    including videotelephony.\r\nITU-T H.324 terminals may be integrated into personal
-    computers or implemented in stand-alone devices such as videotelephones. Support
-    for each media type (voice, data, video) is optional, but if supported, the ability
-    to use a specified common mode of operation is required, so that all terminals
-    supporting that media type can interwork. This Recommendation allows more than
-    one channel of each type to be in use. Other Recommendations in this series include
-    Recommendation ITU-T H.223 (multiplex), Recommendation ITU-T H.245 (control),
-    Recommendation ITU-T H.263 (video codec) and Recommendation ITU-T G.723.1 (audio
-    codec).\r\nThis Recommendation makes use of the logical channel signalling procedures
-    of Recommendation ITU-T H.245, in which the content of each logical channel is
-    described when the channel is opened. Procedures are provided for expression of
-    receiver and transmitter capabilities, so transmissions are limited to what receivers
-    can decode, and so that receivers may request a particular desired mode from transmitters.
-    Since the procedures of this Recommendation are also planned for use by Recommendation
-    ITU-T H.310 for ATM networks, and Recommendation ITU-T H.323 for non-guaranteed
-    bandwidth LANs, interworking with these systems should be straightforward.\r\nITU-T
-    H.324 terminals may be used in multipoint configurations through multipoint control
-    units (MCUs), and may interwork with ITU-T H.320 terminals on the ISDN, as well
-    as with terminals on wireless networks.\r\nAnnex A defines the data protocol stack
-    for use with the ITU-T H.324 control channel.\r\nAnnex B defines high-level data
-    link control (HDLC) frame structure transparency for asynchronous transmission.\r\nAnnex
-    C defines the use of ITU-T H.324 terminals in error-prone transmission environments
-    (\"also referred to elsewhere as ITU-T H.324/M\").\r\nAnnex D defines the use
-    of ITU-T H.324 terminals on ISDN circuits (\"also referred to elsewhere as ITU-T
-    H.324/I\").\r\nAnnex E defines timer T401 initialization for operation over geostationary-satellite
-    channels.\r\nAnnex F supports multilink operation on the GSTN and ISDN.\r\nAnnex
-    G defines the use of ISO/IEC 14496-1 (\"MPEG-4 systems\") generic capabilities
-    in ITU-T H.324 terminals.\r\nAnnex H supports multilink operation on error-prone
-    mobile networks.\r\nAnnex I defines the use of HTTP in ITU-T H.324 terminals,
-    enabling non-conversational services with a user interface through web-like menus.\r\nAnnex
-    J summarizes the OIDs defined in this Recommendation and defines ITU-T H.324 generic
-    capabilities which are used in ITU-T H.245 signalling-based systems.\r\nAnnex
-    K defines the media-oriented negotiation acceleration (MONA) procedure, which
-    allows media channels to be established in a fast and flexible manner.\r\nAnnex
-    L defines procedures to establish and carry text conversation sessions in the
-    ITU-T H.324 multimedia environment.\r\nAnnex M defines the nature of ITU-T H.245
-    messages used by ITU-T H.324 endpoints.\r\nThis revised version of this Recommendation
-    introduces a number of enhancements and clarifications to the previous version,
-    primarily the introductions of Annex K (MONA), Annex L (text conversation) and
-    Annex M (ITU-T H.245 messages)."
+  content: "Recommendation ITU-T H.324 describes terminals for low bit-rate multimedia communication, utilizing ITU-T V.34 modems operating over the general switched telephone network (GSTN), I.400-series user-network interface for integrated services digital network (ISDN) or an appropriate wireless interface for mobile networks. ITU-T H.324 terminals may carry real-time voice, data and video, or any combination, including videotelephony.\r\nITU-T H.324 terminals may be integrated into personal computers or implemented in stand-alone devices such as videotelephones. Support for each media type (voice, data, video) is optional, but if supported, the ability to use a specified common mode of operation is required, so that all terminals supporting that media type can interwork. This Recommendation allows more than one channel of each type to be in use. Other Recommendations in this series include Recommendation ITU-T H.223 (multiplex), Recommendation ITU-T H.245 (control), Recommendation ITU-T H.263 (video codec) and Recommendation ITU-T G.723.1 (audio codec).\r\nThis Recommendation makes use of the logical channel signalling procedures of Recommendation ITU-T H.245, in which the content of each logical channel is described when the channel is opened. Procedures are provided for expression of receiver and transmitter capabilities, so transmissions are limited to what receivers can decode, and so that receivers may request a particular desired mode from transmitters. Since the procedures of this Recommendation are also planned for use by Recommendation ITU-T H.310 for ATM networks, and Recommendation ITU-T H.323 for non-guaranteed bandwidth LANs, interworking with these systems should be straightforward.\r\nITU-T H.324 terminals may be used in multipoint configurations through multipoint control units (MCUs), and may interwork with ITU-T H.320 terminals on the ISDN, as well as with terminals on wireless networks.\r\nAnnex A defines the data protocol stack for use with the ITU-T H.324 control channel.\r\nAnnex B defines high-level data link control (HDLC) frame structure transparency for asynchronous transmission.\r\nAnnex C defines the use of ITU-T H.324 terminals in error-prone transmission environments (\"also referred to elsewhere as ITU-T H.324/M\").\r\nAnnex D defines the use of ITU-T H.324 terminals on ISDN circuits (\"also referred to elsewhere as ITU-T H.324/I\").\r\nAnnex E defines timer T401 initialization for operation over geostationary-satellite channels.\r\nAnnex F supports multilink operation on the GSTN and ISDN.\r\nAnnex G defines the use of ISO/IEC 14496-1 (\"MPEG-4 systems\") generic capabilities in ITU-T H.324 terminals.\r\nAnnex H supports multilink operation on error-prone mobile networks.\r\nAnnex I defines the use of HTTP in ITU-T H.324 terminals, enabling non-conversational services with a user interface through web-like menus.\r\nAnnex J summarizes the OIDs defined in this Recommendation and defines ITU-T H.324 generic capabilities which are used in ITU-T H.245 signalling-based systems.\r\nAnnex K defines the media-oriented negotiation acceleration (MONA) procedure, which allows media channels to be established in a fast and flexible manner.\r\nAnnex L defines procedures to establish and carry text conversation sessions in the ITU-T H.324 multimedia environment.\r\nAnnex M defines the nature of ITU-T H.245 messages used by ITU-T H.324 endpoints.\r\nThis revised version of this Recommendation introduces a number of enhancements and clarifications to the previous version, primarily the introductions of Annex K (MONA), Annex L (text conversation) and Annex M (ITU-T H.245 messages)."
 status:
   stage:
     content: Published

@@ -56,11 +56,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.696 | ISO/IEC 8825-7 specifies two sets of binary
+  content: 'Recommendation ITU-T X.696 | ISO/IEC 8825-7 specifies two sets of binary
     encoding rules that can be applied to values of all ASN.1 types using less processing
     resources than the Basic Encoding Rules and its derivatives (described in Rec.
     ITU‑T X.690 | ISO/IEC 8825-1) and the Packed Encoding Rules (described in Rec.
-    ITU-T X.691 | ISO/IEC 8825‑2).\r\n"
+    ITU-T X.691 | ISO/IEC 8825‑2).
+    '
 status:
   stage:
     content: Withdrawal

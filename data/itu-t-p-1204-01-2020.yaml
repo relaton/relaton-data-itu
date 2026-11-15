@@ -53,41 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1204 is the introductory document for a set of
-    documents that describe model algorithms for monitoring the video quality for
-    streaming using reliable transport (e.g., adaptive streaming based on the hypertext
-    transfer protocol (HTTP) over the transmission control protocol (TCP), quick user
-    datagram protocol internet connections (QUIC)). \r\n\r\nThe ITU-T P.1204 series
-    of Recommendations comprises different variants of models for sequence-related
-    (between 5 and 10 s) and per-1-second video-quality estimation. The variants differ
-    in the type of input information they use: bitstream based, pixel based, and hybrid
-    (using both bitstream and pixel information). \r\n\r\nIn principle, the per-1-second
-    outputs of these video-quality models can be used together with an audio-quality
-    model for integration into audiovisual quality and, together with information
-    about initial loading delay and media playout stalling events, further into a
-    final per-session model output, an estimate of integral per-session quality (see
-    e.g., ITU-T P.1203, ITU-T P.1203.2, ITU-T P.1203.3). \r\n\r\nRecommendation ITU-T
-    P.1204 was developed in collaboration with the Video Quality Experts Group (VQEG).\r\n\r\nThe
-    structure of the set of Recommendations reflects the different functionality of
-    modules described in each document:\r\n\r\n–           ITU-T P.1204 (2020), Video
-    quality assessment of streaming services over reliable transport for resolutions
-    up to 4K.\r\n\r\n–           ITU-T P.1204.1, Video quality assessment of streaming
-    services over reliable transport for resolutions up to 4K with access to transport
-    information (in development)\r\n\r\n–           ITU-T P.1204.2, Video quality
-    assessment of streaming services over reliable transport for resolutions up to
-    4K with access to video frame information (in development)\r\n\r\n–           ITU-T
-    P.1204.3 (2020), Video quality assessment of streaming services over reliable
-    transport for resolutions up to 4K with access to full bitstream information.\r\n\r\n–
-    \          ITU-T P.1204.4 (2020), Video quality assessment of streaming services
-    over reliable transport for resolutions up to 4K with access to full and reduced
-    reference pixel information.\r\n\r\n–           ITU-T P.1204.5 (2020), Video quality
-    assessment of streaming services over reliable transport for resolutions up to
-    4K with access to transport and received pixel information.\r\n\r\nThe ITU-T P.1204-series
-    of Recommendations addresses three application areas, which are respectively indicated
-    in the module-related ITU-T P.1204.1, ITU-T P.1204.2, ITU-T P.1204.3, ITU-T P.1204.4
-    and ITU‑T P.1204.5:\r\n\r\n–           large-screen presentation as with fixed-network
-    video streaming;\r\n\r\n–           mobile streaming on handheld devices such
-    as smartphones;\r\n\r\n–           presentation on tablet-type devices.\r\n"
+  content: "Recommendation ITU-T P.1204 is the introductory document for a set of documents that describe model algorithms for monitoring the video quality for streaming using reliable transport (e.g., adaptive streaming based on the hypertext transfer protocol (HTTP) over the transmission control protocol (TCP), quick user datagram protocol internet connections (QUIC)). \r\n\r\nThe ITU-T P.1204 series of Recommendations comprises different variants of models for sequence-related (between 5 and 10 s) and per-1-second video-quality estimation. The variants differ in the type of input information they use: bitstream based, pixel based, and hybrid (using both bitstream and pixel information). \r\n\r\nIn principle, the per-1-second outputs of these video-quality models can be used together with an audio-quality model for integration into audiovisual quality and, together with information about initial loading delay and media playout stalling events, further into a final per-session model output, an estimate of integral per-session quality (see e.g., ITU-T P.1203, ITU-T P.1203.2, ITU-T P.1203.3). \r\n\r\nRecommendation ITU-T P.1204 was developed in collaboration with the Video Quality Experts Group (VQEG).\r\n\r\nThe structure of the set of Recommendations reflects the different functionality of modules described in each document:\r\n\r\n–           ITU-T P.1204 (2020), Video quality assessment of streaming services over reliable transport for resolutions up to 4K.\r\n\r\n–           ITU-T P.1204.1, Video quality assessment of streaming services over reliable transport for resolutions up to 4K with access to transport information (in development)\r\n\r\n–           ITU-T P.1204.2, Video quality assessment of streaming services over reliable transport for resolutions up to 4K with access to video frame information (in development)\r\n\r\n–           ITU-T P.1204.3 (2020), Video quality assessment of streaming services over reliable transport for resolutions up to 4K with access to full bitstream information.\r\n\r\n–           ITU-T P.1204.4 (2020), Video quality assessment of streaming services over reliable transport for resolutions up to 4K with access to full and reduced reference pixel information.\r\n\r\n–           ITU-T P.1204.5 (2020), Video quality assessment of streaming services over reliable transport for resolutions up to 4K with access to transport and received pixel information.\r\n\r\nThe ITU-T P.1204-series of Recommendations addresses three application areas, which are respectively indicated in the module-related ITU-T P.1204.1, ITU-T P.1204.2, ITU-T P.1204.3, ITU-T P.1204.4 and ITU‑T P.1204.5:\r\n\r\n–           large-screen presentation as with fixed-network video streaming;\r\n\r\n–           mobile streaming on handheld devices such as smartphones;\r\n\r\n–           presentation on tablet-type devices.\r\n"
 status:
   stage:
     content: Withdrawal

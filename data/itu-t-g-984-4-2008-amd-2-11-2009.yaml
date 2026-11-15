@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to Recommendation ITU-T G.984.4 contains various updates to
-    Recommendation ITU-T G.984.4 (2008) and Recommendation ITU-T G.984.4 (2008) Amendment
-    1 (2009). A number of editorial corrections and clarifications are included, along
-    with the following substantive changes and extensions to the G-PON OMCI.\r• A
-    virtual interface definition for use when an ONT is managed by two domains, OMCI
-    and for example TR-69.\r• An extended form of the OMCI message set to facilitate
-    exchange of larger quantities of control plane information between ONT and OLT.\r•
-    An ageing time attribute on dynamically learned MAC bridge addresses.\r• A means
-    to distribute time of day from an OLT to an ONT.\r• Additional features to support
-    the use of OMCI in ITU-T G.986 systems.\r• A mechanism that supports mutual authentication
-    of OLT and ONT and secure transport of encryption keys."
+  content: "Amendment 2 to Recommendation ITU-T G.984.4 contains various updates to Recommendation ITU-T G.984.4 (2008) and Recommendation ITU-T G.984.4 (2008) Amendment 1 (2009). A number of editorial corrections and clarifications are included, along with the following substantive changes and extensions to the G-PON OMCI.\r• A virtual interface definition for use when an ONT is managed by two domains, OMCI and for example TR-69.\r• An extended form of the OMCI message set to facilitate exchange of larger quantities of control plane information between ONT and OLT.\r• An ageing time attribute on dynamically learned MAC bridge addresses.\r• A means to distribute time of day from an OLT to an ONT.\r• Additional features to support the use of OMCI in ITU-T G.986 systems.\r• A mechanism that supports mutual authentication of OLT and ONT and secure transport of encryption keys."
 status:
   stage:
     content: Published

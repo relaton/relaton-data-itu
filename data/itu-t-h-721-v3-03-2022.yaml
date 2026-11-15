@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.721 describes and specifies the functionalities
-    of the Internet protocol television (IPTV) terminal devices for the IPTV basic
-    services defined in Recommendation ITU-T H.720. This Recommendation is targeted
-    at IPTV terminal devices capable of receiving linear television (TV) service and
-    video-on-demand services, with additional data content (such as text) using a
-    managed content delivery network. The service definition takes into consideration
-    conditions on content delivery such as quality of service (QoS). The expected
-    types of IPTV terminal devices are set-top boxes and digital TV sets with embedded
-    IPTV capabilities.\r\nThe second edition introduced support for high efficiency
-    video coding (HEVC), dynamic adaptive streaming over HTTP (DASH), MPEG-4 audio
-    lossless coding (ALS), MPEG-4 advanced audio coding (AAC), DTS-HD, timed text
-    markup language (TTML), MPEG media transport (MMT) and several corrections and
-    clarifications.\r\nThe third edition introduces support for new technologies such
-    as timestamped fragmented time-length-value (TFT)."
+  content: "Recommendation ITU-T H.721 describes and specifies the functionalities of the Internet protocol television (IPTV) terminal devices for the IPTV basic services defined in Recommendation ITU-T H.720. This Recommendation is targeted at IPTV terminal devices capable of receiving linear television (TV) service and video-on-demand services, with additional data content (such as text) using a managed content delivery network. The service definition takes into consideration conditions on content delivery such as quality of service (QoS). The expected types of IPTV terminal devices are set-top boxes and digital TV sets with embedded IPTV capabilities.\r\nThe second edition introduced support for high efficiency video coding (HEVC), dynamic adaptive streaming over HTTP (DASH), MPEG-4 audio lossless coding (ALS), MPEG-4 advanced audio coding (AAC), DTS-HD, timed text markup language (TTML), MPEG media transport (MMT) and several corrections and clarifications.\r\nThe third edition introduces support for new technologies such as timestamped fragmented time-length-value (TFT)."
 status:
   stage:
     content: Published

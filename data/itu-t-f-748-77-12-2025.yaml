@@ -52,12 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A foundation model is any model that is trained on broad data that can
-    be adapted to a wide range of downstream tasks. To make the capabilities and related
-    performance measurable and evaluable, assessment criteria need to be specified.
-    \r\nRecommendation ITU-T F.748.77 specifies the overall workflow of assessment
-    and describes the framework for assessment for foundation models with specific
-    domains along with the assessment dimensions.\r\n"
+  content: "A foundation model is any model that is trained on broad data that can be adapted to a wide range of downstream tasks. To make the capabilities and related performance measurable and evaluable, assessment criteria need to be specified. \r\nRecommendation ITU-T F.748.77 specifies the overall workflow of assessment and describes the framework for assessment for foundation models with specific domains along with the assessment dimensions.\r\n"
 status:
   stage:
     content: Published

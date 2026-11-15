@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9960 belongs to the family of ITU-T G.996x Recommendations.
-    Recommendation ITU-T G.9960 specifies the system architecture and physical (PHY)
-    layer for wireline-based home networking transceivers which are capable of operating
-    over premises' wiring, including inside telephone wiring, coaxial cable, and power-line
-    wiring. It complements the data link layer (DLL) specification in Recommendation
-    ITUT G.9961, and the power spectral density (PSD) specification in Recommendation
-    ITU-T G.9964.\r\nThis revision comprises ITU-T G.9960 (2018) plus its Corrigendum
-    1, Amendment 1, Amendment 2, Corrigendum 2 and Amendment 3, along with the specification
-    of a new PHY frame type for use by ITU-T G.9991.\r\n"
+  content: "Recommendation ITU-T G.9960 belongs to the family of ITU-T G.996x Recommendations. Recommendation ITU-T G.9960 specifies the system architecture and physical (PHY) layer for wireline-based home networking transceivers which are capable of operating over premises' wiring, including inside telephone wiring, coaxial cable, and power-line wiring. It complements the data link layer (DLL) specification in Recommendation ITUT G.9961, and the power spectral density (PSD) specification in Recommendation ITU-T G.9964.\r\nThis revision comprises ITU-T G.9960 (2018) plus its Corrigendum 1, Amendment 1, Amendment 2, Corrigendum 2 and Amendment 3, along with the specification of a new PHY frame type for use by ITU-T G.9991.\r\n"
 status:
   stage:
     content: Published
@@ -253,7 +245,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wire-line based home networking transceivers – Foundation
+      content: Unified high-speed wire-line based home networking transceivers –
+        Foundation
     docidentifier:
     - content: G.9960 (10/2009)
       type: ITU

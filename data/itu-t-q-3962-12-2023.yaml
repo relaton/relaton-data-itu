@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3962 aims to solve the problems of wrong failure
+  content: 'Recommendation ITU-T Q.3962 aims to solve the problems of wrong failure
     location and performance information brought by the traditional isolated traceroute
     tools in a joint Internet protocol/ multiprotocol label switching (IP/MPLS) scenario.
     This Recommendation describes the requirements and reference model for optimized
-    traceroute for joint IP/MPLS.\r\n"
+    traceroute for joint IP/MPLS.
+    '
 status:
   stage:
     content: Published
@@ -315,9 +316,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -327,8 +328,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

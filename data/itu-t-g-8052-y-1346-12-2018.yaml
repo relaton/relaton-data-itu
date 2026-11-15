@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8052/Y.1346 contains the protocol neutral UML information
-    model for Ethernet transport network (NE) management. The model is based on the
-    Ethernet equipment functions specified in Recommendation ITU-T G.8021/Y.1341,
-    generic management requirements in Recommendation ITU-T G.7710/Y.1701, and Ethernet
-    specific management requirements in Recommendation ITU‑T G.8051/Y.1345.\r\n\r\nThe
-    2016 revision of this Recommendation changes the UML modelling tool from RSA to
-    open source Papyrus tool, updates the Recommendation ITU-T G.8052/Y.1346 information
-    model to align it with the Recommendation ITU-T G.7711/Y.1702 v2.0 Core information
-    model, drops subclassing of the TP classes from Recommendation ITU-T M.3160, and
-    supports the additional management requirements in Recommendation ITU-T G.8051/Y.1345.\r\n\r\nThe
-    2018 revision of this Recommendation up-versions the UML model tool to Papyrus
-    v3.2.0 and the profile to v0.2.13, deletes ODUkP-X-L (from the CsfRdiFdiEnableSink_Pac,
-    CsfRdiFdiEnableSource_Pac, and CsfReportSink_Pac), replaces ETY termination points
-    with ETHnull termination points, removes ODUkp/ETH_A and ODU2P/ETHPP-OS_A, adds
-    Annex A for the Ethernet Spec model.\r\n"
+  content: "Recommendation ITU-T G.8052/Y.1346 contains the protocol neutral UML information model for Ethernet transport network (NE) management. The model is based on the Ethernet equipment functions specified in Recommendation ITU-T G.8021/Y.1341, generic management requirements in Recommendation ITU-T G.7710/Y.1701, and Ethernet specific management requirements in Recommendation ITU‑T G.8051/Y.1345.\r\n\r\nThe 2016 revision of this Recommendation changes the UML modelling tool from RSA to open source Papyrus tool, updates the Recommendation ITU-T G.8052/Y.1346 information model to align it with the Recommendation ITU-T G.7711/Y.1702 v2.0 Core information model, drops subclassing of the TP classes from Recommendation ITU-T M.3160, and supports the additional management requirements in Recommendation ITU-T G.8051/Y.1345.\r\n\r\nThe 2018 revision of this Recommendation up-versions the UML model tool to Papyrus v3.2.0 and the profile to v0.2.13, deletes ODUkP-X-L (from the CsfRdiFdiEnableSink_Pac, CsfRdiFdiEnableSource_Pac, and CsfReportSink_Pac), replaces ETY termination points with ETHnull termination points, removes ODUkp/ETH_A and ODU2P/ETHPP-OS_A, adds Annex A for the Ethernet Spec model.\r\n"
 status:
   stage:
     content: Withdrawal

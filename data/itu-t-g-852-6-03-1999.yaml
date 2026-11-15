@@ -52,11 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The trail management service provides functionality for:\r• creation/deletion
-    of trail termination points;\r• association/disassociation of trail termination
-    points with/from subnetworks or access groups;\r• creation/deletion and configuration
-    of trails between a specified set of endpoints and/or access groups at the boundary
-    of a layer network."
+  content: "The trail management service provides functionality for:\r• creation/deletion of trail termination points;\r• association/disassociation of trail termination points with/from subnetworks or access groups;\r• creation/deletion and configuration of trails between a specified set of endpoints and/or access groups at the boundary of a layer network."
 status:
   stage:
     content: Published

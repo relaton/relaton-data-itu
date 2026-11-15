@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8261/Y.1361 defines frequency synchronization aspects
-    in packet networks. It specifies the maximum network limits of jitter and wander
-    that shall not be exceeded. It specifies the minimum equipment tolerance to jitter
-    and wander that shall be provided at the boundary of these packet networks at
-    TDM and synchronization interfaces. It also outlines the minimum requirements
-    for the synchronization function of network elements.\r\nThe requirements for
-    the jitter and wander characteristics that are specified in this Recommendation
-    must be adhered to in order to ensure interoperability of equipment produced by
-    different manufacturers and a satisfactory network performance.\r\nAmendment 1
-    provides updates for the addition of new TDEV mask to clause 9.2.1."
+  content: "Recommendation ITU-T G.8261/Y.1361 defines frequency synchronization aspects in packet networks. It specifies the maximum network limits of jitter and wander that shall not be exceeded. It specifies the minimum equipment tolerance to jitter and wander that shall be provided at the boundary of these packet networks at TDM and synchronization interfaces. It also outlines the minimum requirements for the synchronization function of network elements.\r\nThe requirements for the jitter and wander characteristics that are specified in this Recommendation must be adhered to in order to ensure interoperability of equipment produced by different manufacturers and a satisfactory network performance.\r\nAmendment 1 provides updates for the addition of new TDEV mask to clause 9.2.1."
 status:
   stage:
     content: Published

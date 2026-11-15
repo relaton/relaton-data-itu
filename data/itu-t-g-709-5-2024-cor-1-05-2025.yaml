@@ -47,15 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709.5 specifies 100G, 200G, 400G and 800G flexible
-    optical transport network (FlexO) short-reach interfaces. This Recommendation
-    specifies the structure using forward error correction (FEC) code with a coding
-    gain suitable for short-reach applications, and references common elements from
-    Recommendation ITU-T G.709.1.\r\nAmendment 1 to Recommendation ITUT G.709.5 adds
-    a new FOIC1.2-RS optical short reach interface.\r\nCorrigendum 1 makes the following
-    changes:\r\n•Clause 13.5.2. Corrects a typographical error in the Note.\r\n•Clause
-    14.5.2. Aligns the lane skew tolerance requirement with the IEEE 802.3df value.\r\n•Figure
-    13-5. Corrects a typographical error in the text label beside the FEC encode #1.\r\n"
+  content: "Recommendation ITU-T G.709.5 specifies 100G, 200G, 400G and 800G flexible optical transport network (FlexO) short-reach interfaces. This Recommendation specifies the structure using forward error correction (FEC) code with a coding gain suitable for short-reach applications, and references common elements from Recommendation ITU-T G.709.1.\r\nAmendment 1 to Recommendation ITUT G.709.5 adds a new FOIC1.2-RS optical short reach interface.\r\nCorrigendum 1 makes the following changes:\r\n•Clause 13.5.2. Corrects a typographical error in the Note.\r\n•Clause 14.5.2. Aligns the lane skew tolerance requirement with the IEEE 802.3df value.\r\n•Figure 13-5. Corrects a typographical error in the text label beside the FEC encode #1.\r\n"
 status:
   stage:
     content: Published

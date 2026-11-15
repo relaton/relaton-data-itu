@@ -52,12 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.743.37 includes the overview, scenarios, framework
+  content: 'Recommendation ITU-T F.743.37 includes the overview, scenarios, framework
     and technical requirements of data sharing service networks. There are diverse
     scenarios across multiple domains in which data sharing plays a critical role.
     To make the connection between data providers and demanders easier and more normalized,
     a general system of data-sharing service networks is needed, whilst a unified
-    and efficient mechanism and standards are needed to support the system.\r\n"
+    and efficient mechanism and standards are needed to support the system.
+    '
 status:
   stage:
     content: Published

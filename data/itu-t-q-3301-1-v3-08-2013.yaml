@@ -53,16 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3301.1 v3 (formerly Recommendation ITU-T Q.3321.1)
-    specifies the rcp1 protocol, a protocol between service control entities (SCEs)
-    in the services stratum and the policy decision physical entity (PD-PE) in the
-    resource and admission control function block. This protocol can be used to request
-    and commit transport resources, to retrieve address mapping information that can
-    be used to modify application signalling, and to receive reports on transport
-    resource usage for charging. It satisfies the requirements for information flows
-    across the Rs reference point as specified in clause 8.1 of Recommendation ITU-T
-    Y.2111.\r\nRecommendation ITU-T Q.3301.1 v3 supersedes Recommendation ITU-T Q.3301.1
-    v2 (06/2010).\r\n"
+  content: "Recommendation ITU-T Q.3301.1 v3 (formerly Recommendation ITU-T Q.3321.1) specifies the rcp1 protocol, a protocol between service control entities (SCEs) in the services stratum and the policy decision physical entity (PD-PE) in the resource and admission control function block. This protocol can be used to request and commit transport resources, to retrieve address mapping information that can be used to modify application signalling, and to receive reports on transport resource usage for charging. It satisfies the requirements for information flows across the Rs reference point as specified in clause 8.1 of Recommendation ITU-T Y.2111.\r\nRecommendation ITU-T Q.3301.1 v3 supersedes Recommendation ITU-T Q.3301.1 v2 (06/2010).\r\n"
 status:
   stage:
     content: Published
@@ -353,9 +344,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -365,8 +356,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

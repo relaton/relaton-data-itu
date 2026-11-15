@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.450.7 specifies the procedures and signalling protocol
-    for the supplementary service for message waiting indication (SS-MWI) in ITU-T
-    H.323 (packet-based multimedia communication systems) networks. \r\nThe SS-MWI
-    enables a served user to be sent a message waiting indication (MWI) and also enables
-    this MWI to be cancelled. The served user may also be permitted to interrogate
-    a message centre for any MWIs. \r\nThe procedures and the signalling protocol
-    of this Recommendation are derived from the SS-MWI as specified in ISO/IEC 15505
-    and ISO/IEC 15506.\r\nThis Recommendation makes use of the \"Generic functional
-    protocol for the support of supplementary services in ITU-T H.323 systems\" as
-    defined in Recommendation ITU-T H.450.1.\r\nThis revision introduces editorial
-    and technical changes, clarifications and corrections, in particular those indicated
-    in the Implementers' Guide for Recommendations of the ITU-T H.323 system (2011).
-    \r\n"
+  content: "Recommendation ITU-T H.450.7 specifies the procedures and signalling protocol for the supplementary service for message waiting indication (SS-MWI) in ITU-T H.323 (packet-based multimedia communication systems) networks. \r\nThe SS-MWI enables a served user to be sent a message waiting indication (MWI) and also enables this MWI to be cancelled. The served user may also be permitted to interrogate a message centre for any MWIs. \r\nThe procedures and the signalling protocol of this Recommendation are derived from the SS-MWI as specified in ISO/IEC 15505 and ISO/IEC 15506.\r\nThis Recommendation makes use of the \"Generic functional protocol for the support of supplementary services in ITU-T H.323 systems\" as defined in Recommendation ITU-T H.450.1.\r\nThis revision introduces editorial and technical changes, clarifications and corrections, in particular those indicated in the Implementers' Guide for Recommendations of the ITU-T H.323 system (2011). \r\n"
 status:
   stage:
     content: Published

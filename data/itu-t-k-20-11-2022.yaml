@@ -53,20 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.20 specifies resistibility requirements and test
-    procedures for telecommunication equipment that is attached to or installed within
-    a telecommunication centre.\r\nOvervoltages and overcurrents covered by Recommendation
-    ITU-T K.20 include surges due to lightning on or near the line plant, short term
-    induction from adjacent alternating current (AC) power lines or railway systems,
-    earth potential rise due to power faults, direct contact between telecommunication
-    lines and power lines, and electrostatic discharges (ESDs). The sources for overvoltages
-    in internal lines, between equipment or racks, are mainly inductive coupling caused
-    by lightning currents being conducted in nearby lightning strikes or lightning
-    currents being conducted in nearby conductors.\r\nMajor changes compared with
-    Recommendation ITU-T K.20 (2017) include:\r\n–\tDC insulation resistance test;\r\n–\trevised
-    test exemption for internal short cables;\r\n–\trenaming of some test titles for
-    clarity;\r\n–\tscreened cable exemptions;\r\n–\taddition of test 7.10, a twisted
-    pair port transverse/differential test, to Table 7.\r\n"
+  content: "Recommendation ITU-T K.20 specifies resistibility requirements and test procedures for telecommunication equipment that is attached to or installed within a telecommunication centre.\r\nOvervoltages and overcurrents covered by Recommendation ITU-T K.20 include surges due to lightning on or near the line plant, short term induction from adjacent alternating current (AC) power lines or railway systems, earth potential rise due to power faults, direct contact between telecommunication lines and power lines, and electrostatic discharges (ESDs). The sources for overvoltages in internal lines, between equipment or racks, are mainly inductive coupling caused by lightning currents being conducted in nearby lightning strikes or lightning currents being conducted in nearby conductors.\r\nMajor changes compared with Recommendation ITU-T K.20 (2017) include:\r\n–\tDC insulation resistance test;\r\n–\trevised test exemption for internal short cables;\r\n–\trenaming of some test titles for clarity;\r\n–\tscreened cable exemptions;\r\n–\taddition of test 7.10, a twisted pair port transverse/differential test, to Table 7.\r\n"
 status:
   stage:
     content: Published
@@ -359,8 +346,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge testing
-        factors
+      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge
+        testing factors
     docidentifier:
     - content: K Suppl. 15 (09/2018)
       type: ITU
@@ -390,8 +377,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20 – Rationale for setting resistibility requirements of telecommunication
-        equipment installed in a telecommunication centre against lightning
+      content: ITU-T K.20 – Rationale for setting resistibility requirements of
+        telecommunication equipment installed in a telecommunication centre against
+        lightning
     docidentifier:
     - content: K Suppl. 24 (07/2022)
       type: ITU

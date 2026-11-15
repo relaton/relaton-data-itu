@@ -56,10 +56,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.682 | ISO/IEC 8824-3 provides the ASN.1 notation
+  content: 'Recommendation ITU-T X.682 | ISO/IEC 8824-3 provides the ASN.1 notation
     for the general case of constraint and exception specification by which the data
     values of a structured data type can be limited. The notation also provides for
-    signalling if and when a constraint is violated.\r\n"
+    signalling if and when a constraint is violated.
+    '
 status:
   stage:
     content: Withdrawal

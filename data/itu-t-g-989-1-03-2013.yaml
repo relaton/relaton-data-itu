@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.989 series describes 40-Gigabit-capable passive
-    optical network (NG PON2) systems in an optical access network for residential,
-    business, mobile backhaul and other applications. \r\nRecommendation ITU-T G.989.1
-    addresses the general requirements of 40-Gigabit-capable passive optical network
-    (NG-PON2) systems, in order to guide and motivate the physical layer and the transmission
-    convergence layer specifications. This Recommendation includes principal deployment
-    configurations, migration scenarios from legacy PON systems, and system requirements
-    This Recommendation also includes the service and operational requirements to
-    provide a robust and flexible optical access network supporting all access applications.\r\nThe
-    physical layer specifications for the NG-PON2 physical media dependent (PMD) layer
-    are described in Recommendation ITU-T G.989.2. The transmission convergence (TC)
-    layer is described in Recommendation ITU-T G.987.3, with unique modifications
-    for NG-PON2 systems captured in Recommendation ITU-T G.989.3. The ONU management
-    and control interface (OMCI) specifications are described in Recommendation ITU-T
-    G.988 for NG-PON2 extensions. \r\n"
+  content: "Recommendation ITU-T G.989 series describes 40-Gigabit-capable passive optical network (NG PON2) systems in an optical access network for residential, business, mobile backhaul and other applications. \r\nRecommendation ITU-T G.989.1 addresses the general requirements of 40-Gigabit-capable passive optical network (NG-PON2) systems, in order to guide and motivate the physical layer and the transmission convergence layer specifications. This Recommendation includes principal deployment configurations, migration scenarios from legacy PON systems, and system requirements This Recommendation also includes the service and operational requirements to provide a robust and flexible optical access network supporting all access applications.\r\nThe physical layer specifications for the NG-PON2 physical media dependent (PMD) layer are described in Recommendation ITU-T G.989.2. The transmission convergence (TC) layer is described in Recommendation ITU-T G.987.3, with unique modifications for NG-PON2 systems captured in Recommendation ITU-T G.989.3. The ONU management and control interface (OMCI) specifications are described in Recommendation ITU-T G.988 for NG-PON2 extensions. \r\n"
 status:
   stage:
     content: Published

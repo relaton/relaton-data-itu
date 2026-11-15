@@ -52,32 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.87 provides general guidelines of information security
-    management for telecommunications organizations are presented in Recommendation
-    ITU-T X.1051, which is based on ISO/IEC 27002. In an information security management
-    system (ISMS) based on Recommendation ITU-T X.1051, physical security is one of
-    key issues, as shown for example in the following text presented in Recommendation
-    ITU-T X.1051:\r\n\"a site whose environment is least susceptible to damage from
-    the environment should be selected for communication centres – where a site is
-    chosen that is vulnerable to environmental damage, appropriate measures should
-    be taken against known hazards including: natural disasters [see e)] and temperature
-    extremes;\"\r\n\"a site whose environment is least susceptible to damage from
-    strong electromagnetic field shall be selected for communication centres - where
-    a site is chosen that is exposed to strong electromagnetic fields, appropriate
-    measures should be taken to protect telecommunications equipment rooms with electromagnetic
-    shields;\" \r\nWhen security is managed, the threat to equipment or site should
-    be evaluated and mitigated. The threat is related to \"vulnerability\" and \"confidentiality\"
-    in ISMS.\r\nThis Recommendation, ITU-T K.87, outlines electromagnetic security
-    risks of telecommunication equipment and illustrates how to assess and prevent
-    those risks in order to manage ISMS in accordance with Recommendation ITU-T X.1051.
-    Major electromagnetic security risks addressed in this Recommendation are as follows:\r\n•natural
-    electromagnetic (EM) threats (e.g., lightning);\r\n•unintentional interference
-    (i.e., electromagnetic interference, EMI);\r\n•intentional interference (i.e.,
-    intentional electromagnetic interference, IEMI);\r\n•deliberate EM attacks via
-    high-altitude electromagnetic pulse (HEMP);\r\n•deliberate high-power electromagnetic
-    (HPEM) attacks;\r\n•information leakage from EM emanation (i.e., electromagnetic
-    security, EMSEC).\r\nMitigation methods against electromagnetic security threats
-    are also described in this Recommendation.\r\n"
+  content: "Recommendation ITU-T K.87 provides general guidelines of information security management for telecommunications organizations are presented in Recommendation ITU-T X.1051, which is based on ISO/IEC 27002. In an information security management system (ISMS) based on Recommendation ITU-T X.1051, physical security is one of key issues, as shown for example in the following text presented in Recommendation ITU-T X.1051:\r\n\"a site whose environment is least susceptible to damage from the environment should be selected for communication centres – where a site is chosen that is vulnerable to environmental damage, appropriate measures should be taken against known hazards including: natural disasters [see e)] and temperature extremes;\"\r\n\"a site whose environment is least susceptible to damage from strong electromagnetic field shall be selected for communication centres - where a site is chosen that is exposed to strong electromagnetic fields, appropriate measures should be taken to protect telecommunications equipment rooms with electromagnetic shields;\" \r\nWhen security is managed, the threat to equipment or site should be evaluated and mitigated. The threat is related to \"vulnerability\" and \"confidentiality\" in ISMS.\r\nThis Recommendation, ITU-T K.87, outlines electromagnetic security risks of telecommunication equipment and illustrates how to assess and prevent those risks in order to manage ISMS in accordance with Recommendation ITU-T X.1051. Major electromagnetic security risks addressed in this Recommendation are as follows:\r\n•natural electromagnetic (EM) threats (e.g., lightning);\r\n•unintentional interference (i.e., electromagnetic interference, EMI);\r\n•intentional interference (i.e., intentional electromagnetic interference, IEMI);\r\n•deliberate EM attacks via high-altitude electromagnetic pulse (HEMP);\r\n•deliberate high-power electromagnetic (HPEM) attacks;\r\n•information leakage from EM emanation (i.e., electromagnetic security, EMSEC).\r\nMitigation methods against electromagnetic security threats are also described in this Recommendation.\r\n"
 status:
   stage:
     content: Published

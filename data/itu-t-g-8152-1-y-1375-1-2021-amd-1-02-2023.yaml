@@ -47,26 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8152.1/Y.1375.1 specifies the operation, administration,
-    maintenance (OAM) information model and data models for multi-protocol label switching
-    – transport profile (MPLS-TP) transport network element (NE) to support specific
-    interface protocols and specific management and control functions. The information
-    model is interface protocol neutral and derived from the ITU-T G.8152/Y.1375 foundation
-    MPLS-TP NE information model. The data models are interface protocol specific
-    and translated from the information model with the assistance of an automated
-    translation tool. The specific data models considered in this Recommendation include,
-    but are not limited to, yet another new generation (YANG) data models. The specific
-    management and control functions covered by this Recommendation are the ITU T
-    G.8113.1/Y.1372.1 specific OAM functions. The YANG modules of this Recommendation
-    are intended to be compatible with the relevant base generic YANG modules from
-    the IETF for the ITU T G.8113.1/Y.1372.1 OAM functionality.\r\nAmendment 1 of
-    this Recommendation enhances the MPLS-TP OAM information/data model specification
-    to specify the on-demand UML and YANG models. The OAM models, including the version
-    1.0 specified proactive OAM, are also aligned with the pattern of the Ethernet
-    OAM model defined in Recommendation ITU-T G.8052.1/Y.1346.1.  \r\nAmendment 1
-    also adds Appendix III to demonstrate how to use the IETF MPLS static lsp model
-    with MPLS-TP co-oam models, and Appendix IV to demonstrate IETF MPLS static UML
-    re-engineered from MPLS Static YANG.\r\n"
+  content: "Recommendation ITU-T G.8152.1/Y.1375.1 specifies the operation, administration, maintenance (OAM) information model and data models for multi-protocol label switching – transport profile (MPLS-TP) transport network element (NE) to support specific interface protocols and specific management and control functions. The information model is interface protocol neutral and derived from the ITU-T G.8152/Y.1375 foundation MPLS-TP NE information model. The data models are interface protocol specific and translated from the information model with the assistance of an automated translation tool. The specific data models considered in this Recommendation include, but are not limited to, yet another new generation (YANG) data models. The specific management and control functions covered by this Recommendation are the ITU T G.8113.1/Y.1372.1 specific OAM functions. The YANG modules of this Recommendation are intended to be compatible with the relevant base generic YANG modules from the IETF for the ITU T G.8113.1/Y.1372.1 OAM functionality.\r\nAmendment 1 of this Recommendation enhances the MPLS-TP OAM information/data model specification to specify the on-demand UML and YANG models. The OAM models, including the version 1.0 specified proactive OAM, are also aligned with the pattern of the Ethernet OAM model defined in Recommendation ITU-T G.8052.1/Y.1346.1.  \r\nAmendment 1 also adds Appendix III to demonstrate how to use the IETF MPLS static lsp model with MPLS-TP co-oam models, and Appendix IV to demonstrate IETF MPLS static UML re-engineered from MPLS Static YANG.\r\n"
 status:
   stage:
     content: Published

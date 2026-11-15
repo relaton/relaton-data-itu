@@ -51,30 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.565.1 is based on the ITU-T P.565 framework. It
-    provides a machine learning based model that predicts the impact on the speech
-    quality from the Internet Protocol (IP) transport and underlying transport, as
-    well as a standardized or pre-defined jitter buffer in the end client; thus, providing
-    a network centric view on the speech quality service delivered on mobile packet
-    switched networks. This is expressed in terms of a mean opinion score-listening
-    quality objective (MOS-LQO) under the assumption of an otherwise clean transmission,
-    without background noise, non-standard-conformant encoding on sending device,
-    automatic gain control, voice enhancement devices, transcoding, bridging, frequency
-    response, non-standard-conformant jitter-buffer (for IMS mobile calls) or decoding,
-    clock drift or any other impairment not caused by the IP transport and underlying
-    transport. \r\nThe model supports the uses cases and applications defined in revised
-    ITU-T P.565 for IMS mobile calls (VoLTE/VoNR with EVS, AMRWB codecs) and OTT/WhatsApp.
-    In addition, it meets the minimum performance requirements for the provided test
-    vectors (see ITU-T P.565, Annex D) and it also passed an independent validation
-    on an additional unknown live recorded data set (see ITU-T P.565, Annex D). \r\nThe
-    model enables the assessment of transmission network impact on speech quality
-    for mobile packet-switched voice services. In addition, if this predictor is used
-    together with perceptual speech analysis or perceptual speech quality metrics
-    like [ITU-T P.863], it is possible to identify if the source of problems resides
-    inside or outside the transport network observed by the predictor.\r\n\r\nKeywords
-    \r\nSpeech Quality Prediction, HD voice, EVS, AMR/AMR-WB, FB, OTT voice, IMS mobile
-    voice, VoLTE, VoNR, OTT, Machine Learning (ML), intrusive parametric, generic
-    OTT client \r\n"
+  content: "Recommendation ITU-T P.565.1 is based on the ITU-T P.565 framework. It provides a machine learning based model that predicts the impact on the speech quality from the Internet Protocol (IP) transport and underlying transport, as well as a standardized or pre-defined jitter buffer in the end client; thus, providing a network centric view on the speech quality service delivered on mobile packet switched networks. This is expressed in terms of a mean opinion score-listening quality objective (MOS-LQO) under the assumption of an otherwise clean transmission, without background noise, non-standard-conformant encoding on sending device, automatic gain control, voice enhancement devices, transcoding, bridging, frequency response, non-standard-conformant jitter-buffer (for IMS mobile calls) or decoding, clock drift or any other impairment not caused by the IP transport and underlying transport. \r\nThe model supports the uses cases and applications defined in revised ITU-T P.565 for IMS mobile calls (VoLTE/VoNR with EVS, AMRWB codecs) and OTT/WhatsApp. In addition, it meets the minimum performance requirements for the provided test vectors (see ITU-T P.565, Annex D) and it also passed an independent validation on an additional unknown live recorded data set (see ITU-T P.565, Annex D). \r\nThe model enables the assessment of transmission network impact on speech quality for mobile packet-switched voice services. In addition, if this predictor is used together with perceptual speech analysis or perceptual speech quality metrics like [ITU-T P.863], it is possible to identify if the source of problems resides inside or outside the transport network observed by the predictor.\r\n\r\nKeywords \r\nSpeech Quality Prediction, HD voice, EVS, AMR/AMR-WB, FB, OTT voice, IMS mobile voice, VoLTE, VoNR, OTT, Machine Learning (ML), intrusive parametric, generic OTT client \r\n"
 status:
   stage:
     content: Published

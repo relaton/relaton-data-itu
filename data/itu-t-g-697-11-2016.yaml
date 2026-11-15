@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.697 defines optical monitoring (OM) that can help
-    in dense wavelength division multiplexing (DWDM) systems to perform the following
-    activities:\r\n–\tconfiguration management for system and channel activation,
-    addition of new channels, etc.;\r\n–\tfault management to detect and to isolate
-    faults;\r\n–\tdegradation management in order to keep the system running and to
-    detect degradations before a fault occurs.\r\nDWDM technology is improving at
-    a rapid pace, continuously stretching the channel count, channel speeds and reach
-    limits. Long-haul multi-span DWDM systems are capable of taking optical signals
-    thousands of kilometres without electrical terminations or regeneration.\r\nThis
-    continuing trend is driving the increasing importance of OM, which is the subject
-    of this Recommendation.\r\nThis edition of this Recommendation provides additional
-    information on OM for 40 Gbit/s and 100 Gbit/s signals, adds beat noise method
-    to the clause for optical signal-to-noise ratio (OSNR) measurements, and introduces
-    a new clause on security considerations."
+  content: "Recommendation ITU-T G.697 defines optical monitoring (OM) that can help in dense wavelength division multiplexing (DWDM) systems to perform the following activities:\r\n–\tconfiguration management for system and channel activation, addition of new channels, etc.;\r\n–\tfault management to detect and to isolate faults;\r\n–\tdegradation management in order to keep the system running and to detect degradations before a fault occurs.\r\nDWDM technology is improving at a rapid pace, continuously stretching the channel count, channel speeds and reach limits. Long-haul multi-span DWDM systems are capable of taking optical signals thousands of kilometres without electrical terminations or regeneration.\r\nThis continuing trend is driving the increasing importance of OM, which is the subject of this Recommendation.\r\nThis edition of this Recommendation provides additional information on OM for 40 Gbit/s and 100 Gbit/s signals, adds beat noise method to the clause for optical signal-to-noise ratio (OSNR) measurements, and introduces a new clause on security considerations."
 status:
   stage:
     content: Withdrawal

@@ -47,17 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8013/Y.1731 provides mechanisms for user-plane
-    OAM functionality in Ethernet networks according to the requirements and principles
-    given in Recommendation ITUT Y.1730. This Recommendation is designed specifically
-    to support point-to-point connections and multipoint connectivity in the ETH layer
-    as identified in Recommendation ITUT G.8010/Y.1306.\r\nThe OAM mechanisms defined
-    in this Recommendation offer capabilities to operate and maintain network and
-    service aspects of the ETH layer. \r\nCorrigendum 1 corrects the description of
-    the Length field in the Test ID TLV of the 1DM PDU in clause 9.14.2.\r\nAmendment
-    1 provides: \r\n•Editorial clarification on ITU-T G.8010 in clause 1.\r\n•Additional
-    referencing of ITU-T G.8021 in clauses 7 and 8 to facilitate interpretation. \r\n•Editorial
-    correction in clause 10.8.\r\n•Update to Note 2 in Table A.1.\r\n"
+  content: "Recommendation ITU-T G.8013/Y.1731 provides mechanisms for user-plane OAM functionality in Ethernet networks according to the requirements and principles given in Recommendation ITUT Y.1730. This Recommendation is designed specifically to support point-to-point connections and multipoint connectivity in the ETH layer as identified in Recommendation ITUT G.8010/Y.1306.\r\nThe OAM mechanisms defined in this Recommendation offer capabilities to operate and maintain network and service aspects of the ETH layer. \r\nCorrigendum 1 corrects the description of the Length field in the Test ID TLV of the 1DM PDU in clause 9.14.2.\r\nAmendment 1 provides: \r\n•Editorial clarification on ITU-T G.8010 in clause 1.\r\n•Additional referencing of ITU-T G.8021 in clauses 7 and 8 to facilitate interpretation. \r\n•Editorial correction in clause 10.8.\r\n•Update to Note 2 in Table A.1.\r\n"
 status:
   stage:
     content: Published

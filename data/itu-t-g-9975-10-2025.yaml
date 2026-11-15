@@ -52,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9975 addresses the following:\r\n•typical deployment
-    of augmented reality, virtual reality and mixed reality (AR/VR/MR) services in
-    home networks, and their network requirements;\r\n•analysis of typical scenarios
-    (including typical topology, medium usage and supported endpoints);\r\n•analysis
-    of typical impact factors to the network (e.g., channel capacity and channel stability);\r\n•the
-    requirements of home networking technology to support AR/VR/MR.\r\nNOTE – In G.hn,
-    an endpoint refers to a device that utilizes G.hn technology.\r\n"
+  content: "Recommendation ITU-T G.9975 addresses the following:\r\n•typical deployment of augmented reality, virtual reality and mixed reality (AR/VR/MR) services in home networks, and their network requirements;\r\n•analysis of typical scenarios (including typical topology, medium usage and supported endpoints);\r\n•analysis of typical impact factors to the network (e.g., channel capacity and channel stability);\r\n•the requirements of home networking technology to support AR/VR/MR.\r\nNOTE – In G.hn, an endpoint refers to a device that utilizes G.hn technology.\r\n"
 status:
   stage:
     content: Published

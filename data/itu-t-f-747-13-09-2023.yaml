@@ -53,16 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.747.13 specifies requirements and reference framework
-    of cloud-edge collaboration in industrial machine vision systems and provides
-    use cases. The cloud-edge collaboration is a process (or method) that coordinates
-    cloud computing and edge computing, dynamically allocates required computing,
-    algorithm models, data, or other resources and jointly completes the same tasks
-    (or objectives) agreed in advance. In industrial machine vision systems, cloud-edge
-    collaboration includes resource collaboration (computing, network and storage),
-    service collaboration (data, intelligence and task) and application collaboration
-    (capability and management). \r\nThis Recommendation is intended to guide the
-    design and development of industrial machine vision systems.\r\n"
+  content: "Recommendation ITU-T F.747.13 specifies requirements and reference framework of cloud-edge collaboration in industrial machine vision systems and provides use cases. The cloud-edge collaboration is a process (or method) that coordinates cloud computing and edge computing, dynamically allocates required computing, algorithm models, data, or other resources and jointly completes the same tasks (or objectives) agreed in advance. In industrial machine vision systems, cloud-edge collaboration includes resource collaboration (computing, network and storage), service collaboration (data, intelligence and task) and application collaboration (capability and management). \r\nThis Recommendation is intended to guide the design and development of industrial machine vision systems.\r\n"
 status:
   stage:
     content: Published

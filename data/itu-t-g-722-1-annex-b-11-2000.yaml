@@ -50,11 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "G.722.1 implements a fixed-point algorithm. This annex contains the description
-    of a floating-point extension to G.722.1, which will allow for easier implementation
-    of the standard in general-purpose processors.\r\nThis annex includes an electronic
-    attachment containing the reference code and the test vectors for ITU-T G.722.1/Annex
-    B floating-point algorithm implementation verification.\r\n"
+  content: "G.722.1 implements a fixed-point algorithm. This annex contains the description of a floating-point extension to G.722.1, which will allow for easier implementation of the standard in general-purpose processors.\r\nThis annex includes an electronic attachment containing the reference code and the test vectors for ITU-T G.722.1/Annex B floating-point algorithm implementation verification.\r\n"
 status:
   stage:
     content: Withdrawal

@@ -52,35 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.4459 introduces a digital entity architecture and
-    its prospective in addressing interoperability and security among Internet of
-    things (IoT) applications.\r\n\r\nThis Recommendation defines an architecture
-    framework for information-oriented services that makes use of existing infrastructures,
-    including the Internet infrastructure, to enhance secure and managed information
-    sharing over a distributed networking environment. It defines an architecture
-    framework for information management based on the use of digital entities, and
-    a common set of secure services that will help the registration, discovery, resolution
-    and dissemination of such digital entities. The set of services is designed to
-    facilitate sharing across any storage boundaries, any heterogeneous application
-    boundaries and any organization boundaries.\r\n\r\nA digital entity architecture
-    defines a minimum set of needed architectural components and services to provide
-    a generic information and service interoperability. It will facilitate the interoperability
-    of identification, description, representation, access, storage and security of
-    IoT devices. This architecture framework encourages a common security and management
-    interface across different IoT applications.\r\n\r\nUnder a digital entity architecture,
-    information represented in digital form is structured as digital entities, each
-    of which has an associated unique persistent identifier. However, metadata contained
-    in the digital entities (e.g., location of the object) could be updated without
-    changing its identifier.\r\n\r\nThe identifier allows the digital entities to
-    be identified and discovered, regardless of where they are located or stored.
-    Digital entities are not confined within any particular application boundary and
-    may be moved from host to host, accessed from application to application, shared
-    from organization to organization, without losing its ownership or management
-    control, in order to enhance interoperability. A digital entity's data model allows
-    ownership and access control information to be defined by data owners independently
-    of any specific applications.\r\n\r\nThis Recommendation can be used with different
-    identification and addressing protocols (e.g., Internet protocol (IP) and/or non-IP
-    based networks).\r\n"
+  content: "Recommendation ITU-T Y.4459 introduces a digital entity architecture and its prospective in addressing interoperability and security among Internet of things (IoT) applications.\r\n\r\nThis Recommendation defines an architecture framework for information-oriented services that makes use of existing infrastructures, including the Internet infrastructure, to enhance secure and managed information sharing over a distributed networking environment. It defines an architecture framework for information management based on the use of digital entities, and a common set of secure services that will help the registration, discovery, resolution and dissemination of such digital entities. The set of services is designed to facilitate sharing across any storage boundaries, any heterogeneous application boundaries and any organization boundaries.\r\n\r\nA digital entity architecture defines a minimum set of needed architectural components and services to provide a generic information and service interoperability. It will facilitate the interoperability of identification, description, representation, access, storage and security of IoT devices. This architecture framework encourages a common security and management interface across different IoT applications.\r\n\r\nUnder a digital entity architecture, information represented in digital form is structured as digital entities, each of which has an associated unique persistent identifier. However, metadata contained in the digital entities (e.g., location of the object) could be updated without changing its identifier.\r\n\r\nThe identifier allows the digital entities to be identified and discovered, regardless of where they are located or stored. Digital entities are not confined within any particular application boundary and may be moved from host to host, accessed from application to application, shared from organization to organization, without losing its ownership or management control, in order to enhance interoperability. A digital entity's data model allows ownership and access control information to be defined by data owners independently of any specific applications.\r\n\r\nThis Recommendation can be used with different identification and addressing protocols (e.g., Internet protocol (IP) and/or non-IP based networks).\r\n"
 status:
   stage:
     content: Published
@@ -111,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -174,8 +147,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -195,7 +168,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -248,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -259,7 +231,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -291,8 +264,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

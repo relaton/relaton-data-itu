@@ -53,23 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Monitoring machine learning (ML)/artificial intelligence (AI) refers to
-    the continuous, real-time tracking and observing an ML/AI system's in production
-    environments. Monitoring ML/AI evaluates the performance of an ML/AI model to
-    determine whether it operates effectively. When the ML/AI model experiences some
-    performance degradation, appropriate maintenance measures should be taken to restore
-    performance.\r\nML/AI models are trained based on historical data and assumptions
-    about the operational environment. However, the environment is dynamic. These
-    dynamics can lead to model degradation – a decline in predictive accuracy or decision
-    quality over time – caused by phenomena such as data drift and concept drift.
-    Therefore, the environment and running state of the ML/AI model should be monitored
-    in order to determine whether the model should be updated or not. \r\nTo overcome
-    various issues that result in performance degradation, a set of parameters and
-    events should be defined and monitored. As a result, choosing appropriate monitoring
-    strategies based on the specific use case, data characteristics, and business
-    requirements is a critical step in ensuring the longterm reliability and effectiveness
-    of ML/AI systems.\r\nRecommendation ITU-T Q.4081 provides guidance and a reference
-    of monitoring ML/AI methods and metrics.\r\n"
+  content: "Monitoring machine learning (ML)/artificial intelligence (AI) refers to the continuous, real-time tracking and observing an ML/AI system's in production environments. Monitoring ML/AI evaluates the performance of an ML/AI model to determine whether it operates effectively. When the ML/AI model experiences some performance degradation, appropriate maintenance measures should be taken to restore performance.\r\nML/AI models are trained based on historical data and assumptions about the operational environment. However, the environment is dynamic. These dynamics can lead to model degradation – a decline in predictive accuracy or decision quality over time – caused by phenomena such as data drift and concept drift. Therefore, the environment and running state of the ML/AI model should be monitored in order to determine whether the model should be updated or not. \r\nTo overcome various issues that result in performance degradation, a set of parameters and events should be defined and monitored. As a result, choosing appropriate monitoring strategies based on the specific use case, data characteristics, and business requirements is a critical step in ensuring the longterm reliability and effectiveness of ML/AI systems.\r\nRecommendation ITU-T Q.4081 provides guidance and a reference of monitoring ML/AI methods and metrics.\r\n"
 status:
   stage:
     content: Published
@@ -327,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -339,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

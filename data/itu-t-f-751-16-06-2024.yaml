@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.751.16 specifies the reference framework for distributed
+  content: 'Recommendation ITU-T F.751.16 specifies the reference framework for distributed
     ledger technology management service platforms (DLT-MSP). The framework includes
     the resource layer, distributed ledger technology (DLT) layer, management layer,
     business layer, application layer, and security layer. Additionally in the framework,
     it provides functionalities for the DLT layer, management layer and business layer.
-    This Recommendation can be used as a guideline for DLT-MSP development and assessment.\r\n"
+    This Recommendation can be used as a guideline for DLT-MSP development and assessment.
+    '
 status:
   stage:
     content: Published

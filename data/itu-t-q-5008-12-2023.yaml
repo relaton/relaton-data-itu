@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.5008 provides the signalling requirements and architecture
+  content: 'Recommendation ITU-T Q.5008 provides the signalling requirements and architecture
     to support artificial intelligence (AI) based vertical services in future networks
     including IMT-2020 and beyond. These requirements include the signalling information
-    over each of the reference points and service procedures for a high-level AI platform.\r\n"
+    over each of the reference points and service procedures for a high-level AI platform.
+    '
 status:
   stage:
     content: Published
@@ -314,9 +315,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -326,8 +327,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

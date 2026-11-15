@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.621 defines the system architecture for the multimedia
-    information access triggered by tag-based identification on the basis of Recommendation
-    ITU-T F.771, and serves as a technical introduction to subsequent definition of
-    detailed system components and protocols. The services treated by this Recommendation
-    provide the users with a new method to refer to the multimedia content without
-    typing its address on a keyboard or inputting the name of objects about which
-    relevant information is to be retrieved. This is one of the major communication
-    services using identification (ID) tags such as radio frequency identifications
-    (RFIDs), smart cards and barcodes. International standardization of these services
-    will give a big impact to international multimedia information services using
-    ID tags. It contains the functional model, its constituent components as well
-    as its workflow. An appendix describes how this architecture realizes typical
-    services.\r\nAmendment 1 (2014) clarifies that an ID terminal can have and supports
-    multiple radio frequency (RF) communications.\r\n"
+  content: "Recommendation ITU-T H.621 defines the system architecture for the multimedia information access triggered by tag-based identification on the basis of Recommendation ITU-T F.771, and serves as a technical introduction to subsequent definition of detailed system components and protocols. The services treated by this Recommendation provide the users with a new method to refer to the multimedia content without typing its address on a keyboard or inputting the name of objects about which relevant information is to be retrieved. This is one of the major communication services using identification (ID) tags such as radio frequency identifications (RFIDs), smart cards and barcodes. International standardization of these services will give a big impact to international multimedia information services using ID tags. It contains the functional model, its constituent components as well as its workflow. An appendix describes how this architecture realizes typical services.\r\nAmendment 1 (2014) clarifies that an ID terminal can have and supports multiple radio frequency (RF) communications.\r\n"
 status:
   stage:
     content: Published
@@ -107,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -170,8 +158,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -191,7 +179,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -244,8 +232,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -255,7 +242,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -287,8 +275,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

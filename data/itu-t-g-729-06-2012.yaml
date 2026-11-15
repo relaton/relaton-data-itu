@@ -51,53 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.729 contains the description of an algorithm for
-    the coding of speech signals using conjugate-structure algebraic-code-excited
-    linear prediction (CS-ACELP). \r\nIn its basic mode, the ITU-T G.729 coder consists
-    of a mono-rate speech coder at 8 kbit/s using fixed-point arithmetic operations.
-    Annexes A, B, and D to J extend its functionalities. Annex A provides a reduced-complexity
-    version at the basic coding rate of 8 kbit/s. Annex B defines source controlled
-    rate operation for use with ITU-T G.729 or Annex A. Annexes D, E and H provide
-    multi-rate operation and specify rate-switching mechanisms. Annex D also provides
-    lower bit-rate extension at 6.4 kbit/s and Annex E also provides higher bit-rate
-    extension at 11.8 kbit/s. Annex H provides bit-rate extensions at both 6.4 kbit/s
-    and 11.8 kbit/s. Therefore, Annexes D, E and H do not implement the discontinuous
-    transmission mode of Annex B. For this functionality, further annexes were developed.
-    Annexes F and G use the basic algorithms of Annex B to provide discontinuous transmission
-    (DTX) functionality for Annexes D and E. Annex I provides DTX functionality for
-    Annex H and describes the integration of the main body of this Recommendation
-    with Annexes B, D and E. Annex J makes reference to the ITU-T G.729 extension
-    for the 8-32 kbit/s scalable wideband speech and audio coding algorithm defined
-    in ITU-T G.729.1, which is interoperable with this Recommendation and its Annexes
-    A and B. As in the main body of this Recommendation, Annexes A, B, and D to J
-    use fixed-point arithmetic. Alternative implementations based on floating point
-    arithmetic operations are provided in Annex C for ITU-T G.729 and Annex A, as
-    well as in Annex C+ for Annex I.\r\nAppendix I deals with external synchronous
-    reset capability in systems using external silence compression in conjunction
-    with the speech coding algorithm in the main body of this Recommendation (fixed
-    point) or in its Annex A (low complexity, fixed-point) and Annex C (floating-point).
-    Since the voice activity detection (VAD) algorithm in Annex B was optimized for
-    transmission over connection-oriented circuits, Appendices II and III deal with
-    optimization of the VAD in Annex B when it is used for packet circuits such as
-    VoIP applications.\r\nAppendix IV, introduced in this revision of ITU-T G.729
-    describes the use of ITU-T G.720.1 Annex A as a VAD for use with Annex B DTX/CNG.
-    It provides better flexibility in terms of compromise between bandwidth saving
-    and audio quality. Bandwidth-saving mode provides the best performance in terms
-    of silence compression while maintaining the subjective quality at a level comparable
-    to both Appendix II and III. Moreover, Appendix IV offers better robustness to
-    a wide variety of background noise types, including music. The target for Appendix
-    IV is new IP multimedia services, and IP telephony and videoconferencing (both
-    for enterprise corporate networks and for mass market); these are some of the
-    most important services for which it has been optimized. Target devices include
-    IP phones or other VoIP handsets, home gateways, IPBX, and media gateways.\r\nThis
-    Recommendation also corrects the defects identified in the Implementors' Guide
-    for ITU T G.729 (2009/11), namely a discrepancy that was found between equation
-    40 (in clause 3.7.1) and the C-code.\r\nReference ANSI C source code and test
-    vectors are provided as an integral part of this Recommendation and its annexes.
-    Appendices II, III and IV are also associated with C source code and test vectors.
-    No source code is associated with Appendix I. The reference C source code and
-    test vectors for the CS-ACELP algorithms described in the main body, and applicable
-    annexes, and appendices are available as electronic attachments to this Recommendation.\r\n"
+  content: "Recommendation ITU-T G.729 contains the description of an algorithm for the coding of speech signals using conjugate-structure algebraic-code-excited linear prediction (CS-ACELP). \r\nIn its basic mode, the ITU-T G.729 coder consists of a mono-rate speech coder at 8 kbit/s using fixed-point arithmetic operations. Annexes A, B, and D to J extend its functionalities. Annex A provides a reduced-complexity version at the basic coding rate of 8 kbit/s. Annex B defines source controlled rate operation for use with ITU-T G.729 or Annex A. Annexes D, E and H provide multi-rate operation and specify rate-switching mechanisms. Annex D also provides lower bit-rate extension at 6.4 kbit/s and Annex E also provides higher bit-rate extension at 11.8 kbit/s. Annex H provides bit-rate extensions at both 6.4 kbit/s and 11.8 kbit/s. Therefore, Annexes D, E and H do not implement the discontinuous transmission mode of Annex B. For this functionality, further annexes were developed. Annexes F and G use the basic algorithms of Annex B to provide discontinuous transmission (DTX) functionality for Annexes D and E. Annex I provides DTX functionality for Annex H and describes the integration of the main body of this Recommendation with Annexes B, D and E. Annex J makes reference to the ITU-T G.729 extension for the 8-32 kbit/s scalable wideband speech and audio coding algorithm defined in ITU-T G.729.1, which is interoperable with this Recommendation and its Annexes A and B. As in the main body of this Recommendation, Annexes A, B, and D to J use fixed-point arithmetic. Alternative implementations based on floating point arithmetic operations are provided in Annex C for ITU-T G.729 and Annex A, as well as in Annex C+ for Annex I.\r\nAppendix I deals with external synchronous reset capability in systems using external silence compression in conjunction with the speech coding algorithm in the main body of this Recommendation (fixed point) or in its Annex A (low complexity, fixed-point) and Annex C (floating-point). Since the voice activity detection (VAD) algorithm in Annex B was optimized for transmission over connection-oriented circuits, Appendices II and III deal with optimization of the VAD in Annex B when it is used for packet circuits such as VoIP applications.\r\nAppendix IV, introduced in this revision of ITU-T G.729 describes the use of ITU-T G.720.1 Annex A as a VAD for use with Annex B DTX/CNG. It provides better flexibility in terms of compromise between bandwidth saving and audio quality. Bandwidth-saving mode provides the best performance in terms of silence compression while maintaining the subjective quality at a level comparable to both Appendix II and III. Moreover, Appendix IV offers better robustness to a wide variety of background noise types, including music. The target for Appendix IV is new IP multimedia services, and IP telephony and videoconferencing (both for enterprise corporate networks and for mass market); these are some of the most important services for which it has been optimized. Target devices include IP phones or other VoIP handsets, home gateways, IPBX, and media gateways.\r\nThis Recommendation also corrects the defects identified in the Implementors' Guide for ITU T G.729 (2009/11), namely a discrepancy that was found between equation 40 (in clause 3.7.1) and the C-code.\r\nReference ANSI C source code and test vectors are provided as an integral part of this Recommendation and its annexes. Appendices II, III and IV are also associated with C source code and test vectors. No source code is associated with Appendix I. The reference C source code and test vectors for the CS-ACELP algorithms described in the main body, and applicable annexes, and appendices are available as electronic attachments to this Recommendation.\r\n"
 status:
   stage:
     content: Published
@@ -139,7 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G.729 Annex B enhancements in voice-over-IP applications – Option 2
+      content: G.729 Annex B enhancements in voice-over-IP applications – Option
+        2
     docidentifier:
     - content: G.729 App. III (08/2005)
       type: ITU
@@ -149,7 +104,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: G.729 Annex B enhancements in voice-over-IP applications – Option 1
+      content: G.729 Annex B enhancements in voice-over-IP applications – Option
+        1
     docidentifier:
     - content: G.729 App. II (08/2005)
       type: ITU

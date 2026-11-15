@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.19 describes the functionality of a decomposed
-    multipoint control unit, in particular the interface between a media controller
-    and media processor which is based on Recommendation ITU T H.248.1. This Recommendation
-    contains guidelines for the use of a decomposed gateway that may support audio,
-    video and data conferencing. This Recommendation contains packages for floor control,
-    volume control, video windows, audio and video mixing for point-to-point, multi-cast
-    and hybrid conferencing scenarios.\r\nThis revision incorporates corrections to
-    fix a duplicated binary Release Event identity and a duplicated Result parameter
-    binary identity.\r\n"
+  content: "Recommendation ITU-T H.248.19 describes the functionality of a decomposed multipoint control unit, in particular the interface between a media controller and media processor which is based on Recommendation ITU T H.248.1. This Recommendation contains guidelines for the use of a decomposed gateway that may support audio, video and data conferencing. This Recommendation contains packages for floor control, volume control, video windows, audio and video mixing for point-to-point, multi-cast and hybrid conferencing scenarios.\r\nThis revision incorporates corrections to fix a duplicated binary Release Event identity and a duplicated Result parameter binary identity.\r\n"
 status:
   stage:
     content: Published

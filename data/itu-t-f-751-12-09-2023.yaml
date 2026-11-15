@@ -53,10 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Smart contracts can be used to reduce complex business contracts by directly
-    enforcing the contract's payment methods and paybacks, and by automating the process
-    of contract execution and verification into the network, without the intervention
-    and cost of the person checking the contract's performance. However, smart contracts
+  content: 'Smart contracts can be used to reduce complex business contracts by directly
+    enforcing the contract''s payment methods and paybacks, and by automating the
+    process of contract execution and verification into the network, without the intervention
+    and cost of the person checking the contract''s performance. However, smart contracts
     are a series of program codes generated on distributed ledger technology (DLT)
     and problems may occur in the process of executing the smart contract. As a method
     to solve problems that occur in the program execution environment, there is a
@@ -64,7 +64,8 @@ abstract:
     framework for smart contract on DLT, its overview, requirement and architecture
     in its framework, as well as the main technical direction of its formal method
     component. This Recommendation can be used as a guideline for a smart contract
-    developer to build systems.\r\n"
+    developer to build systems.
+    '
 status:
   stage:
     content: Published

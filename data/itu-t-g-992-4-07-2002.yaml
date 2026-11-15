@@ -53,41 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes the interface between the telecommunications
-    network and the customer installation in terms of their interaction and electrical
-    characteristics. G.992.4 allows the transmission of POTS and V-series data services
-    simultaneously with a digital channel over a single mixed gauge twisted metallic
-    pair. Operation in a TCM-ISDN noise environment is for further study. This Recommendation
-    is structured as a delta document to ITU-T Rec. G.992.3.This Recommendation includes
-    procedures to allow provisioning without the need for \"splitters\", typically
-    installed at the ingress to the customer premises. Additionally, power management
-    procedures and link states are specified to achieve power savings at the central
-    office and customer premises.This Recommendation describes the second generation
-    of splitterless ADSL, based on the first generation ITU-T Rec. G.992.2. This Recommendation
-    may be easily implemented in multi-mode devices that support both G.992.4 and
-    G.992.2 with the following major additions and revisions:\r• Improved application
-    support for an all digital mode of operation and voice over ADSL operation.\r•
-    A new packet TPS-TC function and a STM TPS-TC function in addition to the existing
-    ATM support.\r• Support for IMA in the ATM TPS-TC.\r• Improved configuration capability
-    for each TPS-TC with configuration of latency, BER and minimum, maximum and reserve
-    data rate.\r• New line diagnostic procedures available for both successful and
-    unsuccessful initialization scenarios.\r• Enhanced on-line reconfiguration capabilities
-    including bit-swaps, dynamic rate repartitioning, and seamless rate adaptation.\r•
-    A more flexible TPS-TC function including support for up to 4 frame bearers, 4
-    latency paths, and control parameters allowing enhanced configuration of the overhead
-    channel.\r• Performance improvements including mandatory support for R = 16, one-bit
-    constellations, and trellis coding.\r• A more robust initialization procedure
-    that includes splitterless capability features of the G.992.2 fast retrain procedure,
-    CO and CP controlled adaptive signal durations, receiver determined adaptive frequency
-    modulation for data exchange, and an optional adaptive length fast start-up procedure.\r•
-    Improved RFI and spectrum management tools including transmit power cutback at
-    both ends of the line, spectrum shaping, sub-carrier black-out lists to avoid
-    RFI, and improved sub-carrier ordering to help mitigate the propagation of RFI
-    from sub-carrier to sub-carrier.\r• Power saving features including mandatory
-    reduction of excess margin under management layer control and a new L2 power management
-    link state with low power features for the central office.SourceITU-T Recommendation
-    G.992.4 was prepared by ITU-T Study Group 15 (2001-2004) and approved under the
-    WTSA Resolution 1 procedure on 29 July 2002."
+  content: "This Recommendation describes the interface between the telecommunications network and the customer installation in terms of their interaction and electrical characteristics. G.992.4 allows the transmission of POTS and V-series data services simultaneously with a digital channel over a single mixed gauge twisted metallic pair. Operation in a TCM-ISDN noise environment is for further study. This Recommendation is structured as a delta document to ITU-T Rec. G.992.3.This Recommendation includes procedures to allow provisioning without the need for \"splitters\", typically installed at the ingress to the customer premises. Additionally, power management procedures and link states are specified to achieve power savings at the central office and customer premises.This Recommendation describes the second generation of splitterless ADSL, based on the first generation ITU-T Rec. G.992.2. This Recommendation may be easily implemented in multi-mode devices that support both G.992.4 and G.992.2 with the following major additions and revisions:\r• Improved application support for an all digital mode of operation and voice over ADSL operation.\r• A new packet TPS-TC function and a STM TPS-TC function in addition to the existing ATM support.\r• Support for IMA in the ATM TPS-TC.\r• Improved configuration capability for each TPS-TC with configuration of latency, BER and minimum, maximum and reserve data rate.\r• New line diagnostic procedures available for both successful and unsuccessful initialization scenarios.\r• Enhanced on-line reconfiguration capabilities including bit-swaps, dynamic rate repartitioning, and seamless rate adaptation.\r• A more flexible TPS-TC function including support for up to 4 frame bearers, 4 latency paths, and control parameters allowing enhanced configuration of the overhead channel.\r• Performance improvements including mandatory support for R = 16, one-bit constellations, and trellis coding.\r• A more robust initialization procedure that includes splitterless capability features of the G.992.2 fast retrain procedure, CO and CP controlled adaptive signal durations, receiver determined adaptive frequency modulation for data exchange, and an optional adaptive length fast start-up procedure.\r• Improved RFI and spectrum management tools including transmit power cutback at both ends of the line, spectrum shaping, sub-carrier black-out lists to avoid RFI, and improved sub-carrier ordering to help mitigate the propagation of RFI from sub-carrier to sub-carrier.\r• Power saving features including mandatory reduction of excess margin under management layer control and a new L2 power management link state with low power features for the central office.SourceITU-T Recommendation G.992.4 was prepared by ITU-T Study Group 15 (2001-2004) and approved under the WTSA Resolution 1 procedure on 29 July 2002."
 status:
   stage:
     content: Published

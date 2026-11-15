@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.780.5 describes the application scenarios, functional
+  content: 'Recommendation ITU-T F.780.5 describes the application scenarios, functional
     requirements, and reference architecture of telemonitoring systems in rapid deployment
     hospitals (RDHs) and applies them to planning and designing in RDHs. The appendix
-    to this Recommendation includes use cases of the proposed reference system.\r\n"
+    to this Recommendation includes use cases of the proposed reference system.
+    '
 status:
   stage:
     content: Published

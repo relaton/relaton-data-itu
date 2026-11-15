@@ -52,26 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "A heterogeneous gateway is a hardware and software system used for the
-    interaction of Internet of things (IoT) devices with each other and with remote
-    IoT services. It comprises an IoT gateway infrastructure (IoT GI) and a semantic
-    IoT gateway (SIoTG). The IoT GI is a hardware and software system comprising IoT
-    device hardware, network interfaces, operating system, and simulator or virtualization
-    system (virtual machine, containers, etc.). It is used to ensure compatibility
-    of the different network technologies. The SIoTG is a software program and part
-    of the heterogeneous IoT gateway, and is used for the mapping of different protocols,
-    applications and IoT services among themselves.\r\n\r\nThe SIoTG that forms part
-    of the heterogeneous gateway is supposed to ensure the mapping of different IoT
-    solutions (protocols, applications and services) among themselves, independently
-    of the configuration of the IoT devices themselves. Use of scenarios for the mapping
-    of IoT solutions among themselves without using a special signalling protocol
-    for the SIoTG is possible only if a standard configuration is used for each solution
-    (e.g., for the mapping of protocols: a standard network port number for the protocol
-    being mapped; no encryption of data embedded in the message, etc.). Otherwise,
-    there is no standard solution for mapping procedures, and the need then arises
-    for interaction with the SIoTG for the purpose of configuring the IoT solution
-    mapping scenario.\r\n\r\nRecommendation ITU-T Q.3055 describes the signalling
-    protocol for heterogeneous IoT gateways.\r\n"
+  content: "A heterogeneous gateway is a hardware and software system used for the interaction of Internet of things (IoT) devices with each other and with remote IoT services. It comprises an IoT gateway infrastructure (IoT GI) and a semantic IoT gateway (SIoTG). The IoT GI is a hardware and software system comprising IoT device hardware, network interfaces, operating system, and simulator or virtualization system (virtual machine, containers, etc.). It is used to ensure compatibility of the different network technologies. The SIoTG is a software program and part of the heterogeneous IoT gateway, and is used for the mapping of different protocols, applications and IoT services among themselves.\r\n\r\nThe SIoTG that forms part of the heterogeneous gateway is supposed to ensure the mapping of different IoT solutions (protocols, applications and services) among themselves, independently of the configuration of the IoT devices themselves. Use of scenarios for the mapping of IoT solutions among themselves without using a special signalling protocol for the SIoTG is possible only if a standard configuration is used for each solution (e.g., for the mapping of protocols: a standard network port number for the protocol being mapped; no encryption of data embedded in the message, etc.). Otherwise, there is no standard solution for mapping procedures, and the need then arises for interaction with the SIoTG for the purpose of configuring the IoT solution mapping scenario.\r\n\r\nRecommendation ITU-T Q.3055 describes the signalling protocol for heterogeneous IoT gateways.\r\n"
 status:
   stage:
     content: Published
@@ -329,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -341,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

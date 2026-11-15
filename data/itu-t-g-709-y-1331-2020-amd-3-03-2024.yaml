@@ -47,13 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical
-    transport network (OTN) interface signals of the optical transport network, in
-    terms of:\r\n–OTN hierarchy\r\n–functionality of the overhead in support of multi-wavelength
-    optical networks\r\n–frame structures\r\n–bit rates\r\n–formats for mapping client
-    signals.\r\nEdition 6.5 (Amendment 3) of this Recommendation adds mapping of 800GBASE-R
-    clients, clarifications to the description of GMP, and a new fine-grained path
-    layer and tributary slot structure.\r\n"
+  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical transport network (OTN) interface signals of the optical transport network, in terms of:\r\n–OTN hierarchy\r\n–functionality of the overhead in support of multi-wavelength optical networks\r\n–frame structures\r\n–bit rates\r\n–formats for mapping client signals.\r\nEdition 6.5 (Amendment 3) of this Recommendation adds mapping of 800GBASE-R clients, clarifications to the description of GMP, and a new fine-grained path layer and tributary slot structure.\r\n"
 status:
   stage:
     content: Published

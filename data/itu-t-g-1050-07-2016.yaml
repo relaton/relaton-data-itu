@@ -53,38 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.1050 describes an Internet protocol (IP) network
-    model that can be used for evaluating the performance of IP streams. The focus
-    is on packet delay, delay variation, and loss. IP streams from any type of network
-    device can be evaluated using this model.\r\nThe following are possible uses for
-    Recommendation ITU-T G.1050:\r\n– simulation of real-world IP network impairments
-    (packet delay variation and packet loss characteristics);\r\n– testing of any
-    type of IP stream(s) under simulated network conditions using pcap files. The
-    IP stream(s) can be evaluated using standard test cases or user-defined simulated
-    network conditions;\r\n– testing of any type of IP stream using hardware emulation
-    of simulated network models using standard test cases or user-defined simulated
-    network conditions.\r\nThis revision of Recommendation ITU-T G.1050 replaces Recommendation
-    ITU-T G.1050 (2011) in its entirety.\r\nTechnical changes from Recommendation
-    ITU-T G.1050 (2011) include:\r\n1) The previous version of this Recommendation,
-    ITU-T G.1050 (2011), uses pre-recorded pcap files of unmanaged best-effort streams
-    (e.g., HTTP, P2P) that do not react to network congestion and therefore do not
-    adapt to the available network capacity as would be expected in an actual network.
-    The revised version of this Recommendation replaces these pcap files with an iPerf
-    transmission control protocol (TCP) stream. Because the iPerf stream is carried
-    by TCP, it automatically adapts to the simulated network conditions. In addition
-    to this, the iPerf stream accurately measures the residual capacity of the network
-    while carrying other managed services. Therefore, this enhancement provides more
-    realism than the previous version.\r\n2) The previous version of this Recommendation
-    uses a custom discrete event simulator written in C++. The revised version of
-    this Recommendation implements the same network topologies and test cases using
-    the publicly available ns3 discrete event simulator. The new approach uses a direct
-    code execution (DCE) virtual environment to run an actual iPerf application with
-    an actual Linux network stack in each network node that uses TCP, making the results
-    more realistic. For the simulations in this Recommendation, the Linux network
-    stacks are configured to use the \"cubic\" TCP congestion control algorithms.\r\nThis
-    Recommendation includes an electronic attachment containing the discrete event
-    simulator source code, input packet capture files of interfering traffic, standard
-    test cases and the simulator output."
+  content: "Recommendation ITU-T G.1050 describes an Internet protocol (IP) network model that can be used for evaluating the performance of IP streams. The focus is on packet delay, delay variation, and loss. IP streams from any type of network device can be evaluated using this model.\r\nThe following are possible uses for Recommendation ITU-T G.1050:\r\n– simulation of real-world IP network impairments (packet delay variation and packet loss characteristics);\r\n– testing of any type of IP stream(s) under simulated network conditions using pcap files. The IP stream(s) can be evaluated using standard test cases or user-defined simulated network conditions;\r\n– testing of any type of IP stream using hardware emulation of simulated network models using standard test cases or user-defined simulated network conditions.\r\nThis revision of Recommendation ITU-T G.1050 replaces Recommendation ITU-T G.1050 (2011) in its entirety.\r\nTechnical changes from Recommendation ITU-T G.1050 (2011) include:\r\n1) The previous version of this Recommendation, ITU-T G.1050 (2011), uses pre-recorded pcap files of unmanaged best-effort streams (e.g., HTTP, P2P) that do not react to network congestion and therefore do not adapt to the available network capacity as would be expected in an actual network. The revised version of this Recommendation replaces these pcap files with an iPerf transmission control protocol (TCP) stream. Because the iPerf stream is carried by TCP, it automatically adapts to the simulated network conditions. In addition to this, the iPerf stream accurately measures the residual capacity of the network while carrying other managed services. Therefore, this enhancement provides more realism than the previous version.\r\n2) The previous version of this Recommendation uses a custom discrete event simulator written in C++. The revised version of this Recommendation implements the same network topologies and test cases using the publicly available ns3 discrete event simulator. The new approach uses a direct code execution (DCE) virtual environment to run an actual iPerf application with an actual Linux network stack in each network node that uses TCP, making the results more realistic. For the simulations in this Recommendation, the Linux network stacks are configured to use the \"cubic\" TCP congestion control algorithms.\r\nThis Recommendation includes an electronic attachment containing the discrete event simulator source code, input packet capture files of interfering traffic, standard test cases and the simulator output."
 status:
   stage:
     content: Published

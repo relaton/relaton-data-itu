@@ -53,19 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "An important aspect of the data transmission performance of networks are
-    data transfer times and resulting answering delay in real-time, interactive scenarios.
-    Latency and reactivity are becoming even more essential for new interactive and
-    real-time applications as e.g., in augmented reality but also in Industry 4.0
-    or automotive use. \r\nLatency and resulting reactivity must be measured in a
-    scenario that emulates the application and use case to be evaluated. This requires
-    first a data transfer profile (traffic pattern) that is considered as equivalent
-    to the application so that the relevant latency and reactivity can be measured.
-    Second, the resulting influence of latency to a certain application can be described
-    by an interactivity scoring model. This model is not a general one, rather, it
-    is individually scaled for each of the use cases like e.g., e-Gaming or real-time
-    drone control and is focused on scoring transport with a simplified, parametrizable
-    model approach, it does not target individual application behaviours.\r\n"
+  content: "An important aspect of the data transmission performance of networks are data transfer times and resulting answering delay in real-time, interactive scenarios. Latency and reactivity are becoming even more essential for new interactive and real-time applications as e.g., in augmented reality but also in Industry 4.0 or automotive use. \r\nLatency and resulting reactivity must be measured in a scenario that emulates the application and use case to be evaluated. This requires first a data transfer profile (traffic pattern) that is considered as equivalent to the application so that the relevant latency and reactivity can be measured. Second, the resulting influence of latency to a certain application can be described by an interactivity scoring model. This model is not a general one, rather, it is individually scaled for each of the use cases like e.g., e-Gaming or real-time drone control and is focused on scoring transport with a simplified, parametrizable model approach, it does not target individual application behaviours.\r\n"
 status:
   stage:
     content: Published

@@ -54,30 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.850 provides a test suite structure (TSS) and the
-    test purposes (TP) for the general requirements when transcoding by personal health
-    gateways in the Personal Health Devices (PHD) interface of application-level data
-    between the Bluetooth Low Energy Bluetooth Generic Attribute Profile (GATT) format
-    and the IEEE 11073-20601 data format, of which Recommendation ITU‑T H.810 (2016)
-    is the base Recommendation. The objective of this test specification is to provide
-    a high probability of interoperability at this interface.\r\n\r\nRecommendation
-    ITU-T H.850 is a transposition of clause 3.2 of Continua Test Tool DG2016, Test
-    Suite Structure & Test Purposes, Personal Health Devices Interface; Part 10: PHD
-    Transcoding Whitepaper. Personal Health Gateway (Version 1.7, 2017-07-18), that
-    was developed by the Personal Connected Health Alliance. A number of versions
-    of this specification existed before transposition.\r\n\r\nThis Recommendation
-    includes an electronic attachment with the protocol implementation conformance
-    statements (PICS) and the protocol implementation extra information for testing
-    (PIXIT) required for the implementation of Annex A.\r\n\r\nThis Recommendation
-    was originally approved as a single part, but due to its large size it was split
-    at publication time into eight sub-parts for easier use, maintenance and expandability:\r\n\r\n–
-    \          ITU-T H.850 with the general requirements;\r\n\r\n–           ITU-T
-    H.850.1 with thermometer PHD requirements;\r\n\r\n–           ITU-T H.850.2 with
-    blood pressure PHD requirements;\r\n\r\n–           ITU-T H.850.3 with heart rate
-    PHD requirements;\r\n\r\n–           ITU-T H.850.4 with glucose meter PHD requirements;\r\n\r\n–
-    \          ITU-T H.850.5 with weighing scales PHD requirements;\r\n\r\n–           ITU-T
-    H.850.6 with pulse oximeter PHD requirements;\r\n\r\n–           ITU-T H.850.7
-    with continuous glucose monitoring PHD requirements."
+  content: "Recommendation ITU-T H.850 provides a test suite structure (TSS) and the test purposes (TP) for the general requirements when transcoding by personal health gateways in the Personal Health Devices (PHD) interface of application-level data between the Bluetooth Low Energy Bluetooth Generic Attribute Profile (GATT) format and the IEEE 11073-20601 data format, of which Recommendation ITU‑T H.810 (2016) is the base Recommendation. The objective of this test specification is to provide a high probability of interoperability at this interface.\r\n\r\nRecommendation ITU-T H.850 is a transposition of clause 3.2 of Continua Test Tool DG2016, Test Suite Structure & Test Purposes, Personal Health Devices Interface; Part 10: PHD Transcoding Whitepaper. Personal Health Gateway (Version 1.7, 2017-07-18), that was developed by the Personal Connected Health Alliance. A number of versions of this specification existed before transposition.\r\n\r\nThis Recommendation includes an electronic attachment with the protocol implementation conformance statements (PICS) and the protocol implementation extra information for testing (PIXIT) required for the implementation of Annex A.\r\n\r\nThis Recommendation was originally approved as a single part, but due to its large size it was split at publication time into eight sub-parts for easier use, maintenance and expandability:\r\n\r\n–           ITU-T H.850 with the general requirements;\r\n\r\n–           ITU-T H.850.1 with thermometer PHD requirements;\r\n\r\n–           ITU-T H.850.2 with blood pressure PHD requirements;\r\n\r\n–           ITU-T H.850.3 with heart rate PHD requirements;\r\n\r\n–           ITU-T H.850.4 with glucose meter PHD requirements;\r\n\r\n–           ITU-T H.850.5 with weighing scales PHD requirements;\r\n\r\n–           ITU-T H.850.6 with pulse oximeter PHD requirements;\r\n\r\n–           ITU-T H.850.7 with continuous glucose monitoring PHD requirements."
 status:
   stage:
     content: Published

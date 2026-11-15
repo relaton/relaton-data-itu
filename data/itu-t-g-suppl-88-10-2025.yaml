@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 88 to ITU-T G-series Recommendations describes potential system
+  content: 'Supplement 88 to ITU-T G-series Recommendations describes potential system
     requirements and the characteristics of potential technology candidates for PON
     systems above 50 Gbit/s per wavelength between the optical line termination (OLT)
     and the optical network unit (ONU). It describes the general architecture and
     system requirements for very high speed PON (VHSP), candidate VHSP technologies,
-    as well as VHSP sensing use cases and candidate sensing technologies.\r\n"
+    as well as VHSP sensing use cases and candidate sensing technologies.
+    '
 status:
   stage:
     content: Published

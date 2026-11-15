@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Supplementary Service describes the procedures and the signalling
-    protocol for the Call Intrusion supplementary service in H.323 (Packet Based Multimedia
-    Communications Systems) networks.\r\n\r\nThe Call Intrusion supplementary service
-    (SS-CI) enables a calling user A, encountering a busy destination user B, to establish
-    communication with user B by breaking into an established call between user B
-    and a third user C. \r\n\r\nThis Recommendation makes use of the \"Generic functional
-    protocol for the support of supplementary services in H.323\" as defined in ITU-T
-    H.450.1.\r\n\r\nThis Recommendation requires H.323 version 2 (1998) or later.
-    Version 2 products can be identified by H.225.0 messages containing a protocolIdentifier=
-    {itu-t (0) recommendation (0) h (8) 2250 version (0) 2} and H.245 messages containing
-    a protocolIdentifier= {itu-t (0) recommendation (0) h (8) 245 version (0) x},
-    where \"x\" is 3 or higher.\r\n\r\nThe procedures and the signalling protocol
-    of this Recommendation are derived from the Call Intrusion supplementary service
-    specified in ISO/IEC 14845 and ISO/IEC 14846."
+  content: "This Supplementary Service describes the procedures and the signalling protocol for the Call Intrusion supplementary service in H.323 (Packet Based Multimedia Communications Systems) networks.\r\n\r\nThe Call Intrusion supplementary service (SS-CI) enables a calling user A, encountering a busy destination user B, to establish communication with user B by breaking into an established call between user B and a third user C. \r\n\r\nThis Recommendation makes use of the \"Generic functional protocol for the support of supplementary services in H.323\" as defined in ITU-T H.450.1.\r\n\r\nThis Recommendation requires H.323 version 2 (1998) or later. Version 2 products can be identified by H.225.0 messages containing a protocolIdentifier= {itu-t (0) recommendation (0) h (8) 2250 version (0) 2} and H.245 messages containing a protocolIdentifier= {itu-t (0) recommendation (0) h (8) 245 version (0) x}, where \"x\" is 3 or higher.\r\n\r\nThe procedures and the signalling protocol of this Recommendation are derived from the Call Intrusion supplementary service specified in ISO/IEC 14845 and ISO/IEC 14846."
 status:
   stage:
     content: Published

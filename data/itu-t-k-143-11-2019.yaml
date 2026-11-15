@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Requirements on bridging between primary circuit and protective earth
-    by a surge protective device (SPD) in equipment are described in clause 5.5.7
-    of [IEC 62368-1]. However, [IEC 62368-1] does not take into consideration the
-    lightning voltage, which is larger than that appearing in the conditions considered
-    in overvoltage category II, and it does not provide the requirements necessary
-    for lightning protection of class II equipment without earthing in which bridging
-    by SPD/surge protective components (SPCs) is usually applied.\r\n\r\nIt is necessary
-    to clarify the electrical requirements for SPDs/SPCs in order to realize both
-    resistibility and safety of telecommunication systems. Recommendation ITU-T K.143
-    analyses the influence on human safety of lightning measures bridging across insulation
-    by SPDs. Recommendation ITU-T K.143 provides guidance for design of lightning
-    protection and requirements of SPDs from the human safety standpoint. Requirements
-    for SPDs/SPCs in multiservice surge protective devices (MSPDs) external to the
-    equipment and SPDs installed on lines in a building lie outside the scope of this
-    Recommendation."
+  content: "Requirements on bridging between primary circuit and protective earth by a surge protective device (SPD) in equipment are described in clause 5.5.7 of [IEC 62368-1]. However, [IEC 62368-1] does not take into consideration the lightning voltage, which is larger than that appearing in the conditions considered in overvoltage category II, and it does not provide the requirements necessary for lightning protection of class II equipment without earthing in which bridging by SPD/surge protective components (SPCs) is usually applied.\r\n\r\nIt is necessary to clarify the electrical requirements for SPDs/SPCs in order to realize both resistibility and safety of telecommunication systems. Recommendation ITU-T K.143 analyses the influence on human safety of lightning measures bridging across insulation by SPDs. Recommendation ITU-T K.143 provides guidance for design of lightning protection and requirements of SPDs from the human safety standpoint. Requirements for SPDs/SPCs in multiservice surge protective devices (MSPDs) external to the equipment and SPDs installed on lines in a building lie outside the scope of this Recommendation."
 status:
   stage:
     content: Withdrawal

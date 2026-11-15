@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8152.2 specifies resilience management information
-    and data models for a multi-protocol label switching-transport profile (MPLS-TP)
-    network element (NE) as specified in Recommendations ITU-T G.8131 and ITU-T G.8132.
-    The information model is interface protocol neutral and specified using the unified
-    modelling language (UML). The information model in Recommendation ITU-T G.8152.2
-    is derived through pruning and refactoring from the Recommendation ITU-T G.7711/Y.1702
-    core information model and the Recommendation ITUT G.8152/Y.1375 foundation MPLS-TP
-    NE information model. The data models are interface protocol specific and translated
-    from the information model with the assistance of automated translation tooling.
-    The specific data models considered in Recommendation ITUT G.8152.2 include, but
-    are not limited to, those of the yet another next generation (YANG) type.\r\nEdition
-    2.0 updates the protection state for the linear protection and shared ring protection,
-    including Table 7-2, Table 7-6, Figure 7-4, Figure 7-7, UML model and Yang model.
-    It also adds legal text in the YANG files.\r\n"
+  content: "Recommendation ITU-T G.8152.2 specifies resilience management information and data models for a multi-protocol label switching-transport profile (MPLS-TP) network element (NE) as specified in Recommendations ITU-T G.8131 and ITU-T G.8132. The information model is interface protocol neutral and specified using the unified modelling language (UML). The information model in Recommendation ITU-T G.8152.2 is derived through pruning and refactoring from the Recommendation ITU-T G.7711/Y.1702 core information model and the Recommendation ITUT G.8152/Y.1375 foundation MPLS-TP NE information model. The data models are interface protocol specific and translated from the information model with the assistance of automated translation tooling. The specific data models considered in Recommendation ITUT G.8152.2 include, but are not limited to, those of the yet another next generation (YANG) type.\r\nEdition 2.0 updates the protection state for the linear protection and shared ring protection, including Table 7-2, Table 7-6, Figure 7-4, Figure 7-7, UML model and Yang model. It also adds legal text in the YANG files.\r\n"
 status:
   stage:
     content: Published

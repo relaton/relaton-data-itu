@@ -53,14 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.366.5 specifies:\r\n\r\n1)         The interactions
-    between the HSS (home subscriber server) and the CSCF (call session control functions),
-    referred to as the Cx interface. \r\n\r\n2)         The interactions between the
-    CSCF and the SLF (server locator function), referred to as the Dx interface. \r\n\r\nThe
-    Third Generation Partnership Project (3GPP) has developed the specification in
-    a form optimized for the wireless environment. This Recommendation references
-    the ETSI version of the 3GPP specification and specifies only the modifications
-    necessary to optimize it for the cable environment."
+  content: "Recommendation ITU-T J.366.5 specifies:\r\n\r\n1)         The interactions between the HSS (home subscriber server) and the CSCF (call session control functions), referred to as the Cx interface. \r\n\r\n2)         The interactions between the CSCF and the SLF (server locator function), referred to as the Dx interface. \r\n\r\nThe Third Generation Partnership Project (3GPP) has developed the specification in a form optimized for the wireless environment. This Recommendation references the ETSI version of the 3GPP specification and specifies only the modifications necessary to optimize it for the cable environment."
 status:
   stage:
     content: Published

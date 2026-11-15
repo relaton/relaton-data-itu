@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.56 defines a general three-layer framework
+  content: 'Recommendation ITU-T F.748.56 defines a general three-layer framework
     for the artificial intelligence generated content (AIGC) system. The application
     layer is divided into unimodal/multi-modal tasks from the perspective of content
     generation modalities. The model layer covers generative artificial intelligence
@@ -63,7 +63,8 @@ abstract:
     and workflows. This Recommendation is intended to guide enterprises in building
     relevant AIGC capabilities for text, audio, image, video, 3D, and other modalities,
     and to provide a reference for testing, selecting, or evaluating AIGC technological
-    capabilities.\r\n"
+    capabilities.
+    '
 status:
   stage:
     content: Published

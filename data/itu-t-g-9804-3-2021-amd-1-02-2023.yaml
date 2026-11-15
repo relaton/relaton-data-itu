@@ -47,18 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9804.3 describes a 50-Gigabit-capable passive optical
-    network (50G PON) system in an optical access network for residential, business,
-    mobile backhaul and other applications. This system operates over a point-to-multipoint
-    optical access infrastructure at the nominal line rate of 50 Gbit/s in the downstream
-    direction. In the upstream direction, 12.5 Gbit/s, 25 Gbit/s and 50 Gbit/s nominal
-    line rates are defined. This Recommendation contains the references, the common
-    definitions, acronyms, abbreviations and the specifications of the physical media
-    dependent layer of the 50G-PON system.\r\nAmendment 1 defines a third upstream
-    wavelength \"option 3\" to support triple WDM coexistence with both GPON and XG(S)-PON,
-    optical interface parameters of 50 Gbit/s upstream direction, optical interface
-    parameters for non-MPM use cases, and the ONU out-of-band power spectral density
-    requirements.\r\n"
+  content: "Recommendation ITU-T G.9804.3 describes a 50-Gigabit-capable passive optical network (50G PON) system in an optical access network for residential, business, mobile backhaul and other applications. This system operates over a point-to-multipoint optical access infrastructure at the nominal line rate of 50 Gbit/s in the downstream direction. In the upstream direction, 12.5 Gbit/s, 25 Gbit/s and 50 Gbit/s nominal line rates are defined. This Recommendation contains the references, the common definitions, acronyms, abbreviations and the specifications of the physical media dependent layer of the 50G-PON system.\r\nAmendment 1 defines a third upstream wavelength \"option 3\" to support triple WDM coexistence with both GPON and XG(S)-PON, optical interface parameters of 50 Gbit/s upstream direction, optical interface parameters for non-MPM use cases, and the ONU out-of-band power spectral density requirements.\r\n"
 status:
   stage:
     content: Published

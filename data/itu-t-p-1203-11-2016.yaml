@@ -53,38 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1203 provides the introductory document for a set
-    of documents that describe model algorithms for monitoring the integral media
-    session quality for TCP-type video streaming. The models comprise modules for
-    short-term audio- and video-quality estimation. The per-one-second outputs of
-    these short-term modules are integrated into estimates of audiovisual quality
-    and, together with information about initial buffering delay and media playout
-    rebuffering events, further integrated into the final model output, the estimate
-    of integral quality. The respective ITU-T work item has formerly been referred
-    to as P.NATS (Parametric non-intrusive assessment of TCP-based multimedia streaming
-    quality).\r\nThe structure of the set of recommendations reflects the different
-    functionality of modules described in each document:\r\n–\tITU-T P.1203: Introductory
-    document (this Recommendation)\r\n–\tITU-T P.1203.1: Video quality estimation
-    module (short-term, providing per-one-second output information)\r\n–\tITU-T P.1203.2:
-    Audio quality estimation module (short-term, providing per-one-second output information)\r\n–\tITU-T
-    P.1203.3: Audiovisual integration and integration of final score, reflecting remembered
-    quality for viewing sessions between 30 s and 5 min duration \r\nThe input used
-    by the models consists of information obtained by prior stream inspection. Four
-    different levels of inspection are included, resulting in models of different
-    complexity both of the input information and the model algorithms, which are called
-    \"modes of operation\" in the following:\r\n–\tMode 0: Information obtained from
-    meta-information available during progressive download or adaptive streaming,
-    for example from manifest files used in DASH, about codec and bitrate, and rebuffering.
-    \r\n–\tMode 1: All information from Mode 0, with additional video and audio frame
-    information based on packet header inspection\r\n–\tMode 2: All information from
-    Mode 1, and up to 2% (in Bytes) of the overall media stream information based
-    on deep packet inspection and partial bitstream parsing\r\n–\tMode 3: All information
-    from Mode 1, and complete media stream information based on bitstream parsing
-    \r\nThe ITU-T P.1203-series of Recommendations addresses two application areas,
-    which are respectively indicated in the module-related Recommendations ITU-T P.1203.1,
-    ITU-T P.1203.2, ITU-T P.1203.3:\r\n–\tLarge-screen presentation as with fixed-network
-    video streaming\r\n–\tMobile streaming on handheld devices such as smartphones\r\nThe
-    ITU-T P.1203 module algorithms are no-reference, bitstream-based models.\r\n"
+  content: "Recommendation ITU-T P.1203 provides the introductory document for a set of documents that describe model algorithms for monitoring the integral media session quality for TCP-type video streaming. The models comprise modules for short-term audio- and video-quality estimation. The per-one-second outputs of these short-term modules are integrated into estimates of audiovisual quality and, together with information about initial buffering delay and media playout rebuffering events, further integrated into the final model output, the estimate of integral quality. The respective ITU-T work item has formerly been referred to as P.NATS (Parametric non-intrusive assessment of TCP-based multimedia streaming quality).\r\nThe structure of the set of recommendations reflects the different functionality of modules described in each document:\r\n–\tITU-T P.1203: Introductory document (this Recommendation)\r\n–\tITU-T P.1203.1: Video quality estimation module (short-term, providing per-one-second output information)\r\n–\tITU-T P.1203.2: Audio quality estimation module (short-term, providing per-one-second output information)\r\n–\tITU-T P.1203.3: Audiovisual integration and integration of final score, reflecting remembered quality for viewing sessions between 30 s and 5 min duration \r\nThe input used by the models consists of information obtained by prior stream inspection. Four different levels of inspection are included, resulting in models of different complexity both of the input information and the model algorithms, which are called \"modes of operation\" in the following:\r\n–\tMode 0: Information obtained from meta-information available during progressive download or adaptive streaming, for example from manifest files used in DASH, about codec and bitrate, and rebuffering. \r\n–\tMode 1: All information from Mode 0, with additional video and audio frame information based on packet header inspection\r\n–\tMode 2: All information from Mode 1, and up to 2% (in Bytes) of the overall media stream information based on deep packet inspection and partial bitstream parsing\r\n–\tMode 3: All information from Mode 1, and complete media stream information based on bitstream parsing \r\nThe ITU-T P.1203-series of Recommendations addresses two application areas, which are respectively indicated in the module-related Recommendations ITU-T P.1203.1, ITU-T P.1203.2, ITU-T P.1203.3:\r\n–\tLarge-screen presentation as with fixed-network video streaming\r\n–\tMobile streaming on handheld devices such as smartphones\r\nThe ITU-T P.1203 module algorithms are no-reference, bitstream-based models.\r\n"
 status:
   stage:
     content: Withdrawal

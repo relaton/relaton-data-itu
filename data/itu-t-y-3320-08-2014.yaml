@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3320 provides a descriptive overview and requirements
-    for applying formal methods to software-defined networking (SDN).\r\nAppendix
-    I, introduces an example demonstrating how formal methods are applied to SDN environments.
-    \r\nFormal methods are mathematics-based techniques used for specifying, developing,
-    and verifying software and hardware systems and are expected to increase the reliability
-    and robustness of the system. In SDN environments the consistency, reliability
-    and security of applications are important as incomplete or malicious programmable
-    entities could cause a break-down of underlying networks. In this sense, the use
-    of formal methods can be an effective approach to the mitigation of such problems.\r\n"
+  content: "Recommendation ITU-T Y.3320 provides a descriptive overview and requirements for applying formal methods to software-defined networking (SDN).\r\nAppendix I, introduces an example demonstrating how formal methods are applied to SDN environments. \r\nFormal methods are mathematics-based techniques used for specifying, developing, and verifying software and hardware systems and are expected to increase the reliability and robustness of the system. In SDN environments the consistency, reliability and security of applications are important as incomplete or malicious programmable entities could cause a break-down of underlying networks. In this sense, the use of formal methods can be an effective approach to the mitigation of such problems.\r\n"
 status:
   stage:
     content: Published
@@ -90,7 +82,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -111,8 +103,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

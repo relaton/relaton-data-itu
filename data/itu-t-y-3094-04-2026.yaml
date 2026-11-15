@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3094 defines data model types and functionalities
+  content: 'Recommendation ITU-T Y.3094 defines data model types and functionalities
     of the digital twin network (DTN) model domain, and specifies the requirements
     of data models, the requirements of orchestration and management, and the requirements
     of unified interfaces of the DTN model domain. It supports the industry to have
-    a unified understanding of DTN's model domain and provides guidance to build various
-    modelling methods for the DTN system.\r\n"
+    a unified understanding of DTN''s model domain and provides guidance to build
+    various modelling methods for the DTN system.
+    '
 status:
   stage:
     content: Published
@@ -88,7 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -131,8 +132,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.7711/Y.1702 specifies a core information model
-    of transport resources. The information model is applicable for the management
-    and control of the transport network regardless of whether the transport networks
-    utilize traditional OSS management, ASON control plane, or SDN controller to configure
-    transport connectivity. The model is also applicable [to the management and control
-    of the transport network] regardless of the technology of the underlying transport
-    network. Furthermore, the applicability of the information model is independent
-    upon the ultimate protocols that will be used in the management and control interfaces.
-    \  \r\n\r\nThe 2016 revision of this Recommendation has changed the document structure,
-    added an «experimental» address structure to the foundation model, changed the
-    name of TopologicalEntity to ForwardingEntity, incorporated ForwardingConstruct
-    (FC) under ForwardingEntity and consideration of FC as closely related to topology,
-    added the resilience model, added the equipment model, and added the Specification
-    model. \r\n"
+  content: "Recommendation ITU-T G.7711/Y.1702 specifies a core information model of transport resources. The information model is applicable for the management and control of the transport network regardless of whether the transport networks utilize traditional OSS management, ASON control plane, or SDN controller to configure transport connectivity. The model is also applicable [to the management and control of the transport network] regardless of the technology of the underlying transport network. Furthermore, the applicability of the information model is independent upon the ultimate protocols that will be used in the management and control interfaces.   \r\n\r\nThe 2016 revision of this Recommendation has changed the document structure, added an «experimental» address structure to the foundation model, changed the name of TopologicalEntity to ForwardingEntity, incorporated ForwardingConstruct (FC) under ForwardingEntity and consideration of FC as closely related to topology, added the resilience model, added the equipment model, and added the Specification model. \r\n"
 status:
   stage:
     content: Withdrawal

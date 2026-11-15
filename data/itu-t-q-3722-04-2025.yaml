@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In addition to Internet access, the demand for home broadband service
+  content: 'In addition to Internet access, the demand for home broadband service
     continues to grow due to streaming video, cloud storage and other cloud applications.
     However, the provisioning and operation of broadband services and cloud services
     are nowadays completely independent. It is difficult to coordinate service management
@@ -62,7 +62,8 @@ abstract:
     of virtual broadband network gateways (vBNGs) to integrate with cloud services,
     ensuring consistency between broadband access services and cloud access services.
     Recommendation ITU-T Q.3722 introduces the scenarios of vBNG for cloud access.
-    The requirements and signalling procedures of vBNG for cloud access is also addressed.\r\n"
+    The requirements and signalling procedures of vBNG for cloud access is also addressed.
+    '
 status:
   stage:
     content: Published
@@ -320,9 +321,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -332,8 +333,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

@@ -47,17 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275.2/Y.1369.2 contains the ITU-T precision time
-    protocol (PTP) profile for phase/time distribution with partial timing support
-    from the network (unicast mode). It provides the necessary details to utilize
-    IEEE 1588 in a manner consistent with the architecture described in Recommendation
-    ITU-T G. 8275/Y.1369. This Recommendation defines the PTP profile for unicast
-    mode only. Future editions of this Recommendation may contain a separate profile
-    for a mixed unicast/multicast case.\r\n\r\nAmendment 3 provides the following
-    updates:\r\n\r\n–           Added ITU-T G.8272.1 reference\r\n\r\n–           Convention
-    T-BC-P/A added as a concise way to refer to T-BC-P or T-BC-A\r\n\r\n–           Convention
-    T-TSC-P/A added as a concise way to refer to T-TSC-P or T-TSC-A\r\n\r\n–           Added
-    Appendix VIII Operations over link aggregation\r\n\r\n "
+  content: "Recommendation ITU-T G.8275.2/Y.1369.2 contains the ITU-T precision time protocol (PTP) profile for phase/time distribution with partial timing support from the network (unicast mode). It provides the necessary details to utilize IEEE 1588 in a manner consistent with the architecture described in Recommendation ITU-T G. 8275/Y.1369. This Recommendation defines the PTP profile for unicast mode only. Future editions of this Recommendation may contain a separate profile for a mixed unicast/multicast case.\r\n\r\nAmendment 3 provides the following updates:\r\n\r\n–           Added ITU-T G.8272.1 reference\r\n\r\n–           Convention T-BC-P/A added as a concise way to refer to T-BC-P or T-BC-A\r\n\r\n–           Convention T-TSC-P/A added as a concise way to refer to T-TSC-P or T-TSC-A\r\n\r\n–           Added Appendix VIII Operations over link aggregation\r\n\r\n "
 status:
   stage:
     content: Withdrawal

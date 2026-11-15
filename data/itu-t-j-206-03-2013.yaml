@@ -53,26 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Consumer electronics devices are more and more connected every day. This
-    tendency has also reached digital television (DTV) receivers, Blu-ray players,
-    personal video recorder (PVR) devices and even games consoles. \r\nTaking advantage
-    of the increasing broadband availability, consumer electronics manufacturers are
-    embedding in their products applications that are able to retrieve content from
-    proprietary services available through the Internet. Additionally, computational
-    capabilities and increasing persistent storage availability in these devices will
-    allow end users to customize their devices by installing new applications; this
-    is already occurring with mobile phones, tablets and games consoles.\r\nIn the
-    same way, DTV broadcasters are extending their systems in order to use broadband
-    availability to improve their services by adding interactive non-linear and on-demand
-    content to the services they traditionally offer.\r\nHowever, most of the current
-    solutions are closed/proprietary solutions and focused on each industry's specific
-    problems.\r\nIn alignment with Recommendation ITU-T J.205, Requirements for an
-    application control framework using integrated broadcast and broadband digital
-    television, this contribution proposes a study on the architecture and implementation
-    for an application control framework for DTV enabled devices. This framework would
-    be responsible for managing and controlling the interactive content and applications
-    available through DTV services, installed by the end user or embedded by the device
-    manufacturer, and providing a unified execution environment for them.\r\n"
+  content: "Consumer electronics devices are more and more connected every day. This tendency has also reached digital television (DTV) receivers, Blu-ray players, personal video recorder (PVR) devices and even games consoles. \r\nTaking advantage of the increasing broadband availability, consumer electronics manufacturers are embedding in their products applications that are able to retrieve content from proprietary services available through the Internet. Additionally, computational capabilities and increasing persistent storage availability in these devices will allow end users to customize their devices by installing new applications; this is already occurring with mobile phones, tablets and games consoles.\r\nIn the same way, DTV broadcasters are extending their systems in order to use broadband availability to improve their services by adding interactive non-linear and on-demand content to the services they traditionally offer.\r\nHowever, most of the current solutions are closed/proprietary solutions and focused on each industry's specific problems.\r\nIn alignment with Recommendation ITU-T J.205, Requirements for an application control framework using integrated broadcast and broadband digital television, this contribution proposes a study on the architecture and implementation for an application control framework for DTV enabled devices. This framework would be responsible for managing and controlling the interactive content and applications available through DTV services, installed by the end user or embedded by the device manufacturer, and providing a unified execution environment for them.\r\n"
 status:
   stage:
     content: Published

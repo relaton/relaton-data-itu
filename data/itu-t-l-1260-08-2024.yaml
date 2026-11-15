@@ -52,13 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.1260 presents a reference model for a factory energy
+  content: 'Recommendation ITU-T L.1260 presents a reference model for a factory energy
     management system that is operated to efficiently manage energy consumed in the
     factory. A factory energy management system should provide functions such as data
     collection and control, data processing and analysis, energy services, system
     management and security. The factory energy management system may be provided
-    as a cloud computing service or operated on-site, depending on the factory's operating
-    situation and environment.\r\n"
+    as a cloud computing service or operated on-site, depending on the factory''s
+    operating situation and environment.
+    '
 status:
   stage:
     content: Published

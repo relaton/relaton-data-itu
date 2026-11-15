@@ -53,17 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the rapid development of its foundation model, the demand for high
-    availability in the artificial intelligence (AI) cloud platform has significantly
-    increased. The AI cloud platform not only delivers stable service capabilities
-    but also enables real-time monitoring of resource utilization and operational
-    status across all services, and promptly detects runtime failures while providing
-    alerting and intelligent maintenance functions.\r\nRecommendation ITU-T F.748.60
-    provides general technical requirements for a high-availability AI cloud platform
-    for foundation model development, including monitoring capabilities, alerting
-    capabilities and operation capabilities. This Recommendation is intended to improve
-    the application development support capabilities of the AI cloud platform to better
-    assist implementers in developing the foundation model.\r\n"
+  content: "With the rapid development of its foundation model, the demand for high availability in the artificial intelligence (AI) cloud platform has significantly increased. The AI cloud platform not only delivers stable service capabilities but also enables real-time monitoring of resource utilization and operational status across all services, and promptly detects runtime failures while providing alerting and intelligent maintenance functions.\r\nRecommendation ITU-T F.748.60 provides general technical requirements for a high-availability AI cloud platform for foundation model development, including monitoring capabilities, alerting capabilities and operation capabilities. This Recommendation is intended to improve the application development support capabilities of the AI cloud platform to better assist implementers in developing the foundation model.\r\n"
 status:
   stage:
     content: Published

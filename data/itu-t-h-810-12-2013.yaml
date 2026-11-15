@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.810 defines the Continua Design Guidelines (CDG)
-    which contain specifications to ensure the interoperability of devices used for
-    applications monitoring personal health. It also contains additional design guidelines
-    for interoperability that further clarifies these specifications by reducing the
-    options in the underlying standard or specification, or by adding a feature missing
-    in the underlying standard or specification. These guidelines focus on the following
-    interfaces:\r\nTAN-IF – Interface between touch area network (TAN) health devices
-    and application hosting devices (AHDs)\r\nPAN-IF – Interface between personal
-    area network (PAN) health devices and AHDs\r\nLAN-IF – Interface between local
-    area network (LAN) health devices and AHDs\r\nWAN-IF – Interface between AHDs
-    and wide area network (WAN) health devices\r\nHRN-IF – Interface between WAN health
-    devices and Health Record Network health devices.\r\nThis Recommendation is a
-    transposition of the CDG developed and maintained by Continua Health Alliance."
+  content: "Recommendation ITU-T H.810 defines the Continua Design Guidelines (CDG) which contain specifications to ensure the interoperability of devices used for applications monitoring personal health. It also contains additional design guidelines for interoperability that further clarifies these specifications by reducing the options in the underlying standard or specification, or by adding a feature missing in the underlying standard or specification. These guidelines focus on the following interfaces:\r\nTAN-IF – Interface between touch area network (TAN) health devices and application hosting devices (AHDs)\r\nPAN-IF – Interface between personal area network (PAN) health devices and AHDs\r\nLAN-IF – Interface between local area network (LAN) health devices and AHDs\r\nWAN-IF – Interface between AHDs and wide area network (WAN) health devices\r\nHRN-IF – Interface between WAN health devices and Health Record Network health devices.\r\nThis Recommendation is a transposition of the CDG developed and maintained by Continua Health Alliance."
 status:
   stage:
     content: Withdrawal

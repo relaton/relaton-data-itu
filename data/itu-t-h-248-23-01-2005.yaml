@@ -52,11 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines two packages that provide enhanced alerting
-    and data transfer capabilities for ITU-T Rec. H.248. Corrigendum 1 corrects the
-    following aspects:\r\n• Erroneous checksum in examples;\r\n• Endian encoding reference.This
-    revision updates the packages to conform to the Packages Template. It also expands
-    the ri, cw and dwa signals to express up to 256 patterns."
+  content: "This Recommendation defines two packages that provide enhanced alerting and data transfer capabilities for ITU-T Rec. H.248. Corrigendum 1 corrects the following aspects:\r\n• Erroneous checksum in examples;\r\n• Endian encoding reference.This revision updates the packages to conform to the Packages Template. It also expands the ri, cw and dwa signals to express up to 256 patterns."
 status:
   stage:
     content: Withdrawal

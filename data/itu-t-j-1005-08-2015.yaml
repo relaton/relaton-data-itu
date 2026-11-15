@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1005 specifies the architecture and requirements
+  content: 'Recommendation ITU-T J.1005 specifies the architecture and requirements
     for a digital rights management (DRM) system for a cable television content delivery
     service including multiple device viewing experiences. It is anticipated that
     the architecture and requirements identified in this Recommendation can be applied
     to the DRM service that covers protected IP-type content (IP VoD, IP linear TV,
     etc.) delivery from a content provider or cable operator to end terminal devices
-    (PC, tablet, smartphones, etc.) via a cable television network.\r\n"
+    (PC, tablet, smartphones, etc.) via a cable television network.
+    '
 status:
   stage:
     content: Published

@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.626.5 defines an architecture for intelligent video
-    surveillance systems, including the functional requirements, functional architecture
-    and reference points. The intelligent video surveillance system provides intelligent
-    analysis capabilities and services for users based on the images, video slices
-    or video streams from surveillance cameras. Meanwhile, the system also aggregates
-    and stores the video and image information from the intelligent analysis, the
-    surveillance devices, or manual annotation. Based on this aggregation and storage,
-    the system provides application services and sharing services for users through
-    the network, such as query and retrieval about the video and image information,
-    subscription and notification, etc. This Recommendation is based on Recommendation
-    ITU-T F.743.1, \"Requirements for intelligent visual surveillance\".\r\nThis edition
-    updates the title and functional architecture, deletes the service-control flow
-    and signalling, and revises the references points.\r\n"
+  content: "Recommendation ITU-T H.626.5 defines an architecture for intelligent video surveillance systems, including the functional requirements, functional architecture and reference points. The intelligent video surveillance system provides intelligent analysis capabilities and services for users based on the images, video slices or video streams from surveillance cameras. Meanwhile, the system also aggregates and stores the video and image information from the intelligent analysis, the surveillance devices, or manual annotation. Based on this aggregation and storage, the system provides application services and sharing services for users through the network, such as query and retrieval about the video and image information, subscription and notification, etc. This Recommendation is based on Recommendation ITU-T F.743.1, \"Requirements for intelligent visual surveillance\".\r\nThis edition updates the title and functional architecture, deletes the service-control flow and signalling, and revises the references points.\r\n"
 status:
   stage:
     content: Published

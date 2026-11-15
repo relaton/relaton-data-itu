@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The time to half value of a double exponential surge, simulating a lightning
+  content: The time to half value of a double exponential surge, simulating a lightning
     impulse, is traditionally measured from a virtual zero point to the 50% amplitude
     decay point of the waveform, as explained in clause I.3. The time duration of
     electrostatic discharge (ESD) and electrical fast transient (EFT) impulses is
@@ -61,10 +61,10 @@ abstract:
     time measured from virtual zero will always be longer than the time between the
     two waveform 50% points. Edition 3 of IEC 61000-4-5 (2014) departs from the traditional
     lightning surge time to half value measurement by specifying the use of the time
-    between the two waveform 50% points for the 1.2/50\x1E8/20 and 10/700 surge generator
+    between the two waveform 50% points for the 1.2/508/20 and 10/700 surge generator
     waveforms. Amendment 1 to Recommendation ITU-T K.96 introduces Appendix II, which
     discusses the time value changes caused by the Edition 3 approach and how other
-    standards can be referenced to maintain the tradition measurement method."
+    standards can be referenced to maintain the tradition measurement method.
 status:
   stage:
     content: Published

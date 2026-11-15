@@ -47,25 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.698.4 provides optical parameter values for physical
-    layer interfaces of dense wavelength division multiplexing (DWDM) systems primarily
-    intended for metro applications, where the tail-end transmitters have the capability
-    to automatically adapt their DWDM channel frequency to the optical demultiplexer/optical
-    multiplexer (OD/OM) or optical add-drop multiplexer (OADM) port. Applications
-    are defined using optical interface parameters and values for single-channel and
-    multichannel interfaces of multichannel DWDM optical systems in point-to-point
-    applications. This Recommendation uses a system architecture comprising a head-end,
-    connecting to the tail-end equipment (TEE) through a black link. The head end
-    houses a set of transmitters and receivers and an OD/OM. A single bidirectional
-    fibre is used to connect the head-end to the black link OD/OM or OADM. The connection
-    between the OD/OM/OADM and the TEE is also bidirectional. The initial version
-    of this Recommendation includes DWDM applications up to 10 Gbit/s with channel
-    frequency spacing of 50 GHz and 100 GHz.\r\n\r\nCorrigendum 1 fixes the following
-    three errors: \r\n\r\n–           It changes the value of maximum loss difference
-    between HE-to-TE and TE-to-HE in Table 8-1 from NA to 2;\r\n\r\n–           In
-    clause 11.1.3, it changes the text defining the timers, replacing timer T0 with
-    timer T1;\r\n\r\n–           It fixes a formatting error in Table 9-4, moving
-    two rows below the dividing line between two table sections.\r\n"
+  content: "Recommendation ITU-T G.698.4 provides optical parameter values for physical layer interfaces of dense wavelength division multiplexing (DWDM) systems primarily intended for metro applications, where the tail-end transmitters have the capability to automatically adapt their DWDM channel frequency to the optical demultiplexer/optical multiplexer (OD/OM) or optical add-drop multiplexer (OADM) port. Applications are defined using optical interface parameters and values for single-channel and multichannel interfaces of multichannel DWDM optical systems in point-to-point applications. This Recommendation uses a system architecture comprising a head-end, connecting to the tail-end equipment (TEE) through a black link. The head end houses a set of transmitters and receivers and an OD/OM. A single bidirectional fibre is used to connect the head-end to the black link OD/OM or OADM. The connection between the OD/OM/OADM and the TEE is also bidirectional. The initial version of this Recommendation includes DWDM applications up to 10 Gbit/s with channel frequency spacing of 50 GHz and 100 GHz.\r\n\r\nCorrigendum 1 fixes the following three errors: \r\n\r\n–           It changes the value of maximum loss difference between HE-to-TE and TE-to-HE in Table 8-1 from NA to 2;\r\n\r\n–           In clause 11.1.3, it changes the text defining the timers, replacing timer T0 with timer T1;\r\n\r\n–           It fixes a formatting error in Table 9-4, moving two rows below the dividing line between two table sections.\r\n"
 status:
   stage:
     content: Withdrawal

@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.157 facilitates the harmonious development and
+  content: 'Recommendation ITU-T J.157 facilitates the harmonious development and
     deployment of extensible cable operator services for distributing digital television
     and audiovisual content to portable devices that do not have broadcast receiving
     capabilities, using wireless local area networks (WLAN). As smartphones and portable
@@ -65,7 +65,8 @@ abstract:
     the existing ecosystem and holds promise for widespread adoption in the future.
     The Recommendation defines functional requirements for converged gateway node
     (CGN) consisting of an integrated receiver decoder (IRD), video and media server,
-    web server and local content server.\r\n"
+    web server and local content server.
+    '
 status:
   stage:
     content: Published

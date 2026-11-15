@@ -56,11 +56,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.683 | ISO/IEC 8824-4 defines the provisions for
+  content: 'Recommendation ITU-T X.683 | ISO/IEC 8824-4 defines the provisions for
     parameterized reference names and parameterized assignments for data types which
     are useful for the designer when writing specifications where some aspects are
     left undefined at certain stages of the development to be filled in at a later
-    stage to produce a complete definition of an abstract syntax.\r\n"
+    stage to produce a complete definition of an abstract syntax.
+    '
 status:
   stage:
     content: Withdrawal

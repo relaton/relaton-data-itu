@@ -53,18 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Given the requirements of recently developed video services, media contents
-    are required to be processed before transmission through a content delivery network
-    (CDN). For example, media contents are required to be transcoded adaptively according
-    to the quality of the network. Some user generated contents (UGCs) are required
-    to not include specific contents, while other image and text contents are required
-    to be detected, located and identified in order to provide personalized services
-    for consumers. \r\nThe media processing service (MPS) is based on the concept
-    of cloud computing technology and provides a cost-effective, easy-to-use, elastic,
-    ondemand and highly scalable method to process audio and video in various video-related
-    services. Recommendation ITU-T H.644.8 identifies requirements and architecture
-    for audio and video processing via a management platform for the media processing
-    service.\r\n"
+  content: "Given the requirements of recently developed video services, media contents are required to be processed before transmission through a content delivery network (CDN). For example, media contents are required to be transcoded adaptively according to the quality of the network. Some user generated contents (UGCs) are required to not include specific contents, while other image and text contents are required to be detected, located and identified in order to provide personalized services for consumers. \r\nThe media processing service (MPS) is based on the concept of cloud computing technology and provides a cost-effective, easy-to-use, elastic, ondemand and highly scalable method to process audio and video in various video-related services. Recommendation ITU-T H.644.8 identifies requirements and architecture for audio and video processing via a management platform for the media processing service.\r\n"
 status:
   stage:
     content: Published

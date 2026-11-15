@@ -52,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.56 defines H.248 packages for virtual private
-    network (VPN) support and focuses on Ethernet-based virtual local area networks,
-    representing a network-based layer 2 VPN type.Corrigendum 1 provides the following
-    clarifications for the VLAN package version 1:\r• value range '0 to 4095' of property
-    VLAN tags used for VLAN tagging;\r• value '4096' of property VLAN tags defines
-    the semantic for \"no VLAN tagging\"; and\r• default values for the two package
-    properties may be defined via configuration management."
+  content: "Recommendation ITU-T H.248.56 defines H.248 packages for virtual private network (VPN) support and focuses on Ethernet-based virtual local area networks, representing a network-based layer 2 VPN type.Corrigendum 1 provides the following clarifications for the VLAN package version 1:\r• value range '0 to 4095' of property VLAN tags used for VLAN tagging;\r• value '4096' of property VLAN tags defines the semantic for \"no VLAN tagging\"; and\r• default values for the two package properties may be defined via configuration management."
 status:
   stage:
     content: Published

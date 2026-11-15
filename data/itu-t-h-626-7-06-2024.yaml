@@ -52,11 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.626.7 specifies the architecture of machine vision
+  content: 'Recommendation ITU-T H.626.7 specifies the architecture of machine vision
     systems for supporting the communication between endpoint, application and machine
     vision systems in smart manufacturing, so as to help ender users and providers
     to specify the machine vision tasks and the solutions, enhance confidence in machine
-    vision ecosystem and open new applications for machine vision systems.\r\n"
+    vision ecosystem and open new applications for machine vision systems.
+    '
 status:
   stage:
     content: Published

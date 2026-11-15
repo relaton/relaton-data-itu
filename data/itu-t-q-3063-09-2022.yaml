@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Signalling system No. 7 (SS7) was originally designed for operator management
-    on the assumption that anyone connected to the SS7 network was trustable. In the
-    current network environment however, more and more untrusted devices (including
-    the private automatic branch exchange (PABX), call centre and voice over Internet
-    protocol (VoIP) access system,) are appearing that interconnect to a public land
-    mobile network/public switched telephone network or PLMN/PSTN. As a result, calling
-    line identification spoofing is particularly effective at defeating call blockers,
-    thus leading to a variety of scams that work by avoiding identification.\r\nThe
-    goal of Recommendation ITU-T Q.3063 is to identify the signalling requirements
-    of calling line identification authentication including codes and signalling procedures
-    based on the mechanism defined in Recommendation ITU-T Q.3057.\r\n"
+  content: "Signalling system No. 7 (SS7) was originally designed for operator management on the assumption that anyone connected to the SS7 network was trustable. In the current network environment however, more and more untrusted devices (including the private automatic branch exchange (PABX), call centre and voice over Internet protocol (VoIP) access system,) are appearing that interconnect to a public land mobile network/public switched telephone network or PLMN/PSTN. As a result, calling line identification spoofing is particularly effective at defeating call blockers, thus leading to a variety of scams that work by avoiding identification.\r\nThe goal of Recommendation ITU-T Q.3063 is to identify the signalling requirements of calling line identification authentication including codes and signalling procedures based on the mechanism defined in Recommendation ITU-T Q.3057.\r\n"
 status:
   stage:
     content: Published
@@ -328,9 +318,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -340,8 +330,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

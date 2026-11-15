@@ -53,23 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The changes being experienced in weather conditions and the aging of materials
-    may cause damage to base stations, which will affect network service quality and
-    even cause safety incidents. Network operators need to carry out timely and periodic
-    inspection and maintenance operations. Due to the long-term, high-intensity and
-    high-altitude nature of these operations, the base station inspection (BSI) services
-    conducted manually are dangerous, inefficient and costly. \r\n\r\nUnmanned aerial
-    vehicles (UAVs) with mature flight control and sensing capabilities can be used
-    not only in the normal working environment but also in some extreme working environments.
-    Therefore, BSI using UAVs can replace most manual inspections through a network
-    connection and reduce the risk of inspection and ensure the safety of personnel.
-    \r\n\r\nTo achieve automation functions, the UAV needs to bear corresponding flight
-    control, sensing and capturing, and communication capabilities, and it is necessary
-    to develop a BSI supporting platform with corresponding functions to fulfil the
-    automation and safety requirements of BSI services using UAVs. \r\n\r\nRecommendation
-    ITU-T Y.4559 describes requirements and functional architecture of BSI services
-    using UAVs. It focuses on how to effectively provide inspection services for the
-    base station using BSI-dedicated UAVs (BSI-UAVs). \r\n"
+  content: "The changes being experienced in weather conditions and the aging of materials may cause damage to base stations, which will affect network service quality and even cause safety incidents. Network operators need to carry out timely and periodic inspection and maintenance operations. Due to the long-term, high-intensity and high-altitude nature of these operations, the base station inspection (BSI) services conducted manually are dangerous, inefficient and costly. \r\n\r\nUnmanned aerial vehicles (UAVs) with mature flight control and sensing capabilities can be used not only in the normal working environment but also in some extreme working environments. Therefore, BSI using UAVs can replace most manual inspections through a network connection and reduce the risk of inspection and ensure the safety of personnel. \r\n\r\nTo achieve automation functions, the UAV needs to bear corresponding flight control, sensing and capturing, and communication capabilities, and it is necessary to develop a BSI supporting platform with corresponding functions to fulfil the automation and safety requirements of BSI services using UAVs. \r\n\r\nRecommendation ITU-T Y.4559 describes requirements and functional architecture of BSI services using UAVs. It focuses on how to effectively provide inspection services for the base station using BSI-dedicated UAVs (BSI-UAVs). \r\n"
 status:
   stage:
     content: Published
@@ -110,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -183,8 +168,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -204,7 +189,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -246,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -257,7 +241,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -289,8 +274,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

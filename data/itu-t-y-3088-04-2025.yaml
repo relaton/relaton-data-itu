@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3088 specifies the requirements and functional
+  content: 'Recommendation ITU-T Y.3088 specifies the requirements and functional
     framework of information-centric networking (ICN) as the underlying network to
     support distributed ledger technology (DLT) in networks beyond IMT-2020. It discusses
     the advantages and describes the requirements of using ICN to support DLT from
     the aspects of ledger storage and ledger consensus. It also specifies the functional
     framework, which includes naming and mapping, reliable and scalable multicast,
-    reliable and persistent storage, and security.\r\n"
+    reliable and persistent storage, and security.
+    '
 status:
   stage:
     content: Published
@@ -89,7 +90,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -132,8 +133,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

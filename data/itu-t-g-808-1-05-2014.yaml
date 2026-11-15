@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.808.1 defines the generic functional models, characteristics
-    and processes associated with various linear protection schemes for circuit-switched
-    connection-oriented layer networks; e.g., optical transport networks (OTN), synchronous
-    digital hierarchy (SDH) networks and packet-switched layer networks, e.g., asynchronous
-    transfer mode (ATM) networks and Ethernet transport networks.\r\nIt also defines
-    the objectives and applications for these schemes. Protection schemes described
-    in this Recommendation are trail protection and subnetwork connection protection
-    with various monitoring alternatives for individual signals or groups of signals.
-    Furthermore, survivability offered by the link capacity adjustment scheme (LCAS)
-    is described.\r\nGeneric functional models, characteristics and processes for
-    ring protection and interconnected subnetwork (e.g., ring) protection schemes
-    are defined in other Recommendations."
+  content: "Recommendation ITU-T G.808.1 defines the generic functional models, characteristics and processes associated with various linear protection schemes for circuit-switched connection-oriented layer networks; e.g., optical transport networks (OTN), synchronous digital hierarchy (SDH) networks and packet-switched layer networks, e.g., asynchronous transfer mode (ATM) networks and Ethernet transport networks.\r\nIt also defines the objectives and applications for these schemes. Protection schemes described in this Recommendation are trail protection and subnetwork connection protection with various monitoring alternatives for individual signals or groups of signals. Furthermore, survivability offered by the link capacity adjustment scheme (LCAS) is described.\r\nGeneric functional models, characteristics and processes for ring protection and interconnected subnetwork (e.g., ring) protection schemes are defined in other Recommendations."
 status:
   stage:
     content: Published

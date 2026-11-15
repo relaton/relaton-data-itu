@@ -52,27 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In an information security management system (ISMS) based on Recommendation
-    ITU-T X.1051 and ISO/IEC Standards 27001 and 27002, physical security is a key
-    issue. The electromagnetic interference caused by a high-power electromagnetic
-    (HPEM) attack and the ability to intercept information due to unintentional electromagnetic
-    emissions of equipment are significantly determined by the applied physical security
-    measures.\r\nWhen information security is managed, it is necessary to evaluate
-    and mitigate the threat to either the equipment or the site. This threat is related
-    to \"vulnerability\" and \"confidentiality\" in ISMS.\r\nRecommendation ITU-T
-    K.81 presents guidance on establishing the threat level presented by an intentional
-    HPEM attack and the physical security measures that may be used to minimize this
-    threat. ITU-T K-Supplement 5 provides the calculation results of the intentional
-    HPEM threats. The HPEM sources considered are those presented in IEC 61000-2-13,
-    as well as some additional sources that have emerged more recently.\r\nRecommendation
-    ITU-T K.81 also provides information on the vulnerability of equipment. The example
-    of vulnerability is provided in ITU-T K-Supplement 5. The equipment is assumed
-    to meet the immunity requirements presented in Recommendation ITUT K.48 and relevant
-    resistibility requirements, such as those described in Recommendations ITU-T K.20,
-    ITU-T K.21 and ITU-T K.45.\r\nThe 2016 version of this Recommendation deleted
-    Appendices I, II and III. Appendix I was republished as Supplement 5 to the K-series
-    Recommendations, and the relevant parts of Appendix II were transferred to ITU-T
-    K.115.\r\n"
+  content: "In an information security management system (ISMS) based on Recommendation ITU-T X.1051 and ISO/IEC Standards 27001 and 27002, physical security is a key issue. The electromagnetic interference caused by a high-power electromagnetic (HPEM) attack and the ability to intercept information due to unintentional electromagnetic emissions of equipment are significantly determined by the applied physical security measures.\r\nWhen information security is managed, it is necessary to evaluate and mitigate the threat to either the equipment or the site. This threat is related to \"vulnerability\" and \"confidentiality\" in ISMS.\r\nRecommendation ITU-T K.81 presents guidance on establishing the threat level presented by an intentional HPEM attack and the physical security measures that may be used to minimize this threat. ITU-T K-Supplement 5 provides the calculation results of the intentional HPEM threats. The HPEM sources considered are those presented in IEC 61000-2-13, as well as some additional sources that have emerged more recently.\r\nRecommendation ITU-T K.81 also provides information on the vulnerability of equipment. The example of vulnerability is provided in ITU-T K-Supplement 5. The equipment is assumed to meet the immunity requirements presented in Recommendation ITUT K.48 and relevant resistibility requirements, such as those described in Recommendations ITU-T K.20, ITU-T K.21 and ITU-T K.45.\r\nThe 2016 version of this Recommendation deleted Appendices I, II and III. Appendix I was republished as Supplement 5 to the K-series Recommendations, and the relevant parts of Appendix II were transferred to ITU-T K.115.\r\n"
 status:
   stage:
     content: Published

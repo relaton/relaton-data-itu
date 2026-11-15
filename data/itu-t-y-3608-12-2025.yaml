@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3608 presents the rationale for the exploitation
+  content: 'Recommendation ITU-T Y.3608 presents the rationale for the exploitation
     of big data and artificial intelligence technologies in developing countries.
     It proposes a reference architecture from the perspective of adopting these technologies
     and indicates requirements to guide decision-making in some use cases in which
-    these technologies are applied in developing countries.\r\n"
+    these technologies are applied in developing countries.
+    '
 status:
   stage:
     content: Published
@@ -77,7 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3600-series – Big data and data handling standardization roadmap
+      content: ITU-T Y.3600-series – Big data and data handling standardization
+        roadmap
     docidentifier:
     - content: Y Suppl. 40 (11/2023)
       type: ITU
@@ -97,7 +99,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -128,8 +130,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

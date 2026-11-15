@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides audio performance requirements and associated
-    testing methods for telephone band (300-3400 Hz) digital telephones.Requirements
-    and test methods are specified for the major audio transmission parameters including
-    Sending and Receiving Loudness Ratings, frequency response, noise, distortion,
-    spurious signals, sidetone, echo path and delay.This Recommendation is only applicable
-    to digital telephones using encoding conforming to ITU-T Recs G.711 (64 kbit/s,
-    PCM) and G.726 (32 kbit/s, ADPCM).Changes over the previous ITU-T Rec. P.310 (05/2000)
-    are as follows:\r• The weighted Terminal Coupling Loss (TCLw) requirement of digital
-    handsets is increased from 40 dB to 45 dB to meet the G.131 requirement.\r• A
-    new test method is described as a suitable means to measure the increased TCLw
-    limit.\r• The Sidetone Masking Rating (STMR) requirement is modified. The STMR
-    range is increased from 10 dB to 15 dB, to a range of 10 dB to 20 dB. This range
-    now applies to all volume conditions.These changes improve the speech quality
-    of these digital handsets by reducing the occurrence of talker echo at the far-end,
-    and improper sidetone levels at the near-end."
+  content: "This Recommendation provides audio performance requirements and associated testing methods for telephone band (300-3400 Hz) digital telephones.Requirements and test methods are specified for the major audio transmission parameters including Sending and Receiving Loudness Ratings, frequency response, noise, distortion, spurious signals, sidetone, echo path and delay.This Recommendation is only applicable to digital telephones using encoding conforming to ITU-T Recs G.711 (64 kbit/s, PCM) and G.726 (32 kbit/s, ADPCM).Changes over the previous ITU-T Rec. P.310 (05/2000) are as follows:\r• The weighted Terminal Coupling Loss (TCLw) requirement of digital handsets is increased from 40 dB to 45 dB to meet the G.131 requirement.\r• A new test method is described as a suitable means to measure the increased TCLw limit.\r• The Sidetone Masking Rating (STMR) requirement is modified. The STMR range is increased from 10 dB to 15 dB, to a range of 10 dB to 20 dB. This range now applies to all volume conditions.These changes improve the speech quality of these digital handsets by reducing the occurrence of talker echo at the far-end, and improper sidetone levels at the near-end."
 status:
   stage:
     content: Withdrawal

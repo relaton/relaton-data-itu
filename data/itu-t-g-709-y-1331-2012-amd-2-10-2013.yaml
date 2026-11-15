@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to Recommendation ITU-T G.709/Y.1331 (2012) contains extensions
-    related to the:\r\n–\taddition of a low latency 1.25G OTU0 for deployment at the
-    edge of an optical transport network (clauses 2, 3.2, 4, 11.1 and Annex G),\r\n–\taddition
-    of overhead (OH) type, trail trace identifier (TTI) and nominal central frequency
-    overhead and transport of this overhead plus OCh FDI-P, FDI-O and OCI overhead
-    over a multi-vendor IaDI (clauses 15.5.4, 15.5.4.1 and 15.5.4.2).\r\n"
+  content: "Amendment 2 to Recommendation ITU-T G.709/Y.1331 (2012) contains extensions related to the:\r\n–\taddition of a low latency 1.25G OTU0 for deployment at the edge of an optical transport network (clauses 2, 3.2, 4, 11.1 and Annex G),\r\n–\taddition of overhead (OH) type, trail trace identifier (TTI) and nominal central frequency overhead and transport of this overhead plus OCh FDI-P, FDI-O and OCI overhead over a multi-vendor IaDI (clauses 15.5.4, 15.5.4.1 and 15.5.4.2).\r\n"
 status:
   stage:
     content: Withdrawal

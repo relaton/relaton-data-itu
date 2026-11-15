@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.81 provides guidelines on the use of the international
-    emergency preference scheme (IEPS) call indicator and priority indicator in ITU-T
-    H.248 profiles for ITU T H.323 and NGN systems. These guidelines may be used by
-    other standards development organizations (SDOs) when defining their profiles
-    in support of priority services, e.g., the emergency telecommunications service
-    (ETS) and the multimedia priority service (MPS).\r\nAmendment 1 to Recommendation
-    ITU-T H.248.81 (2011/05) introduces additions and corrections to the Recommendation
-    and adds Appendix II, \"Use of ECN in the context of ETS traffic\".\r\nAmendment
-    2 to Recommendation ITU-T H.248.81 (2011/05) includes additions to the Recommendation
-    in support of marking priority calls using the DiffServ signalling package as
-    defined in Recommendation ITU-T H.248.52.\r\n"
+  content: "Recommendation ITU-T H.248.81 provides guidelines on the use of the international emergency preference scheme (IEPS) call indicator and priority indicator in ITU-T H.248 profiles for ITU T H.323 and NGN systems. These guidelines may be used by other standards development organizations (SDOs) when defining their profiles in support of priority services, e.g., the emergency telecommunications service (ETS) and the multimedia priority service (MPS).\r\nAmendment 1 to Recommendation ITU-T H.248.81 (2011/05) introduces additions and corrections to the Recommendation and adds Appendix II, \"Use of ECN in the context of ETS traffic\".\r\nAmendment 2 to Recommendation ITU-T H.248.81 (2011/05) includes additions to the Recommendation in support of marking priority calls using the DiffServ signalling package as defined in Recommendation ITU-T H.248.52.\r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3534 provides an overview and functional requirements
+  content: 'Recommendation ITU-T Y.3534 provides an overview and functional requirements
     of function as a service (FaaS). It introduces the definition and advantages of
     FaaS and describes the logical components of FaaS and the lifecycle of functions
     in FaaS. It provides typical use cases of FaaS and specifies its functional requirements
@@ -60,7 +60,8 @@ abstract:
     elastic resource support, operation and maintenance support, and measuring and
     billing support. It also provides a relationship analysis between FaaS, infrastructure
     as a service (IaaS), platform as a service (PaaS), software as a service (SaaS)
-    and serverless computing.\r\n"
+    and serverless computing.
+    '
 status:
   stage:
     content: Published
@@ -111,7 +112,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -132,8 +133,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

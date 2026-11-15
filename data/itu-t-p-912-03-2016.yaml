@@ -52,14 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.912 defines subjective assessment methods for evaluating
-    the quality of one-way video used for target recognition tasks. \"Target\" refers
+  content: 'Recommendation ITU-T P.912 defines subjective assessment methods for evaluating
+    the quality of one-way video used for target recognition tasks. "Target" refers
     to something in the video that the viewer needs to identify (e.g., a face, object,
     or number). Target recognition video (TRV) is video that is used as a tool in
     order to accomplish a specific goal through the ability to recognize specific
     targets of interest in a video stream. TRV can be used in various video services
     such as surveillance, human identification, license plate identification, telemedicine,
-    robot control and remote monitoring and decision making.\r\n"
+    robot control and remote monitoring and decision making.
+    '
 status:
   stage:
     content: Published

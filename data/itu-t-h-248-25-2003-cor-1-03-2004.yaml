@@ -47,13 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "ITU-T Rec. H.248.25 defines Basic Channel Associated Signalling (CAS)
-    and R1 packages and supplemental CAS packages that, in association with the H.248
-    Protocol, can be used to control a Media Gateway (MG) from an external Media Gateway
-    controller (MGC). Changes incorporated by this corrigendum are:\r• Addition of
-    missing parameter;\r• Addition of missing PackageID for bcasaddr;\r• Clarification
-    of digitmap mapping reference for DTMF digits;\r• Correction of casf return code
-    usage."
+  content: "ITU-T Rec. H.248.25 defines Basic Channel Associated Signalling (CAS) and R1 packages and supplemental CAS packages that, in association with the H.248 Protocol, can be used to control a Media Gateway (MG) from an external Media Gateway controller (MGC). Changes incorporated by this corrigendum are:\r• Addition of missing parameter;\r• Addition of missing PackageID for bcasaddr;\r• Clarification of digitmap mapping reference for DTMF digits;\r• Correction of casf return code usage."
 status:
   stage:
     content: Withdrawal

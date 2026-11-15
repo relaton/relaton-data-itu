@@ -52,10 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8272.2 specifies requirements for coherent network
+  content: 'Recommendation ITU-T G.8272.2 specifies requirements for coherent network
     primary reference time clocks suitable for time, phase and frequency synchronization
     in networks. These requirements apply under the normal environmental conditions
-    specified for the equipment.\r\n"
+    specified for the equipment.
+    '
 status:
   stage:
     content: Published

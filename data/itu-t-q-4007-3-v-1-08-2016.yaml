@@ -53,13 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This recommendation is a part 3 of the testing specifications for Explicit
-    Communication Transfer (ECT) using IP Multimedia core network subsystem for the
-    user side. The standard specifies the Test Suite Structure and Test Purposes (TSS&TP)
-    for the user side which can be used for testing against the Recommendation ITU-T
-    Q.3623 v.1.\r\n\r\nThe version number, v.1, indicates that this is version one
-    of Recommendation ITU-T Q.4007.3, and that it relates to Release 10 of the relevant
-    3GPP/ETSI standard.\r\n"
+  content: "This recommendation is a part 3 of the testing specifications for Explicit Communication Transfer (ECT) using IP Multimedia core network subsystem for the user side. The standard specifies the Test Suite Structure and Test Purposes (TSS&TP) for the user side which can be used for testing against the Recommendation ITU-T Q.3623 v.1.\r\n\r\nThe version number, v.1, indicates that this is version one of Recommendation ITU-T Q.4007.3, and that it relates to Release 10 of the relevant 3GPP/ETSI standard.\r\n"
 status:
   stage:
     content: Published
@@ -317,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -329,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

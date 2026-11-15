@@ -51,10 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to ITU-T G.722 introduces Annex E, which provides a list of
-    software routines, their description and associated C-code for a reference floating-point
-    implementation of the ITU-T G.722 Annex D coding algorithm.\r\nThe electronic
-    attachment contains ANSI-C source code, which is an integral part of Annex E."
+  content: "Amendment 1 to ITU-T G.722 introduces Annex E, which provides a list of software routines, their description and associated C-code for a reference floating-point implementation of the ITU-T G.722 Annex D coding algorithm.\r\nThe electronic attachment contains ANSI-C source code, which is an integral part of Annex E."
 status:
   stage:
     content: Published

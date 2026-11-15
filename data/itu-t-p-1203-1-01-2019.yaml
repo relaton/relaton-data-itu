@@ -54,29 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1203.1 specifies the short-term video representation
-    quality estimation modules for ITU-T P.1203 (Pv module). The ITU-T P.1203-series
-    of Recommendations specifies modules for a set of model algorithms for monitoring
-    the integral media session quality for transport control protocol (TCP) type video
-    streaming. The models comprise modules for short-term video-quality (described
-    in this part of the Recommendation family) and audio-quality estimation. The per-one-second
-    outputs of these short-term modules are integrated into estimates of audio-visual
-    quality and together with information about initial loading delay and media playout
-    stalling events, they are further integrated into the final model output, to provide
-    an estimate of integral quality. The respective ITU-T work item has formerly been
-    referred to as \"Parametric non-intrusive assessment of TCP-based multimedia streaming
-    quality\", or \"P.NATS\". The ITU‑T P.1203.1 part of ITU-T P.1203 provides details
-    for the modules for bit stream-based, short-term video quality estimation. \r\n\r\nFour
-    different modes can be used for the Pv module specified in this Recommendation.
-    These modes – referred to as mode 0 to 3 – use input information of differing
-    complexity and amount and represent four model algorithms each with a different
-    level of complexity. The Pv modules comprise components reflecting the effects
-    due to video compression, up-scaling of content and the effect due to low frame
-    rates. The four different modes use the same overall model architecture and individual
-    coefficients and all have the same components for up-scaling and framerate. The
-    only Pv module component that differs between modes is the Pv module component
-    related to video compression. \r\n\r\nThis revision to Recommendation ITU-T P.1203.1
-    (10/2007) replaces the scale factor defined in clause 8.\r\n\r\n"
+  content: "Recommendation ITU-T P.1203.1 specifies the short-term video representation quality estimation modules for ITU-T P.1203 (Pv module). The ITU-T P.1203-series of Recommendations specifies modules for a set of model algorithms for monitoring the integral media session quality for transport control protocol (TCP) type video streaming. The models comprise modules for short-term video-quality (described in this part of the Recommendation family) and audio-quality estimation. The per-one-second outputs of these short-term modules are integrated into estimates of audio-visual quality and together with information about initial loading delay and media playout stalling events, they are further integrated into the final model output, to provide an estimate of integral quality. The respective ITU-T work item has formerly been referred to as \"Parametric non-intrusive assessment of TCP-based multimedia streaming quality\", or \"P.NATS\". The ITU‑T P.1203.1 part of ITU-T P.1203 provides details for the modules for bit stream-based, short-term video quality estimation. \r\n\r\nFour different modes can be used for the Pv module specified in this Recommendation. These modes – referred to as mode 0 to 3 – use input information of differing complexity and amount and represent four model algorithms each with a different level of complexity. The Pv modules comprise components reflecting the effects due to video compression, up-scaling of content and the effect due to low frame rates. The four different modes use the same overall model architecture and individual coefficients and all have the same components for up-scaling and framerate. The only Pv module component that differs between modes is the Pv module component related to video compression. \r\n\r\nThis revision to Recommendation ITU-T P.1203.1 (10/2007) replaces the scale factor defined in clause 8.\r\n\r\n"
 status:
   stage:
     content: Published

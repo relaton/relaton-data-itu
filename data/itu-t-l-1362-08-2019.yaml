@@ -53,13 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.1362 specifies a data model for energy discrete
-    states within virtualized networks, and operations to interact on this model.\r\n\r\nIn
-    virtualized networks, establishing a mapping between the energy discrete states
-    of logical entities (e.g., virtualized network functions) and the energy consumption
-    of the hardware hosting the virtual machines that execute these logical entities
-    is a challenging task. Recommendation ITU-T L.1362 adapts the green abstraction
-    layer specification (GALv1) to virtualized networks."
+  content: "Recommendation ITU-T L.1362 specifies a data model for energy discrete states within virtualized networks, and operations to interact on this model.\r\n\r\nIn virtualized networks, establishing a mapping between the energy discrete states of logical entities (e.g., virtualized network functions) and the energy consumption of the hardware hosting the virtual machines that execute these logical entities is a challenging task. Recommendation ITU-T L.1362 adapts the green abstraction layer specification (GALv1) to virtualized networks."
 status:
   stage:
     content: Withdrawal

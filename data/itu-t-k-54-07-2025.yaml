@@ -52,11 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.54 presents the simplified immunity test method,
+  content: 'Recommendation ITU-T K.54 presents the simplified immunity test method,
     the test procedure and the immunity test level for equipment with telecommunication
     ports connected to external telecommunication lines against conducted disturbances
     that can be induced on telecommunication lines by a.c. power or electrified railway
-    lines under normal operating conditions.\r\n"
+    lines under normal operating conditions.
+    '
 status:
   stage:
     content: Published

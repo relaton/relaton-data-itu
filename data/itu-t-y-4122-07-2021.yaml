@@ -53,20 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The gateway is an important component of Internet of things (IoT) systems,
-    enabling IoT devices to connect to communication networks. Edge computing technologies
-    can benefit the IoT, providing computation, storage, networking and intelligence
-    in proximity to IoT devices. Compared with the common gateway [ITU-T Y.4101],
-    the edge-computing-enabled gateway in the IoT (EC-enabled IoT gateway) has additional
-    capabilities supporting service layer interworking, and application layer interworking
-    between IoT devices, IoT platforms and IoT application servers. In addition, the
-    EC-enabled IoT gateway supports data transmission capabilities for IoT applications
-    sensitive to time, latency, jitter and packet loss. Based on the common requirements
-    and capabilities of a gateway for IoT applications [ITU-T Y.4101] and IoT requirements
-    for support of edge computing [ITU-T Y.4208], additional capabilities and capability
-    framework of the edge-computing-enabled gateway in the IoT are specified. Examples
-    of applicability of the edge-computing-enabled gateway in the IoT are also given.
-    \r\n"
+  content: "The gateway is an important component of Internet of things (IoT) systems, enabling IoT devices to connect to communication networks. Edge computing technologies can benefit the IoT, providing computation, storage, networking and intelligence in proximity to IoT devices. Compared with the common gateway [ITU-T Y.4101], the edge-computing-enabled gateway in the IoT (EC-enabled IoT gateway) has additional capabilities supporting service layer interworking, and application layer interworking between IoT devices, IoT platforms and IoT application servers. In addition, the EC-enabled IoT gateway supports data transmission capabilities for IoT applications sensitive to time, latency, jitter and packet loss. Based on the common requirements and capabilities of a gateway for IoT applications [ITU-T Y.4101] and IoT requirements for support of edge computing [ITU-T Y.4208], additional capabilities and capability framework of the edge-computing-enabled gateway in the IoT are specified. Examples of applicability of the edge-computing-enabled gateway in the IoT are also given. \r\n"
 status:
   stage:
     content: Published
@@ -86,7 +73,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -159,8 +147,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -180,7 +168,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -222,8 +210,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -233,7 +220,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -265,8 +253,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

@@ -52,23 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation is the first of the ITU-T Q.124x series of Recommendations
-    devoted to IN CS-4, which builds on the architectural principles of IN as described
-    in the preceding IN CS-1 (ITU-T Q.121x), IN CS-2 (ITU-T Q.122x) and the IN CS-3
-    (ITU-T Q.123x) series of Recommendations. Intelligent Network Capability Set 4
-    (IN CS-4) is the fourth standardized stage of the Intelligent Network (IN) as
-    an architectural concept for the creation and provision of services, including
-    telecommunication services, service creation and management. This Recommendation
-    gives an introduction to IN CS-4 and describes the main characteristics and overall
-    capabilities of IN CS-4. It includes the CS-4 functional architecture relationships
-    plus service and network aspects that form the basis of the IN CS-4 capabilities.
-    CS-4 Service Features are listed and possible inter-networking scenarios between
-    IN and non-IN structured networks are also described.The IN CS-4 Recommendations
-    form a detailed and stable basis for implementing IN CS-4 telecommunication services.
-    They also provide high level guidelines for supporting:\r• service management;\r•
-    service creation, and \r• some partially supported telecommunication services.
-    The IN CS-4 Recommendations are intended to give the same degree of technical
-    information as the IN CS-3 Recommendations"
+  content: "This Recommendation is the first of the ITU-T Q.124x series of Recommendations devoted to IN CS-4, which builds on the architectural principles of IN as described in the preceding IN CS-1 (ITU-T Q.121x), IN CS-2 (ITU-T Q.122x) and the IN CS-3 (ITU-T Q.123x) series of Recommendations. Intelligent Network Capability Set 4 (IN CS-4) is the fourth standardized stage of the Intelligent Network (IN) as an architectural concept for the creation and provision of services, including telecommunication services, service creation and management. This Recommendation gives an introduction to IN CS-4 and describes the main characteristics and overall capabilities of IN CS-4. It includes the CS-4 functional architecture relationships plus service and network aspects that form the basis of the IN CS-4 capabilities. CS-4 Service Features are listed and possible inter-networking scenarios between IN and non-IN structured networks are also described.The IN CS-4 Recommendations form a detailed and stable basis for implementing IN CS-4 telecommunication services. They also provide high level guidelines for supporting:\r• service management;\r• service creation, and \r• some partially supported telecommunication services. The IN CS-4 Recommendations are intended to give the same degree of technical information as the IN CS-3 Recommendations"
 status:
   stage:
     content: Published
@@ -326,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -338,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

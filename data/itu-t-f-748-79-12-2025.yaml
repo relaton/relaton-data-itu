@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "AI-based multimedia data generation systems require cloud computing capabilities
+  content: 'AI-based multimedia data generation systems require cloud computing capabilities
     for training large-scale models with over billions of parameters but which can
     experience high latency due to the remote nature of the cloud. Edge servers can
     offer lightweight model training, fine-tuning and real-time inference services,
     which are less computationally and storage intensive. Therefore, Recommendation
     ITUT F.748.79 identifies a reference framework and requirements of AI-based multimedia
     data generation systems using a core cloud and edge cloud. Use cases are also
-    provided in an appendix.\r\n"
+    provided in an appendix.
+    '
 status:
   stage:
     content: Published

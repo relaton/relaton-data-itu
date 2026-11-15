@@ -47,21 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9960 belongs to the family of ITU-T G.996x Recommendations.
-    Recommendation ITU-T G.9960 specifies the system architecture and physical (PHY)
-    layer for wireline-based home networking transceivers which are capable of operating
-    over premises' wiring, including inside telephone wiring, coaxial cable, and power-line
-    wiring. It complements the data link layer (DLL) specification in Recommendation
-    ITU T G.9961, and the power spectral density (PSD) specification in Recommendation
-    ITU-T G.9964.\r\nAmendment 1 includes the extension of the Recommendation to operate
-    on an extended bandwidth over coaxial and phoneline mediums, multi-level coding
-    and RCM schemes.\r\nAmendment 2 includes a new Annex R on the use of reverse power
-    feeding techniques for G.hn over coaxial media, and adds a field to the PHY frame
-    header of the MAP to better control PSD levels in complex networks such as those
-    for Smart Grid applications.\r\nCorrigendum 2 corrects the duration of MSG, BMSG
-    and BACK frames, corrects a test vector in clause G.4.1, and reserves PROBE frame
-    and BACK PHY-frame type field values for use by ITU-T G.9963.\r\nAmendment 3 provides
-    updates to account for revisions to IEEE 802.1Q.\r\n"
+  content: "Recommendation ITU-T G.9960 belongs to the family of ITU-T G.996x Recommendations. Recommendation ITU-T G.9960 specifies the system architecture and physical (PHY) layer for wireline-based home networking transceivers which are capable of operating over premises' wiring, including inside telephone wiring, coaxial cable, and power-line wiring. It complements the data link layer (DLL) specification in Recommendation ITU T G.9961, and the power spectral density (PSD) specification in Recommendation ITU-T G.9964.\r\nAmendment 1 includes the extension of the Recommendation to operate on an extended bandwidth over coaxial and phoneline mediums, multi-level coding and RCM schemes.\r\nAmendment 2 includes a new Annex R on the use of reverse power feeding techniques for G.hn over coaxial media, and adds a field to the PHY frame header of the MAP to better control PSD levels in complex networks such as those for Smart Grid applications.\r\nCorrigendum 2 corrects the duration of MSG, BMSG and BACK frames, corrects a test vector in clause G.4.1, and reserves PROBE frame and BACK PHY-frame type field values for use by ITU-T G.9963.\r\nAmendment 3 provides updates to account for revisions to IEEE 802.1Q.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -256,7 +242,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wire-line based home networking transceivers – Foundation
+      content: Unified high-speed wire-line based home networking transceivers –
+        Foundation
     docidentifier:
     - content: G.9960 (10/2009)
       type: ITU

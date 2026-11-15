@@ -53,17 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines signals to be exchanged between DCEs over
-    the PSTN when a session of data transmission needs to be established, but before
-    signals are exchanged which are specific to a particular modem Recommendation.
-    It provides means to automatically determine the best available operational mode
-    between two DCEs connected via the PSTN, provides a timely indication to Circuit
-    Multiplication Equipments on the ITU-T V-Series modulation to be employed in a
-    new session of data transmission, provides a means to enable a PSTN call to be
-    passed on automatically to an appropriate DCE, and provides signals for interacting
-    with PSTN echo-control equipment. \r\nThis revised Recommendation defines additional
-    call function types, defines procedures for the exchange of non-standard facilities
-    information, and adds support for ITU-T V.90 modulation modes."
+  content: "This Recommendation defines signals to be exchanged between DCEs over the PSTN when a session of data transmission needs to be established, but before signals are exchanged which are specific to a particular modem Recommendation. It provides means to automatically determine the best available operational mode between two DCEs connected via the PSTN, provides a timely indication to Circuit Multiplication Equipments on the ITU-T V-Series modulation to be employed in a new session of data transmission, provides a means to enable a PSTN call to be passed on automatically to an appropriate DCE, and provides signals for interacting with PSTN echo-control equipment. \r\nThis revised Recommendation defines additional call function types, defines procedures for the exchange of non-standard facilities information, and adds support for ITU-T V.90 modulation modes."
 status:
   stage:
     content: Withdrawal

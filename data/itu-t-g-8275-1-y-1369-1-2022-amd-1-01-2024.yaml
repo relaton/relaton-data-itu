@@ -47,19 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275.1/Y.1369.1 contains the ITU-T precision time
-    protocol (PTP) profile for phase and time distribution with full timing support
-    from the network. It provides the necessary details to utilize IEEE 1588 in a
-    manner consistent with the architecture described in Recommendation ITUT G.8275.\r\nAmendment
-    1 incorporates the following updates:\r\n1Clarifications on some dataset members
-    use in the dataset comparison algorithm;\r\n2Updates to PTSF functionality to
-    include monitoring ports;\r\n3Clarifies the setting of the frequencyTraceable
-    flag;\r\n4Clarifies defaultDS.deviceType;\r\n5Adds performance monitoring Annex
-    F of Recommendation ITUT G.8275 as an optional feature of this profile;\r\n6Adds
-    clarification to Annex G and Annex K;\r\n7Revises terminology based on inclusive
-    language;\r\n8Adds new dataset members into Table A.1 and Table A.5;\r\n9Adds
-    new profileVersion 2.6 and 2.7 in clauses A.1 and A.11;\r\n10Added Appendices
-    XVI and XVII.\r\n"
+  content: "Recommendation ITU-T G.8275.1/Y.1369.1 contains the ITU-T precision time protocol (PTP) profile for phase and time distribution with full timing support from the network. It provides the necessary details to utilize IEEE 1588 in a manner consistent with the architecture described in Recommendation ITUT G.8275.\r\nAmendment 1 incorporates the following updates:\r\n1Clarifications on some dataset members use in the dataset comparison algorithm;\r\n2Updates to PTSF functionality to include monitoring ports;\r\n3Clarifies the setting of the frequencyTraceable flag;\r\n4Clarifies defaultDS.deviceType;\r\n5Adds performance monitoring Annex F of Recommendation ITUT G.8275 as an optional feature of this profile;\r\n6Adds clarification to Annex G and Annex K;\r\n7Revises terminology based on inclusive language;\r\n8Adds new dataset members into Table A.1 and Table A.5;\r\n9Adds new profileVersion 2.6 and 2.7 in clauses A.1 and A.11;\r\n10Added Appendices XVI and XVII.\r\n"
 status:
   stage:
     content: Withdrawal

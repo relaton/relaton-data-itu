@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 4 to Recommendation ITU-T G.997.2 (2015) includes:\r\n\r\n-
-    Correction to the set of valid values for FRA-TIME\r\n\r\n- Correction to references
-    for actual INP objects\r\n\r\n- Add lacking 15min threshold to short interruptions\r\n"
+  content: "Corrigendum 4 to Recommendation ITU-T G.997.2 (2015) includes:\r\n\r\n- Correction to the set of valid values for FRA-TIME\r\n\r\n- Correction to references for actual INP objects\r\n\r\n- Add lacking 15min threshold to short interruptions\r\n"
 status:
   stage:
     content: Withdrawal

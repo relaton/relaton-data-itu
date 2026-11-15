@@ -47,8 +47,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This amendment adds:\n•\tSupport of High Speed PON (HSP).\n•\tSupport
-    of User Services Platform (USP)."
+  content: |-
+    This amendment adds:
+    •	Support of High Speed PON (HSP).
+    •	Support of User Services Platform (USP).
 status:
   stage:
     content: Withdrawal

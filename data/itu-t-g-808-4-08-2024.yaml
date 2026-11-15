@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.808.4 defines the operation of linear protection
+  content: 'Recommendation ITU-T G.808.4 defines the operation of linear protection
     switching schemes for both fine grain metro transport network (fgMTN) layer network
     and fine grain optical transport network (fgOTN) layer network, including the
-    automatic protection switching (APS) protocol.\r\n"
+    automatic protection switching (APS) protocol.
+    '
 status:
   stage:
     content: Published

@@ -47,18 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.876 describes the management requirements and the
-    information model for network elements (NEs) that contain optical media layer
-    functions defined by ITU-T equipment Recommendations based on the ITU-T G.807
-    architecture, e.g., Recommendation ITU-T G.798.\r\nThe management requirements
-    are based on Recommendation ITU-T G.7710, and the information model is based on
-    ITU-T G.7711 object classes. \r\nThe first version of this Recommendation provides
-    the optical media layer management requirements and information models for the
-    optical transport network (OTN).\r\nAmendment 1 of this Recommendation creates OCh information model, PMS (Physical Media
-    Section) model, the generic structure of the media construct and the use case for point-to-point
-    interfaces. It also updates the requirements of configuration management and performance
-    management, as well as the existing UML model (i.e., OTS, OMS and OTSiA object
-    classes).\r\n"
+  content: "Recommendation ITU-T G.876 describes the management requirements and the information model for network elements (NEs) that contain optical media layer functions defined by ITU-T equipment Recommendations based on the ITU-T G.807 architecture, e.g., Recommendation ITU-T G.798.\r\nThe management requirements are based on Recommendation ITU-T G.7710, and the information model is based on ITU-T G.7711 object classes. \r\nThe first version of this Recommendation provides the optical media layer management requirements and information models for the optical transport network (OTN).\r\nAmendment 1 of this Recommendation creates OCh information model, PMS (Physical Media Section) model, the generic structure of the media construct and the use case for point-to-point interfaces. It also updates the requirements of configuration management and performance management, as well as the existing UML model (i.e., OTS, OMS and OTSiA object classes).\r\n"
 status:
   stage:
     content: Published

@@ -52,40 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes a transmission method for data transport
-    in telecommunications access networks. SHDSL transceivers are designed primarily
-    for duplex operation over mixed gauge two-wire twisted metallic pairs. Optional
-    multi-pair operation is supported for extended reach applications. Optional signal
-    regenerators for both single-pair and multi-pair operation are specified, as well.
-    SHDSL transceivers are capable of supporting selected symmetric user data rates
-    in the range of 192 kbit/s to 2312 kbit/s using a Trellis Coded Pulse Amplitude
-    Modulation (TCPAM) line code. Optional extensions described in Annex F allow user
-    data rates up to 5696 kbit/s. SHDSL transceivers are designed to be spectrally
-    compatible with other transmission technologies deployed in the access network,
-    including other DSL technologies. SHDSL transceivers do not support the use of
-    analogue splitting technology for coexistence with either POTS or ISDN. Regional
-    requirements, including both operational differences and performance requirements,
-    are specified in Annexes A, B and C. Requirements for signal regenerators are
-    specified in Annex D. Annex E describes application-specific framing modes that
-    may be supported by SHDSL transceivers.See Annex H/G.992.1 [1] for specifications
-    of transceivers for use in networks with existing TCM-ISDN service (as specified
-    in Appendix III/G.961, in Bibliography [B1]).HistoryWith respect to the previous
-    version 1 (2001), this version 2 introduces the following additions and modifications:\r•
-    The optional four-wire mode has been extended to a more general multi-pair mode
-    which provides optional support for up to four-pair connections. See 7.2.1.5.
-    Note that the integrity of the optional 4-wire mode in revision 1 is preserved.
-    The four-wire mode is identical to M-pair mode with M = 2, except for the method
-    of assigning ordinal numbers to the wire pairs. In four-wire mode, the ordinal
-    numbers (the wire pair identification number) are assigned as described in 6.3,
-    while in M-pair mode the ordinal numbers are assigned to wire pairs as described
-    in 7.2.1.5.\r• The loops and test conditions specified in Annex B have been updated
-    (see B.3.3), and Appendix IV, Tabulation of Annex B Noise Profiles, has been added.\r•
-    Optional extensions, described in Annex F, allow user data rates up to 5696 kbit/s.\r•
-    Deactivation and warm-start, as specified in Annex H, have been added.\r• Support
-    for Dynamic Rate Repartitioning has been added to Dual-Bearer mode. See E.10.3.\r•
-    TPS-TC definitions have been added for Packet Transfer Mode (E.11), Synchronous
-    Transfer Mode with a Dedicated Signalling Channel (E.12), and V5 Encapsulated
-    ISDN or POTS (E.13)."
+  content: "This Recommendation describes a transmission method for data transport in telecommunications access networks. SHDSL transceivers are designed primarily for duplex operation over mixed gauge two-wire twisted metallic pairs. Optional multi-pair operation is supported for extended reach applications. Optional signal regenerators for both single-pair and multi-pair operation are specified, as well. SHDSL transceivers are capable of supporting selected symmetric user data rates in the range of 192 kbit/s to 2312 kbit/s using a Trellis Coded Pulse Amplitude Modulation (TCPAM) line code. Optional extensions described in Annex F allow user data rates up to 5696 kbit/s. SHDSL transceivers are designed to be spectrally compatible with other transmission technologies deployed in the access network, including other DSL technologies. SHDSL transceivers do not support the use of analogue splitting technology for coexistence with either POTS or ISDN. Regional requirements, including both operational differences and performance requirements, are specified in Annexes A, B and C. Requirements for signal regenerators are specified in Annex D. Annex E describes application-specific framing modes that may be supported by SHDSL transceivers.See Annex H/G.992.1 [1] for specifications of transceivers for use in networks with existing TCM-ISDN service (as specified in Appendix III/G.961, in Bibliography [B1]).HistoryWith respect to the previous version 1 (2001), this version 2 introduces the following additions and modifications:\r• The optional four-wire mode has been extended to a more general multi-pair mode which provides optional support for up to four-pair connections. See 7.2.1.5. Note that the integrity of the optional 4-wire mode in revision 1 is preserved. The four-wire mode is identical to M-pair mode with M = 2, except for the method of assigning ordinal numbers to the wire pairs. In four-wire mode, the ordinal numbers (the wire pair identification number) are assigned as described in 6.3, while in M-pair mode the ordinal numbers are assigned to wire pairs as described in 7.2.1.5.\r• The loops and test conditions specified in Annex B have been updated (see B.3.3), and Appendix IV, Tabulation of Annex B Noise Profiles, has been added.\r• Optional extensions, described in Annex F, allow user data rates up to 5696 kbit/s.\r• Deactivation and warm-start, as specified in Annex H, have been added.\r• Support for Dynamic Rate Repartitioning has been added to Dual-Bearer mode. See E.10.3.\r• TPS-TC definitions have been added for Packet Transfer Mode (E.11), Synchronous Transfer Mode with a Dedicated Signalling Channel (E.12), and V5 Encapsulated ISDN or POTS (E.13)."
 status:
   stage:
     content: Published

@@ -47,17 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9802.1 describes the general requirements for wavelength-routed
-    optical distribution network (ODN) based wavelength division multiplexed passive
-    optical networks or WDM-PONs. The general architecture and system level requirements,
-    such as line rates, capacity in terms of channel count, optical line termination
-    (OLT) and optical network unit (ONU) modularity, and security are given. The symmetric
-    nominal line rate combinations of 25 Gbit/s and 10 Gbit/s per wavelength channel
-    are supported. The requirements for a range of relevant applications are described
-    in terms of the needed interfaces, physical layer, operation, synchronization,
-    resilience and protection options.\r\nAmendment 1 adds requirements on failure
-    protection for channel terminations (CTs), ODNs or both in wavelength-routed passive
-    optical networks (PONs).\r\n"
+  content: "Recommendation ITU-T G.9802.1 describes the general requirements for wavelength-routed optical distribution network (ODN) based wavelength division multiplexed passive optical networks or WDM-PONs. The general architecture and system level requirements, such as line rates, capacity in terms of channel count, optical line termination (OLT) and optical network unit (ONU) modularity, and security are given. The symmetric nominal line rate combinations of 25 Gbit/s and 10 Gbit/s per wavelength channel are supported. The requirements for a range of relevant applications are described in terms of the needed interfaces, physical layer, operation, synchronization, resilience and protection options.\r\nAmendment 1 adds requirements on failure protection for channel terminations (CTs), ODNs or both in wavelength-routed passive optical networks (PONs).\r\n"
 status:
   stage:
     content: Published

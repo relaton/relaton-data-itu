@@ -47,20 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9901 specifies the transmitted output voltage in
-    the band 9–535 kHz, the control parameters that determine spectral content, power
-    spectral density (PSD) mask requirements, a set of tools to support the reduction
-    of the transmit PSD, the means to measure this PSD for transmission over power
-    line wiring, as well as the allowable total transmit power into a specified termination
-    impedance.\r\nRecommendation ITU-T G.9901 also complements the system architecture,
-    physical layer (PHY) and data link layer (DLL) specifications in Recommendations
-    ITU-T G.9902 (G.hnem), ITU-T G.9903 (G3-PLC), and ITU-T G.9904 (PRIME).\r\nThis
-    edition contains the following modifications.\r\n–\tThe output voltage limits
-    set for the ITU-T G.9902 FCC-2 bandplan have been extended to ITU-T G.9903 technology
-    and thus placed in the main body. Care has been taken to reference existing standards
-    as far as possible.\r\n–\tThe clarification of the tone masking feature in Annex
-    B.\r\nCorrigendum 1 corrects some errors with CENELEC-B control parameters in
-    Annex B\r\n"
+  content: "Recommendation ITU-T G.9901 specifies the transmitted output voltage in the band 9–535 kHz, the control parameters that determine spectral content, power spectral density (PSD) mask requirements, a set of tools to support the reduction of the transmit PSD, the means to measure this PSD for transmission over power line wiring, as well as the allowable total transmit power into a specified termination impedance.\r\nRecommendation ITU-T G.9901 also complements the system architecture, physical layer (PHY) and data link layer (DLL) specifications in Recommendations ITU-T G.9902 (G.hnem), ITU-T G.9903 (G3-PLC), and ITU-T G.9904 (PRIME).\r\nThis edition contains the following modifications.\r\n–\tThe output voltage limits set for the ITU-T G.9902 FCC-2 bandplan have been extended to ITU-T G.9903 technology and thus placed in the main body. Care has been taken to reference existing standards as far as possible.\r\n–\tThe clarification of the tone masking feature in Annex B.\r\nCorrigendum 1 corrects some errors with CENELEC-B control parameters in Annex B\r\n"
 status:
   stage:
     content: Published

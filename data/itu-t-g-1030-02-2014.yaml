@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.1030 provides a framework of tools to obtain IP
-    network performance, estimate the performance of user applications, and apply
-    perceptual models to gauge user satisfaction with the end-to-end performance.\r\nThe
-    user-perceived performance of data applications on packet networks is dependent
-    on many factors, including the end-to-end performance of the packet network, the
-    application's dependency on the communications network, the performance of the
-    terminals and other devices beyond the purview of the network operator(s), and
-    the user's task and the extent of user interaction with the application. Network
-    designers take these factors into account to assure user satisfaction. Once the
-    application performance has been estimated, perceptual models can be applied to
-    interpret the level of end-to-end performance attained.\r\nThis Recommendation
-    assumes that the reader will be able to provide at least some level of detail
-    about each of the key factors above, and will then use the framework of tools
-    to estimate end-to-end performance."
+  content: "Recommendation ITU-T G.1030 provides a framework of tools to obtain IP network performance, estimate the performance of user applications, and apply perceptual models to gauge user satisfaction with the end-to-end performance.\r\nThe user-perceived performance of data applications on packet networks is dependent on many factors, including the end-to-end performance of the packet network, the application's dependency on the communications network, the performance of the terminals and other devices beyond the purview of the network operator(s), and the user's task and the extent of user interaction with the application. Network designers take these factors into account to assure user satisfaction. Once the application performance has been estimated, perceptual models can be applied to interpret the level of end-to-end performance attained.\r\nThis Recommendation assumes that the reader will be able to provide at least some level of detail about each of the key factors above, and will then use the framework of tools to estimate end-to-end performance."
 status:
   stage:
     content: Published

@@ -47,11 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to Recommendation ITU-T G.997.1 (2016) includes:\r\n\r\n-
-    Addition of loop diagnostic status parameters\r\n\r\n- Freezing of performance
-    and monitoring counters when line is forced in L3 state\r\n\r\n- Add support for
-    Band plan and Limit PSD masks of profile 35b for the North American region (Annex
-    A).\r\n"
+  content: "Amendment 2 to Recommendation ITU-T G.997.1 (2016) includes:\r\n\r\n- Addition of loop diagnostic status parameters\r\n\r\n- Freezing of performance and monitoring counters when line is forced in L3 state\r\n\r\n- Add support for Band plan and Limit PSD masks of profile 35b for the North American region (Annex A).\r\n"
 status:
   stage:
     content: Withdrawal

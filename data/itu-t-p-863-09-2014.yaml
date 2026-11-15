@@ -50,29 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.863 describes an objective method for predicting
-    overall listening speech quality from narrowband (NB) (300 to 3 400 Hz) to super-wideband
-    (SWB) (50 to 14 000 Hz) telecommunication scenarios as perceived by the user in
-    an ITU-T P.800 or ITU-T P.830 absolute category rating (ACR) listening-only test.
-    Recommendation ITU-T P.863 supports two operational modes, one for narrowband
-    and one for super-wideband. This Recommendation presents a high-level description
-    of the method, advice on how to use it, and some results from a benchmark carried
-    out in the period 2006-2010. All essential parts of the model are described in
-    detail, and are provided in separate pdf-files (see Annex B). These files form
-    an integral part of this Recommendation and shall take precedence in case of conflicts
-    between the high-level descriptions included in the main body of this Recommendation
-    and the corresponding detailed description parts. A conformance testing procedure
-    is also specified in Annex A to allow a user to validate that an alternative implementation
-    of the model is correct. \r\nThis Recommendation includes an electronic attachment
-    containing detailed descriptions in pdf format (see Annex B) and conformance testing
-    data (see Annex A).\r\nThe 2014 revision of ITU-T P.863 introduces bug fixes and
-    resolves reported issues from ITU\x1ET P.863 field deployments. On average the
-    scores produced by this revised version of P.863 are very close to the values
-    obtained from the previous version (V1.1). Due to the improvements and bug fixes
-    in the revised version, there may however be significant differences for some
-    individual measurements, especially for cases where the previous version failed.
-    It should be observed that there is also a 2014 revision of the companion Recommendation
-    P.863.1. "
+  content: "Recommendation ITU-T P.863 describes an objective method for predicting overall listening speech quality from narrowband (NB) (300 to 3 400 Hz) to super-wideband (SWB) (50 to 14 000 Hz) telecommunication scenarios as perceived by the user in an ITU-T P.800 or ITU-T P.830 absolute category rating (ACR) listening-only test. Recommendation ITU-T P.863 supports two operational modes, one for narrowband and one for super-wideband. This Recommendation presents a high-level description of the method, advice on how to use it, and some results from a benchmark carried out in the period 2006-2010. All essential parts of the model are described in detail, and are provided in separate pdf-files (see Annex B). These files form an integral part of this Recommendation and shall take precedence in case of conflicts between the high-level descriptions included in the main body of this Recommendation and the corresponding detailed description parts. A conformance testing procedure is also specified in Annex A to allow a user to validate that an alternative implementation of the model is correct. \r\nThis Recommendation includes an electronic attachment containing detailed descriptions in pdf format (see Annex B) and conformance testing data (see Annex A).\r\nThe 2014 revision of ITU-T P.863 introduces bug fixes and resolves reported issues from ITU\x1eT P.863 field deployments. On average the scores produced by this revised version of P.863 are very close to the values obtained from the previous version (V1.1). Due to the improvements and bug fixes in the revised version, there may however be significant differences for some individual measurements, especially for cases where the previous version failed. It should be observed that there is also a 2014 revision of the companion Recommendation P.863.1. "
 status:
   stage:
     content: Withdrawal

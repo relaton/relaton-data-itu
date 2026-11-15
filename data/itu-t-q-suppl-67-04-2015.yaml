@@ -52,11 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 67 to ITU-T Q-series Recommendations provides the framework
+  content: 'Supplement 67 to ITU-T Q-series Recommendations provides the framework
     of signalling for software-defined networking (SDN) by specifying the signalling
     requirements and architecture for SDN, as well as the interfaces and signalling
     protocol procedures. This Supplement should also be helpful in enabling the development
-    of a signalling protocol(s) capable of supporting traffic flows.\r\n"
+    of a signalling protocol(s) capable of supporting traffic flows.
+    '
 status:
   stage:
     content: Published

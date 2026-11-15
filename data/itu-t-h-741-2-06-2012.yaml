@@ -53,18 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The ITU-T H.741.x series of Recommendations defines a foundational platform
-    for audience measurement (AM) of IPTV services. They focus on the interface between
-    terminal devices and an audience measurement aggregation function.\r\nThe AM platform
-    integrates a method for end users to report personal information, and is designed
-    to easily add time-shifted and interactive services, and non-terminal device measurement
-    points. While the ITU-T H.741.x series allows the implementation of audience measurement
-    for IPTV services, its mechanism may be equally applicable to non-IPTV services.\r\nThe
-    design philosophy in the ITU-T H.741.x series is focused on scalability, minimizing
-    the use of resources, security, flexibility to support a variety of service provider
-    deployments, and rich privacy support to meet emerging regulations and legislation.\r\nRecommendation
-    ITU-T H.741.2 specifies the data elements and structures of the payloads used
-    in audience measurement messages.\r\n"
+  content: "The ITU-T H.741.x series of Recommendations defines a foundational platform for audience measurement (AM) of IPTV services. They focus on the interface between terminal devices and an audience measurement aggregation function.\r\nThe AM platform integrates a method for end users to report personal information, and is designed to easily add time-shifted and interactive services, and non-terminal device measurement points. While the ITU-T H.741.x series allows the implementation of audience measurement for IPTV services, its mechanism may be equally applicable to non-IPTV services.\r\nThe design philosophy in the ITU-T H.741.x series is focused on scalability, minimizing the use of resources, security, flexibility to support a variety of service provider deployments, and rich privacy support to meet emerging regulations and legislation.\r\nRecommendation ITU-T H.741.2 specifies the data elements and structures of the payloads used in audience measurement messages.\r\n"
 status:
   stage:
     content: Published

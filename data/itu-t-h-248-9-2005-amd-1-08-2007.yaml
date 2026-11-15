@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides two sets of packages: syntactic and functional.
+  content: 'This Recommendation provides two sets of packages: syntactic and functional.
     The syntactic packages provide the ability to specify announcements with variable
     content, with a degree of flexibility constrained only by the provisioning of
     the MG and MGC. This syntax may in principle be used to specify multimedia announcements,
@@ -62,16 +62,17 @@ abstract:
     with variable content, carry out prompted collection of digits, and carry out
     prompted collection of recorded audio. An additional package provides the ability
     to manage recorded media segments on the Media Gateway.Additional functionality
-    incorporated by H.248.9 Revision 1:\r• 6.3.6.11 New variable type \"tone\" for
-    dynamic audio segment specification.\r• 6.4 Set extension of basic syntax: introduction
-    of a new selector for text attributes.\r• 6.5.5.1 Variable type \"Phrase\": introduction
-    of subtypes.\r• 9.3.1 Signal PlayCollect: enhanced functionality, new parameters.NOTE
-    - This Recommendation has been renumbered in 2002. It was formerly known as ITU-T
-    Rec. H.248 Annex M.1.This amendment defines packages which enable Automatic Speech
-    Recognition (ASR), Text to Speech (TTS) and Multimedia playout functionality between
-    a Media Gateway Controller (MGC) and a Media Gateway (MG) controlled by H.248.1.
-    In this scenario, the MGC may take the form of a Media Controller (MC) and the
-    MG may take the form of a Media Processor (MP)."
+    incorporated by H.248.9 Revision 1:    • 6.3.6.11 New variable type "tone"
+    for dynamic audio segment specification.    • 6.4 Set extension of basic syntax:
+    introduction of a new selector for text attributes.    • 6.5.5.1 Variable type
+    "Phrase": introduction of subtypes.    • 9.3.1 Signal PlayCollect: enhanced
+    functionality, new parameters.NOTE - This Recommendation has been renumbered in
+    2002. It was formerly known as ITU-T Rec. H.248 Annex M.1.This amendment defines
+    packages which enable Automatic Speech Recognition (ASR), Text to Speech (TTS)
+    and Multimedia playout functionality between a Media Gateway Controller (MGC)
+    and a Media Gateway (MG) controlled by H.248.1. In this scenario, the MGC may
+    take the form of a Media Controller (MC) and the MG may take the form of a Media
+    Processor (MP).'
 status:
   stage:
     content: Withdrawal

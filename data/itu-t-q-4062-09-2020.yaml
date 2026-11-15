@@ -52,24 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Internet of things (IoT) is one of the global infrastructures for
-    the information society, delivering advanced services by interconnecting things
-    based on, existing and evolving, interoperable information and communication technologies.
-    Such a global infrastructure can be achieved by use of multiple access technologies
-    for different types of communication networks such as body area network (BAN),
-    personal area network (PAN), local area network (LAN), wireless local area network
-    (WLAN), low power wireless access network (LPWAN), field area network (FAN), metropolitan
-    area network (MAN), wide area network (WAN) and cellular networks. Conformance
-    and interoperability tests not only for domains with single access technology
-    but also for the integrated domains with multiple access technologies are required.
-    The main goal of this Recommendation is to specify the testing framework for IoT
-    to accommodate the tests for such integrated domains with multiple access technologies.
-    Conformance and interoperability tests for domains served by single unified access
-    technology have been taken into account by relevant SDOs and therefore are out
-    of scope of this Recommendation. \r\n\r\nRecommendation ITU-T Q.4062 describes
-    the types of the tests for the domains with multiple access technologies and specifies
-    the test procedures and the considerations corresponding to the testing types.
-    \r\n"
+  content: "The Internet of things (IoT) is one of the global infrastructures for the information society, delivering advanced services by interconnecting things based on, existing and evolving, interoperable information and communication technologies. Such a global infrastructure can be achieved by use of multiple access technologies for different types of communication networks such as body area network (BAN), personal area network (PAN), local area network (LAN), wireless local area network (WLAN), low power wireless access network (LPWAN), field area network (FAN), metropolitan area network (MAN), wide area network (WAN) and cellular networks. Conformance and interoperability tests not only for domains with single access technology but also for the integrated domains with multiple access technologies are required. The main goal of this Recommendation is to specify the testing framework for IoT to accommodate the tests for such integrated domains with multiple access technologies. Conformance and interoperability tests for domains served by single unified access technology have been taken into account by relevant SDOs and therefore are out of scope of this Recommendation. \r\n\r\nRecommendation ITU-T Q.4062 describes the types of the tests for the domains with multiple access technologies and specifies the test procedures and the considerations corresponding to the testing types. \r\n"
 status:
   stage:
     content: Published
@@ -327,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -339,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

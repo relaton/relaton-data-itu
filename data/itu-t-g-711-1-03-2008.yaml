@@ -50,49 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.711.1 describes a G.711 embedded wideband speech
-    and audio coding algorithm operating at 64, 80 and 96 kbit/s.\r\n\r\nThe encoder
-    input and decoder outputs are sampled at 16 kHz by default, but 8‑kHz sampling
-    is also supported. When sampled at 16 kHz, the output of the G.711.1 coder can
-    encode signals with a bandwidth of 50‑7000 Hz at 80 and 96 kbit/s, and for 8‑kHz
-    sampling the output may produce signals with a bandwidth ranging from 50 up to
-    4000 Hz, operating at 64 and 80 kbit/s (the bandwidth of the narrow-band signal
-    output from the decoder is characterized by the built‑in split‑band filterbank
-    which has a frequency cut‑offs at 4000 Hz). At 64 kbit/s, G.711.1 is compatible
-    with G.711, hence an efficient deployment in existing G.711-based voice over IP
-    (VoIP) infrastructures is foreseen. The coder operates on 5 ms frames, has a maximum
-    algorithmic delay of 11.875 ms, and has a worst‑case computational complexity
-    of 8.70 weighted million operations per second (WMOPS).\r\n\r\nThe encoder produces
-    an embedded bitstream structured in three layers corresponding to three available
-    bit rates: 64, 80 and 96 kbit/s. The bitstream can be truncated at the decoder
-    side or by any component of the communication system to adjust the bit rate to
-    the desired value, but since it does not contain any information on which layers
-    are contained, an implementation would require outband signalling on which layers
-    are available.\r\n\r\nThe underlying algorithm has a three‑layer coding structure:
-    log companded pulse code modulation (PCM) of the lower band including noise feedback,
-    embedded PCM extension with adaptive bit allocation for enhancing the quality
-    of the base layer in the lower band, and weighted vector quantization coding of
-    the higher band based on modified discrete cosine transformation (MDCT).\r\n\r\nAnnex
-    A defines an alternative implementation of the G.711.1 algorithm using floating-point
-    arithmetic to facilitate its use on hardware optimized for floating-point operations.
-    The accompanying floating-point C-code is fully interoperable with the fixed-point
-    C-code and provides equivalent quality.\r\n\r\nAnnex B contains the RTP payload
-    format, capability identifiers and parameters for signalling of G.711.1 capabilities
-    using H.245.  The packet format is fully compatible with the corresponding G.711.1
-    RTP definitions to allow seamless interoperability. \r\n\r\nAppendix I describes
-    a supplementary postfilter for use in the decoder. This postfilter enhances the
-    quality of the decoded signal when a legacy G.711 or only the basic log companded
-    PCM part of the G.711.1 bitstream are available. It is intended for end‑user terminals
-    and usage in tandem scenarios should be avoided (such as in a signal mixer or
-    bitstream translators). \r\n\r\nThis Recommendation includes an electronic attachment
-    containing a non-exhaustive set of test signals for use with the ANSI C code.\r\n\r\nANSI
-    C source code is provided for both the main body's fixed-point arithmetic implementation
-    as well as for Annex A's floating-point alternative specification.\r\n\r\nThis
-    edition incorporates changes needed to correct defects in the pre-published text
-    of this Recommendation. All updates are related to typos and editorial corrections
-    of the text, i.e., the algorithm description, and do not modify the other parts
-    of the Recommendation including Annex A, such as bit-exactness of the supplied
-    C‑source code."
+  content: "Recommendation ITU-T G.711.1 describes a G.711 embedded wideband speech and audio coding algorithm operating at 64, 80 and 96 kbit/s.\r\n\r\nThe encoder input and decoder outputs are sampled at 16 kHz by default, but 8‑kHz sampling is also supported. When sampled at 16 kHz, the output of the G.711.1 coder can encode signals with a bandwidth of 50‑7000 Hz at 80 and 96 kbit/s, and for 8‑kHz sampling the output may produce signals with a bandwidth ranging from 50 up to 4000 Hz, operating at 64 and 80 kbit/s (the bandwidth of the narrow-band signal output from the decoder is characterized by the built‑in split‑band filterbank which has a frequency cut‑offs at 4000 Hz). At 64 kbit/s, G.711.1 is compatible with G.711, hence an efficient deployment in existing G.711-based voice over IP (VoIP) infrastructures is foreseen. The coder operates on 5 ms frames, has a maximum algorithmic delay of 11.875 ms, and has a worst‑case computational complexity of 8.70 weighted million operations per second (WMOPS).\r\n\r\nThe encoder produces an embedded bitstream structured in three layers corresponding to three available bit rates: 64, 80 and 96 kbit/s. The bitstream can be truncated at the decoder side or by any component of the communication system to adjust the bit rate to the desired value, but since it does not contain any information on which layers are contained, an implementation would require outband signalling on which layers are available.\r\n\r\nThe underlying algorithm has a three‑layer coding structure: log companded pulse code modulation (PCM) of the lower band including noise feedback, embedded PCM extension with adaptive bit allocation for enhancing the quality of the base layer in the lower band, and weighted vector quantization coding of the higher band based on modified discrete cosine transformation (MDCT).\r\n\r\nAnnex A defines an alternative implementation of the G.711.1 algorithm using floating-point arithmetic to facilitate its use on hardware optimized for floating-point operations. The accompanying floating-point C-code is fully interoperable with the fixed-point C-code and provides equivalent quality.\r\n\r\nAnnex B contains the RTP payload format, capability identifiers and parameters for signalling of G.711.1 capabilities using H.245.  The packet format is fully compatible with the corresponding G.711.1 RTP definitions to allow seamless interoperability. \r\n\r\nAppendix I describes a supplementary postfilter for use in the decoder. This postfilter enhances the quality of the decoded signal when a legacy G.711 or only the basic log companded PCM part of the G.711.1 bitstream are available. It is intended for end‑user terminals and usage in tandem scenarios should be avoided (such as in a signal mixer or bitstream translators). \r\n\r\nThis Recommendation includes an electronic attachment containing a non-exhaustive set of test signals for use with the ANSI C code.\r\n\r\nANSI C source code is provided for both the main body's fixed-point arithmetic implementation as well as for Annex A's floating-point alternative specification.\r\n\r\nThis edition incorporates changes needed to correct defects in the pre-published text of this Recommendation. All updates are related to typos and editorial corrections of the text, i.e., the algorithm description, and do not modify the other parts of the Recommendation including Annex A, such as bit-exactness of the supplied C‑source code."
 status:
   stage:
     content: Withdrawal

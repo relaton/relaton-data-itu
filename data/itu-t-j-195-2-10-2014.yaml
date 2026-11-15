@@ -52,14 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.195.2 specifies the physical (PHY) layer specification
-    for high\x1Espeed data transmission over coaxial cable as part of the high performance
+  content: Recommendation ITU-T J.195.2 specifies the physical (PHY) layer specification
+    for highspeed data transmission over coaxial cable as part of the high performance
     network over coax (HiNoC). The HiNoC architecture consists of a HiNoC bridge (HB)
     and HiNoC modems (HMs), and the HiNoC protocol stack includes the media access
     control (MAC) layer and PHY layer. HiNoC utilizes the unassigned spectrum of the
-    \"last 100-meter\" coaxial network to provide more bandwidth and improve spectral
+    "last 100-meter" coaxial network to provide more bandwidth and improve spectral
     efficiency. This document contains descriptions for the signal transmission mode
-    of the PHY layer, including frame structure, channel coding and modulation techniques."
+    of the PHY layer, including frame structure, channel coding and modulation techniques.
 status:
   stage:
     content: Withdrawal

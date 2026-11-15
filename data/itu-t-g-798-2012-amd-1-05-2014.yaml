@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.798 (2012):\r\n−\tcompletes the
-    management interfaces of the optical modulation and wavelength multiplexing processes
-    for support of WDM interfaces;\r\n−\tadds an indication to refer to the HAO capable
-    ODUk to MPLS-TP adaptation function in Recommendation ITU-T G.8121;\r\n−\tadds
-    adaptation of multilane 40 Gigabit/s SDH signals with parallel interfaces (STL256.4)
-    for mapping into LO OPU3;\r\n−\tadds CM-XGPON and the payload types for clients
-    bit\x1Esynchronously mapped into ODUflex to the ODUkP to CBRx adaptation functions;
-    \r\n−\tadds the ODU2eP to FC-1200 signal adaptation functions;\r\n−\tadds fibre
-    channel clients to Annex A; and\r\n−\tcorrects the payload type for SBCON/ESCON
-    clients and the frequency tolerance of ODUflex signals"
+  content: "Amendment 1 to Recommendation ITU-T G.798 (2012):\r\n−\tcompletes the management interfaces of the optical modulation and wavelength multiplexing processes for support of WDM interfaces;\r\n−\tadds an indication to refer to the HAO capable ODUk to MPLS-TP adaptation function in Recommendation ITU-T G.8121;\r\n−\tadds adaptation of multilane 40 Gigabit/s SDH signals with parallel interfaces (STL256.4) for mapping into LO OPU3;\r\n−\tadds CM-XGPON and the payload types for clients bit\x1esynchronously mapped into ODUflex to the ODUkP to CBRx adaptation functions; \r\n−\tadds the ODU2eP to FC-1200 signal adaptation functions;\r\n−\tadds fibre channel clients to Annex A; and\r\n−\tcorrects the payload type for SBCON/ESCON clients and the frequency tolerance of ODUflex signals"
 status:
   stage:
     content: Withdrawal

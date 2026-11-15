@@ -52,25 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The term multimedia as defined in Recommendation ITU-T J.148 is the combination
-    of multiple forms of media such as: video, audio, text, graphics, fax, and telephony
-    in the communication of information. A three stage approach has been adopted to
-    recommending objective assessment methods for multimedia. The first two stages
-    will identify perceptual quality tools appropriate for measuring video and audio
-    individually. The third stage will identify objective assessment methods for the
-    combined audiovisual media. This Recommendation contains the first stage video
-    only used in multimedia applications.\r\n\r\nRecommendation ITU-T J.246 provides
-    guidelines on the selection of appropriate objective perceptual video quality
-    measurement methods when a reduced reference signal is available. The following
-    are example applications that can use this Recommendation: \r\n\r\n1)          Internet
-    multimedia streaming \r\n\r\n2)          Video telephony and conferencing over
-    cable and other networks\r\n\r\n3)          Progressive video television streams
-    viewed on LCD monitors over cable networks including those transmitted over the
-    Internet using Internet Protocol. (VGA was the maximum resolution in the validation
-    test.)\r\n\r\n4)          Mobile video streaming over telecommunications networks\r\n\r\n5)
-    \         Some forms of IPTV video payloads (VGA was the maximum resolution in
-    this validation test.)\r\n\r\n6)          Video quality monitoring at the receiver
-    when side-channels are available."
+  content: "The term multimedia as defined in Recommendation ITU-T J.148 is the combination of multiple forms of media such as: video, audio, text, graphics, fax, and telephony in the communication of information. A three stage approach has been adopted to recommending objective assessment methods for multimedia. The first two stages will identify perceptual quality tools appropriate for measuring video and audio individually. The third stage will identify objective assessment methods for the combined audiovisual media. This Recommendation contains the first stage video only used in multimedia applications.\r\n\r\nRecommendation ITU-T J.246 provides guidelines on the selection of appropriate objective perceptual video quality measurement methods when a reduced reference signal is available. The following are example applications that can use this Recommendation: \r\n\r\n1)          Internet multimedia streaming \r\n\r\n2)          Video telephony and conferencing over cable and other networks\r\n\r\n3)          Progressive video television streams viewed on LCD monitors over cable networks including those transmitted over the Internet using Internet Protocol. (VGA was the maximum resolution in the validation test.)\r\n\r\n4)          Mobile video streaming over telecommunications networks\r\n\r\n5)          Some forms of IPTV video payloads (VGA was the maximum resolution in this validation test.)\r\n\r\n6)          Video quality monitoring at the receiver when side-channels are available."
 status:
   stage:
     content: Published

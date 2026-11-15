@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T T.38 defines the procedures to be applied to allow
-    Group 3 facsimile transmission between terminals where, in addition to the public
-    switched telephone network (PSTN) or integrated services digital network (ISDN),
-    a portion of the transmission path used between terminals includes an IP network,
-    e.g., the Internet.\r\nThis revision of this Recommendation clarifies Recommendation
-    ITU-T H.323, Recommendation ITU-T H.248.1, session initiation protocol (SIP) and
-    session description protocol (SDP) call establishment and improves the compatibility
-    between ITU-T T.38 gateways and Group 3 facsimile.\r\nAmendment 1 to Recommendation
-    ITU-T T.38 (2010/09) introduces additions and corrections to the Recommendation
-    and adds clause 11, \"Security considerations\" and Appendix VI, \"Security considerations
-    from a historical perspective\". Furthermore, Amendment 1 captures items from
-    the 'Implementers Guide' (05/2012) and from Erratum 1 (04/2013) to Recommendation
-    ITU-T T.38 (09/2010)."
+  content: "Recommendation ITU-T T.38 defines the procedures to be applied to allow Group 3 facsimile transmission between terminals where, in addition to the public switched telephone network (PSTN) or integrated services digital network (ISDN), a portion of the transmission path used between terminals includes an IP network, e.g., the Internet.\r\nThis revision of this Recommendation clarifies Recommendation ITU-T H.323, Recommendation ITU-T H.248.1, session initiation protocol (SIP) and session description protocol (SDP) call establishment and improves the compatibility between ITU-T T.38 gateways and Group 3 facsimile.\r\nAmendment 1 to Recommendation ITU-T T.38 (2010/09) introduces additions and corrections to the Recommendation and adds clause 11, \"Security considerations\" and Appendix VI, \"Security considerations from a historical perspective\". Furthermore, Amendment 1 captures items from the 'Implementers Guide' (05/2012) and from Erratum 1 (04/2013) to Recommendation ITU-T T.38 (09/2010)."
 status:
   stage:
     content: Withdrawal

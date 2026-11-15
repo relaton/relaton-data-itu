@@ -47,26 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU‑T G.994.1 provides a flexible mechanism for digital
-    subscriber line (DSL) transceivers to exchange capabilities and to select a common
-    mode of operation. It includes parameters relating to service and application
-    requirements as well as parameters pertinent to various DSL transceivers. This
-    Recommendation is currently an integral part of the start-up procedure for Recommendations
-    ITU‑T G.991.2, ITU-T G.992.1, ITU-T G.992.2, ITU-T G.992.3, ITU-T G.992.4, ITU-T
-    G.992.5, ITU-T G.993.1 and ITU-T G.993.2. It is anticipated that future DSL Recommendations
-    will also be able to make use of this Recommendation. Provisions are also included
-    for exchanging non-standard information.\r\n\r\nThis revision integrates all approved
-    amendments and corrigendum into the latest revision of Recommendation ITU-T G.994.1
-    (version 3). It also:\r\n\r\n–           fixes the allocation of the codepoint
-    \"Support of downstream virtual noise in diagnostic mode\"\r\n\r\n–           fixes
-    the allocation of the codepoint \"Full ITU-T G.993.5-friendly ITU-T G.993.2 operation\"\r\n\r\n–
-    \          removes the codepoints for O-P-VECTOR-1-1 duration.\r\n\r\nThe 2017
-    edition of this Recommendation integrates ITU-T G.994.1 (2012) and all its amendments
-    and corrigendum. The 2017 edition does not add any new technical material.\r\n\r\nAmendment
-    1 includes:\r\n\r\n–           Codepoint for the support of ITU-T G.993.5 Annex
-    A (Mitigating Strong FEXT)\r\n\r\n–           Codepoints for the support of ITU-T
-    G.993.5 Annex B (Vectored Long Reach VDSL) and ITU-T G.993.2 Annex D (Unvectored
-    Long Reach VDSL).\r\n"
+  content: "Recommendation ITU‑T G.994.1 provides a flexible mechanism for digital subscriber line (DSL) transceivers to exchange capabilities and to select a common mode of operation. It includes parameters relating to service and application requirements as well as parameters pertinent to various DSL transceivers. This Recommendation is currently an integral part of the start-up procedure for Recommendations ITU‑T G.991.2, ITU-T G.992.1, ITU-T G.992.2, ITU-T G.992.3, ITU-T G.992.4, ITU-T G.992.5, ITU-T G.993.1 and ITU-T G.993.2. It is anticipated that future DSL Recommendations will also be able to make use of this Recommendation. Provisions are also included for exchanging non-standard information.\r\n\r\nThis revision integrates all approved amendments and corrigendum into the latest revision of Recommendation ITU-T G.994.1 (version 3). It also:\r\n\r\n–           fixes the allocation of the codepoint \"Support of downstream virtual noise in diagnostic mode\"\r\n\r\n–           fixes the allocation of the codepoint \"Full ITU-T G.993.5-friendly ITU-T G.993.2 operation\"\r\n\r\n–           removes the codepoints for O-P-VECTOR-1-1 duration.\r\n\r\nThe 2017 edition of this Recommendation integrates ITU-T G.994.1 (2012) and all its amendments and corrigendum. The 2017 edition does not add any new technical material.\r\n\r\nAmendment 1 includes:\r\n\r\n–           Codepoint for the support of ITU-T G.993.5 Annex A (Mitigating Strong FEXT)\r\n\r\n–           Codepoints for the support of ITU-T G.993.5 Annex B (Vectored Long Reach VDSL) and ITU-T G.993.2 Annex D (Unvectored Long Reach VDSL).\r\n"
 status:
   stage:
     content: Withdrawal

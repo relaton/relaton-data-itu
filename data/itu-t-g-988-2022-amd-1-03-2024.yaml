@@ -47,17 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITUT G.988 specifies the optical network unit (ONU) management
-    and control interface (OMCI) for optical access networks.\r\nRecommendation ITUT G.988
-    specifies the managed entities (MEs) of a protocol-independent management information
-    base (MIB) that models the exchange of information between an optical line termination
-    (OLT) and an ONU. In addition, it covers the ONU management and control channel,
-    protocol and detailed messages.\r\nAmendment 1 to ITUT Recommendation G.988 (2022)
-    incorporates regular maintenance items including:\r\n–Clarifications to the use
-    of Enhanced FEC PM and Forward error correct PM MEs on PON systems that use LDPC
-    (e.g., HSP PON).\r\n–Modifications to Power over Ethernet Control to manage PoE,
-    PoE+ and PoE++ devices as defined in IEEE 802.3.\r\n–Modification to VoIP application
-    service profile ME to add GR-1188 Absence of Calling Name support.\r\n"
+  content: "Recommendation ITUT G.988 specifies the optical network unit (ONU) management and control interface (OMCI) for optical access networks.\r\nRecommendation ITUT G.988 specifies the managed entities (MEs) of a protocol-independent management information base (MIB) that models the exchange of information between an optical line termination (OLT) and an ONU. In addition, it covers the ONU management and control channel, protocol and detailed messages.\r\nAmendment 1 to ITUT Recommendation G.988 (2022) incorporates regular maintenance items including:\r\n–Clarifications to the use of Enhanced FEC PM and Forward error correct PM MEs on PON systems that use LDPC (e.g., HSP PON).\r\n–Modifications to Power over Ethernet Control to manage PoE, PoE+ and PoE++ devices as defined in IEEE 802.3.\r\n–Modification to VoIP application service profile ME to add GR-1188 Absence of Calling Name support.\r\n"
 status:
   stage:
     content: Published

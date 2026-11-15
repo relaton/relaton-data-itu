@@ -47,18 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8262.1/Y.1362.1 outlines requirements for timing
-    devices used in synchronizing network equipment that uses the physical layer to
-    deliver frequency synchronization. This Recommendation defines the requirements
-    for clocks, e.g., bandwidth, frequency accuracy, holdover and noise generation.\r\n\r\nAmendment
-    1 to Recommendation ITU-T G.8262.1/Y.1362.1 (01/2019) provides the following updates:\r\n\r\n−
-    \          Adds requirements for clause 9.1\r\n\r\n−           Replaces clause
-    9.3.1 with a reference to clause 9.2.1 of [ITU-T G.8262].\r\n\r\n−           Adds
-    “enhanced” to the “synchronous OTN interface” in clause 9.3.3\r\n\r\n−           Changes
-    in Clause 11.1: defines parameter S; defines parameter T (except for OTN interfaces)\r\n\r\n−
-    \          Changes in Clause 11.2: define parameter a2; changes figure 8 to start
-    at 15s.\r\n\r\n−           Adds “Synchronous OTN interfaces” in Clause 12\r\n\r\n−
-    \          Adds text to Appendix IV\r\n\r\n−           Adds Appendix V"
+  content: "Recommendation ITU-T G.8262.1/Y.1362.1 outlines requirements for timing devices used in synchronizing network equipment that uses the physical layer to deliver frequency synchronization. This Recommendation defines the requirements for clocks, e.g., bandwidth, frequency accuracy, holdover and noise generation.\r\n\r\nAmendment 1 to Recommendation ITU-T G.8262.1/Y.1362.1 (01/2019) provides the following updates:\r\n\r\n−           Adds requirements for clause 9.1\r\n\r\n−           Replaces clause 9.3.1 with a reference to clause 9.2.1 of [ITU-T G.8262].\r\n\r\n−           Adds “enhanced” to the “synchronous OTN interface” in clause 9.3.3\r\n\r\n−           Changes in Clause 11.1: defines parameter S; defines parameter T (except for OTN interfaces)\r\n\r\n−           Changes in Clause 11.2: define parameter a2; changes figure 8 to start at 15s.\r\n\r\n−           Adds “Synchronous OTN interfaces” in Clause 12\r\n\r\n−           Adds text to Appendix IV\r\n\r\n−           Adds Appendix V"
 status:
   stage:
     content: Withdrawal

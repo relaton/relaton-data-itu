@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.698.1 provides optical parameter values for physical
-    layer interfaces of dense wavelength division multiplexing (DWDM) systems primarily
-    intended for metro applications. Applications are defined using optical interface
-    parameters at the single-channel connection points between optical transmitters
-    and the optical multiplexer, as well as between optical receivers and the optical
-    demultiplexer (OD) in the DWDM system. This Recommendation uses a methodology
-    that fixes the maximum attenuation of the multiplexer / demultiplexer and fibre
-    together and, therefore, does not specify the maximum fibre-link length explicitly.
-    This Recommendation includes unidirectional DWDM applications at 2.5 and 10 Gbit/s
-    with 100 GHz channel frequency spacing, as well as applications at 10 Gbit/s with
-    50 GHz channel frequency spacing.\r\nThis latest revision of Recommendation ITU-T
-    G.698.1 includes DWDM applications at 25 Gbit/s with 100 GHz channel frequency
-    spacing.\r\n"
+  content: "Recommendation ITU-T G.698.1 provides optical parameter values for physical layer interfaces of dense wavelength division multiplexing (DWDM) systems primarily intended for metro applications. Applications are defined using optical interface parameters at the single-channel connection points between optical transmitters and the optical multiplexer, as well as between optical receivers and the optical demultiplexer (OD) in the DWDM system. This Recommendation uses a methodology that fixes the maximum attenuation of the multiplexer / demultiplexer and fibre together and, therefore, does not specify the maximum fibre-link length explicitly. This Recommendation includes unidirectional DWDM applications at 2.5 and 10 Gbit/s with 100 GHz channel frequency spacing, as well as applications at 10 Gbit/s with 50 GHz channel frequency spacing.\r\nThis latest revision of Recommendation ITU-T G.698.1 includes DWDM applications at 25 Gbit/s with 100 GHz channel frequency spacing.\r\n"
 status:
   stage:
     content: Published

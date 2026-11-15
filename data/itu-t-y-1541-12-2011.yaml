@@ -52,25 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines classes of network quality of service (QoS)
-    with objectives for Internet Protocol network performance parameters. Two of the
-    classes contain provisional performance objectives. These classes are intended
-    to be the basis for agreements among network providers, and between end users
-    and their network providers. \r\n\r\nAppendix I provides information about how
-    asynchronous transfer mode (ATM) might support IP layer performance. Appendix
-    II discusses alternatives for defining IP delay variation. Appendix III presents
-    the hypothetical reference paths (HRP) against which the ITU-T Y.1541 QoS objectives
-    were tested for feasibility. Appendix IV gives example computations of packet
-    delay variation. Appendix V discusses issues that must be considered whenever
-    IP measurements are made. Appendix VI describes the relationship between this
-    Recommendation and the IETF-defined mechanisms for managing QoS. Appendix VII
-    gives estimates of speech transmission quality for the hypothetical reference
-    paths of Appendix III. Appendix VIII discusses digital television transport on
-    IP networks. Appendix IX estimates transmission control protocol (TCP) file transfer
-    performance on paths conforming to ITU-T Y.1541 objectives. Appendix X gives example
-    calculations for combining delay variation measurements from multiple sections
-    to estimate user network interface to user network interface (UNI-UNI) performance,
-    and Appendix XI estimates the packet loss requirement for digital circuit emulation."
+  content: "This Recommendation defines classes of network quality of service (QoS) with objectives for Internet Protocol network performance parameters. Two of the classes contain provisional performance objectives. These classes are intended to be the basis for agreements among network providers, and between end users and their network providers. \r\n\r\nAppendix I provides information about how asynchronous transfer mode (ATM) might support IP layer performance. Appendix II discusses alternatives for defining IP delay variation. Appendix III presents the hypothetical reference paths (HRP) against which the ITU-T Y.1541 QoS objectives were tested for feasibility. Appendix IV gives example computations of packet delay variation. Appendix V discusses issues that must be considered whenever IP measurements are made. Appendix VI describes the relationship between this Recommendation and the IETF-defined mechanisms for managing QoS. Appendix VII gives estimates of speech transmission quality for the hypothetical reference paths of Appendix III. Appendix VIII discusses digital television transport on IP networks. Appendix IX estimates transmission control protocol (TCP) file transfer performance on paths conforming to ITU-T Y.1541 objectives. Appendix X gives example calculations for combining delay variation measurements from multiple sections to estimate user network interface to user network interface (UNI-UNI) performance, and Appendix XI estimates the packet loss requirement for digital circuit emulation."
 status:
   stage:
     content: Published
@@ -122,8 +104,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix X – An example showing how to calculate IPDV across multiple
-        sections
+      content: New Appendix X – An example showing how to calculate IPDV across
+        multiple sections
     docidentifier:
     - content: Y.1541 (2006) Amd. 1 (06/2006)
       type: ITU
@@ -194,7 +176,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -215,8 +197,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The machine-vision-based intelligent farm inspection system is based on
-    agricultural autonomous vehicles and can complete the inspection task using machine
-    vision under complex farm conditions. This system has the functions of data collection,
-    video processing, object detection, data encapsulation, video transmission and
-    remote control. The system can evaluate crop growth and detect pests more efficiently
-    than can be done with manual work.\r\nRecommendation ITU-T F.743.35 specifies
-    requirements and functional architecture for the machine-vision-based intelligent
-    farm inspection system and provides use cases. It is intended to guide the design
-    and development of machine-vision-based intelligent farm inspection systems.\r\n\r\n"
+  content: "The machine-vision-based intelligent farm inspection system is based on agricultural autonomous vehicles and can complete the inspection task using machine vision under complex farm conditions. This system has the functions of data collection, video processing, object detection, data encapsulation, video transmission and remote control. The system can evaluate crop growth and detect pests more efficiently than can be done with manual work.\r\nRecommendation ITU-T F.743.35 specifies requirements and functional architecture for the machine-vision-based intelligent farm inspection system and provides use cases. It is intended to guide the design and development of machine-vision-based intelligent farm inspection systems.\r\n\r\n"
 status:
   stage:
     content: Published

@@ -53,9 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1718 specifies the security requirements and measures
+  content: 'Recommendation ITU-T X.1718 specifies the security requirements and measures
     for quantum key distribution network (QKDN) interworking (QKDNi) based on the
-    framework for QKDNi which is defined in Recommendation ITU-T Y.3810.\r\n"
+    framework for QKDNi which is defined in Recommendation ITU-T Y.3810.
+    '
 status:
   stage:
     content: Published

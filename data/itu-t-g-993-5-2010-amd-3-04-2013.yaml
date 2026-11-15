@@ -47,10 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 3 to Recommendation ITU-T G.993.5 (2010) covers the following
-    functionalities:\r\n1)\tAlignment with ITU-T G.997.1 VECTORMODE_ENABLE (new functionality).\r\n2)\tVCE
-    vendor ID and version number (new functionality).\r\n3)\tLoop diagnostic mode
-    procedures (corrigendum).\r\n"
+  content: "Amendment 3 to Recommendation ITU-T G.993.5 (2010) covers the following functionalities:\r\n1)\tAlignment with ITU-T G.997.1 VECTORMODE_ENABLE (new functionality).\r\n2)\tVCE vendor ID and version number (new functionality).\r\n3)\tLoop diagnostic mode procedures (corrigendum).\r\n"
 status:
   stage:
     content: Withdrawal

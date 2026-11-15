@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.751.31 specifies a reference framework of distributed
+  content: 'Recommendation ITU-T F.751.31 specifies a reference framework of distributed
     ledger technology (DLT)-based cross-domain settlement to deliver efficient, a
     unified public charging settlement for electric vehicles among diverse public
     charging operators. The Recommendation includes stakeholders, framework and functional
-    requirements of DLT-based cross-domain settlement.\r\n"
+    requirements of DLT-based cross-domain settlement.
+    '
 status:
   stage:
     content: Published

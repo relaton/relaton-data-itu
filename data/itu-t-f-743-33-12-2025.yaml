@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Traditional video surveillance systems are usually employed to discover
-    anomalies by physical observation of videos and cannot meet the requirements for
-    automatic anomaly detection in wind farms. With the development of machine learning
-    algorithms, computer vision can achieve automatic intelligent processing such
-    as image enhancement, image restoration, feature extraction, object detection,
-    object recognition, object tracking, pose estimation, motion estimation, event
-    detection and anomaly detection. Therefore, an intelligent system based on computer
-    vision can be deployed on a wind farm for automatic anomaly detection.\r\nThe
-    computer vision-based anomaly detection service can be an effective way to automatically
-    detect general anomalies such as vessel trespass, small flames and abnormal presences
-    in the wind farm. It can address the limitations of manually detecting general
-    anomalies through video observation, thereby preventing anomalies from being overlooked
-    due to human oversight.\r\nRecommendation ITU-T F.743.33 addresses the essential
-    requirements and framework for computer vision-based anomaly detection service
-    in the wind farm.\r\n"
+  content: "Traditional video surveillance systems are usually employed to discover anomalies by physical observation of videos and cannot meet the requirements for automatic anomaly detection in wind farms. With the development of machine learning algorithms, computer vision can achieve automatic intelligent processing such as image enhancement, image restoration, feature extraction, object detection, object recognition, object tracking, pose estimation, motion estimation, event detection and anomaly detection. Therefore, an intelligent system based on computer vision can be deployed on a wind farm for automatic anomaly detection.\r\nThe computer vision-based anomaly detection service can be an effective way to automatically detect general anomalies such as vessel trespass, small flames and abnormal presences in the wind farm. It can address the limitations of manually detecting general anomalies through video observation, thereby preventing anomalies from being overlooked due to human oversight.\r\nRecommendation ITU-T F.743.33 addresses the essential requirements and framework for computer vision-based anomaly detection service in the wind farm.\r\n"
 status:
   stage:
     content: Published

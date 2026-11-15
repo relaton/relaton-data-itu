@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies an ensemble for the access management of
-    V5. The management domain taken into account in this Recommendation is depicted
-    in Figure 1and covers:\r\n- the provisioning of V5 based transport bearer services
-    of an access network;\r\n- the configuration of access network resources required
-    for such services, and\r\n- the coordination of element configuration between
-    access network and service nodes.This Recommendation covers management operations
-    necessary for a transmission-technology independent management of narrowband transport
-    bearer services (PSTN, ISDN and leased line) across V5 Service Port Functions.
-    This includes the configuration and provisioning of both V5 based transport bearer
-    services and their affected resources."
+  content: "This Recommendation specifies an ensemble for the access management of V5. The management domain taken into account in this Recommendation is depicted in Figure 1and covers:\r\n- the provisioning of V5 based transport bearer services of an access network;\r\n- the configuration of access network resources required for such services, and\r\n- the coordination of element configuration between access network and service nodes.This Recommendation covers management operations necessary for a transmission-technology independent management of narrowband transport bearer services (PSTN, ISDN and leased line) across V5 Service Port Functions. This includes the configuration and provisioning of both V5 based transport bearer services and their affected resources."
 status:
   stage:
     content: Published
@@ -319,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -331,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

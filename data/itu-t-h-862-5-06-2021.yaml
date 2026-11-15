@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.862.5 provides functional entities and architecture
-    for emotion enabled multimodal user interface based on artificial neural network.
-    As emotion technology continues to make big improvements in human-computer interaction
-    (HCI) areas, many companies and researchers have been studying emotion technology.
-    Various applications using multimodality and emotion analysis are also introduced
-    these days with artificial intelligence technology. However, many of the current
-    systems do not yet infer human emotion properly because some systems are either
-    too dependent on certain sources, or too weak for real circumstances. Therefore,
-    the proposed system architecture is for multimodal user interface (UI) based on
-    emotion analysis with some properties and illustrations, and data with an artificial
-    neural network. The multimedia data for the input is composed of text, speech,
-    and image. For the unimodal emotion analysis, the data is pre-processed in the
-    corresponding module. For example, the text data is pre-processed by data augmentation,
-    person attributes recognition, topic cluster recognition, document summarization,
-    named entity recognition, sentence splitter, keyword cluster, and sentence to
-    graph functions. \r\n"
+  content: "Recommendation ITU-T H.862.5 provides functional entities and architecture for emotion enabled multimodal user interface based on artificial neural network. As emotion technology continues to make big improvements in human-computer interaction (HCI) areas, many companies and researchers have been studying emotion technology. Various applications using multimodality and emotion analysis are also introduced these days with artificial intelligence technology. However, many of the current systems do not yet infer human emotion properly because some systems are either too dependent on certain sources, or too weak for real circumstances. Therefore, the proposed system architecture is for multimodal user interface (UI) based on emotion analysis with some properties and illustrations, and data with an artificial neural network. The multimedia data for the input is composed of text, speech, and image. For the unimodal emotion analysis, the data is pre-processed in the corresponding module. For example, the text data is pre-processed by data augmentation, person attributes recognition, topic cluster recognition, document summarization, named entity recognition, sentence splitter, keyword cluster, and sentence to graph functions. \r\n"
 status:
   stage:
     content: Published

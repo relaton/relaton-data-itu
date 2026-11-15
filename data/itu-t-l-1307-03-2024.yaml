@@ -52,16 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the advent of the artificial intelligence era, the demands for edge
+  content: 'With the advent of the artificial intelligence era, the demands for edge
     computing to provide ultra-low latency for various services that require high
     computation power continue to grow. The demand for micro data centres, an essential
     item of equipment for delivering edge computing services near users, is also growing.
     Recommendation ITU-T L.1307 presents considerations on micro data centres for
     edge computing services in energy efficiency aspects. In addition, it presents
-    the management information needed to manage micro data centres' energy efficiency
+    the management information needed to manage micro data centres'' energy efficiency
     and provides a metric for evaluating the energy performance of micro data centres.
     Finally, it presents energy efficiency issues in the operation of edge computing
-    services and methods to address them.\r\n"
+    services and methods to address them.
+    '
 status:
   stage:
     content: Published

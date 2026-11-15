@@ -47,15 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical
-    transport network (OTN) interface signals of the optical transport network, in
-    terms of:\r\n–\tOTN hierarchy\r\n–\tfunctionality of the overhead in support of
-    multi-wavelength optical networks\r\n–\tframe structures\r\n–\tbit rates\r\n–\tformats
-    for mapping client signals.\r\nEdition 6.3 of this Recommendation adds specifications
-    for OTUk, k=0, references to specific bit patterns that may appear in Status and
-    Payload Type overhead fields during the presence of the FlexO Squelch text pattern
-    [ITU-T G.709.1], a clarification of the ODU Locked maintenance signal and an enhancement
-    of the introductory text in Annex L.\r\n"
+  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical transport network (OTN) interface signals of the optical transport network, in terms of:\r\n–\tOTN hierarchy\r\n–\tfunctionality of the overhead in support of multi-wavelength optical networks\r\n–\tframe structures\r\n–\tbit rates\r\n–\tformats for mapping client signals.\r\nEdition 6.3 of this Recommendation adds specifications for OTUk, k=0, references to specific bit patterns that may appear in Status and Payload Type overhead fields during the presence of the FlexO Squelch text pattern [ITU-T G.709.1], a clarification of the ODU Locked maintenance signal and an enhancement of the introductory text in Annex L.\r\n"
 status:
   stage:
     content: Published

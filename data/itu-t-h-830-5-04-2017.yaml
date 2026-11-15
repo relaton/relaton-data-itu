@@ -53,19 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.830.5 provides a test suite structure (TSS) and
-    the test purposes (TP) for PCD-01 HL7 messages through the Health & Fitness Service
-    (HFS) Sender in the Services interface, based on the requirements defined in the
-    Recommendations of the ITU-T H.810 sub-series, of which Recommendation ITU‑T H.810
-    (2016) is the base Recommendation. The objective of this test specification is
-    to provide a high probability of interoperability at this interface.\r\n\r\nRecommendation
-    ITU-T H.830.5 is the transposition of Continua Test Tool DG2016, Test Suite Structure
-    & Test Purposes, Services Interface; Part 5: PCD-01 HL 7 Messages. HFS Sender
-    (Version 1.7, 2016-09-20), that was developed by the Continua Health Alliance.
-    A number of versions of this specification existed before transposition.\r\n\r\nThis
-    Recommendation includes an electronic attachment with the protocol implementation
-    conformance statements (PICS) and the protocol implementation extra information
-    for testing (PIXIT) required for the implementation of Annex A.\r\n\r\n"
+  content: "Recommendation ITU-T H.830.5 provides a test suite structure (TSS) and the test purposes (TP) for PCD-01 HL7 messages through the Health & Fitness Service (HFS) Sender in the Services interface, based on the requirements defined in the Recommendations of the ITU-T H.810 sub-series, of which Recommendation ITU‑T H.810 (2016) is the base Recommendation. The objective of this test specification is to provide a high probability of interoperability at this interface.\r\n\r\nRecommendation ITU-T H.830.5 is the transposition of Continua Test Tool DG2016, Test Suite Structure & Test Purposes, Services Interface; Part 5: PCD-01 HL 7 Messages. HFS Sender (Version 1.7, 2016-09-20), that was developed by the Continua Health Alliance. A number of versions of this specification existed before transposition.\r\n\r\nThis Recommendation includes an electronic attachment with the protocol implementation conformance statements (PICS) and the protocol implementation extra information for testing (PIXIT) required for the implementation of Annex A.\r\n\r\n"
 status:
   stage:
     content: Published

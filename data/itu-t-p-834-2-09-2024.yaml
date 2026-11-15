@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.834.2 describes an extension of the methodology
-    for deriving equipment impairment factors from instrumental models of Recommendation
-    ITU-T P.834. It is intended that it be primarily applied to determine fullband
-    equipment impairment factors Ie,FB, capturing the degradation introduced by fullband
-    speech codecs. The resulting fullband equipment impairment factors derived by
-    this methodology are intended to be used on the extended transmission rating scale
-    underlying the fullband E-model (see clause 6.2 of Recommendation ITU-T G.107.2).
-    They reflect the auditory impairments of the corresponding equipment in a listening-only
-    mode.\r\nThe methodology of Recommendation ITU-T P.834.2 makes use of instrumental
-    models (so called \"objective methods\"), e.g., the model defined in Recommendation
-    ITU-T P.863. It is to be considered as supplementary to the methodology based
-    on auditory listening-only tests, described in Recommendation ITU-T P.833.2. It
-    provides valid Ie,FB values only for those codecs for which the instrumental model
-    used produces meaningful estimations.\r\nSpeech material associated with Recommendation
-    ITU-T P.834.2 is freely available on the test signal database at .\r\n"
+  content: "Recommendation ITU-T P.834.2 describes an extension of the methodology for deriving equipment impairment factors from instrumental models of Recommendation ITU-T P.834. It is intended that it be primarily applied to determine fullband equipment impairment factors Ie,FB, capturing the degradation introduced by fullband speech codecs. The resulting fullband equipment impairment factors derived by this methodology are intended to be used on the extended transmission rating scale underlying the fullband E-model (see clause 6.2 of Recommendation ITU-T G.107.2). They reflect the auditory impairments of the corresponding equipment in a listening-only mode.\r\nThe methodology of Recommendation ITU-T P.834.2 makes use of instrumental models (so called \"objective methods\"), e.g., the model defined in Recommendation ITU-T P.863. It is to be considered as supplementary to the methodology based on auditory listening-only tests, described in Recommendation ITU-T P.833.2. It provides valid Ie,FB values only for those codecs for which the instrumental model used produces meaningful estimations.\r\nSpeech material associated with Recommendation ITU-T P.834.2 is freely available on the test signal database at .\r\n"
 status:
   stage:
     content: Published

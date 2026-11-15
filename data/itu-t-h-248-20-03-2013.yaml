@@ -53,11 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU T H.248.20 defines how the Local and Remote Descriptors
-    are used within ITU T H.248, ITU T H.221 and ITU T H.223 multiplexing (MUX) terminations
-    to associate demultiplexed streams (logical channels) with ITU T H.248.1 streams.\r\nThis
-    revision incorporates updates the allowed media values to align with the latest
-    version of the Session Description Protocol (SDP).\r\n"
+  content: "Recommendation ITU T H.248.20 defines how the Local and Remote Descriptors are used within ITU T H.248, ITU T H.221 and ITU T H.223 multiplexing (MUX) terminations to associate demultiplexed streams (logical channels) with ITU T H.248.1 streams.\r\nThis revision incorporates updates the allowed media values to align with the latest version of the Session Description Protocol (SDP).\r\n"
 status:
   stage:
     content: Published

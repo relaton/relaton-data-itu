@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.800 describes a unified functional architecture
-    for transport networks that use connection-oriented circuit switching (CO-CS),
-    connection-oriented packet switching (CO PS), and connectionless packet switching
-    (CL-PS) in a technology-independent way.\r\nCorrigendum 1 updates clause 3.2.8
-    to indicate that the description of the forwarding end port should be a type of
-    port, not point.\r\n"
+  content: "Recommendation ITU-T G.800 describes a unified functional architecture for transport networks that use connection-oriented circuit switching (CO-CS), connection-oriented packet switching (CO PS), and connectionless packet switching (CL-PS) in a technology-independent way.\r\nCorrigendum 1 updates clause 3.2.8 to indicate that the description of the forwarding end port should be a type of port, not point.\r\n"
 status:
   stage:
     content: Published

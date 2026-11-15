@@ -52,24 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8051/Y.1345 addresses management aspects of the
-    Ethernet transport network element containing transport functions of one or more
-    of the layer networks of the Ethernet transport network. The management of the
-    Ethernet layer networks is separable from that of its client layer networks so
-    that the same means of management can be used regardless of the client. The management
-    functions for fault management, configuration management, performance monitoring,
-    and security management are specified.\r\nThe 2009 Revision of this Recommendation
-    has added the management of additional transport functions that have been introduced
-    in the 2009 Revision of Recommendation ITU T G.8021/Y.1341.\r\nThe 2013 revision
-    of this Recommendation has added the management of additional functions, including:
-    client signal fail (CSF); proactive loss measurement using loss measurement message/loss
-    measurement reply (LMM/LMR); proactive delay measurement using delay measurement
-    message/delay measurement reply (DMM/DMR) and one-way delay measurement (1DM);
-    synthetic loss measurement using synthetic loss message/synthetic loss reply (SLM/SLR)
-    and one-way synthetic loss measurement (1SL) (proactive and on-demand); performance
-    management (PM) requirements on protocol data unit (PDU) generation type, message
-    period, measurement interval, repetition period, start time, stop time and session
-    duration; and PM data collection requirements.\r\n"
+  content: "Recommendation ITU-T G.8051/Y.1345 addresses management aspects of the Ethernet transport network element containing transport functions of one or more of the layer networks of the Ethernet transport network. The management of the Ethernet layer networks is separable from that of its client layer networks so that the same means of management can be used regardless of the client. The management functions for fault management, configuration management, performance monitoring, and security management are specified.\r\nThe 2009 Revision of this Recommendation has added the management of additional transport functions that have been introduced in the 2009 Revision of Recommendation ITU T G.8021/Y.1341.\r\nThe 2013 revision of this Recommendation has added the management of additional functions, including: client signal fail (CSF); proactive loss measurement using loss measurement message/loss measurement reply (LMM/LMR); proactive delay measurement using delay measurement message/delay measurement reply (DMM/DMR) and one-way delay measurement (1DM); synthetic loss measurement using synthetic loss message/synthetic loss reply (SLM/SLR) and one-way synthetic loss measurement (1SL) (proactive and on-demand); performance management (PM) requirements on protocol data unit (PDU) generation type, message period, measurement interval, repetition period, start time, stop time and session duration; and PM data collection requirements.\r\n"
 status:
   stage:
     content: Withdrawal

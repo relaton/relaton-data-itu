@@ -47,21 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.50 provides guidance on voltages and currents that
-    may safely be used to power telecommunication systems that are part of the network
-    of telecommunications service providers. These systems use the paired-conductor
-    cables of the network or specific power feeding cables to provide power to equipment
-    at remote locations. This equipment and the current-carrying conductors can be
-    accessed in the energized state by service or skilled personnel without using
-    insulated gloves or tools. For safety reasons, system types operating at hazardous
-    voltages are not intended to pass beyond the public network interface (PNI) between
-    the service provider and the end customer. These hazardous voltage systems are
-    not intended to be part of the subscriber's installation, and are not accessible
-    to users of the network. They are located in the networks between different telecommunication
-    centres, between a telecommunication centre and a telecommunications access facility/node,
-    and between a telecommunication centre and PNIs. Recommendation ITU-T K.50 only
-    covers systems that use continuous d.c. powering.  \r\n\r\nCorrigendum 2 amends
-    Figure 3: Maximum RTF voltages permitted after a single fault. \r\n"
+  content: "Recommendation ITU-T K.50 provides guidance on voltages and currents that may safely be used to power telecommunication systems that are part of the network of telecommunications service providers. These systems use the paired-conductor cables of the network or specific power feeding cables to provide power to equipment at remote locations. This equipment and the current-carrying conductors can be accessed in the energized state by service or skilled personnel without using insulated gloves or tools. For safety reasons, system types operating at hazardous voltages are not intended to pass beyond the public network interface (PNI) between the service provider and the end customer. These hazardous voltage systems are not intended to be part of the subscriber's installation, and are not accessible to users of the network. They are located in the networks between different telecommunication centres, between a telecommunication centre and a telecommunications access facility/node, and between a telecommunication centre and PNIs. Recommendation ITU-T K.50 only covers systems that use continuous d.c. powering.  \r\n\r\nCorrigendum 2 amends Figure 3: Maximum RTF voltages permitted after a single fault. \r\n"
 status:
   stage:
     content: Published

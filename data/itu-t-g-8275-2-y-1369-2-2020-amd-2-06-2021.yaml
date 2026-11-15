@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to this Recommendation provides the following updates: – Details
-    added on the use of [IEEE 1588-2019] – New profileVersion 1.2 and new profile
-    Identifier added for [IEEE 1588-2019] – New appendix added \"Considerations on
-    selecting time out values\" – New material added to clause 6.7.11 Packet timing
-    signal fail. – New member \"defaultDS.sdoId\" added to Table A.1 defaultDS data
-    set member specifications – New member \"currentDS.meanDelay\" added to Table
-    A.2 currentDS data set member specifications – New member \"portDS.minorVersionNumber\"
-    added to Table A.5 portDS data set member specifications – Parameters for \"portDS.syncReceiptTimeout\"
-    and \"portDS.delayRespReceiptTimeout\" in Table A.5, which were \"for further
-    study\", were filled in. \r\n"
+  content: "Amendment 2 to this Recommendation provides the following updates: – Details added on the use of [IEEE 1588-2019] – New profileVersion 1.2 and new profile Identifier added for [IEEE 1588-2019] – New appendix added \"Considerations on selecting time out values\" – New material added to clause 6.7.11 Packet timing signal fail. – New member \"defaultDS.sdoId\" added to Table A.1 defaultDS data set member specifications – New member \"currentDS.meanDelay\" added to Table A.2 currentDS data set member specifications – New member \"portDS.minorVersionNumber\" added to Table A.5 portDS data set member specifications – Parameters for \"portDS.syncReceiptTimeout\" and \"portDS.delayRespReceiptTimeout\" in Table A.5, which were \"for further study\", were filled in. \r\n"
 status:
   stage:
     content: Withdrawal

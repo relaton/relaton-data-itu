@@ -52,16 +52,17 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Energy storage systems aim to store electricity when the demand is low
+  content: 'Energy storage systems aim to store electricity when the demand is low
     and provide stored electricity when the demand is high. For efficient grid operations
-    and satisfying increasing customers' demands, while these systems should be distributed,
+    and satisfying increasing customers'' demands, while these systems should be distributed,
     it is essential that virtualized storages are dynamically allocated and operated
     for individual customers. Thus, Recommendation ITU-T Y.3023 provides the framework
     of distributed and virtualized energy storage systems. After identifying key characteristics
     and core technologies of energy storage systems, this Recommendation specifies
     roles of stakeholders associated to the energy value chain. It also provides an
     architectural overview specifying related interfaces and functional blocks. Finally,
-    mechanisms for virtualization of energy storage systems are described.\r\n"
+    mechanisms for virtualization of energy storage systems are described.
+    '
 status:
   stage:
     content: Published
@@ -91,7 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -134,8 +135,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

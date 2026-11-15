@@ -50,12 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Annex C to Recommendation ITU-T G.722.2 specifies the bit-exact ANSI C-code
-    implementation of the AMR-WB algorithm specified in Recommendation ITU-T G.722.2,
-    its Annexes A and B, and its Appendix I (non-normative).\r\n\r\nThis annex includes
-    an electronic attachment containing the C-code of the G.722.2 AMR-WB speech transcoder.
-    The C-code has been updated to harmonise with the AMR-WB coder in 3GPP specification
-    TS 26.173 V14.0.0 (2017-03).\r\n"
+  content: "Annex C to Recommendation ITU-T G.722.2 specifies the bit-exact ANSI C-code implementation of the AMR-WB algorithm specified in Recommendation ITU-T G.722.2, its Annexes A and B, and its Appendix I (non-normative).\r\n\r\nThis annex includes an electronic attachment containing the C-code of the G.722.2 AMR-WB speech transcoder. The C-code has been updated to harmonise with the AMR-WB coder in 3GPP specification TS 26.173 V14.0.0 (2017-03).\r\n"
 status:
   stage:
     content: Published

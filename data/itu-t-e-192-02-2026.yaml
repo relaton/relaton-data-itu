@@ -54,14 +54,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T E.192 and the international numbering, naming, addressing
+  content: 'Recommendation ITU-T E.192 and the international numbering, naming, addressing
     and identification (NNAI) resources referenced within will facilitate access to
     Internet of things (IoT)/machine-to-machine (M2M) services/applications provided
     at the global level, thereby enabling subscribers of that global IoT/M2M service/application
     to participate in a defined set of subscribed services on the basis of a unique,
     network-transparent NNAI resource across multiple networks from any fixed device
     and or mobile device, irrespective of geographic location, limited only by network
-    capabilities and restrictions imposed by the national legislation and the operator.\r\n"
+    capabilities and restrictions imposed by the national legislation and the operator.
+    '
 status:
   stage:
     content: Published

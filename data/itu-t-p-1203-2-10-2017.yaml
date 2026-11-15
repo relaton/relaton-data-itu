@@ -54,24 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1203.2 specifies the short-term audio quality estimation
-    module for Recommendation ITU‑T P.1203. The ITU-T P.1203 series of ITU-T Recommendations
-    specifies modules for a set of model algorithms for monitoring the integral media
-    session quality for transport control protocol (TCP) type video streaming. The
-    models comprise modules for short-term video-quality and audio-quality estimation
-    (the latter specified in this Recommendation). The per-one-second outputs of these
-    short-term modules are integrated into estimates of audio-visual quality and together
-    with information about initial loading delay and media playout stalling events,
-    they are further integrated into the final model output, the estimate of integral
-    quality. The respective ITU-T work item has formerly been referred to as “Parametric
-    non-intrusive assessment of TCP-based multimedia streaming quality” or “P.NATS”.
-    The Recommendation ITU-T P.1203.2 part of Recommendation ITU-T P.1203 provides
-    details for the module for bitstream-based, short-term audio quality estimation.
-    \r\n\r\nOnly one audio module is recommended for all four modes 0 to 3 of the
-    Recommendation ITU-T P.1203 model series, corresponding to mode 0. The model is
-    identical to the audio coding quality estimation component of the user datagram
-    protocol (UDP) streaming related prediction model described in Recommendation
-    ITU-T P.1201.\r\n"
+  content: "Recommendation ITU-T P.1203.2 specifies the short-term audio quality estimation module for Recommendation ITU‑T P.1203. The ITU-T P.1203 series of ITU-T Recommendations specifies modules for a set of model algorithms for monitoring the integral media session quality for transport control protocol (TCP) type video streaming. The models comprise modules for short-term video-quality and audio-quality estimation (the latter specified in this Recommendation). The per-one-second outputs of these short-term modules are integrated into estimates of audio-visual quality and together with information about initial loading delay and media playout stalling events, they are further integrated into the final model output, the estimate of integral quality. The respective ITU-T work item has formerly been referred to as “Parametric non-intrusive assessment of TCP-based multimedia streaming quality” or “P.NATS”. The Recommendation ITU-T P.1203.2 part of Recommendation ITU-T P.1203 provides details for the module for bitstream-based, short-term audio quality estimation. \r\n\r\nOnly one audio module is recommended for all four modes 0 to 3 of the Recommendation ITU-T P.1203 model series, corresponding to mode 0. The model is identical to the audio coding quality estimation component of the user datagram protocol (UDP) streaming related prediction model described in Recommendation ITU-T P.1201.\r\n"
 status:
   stage:
     content: Published

@@ -52,43 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes Asymmetric Digital Subscriber Line (ADSL)
-    Transceivers on a metallic twisted pair that allows high-speed data transmission
-    between the network operator end (ATU-C) and the customer end (ATU-R). This Recommendation
-    provides a variety of bearer channels in conjunction with one of three other services
-    dependent on the environment:1) ADSL transmission simultaneously on the same pair
-    with voice (band) service;2) ADSL transmission simultaneously on the same pair
-    with G.961 (Appendix I or II) ISDN services; or3) ADSL transmission on the same
-    pair with voiceband transmission and with TCM-ISDN (G.961 Appendix III) in an
-    adjacent pair.Systems allow approximately 6 Mbit/s downstream and approximately
-    640 kbit/s upstream data rates depending on the deployment and noise environment.This
-    Recommendation specifies the physical layer characteristics of the Asymmetric
-    Digital Subscriber Line (ADSL) interface to metallic loops.This Recommendation
-    has been written to help ensure the proper interfacing and interworking of ADSL
-    transmission units at the customer end (ATU-R) and at the network operator end
-    (ATU-C) and also to define the transport capability of the units. Proper operation
-    shall be ensured when these two units are manufactured and provided independently.
-    A single twisted pair of telephone wires is used to connect the ATU-C to the ATU-R.
-    The ADSL transmission units must deal with a variety of wire pair characteristics
-    and typical impairments (e.g. crosstalk and noise).An ADSL transmission unit can
-    simultaneously convey all of the following: downstream simplex bearers, duplex
-    bearers, a baseband analogue duplex channel, and ADSL line overhead for framing,
-    error control, operations and maintenance. Systems support a minimum of 6.144
-    Mbit/s downstream and 640 kbit/s upstream.This Recommendation includes mandatory
-    requirements, recommendations and options; these are designated by the words \"shall\",
-    \"should\" and \"may\" respectively. The word \"will\" is used only to designate
-    events that take place under some defined set of circumstances.Two categories
-    of performance are specified. Category I performance is required for compliance
-    with this Recommendation; performance enhancement options are not required for
-    category I equipment. Category II is a higher level of performance (i.e. longer
-    lines and greater impairments). Category II performance and characteristics are
-    not required for compliance with this Recommendation. This Recommendation defines
-    several optional capabilities and features:\r\n• echo cancellation;\r\n• trellis
-    coded modulation;\r\n• dual latency;\r\n• transport of a network timing reference;\r\n•
-    transport of STM and/or ATM;\r\n• reduced overhead framing modes.It is the intention
-    of this Recommendation to provide, by negotiation during initialization, for U-interface
-    compatibility and interoperability between transceivers complying to this Recommendation
-    and between transceivers that include different combinations of options."
+  content: "This Recommendation describes Asymmetric Digital Subscriber Line (ADSL) Transceivers on a metallic twisted pair that allows high-speed data transmission between the network operator end (ATU-C) and the customer end (ATU-R). This Recommendation provides a variety of bearer channels in conjunction with one of three other services dependent on the environment:1) ADSL transmission simultaneously on the same pair with voice (band) service;2) ADSL transmission simultaneously on the same pair with G.961 (Appendix I or II) ISDN services; or3) ADSL transmission on the same pair with voiceband transmission and with TCM-ISDN (G.961 Appendix III) in an adjacent pair.Systems allow approximately 6 Mbit/s downstream and approximately 640 kbit/s upstream data rates depending on the deployment and noise environment.This Recommendation specifies the physical layer characteristics of the Asymmetric Digital Subscriber Line (ADSL) interface to metallic loops.This Recommendation has been written to help ensure the proper interfacing and interworking of ADSL transmission units at the customer end (ATU-R) and at the network operator end (ATU-C) and also to define the transport capability of the units. Proper operation shall be ensured when these two units are manufactured and provided independently. A single twisted pair of telephone wires is used to connect the ATU-C to the ATU-R. The ADSL transmission units must deal with a variety of wire pair characteristics and typical impairments (e.g. crosstalk and noise).An ADSL transmission unit can simultaneously convey all of the following: downstream simplex bearers, duplex bearers, a baseband analogue duplex channel, and ADSL line overhead for framing, error control, operations and maintenance. Systems support a minimum of 6.144 Mbit/s downstream and 640 kbit/s upstream.This Recommendation includes mandatory requirements, recommendations and options; these are designated by the words \"shall\", \"should\" and \"may\" respectively. The word \"will\" is used only to designate events that take place under some defined set of circumstances.Two categories of performance are specified. Category I performance is required for compliance with this Recommendation; performance enhancement options are not required for category I equipment. Category II is a higher level of performance (i.e. longer lines and greater impairments). Category II performance and characteristics are not required for compliance with this Recommendation. This Recommendation defines several optional capabilities and features:\r\n• echo cancellation;\r\n• trellis coded modulation;\r\n• dual latency;\r\n• transport of a network timing reference;\r\n• transport of STM and/or ATM;\r\n• reduced overhead framing modes.It is the intention of this Recommendation to provide, by negotiation during initialization, for U-interface compatibility and interoperability between transceivers complying to this Recommendation and between transceivers that include different combinations of options."
 status:
   stage:
     content: Published

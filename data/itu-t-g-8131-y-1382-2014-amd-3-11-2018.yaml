@@ -47,19 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8131/Y.1382 provides architecture and mechanisms
-    for subnetwork connection (SNC) protection switching for MPLS transport profile
-    (MPLS-TP) networks. It describes the SNC protection architectures type, the uni-
-    and bidirectional switching types and the revertive/non-revertive operation types.
-    It defines an automatic protection coordination protocol used to coordinate both
-    ends of the protected domain.\r\n\r\nAmendment 1 provided the format of APC specific
-    information, and descriptions about management (MI) signals and trail protection
-    architecture.\r\n\r\nAmendment 2 to Recommendation ITU-T G.8131/Y.1382 (2014)
-    provided:\r\n\r\n–           Support for pseudowire (PW) protection.\r\n\r\n–
-    \          Modifications to the references of terms related to new Recommendation
-    ITU-T G.808\r\n\r\nAmendment 3 provides updates on the following: \r\n\r\n–           Initialization
-    behaviour,\r\n\r\n–           State transition modification, and\r\n\r\n–           Operation
-    related to state transition table lookup.\r\n"
+  content: "Recommendation ITU-T G.8131/Y.1382 provides architecture and mechanisms for subnetwork connection (SNC) protection switching for MPLS transport profile (MPLS-TP) networks. It describes the SNC protection architectures type, the uni- and bidirectional switching types and the revertive/non-revertive operation types. It defines an automatic protection coordination protocol used to coordinate both ends of the protected domain.\r\n\r\nAmendment 1 provided the format of APC specific information, and descriptions about management (MI) signals and trail protection architecture.\r\n\r\nAmendment 2 to Recommendation ITU-T G.8131/Y.1382 (2014) provided:\r\n\r\n–           Support for pseudowire (PW) protection.\r\n\r\n–           Modifications to the references of terms related to new Recommendation ITU-T G.808\r\n\r\nAmendment 3 provides updates on the following: \r\n\r\n–           Initialization behaviour,\r\n\r\n–           State transition modification, and\r\n\r\n–           Operation related to state transition table lookup.\r\n"
 status:
   stage:
     content: Published

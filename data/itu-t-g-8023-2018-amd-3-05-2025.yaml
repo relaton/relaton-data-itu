@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8023 specifies both the functional components and
-    the methodology that should be used in order to specify the Ethernet physical
-    layer and Flex Ethernet interfaces.\r\nAmendment 2 contains text modifications
-    to clauses 2, 3 and 6.3:\r\n–to update references to align with 802.3-2022;\r\n–to
-    add 800G PHYs from 802.3df.\r\nAmendment 3 adds Appendix I to clarify the meaning
-    of \"[IEEE 802.3] processes\".\r\n"
+  content: "Recommendation ITU-T G.8023 specifies both the functional components and the methodology that should be used in order to specify the Ethernet physical layer and Flex Ethernet interfaces.\r\nAmendment 2 contains text modifications to clauses 2, 3 and 6.3:\r\n–to update references to align with 802.3-2022;\r\n–to add 800G PHYs from 802.3df.\r\nAmendment 3 adds Appendix I to clarify the meaning of \"[IEEE 802.3] processes\".\r\n"
 status:
   stage:
     content: Published

@@ -53,17 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation covers the technical requirements for narrow-band
-    visual telephone services defined in H.200/AV.120-series Recommendations. In situations
-    where the transmission path includes one or more packet-based networks, each of
-    which is configured and managed to provide a non-guaranteed Quality of Service
-    (QOS) which is not equivalent to that of N-ISDN, additional protection or recovery
-    mechanisms, beyond those mandated by Recommendation H.320, need to be provided
-    in the terminals. It is noted that Recommendation H.322 addresses the use of some
-    other LANs which are able to provide the underlying performance not assumed by
-    the H.323/H.225.0\r\nRecommendations.\r\nThis Recommendation describes how audio,
-    video, data, and control information on a packet-based network can be managed
-    to provide conversational services in H.323 equipment."
+  content: "This Recommendation covers the technical requirements for narrow-band visual telephone services defined in H.200/AV.120-series Recommendations. In situations where the transmission path includes one or more packet-based networks, each of which is configured and managed to provide a non-guaranteed Quality of Service (QOS) which is not equivalent to that of N-ISDN, additional protection or recovery mechanisms, beyond those mandated by Recommendation H.320, need to be provided in the terminals. It is noted that Recommendation H.322 addresses the use of some other LANs which are able to provide the underlying performance not assumed by the H.323/H.225.0\r\nRecommendations.\r\nThis Recommendation describes how audio, video, data, and control information on a packet-based network can be managed to provide conversational services in H.323 equipment."
 status:
   stage:
     content: Withdrawal

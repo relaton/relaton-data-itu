@@ -52,26 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Bonding configurations, earthing, and the type of power distribution for
-    equipment located at remote electronic sites are proposed, which are intended
-    to promote harmony of installation and equipment configurations while providing
-    for personnel safety and electromagnetic compatibility. \r\n\r\nWith the popularization
-    of 5G mobile communication, the number of outdoor communication equipment is increasing
-    rapidly. In order to reduce costs, outdoor electronic equipment cabinets (EECs)
-    substitute outdoor shelters for telecommunication systems. Telecommunication equipment
-    (baseband units (BBUs)), power supply equipment, battery, temperature control
-    equipment, optical transmission equipment and other ancillary equipment can be
-    installed in these outdoor cabinets. \r\n\r\nRecommendation ITU-T K.35 (2018)
-    gives the definition of electronic equipment cabinet (EEC), earthing, bonding,
-    but it is not detailed. For example, the surge protective device (SPD) configuration
-    in the outdoor cabinet, the setting of the earthing terminal (main earthing terminal,
-    optical cable dedicated earthing terminal), and the bonding of the equipment in
-    the cabinet are not specified in detail. It is difficult for users of standards
-    to obtain effective specifications and guidelines. \r\n\r\nChina industrial standard
-    YD/T 1537-2015, Outdoor cabinets for telecommunication system, had defined EEC
-    as \"integrated access outdoor cabinet\" and \"base station outdoor cabinet\"
-    depending on the application situation. This standard provides more information
-    on lightning protection and earthing. \r\n"
+  content: "Bonding configurations, earthing, and the type of power distribution for equipment located at remote electronic sites are proposed, which are intended to promote harmony of installation and equipment configurations while providing for personnel safety and electromagnetic compatibility. \r\n\r\nWith the popularization of 5G mobile communication, the number of outdoor communication equipment is increasing rapidly. In order to reduce costs, outdoor electronic equipment cabinets (EECs) substitute outdoor shelters for telecommunication systems. Telecommunication equipment (baseband units (BBUs)), power supply equipment, battery, temperature control equipment, optical transmission equipment and other ancillary equipment can be installed in these outdoor cabinets. \r\n\r\nRecommendation ITU-T K.35 (2018) gives the definition of electronic equipment cabinet (EEC), earthing, bonding, but it is not detailed. For example, the surge protective device (SPD) configuration in the outdoor cabinet, the setting of the earthing terminal (main earthing terminal, optical cable dedicated earthing terminal), and the bonding of the equipment in the cabinet are not specified in detail. It is difficult for users of standards to obtain effective specifications and guidelines. \r\n\r\nChina industrial standard YD/T 1537-2015, Outdoor cabinets for telecommunication system, had defined EEC as \"integrated access outdoor cabinet\" and \"base station outdoor cabinet\" depending on the application situation. This standard provides more information on lightning protection and earthing. \r\n"
 status:
   stage:
     content: Published

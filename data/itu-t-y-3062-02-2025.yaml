@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3062 specifies trustworthiness evaluation for IMT-2020
+  content: 'Recommendation ITU-T Y.3062 specifies trustworthiness evaluation for IMT-2020
     and beyond with autonomous network (AN) functions. It includes the overview of
     trustworthiness, evaluation process for trustworthiness, evaluation metrics and
     related submetrics for trustworthiness, quantitative methods of establishing trustworthiness
@@ -61,7 +61,8 @@ abstract:
     in general; at the same time, the evaluation methodologies are described for each
     submetric and there are a series of detailed typical scenario descriptions to
     make them more understandable and acceptable for trustworthiness evaluation for
-    IMT-2020 and beyond with AN functions.\r\n"
+    IMT-2020 and beyond with AN functions.
+    '
 status:
   stage:
     content: Published
@@ -91,7 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -134,8 +135,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

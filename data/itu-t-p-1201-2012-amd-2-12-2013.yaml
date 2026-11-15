@@ -53,28 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to Recommendation ITU-T P.1201 (2012) introduces Appendix
-    III.\r\nAppendix III to ITU-T P.1201 describes a method allowing ITU-T P.1201
-    to be used for quality predictions of TCP-based, non-adaptive streaming typically
-    referred to as progressive download (PD). The appendix can be used standalone,
-    since it reproduces the required portions of model algorithms from ITU-T P.1201.1
-    and ITU-T P.1201.2.\r\nHere, the following changes or additions have been applied
-    to the ITU-T P.1201 scope:\r\n–\tLonger duration source sequences of between 30
-    s and 60 s compared to 10 s to 16 s long source sequences as in the case of the
-    ITU-T P.1201.1, ITU-T P.1201.2, ITU-T P.1202.1 and ITU-T P.1202.2 models;\r\n–\tTCP-based
-    transport instead of UDP-based transport;\r\n–\tInclusion of longer stalling events
-    as they may occur in case of playout-buffer underrun;\r\n–\tInclusion of initial
-    buffering, before the actual playout starts.\r\nIt is noted that the model has
-    been developed based on a relatively small subjective test dataset, as compared
-    to the large database used for the ITU-T P.1201.x series model training and validation
-    procedure.\r\nWhat is not addressed by this model:\r\n–\tAdaptive streaming;\r\n–\tSequences
-    longer than 60 s;\r\n–\tUser-interaction with the player (stop, play, rewind,
-    fast forward, jump to specific part of sequence, etc.).\r\nThe goal of this appendix
-    is to provide the market with an initial model capable of estimating quality related
-    with PD-type streaming applications but with a limited scope.\r\nThe appendix
-    is targeted to be usable standalone, and therefore the required parts from ITU\x1ET P.1201
-    and the model descriptions in ITU-T P.1201.1 and ITU-T P.1201.2 are provided here
-    for the implementers' convenience."
+  content: "Amendment 2 to Recommendation ITU-T P.1201 (2012) introduces Appendix III.\r\nAppendix III to ITU-T P.1201 describes a method allowing ITU-T P.1201 to be used for quality predictions of TCP-based, non-adaptive streaming typically referred to as progressive download (PD). The appendix can be used standalone, since it reproduces the required portions of model algorithms from ITU-T P.1201.1 and ITU-T P.1201.2.\r\nHere, the following changes or additions have been applied to the ITU-T P.1201 scope:\r\n–\tLonger duration source sequences of between 30 s and 60 s compared to 10 s to 16 s long source sequences as in the case of the ITU-T P.1201.1, ITU-T P.1201.2, ITU-T P.1202.1 and ITU-T P.1202.2 models;\r\n–\tTCP-based transport instead of UDP-based transport;\r\n–\tInclusion of longer stalling events as they may occur in case of playout-buffer underrun;\r\n–\tInclusion of initial buffering, before the actual playout starts.\r\nIt is noted that the model has been developed based on a relatively small subjective test dataset, as compared to the large database used for the ITU-T P.1201.x series model training and validation procedure.\r\nWhat is not addressed by this model:\r\n–\tAdaptive streaming;\r\n–\tSequences longer than 60 s;\r\n–\tUser-interaction with the player (stop, play, rewind, fast forward, jump to specific part of sequence, etc.).\r\nThe goal of this appendix is to provide the market with an initial model capable of estimating quality related with PD-type streaming applications but with a limited scope.\r\nThe appendix is targeted to be usable standalone, and therefore the required parts from ITU\x1eT P.1201 and the model descriptions in ITU-T P.1201.1 and ITU-T P.1201.2 are provided here for the implementers' convenience."
 status:
   stage:
     content: Published

@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3045 specifies the functional architecture of content
-    delivery in smart ubiquitous networks (SUN) by describing the relevant capabilities,
-    functions, operations and informational flows.\r\nThe features of SUN content
-    delivery are name-based content routing, in-network content caching, content delivery
-    optimization, and dynamic content routing adaptive to context information whose
-    principles are content awareness and context awareness as defined in Recommendations
-    ITU-T Y.3044 and ITU\x1ET Y.3043, respectively.\r\nThe content delivery in SUN
-    consists of content publication, content service provisioning, content routing
-    and content caching as capabilities to support the aforementioned features."
+  content: "Recommendation ITU-T Y.3045 specifies the functional architecture of content delivery in smart ubiquitous networks (SUN) by describing the relevant capabilities, functions, operations and informational flows.\r\nThe features of SUN content delivery are name-based content routing, in-network content caching, content delivery optimization, and dynamic content routing adaptive to context information whose principles are content awareness and context awareness as defined in Recommendations ITU-T Y.3044 and ITU\x1eT Y.3043, respectively.\r\nThe content delivery in SUN consists of content publication, content service provisioning, content routing and content caching as capabilities to support the aforementioned features."
 status:
   stage:
     content: Published
@@ -90,7 +82,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -133,8 +125,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

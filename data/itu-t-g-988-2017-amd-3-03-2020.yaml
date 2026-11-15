@@ -47,23 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.988 specifies the optical network unit (ONU) management
-    and control interface (OMCI) for optical access networks.\r\nRecommendation ITU-T
-    G.988 specifies the managed entities (MEs) of a protocol-independent management
-    information base (MIB) that models the exchange of information between an optical
-    line termination (OLT) and an ONU. In addition, it covers the ONU management and
-    control channel, protocol and detailed messages.\r\nAmendment 1 contains various
-    updates to ITU-T G.988 (2017). This amendment contains editorial corrections and
-    clarifications along with the following substantive changes and extensions to
-    PON OMCI related to bonded ONUs, filtering on DHCP for admission control purposes,
-    synchronization alarm support, ONU timezone offset and ONU manufacturing data.\r\nAmendment
-    2 adds support for DC voltage-based visual message indicators in ITU-T G.988 voice
-    over IP (VOIP) application service profile ME.\r\nThis amendment makes editorial
-    changes on extended virtual loacal area network (VLAN). Amendment 3 adds:\r\n•
-    Support for the discovery of Extended VLAN tagging operation configuration data
-    ME enhanced mode through the ONU3-G ME.\r\n• Support for Extended VLAN ME tagging
-    operation configuration data ME enhanced mode.\r\n• Corrections to Table 9.1.5-1
-    \"Plug-in unit types\""
+  content: "Recommendation ITU-T G.988 specifies the optical network unit (ONU) management and control interface (OMCI) for optical access networks.\r\nRecommendation ITU-T G.988 specifies the managed entities (MEs) of a protocol-independent management information base (MIB) that models the exchange of information between an optical line termination (OLT) and an ONU. In addition, it covers the ONU management and control channel, protocol and detailed messages.\r\nAmendment 1 contains various updates to ITU-T G.988 (2017). This amendment contains editorial corrections and clarifications along with the following substantive changes and extensions to PON OMCI related to bonded ONUs, filtering on DHCP for admission control purposes, synchronization alarm support, ONU timezone offset and ONU manufacturing data.\r\nAmendment 2 adds support for DC voltage-based visual message indicators in ITU-T G.988 voice over IP (VOIP) application service profile ME.\r\nThis amendment makes editorial changes on extended virtual loacal area network (VLAN). Amendment 3 adds:\r\n• Support for the discovery of Extended VLAN tagging operation configuration data ME enhanced mode through the ONU3-G ME.\r\n• Support for Extended VLAN ME tagging operation configuration data ME enhanced mode.\r\n• Corrections to Table 9.1.5-1 \"Plug-in unit types\""
 status:
   stage:
     content: Withdrawal

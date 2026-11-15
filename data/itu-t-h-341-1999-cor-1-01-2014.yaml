@@ -50,9 +50,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 1 to Recommendation ITU-T H.341 introduces a number of corrections
+  content: 'Corrigendum 1 to Recommendation ITU-T H.341 introduces a number of corrections
     to the formal language descriptions of clauses B.1, B.2 and B.3. The changes affect
-    only the electronic attachments, not the text of Recommendation ITU-T H.341.\r\n"
+    only the electronic attachments, not the text of Recommendation ITU-T H.341.
+    '
 status:
   stage:
     content: Published

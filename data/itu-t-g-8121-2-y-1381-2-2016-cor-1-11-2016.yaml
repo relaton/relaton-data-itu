@@ -47,9 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 1:\r\n–\tClarifies the configuration of MI_CC_Enable and MI_CVp_Enable\r\n–\tAdds
-    missing \"OAM Tool\" MIs for AIS and LCK at MT_TT_Sk\r\n–\tRemoves irrelevant
-    indexes in a few \"OAM Tool\" MIs"
+  content: "Corrigendum 1:\r\n–\tClarifies the configuration of MI_CC_Enable and MI_CVp_Enable\r\n–\tAdds missing \"OAM Tool\" MIs for AIS and LCK at MT_TT_Sk\r\n–\tRemoves irrelevant indexes in a few \"OAM Tool\" MIs"
 status:
   stage:
     content: Withdrawal

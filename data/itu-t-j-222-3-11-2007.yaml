@@ -53,13 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes security services for DOCSIS communications.
-    It has two main goals:\r\n1)\tto provide cable modem (CM) users with data privacy
-    across the cable network;\r\n2)\tto prevent unauthorized users from gaining access
-    to the network's RF MAC services.\r\nThis Recommendation provides operators with
-    tools to secure the provisioning process of cable modems (CM) and protect cable
-    modem users by encrypting traffic flows between the CM and the cable modem termination
-    system (CMTS).\r\n"
+  content: "This Recommendation describes security services for DOCSIS communications. It has two main goals:\r\n1)\tto provide cable modem (CM) users with data privacy across the cable network;\r\n2)\tto prevent unauthorized users from gaining access to the network's RF MAC services.\r\nThis Recommendation provides operators with tools to secure the provisioning process of cable modems (CM) and protect cable modem users by encrypting traffic flows between the CM and the cable modem termination system (CMTS).\r\n"
 status:
   stage:
     content: Published

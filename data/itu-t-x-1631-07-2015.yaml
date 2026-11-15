@@ -56,13 +56,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1631 | ISO/IEC 27017 provides guidelines for information
-    security controls applicable to the provision and use of cloud services by providing:\r\n\r\n–
-    \     additional implementation guidance for relevant controls specified in ISO/IEC
-    27002;\r\n\r\n–      additional controls with implementation guidance that specifically
-    relate to cloud services.\r\n\r\nThis Recommendation | International Standard
-    provides controls and implementation guidance for both cloud service providers
-    and cloud service customers.\r\n\r\n"
+  content: "Recommendation ITU-T X.1631 | ISO/IEC 27017 provides guidelines for information security controls applicable to the provision and use of cloud services by providing:\r\n\r\n–      additional implementation guidance for relevant controls specified in ISO/IEC 27002;\r\n\r\n–      additional controls with implementation guidance that specifically relate to cloud services.\r\n\r\nThis Recommendation | International Standard provides controls and implementation guidance for both cloud service providers and cloud service customers.\r\n\r\n"
 status:
   stage:
     content: Withdrawal
@@ -82,7 +76,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Information security, cybersecurity and privacy protection — Information
+      content: Information security, cybersecurity and privacy protection – Information
         security controls based on ISO/IEC 27002 for cloud services
     docidentifier:
     - content: X.1631 (12/2025)

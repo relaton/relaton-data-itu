@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3505 provides an overview and functional requirements
+  content: 'Recommendation ITU-T Y.3505 provides an overview and functional requirements
     of data storage federation. Data storage federation provides a single virtual
     volume from multiple data sources in heterogeneous storages. In this Recommendation,
     configuration for logical components, and ecosystem of data storage federation
     as well as cloud computing based data storage federation are introduced for data
-    storage federation. Functional requirements are derived from use cases.\r\n"
+    storage federation. Functional requirements are derived from use cases.
+    '
 status:
   stage:
     content: Published
@@ -131,7 +132,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -152,8 +153,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

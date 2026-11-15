@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.138 describes the reliability estimation methods
+  content: 'Recommendation ITU-T K.138 describes the reliability estimation methods
     based on the results of a neutron irradiation test taking into account the severity
     of the effect caused by soft errors. The soft error rate in the natural environment
     has to be calculated from the number of soft errors that occur during a neutron
@@ -62,7 +62,8 @@ abstract:
     from the error logs created during the test.  Additional mitigation measures should
     be applied if the equipment is less reliable than the target level. This Recommendation
     also provides guidelines for applying these mitigation measures in light of the
-    results of soft error tests.\r\n"
+    results of soft error tests.
+    '
 status:
   stage:
     content: Published

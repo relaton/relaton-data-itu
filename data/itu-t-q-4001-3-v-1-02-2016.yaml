@@ -54,17 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.4001.3 v.1 specifies a Part 3 of the abstract test
-    suite (ATS) and partial protocol implementation extra information for testing
-    (PIXIT) proforma specification on the network side for testing compliance to Recommendation
-    ITU-T Q.3403 v.1.\r\n\r\nThe version number, v.1, indicates that this is version
-    one of Recommendation ITU-T Q.4001.3, and that it relates to Release 10 of the
-    relevant 3GPP/ETSI standard.\r\n\r\nThis Recommendation endorses ETSI TS 102 790-3
-    V3.1.1 (2014-07) “Core Network and Interoperability Testing (INT); IMS specific
-    use of Session Initiation Protocol (SIP) and Session Description Protocol (SDP);
-    Conformance Testing; (3GPP Release 10); Part 3: Abstract Test Suite (ATS) and
-    partial Protocol Implementation eXtra Information for Testing (PIXIT) proforma
-    specification”."
+  content: "Recommendation ITU-T Q.4001.3 v.1 specifies a Part 3 of the abstract test suite (ATS) and partial protocol implementation extra information for testing (PIXIT) proforma specification on the network side for testing compliance to Recommendation ITU-T Q.3403 v.1.\r\n\r\nThe version number, v.1, indicates that this is version one of Recommendation ITU-T Q.4001.3, and that it relates to Release 10 of the relevant 3GPP/ETSI standard.\r\n\r\nThis Recommendation endorses ETSI TS 102 790-3 V3.1.1 (2014-07) “Core Network and Interoperability Testing (INT); IMS specific use of Session Initiation Protocol (SIP) and Session Description Protocol (SDP); Conformance Testing; (3GPP Release 10); Part 3: Abstract Test Suite (ATS) and partial Protocol Implementation eXtra Information for Testing (PIXIT) proforma specification”."
 status:
   stage:
     content: Published
@@ -322,9 +312,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -334,8 +324,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

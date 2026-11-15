@@ -47,19 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8273.2/Y.1368.2 specifies minimum requirements
-    for time and phase for telecom boundary clocks and telecom time slave clocks used
-    in synchronization network equipment that operates in the network architecture
-    as defined in Recommendations ITU-T G.8271, ITU-T G.8271.1, ITU-T G.8275 and ITU-T
-    G.8275.1. It supports time and/or phase synchronization distribution for packet-based
-    networks. This version of the Recommendation only applies to full timing support
-    from the network. These requirements apply under the normal environmental conditions
-    specified for the equipment. Amendment 1 to Recommendation ITU-T G.8273.2/Y.1368.2
-    provides the following updates: − Updates the title of the Recommendation − Updates
-    References − Adds a Note in clause 7.1.1 − Adds a reference to Recommendation
-    ITU-T G.8260 and a Note in clause 7.1.4 − Adds Noise tolerance for clock class
-    C − Makes editorial changes and updated Appendix V for T-BC chains − Changes \"1
-    PPS\" to \"1PPS\" (without space) throughout the Recommendation. \r\n"
+  content: "Recommendation ITU-T G.8273.2/Y.1368.2 specifies minimum requirements for time and phase for telecom boundary clocks and telecom time slave clocks used in synchronization network equipment that operates in the network architecture as defined in Recommendations ITU-T G.8271, ITU-T G.8271.1, ITU-T G.8275 and ITU-T G.8275.1. It supports time and/or phase synchronization distribution for packet-based networks. This version of the Recommendation only applies to full timing support from the network. These requirements apply under the normal environmental conditions specified for the equipment. Amendment 1 to Recommendation ITU-T G.8273.2/Y.1368.2 provides the following updates: − Updates the title of the Recommendation − Updates References − Adds a Note in clause 7.1.1 − Adds a reference to Recommendation ITU-T G.8260 and a Note in clause 7.1.4 − Adds Noise tolerance for clock class C − Makes editorial changes and updated Appendix V for T-BC chains − Changes \"1 PPS\" to \"1PPS\" (without space) throughout the Recommendation. \r\n"
 status:
   stage:
     content: Withdrawal

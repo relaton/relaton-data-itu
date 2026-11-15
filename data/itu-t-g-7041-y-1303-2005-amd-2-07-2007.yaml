@@ -47,11 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The contents of Amendment 2 of ITU-T Recommendation G.7041/Y.1303 may
-    be summarized as follows:\r• The text and figure for the direct mapping of IS-IS
-    data frames into GFP-F has been expanded to include any OSI network layer protocol.\r•
-    Text has been added to clarify that the client data frame PTI codes for MPLS also
-    apply to T-MPLS"
+  content: "The contents of Amendment 2 of ITU-T Recommendation G.7041/Y.1303 may be summarized as follows:\r• The text and figure for the direct mapping of IS-IS data frames into GFP-F has been expanded to include any OSI network layer protocol.\r• Text has been added to clarify that the client data frame PTI codes for MPLS also apply to T-MPLS"
 status:
   stage:
     content: Withdrawal

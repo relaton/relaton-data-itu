@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.41 defines certain parameters and mechanisms
-    for supporting the interconnection of a packet network with another network. It
-    is only applicable to the IP-based ITU‑T H.248 termination and provides such information
-    as the IP Realm Identifier used to indicate to which packet network the media
-    represented by the termination belongs.\r\n\r\nAmendment 1 to the first edition
-    introduced mechanisms that allow the media gateway controller to discover the
-    IP realms that are available at the media gateway at a certain time. It also introduced
-    a length limitation in the IP realm property.\r\n\r\nThe second edition removed
-    the package extension in the IP Realm Availability package in order to resolve
-    a property identity conflict.\r\n\r\nThis revision revises the IP domain connection
-    package to allow multiple realms to be specified in the IP Realm Identifier property.
-    This allows the usage of the property when the ReserveGroup / ReserveValue mechanism
-    is used to specify different transports.\r\n"
+  content: "Recommendation ITU-T H.248.41 defines certain parameters and mechanisms for supporting the interconnection of a packet network with another network. It is only applicable to the IP-based ITU‑T H.248 termination and provides such information as the IP Realm Identifier used to indicate to which packet network the media represented by the termination belongs.\r\n\r\nAmendment 1 to the first edition introduced mechanisms that allow the media gateway controller to discover the IP realms that are available at the media gateway at a certain time. It also introduced a length limitation in the IP realm property.\r\n\r\nThe second edition removed the package extension in the IP Realm Availability package in order to resolve a property identity conflict.\r\n\r\nThis revision revises the IP domain connection package to allow multiple realms to be specified in the IP Realm Identifier property. This allows the usage of the property when the ReserveGroup / ReserveValue mechanism is used to specify different transports.\r\n"
 status:
   stage:
     content: Published

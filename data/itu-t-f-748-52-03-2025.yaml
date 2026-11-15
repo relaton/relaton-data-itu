@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.52 establishes a framework of technical requirements
+  content: 'Recommendation ITU-T F.748.52 establishes a framework of technical requirements
     and evaluation methods for retrieval augmented generation based on large scale
     pre-trained models. This Recommendation offers users a better understanding of
     retrieval augmented generation technology and helps them set up retrieval augmented
     generation applications more quickly and suitably. This Recommendation also provides
-    guidelines for users to examine the level of retrieval augmented generation applications'
-    capabilities and promotes the effectiveness of applications.\r\n"
+    guidelines for users to examine the level of retrieval augmented generation applications''
+    capabilities and promotes the effectiveness of applications.
+    '
 status:
   stage:
     content: Published

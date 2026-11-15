@@ -47,21 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.984.3 describes the transmission convergence layer
-    for gigabit-capable passive optical networks – a family of flexible access networks
-    capable of providing a range of broadband and narrow-band services, operating
-    at the rates of 2.48832 Gbit/s downstream and 1.24416 or 2.48832 Gbit/s upstream.
-    This Recommendation includes the specifications of the following:\r\n•gigabit
-    PON transmission convergence (GTC) layer framing;\r\n•upstream time division multiple
-    access mechanism; \r\n•physical layer operation, administration and maintenance
-    (OAM) messaging channel; \r\n•principles and signalling mechanism of the upstream
-    dynamic bandwidth assignment; \r\n•optical network unit (ONU) activation method;
-    \r\n•forward error correction; \r\n•security.\r\nThis Recommendation forms an
-    integral part of the G.984-series of ITU-T Recommendations that, together, specify
-    a single coherent set of access transmission systems.\r\nAmendment 1 provides
-    necessary extensions to support Class D ODN. Amendment 2 implements the TC layer
-    consistency updates across the ITU-T PON specifications including Deactivation
-    Reason Codes and Forgotten ONU timer.\r\n"
+  content: "Recommendation ITU-T G.984.3 describes the transmission convergence layer for gigabit-capable passive optical networks – a family of flexible access networks capable of providing a range of broadband and narrow-band services, operating at the rates of 2.48832 Gbit/s downstream and 1.24416 or 2.48832 Gbit/s upstream. This Recommendation includes the specifications of the following:\r\n•gigabit PON transmission convergence (GTC) layer framing;\r\n•upstream time division multiple access mechanism; \r\n•physical layer operation, administration and maintenance (OAM) messaging channel; \r\n•principles and signalling mechanism of the upstream dynamic bandwidth assignment; \r\n•optical network unit (ONU) activation method; \r\n•forward error correction; \r\n•security.\r\nThis Recommendation forms an integral part of the G.984-series of ITU-T Recommendations that, together, specify a single coherent set of access transmission systems.\r\nAmendment 1 provides necessary extensions to support Class D ODN. Amendment 2 implements the TC layer consistency updates across the ITU-T PON specifications including Deactivation Reason Codes and Forgotten ONU timer.\r\n"
 status:
   stage:
     content: Published

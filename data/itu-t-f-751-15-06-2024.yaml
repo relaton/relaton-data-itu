@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.751.15 provides the assessment methods for distributed
+  content: 'Recommendation ITU-T F.751.15 provides the assessment methods for distributed
     ledger technology management service platform (DLT-MSP) and the assessment criteria
     cover the distributed ledger technology (DLT) layer, management layer and business
     layer. The description of each test case is composed of test purpose, test workflows
-    and expected results.\r\n"
+    and expected results.
+    '
 status:
   stage:
     content: Published

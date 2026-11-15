@@ -47,15 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9961 belongs to the family of ITU-T G.996x Recommendations.
-    Recommendation ITU-T G.9961 specifies the data link layer (DLL) for wireline-based
-    home networking transceivers capable of operating over premises wiring including
-    inside telephone wiring, coaxial cable, and power-line wiring. It complements
-    the system architecture and physical (PHY) layer specification in Recommendation
-    ITU-T G.9960, and the power spectral density (PSD) specification in Recommendation
-    ITU-T G.9964.\r\n\r\nCorrigendum 1 includes clarifications on the terminology
-    used for auxiliary information fields length and for LCMP messages. It also includes
-    corrections on timeout values and clarifies the MAP addressing fields."
+  content: "Recommendation ITU-T G.9961 belongs to the family of ITU-T G.996x Recommendations. Recommendation ITU-T G.9961 specifies the data link layer (DLL) for wireline-based home networking transceivers capable of operating over premises wiring including inside telephone wiring, coaxial cable, and power-line wiring. It complements the system architecture and physical (PHY) layer specification in Recommendation ITU-T G.9960, and the power spectral density (PSD) specification in Recommendation ITU-T G.9964.\r\n\r\nCorrigendum 1 includes clarifications on the terminology used for auxiliary information fields length and for LCMP messages. It also includes corrections on timeout values and clarifies the MAP addressing fields."
 status:
   stage:
     content: Withdrawal
@@ -91,8 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wireline-based home networking transceivers – Data
-        link layer specification
+      content: Unified high-speed wireline-based home networking transceivers –
+        Data link layer specification
     docidentifier:
     - content: G.9961 (12/2023)
       type: ITU

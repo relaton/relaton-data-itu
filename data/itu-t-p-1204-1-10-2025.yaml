@@ -53,25 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1204.1 describes a bitstream-based mode 0 video
-    quality model for monitoring the video quality for streaming using reliable transport
-    (e.g., hypertext transfer protocol- (HTTP-) based adaptive streaming (HAS) over
-    the transmission control protocol (TCP), quick user datagram protocol (UDP) Internet
-    connections (QUIC)). The estimate is validated for videos encoded with H.264,
-    H.265 or video payload type 9 (VP9) codecs at any resolution up to 4K/ultra-high
-    definition (UHD) resolution for personal computer (PC) monitors and television
-    (TV) and up to 2 560 × 1 440 for smartphone and tablet displays.\r\nThe ITU-T
-    P.1204 series of Recommendations provides sequence-related (between 5 s and 10
-    s) and per-1-second video-quality estimation. In principle, the per-one-second
-    outputs of this video-quality model can be used together with an audio model for
-    integration into audiovisual quality and, together with information about initial
-    loading delay and media playout stalling events, further into a final per-session
-    model output, an estimate of integral per-session quality (see e.g., ITU-T P.1203,
-    ITUT P.1203.2, ITU-T P.1203.3).\r\nRecommendation ITU-T P.1204.1 was developed
-    in collaboration with the video quality experts group (VQEG).\r\nThe ITU-T P.1204
-    series of Recommendations addresses three application areas:\r\n–large-screen
-    presentation as with fixed-network video streaming;\r\n–mobile streaming on handheld
-    devices such as smartphones;\r\n–presentation on tablet-type devices.\r\n\r\n"
+  content: "Recommendation ITU-T P.1204.1 describes a bitstream-based mode 0 video quality model for monitoring the video quality for streaming using reliable transport (e.g., hypertext transfer protocol- (HTTP-) based adaptive streaming (HAS) over the transmission control protocol (TCP), quick user datagram protocol (UDP) Internet connections (QUIC)). The estimate is validated for videos encoded with H.264, H.265 or video payload type 9 (VP9) codecs at any resolution up to 4K/ultra-high definition (UHD) resolution for personal computer (PC) monitors and television (TV) and up to 2 560 × 1 440 for smartphone and tablet displays.\r\nThe ITU-T P.1204 series of Recommendations provides sequence-related (between 5 s and 10 s) and per-1-second video-quality estimation. In principle, the per-one-second outputs of this video-quality model can be used together with an audio model for integration into audiovisual quality and, together with information about initial loading delay and media playout stalling events, further into a final per-session model output, an estimate of integral per-session quality (see e.g., ITU-T P.1203, ITUT P.1203.2, ITU-T P.1203.3).\r\nRecommendation ITU-T P.1204.1 was developed in collaboration with the video quality experts group (VQEG).\r\nThe ITU-T P.1204 series of Recommendations addresses three application areas:\r\n–large-screen presentation as with fixed-network video streaming;\r\n–mobile streaming on handheld devices such as smartphones;\r\n–presentation on tablet-type devices.\r\n\r\n"
 status:
   stage:
     content: Withdrawal

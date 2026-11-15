@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.743.26 specifies the technical requirements of
+  content: 'Recommendation ITU-T F.743.26 specifies the technical requirements of
     cloud gaming platform based on IMT2020 mobile edge computing. It defines the deployment,
     technical requirements for operations functionality within the cloud gaming platform,
     technical requirements for service capability functionality within the cloud gaming
     platform, technical requirements for cloud computing platform and network, and
     security requirements. The Recommendation aims to utilize the technical advantages
     of IMT-2020 mobile edge computing to provide a reference for the development and
-    deployment of the cloud gaming platform.\r\n"
+    deployment of the cloud gaming platform.
+    '
 status:
   stage:
     content: Published

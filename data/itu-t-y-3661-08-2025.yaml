@@ -53,16 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Big data driven networking (bDDN) can collect, store and analyse customer-based
-    data. It enables intelligent network maintenance, management and operation by
-    dynamically allocating resources to meet diverse customer needs through technologies
-    such as big data and artificial intelligence (AI).\r\nThe architecture and mechanism
-    for customer-oriented intelligent network operation (COINO) based on bDDN facilitate
-    real-time network monitoring, service tracking and the accurate matching of customer
-    demands, thereby enhancing technical value. Additionally, COINO drives continuous
-    business process transformation, reducing costs, improving efficiency and elevating
-    customer experience.\r\nRecommendation ITU-T Y.3661 specifies the architecture
-    and mechanism for COINO based on bDDN.\r\n"
+  content: "Big data driven networking (bDDN) can collect, store and analyse customer-based data. It enables intelligent network maintenance, management and operation by dynamically allocating resources to meet diverse customer needs through technologies such as big data and artificial intelligence (AI).\r\nThe architecture and mechanism for customer-oriented intelligent network operation (COINO) based on bDDN facilitate real-time network monitoring, service tracking and the accurate matching of customer demands, thereby enhancing technical value. Additionally, COINO drives continuous business process transformation, reducing costs, improving efficiency and elevating customer experience.\r\nRecommendation ITU-T Y.3661 specifies the architecture and mechanism for COINO based on bDDN.\r\n"
 status:
   stage:
     content: Published
@@ -82,7 +73,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3600-series – Big data and data handling standardization roadmap
+      content: ITU-T Y.3600-series – Big data and data handling standardization
+        roadmap
     docidentifier:
     - content: Y Suppl. 40 (11/2023)
       type: ITU
@@ -102,7 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -133,8 +125,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

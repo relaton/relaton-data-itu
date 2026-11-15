@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The concept of the Internet of things (IoT), defined in Recommendation
-    ITU-T Y.4000/Y.2060, plays an important role for telecommunication and information
-    technologies. It has been forecasted that the number of devices in the Internet
-    of things will be in the order of hundreds of billions pieces in the foreseeable
-    future, and that the number will later will grow to trillions of devices. It is
-    essential that most customers of telecommunication networks are IoT-based devices
-    in the near future. In other words, all objects that surround us might become
-    IoT objects. In accordance with Recommendation ITU-T Y.4050/Y.2069, the IoT are
-    things with a network address and with the ability to integrate it. The penetration
-    of IoT devices is going very fast, and therefore it requires the standardization
-    of identification procedures and relevant testing methods. \r\n\r\nAlso, bearing
-    in mind that there are many applications of Internet of things, testing their
-    identity might be considered as a very important issue as it allows customers
-    to ensure the authenticity of the IoT. \r\n\r\nRecommendation ITU-T Q.4063 also
-    addresses the classification of IoT, in terms of testing the identification systems
-    and the relevant testing approaches. \r\n"
+  content: "The concept of the Internet of things (IoT), defined in Recommendation ITU-T Y.4000/Y.2060, plays an important role for telecommunication and information technologies. It has been forecasted that the number of devices in the Internet of things will be in the order of hundreds of billions pieces in the foreseeable future, and that the number will later will grow to trillions of devices. It is essential that most customers of telecommunication networks are IoT-based devices in the near future. In other words, all objects that surround us might become IoT objects. In accordance with Recommendation ITU-T Y.4050/Y.2069, the IoT are things with a network address and with the ability to integrate it. The penetration of IoT devices is going very fast, and therefore it requires the standardization of identification procedures and relevant testing methods. \r\n\r\nAlso, bearing in mind that there are many applications of Internet of things, testing their identity might be considered as a very important issue as it allows customers to ensure the authenticity of the IoT. \r\n\r\nRecommendation ITU-T Q.4063 also addresses the classification of IoT, in terms of testing the identification systems and the relevant testing approaches. \r\n"
 status:
   stage:
     content: Published
@@ -325,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -337,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

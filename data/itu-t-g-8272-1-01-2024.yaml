@@ -52,11 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8272.1 specifies the requirements for enhanced
+  content: 'Recommendation ITU-T G.8272.1 specifies the requirements for enhanced
     primary reference time clocks (ePRTCs) suitable for time and phase synchronization
     in packet networks. It defines the error allowed at the time output of the ePRTC.
     These requirements apply under the normal environmental conditions specified for
-    the equipment.\r\n"
+    the equipment.
+    '
 status:
   stage:
     content: Published

@@ -52,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Deep packet inspection (DPI) device is a system that performs network
-    traffic inspection, interacts with a policy decision function and identifies applications
-    and flows. The functions of the DPI functional entity are defined in Recommendation
-    ITU-T Y.2770. Currently, operators have relatively comprehensive requirements
-    for DPI devices, which mandate functional and performance testing prior to the
-    devices being put into service.\r\nRecommendation ITU-T Q.4082 outlines the test
-    content and corresponding requirements to be considered during DPI device testing.\r\n"
+  content: "Deep packet inspection (DPI) device is a system that performs network traffic inspection, interacts with a policy decision function and identifies applications and flows. The functions of the DPI functional entity are defined in Recommendation ITU-T Y.2770. Currently, operators have relatively comprehensive requirements for DPI devices, which mandate functional and performance testing prior to the devices being put into service.\r\nRecommendation ITU-T Q.4082 outlines the test content and corresponding requirements to be considered during DPI device testing.\r\n"
 status:
   stage:
     content: Published
@@ -316,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -328,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

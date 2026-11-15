@@ -53,12 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "RTCP is the control protocol associated to RTP, which has various connection
+  content: RTCP is the control protocol associated to RTP, which has various connection
     models called RTP topologies. The handling of RTCP information may be RTP topology
-    dependent. ITU\x1ET H.248 media gateways may support various types of RTP topologies,
+    dependent. ITUT H.248 media gateways may support various types of RTP topologies,
     driven by network application scenarios. Recommendation ITU-T H.248.88 provides
     both general and detailed information about this topic, as well as explicit control
-    means to enforce dedicated RTP topologies in such media gateways."
+    means to enforce dedicated RTP topologies in such media gateways.
 status:
   stage:
     content: Published

@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.4077 reports on the elaboration of testbed as a
+  content: 'Recommendation ITU-T Q.4077 reports on the elaboration of testbed as a
     service (TaaS) application program interfaces (APIs) based on the requirements
     and reference model with properties of relevance for delivering testbed as a service
     (TaaS), to complement and extend Recommendation ITU-T Q.4068. Recommendation ITU-T
@@ -65,7 +65,8 @@ abstract:
     interoperability requirements for virtualizing and delivering modular and scalable
     TaaS on top of existing and future testbed infrastructures, including federated
     testbeds. TaaS is able to list the assets provided by the different testbeds and
-    expose them through dedicated APIs based on Recommendation ITU-T Q.4068.\r\n"
+    expose them through dedicated APIs based on Recommendation ITU-T Q.4068.
+    '
 status:
   stage:
     content: Published
@@ -331,9 +332,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -343,8 +344,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

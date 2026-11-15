@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.745 specifies a high level functional model, a
-    service description and requirements for speech-to-speech translation (S2ST) accomplished
-    by connecting distributed S2ST modules all over the world through a network. To
-    extend this network-based S2ST to other modalities, such as sign language, the
-    modality conversion markup language (MCML) needs to have an expandable structure.
-    The scope of this Recommendation is limited to the application protocol and the
-    services using the network-based S2ST.\r\nThis revision includes additional information
-    to clarify that Recommendation ITU-T F.745 could be applicable to both face-to-face
-    communication and remote communication."
+  content: "Recommendation ITU-T F.745 specifies a high level functional model, a service description and requirements for speech-to-speech translation (S2ST) accomplished by connecting distributed S2ST modules all over the world through a network. To extend this network-based S2ST to other modalities, such as sign language, the modality conversion markup language (MCML) needs to have an expandable structure. The scope of this Recommendation is limited to the application protocol and the services using the network-based S2ST.\r\nThis revision includes additional information to clarify that Recommendation ITU-T F.745 could be applicable to both face-to-face communication and remote communication."
 status:
   stage:
     content: Published

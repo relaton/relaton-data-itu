@@ -47,21 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275.2/Y.1369.2 specifies a profile for telecommunication
-    applications based on IEEE 1588 precision time protocol (PTP). The profile specifies
-    the IEEE 1588 functions that are necessary to ensure network element interoperability
-    for the delivery of accurate phase/time (and frequency) synchronization. The profile
-    is based on the use of partial timing support (PTS) or assisted partial timing
-    support (APTS) from the network architecture as described in Recommendation ITU-T
-    G.8275 and definitions described in Recommendation ITUT G.8260.\r\nAmendment 1
-    to Recommendation ITU-T G.8275.2 (2022/11) provides the following updates:\r\n•Added
-    notes to clause 6.7.9 \"Data set comparison algorithm\" with references to IEEE
-    1588 on defaultDS.timeReceiverOnly, portDS.masterOnly and portDS.notMaster.\r\n•Added
-    a note to \"Table 3 – Applicable clockClass values\" on T-BC-A holdover.\r\n•Added
-    performance monitoring Annex F of Recommendation ITU-T G.8275 as an optional feature
-    of this profile.\r\n•Clarified defaultDS.deviceType with a note added to Table
-    A.1.\r\n•Revised terminology based on inclusive language.\r\n•Incremented profileVersion
-    to 2.4 and 2.5 in clauses A.1 and A.11.\r\n\r\n"
+  content: "Recommendation ITU-T G.8275.2/Y.1369.2 specifies a profile for telecommunication applications based on IEEE 1588 precision time protocol (PTP). The profile specifies the IEEE 1588 functions that are necessary to ensure network element interoperability for the delivery of accurate phase/time (and frequency) synchronization. The profile is based on the use of partial timing support (PTS) or assisted partial timing support (APTS) from the network architecture as described in Recommendation ITU-T G.8275 and definitions described in Recommendation ITUT G.8260.\r\nAmendment 1 to Recommendation ITU-T G.8275.2 (2022/11) provides the following updates:\r\n•Added notes to clause 6.7.9 \"Data set comparison algorithm\" with references to IEEE 1588 on defaultDS.timeReceiverOnly, portDS.masterOnly and portDS.notMaster.\r\n•Added a note to \"Table 3 – Applicable clockClass values\" on T-BC-A holdover.\r\n•Added performance monitoring Annex F of Recommendation ITU-T G.8275 as an optional feature of this profile.\r\n•Clarified defaultDS.deviceType with a note added to Table A.1.\r\n•Revised terminology based on inclusive language.\r\n•Incremented profileVersion to 2.4 and 2.5 in clauses A.1 and A.11.\r\n\r\n"
 status:
   stage:
     content: Withdrawal

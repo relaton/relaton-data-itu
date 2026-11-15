@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T D.1040 may face more complicated scenarios in the
+  content: 'Recommendation ITU-T D.1040 may face more complicated scenarios in the
     real world, i.e., after the circuit capacity has been allocated and some of the
     circuits have been used, the length of the trans-multi-country terrestrial cable
     (TTC) is extended because the existing party contributes more cable or a new country
     joins in. This amendment adds Appendix I, which explains how to re-allocate the
-    circuit capacity in the above-mentioned case.\r\n"
+    circuit capacity in the above-mentioned case.
+    '
 status:
   stage:
     content: Published

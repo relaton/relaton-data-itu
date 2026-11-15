@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.22 describes a package to enable the media
-    gateway controller (MGC) to indicate to the media gateway (MG) to use or not to
-    use network resources associated with a shared risk group when setting up connections.
-    When network connections are associated with ephemeral terminations in the MG,
-    certain resources are used. A failure in the MG may result in the loss of certain
-    groups of resources, whilst other groups of resources remain unaffected. The resources
-    that share a risk of failure are called a shared risk group. A shared risk group
-    is simply a grouping of the network resources (e.g., IP interfaces) sharing the
-    same risk of failure. Each shared risk group could, for example, contain a number
-    of IP interfaces located on the same piece of hardware. If a resource failure
-    occurs, only terminations in the shared risk group corresponding to the failed
-    resource are affected while other terminations are not.\r\nThis revision incorporates
-    corrections to several values in the procedure associated with the usage of the
-    ''Include shared risk group'' property.\r\n"
+  content: "Recommendation ITU-T H.248.22 describes a package to enable the media gateway controller (MGC) to indicate to the media gateway (MG) to use or not to use network resources associated with a shared risk group when setting up connections. When network connections are associated with ephemeral terminations in the MG, certain resources are used. A failure in the MG may result in the loss of certain groups of resources, whilst other groups of resources remain unaffected. The resources that share a risk of failure are called a shared risk group. A shared risk group is simply a grouping of the network resources (e.g., IP interfaces) sharing the same risk of failure. Each shared risk group could, for example, contain a number of IP interfaces located on the same piece of hardware. If a resource failure occurs, only terminations in the shared risk group corresponding to the failed resource are affected while other terminations are not.\r\nThis revision incorporates corrections to several values in the procedure associated with the usage of the ''Include shared risk group'' property.\r\n"
 status:
   stage:
     content: Published

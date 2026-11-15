@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Smart home is a kind of home automation system in which a wide range of
-    IoT devices in a home cooperate to provide intelligent controlling and monitoring
-    functions for home users. Smart home gateway connects various smart home devices,
-    provides hardware interfaces of various smart home communication protocols, runs
-    communication protocols, performs protocol conversion and bridging, realizes the
-    interaction between user control terminal and Cloud server.\r\nRecommendation
-    ITU-T J.1612 aims to define the architecture for a smart home gateway (SHGW) which
-    addresses the functional requirements found in Recommendation ITU-T J.1611. The
-    Recommendation consists of concepts of a virtual device model, dynamic device
-    profile and other important software modules. With the introduction of these important
-    modules, the architecture can dynamically support existing smart home devices
-    and the devices in the future.\r\n"
+  content: "Smart home is a kind of home automation system in which a wide range of IoT devices in a home cooperate to provide intelligent controlling and monitoring functions for home users. Smart home gateway connects various smart home devices, provides hardware interfaces of various smart home communication protocols, runs communication protocols, performs protocol conversion and bridging, realizes the interaction between user control terminal and Cloud server.\r\nRecommendation ITU-T J.1612 aims to define the architecture for a smart home gateway (SHGW) which addresses the functional requirements found in Recommendation ITU-T J.1611. The Recommendation consists of concepts of a virtual device model, dynamic device profile and other important software modules. With the introduction of these important modules, the architecture can dynamically support existing smart home devices and the devices in the future.\r\n"
 status:
   stage:
     content: Withdrawal

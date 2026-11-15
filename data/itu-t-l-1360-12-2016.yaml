@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Energy efficiency has become one of the most important aspects for both
-    current and future telecommunications infrastructures. Taking energy into account
-    induces a new constraint when managing a network. To tackle the integration of
-    the energy constraint into the networks, the European Telecommunications Standards
-    Institute (ETSI) has recently standardized the green abstraction layer (ETSI ES
-    203 237) which is an interface between the resource and the control planes of
-    a network that enables control plane processes to manage the power management
-    capabilities of fixed network nodes to effectively adapt the energy consumption
-    of the network nodes with respect to the load variations.\r\nRecommendation ITU-T
-    L.1360 defines the integration of the green abstraction layer into a software-defined
-    networking (SDN) architecture (see Recommendation ITU-T Y.3302) in which the connections
-    between a set of network resources are on demand and are managed by one or more
-    software-defined networking controllers.\r\n"
+  content: "Energy efficiency has become one of the most important aspects for both current and future telecommunications infrastructures. Taking energy into account induces a new constraint when managing a network. To tackle the integration of the energy constraint into the networks, the European Telecommunications Standards Institute (ETSI) has recently standardized the green abstraction layer (ETSI ES 203 237) which is an interface between the resource and the control planes of a network that enables control plane processes to manage the power management capabilities of fixed network nodes to effectively adapt the energy consumption of the network nodes with respect to the load variations.\r\nRecommendation ITU-T L.1360 defines the integration of the green abstraction layer into a software-defined networking (SDN) architecture (see Recommendation ITU-T Y.3302) in which the connections between a set of network resources are on demand and are managed by one or more software-defined networking controllers.\r\n"
 status:
   stage:
     content: Published

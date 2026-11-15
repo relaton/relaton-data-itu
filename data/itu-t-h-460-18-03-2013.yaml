@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.460.18 extends Recommendation ITU-T H.323 to enable
-    ITU T H.323 devices to successfully exchange signalling and establish calls, even
-    when they are placed inside a private network behind NAT/FW devices. These extensions,
-    when used together with the facilities of ITU T H.460.19, enable ITU-T H.323 endpoints
-    to traverse NAT/FW installations with no additional equipment on the customer
-    premises. Alternatively, the ITU-T H.460.18 extensions may be implemented by a
-    proxy server to support unmodified ITU-T H.323 endpoints.\r\nThis revision introduces
-    a number of corrections and clarifications by incorporating technical and editorial
-    corrections from the ITU-T H.323-series Implementers Guide (03/2011).\r\n"
+  content: "Recommendation ITU-T H.460.18 extends Recommendation ITU-T H.323 to enable ITU T H.323 devices to successfully exchange signalling and establish calls, even when they are placed inside a private network behind NAT/FW devices. These extensions, when used together with the facilities of ITU T H.460.19, enable ITU-T H.323 endpoints to traverse NAT/FW installations with no additional equipment on the customer premises. Alternatively, the ITU-T H.460.18 extensions may be implemented by a proxy server to support unmodified ITU-T H.323 endpoints.\r\nThis revision introduces a number of corrections and clarifications by incorporating technical and editorial corrections from the ITU-T H.323-series Implementers Guide (03/2011).\r\n"
 status:
   stage:
     content: Published

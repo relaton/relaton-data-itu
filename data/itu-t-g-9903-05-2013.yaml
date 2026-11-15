@@ -53,23 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9903 contains the physical layer (PHY) and data
-    link layer (DLL) specification for the G3\x1EPLC narrowband orthogonal frequency
-    division multiplexing (OFDM) power line communication transceivers for communications
-    via alternating current and direct current electric power lines over frequencies
-    below 500 kHz. \r\nThis Recommendation uses material from Recommendations ITU-T
-    G.9955 and ITU\x1ET G.9956; specifically from Annexes A and D of ITU-T G.9955
-    and Annex A of ITU-T G.9956. New technical material has not been introduced in
-    this version.\r\nThe control parameters that determine spectral content, power
-    spectral density (PSD) mask requirements and the set of tools to support the reduction
-    of the transmit PSD can be found in Recommendation ITU-T G.9901.\r\nThis consolidated
-    text integrates the following changes:\r\n•\tthe support for an optional coherent
-    mode for use in CENELEC bandplans;\r\n•\tsupport for a new bandplan in CENELEC
-    B;\r\n•\ta regional annex for Japan (Annex F);\r\n•\ta new routing algorithm (LOADng)
-    that replaces the old one (LOAD);\r\n•\ta clause on coexistence with other NB-PLC
-    technologies;\r\n•\tvarious clarifications and corrections including on header
-    compression, and channel access mechanism;\r\n•\tthe removal of contention free
-    access (CFA); and \r\n•\ta major editorial restructuring.\r\n"
+  content: "Recommendation ITU-T G.9903 contains the physical layer (PHY) and data link layer (DLL) specification for the G3\x1ePLC narrowband orthogonal frequency division multiplexing (OFDM) power line communication transceivers for communications via alternating current and direct current electric power lines over frequencies below 500 kHz. \r\nThis Recommendation uses material from Recommendations ITU-T G.9955 and ITU\x1eT G.9956; specifically from Annexes A and D of ITU-T G.9955 and Annex A of ITU-T G.9956. New technical material has not been introduced in this version.\r\nThe control parameters that determine spectral content, power spectral density (PSD) mask requirements and the set of tools to support the reduction of the transmit PSD can be found in Recommendation ITU-T G.9901.\r\nThis consolidated text integrates the following changes:\r\n•\tthe support for an optional coherent mode for use in CENELEC bandplans;\r\n•\tsupport for a new bandplan in CENELEC B;\r\n•\ta regional annex for Japan (Annex F);\r\n•\ta new routing algorithm (LOADng) that replaces the old one (LOAD);\r\n•\ta clause on coexistence with other NB-PLC technologies;\r\n•\tvarious clarifications and corrections including on header compression, and channel access mechanism;\r\n•\tthe removal of contention free access (CFA); and \r\n•\ta major editorial restructuring.\r\n"
 status:
   stage:
     content: Withdrawal

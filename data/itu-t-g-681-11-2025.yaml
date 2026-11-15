@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.681 specifies the distributed fibre optic sensing
+  content: 'Recommendation ITU-T G.681 specifies the distributed fibre optic sensing
     (DFOS) optical interface requirements for implementing DFOS within terrestrial
     optical transmission systems. Optical interface requirements include DFOS wavelength
     allocation, interference and allowable crosstalk between the channel(s) of the
     optical transmission system and the DFOS channel(s). The sensing fibre is an optical
-    fibre used by the optical transmission system.\r\n"
+    fibre used by the optical transmission system.
+    '
 status:
   stage:
     content: Published

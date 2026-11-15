@@ -53,17 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the rapid proliferation of foundation models, the importance of inference
-    optimization is receiving increasing attention, as it enables foundation models
-    to be deployed in scenarios such as cloud, edge, and endpoint, providing extensive
-    services efficiently, and improving the efficiency of multimedia application development
-    significantly. Therefore, the technical requirements for inference optimization
-    are crucial. \r\nRecommendation ITU-T F.748.61 provides general technical requirements
-    for inference optimization, including data processing, model processing, model
-    deployment and model inference. This Recommendation is to specify framework and
-    requirements that meets the needs of foundation model inference optimization and
-    promotes the in-depth application and development of foundation models in various
-    industries.\r\n"
+  content: "With the rapid proliferation of foundation models, the importance of inference optimization is receiving increasing attention, as it enables foundation models to be deployed in scenarios such as cloud, edge, and endpoint, providing extensive services efficiently, and improving the efficiency of multimedia application development significantly. Therefore, the technical requirements for inference optimization are crucial. \r\nRecommendation ITU-T F.748.61 provides general technical requirements for inference optimization, including data processing, model processing, model deployment and model inference. This Recommendation is to specify framework and requirements that meets the needs of foundation model inference optimization and promotes the in-depth application and development of foundation models in various industries.\r\n"
 status:
   stage:
     content: Published

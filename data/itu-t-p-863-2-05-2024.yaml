@@ -53,16 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.863.2 describes a set of models for predicting
-    perceptual dimensions of degradations linked to the overall speech quality from
-    narrowband (300 to 3 400 Hz) to fullband (20 to 20 000 Hz) telecommunication scenarios.
-    The predictions target user judgements on four perceptual dimensions, as obtained
-    in a subjective test described in Annex A.\r\nThe models described in Recommendation
-    ITU-T P.863.2 are partially based on the internal parameters of the model given
-    in Recommendation ITU-T P.863. Recommendation ITU-T P.863.2 presents a detailed
-    description of all model parts that are not contained in Recommendation ITU-T
-    P.863. A conformity testing procedure is also specified in Annex B to allow a
-    user to validate whether an alternative implementation of the models is correct.\r\n"
+  content: "Recommendation ITU-T P.863.2 describes a set of models for predicting perceptual dimensions of degradations linked to the overall speech quality from narrowband (300 to 3 400 Hz) to fullband (20 to 20 000 Hz) telecommunication scenarios. The predictions target user judgements on four perceptual dimensions, as obtained in a subjective test described in Annex A.\r\nThe models described in Recommendation ITU-T P.863.2 are partially based on the internal parameters of the model given in Recommendation ITU-T P.863. Recommendation ITU-T P.863.2 presents a detailed description of all model parts that are not contained in Recommendation ITU-T P.863. A conformity testing procedure is also specified in Annex B to allow a user to validate whether an alternative implementation of the models is correct.\r\n"
 status:
   stage:
     content: Published

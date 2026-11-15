@@ -53,23 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275.2 specifies a profile for telecommunication
-    applications based on the precision time protocol (PTP) per IEEE 1588. This profile
-    specifies the PTP functions that are necessary to ensure network element interoperability
-    for the delivery of accurate phase/time (and frequency) synchronization. The profile
-    is based on the use of partial timing support (PTS) or assisted partial timing
-    support (APTS) from the network architecture as described in Recommendation ITUT G.8274,
-    and definitions described in Recommendation ITU-T G.8260. Common aspects of PTP
-    profiles for phase/time synchronization are specified in Recommendation ITU-T
-    G.8275.\r\nThis revision:\r\n•Updates references and abbreviations.\r\n•Updates
-    clauses 6.7.6 and 6.7.7, and added corresponding data set members in Table A.1.\r\n•Adds
-    description on packet timing signal fail (PTSF) for a virtual PTP port in clause
-    6.7.11.\r\n•Adds portDS.wtrRemainingTime in clause 6.7.12 and in Table A.5.\r\n•Aligns
-    the descriptions of clause 6.8 to Recommendation ITU-T G.8275.1 and adds corresponding
-    data set members in Table A.1.\r\n•Adds defaultDS.timeSinceCurrentClockMode in
-    clause 6.10 and in Table A.1.\r\n•Updates clauses 8, A.1 (profileIdentifier) and
-    A.8.\r\n•Updates Tables A.5, A.7.\r\n•Adds a new annex – Annex G.\r\n•Renumbers
-    tables.\r\n"
+  content: "Recommendation ITU-T G.8275.2 specifies a profile for telecommunication applications based on the precision time protocol (PTP) per IEEE 1588. This profile specifies the PTP functions that are necessary to ensure network element interoperability for the delivery of accurate phase/time (and frequency) synchronization. The profile is based on the use of partial timing support (PTS) or assisted partial timing support (APTS) from the network architecture as described in Recommendation ITUT G.8274, and definitions described in Recommendation ITU-T G.8260. Common aspects of PTP profiles for phase/time synchronization are specified in Recommendation ITU-T G.8275.\r\nThis revision:\r\n•Updates references and abbreviations.\r\n•Updates clauses 6.7.6 and 6.7.7, and added corresponding data set members in Table A.1.\r\n•Adds description on packet timing signal fail (PTSF) for a virtual PTP port in clause 6.7.11.\r\n•Adds portDS.wtrRemainingTime in clause 6.7.12 and in Table A.5.\r\n•Aligns the descriptions of clause 6.8 to Recommendation ITU-T G.8275.1 and adds corresponding data set members in Table A.1.\r\n•Adds defaultDS.timeSinceCurrentClockMode in clause 6.10 and in Table A.1.\r\n•Updates clauses 8, A.1 (profileIdentifier) and A.8.\r\n•Updates Tables A.5, A.7.\r\n•Adds a new annex – Annex G.\r\n•Renumbers tables.\r\n"
 status:
   stage:
     content: Published

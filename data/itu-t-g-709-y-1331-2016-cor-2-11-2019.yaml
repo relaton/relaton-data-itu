@@ -47,21 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Corrigendum 2 contains corrections to the fifth edition (06/2016)
-    of ITU-T Recommendation G.709/Y.1331, related to the:\r\n\r\n-         Terms defined
-    elsewhere (3.1).\r\n\r\n-         B100G MOTUm interface principal information
-    containment relationships (6.2).\r\n\r\n-         Maximum number of ODTUCn.1 and
-    ODTUCn.ts instances that can be multiplexed into an ODTUGCn in Figure 7-1 (7.1).\r\n\r\n-
-    \        Multiplexing of ODUk into OPUCn specification (7.4).\r\n\r\n-         Update
-    of FlexE terminology (3.1.6, 12.2.6, 17.11, Appendix XIV).\r\n\r\n-         Omission
-    of a payload type code point value for 50GBASE-R mapping into ODUflex (15.9.2.1.1).\r\n\r\n-
-    \        Atomic function that is processing PMI overhead (16).\r\n\r\n-         50GBASE-R
-    mapping into OPUflex (17.13.3).\r\n\r\n-         Mapping ODU1 into ODTU12 (19.5.1).\r\n\r\n-
-    \        Cm,max and Cn,max equations 19-7, 19-13, 20-7 and 20-13 (19.6, 20.5).\r\n\r\n-
-    \        Non-applicability of specifications in Annexes E.4 and F.3 to 100GBASE-R
-    (E.4, E.4.1, E.4.2, E.4.3, F.3.2.1, F.3.3).\r\n\r\n-         Non-applicability
-    of Ethernet LF insertion specification in G.709 (E.4.2).\r\n\r\n-         OTUCn
-    sub rates (OTUCn-M) Applications (Appendix XIII).\r\n\r\n \r\n"
+  content: "This Corrigendum 2 contains corrections to the fifth edition (06/2016) of ITU-T Recommendation G.709/Y.1331, related to the:\r\n\r\n-         Terms defined elsewhere (3.1).\r\n\r\n-         B100G MOTUm interface principal information containment relationships (6.2).\r\n\r\n-         Maximum number of ODTUCn.1 and ODTUCn.ts instances that can be multiplexed into an ODTUGCn in Figure 7-1 (7.1).\r\n\r\n-         Multiplexing of ODUk into OPUCn specification (7.4).\r\n\r\n-         Update of FlexE terminology (3.1.6, 12.2.6, 17.11, Appendix XIV).\r\n\r\n-         Omission of a payload type code point value for 50GBASE-R mapping into ODUflex (15.9.2.1.1).\r\n\r\n-         Atomic function that is processing PMI overhead (16).\r\n\r\n-         50GBASE-R mapping into OPUflex (17.13.3).\r\n\r\n-         Mapping ODU1 into ODTU12 (19.5.1).\r\n\r\n-         Cm,max and Cn,max equations 19-7, 19-13, 20-7 and 20-13 (19.6, 20.5).\r\n\r\n-         Non-applicability of specifications in Annexes E.4 and F.3 to 100GBASE-R (E.4, E.4.1, E.4.2, E.4.3, F.3.2.1, F.3.3).\r\n\r\n-         Non-applicability of Ethernet LF insertion specification in G.709 (E.4.2).\r\n\r\n-         OTUCn sub rates (OTUCn-M) Applications (Appendix XIII).\r\n\r\n \r\n"
 status:
   stage:
     content: Withdrawal

@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical
-    transport network (OTN) interface signals of the optical transport network, in
-    terms of:\r\n– OTN hierarchy\r\n– functionality of the overhead in support of
-    multi-wavelength optical networks\r\n– frame structures\r\n– bit rates\r\n– formats
-    for mapping client signals.\r\nEdition 6.0 of this Recommendation includes the
-    text of Amendments 1, 2, 3, Corrigendum 1 and 2 to Edition 5.0 of this Recommendation,
-    addition of 25 and 50 Gbit/s OTU, ODU and OPU frame formats and multiplexing of
-    lower rate ODUk/flex signals into these two OPUs, extension of the supported ODUflex(IMP)
-    bit rates to any rate, specification of frequency synchronous OTU and ODU and
-    addition of a new appendix with examples of ODUflex(GFP) and ODUflex(IMP) clock
-    generation methods. Edition 6.0 furthermore clarifies that the ODUflex(GFP) bit
-    rate can be any rate and is not limited to the recommended bit rates, updates
-    the OTN interface terminology, corrects the replacement signal definitions for
-    some of the Ethernet client signals and restricts the FlexE aware sub-rate granularity
-    to 25 Gbit/s."
+  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical transport network (OTN) interface signals of the optical transport network, in terms of:\r\n– OTN hierarchy\r\n– functionality of the overhead in support of multi-wavelength optical networks\r\n– frame structures\r\n– bit rates\r\n– formats for mapping client signals.\r\nEdition 6.0 of this Recommendation includes the text of Amendments 1, 2, 3, Corrigendum 1 and 2 to Edition 5.0 of this Recommendation, addition of 25 and 50 Gbit/s OTU, ODU and OPU frame formats and multiplexing of lower rate ODUk/flex signals into these two OPUs, extension of the supported ODUflex(IMP) bit rates to any rate, specification of frequency synchronous OTU and ODU and addition of a new appendix with examples of ODUflex(GFP) and ODUflex(IMP) clock generation methods. Edition 6.0 furthermore clarifies that the ODUflex(GFP) bit rate can be any rate and is not limited to the recommended bit rates, updates the OTN interface terminology, corrects the replacement signal definitions for some of the Ethernet client signals and restricts the FlexE aware sub-rate granularity to 25 Gbit/s."
 status:
   stage:
     content: Published

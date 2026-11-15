@@ -54,21 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3835 specifies functional architecture, associated
-    capabilities, reference points, and an operational procedure of quality-of-service
-    (QoS) assurance for integrated quantum key distribution network (QKDN) and user
-    network supporting end-to-end modern cryptography (UNemc) based on the defined
-    reference models and requirements in Recommendation ITU-T Y.3828.\r\nIt is challenging
-    to integrate a QKDN and a user network to support end-to-end modern cryptography
-    services to users including mobile objects (i.e., autonomous car, mobile phone,
-    etc.). Supplement 79 to ITU-T Y.3800-series Recommendations addresses this issue
-    and describes several use cases to deliver KSA-keys generated from QKDNs to the
-    user applications by means of modern cryptography (e.g., PKI technology) with
-    post quantum cryptography (PQC) algorithms. It also identifies various issues
-    to be addressed for standardization. Technical implications from the three end-to-end
-    use cases identified are related to control and management, and QoS aspects. Especially,
-    Recommendation ITUT Y.3828 addresses QoS assurance specific aspects in terms of
-    reference models and requirements.\r\n\r\n"
+  content: "Recommendation ITU-T Y.3835 specifies functional architecture, associated capabilities, reference points, and an operational procedure of quality-of-service (QoS) assurance for integrated quantum key distribution network (QKDN) and user network supporting end-to-end modern cryptography (UNemc) based on the defined reference models and requirements in Recommendation ITU-T Y.3828.\r\nIt is challenging to integrate a QKDN and a user network to support end-to-end modern cryptography services to users including mobile objects (i.e., autonomous car, mobile phone, etc.). Supplement 79 to ITU-T Y.3800-series Recommendations addresses this issue and describes several use cases to deliver KSA-keys generated from QKDNs to the user applications by means of modern cryptography (e.g., PKI technology) with post quantum cryptography (PQC) algorithms. It also identifies various issues to be addressed for standardization. Technical implications from the three end-to-end use cases identified are related to control and management, and QoS aspects. Especially, Recommendation ITUT Y.3828 addresses QoS assurance specific aspects in terms of reference models and requirements.\r\n\r\n"
 status:
   stage:
     content: Published
@@ -98,7 +84,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -119,8 +105,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -183,8 +168,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800 series – Quantum key distribution networks – Role in end-to-end
-        cryptographic services with non-quantum cryptography
+      content: ITU-T Y.3800 series – Quantum key distribution networks – Role
+        in end-to-end cryptographic services with non-quantum cryptography
     docidentifier:
     - content: Y Suppl. 79 (11/2023)
       type: ITU
@@ -288,7 +273,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3800-series – Technical considerations of quantum network architecture
+      content: ITU-T Y.3800-series – Technical considerations of quantum network
+        architecture
     docidentifier:
     - content: Y Suppl. 115 (10/2026)
       type: ITU

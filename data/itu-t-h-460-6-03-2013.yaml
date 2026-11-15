@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.460.6 provides a method for the rapid creation
-    or reconfiguration of media streams under the control of endpoints or third parties.
-    It is especially useful for operations such as the redirection of a caller to
-    an automatic voice response unit, or the initiation of new media channels, such
-    as a modem data channel, in response to detected events, such as modem answer
-    tone. It also supports the rapid redirection of media streams from a called party
-    to an automatic answering device.\r\nThis revision introduces a number of corrections
-    and clarifications by incorporating technical and editorial corrections from the
-    ITU-T H.323-series Implementers Guide (03/2011).\r\n"
+  content: "Recommendation ITU-T H.460.6 provides a method for the rapid creation or reconfiguration of media streams under the control of endpoints or third parties. It is especially useful for operations such as the redirection of a caller to an automatic voice response unit, or the initiation of new media channels, such as a modem data channel, in response to detected events, such as modem answer tone. It also supports the rapid redirection of media streams from a called party to an automatic answering device.\r\nThis revision introduces a number of corrections and clarifications by incorporating technical and editorial corrections from the ITU-T H.323-series Implementers Guide (03/2011).\r\n"
 status:
   stage:
     content: Published

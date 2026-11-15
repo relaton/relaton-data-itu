@@ -54,21 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.850.1 provides a test suite structure (TSS) and
-    the test purposes (TP) for the transcoding of thermometer data by personal health
-    gateways in the Personal Health Devices (PHD) interface of thermometer device
-    application-level data between the Bluetooth Low Energy Bluetooth Generic Attribute
-    Profile (GATT) format and the IEEE 11073-20601 data format, of which Recommendation
-    ITU-T H.810 (2016) is the base Recommendation. The objective of this test specification
-    is to provide a high probability of interoperability at this interface.\r\nRecommendation
-    ITU-T H.850.1 is a transposition of clause 3.3 of Continua Test Tool DG2016, Test
-    Suite Structure & Test Purposes, Personal Health Devices Interface; Part 10: PHD
-    Transcoding Whitepaper. Personal Health Gateway (Version 1.7, 2017-07-18), that
-    was developed by the Personal Connected Health Alliance. A number of versions
-    of this specification existed before transposition.\r\nThis Recommendation includes
-    an electronic attachment with the protocol implementation conformance statements
-    (PICS) and the protocol implementation extra information for testing (PIXIT) required
-    for the implementation of Annex A."
+  content: "Recommendation ITU-T H.850.1 provides a test suite structure (TSS) and the test purposes (TP) for the transcoding of thermometer data by personal health gateways in the Personal Health Devices (PHD) interface of thermometer device application-level data between the Bluetooth Low Energy Bluetooth Generic Attribute Profile (GATT) format and the IEEE 11073-20601 data format, of which Recommendation ITU-T H.810 (2016) is the base Recommendation. The objective of this test specification is to provide a high probability of interoperability at this interface.\r\nRecommendation ITU-T H.850.1 is a transposition of clause 3.3 of Continua Test Tool DG2016, Test Suite Structure & Test Purposes, Personal Health Devices Interface; Part 10: PHD Transcoding Whitepaper. Personal Health Gateway (Version 1.7, 2017-07-18), that was developed by the Personal Connected Health Alliance. A number of versions of this specification existed before transposition.\r\nThis Recommendation includes an electronic attachment with the protocol implementation conformance statements (PICS) and the protocol implementation extra information for testing (PIXIT) required for the implementation of Annex A."
 status:
   stage:
     content: Published

@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.798 (2017) contains text modifications
-    and additions:\r\n\r\n-          moving the ODUkP to Ethernet MAC layer and Ethernet
-    Reconciliation sublayer adaptation functions from ITU-T G.8021 to ITU-T G.798.\r\n-
-    \         to support adaptation of ODUkP to Ethernet Coding sublayer for 25 Gb/s,
-    200 Gb/s and 400 Gb/s Ethernet signals.\r\n-          to align with ITU-T G.8023.\r\n-
-    \         replacing Appendix VIII to align with ITU-T G.872 and G.873.1.\r\n\r\n"
+  content: "Amendment 1 to Recommendation ITU-T G.798 (2017) contains text modifications and additions:\r\n\r\n-          moving the ODUkP to Ethernet MAC layer and Ethernet Reconciliation sublayer adaptation functions from ITU-T G.8021 to ITU-T G.798.\r\n-          to support adaptation of ODUkP to Ethernet Coding sublayer for 25 Gb/s, 200 Gb/s and 400 Gb/s Ethernet signals.\r\n-          to align with ITU-T G.8023.\r\n-          replacing Appendix VIII to align with ITU-T G.872 and G.873.1.\r\n\r\n"
 status:
   stage:
     content: Withdrawal

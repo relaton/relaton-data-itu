@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The distributed core network is a core network which builds on network
+  content: 'The distributed core network is a core network which builds on network
     functional units collaborating in a distributed manner to provide the network
     functions of control plane, user plane and data plane. Recommendation ITU-T Y.3144
     specifies the enabling features, requirements, functional architecture, network
     function enhancements and procedures of the distributed core network, in the context
-    of future networks including IMT-2020.\r\n"
+    of future networks including IMT-2020.
+    '
 status:
   stage:
     content: Published
@@ -99,7 +100,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -131,8 +132,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -226,7 +226,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 111 to ITU-T Y.3100-series - Guidance for migrating existing
+      content: Supplement 111 to ITU-T Y.3100-series – Guidance for migrating existing
         mobile network technologies to IMT-2020 and beyond
     docidentifier:
     - content: Y Suppl. 111 (07/2026)

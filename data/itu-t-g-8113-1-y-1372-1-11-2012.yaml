@@ -53,20 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8113.1/Y.1372.1 specifies mechanisms for user-plane
-    operations, administration and maintenance (OAM) in multi-protocol label switching
-    transport profile (MPLS TP) networks to meet the MPLS-TP OAM requirements defined
-    in IETF RFC 5860. It also specifies the MPLS-TP OAM packet formats, syntax and
-    semantics of MPLS-TP OAM packet fields.\r\nThe OAM mechanisms defined in this
-    Recommendation assume common forwarding of the MPLS TP user packets and MPLS-TP
-    OAM packets. In transport networks, the OAM return path is always in-band.\r\nThe
-    MPLS-TP OAM mechanisms described in this Recommendation apply to co-routed bidirectional
-    point-to-point MPLS-TP connections. Unidirectional point-to-point and point to
-    multipoint MPLS-TP connections will be addressed in a future version of this Recommendation.\r\nThis
-    Recommendation is compliant with the transport profile of MPLS as defined by the
-    IETF. In the event of a misalignment in MPLS-TP-related architecture, framework,
-    and protocols between this ITU-T Recommendation and the normatively referenced
-    IETF RFCs, the RFCs will take precedence.\r\n"
+  content: "Recommendation ITU-T G.8113.1/Y.1372.1 specifies mechanisms for user-plane operations, administration and maintenance (OAM) in multi-protocol label switching transport profile (MPLS TP) networks to meet the MPLS-TP OAM requirements defined in IETF RFC 5860. It also specifies the MPLS-TP OAM packet formats, syntax and semantics of MPLS-TP OAM packet fields.\r\nThe OAM mechanisms defined in this Recommendation assume common forwarding of the MPLS TP user packets and MPLS-TP OAM packets. In transport networks, the OAM return path is always in-band.\r\nThe MPLS-TP OAM mechanisms described in this Recommendation apply to co-routed bidirectional point-to-point MPLS-TP connections. Unidirectional point-to-point and point to multipoint MPLS-TP connections will be addressed in a future version of this Recommendation.\r\nThis Recommendation is compliant with the transport profile of MPLS as defined by the IETF. In the event of a misalignment in MPLS-TP-related architecture, framework, and protocols between this ITU-T Recommendation and the normatively referenced IETF RFCs, the RFCs will take precedence.\r\n"
 status:
   stage:
     content: Withdrawal

@@ -52,28 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.874 addresses management aspects of optical transport
-    network elements containing transport functions of one or more of the layer networks
-    of the optical transport network. The management of the optical layer networks
-    is separable from that of its client layer networks so that the same means of
-    management can be used regardless of the client. The management functions for
-    fault management, configuration management and performance monitoring are specified.\r\n\r\nThe
-    2008 revision of this Recommendation has updated the management information to
-    align with Recommendation ITU-T G.798, reorganized the sections to align with
-    the structure of Recommendation ITU-T G.7710/Y.1701, and replaced the generic
-    text with pointers to Recommendation ITU-T G.7710/Y.1701.\r\n\r\nThe 2010 revision
-    of this Recommendation has added the management of new transport functions that
-    have been introduced in the 2010 revision of Recommendation ITU-T G.798, including
-    OPSMnk_TT, OPSM/OTUk a_A, and ODUk for k=0, 2e, 4, and flex.\r\n\r\nThe 2013 revision
-    of this Recommendation has added the management of hitless adjustment of ODUflex
-    (GFP) (HAO), APS, Application codes and PM data collection.\r\n\r\nThe 2017 revision
-    of this Recommendation has added description to cover OTUCn GCC0, added the application
-    code related MI signals, updated the MI signals for ODU2eP/FC-1200_A, OSM256.4/CBRx_A,
-    OSx/CBRx-b_A_Sk and OSx/CBRx-c_A_Sk, removed the nDelay, nES, and fES primitives,
-    moved the description of O.MN, O.MSN, and O.NE to the convention clause, and updated
-    the default values of DEGThr and DEGM, updated Appendix III to align with G.709
-    (6/2016) Table 15-9, and removed the adaptation function activation and MI_Active
-    in align with G.798.\r\n"
+  content: "Recommendation ITU-T G.874 addresses management aspects of optical transport network elements containing transport functions of one or more of the layer networks of the optical transport network. The management of the optical layer networks is separable from that of its client layer networks so that the same means of management can be used regardless of the client. The management functions for fault management, configuration management and performance monitoring are specified.\r\n\r\nThe 2008 revision of this Recommendation has updated the management information to align with Recommendation ITU-T G.798, reorganized the sections to align with the structure of Recommendation ITU-T G.7710/Y.1701, and replaced the generic text with pointers to Recommendation ITU-T G.7710/Y.1701.\r\n\r\nThe 2010 revision of this Recommendation has added the management of new transport functions that have been introduced in the 2010 revision of Recommendation ITU-T G.798, including OPSMnk_TT, OPSM/OTUk a_A, and ODUk for k=0, 2e, 4, and flex.\r\n\r\nThe 2013 revision of this Recommendation has added the management of hitless adjustment of ODUflex (GFP) (HAO), APS, Application codes and PM data collection.\r\n\r\nThe 2017 revision of this Recommendation has added description to cover OTUCn GCC0, added the application code related MI signals, updated the MI signals for ODU2eP/FC-1200_A, OSM256.4/CBRx_A, OSx/CBRx-b_A_Sk and OSx/CBRx-c_A_Sk, removed the nDelay, nES, and fES primitives, moved the description of O.MN, O.MSN, and O.NE to the convention clause, and updated the default values of DEGThr and DEGM, updated Appendix III to align with G.709 (6/2016) Table 15-9, and removed the adaptation function activation and MI_Active in align with G.798.\r\n"
 status:
   stage:
     content: Withdrawal

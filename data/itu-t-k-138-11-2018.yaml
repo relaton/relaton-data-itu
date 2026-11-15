@@ -53,16 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes the reliability estimation methods based
-    on the results of a neutron irradiation test taking into account the severity
-    of the effect caused by soft errors. The soft error rate in the natural environment
-    has to be calculated from the number of soft errors that occur during a neutron
-    irradiation test. The severity of the impact of a soft error on telecommunications
-    systems, such as the impact on the client signal and control system is analysed
-    from the error logs created during the test. \r\n\r\nAdditional mitigation measures
-    should be applied if the equipment is less reliable than the target level. This
-    Recommendation also provides guidelines for applying these mitigation measures
-    in light of the results of soft error tests.\r\n"
+  content: "This Recommendation describes the reliability estimation methods based on the results of a neutron irradiation test taking into account the severity of the effect caused by soft errors. The soft error rate in the natural environment has to be calculated from the number of soft errors that occur during a neutron irradiation test. The severity of the impact of a soft error on telecommunications systems, such as the impact on the client signal and control system is analysed from the error logs created during the test. \r\n\r\nAdditional mitigation measures should be applied if the equipment is less reliable than the target level. This Recommendation also provides guidelines for applying these mitigation measures in light of the results of soft error tests.\r\n"
 status:
   stage:
     content: Withdrawal

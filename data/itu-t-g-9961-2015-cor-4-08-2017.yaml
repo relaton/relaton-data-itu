@@ -47,10 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 4 to Recommendation ITU-T G.9961 (2015) includes:\r\n\r\n1.
-    \     Revision of the text of §8.6.1.1.4.1 “Registration request message (ADM_NodeRegistrRequest.req)”.\r\n\r\n2.
-    \     Revision of the text of §8.8.5 “Auxiliary information field”.\r\n\r\n3.
-    \     Revision of the text of §8.8.5.15 “Additional domain information sub-field”.\r\n"
+  content: "Corrigendum 4 to Recommendation ITU-T G.9961 (2015) includes:\r\n\r\n1.      Revision of the text of §8.6.1.1.4.1 “Registration request message (ADM_NodeRegistrRequest.req)”.\r\n\r\n2.      Revision of the text of §8.8.5 “Auxiliary information field”.\r\n\r\n3.      Revision of the text of §8.8.5.15 “Additional domain information sub-field”.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -86,8 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wireline-based home networking transceivers – Data
-        link layer specification
+      content: Unified high-speed wireline-based home networking transceivers –
+        Data link layer specification
     docidentifier:
     - content: G.9961 (12/2023)
       type: ITU

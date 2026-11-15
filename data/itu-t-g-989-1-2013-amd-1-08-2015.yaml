@@ -47,17 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.989.1 (2013) provides additional
-    information on protection and/or restoration in NG-PON2 networks using flexible
-    wavelength scheduling, which is not covered in clause 9.4, as well as other new
-    requirements of the ITU-T G.989-series systems not captured in ITU-T G.989.1 (2013).\r\n\r\nRequirements
-    identified for inclusion in this amendment are:\r\n\r\n−           Network protection
-    in the case of a multi-wavelength access system. In particular, the possibility
-    of ODN topologies that appear to be type B (shared splitter), but that provide
-    additional capabilities. Also, the potential for 1:n protection in addition to
-    the 1:1 protection previously described. \r\n\r\n−           Transport of wireless
-    fronthaul links over the access system. Such links have exceptional service requirements
-    and these are evolving as the application develops in the industry."
+  content: "Amendment 1 to Recommendation ITU-T G.989.1 (2013) provides additional information on protection and/or restoration in NG-PON2 networks using flexible wavelength scheduling, which is not covered in clause 9.4, as well as other new requirements of the ITU-T G.989-series systems not captured in ITU-T G.989.1 (2013).\r\n\r\nRequirements identified for inclusion in this amendment are:\r\n\r\n−           Network protection in the case of a multi-wavelength access system. In particular, the possibility of ODN topologies that appear to be type B (shared splitter), but that provide additional capabilities. Also, the potential for 1:n protection in addition to the 1:1 protection previously described. \r\n\r\n−           Transport of wireless fronthaul links over the access system. Such links have exceptional service requirements and these are evolving as the application develops in the industry."
 status:
   stage:
     content: Published

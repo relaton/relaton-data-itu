@@ -52,25 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The ITU-T H.741.x series of Recommendations defines a foundational platform
-    for audience measurement (AM) of IPTV services. They focus on the interface between
-    terminal devices and an audience measurement aggregation function.\r\nThe AM platform
-    integrates a method for end users to report personal information, and is designed
-    to easily add time-shifted and interactive services and non-terminal device measurement
-    points. While the ITU-T H.741.x series allows the implementation of audience measurement
-    for IPTV services, its mechanism may be equally applicable to non-IPTV services.\r\nThe
-    design philosophy in the ITU-T H.741.x series is focused on scalability, minimizing
-    the use of resources, security, flexibility to support a variety of service provider
-    deployments and rich privacy support to meet emerging regulations and legislation.\r\nRecommendation
-    ITU-T H.741.3 specifies audience measurement for IPTV distributed content services
-    and, in particular, linear TV services. It describes specific configuration for
-    linear TV and metadata and data structures used in the payload of AM messages.
-    The informative appendices discuss specific implementation considerations for
-    linear TV-specific implementation considerations, provide examples and describe
-    capabilities and profiles.\r\nAmendment 1 to Recommendation ITU-T H.741.3 includes
-    XML schema on the measurement data structures for linear TV service in Appendix
-    IV and XML schema instances for TD-AMF configuration, reports for linear TV services
-    in Appendix V."
+  content: "The ITU-T H.741.x series of Recommendations defines a foundational platform for audience measurement (AM) of IPTV services. They focus on the interface between terminal devices and an audience measurement aggregation function.\r\nThe AM platform integrates a method for end users to report personal information, and is designed to easily add time-shifted and interactive services and non-terminal device measurement points. While the ITU-T H.741.x series allows the implementation of audience measurement for IPTV services, its mechanism may be equally applicable to non-IPTV services.\r\nThe design philosophy in the ITU-T H.741.x series is focused on scalability, minimizing the use of resources, security, flexibility to support a variety of service provider deployments and rich privacy support to meet emerging regulations and legislation.\r\nRecommendation ITU-T H.741.3 specifies audience measurement for IPTV distributed content services and, in particular, linear TV services. It describes specific configuration for linear TV and metadata and data structures used in the payload of AM messages. The informative appendices discuss specific implementation considerations for linear TV-specific implementation considerations, provide examples and describe capabilities and profiles.\r\nAmendment 1 to Recommendation ITU-T H.741.3 includes XML schema on the measurement data structures for linear TV service in Appendix IV and XML schema instances for TD-AMF configuration, reports for linear TV services in Appendix V."
 status:
   stage:
     content: Published

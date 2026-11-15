@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9960 specifies the system architecture and physical
-    (PHY) layer for wireline-based home networking transceivers capable of operating
-    over premises wiring including inside telephone wiring, coaxial cable, and power-line
-    wiring. It complements the data link layer (DLL) specification in Recommendation
-    ITU-T G.9961.\r\n\r\nBesides the inclusion of minor enhancements and error fixes,
-    this version of the Recommendation removes the control parameters that determine
-    spectral content, power spectral density (PSD) mask requirements, and the set
-    of tools to support reduction of the transmit PSD, all of which have been moved
-    to Recommendation ITU-T G.9964."
+  content: "Recommendation ITU-T G.9960 specifies the system architecture and physical (PHY) layer for wireline-based home networking transceivers capable of operating over premises wiring including inside telephone wiring, coaxial cable, and power-line wiring. It complements the data link layer (DLL) specification in Recommendation ITU-T G.9961.\r\n\r\nBesides the inclusion of minor enhancements and error fixes, this version of the Recommendation removes the control parameters that determine spectral content, power spectral density (PSD) mask requirements, and the set of tools to support reduction of the transmit PSD, all of which have been moved to Recommendation ITU-T G.9964."
 status:
   stage:
     content: Withdrawal
@@ -253,7 +245,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wire-line based home networking transceivers – Foundation
+      content: Unified high-speed wire-line based home networking transceivers –
+        Foundation
     docidentifier:
     - content: G.9960 (10/2009)
       type: ITU

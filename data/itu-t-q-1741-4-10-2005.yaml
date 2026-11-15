@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation identifies a release of the IMT-2000 Family Member,
-    \"GSM evolved UMTS Core Network\". This release of the Family Member is known
-    to the Standards Development Organizations (i.e., ARIB, CCSA, ETSI, ATIS, TTA,
-    TTC) as the \"3GPP Release 6\". Earlier releases, known as \"3GPP Release 99\",
-    \"3GPP Release 4\", and \"3GPP Release 5\", of this Family Member are specified
-    in ITU-T Recs Q.1741.1, Q.1741.2, and Q.1741.3, respectively, while other IMT-2000
-    Family Members are specified in other Recommendations in the Q.174x series.\r\nThis
-    Recommendation combines and associates the relevant standards from a number of
-    Standards Development Organizations for the core network for this IMT-2000 Family
-    Member into a global Recommendation."
+  content: "This Recommendation identifies a release of the IMT-2000 Family Member, \"GSM evolved UMTS Core Network\". This release of the Family Member is known to the Standards Development Organizations (i.e., ARIB, CCSA, ETSI, ATIS, TTA, TTC) as the \"3GPP Release 6\". Earlier releases, known as \"3GPP Release 99\", \"3GPP Release 4\", and \"3GPP Release 5\", of this Family Member are specified in ITU-T Recs Q.1741.1, Q.1741.2, and Q.1741.3, respectively, while other IMT-2000 Family Members are specified in other Recommendations in the Q.174x series.\r\nThis Recommendation combines and associates the relevant standards from a number of Standards Development Organizations for the core network for this IMT-2000 Family Member into a global Recommendation."
 status:
   stage:
     content: Published
@@ -319,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -331,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

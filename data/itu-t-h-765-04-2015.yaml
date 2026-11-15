@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Packaged internet protocol television (IPTV) applications (IPTV widgets)
-    are lightweight applications, provided with a simple and easily accessible graphical
-    user interface (GUI), that commonly provide a single functionality (e.g., calendars,
-    feed aggregators, etc.) and might stay persistently exhibited.\r\nIPTV widgets
-    may run on different types of IPTV terminal devices and therefore standardized
-    technologies must be supported by the widget engine in the terminal device. Recommendation
-    ITU-T H.765 describes IPTV widget services that are developed using the technologies
-    defined in the ITU-T H.760 multimedia application framework (MAFR) series, such
-    as nested context language (NCL) (Recommendation ITU-T H.761), LIME (Recommendation
-    ITU-T H.762), HTML (new MAFR ITU-T Recommendation under study), cascading style
-    sheets (CSS) (Recommendation ITU-T H.763.1), Services enhanced scripting language
-    (SESL) (Recommendation ITU-T H.764) and Lua (new MAFR ITU-T Recommendation under
-    study). The widget service also takes advantage of functionalities described in
-    the ITU-T H.721 IPTV terminal device basic model, as well as service discovery
-    protocols and services specified in Recommendation ITU-T H.770."
+  content: "Packaged internet protocol television (IPTV) applications (IPTV widgets) are lightweight applications, provided with a simple and easily accessible graphical user interface (GUI), that commonly provide a single functionality (e.g., calendars, feed aggregators, etc.) and might stay persistently exhibited.\r\nIPTV widgets may run on different types of IPTV terminal devices and therefore standardized technologies must be supported by the widget engine in the terminal device. Recommendation ITU-T H.765 describes IPTV widget services that are developed using the technologies defined in the ITU-T H.760 multimedia application framework (MAFR) series, such as nested context language (NCL) (Recommendation ITU-T H.761), LIME (Recommendation ITU-T H.762), HTML (new MAFR ITU-T Recommendation under study), cascading style sheets (CSS) (Recommendation ITU-T H.763.1), Services enhanced scripting language (SESL) (Recommendation ITU-T H.764) and Lua (new MAFR ITU-T Recommendation under study). The widget service also takes advantage of functionalities described in the ITU-T H.721 IPTV terminal device basic model, as well as service discovery protocols and services specified in Recommendation ITU-T H.770."
 status:
   stage:
     content: Published

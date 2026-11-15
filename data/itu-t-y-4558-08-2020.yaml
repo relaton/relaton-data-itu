@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The fire smoke detection service is usually deployed in indoor environments
-    such as residential buildings, factories, shopping malls, hotels, office buildings,
-    etc. With the development of society and economy, the fire smoke detection service
-    is playing a more and more important role in people's life. However, there are
-    some issues such as inefficient maintenance and management, non-real-time device
-    failure detection, non-real-time fire alarm notification and poor service experience.\r\nTo
-    address these issues, the smart fire smoke detection (SFSD) service not only detects
-    smoke concentration through sensors, and triggers a fire alarm when it reaches
-    a certain threshold to prevent disaster, but also uses the network to send the
-    alarm information to the cloud platform, thus notifying relevant departments and
-    personnel in time through web/APP/SMS/voice/instant message client, etc. The SFSD
-    service can provide many benefits, including efficient maintenance and management,
-    real-time alarm reports, real-time fault reports and good service experience.\r\nBased
-    on these observations, Recommendation ITU-T Y.4558 describes the requirements
-    and functional architecture of the SFSD service."
+  content: "The fire smoke detection service is usually deployed in indoor environments such as residential buildings, factories, shopping malls, hotels, office buildings, etc. With the development of society and economy, the fire smoke detection service is playing a more and more important role in people's life. However, there are some issues such as inefficient maintenance and management, non-real-time device failure detection, non-real-time fire alarm notification and poor service experience.\r\nTo address these issues, the smart fire smoke detection (SFSD) service not only detects smoke concentration through sensors, and triggers a fire alarm when it reaches a certain threshold to prevent disaster, but also uses the network to send the alarm information to the cloud platform, thus notifying relevant departments and personnel in time through web/APP/SMS/voice/instant message client, etc. The SFSD service can provide many benefits, including efficient maintenance and management, real-time alarm reports, real-time fault reports and good service experience.\r\nBased on these observations, Recommendation ITU-T Y.4558 describes the requirements and functional architecture of the SFSD service."
 status:
   stage:
     content: Published
@@ -108,7 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -181,8 +168,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -202,7 +189,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -244,8 +231,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -255,7 +241,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -287,8 +274,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

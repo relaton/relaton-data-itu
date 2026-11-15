@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.196.3 describes the medium access control (MAC)
-    layer specification of ‎second-generation high-performance network over coax (HiNoC)
-    which provides 1 Gbit/s data ‎transmission over coaxial networks. HiNoC consists
-    of a HiNoC bridge (HB) and HiNoC modem ‎‎(HM) as architectural functional entities
-    and is layered as MAC layer and physical (PHY) layer. ‎HiNoC 2.0 uses time division
-    duplexing (TDD) to adjust the bandwidth for upstream and ‎downstream feasibly.
-    HiNoC 2.0 uses time division multiple access (TDMA) and optional orthogonal ‎frequency
-    division multiple access (OFDMA). The HiNoC 2.0 MAC (HiMAC) layer is composed
-    of ‎the convergence sublayer (CS), the common part sublayer (CPS) and the security
-    sublayer (SS). This ‎Recommendation contains descriptions for HiMAC frame types,
-    functions and mechanisms of CS ‎and CPS.‎\r\nEdition 2.0 only updates the title
-    of this and other HiNoC Recommendations without introducing ‎any technical changes.‎\r\n"
+  content: "Recommendation ITU-T J.196.3 describes the medium access control (MAC) layer specification of ‎second-generation high-performance network over coax (HiNoC) which provides 1 Gbit/s data ‎transmission over coaxial networks. HiNoC consists of a HiNoC bridge (HB) and HiNoC modem ‎‎(HM) as architectural functional entities and is layered as MAC layer and physical (PHY) layer. ‎HiNoC 2.0 uses time division duplexing (TDD) to adjust the bandwidth for upstream and ‎downstream feasibly. HiNoC 2.0 uses time division multiple access (TDMA) and optional orthogonal ‎frequency division multiple access (OFDMA). The HiNoC 2.0 MAC (HiMAC) layer is composed of ‎the convergence sublayer (CS), the common part sublayer (CPS) and the security sublayer (SS). This ‎Recommendation contains descriptions for HiMAC frame types, functions and mechanisms of CS ‎and CPS.‎\r\nEdition 2.0 only updates the title of this and other HiNoC Recommendations without introducing ‎any technical changes.‎\r\n"
 status:
   stage:
     content: Published

@@ -53,19 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9964 specifies the control parameters that determine
-    spectral content, power spectral density (PSD) mask requirements, a set of tools
-    to support reduction of the transmit PSD, means to measure this PSD for transmission
-    over telephone wiring, power line wiring and coaxial cable, as well as the allowable
-    total transmit power into a specified termination impedance. It complements the
-    system architecture and physical layer (PHY) specification in Recommendation ITUT
-    G.9960, the data link layer (DLL) specification in Recommendation ITU-T G.9961,
-    as well as the modifications and additions to these Recommendations specifying
-    the multiple input/multiple output (MIMO) home networking transceiver in Recommendation
-    ITU-T G.9963.\r\nThis revision comprises ITU-T G.9964 (2011) plus its Amendments
-    1, 2 and 3, along with the addition of a narrower subcarrier spacing (12.20703125
-    kHz) for scenarios where the channel is very narrow (e.g., power line communication
-    for smart grid applications).\r\n"
+  content: "Recommendation ITU-T G.9964 specifies the control parameters that determine spectral content, power spectral density (PSD) mask requirements, a set of tools to support reduction of the transmit PSD, means to measure this PSD for transmission over telephone wiring, power line wiring and coaxial cable, as well as the allowable total transmit power into a specified termination impedance. It complements the system architecture and physical layer (PHY) specification in Recommendation ITUT G.9960, the data link layer (DLL) specification in Recommendation ITU-T G.9961, as well as the modifications and additions to these Recommendations specifying the multiple input/multiple output (MIMO) home networking transceiver in Recommendation ITU-T G.9963.\r\nThis revision comprises ITU-T G.9964 (2011) plus its Amendments 1, 2 and 3, along with the addition of a narrower subcarrier spacing (12.20703125 kHz) for scenarios where the channel is very narrow (e.g., power line communication for smart grid applications).\r\n"
 status:
   stage:
     content: Published
@@ -109,8 +97,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wireline-based home networking transceivers – Power
-        spectral density specification
+      content: Unified high-speed wireline-based home networking transceivers –
+        Power spectral density specification
     docidentifier:
     - content: G.9964 (12/2011)
       type: ITU

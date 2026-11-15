@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3557 provides the concept and models for the management
+  content: 'Recommendation ITU-T Y.3557 provides the concept and models for the management
     of virtual machine and container integration in a cloud computing environment.
     Additionally, this Recommendation provides functional requirements for the management
-    of virtual machine and container integration based on use cases.\r\n"
+    of virtual machine and container integration based on use cases.
+    '
 status:
   stage:
     content: Published
@@ -107,7 +108,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -128,8 +129,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

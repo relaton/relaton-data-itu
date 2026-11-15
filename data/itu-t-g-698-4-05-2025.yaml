@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.698.4 provides optical parameter values for physical
+  content: 'Recommendation ITU-T G.698.4 provides optical parameter values for physical
     layer interfaces of dense wavelength division multiplexing (DWDM) systems primarily
     intended for metro applications, where the tail-end transmitters have the capability
     to automatically adapt their DWDM channel frequency to the optical demultiplexer/optical
@@ -66,7 +66,8 @@ abstract:
     single bidirectional fibre is used to connect the head-end to the black link OD/OM
     or OADM. The connection between the OD/OM/OADM and the TEE is also bidirectional.
     This version of the Recommendation includes DWDM applications at 10 Gbit/s and
-    25 Gbit/s with minimum channel frequency spacing of 50 GHz and 100 GHz, respectively.\r\n"
+    25 Gbit/s with minimum channel frequency spacing of 50 GHz and 100 GHz, respectively.
+    '
 status:
   stage:
     content: Published

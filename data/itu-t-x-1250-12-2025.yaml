@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1250 outlines key provisions for developing and
+  content: 'Recommendation ITU-T X.1250 outlines key provisions for developing and
     deploying structured, interoperable identity management systems within telecommunications
     and information technology (IT) networks, ensuring privacy and compliance with
     regional policies. It covers topics such as structured identity management models
@@ -62,7 +62,8 @@ abstract:
     mitigation, auditing for compliance and the importance of usability and scalability.
     The overall goal is to create robust, transparent, and adaptable identity management
     systems that enhance trust, security, and user experience in digital interactions
-    while aligning with regulatory standards.\r\n"
+    while aligning with regulatory standards.
+    '
 status:
   stage:
     content: Published

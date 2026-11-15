@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1207 specifies the conformance test for a smart
-    TV operating system over integrated broadcast and broadband cable networks. A
-    smart TV operating system is intended to be installed in an integrated broadcast
-    and broadband (IBB)capable cable set-top box (STB) and TV, enabling both broadcasting
-    and IP-based interactive services provided by cable television operators and thirdparty
-    providers. By running a smart TV operating system, the IBB-capable cable STB and
-    TV will be able to intelligently provide subscribers with advanced and personalized
-    services. This is achieved through download and installion of advanced and personalized
-    apps from both cable operators' platforms and thirdparty platforms, which are
-    interconnected with the related cable operators' platforms.\r\nConformance to
-    the smart TV operating system means adherence to the relevant requirements of
-    ITU-T J.1201, ITU-T J.1202, ITU-T J.1203, ITU-T J.1204, ITU-T J.1205 and ITU-T
-    J.1206.\r\nThe TVOS platform should meet the conformity requirements for functionality
-    and architecture, security, performance, and interfaces as described in this Recommendation.\r\n"
+  content: "Recommendation ITU-T J.1207 specifies the conformance test for a smart TV operating system over integrated broadcast and broadband cable networks. A smart TV operating system is intended to be installed in an integrated broadcast and broadband (IBB)capable cable set-top box (STB) and TV, enabling both broadcasting and IP-based interactive services provided by cable television operators and thirdparty providers. By running a smart TV operating system, the IBB-capable cable STB and TV will be able to intelligently provide subscribers with advanced and personalized services. This is achieved through download and installion of advanced and personalized apps from both cable operators' platforms and thirdparty platforms, which are interconnected with the related cable operators' platforms.\r\nConformance to the smart TV operating system means adherence to the relevant requirements of ITU-T J.1201, ITU-T J.1202, ITU-T J.1203, ITU-T J.1204, ITU-T J.1205 and ITU-T J.1206.\r\nThe TVOS platform should meet the conformity requirements for functionality and architecture, security, performance, and interfaces as described in this Recommendation.\r\n"
 status:
   stage:
     content: Published

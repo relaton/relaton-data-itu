@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Federated machine learning (FML) allows collaborative model training via
+  content: 'Federated machine learning (FML) allows collaborative model training via
     parameter exchange, ensuring privacy and compliance. A device–edge–cloud framework,
     with edge servers as intermediaries, enhances accuracy, resource balance and scalability,
     requiring standardized protocols plus strategies for resource use, privacy and
     aggregation. Recommendation ITU-T F.748.62 introduces the framework and requirements
     for device-edge-cloud collaborative FML, and specifies its concept, procedure,
-    requirements and use cases.\r\n"
+    requirements and use cases.
+    '
 status:
   stage:
     content: Published

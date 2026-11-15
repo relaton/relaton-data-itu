@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.107.1 gives the algorithm for the wideband (WB)
-    version of the E-model as the common ITU T transmission rating model for planning
-    speech services that provide WB speech transmission (50-7000 Hz). This computational
-    model can be useful to transmission planners, to help ensure that users will be
-    satisfied with end-to-end transmission performance. The primary output of the
-    model is a scalar rating of transmission quality. A major feature of this model
-    is the use of transmission impairment factors that reflect the effects of different
-    types of degradations occurring on the entire transmission path, mouth-to-ear.\r\nThis
-    WB-E-model is an adapted version of the narrowband (NB) (300-3400 Hz) E-model,
-    typically referred to as \"the E-model\", which is described in Recommendation
-    ITU-T G.107. It does not replace the NB E-model. Instead, it describes a separate
-    WB version of the model that uses, within limits, similar concepts and input parameters
-    as the NB E-model.\r\n"
+  content: "Recommendation ITU-T G.107.1 gives the algorithm for the wideband (WB) version of the E-model as the common ITU T transmission rating model for planning speech services that provide WB speech transmission (50-7000 Hz). This computational model can be useful to transmission planners, to help ensure that users will be satisfied with end-to-end transmission performance. The primary output of the model is a scalar rating of transmission quality. A major feature of this model is the use of transmission impairment factors that reflect the effects of different types of degradations occurring on the entire transmission path, mouth-to-ear.\r\nThis WB-E-model is an adapted version of the narrowband (NB) (300-3400 Hz) E-model, typically referred to as \"the E-model\", which is described in Recommendation ITU-T G.107. It does not replace the NB E-model. Instead, it describes a separate WB version of the model that uses, within limits, similar concepts and input parameters as the NB E-model.\r\n"
 status:
   stage:
     content: Withdrawal

@@ -52,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.79 defines guidelines for handling ITU-T H.248
-    Streams that use a packet-based network as their underlying bearer technology.
-    It describes how incoming packets to the media gateway (MG) are assigned to a
-    specific combination of Stream, Termination and Context. Furthermore, it describes
-    the order of the different operations that are applied to incoming and outgoing
-    packets.\r\nThis Recommendation does not define any new protocol syntax for ITU-T
-    H.248.\r\n"
+  content: "Recommendation ITU-T H.248.79 defines guidelines for handling ITU-T H.248 Streams that use a packet-based network as their underlying bearer technology. It describes how incoming packets to the media gateway (MG) are assigned to a specific combination of Stream, Termination and Context. Furthermore, it describes the order of the different operations that are applied to incoming and outgoing packets.\r\nThis Recommendation does not define any new protocol syntax for ITU-T H.248.\r\n"
 status:
   stage:
     content: Published

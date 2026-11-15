@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation provides the requirements for the STM-N signals at
-    the network node interface of a synchronous digital network, including B-ISDN
-    in terms of:- bit rates;- frames structures;- formats for mapping and multiplexing
-    of client signals (e.g., PDH, ATM and Ethernet) elements;- functionalities of
-    the overheads.Revision 7.0 of ITU-T Recommendation G.707/Y.1322 is based on:\r•
-    revision 6.0 approved 2003-12-14; \r• Corrigendum 1 approved 2004-06-13;\r• Amendment
-    1 approved 2004-08-22;\r• Corrigendum 2 approved 2005-08-22; and\r• editorial
-    (non-technical) corrections.Amendment 1 provides a reciprocal linkage from the
-    SDH Recommendation to the G-PON Recommendation G.984.3, and explains how the G-PON
-    encapsulation method (GEM) transport of SDH signals fits into the multiplexing
-    hierarchy"
+  content: "This Recommendation provides the requirements for the STM-N signals at the network node interface of a synchronous digital network, including B-ISDN in terms of:- bit rates;- frames structures;- formats for mapping and multiplexing of client signals (e.g., PDH, ATM and Ethernet) elements;- functionalities of the overheads.Revision 7.0 of ITU-T Recommendation G.707/Y.1322 is based on:\r• revision 6.0 approved 2003-12-14; \r• Corrigendum 1 approved 2004-06-13;\r• Amendment 1 approved 2004-08-22;\r• Corrigendum 2 approved 2005-08-22; and\r• editorial (non-technical) corrections.Amendment 1 provides a reciprocal linkage from the SDH Recommendation to the G-PON Recommendation G.984.3, and explains how the G-PON encapsulation method (GEM) transport of SDH signals fits into the multiplexing hierarchy"
 status:
   stage:
     content: Published

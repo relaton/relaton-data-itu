@@ -53,13 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Annex describes an extension of Recommendation H.223. It defines
-    specific adaptation layers to allow the use of H.324 terminals in highly error-prone
-    transmission environments. These adaptation layers include specific options for
-    H.324 terminals, e.g:\r• error detection and correction;\r• sequence numbering;\r•
-    automatic repeat request;\r• retransmission capabilities (hybrid ARQ-type I &
-    II);\r• segmentation procedure to transmit frames which shall be transmitted unframed;\r•
-    support of framed in unframed transmission mode."
+  content: "This Annex describes an extension of Recommendation H.223. It defines specific adaptation layers to allow the use of H.324 terminals in highly error-prone transmission environments. These adaptation layers include specific options for H.324 terminals, e.g:\r• error detection and correction;\r• sequence numbering;\r• automatic repeat request;\r• retransmission capabilities (hybrid ARQ-type I & II);\r• segmentation procedure to transmit frames which shall be transmitted unframed;\r• support of framed in unframed transmission mode."
 status:
   stage:
     content: Withdrawal

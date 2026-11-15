@@ -53,24 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Decentralized services such as distributed ledger technology (DLT) service
-    for Internet of things (IoT) devices are usually deployed in local area networks
-    (LANs) or in core clouds. When only deployed in LANs, the decentralized services
-    may be affected by the limited capabilities of storage, computation and communication
-    of IoT devices. When only deployed in core clouds, the decentralized services
-    may be affected by the communication capabilities between the IoT devices in LANs
-    and the peers in core clouds. With the popularization of the use of edge computing,
-    parts or all of functionalities of the decentralized services can be deployed
-    in edge clouds.\r\nRecommendation ITU-T Y.4486 introduces a cross edge decentralized
-    service (CEDS) by using DLT and edge computing technologies, which supports seamless
-    cross edge DLT services for IoT devices (fixed and mobile) by using DLT and edge
-    computing technologies. The CEDS can take the advantages of edge computing to
-    speed up the service efficiency of DLT services for IoT devices. In addition,
-    the CEDS provides adaptive service management to match the dynamic changes of
-    IoT devices.\r\nThis Recommendation provides relevant general characteristics
-    and requirements of the decentralized service by using DLT and edge computing
-    technologies, and also provides its functional framework, common capabilities
-    and general procedures.\r\n"
+  content: "Decentralized services such as distributed ledger technology (DLT) service for Internet of things (IoT) devices are usually deployed in local area networks (LANs) or in core clouds. When only deployed in LANs, the decentralized services may be affected by the limited capabilities of storage, computation and communication of IoT devices. When only deployed in core clouds, the decentralized services may be affected by the communication capabilities between the IoT devices in LANs and the peers in core clouds. With the popularization of the use of edge computing, parts or all of functionalities of the decentralized services can be deployed in edge clouds.\r\nRecommendation ITU-T Y.4486 introduces a cross edge decentralized service (CEDS) by using DLT and edge computing technologies, which supports seamless cross edge DLT services for IoT devices (fixed and mobile) by using DLT and edge computing technologies. The CEDS can take the advantages of edge computing to speed up the service efficiency of DLT services for IoT devices. In addition, the CEDS provides adaptive service management to match the dynamic changes of IoT devices.\r\nThis Recommendation provides relevant general characteristics and requirements of the decentralized service by using DLT and edge computing technologies, and also provides its functional framework, common capabilities and general procedures.\r\n"
 status:
   stage:
     content: Published
@@ -101,7 +84,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -164,8 +148,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -185,7 +169,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -238,8 +222,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -249,7 +232,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -281,8 +265,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

@@ -50,37 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.863 describes an objective method for predicting
-    overall listening speech quality from narrowband (NB) (300 to 3 400 Hz) to fullband
-    (FB) (20 to 20 000 Hz) telecommunication scenarios as perceived by the user in
-    an ITU-T P.800 or ITU-T P.830 absolute category rating (ACR) listening-only test.
-    Recommendation ITU-T P.863 supports two operational modes, one for narrowband
-    and one for fullband. Super-wideband (50 to 14 000 Hz) experiments can be simulated
-    by band limiting the reference and accordingly the degraded signal. This Recommendation
-    presents a high-level description of the method, advice on how to use it. All
-    essential parts of the model are described in detail, and are provided in separate
-    pdf-files (see Annex B). These files form an integral part of this Recommendation
-    and shall take precedence in case of conflicts between the high-level descriptions
-    included in the main body of this Recommendation and the corresponding detailed
-    description parts. A conformance testing procedure is also specified in Annex
-    A to allow a user to validate that an alternative implementation of the model
-    is correct. \r\n\r\nThis Recommendation includes an electronic attachment containing
-    detailed descriptions in pdf format (see Annex B) and conformance testing data
-    (see Annex A).\r\n\r\n \r\n\r\nEd. 3 of P.863 does not apply an initial 14 kHz
-    low-pass filter anymore and it is therefore able to consider spectral components
-    above 14 kHz in its analysis now. This expands the scope of application to fullband
-    speech codecs such as OPUS or EVS. Additionally, the ‘shift-jitter’ which could
-    be observed by repeated measurements with slightly differing delay, is decreased.
-    The gain variation introduced by automatic gain control as well as slowly time-varying
-    linear frequency distortions are now adequately considered.\r\n\r\nFurthermore,
-    the problems of P.863 Ed. 2 documented in the following implementer’s guides were
-    addressed and are resolved now:\r\n\r\n·       Former Implementer’s Guide on assessment
-    of EVS coded speech with Recommendation ITU-T P.863 (2016)\r\n\r\n·       Former
-    Implementer’s Guide on non-validated test conditions with inserted gaps in speech
-    by Recommendation ITU-T P.863 (2016)\r\n\r\n·       Former Implementer’s Guide
-    on discrimination of wideband and super-wideband speech by Recommendation ITU-T
-    P.863 (2016)\r\n•Former Implementer’s Guide on correction of Recommendation ITU-T
-    P.863 regarding reverb (2016)\r\n"
+  content: "Recommendation ITU-T P.863 describes an objective method for predicting overall listening speech quality from narrowband (NB) (300 to 3 400 Hz) to fullband (FB) (20 to 20 000 Hz) telecommunication scenarios as perceived by the user in an ITU-T P.800 or ITU-T P.830 absolute category rating (ACR) listening-only test. Recommendation ITU-T P.863 supports two operational modes, one for narrowband and one for fullband. Super-wideband (50 to 14 000 Hz) experiments can be simulated by band limiting the reference and accordingly the degraded signal. This Recommendation presents a high-level description of the method, advice on how to use it. All essential parts of the model are described in detail, and are provided in separate pdf-files (see Annex B). These files form an integral part of this Recommendation and shall take precedence in case of conflicts between the high-level descriptions included in the main body of this Recommendation and the corresponding detailed description parts. A conformance testing procedure is also specified in Annex A to allow a user to validate that an alternative implementation of the model is correct. \r\n\r\nThis Recommendation includes an electronic attachment containing detailed descriptions in pdf format (see Annex B) and conformance testing data (see Annex A).\r\n\r\n \r\n\r\nEd. 3 of P.863 does not apply an initial 14 kHz low-pass filter anymore and it is therefore able to consider spectral components above 14 kHz in its analysis now. This expands the scope of application to fullband speech codecs such as OPUS or EVS. Additionally, the ‘shift-jitter’ which could be observed by repeated measurements with slightly differing delay, is decreased. The gain variation introduced by automatic gain control as well as slowly time-varying linear frequency distortions are now adequately considered.\r\n\r\nFurthermore, the problems of P.863 Ed. 2 documented in the following implementer’s guides were addressed and are resolved now:\r\n\r\n·       Former Implementer’s Guide on assessment of EVS coded speech with Recommendation ITU-T P.863 (2016)\r\n\r\n·       Former Implementer’s Guide on non-validated test conditions with inserted gaps in speech by Recommendation ITU-T P.863 (2016)\r\n\r\n·       Former Implementer’s Guide on discrimination of wideband and super-wideband speech by Recommendation ITU-T P.863 (2016)\r\n•Former Implementer’s Guide on correction of Recommendation ITU-T P.863 regarding reverb (2016)\r\n"
 status:
   stage:
     content: Published

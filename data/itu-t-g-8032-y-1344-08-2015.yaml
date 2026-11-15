@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8032/Y.1344 defines the automatic protection switching
-    (APS) protocol and protection switching mechanisms for ETH layer Ethernet ring
-    topologies. Included are details pertaining to Ethernet ring protection characteristics,
-    architectures and the ring APS (R-APS) protocol.\r\n\r\nThis version of Recommendation
-    ITU-T G.8032/Y.1344 incorporates Amendment 1 (2010), which adds two informative
-    appendices. Appendix X (minimizing segmentation in interconnected rings) addresses
-    a possible case of multiple faults that could cause segmentation in a network
-    of interconnected rings. The appendix suggests an optimization that uses additional
-    management information and configuration of maintenance entity group end points
-    (MEPs) in order to minimize the effects of similar multiple fault conditions.
-    Appendix XI (end-to-end service resilience) addresses the situation where an Ethernet
-    service that traverses a protected ring may start and end outside the ring. In
-    order to provide full service protection, there is a need for the ring protection
-    to interact with the full service protection that may be supplied by the mechanism
-    described in Recommendation ITU-T G.8031/Y.1342."
+  content: "Recommendation ITU-T G.8032/Y.1344 defines the automatic protection switching (APS) protocol and protection switching mechanisms for ETH layer Ethernet ring topologies. Included are details pertaining to Ethernet ring protection characteristics, architectures and the ring APS (R-APS) protocol.\r\n\r\nThis version of Recommendation ITU-T G.8032/Y.1344 incorporates Amendment 1 (2010), which adds two informative appendices. Appendix X (minimizing segmentation in interconnected rings) addresses a possible case of multiple faults that could cause segmentation in a network of interconnected rings. The appendix suggests an optimization that uses additional management information and configuration of maintenance entity group end points (MEPs) in order to minimize the effects of similar multiple fault conditions. Appendix XI (end-to-end service resilience) addresses the situation where an Ethernet service that traverses a protected ring may start and end outside the ring. In order to provide full service protection, there is a need for the ring protection to interact with the full service protection that may be supplied by the mechanism described in Recommendation ITU-T G.8031/Y.1342."
 status:
   stage:
     content: Withdrawal

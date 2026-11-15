@@ -50,10 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The software \"EMFACDC\" in Appendix II of Recommendation ITU-T K.90 was
-    revised in 2019. In the new version v.2.1 of the EMFACDC software, some bugs that
-    cause problems with reading and writing data to a *.csv file have been fixed.
-    \r\n"
+  content: "The software \"EMFACDC\" in Appendix II of Recommendation ITU-T K.90 was revised in 2019. In the new version v.2.1 of the EMFACDC software, some bugs that cause problems with reading and writing data to a *.csv file have been fixed. \r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.49 specifies the architecture and protocols
+  content: 'Recommendation ITU-T F.748.49 specifies the architecture and protocols
     of the multi-algorithm scheduling (MAS) systems for artificial intelligence (AI)-based
     multimedia applications, which meet the requirements and framework of MAS systems
     specified in Recommendation ITU-T F.748.36. The MAS systems consist of the scheduling
@@ -60,7 +60,8 @@ abstract:
     unit. The MAS systems schedule multiple algorithms (multi-type, multi-version,
     or from multiple providers) across heterogeneous computing power resources based
     on specific tasks on-demand. This Recommendation is intended to guide the design,
-    development, implementation and application of MAS systems.\r\n"
+    development, implementation and application of MAS systems.
+    '
 status:
   stage:
     content: Published

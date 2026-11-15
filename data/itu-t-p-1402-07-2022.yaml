@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1402 introduces machine-learning techniques and
-    their application for quality of service (QoS) and quality of experience (QoE)
-    prediction and network performance management in telecommunication scenarios.
-    Especially, the design of training and evaluation data is described and means
-    to avoid overtraining for machine-learning models. \r\nThe relation to classical
-    model or algorithm development is also discussed, and the differences are described.
-    This Recommendation gives best practice guidance for the successful development
-    and evaluation of models based on machine learning but does not describe concrete
-    models or algorithms for a specific purpose.\r\n"
+  content: "Recommendation ITU-T P.1402 introduces machine-learning techniques and their application for quality of service (QoS) and quality of experience (QoE) prediction and network performance management in telecommunication scenarios. Especially, the design of training and evaluation data is described and means to avoid overtraining for machine-learning models. \r\nThe relation to classical model or algorithm development is also discussed, and the differences are described. This Recommendation gives best practice guidance for the successful development and evaluation of models based on machine learning but does not describe concrete models or algorithms for a specific purpose.\r\n"
 status:
   stage:
     content: Published

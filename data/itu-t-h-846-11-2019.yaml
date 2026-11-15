@@ -53,22 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.846 provides a test suite structure (TSS) and the
-    test purposes (TP) for Personal Health Gateways in the Personal Health Devices
-    (PHD) interface, based on the requirements defined in the Recommendations of the
-    ITU-T H.810 sub-series, of which Recommendation ITU‑T H.810 (2017) is the base
-    Recommendation. The objective of this test specification is to provide a high
-    probability of interoperability at this interface.\r\n\r\nRecommendation ITU-T
-    H.846 is a transposition of Continua Test Tool DG2016, Test Suite Structure &
-    Test Purposes, Personal Health Devices Interface; Part 6: Device Specializations.
-    Personal Health Gateway (Version 1.9, 2016-09-20), that was developed by the Personal
-    Connected Health Alliance. A number of versions of this specification existed
-    before transposition.\r\n\r\nThis Recommendation includes an electronic attachment
-    with the protocol implementation conformance statements (PICS) and the protocol
-    implementation extra information for testing (PIXIT) required for the implementation
-    of Annex A.\r\n\r\nThis 2019 revision includes the power status monitor of Personal
-    Health Devices device specialization (ISO/IEEE 11073-10427:2018) test cases as
-    well as minor corrections."
+  content: "Recommendation ITU-T H.846 provides a test suite structure (TSS) and the test purposes (TP) for Personal Health Gateways in the Personal Health Devices (PHD) interface, based on the requirements defined in the Recommendations of the ITU-T H.810 sub-series, of which Recommendation ITU‑T H.810 (2017) is the base Recommendation. The objective of this test specification is to provide a high probability of interoperability at this interface.\r\n\r\nRecommendation ITU-T H.846 is a transposition of Continua Test Tool DG2016, Test Suite Structure & Test Purposes, Personal Health Devices Interface; Part 6: Device Specializations. Personal Health Gateway (Version 1.9, 2016-09-20), that was developed by the Personal Connected Health Alliance. A number of versions of this specification existed before transposition.\r\n\r\nThis Recommendation includes an electronic attachment with the protocol implementation conformance statements (PICS) and the protocol implementation extra information for testing (PIXIT) required for the implementation of Annex A.\r\n\r\nThis 2019 revision includes the power status monitor of Personal Health Devices device specialization (ISO/IEEE 11073-10427:2018) test cases as well as minor corrections."
 status:
   stage:
     content: Published

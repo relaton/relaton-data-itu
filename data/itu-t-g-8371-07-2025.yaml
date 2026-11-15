@@ -52,9 +52,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8371 describes the synchronization function of
+  content: 'Recommendation ITU-T G.8371 describes the synchronization function of
     metro transport network (MTN) equipment and network in order to meet the frequency,
-    phase and time requirement of IMT2020/5G wireless applications.\r\n"
+    phase and time requirement of IMT2020/5G wireless applications.
+    '
 status:
   stage:
     content: Published

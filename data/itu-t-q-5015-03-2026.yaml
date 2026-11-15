@@ -53,13 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Multi-access edge computing (MEC) provides a data processing environment
-    near the data generation of vertical industries. In order to provide a neutral,
-    trustworthy and attested environment that can protect the data and algorithm model
-    code at runtime in MEC, confidential computing is considered to be an enabling
-    technology.\r\nRecommendation ITU-T Q.5015 specifies the signalling architecture,
-    signalling procedures and signalling requirements of orchestration for supporting
-    confidential computing in MEC.\r\n"
+  content: "Multi-access edge computing (MEC) provides a data processing environment near the data generation of vertical industries. In order to provide a neutral, trustworthy and attested environment that can protect the data and algorithm model code at runtime in MEC, confidential computing is considered to be an enabling technology.\r\nRecommendation ITU-T Q.5015 specifies the signalling architecture, signalling procedures and signalling requirements of orchestration for supporting confidential computing in MEC.\r\n"
 status:
   stage:
     content: Published
@@ -317,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -329,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

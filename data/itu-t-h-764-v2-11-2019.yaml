@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.764 describes an object-oriented programming language
-    called \"Internet protocol television services enhanced script language (IPTV
-    SESL)\", which is based on LIME‑Script of Recommendation ITU-T H.762, and includes
-    enhanced functionalities. The language is used in IPTV services for performing
-    computations and manipulating computational objects within an IPTV terminal device
-    environment. There are two primary implementations of this Recommendation, the
-    \"Core script profile\" and the \"Extended script profile\". The core script profile
-    is conformant with the LIME-Script of Recommendation ITU-T H.762 and is used for
-    the objects for client-side computation. The extended script profile is necessary
-    for the functional extensions required for IPTV services.\r\n\r\nThis revision
-    corrects or clarifies the definitions of some properties and methods in extended
-    script profile and makes some editorial modifications."
+  content: "Recommendation ITU-T H.764 describes an object-oriented programming language called \"Internet protocol television services enhanced script language (IPTV SESL)\", which is based on LIME‑Script of Recommendation ITU-T H.762, and includes enhanced functionalities. The language is used in IPTV services for performing computations and manipulating computational objects within an IPTV terminal device environment. There are two primary implementations of this Recommendation, the \"Core script profile\" and the \"Extended script profile\". The core script profile is conformant with the LIME-Script of Recommendation ITU-T H.762 and is used for the objects for client-side computation. The extended script profile is necessary for the functional extensions required for IPTV services.\r\n\r\nThis revision corrects or clarifies the definitions of some properties and methods in extended script profile and makes some editorial modifications."
 status:
   stage:
     content: Published

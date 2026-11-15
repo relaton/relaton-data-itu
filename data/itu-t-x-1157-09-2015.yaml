@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.1157 provides capabilities required to support
+  content: 'Recommendation ITU-T X.1157 provides capabilities required to support
     fraud detection and response in security sensitive information and communication
     technology (ICT) application services. Fraud detection and response services support
     the detection, analytics, and management of fraud across users, accounts, products,
@@ -64,7 +64,8 @@ abstract:
     entities, looking for abnormal activity, corruption or misuse. It is most commonly
     used in verticals managing customer money, such as e-finance, enterprise remote
     access, etc., but is equally commonly used to detect internal fraud and other
-    types of unauthorized activities.\r\n"
+    types of unauthorized activities.
+    '
 status:
   stage:
     content: Published

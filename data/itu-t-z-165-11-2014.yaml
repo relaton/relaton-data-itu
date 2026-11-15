@@ -53,19 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Z.165 provides the specification of the runtime interface
-    for TTCN-3 (Testing and Test Control Notation 3) test system implementations.
-    The TTCN-3 Runtime Interface provides the recommended adaptation for timing and
-    communication of a test system to a particular processing platform and the system
-    under test, respectively. This Recommendation defines the interface as a set of
-    operations independent of target language.\r\nThe interface is defined to be compatible
-    with Recommendation ITU\x1ET Z.161. This Recommendation uses the CORBA Interface
-    Definition Language (IDL) to specify the TRI completely. Clauses 6, 7 and 8 of
-    [ETSI ES 201 873-5 V4.6.1] specify language mappings of the abstract specification
-    to the target languages Java and ANSI-C. A summary of the IDL-based interface
-    specification is provided in Appendix A of [ETSI ES 201 873-5 V4.6.1].\r\nThis
-    revision of the Recommendation contains amendments, clarifications, corrigenda
-    and editorial corrections."
+  content: "Recommendation ITU-T Z.165 provides the specification of the runtime interface for TTCN-3 (Testing and Test Control Notation 3) test system implementations. The TTCN-3 Runtime Interface provides the recommended adaptation for timing and communication of a test system to a particular processing platform and the system under test, respectively. This Recommendation defines the interface as a set of operations independent of target language.\r\nThe interface is defined to be compatible with Recommendation ITU\x1eT Z.161. This Recommendation uses the CORBA Interface Definition Language (IDL) to specify the TRI completely. Clauses 6, 7 and 8 of [ETSI ES 201 873-5 V4.6.1] specify language mappings of the abstract specification to the target languages Java and ANSI-C. A summary of the IDL-based interface specification is provided in Appendix A of [ETSI ES 201 873-5 V4.6.1].\r\nThis revision of the Recommendation contains amendments, clarifications, corrigenda and editorial corrections."
 status:
   stage:
     content: Withdrawal
@@ -173,8 +161,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU
+        System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

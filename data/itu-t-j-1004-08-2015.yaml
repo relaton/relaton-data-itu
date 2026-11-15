@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1004 specifies the authorization centre (AC) interfaces
+  content: 'Recommendation ITU-T J.1004 specifies the authorization centre (AC) interfaces
     for a renewable conditional access system (RCAS) within the scope of ITU-T J.1001
     that specifies the requirements of an RCAS. AC interfaces are the interfaces between
     a central authorization centre (CAC) and a conditional access module authentication
-    subsystem (CASS) and between a distributed authorization centre (DAC) and a CASS.\r\n"
+    subsystem (CASS) and between a distributed authorization centre (DAC) and a CASS.
+    '
 status:
   stage:
     content: Published

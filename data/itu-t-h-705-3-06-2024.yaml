@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.705.3 specifies the requirements and the referenced
-    architecture of the open Internet protocol television (IPTV) multicast service.
-    In this Recommendation, two solutions are introduced for different scenarios:
-    a dedicated open IPTV multicast service system solution and an interface solution
-    for exposing IPTV multicast network capability. The related functional components,
-    requirements and the reference points are also defined accordingly.\r\nWith this
-    Recommendation, IPTV service providers are able to expose their dedicated multicast
-    network capability to the third parties so that over the top (OTT) live broadcast
-    services deployed on the public Internet can improve the quality of experience
-    (QoE) by taking advantage of the dedicated multicast network. Furthermore, new
-    \"live +\" services may be developed based on the open multicast service defined
-    in this Recommendation.\r\n"
+  content: "Recommendation ITU-T H.705.3 specifies the requirements and the referenced architecture of the open Internet protocol television (IPTV) multicast service. In this Recommendation, two solutions are introduced for different scenarios: a dedicated open IPTV multicast service system solution and an interface solution for exposing IPTV multicast network capability. The related functional components, requirements and the reference points are also defined accordingly.\r\nWith this Recommendation, IPTV service providers are able to expose their dedicated multicast network capability to the third parties so that over the top (OTT) live broadcast services deployed on the public Internet can improve the quality of experience (QoE) by taking advantage of the dedicated multicast network. Furthermore, new \"live +\" services may be developed based on the open multicast service defined in this Recommendation.\r\n"
 status:
   stage:
     content: Published

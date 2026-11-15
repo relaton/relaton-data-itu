@@ -47,20 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8264/Y.1364 outlines aspects of distribution of
-    timing information through packet networks and initially focuses on Ethernet networks.
-    A number of methods may be used to transfer frequency which may be physical-layer
-    based or protocol-layer based. This Recommendation provides information on architectural
-    aspects of timing flows in Ethernet networks which will form the basis for future
-    work related to time and phase transfer.\r\nThis Recommendation specifies the
-    synchronization status message (SSM) protocol and formats for use with synchronous
-    Ethernet. Adherence to the SSM formats specified in this Recommendation is required
-    in order to ensure interoperability between synchronous Ethernet equipment involved
-    in frequency transfer.\r\nAmendment 2 to ITU-T G.8264 (2017) includes the following
-    changes:\r\n•Adds explanation on the use of the terms ETH and ETY in the conventions.\r\n•Corrects
-    references to Tables 11-8 and 11-9 to refer to 11-7 and 11-8, respectively.\r\n•Clarifies
-    wording of the processing of SSM code with enhanced SSM code in clause 11.3.2.1.\r\n•Changes
-    non-inclusive terms.\r\n"
+  content: "Recommendation ITU-T G.8264/Y.1364 outlines aspects of distribution of timing information through packet networks and initially focuses on Ethernet networks. A number of methods may be used to transfer frequency which may be physical-layer based or protocol-layer based. This Recommendation provides information on architectural aspects of timing flows in Ethernet networks which will form the basis for future work related to time and phase transfer.\r\nThis Recommendation specifies the synchronization status message (SSM) protocol and formats for use with synchronous Ethernet. Adherence to the SSM formats specified in this Recommendation is required in order to ensure interoperability between synchronous Ethernet equipment involved in frequency transfer.\r\nAmendment 2 to ITU-T G.8264 (2017) includes the following changes:\r\n•Adds explanation on the use of the terms ETH and ETY in the conventions.\r\n•Corrects references to Tables 11-8 and 11-9 to refer to 11-7 and 11-8, respectively.\r\n•Clarifies wording of the processing of SSM code with enhanced SSM code in clause 11.3.2.1.\r\n•Changes non-inclusive terms.\r\n"
 status:
   stage:
     content: Withdrawal

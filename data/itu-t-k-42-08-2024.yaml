@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.42 explains the basic principles on which electromagnetic
+  content: 'Recommendation ITU-T K.42 explains the basic principles on which electromagnetic
     compatibility (EMC) standardization is based in ITUT taking into account EMC standards
     published by IEC and CISPR. It describes procedures that are followed in the preparation
     of ITU-T Recommendations on EMC requirements that apply to telecommunication/ICT
     equipment. Recommendations concerning resistibility requirements for equipment
-    as well as EMC characteristics of telecommunication/ICT networks, mitigation methods,
-    bonding and earthing, etc. are outside the scope of this Recommendation.\r\n"
+    as well as EMC characteristics of telecommunication/ICT networks, mitigation
+    methods, bonding and earthing, etc. are outside the scope of this Recommendation.
+    '
 status:
   stage:
     content: Published

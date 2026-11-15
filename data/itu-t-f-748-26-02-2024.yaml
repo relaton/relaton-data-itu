@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.26 provides a comprehensive performance evaluation
+  content: 'Recommendation ITU-T F.748.26 provides a comprehensive performance evaluation
     framework for artificial intelligence (AI) cloud platforms. Recommendation ITU-T
     F.748.26 gives an overview of the evaluation framework, configuration specification,
     workloads, metrics, requirements on evaluation results and evaluation suggestions.
     Recommendation ITU-T F.748.26 can be a unified guideline for developers, users,
     third party test agencies and researchers to analyse and access the performance
-    of AI cloud platforms.\r\n"
+    of AI cloud platforms.
+    '
 status:
   stage:
     content: Published

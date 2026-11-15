@@ -52,14 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.695 provides optical parameter values for physical
+  content: 'Recommendation ITU-T G.695 provides optical parameter values for physical
     layer interfaces of coarse wavelength division multiplexing (CWDM) applications
     with up to 16 channels and up to 100 Gbit/s. Applications are defined using two
     different methods, one using multichannel interface parameters and the other using
     single-channel interface parameters. Both unidirectional and bidirectional applications
     are specified. In this version of this Recommendation, an application code for
     4-channel PAM4 100G black box applications has been added, which is suitable for
-    carrying 4×FOIC1.1-RS and FOIC4.4-RS (400G striped across four physical lanes).\r\n"
+    carrying 4×FOIC1.1-RS and FOIC4.4-RS (400G striped across four physical lanes).
+    '
 status:
   stage:
     content: Published

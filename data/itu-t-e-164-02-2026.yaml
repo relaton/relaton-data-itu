@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T E.164 provides the number structure and functionality
+  content: 'Recommendation ITU-T E.164 provides the number structure and functionality
     for the eight categories of numbers used for international public telecommunication:
     Geographic Areas (see clause 3.2.1), Global Services (see networks in clause 3.2.11),
     Other Global Services (see clause 3.2.19), Global Satellite Services (see clause
@@ -62,7 +62,8 @@ abstract:
     it details the components of the numbering structure and the digit analysis required
     to successfully route calls. Annex A provides additional information on the structure
     and function of international public telecommunication numbers (hereafter referred
-    to as \"international E.164 numbers\").\r\n"
+    to as "international E.164 numbers").
+    '
 status:
   stage:
     content: Published

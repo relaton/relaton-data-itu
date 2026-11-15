@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.26 defines several packages that provide support
-    for extended line supervision and metering analogue lines capabilities for Recommendation
-    ITU-T H.248.1. This version adds a phased metering signal suitable for use with
-    complex metering scenarios that are beyond the capability of the metering signals
-    already present in the package. It also introduces a new package to perform metering
-    pulse detection by media gateways, and updates all the packages in this Recommendation
-    to conform to the new packages template.\r\nThis revision incorporates updates
-    to the default behaviour of the \"Pulse Repetition Interval\", \"Burst Pulse Count\"
-    and \"Pulse Repetition Interval\" parameters.\r\n"
+  content: "Recommendation ITU-T H.248.26 defines several packages that provide support for extended line supervision and metering analogue lines capabilities for Recommendation ITU-T H.248.1. This version adds a phased metering signal suitable for use with complex metering scenarios that are beyond the capability of the metering signals already present in the package. It also introduces a new package to perform metering pulse detection by media gateways, and updates all the packages in this Recommendation to conform to the new packages template.\r\nThis revision incorporates updates to the default behaviour of the \"Pulse Repetition Interval\", \"Burst Pulse Count\" and \"Pulse Repetition Interval\" parameters.\r\n"
 status:
   stage:
     content: Published

@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.104 describes the characteristics, construction
+  content: 'Recommendation ITU-T L.104 describes the characteristics, construction
     and test methods of small count optical fibre cables for indoor applications.
     Indoor optical fibre cables that contain three or more fibres have been described
     in Recommendation ITU-T L.103/L.59. This Recommendation deals with small count
@@ -68,7 +68,8 @@ abstract:
     ITU-T G.657 fibre was added as an optical fibre which can be used to the small
     count optical fibre cables for indoor applications. Existing appendices which
     describe various national experiences have been transferred to the new Supplement
-    for L.100-series Recommendations.\r\n"
+    for L.100-series Recommendations.
+    '
 status:
   stage:
     content: Published

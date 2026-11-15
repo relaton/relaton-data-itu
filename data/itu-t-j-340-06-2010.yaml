@@ -54,22 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Peak signal to noise ratio (PSNR) is a useful benchmark for evaluating
-    performance improvements of new objective perceptual video quality metrics. This
-    PSNR calculation method in Recommendation ITU-T J.340 has the advantage of automatically
-    determining the highest possible PSNR value for a given video sequence over the
-    range of spatial and temporal shifts. Only one temporal shift is allowed for all
-    frames in the entire processed video sequence (i.e., constant delay).\r\n\r\nThis
-    Recommendation defines a full reference (FR) algorithm for computing both the
-    calibration and PSNR estimations for a processed video sequence: peak signal to
-    noise ratio with compensation for constant spatial shifts, constant temporal shift,
-    and constant luminance gain and offset (PSNRconst). Since the PSNRconst algorithm
-    only examines the Y luminance channel (as defined by Recommendation ITU-R BT.601-6)
-    distortions in the CB and CR chrominance channels will not be detected by the
-    algorithm of this Recommendation. The intent of this Recommendation is to define
-    and facilitate a standardized PSNR metric for use by industry and standard organizations.
-    Reference code and test vectors have been included to assure accurate and consistent
-    implementation of this PSNRconst metric."
+  content: "Peak signal to noise ratio (PSNR) is a useful benchmark for evaluating performance improvements of new objective perceptual video quality metrics. This PSNR calculation method in Recommendation ITU-T J.340 has the advantage of automatically determining the highest possible PSNR value for a given video sequence over the range of spatial and temporal shifts. Only one temporal shift is allowed for all frames in the entire processed video sequence (i.e., constant delay).\r\n\r\nThis Recommendation defines a full reference (FR) algorithm for computing both the calibration and PSNR estimations for a processed video sequence: peak signal to noise ratio with compensation for constant spatial shifts, constant temporal shift, and constant luminance gain and offset (PSNRconst). Since the PSNRconst algorithm only examines the Y luminance channel (as defined by Recommendation ITU-R BT.601-6) distortions in the CB and CR chrominance channels will not be detected by the algorithm of this Recommendation. The intent of this Recommendation is to define and facilitate a standardized PSNR metric for use by industry and standard organizations. Reference code and test vectors have been included to assure accurate and consistent implementation of this PSNRconst metric."
 status:
   stage:
     content: Published

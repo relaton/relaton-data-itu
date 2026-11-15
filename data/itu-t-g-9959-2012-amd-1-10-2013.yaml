@@ -47,11 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.9959 (2012) contains:\r\n•\tThe
-    relaxation of the transmitter frequency separation tolerance level from ±10% to
-    ±20%, for all data rates.\r\n•\tThe addition of a Logical Link Control (LLC) layer,
-    in new clause 9.\r\n•\tThe addition of a Segmentation and Reassembly (SAR) adaptation
-    layer, in new clause 10."
+  content: "Amendment 1 to Recommendation ITU-T G.9959 (2012) contains:\r\n•\tThe relaxation of the transmitter frequency separation tolerance level from ±10% to ±20%, for all data rates.\r\n•\tThe addition of a Logical Link Control (LLC) layer, in new clause 9.\r\n•\tThe addition of a Segmentation and Reassembly (SAR) adaptation layer, in new clause 10."
 status:
   stage:
     content: Withdrawal
@@ -71,8 +67,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Short range narrow-band digital radiocommunication transceivers – PHY,
-        MAC, SAR and LLC layer specifications
+      content: Short range narrow-band digital radiocommunication transceivers –
+        PHY, MAC, SAR and LLC layer specifications
     docidentifier:
     - content: G.9959 (01/2015)
       type: ITU
@@ -82,8 +78,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Short range narrow-band digital radiocommunication transceivers – PHY
-        and MAC layer specifications
+      content: Short range narrow-band digital radiocommunication transceivers –
+        PHY and MAC layer specifications
     docidentifier:
     - content: G.9959 (02/2012)
       type: ITU

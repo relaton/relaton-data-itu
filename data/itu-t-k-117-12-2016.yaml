@@ -53,16 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.117 specifies the common-mode, differential mode
-    and common mode to differential mode conversion surge parameter and test circuit
-    requirements of an Ethernet port primary protector. The preferred surge generator
-    voltage levels are 2.5 kV, 6 kV and 12 kV, but the test circuits can be used for
-    any surge voltage environmental. Power over Ethernet (PoE) feed requirements are
-    also given. Ethernet signal performance parameters are not covered and standards
-    such as [b-IEC 60603-7-7] may be used for this purpose.\r\nThis Recommendation
-    should be used for the harmonization of existing or future specifications issued
-    by Ethernet surge protective device (SPD) manufacturers, telecommunication equipment
-    manufacturers, administrations or network operators."
+  content: "Recommendation ITU-T K.117 specifies the common-mode, differential mode and common mode to differential mode conversion surge parameter and test circuit requirements of an Ethernet port primary protector. The preferred surge generator voltage levels are 2.5 kV, 6 kV and 12 kV, but the test circuits can be used for any surge voltage environmental. Power over Ethernet (PoE) feed requirements are also given. Ethernet signal performance parameters are not covered and standards such as [b-IEC 60603-7-7] may be used for this purpose.\r\nThis Recommendation should be used for the harmonization of existing or future specifications issued by Ethernet surge protective device (SPD) manufacturers, telecommunication equipment manufacturers, administrations or network operators."
 status:
   stage:
     content: Published

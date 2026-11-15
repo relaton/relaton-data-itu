@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Following the architecture and signalling requirements for the broadband
+  content: 'Following the architecture and signalling requirements for the broadband
     network gateway (BNG) pool defined in Recommendation ITU-T Q.3713, Supplement
     80 to the ITU-T Q-series Recommendations provides the architecture and scenarios
     of the BNG pool based on function decoupling, demonstrates the signalling requirements
     for life cycle management and service configuration and describes signalling procedures
-    for service creation, service update and service deletion.\r\n"
+    for service creation, service update and service deletion.
+    '
 status:
   stage:
     content: Published

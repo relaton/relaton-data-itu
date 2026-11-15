@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.698.6 provides optical parameter values for physical
+  content: 'Recommendation ITU-T G.698.6 provides optical parameter values for physical
     layer interfaces of wavelength division multiplexing (WDM) systems primarily intended
     for mobile fronthaul and metro applications in the O-band, optimized for 5 km
     transmission distances. Applications are defined using optical interface parameters
@@ -65,7 +65,8 @@ abstract:
     fibre or a pair of unidirectional transmission fibres is used in the black link
     to connect the HEE to the TEE. This version of the Recommendation includes unidirectional
     and bidirectional WDM applications at 25 Gbit/s per channel with alternating channel
-    wavelength spacing of 7 nm and 13 nm in the O-band.\r\n"
+    wavelength spacing of 7 nm and 13 nm in the O-band.
+    '
 status:
   stage:
     content: Published

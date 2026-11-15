@@ -47,17 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8023 specifies both the functional components and
-    the methodology that should be used in order to specify the Ethernet physical
-    layer and Flex Ethernet interfaces.\r\nAmendment 1 contains text modifications:\r\n–\tto
-    update references in clauses 1, 2, and 6.3;\r\n–\tto align terminology with OIF
-    FLEXE IA;\r\n–\tto align terminology with Recommendation ITU-T G.807;\r\n–\tto
-    add 50G PHYs from 802.3cd;\r\n–\tto clarify that the use of the ESMC is optional;
-    \r\n–\tto update server/ETH_A functions to remove details of client-specific processes
-    that are covered in Recommendation ITU-T G.8021;\r\n–\tto correct errors in Tables
-    8-4 and 8-5;\r\n–\tto add new clause 6.6 and update Annex A regarding FlexE aware
-    mapping;\r\n–\tto include common processes for FlexE that were formerly in Annex
-    B of Recommendation ITU-T G.798.\r\n"
+  content: "Recommendation ITU-T G.8023 specifies both the functional components and the methodology that should be used in order to specify the Ethernet physical layer and Flex Ethernet interfaces.\r\nAmendment 1 contains text modifications:\r\n–\tto update references in clauses 1, 2, and 6.3;\r\n–\tto align terminology with OIF FLEXE IA;\r\n–\tto align terminology with Recommendation ITU-T G.807;\r\n–\tto add 50G PHYs from 802.3cd;\r\n–\tto clarify that the use of the ESMC is optional; \r\n–\tto update server/ETH_A functions to remove details of client-specific processes that are covered in Recommendation ITU-T G.8021;\r\n–\tto correct errors in Tables 8-4 and 8-5;\r\n–\tto add new clause 6.6 and update Annex A regarding FlexE aware mapping;\r\n–\tto include common processes for FlexE that were formerly in Annex B of Recommendation ITU-T G.798.\r\n"
 status:
   stage:
     content: Published

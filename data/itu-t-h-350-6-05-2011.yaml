@@ -50,18 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.350.6 describes a simple lightweight directory
-    access protocol (LDAP) and ITU-T X.500 schemas to represent call forwarding and
-    call preference information in an ITU-T H.350 directory. It is intended to represent
-    addresses to which calls should be forwarded in the case that an endpoint does
-    not answer a call. It can direct calls to simple ITU-T H.320, ITU-T H.323 or session
-    initiation protocol (SIP) addresses, or complex forwarding schemes such as time
-    of day preferences, web pages, electronic mail or other applications. Implementers
-    should review Recommendation ITU-T H.350 in detail before proceeding with this
-    Recommendation.\r\n\r\nThis revised version of Recommendation ITU-T H.350.6 introduces
-    some corrections to the previous version, primarily updater of ITU-T X.500 ASN.1
-    contained in clause 8.\r\n\r\nThis Recommendation includes an electronic attachment
-    containing a schema configuration file for callPreferenceURI."
+  content: "Recommendation ITU-T H.350.6 describes a simple lightweight directory access protocol (LDAP) and ITU-T X.500 schemas to represent call forwarding and call preference information in an ITU-T H.350 directory. It is intended to represent addresses to which calls should be forwarded in the case that an endpoint does not answer a call. It can direct calls to simple ITU-T H.320, ITU-T H.323 or session initiation protocol (SIP) addresses, or complex forwarding schemes such as time of day preferences, web pages, electronic mail or other applications. Implementers should review Recommendation ITU-T H.350 in detail before proceeding with this Recommendation.\r\n\r\nThis revised version of Recommendation ITU-T H.350.6 introduces some corrections to the previous version, primarily updater of ITU-T X.500 ASN.1 contained in clause 8.\r\n\r\nThis Recommendation includes an electronic attachment containing a schema configuration file for callPreferenceURI."
 status:
   stage:
     content: Published

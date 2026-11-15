@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3064 provides the signalling architecture of network
+  content: 'Recommendation ITU-T Q.3064 provides the signalling architecture of network
     intelligence capability enhancement (NICE) in support of awareness capabilities
     based on Recommendations ITUT Y.2301, ITU-T Y.2302 and ITU-T Y.2303. Based on
     the functional architecture and the awareness functions of NICE, this Recommendation
     specifies the mapping of reference points to interfaces in the signalling architecture
     of NICE, especially in support of awareness capabilities. And it also provides
     the signalling requirements and protocols used for interfaces and the signalling
-    procedures of NICE in support of awareness capabilities.\r\n"
+    procedures of NICE in support of awareness capabilities.
+    '
 status:
   stage:
     content: Published
@@ -318,9 +319,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -330,8 +331,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

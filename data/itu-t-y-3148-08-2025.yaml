@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3148 specifies the functional architecture, functional
-    entities, operational procedures, and packet metadata to fulfil the requirements
-    and framework specified in Recommendation ITUT Y.3129. It enables deterministic
-    networking with a set of work conserving packet schedulers in the data plane,
-    which guarantees end-to-end (E2E) latency bounds to flows.\r\nIn particular, the
-    procedures for metadata usage, metadata creation and update, priority queue management
-    and time difference compensation are specified. The use of first-in first-out
-    (FIFO) instead of priority queue, as an approximated implementation of stateless
-    fair queuing, is also specified.\r\n"
+  content: "Recommendation ITU-T Y.3148 specifies the functional architecture, functional entities, operational procedures, and packet metadata to fulfil the requirements and framework specified in Recommendation ITUT Y.3129. It enables deterministic networking with a set of work conserving packet schedulers in the data plane, which guarantees end-to-end (E2E) latency bounds to flows.\r\nIn particular, the procedures for metadata usage, metadata creation and update, priority queue management and time difference compensation are specified. The use of first-in first-out (FIFO) instead of priority queue, as an approximated implementation of stateless fair queuing, is also specified.\r\n"
 status:
   stage:
     content: Published
@@ -102,7 +94,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -134,8 +126,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -229,7 +220,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 111 to ITU-T Y.3100-series - Guidance for migrating existing
+      content: Supplement 111 to ITU-T Y.3100-series – Guidance for migrating existing
         mobile network technologies to IMT-2020 and beyond
     docidentifier:
     - content: Y Suppl. 111 (07/2026)

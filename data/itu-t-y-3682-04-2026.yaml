@@ -52,14 +52,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3682 specifies functional architecture of human-like
+  content: 'Recommendation ITU-T Y.3682 specifies functional architecture of human-like
     networking, including general aspects of functional architecture for human-like
     networking, functional architecture of network layer for human-like networking,
     functional architecture of control layer for human-like networking, functional
     architecture of application layer for human-like networking, functional architecture
     of user layer for human-like networking, functional architecture of functional
     planes for human-like networking, other aspects of functional architecture for
-    human-like networking, and security considerations.\r\n"
+    human-like networking, and security considerations.
+    '
 status:
   stage:
     content: Published
@@ -79,7 +80,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3600-series – Big data and data handling standardization roadmap
+      content: ITU-T Y.3600-series – Big data and data handling standardization
+        roadmap
     docidentifier:
     - content: Y Suppl. 40 (11/2023)
       type: ITU
@@ -99,7 +101,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -130,8 +132,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.741.0 defines a foundational platform for audience
-    measurement (AM) of Internet Protocol television (IPTV) services. This Recommendation
-    focuses on the interface between terminal devices (TDs) and an audience measurement
-    aggregation function.\r\nThe AM platform integrates a method for end users to
-    report personal information, and is designed to easily add time-shifted and interactive
-    services, and non-terminal device measurement points. While ITU-T H.741.0 allows
-    the implementation of audience measurement for IPTV services, its mechanism may
-    be equally applicable to non-IPTV services.\r\nThe audience measurement mechanism
-    specified here provides additional benefits when compared to traditional audience
-    measurement. Such benefits include, in particular, a larger audience population
-    sample, more detailed engagement metrics, passive data collection, and feedback
-    for the enhancement of services.\r\nThe design philosophy in ITU-T H.741.0 is
-    focused on scalability, on minimizing the use of resources, on optimizing security,
-    on flexibility to support a variety of service provider deployments, and on a
-    rich set of privacy settings to meet emerging regulations and legislation.\r\n"
+  content: "Recommendation ITU-T H.741.0 defines a foundational platform for audience measurement (AM) of Internet Protocol television (IPTV) services. This Recommendation focuses on the interface between terminal devices (TDs) and an audience measurement aggregation function.\r\nThe AM platform integrates a method for end users to report personal information, and is designed to easily add time-shifted and interactive services, and non-terminal device measurement points. While ITU-T H.741.0 allows the implementation of audience measurement for IPTV services, its mechanism may be equally applicable to non-IPTV services.\r\nThe audience measurement mechanism specified here provides additional benefits when compared to traditional audience measurement. Such benefits include, in particular, a larger audience population sample, more detailed engagement metrics, passive data collection, and feedback for the enhancement of services.\r\nThe design philosophy in ITU-T H.741.0 is focused on scalability, on minimizing the use of resources, on optimizing security, on flexibility to support a variety of service provider deployments, and on a rich set of privacy settings to meet emerging regulations and legislation.\r\n"
 status:
   stage:
     content: Published

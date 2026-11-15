@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.249 provides guidelines on the selection of appropriate
-    objective perceptual video quality measurement methods when a reduced reference
-    signal is available. The following are example applications that can use this
-    Recommendation:\r\n\r\n1) Interlaced video television streams over cable networks
-    including those transmitted over the Internet using Internet Protocol.\r\n\r\n2)
-    Some forms of Internet Protocol Television (IPTV) video payloads.\r\n\r\n3) Video
-    quality monitoring at the receiver when side-channels are available.\r\n\r\n4)
-    Video quality monitoring at measurement nodes located between the point of transmission
-    and the point of reception."
+  content: "Recommendation ITU-T J.249 provides guidelines on the selection of appropriate objective perceptual video quality measurement methods when a reduced reference signal is available. The following are example applications that can use this Recommendation:\r\n\r\n1) Interlaced video television streams over cable networks including those transmitted over the Internet using Internet Protocol.\r\n\r\n2) Some forms of Internet Protocol Television (IPTV) video payloads.\r\n\r\n3) Video quality monitoring at the receiver when side-channels are available.\r\n\r\n4) Video quality monitoring at measurement nodes located between the point of transmission and the point of reception."
 status:
   stage:
     content: Published

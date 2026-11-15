@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendations ITU-T Y.2320 and ITU-T Y.2321 provide requirements and
-    architecture for the virtualization of control network entities in next generation
-    network evolution (NGNe). The container-based network entity, making full use
-    of the advantages of cloud native technology and realizing the rapid construction,
-    operation and elastic expansion of telecommunication networks, can evolve the
-    next generation network (NGN) furthermore. \r\nRecommendation ITU-T Y.2350 provides
-    the requirements of container-based network entities, requirements of container-based
-    network entities management system, and requirements of infrastructures of NGNe
-    to support container-based network entities.\r\n"
+  content: "Recommendations ITU-T Y.2320 and ITU-T Y.2321 provide requirements and architecture for the virtualization of control network entities in next generation network evolution (NGNe). The container-based network entity, making full use of the advantages of cloud native technology and realizing the rapid construction, operation and elastic expansion of telecommunication networks, can evolve the next generation network (NGN) furthermore. \r\nRecommendation ITU-T Y.2350 provides the requirements of container-based network entities, requirements of container-based network entities management system, and requirements of infrastructures of NGNe to support container-based network entities.\r\n"
 status:
   stage:
     content: Published
@@ -102,8 +94,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in
-        next generation networks
+      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems
+        in next generation networks
     docidentifier:
     - content: Y Suppl. 6 (09/2008)
       type: ITU
@@ -123,8 +115,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and
-        consortia
+      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums
+        and consortia
     docidentifier:
     - content: Y Suppl. 8 (01/2010)
       type: ITU
@@ -220,7 +212,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -241,8 +233,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -284,8 +275,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2300-series – Use cases of network resource sharing based on
-        distributed ledger technology for supporting large-scale deep learning models
+      content: ITU-T Y.2300-series – Use cases of network resource sharing based
+        on distributed ledger technology for supporting large-scale deep learning
+        models
     docidentifier:
     - content: Y Suppl. 94 (11/2025)
       type: ITU

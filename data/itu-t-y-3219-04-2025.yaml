@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Deterministic services are network services that provide predictable and
+  content: 'Deterministic services are network services that provide predictable and
     guaranteed network behaviour in terms of key parameters such as latency, jitter,
     and packet loss rate. Deterministic networking refers to processes and functionalities
     on a network that aims to deliver deterministic services. Fixed, mobile and satellite
@@ -61,7 +61,8 @@ abstract:
     end users regardless of the fixed, mobile or satellite access technologies being
     used. Recommendation ITU-T Y.3219 specifies the general considerations, requirements,
     framework, network function enhancements, procedures and security considerations
-    of deterministic networking in FMSC network, in the context of IMT-2020 and beyond.\r\n"
+    of deterministic networking in FMSC network, in the context of IMT-2020 and beyond.
+    '
 status:
   stage:
     content: Published
@@ -91,7 +92,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -112,8 +113,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

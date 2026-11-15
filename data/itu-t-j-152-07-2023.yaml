@@ -52,11 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.152 specifies requirements for cable television
+  content: 'Recommendation ITU-T J.152 specifies requirements for cable television
     (TV) systems that use an IMT-2020 radio system, also known as 5G, which is expected
     to replace the wiring inside apartment buildings in cities or to extend cable
     TV systems in rural areas. However, to use the available bandwidth, cable TV service
-    signals have to meet certain requirements to be carried over IMT-2020.\r\n"
+    signals have to meet certain requirements to be carried over IMT-2020.
+    '
 status:
   stage:
     content: Published

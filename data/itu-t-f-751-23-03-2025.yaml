@@ -52,11 +52,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.751.23 specifies the framework and requirements
+  content: 'Recommendation ITU-T F.751.23 specifies the framework and requirements
     for distributed ledger technology interoperability. The framework includes three
     types of interoperability, as well as technical requirements. The three types
     of interoperability are inter-chain interoperability, app-chain interoperability
-    and off-chain interoperability.\r\n"
+    and off-chain interoperability.
+    '
 status:
   stage:
     content: Published

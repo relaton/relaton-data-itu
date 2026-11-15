@@ -53,14 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Datagram transport layer security (DTLS) is a session layer protocol for
+  content: Datagram transport layer security (DTLS) is a session layer protocol for
     securing IP transport protocols. DTLS bearer plane traffic could be terminated
-    or forwarded by ITU\x1ET H.248 media gateways. DTLS is derived from the transport
-    layer security (TLS) protocol. Recommendation ITU\x1ET H.248.93 provides information
-    for (DTLS) support by ITU-T H.248 entities with focus on the reuse of \"ITU-T
-    H.248 TLS packages\" (according to Recommendation ITU-T H.248.90) for DTLS. This
-    Recommendation defines an ITU-T H.248 package extension to the TLS capability
-    negotiation package for the support of DTLS-SRTP sessions."
+    or forwarded by ITUT H.248 media gateways. DTLS is derived from the transport
+    layer security (TLS) protocol. Recommendation ITUT H.248.93 provides information
+    for (DTLS) support by ITU-T H.248 entities with focus on the reuse of "ITU-T H.248
+    TLS packages" (according to Recommendation ITU-T H.248.90) for DTLS. This Recommendation
+    defines an ITU-T H.248 package extension to the TLS capability negotiation package
+    for the support of DTLS-SRTP sessions.
 status:
   stage:
     content: Published

@@ -53,17 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Digital hospitals refer to health-care institutions that integrate information
-    and communication technologies into health care, medical service and management.
-    As a critical component of digital hospital management, medical equipment (ME)
-    management plays an essential role in improving cost-effectiveness and operational
-    efficiency.\r\nRecommendation ITU-T F.780.7 provides the technical requirements
-    of medical equipment management platform for digital hospitals. It describes a
-    three-layer architecture encompassing a resource layer, service layer and application
-    layer to support ME inventory management, lifecycle management, and, in particular,
-    maintenance management. It also outlines the requirements for data and business
-    services in the service layer, as well as infrastructure requirements in the resource
-    layer.\r\n"
+  content: "Digital hospitals refer to health-care institutions that integrate information and communication technologies into health care, medical service and management. As a critical component of digital hospital management, medical equipment (ME) management plays an essential role in improving cost-effectiveness and operational efficiency.\r\nRecommendation ITU-T F.780.7 provides the technical requirements of medical equipment management platform for digital hospitals. It describes a three-layer architecture encompassing a resource layer, service layer and application layer to support ME inventory management, lifecycle management, and, in particular, maintenance management. It also outlines the requirements for data and business services in the service layer, as well as infrastructure requirements in the resource layer.\r\n"
 status:
   stage:
     content: Published

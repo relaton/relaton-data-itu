@@ -53,23 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The protocol defined in this Recommendation is called the Service Specific
-    Connection Oriented Protocol in a Multilink and Connectionless Environment (SSCOPMCE)
-    and provides assured data delivery between AAL connection endpoints.SSCOPMCE is
-    a peer-to-peer protocol which provides the following functions:\r• transfer of
-    user data with sequence integrity;\r• error correction by selective retransmission;\r•
-    flow control;\r• connection control;\r• error reporting to layer management;\r•
-    connection maintenance in the prolonged absence of data transfer;\r• local data
-    retrieval by the user;\r• error detection of protocol control information;\r•
-    status reporting; and\r• out-of-sequence delivery.This Recommendation enhances
-    the specification in ITU-T Q.2110 to allow the SSCOPMCE mechanism to be deployed
-    not only on a single ATM connection but also:\r• on multiple ATM connections between
-    the same endpoints; or\r• on a connectionless network.When deployed on a single
-    ATM connection, the protocol defined in this Recommendation is interoperable with
-    the protocol specified in ITU-T Recommendation Q.2110.This Recommendation describes
-    the necessary elements for layer to layer communication, the elements for peer-to-peer
-    communication, a detailed protocol specification, and examples of assured data
-    operation."
+  content: "The protocol defined in this Recommendation is called the Service Specific Connection Oriented Protocol in a Multilink and Connectionless Environment (SSCOPMCE) and provides assured data delivery between AAL connection endpoints.SSCOPMCE is a peer-to-peer protocol which provides the following functions:\r• transfer of user data with sequence integrity;\r• error correction by selective retransmission;\r• flow control;\r• connection control;\r• error reporting to layer management;\r• connection maintenance in the prolonged absence of data transfer;\r• local data retrieval by the user;\r• error detection of protocol control information;\r• status reporting; and\r• out-of-sequence delivery.This Recommendation enhances the specification in ITU-T Q.2110 to allow the SSCOPMCE mechanism to be deployed not only on a single ATM connection but also:\r• on multiple ATM connections between the same endpoints; or\r• on a connectionless network.When deployed on a single ATM connection, the protocol defined in this Recommendation is interoperable with the protocol specified in ITU-T Recommendation Q.2110.This Recommendation describes the necessary elements for layer to layer communication, the elements for peer-to-peer communication, a detailed protocol specification, and examples of assured data operation."
 status:
   stage:
     content: Published
@@ -371,9 +355,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -383,8 +367,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

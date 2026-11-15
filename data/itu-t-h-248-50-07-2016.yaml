@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.50 contains a series of ITU-T H.248 packages
-    that enable various network address translator (NAT) traversal techniques to be
-    employed in order to facilitate media flow between networks or user equipment
-    and network-side located media gateways. Any of these packages may be utilized
-    in any order to gather and map addresses, as well as maintain connectivity with
-    and through NATs.\r\nThis revision of Recommendation ITU-T H.248.50 adds clarifications
-    and further capabilities, such as:\r\n– a new ITU-T H.248 session traversal utilities
-    for NAT (STUN) consent freshness package;\r\n– package-independent ITU-T H.248
-    procedures for specific NAT traversal use cases;\r\n– interactive connectivity
-    establishment (ICE) variants (full vs ICE lite; user equipment (UE)-embedded vs
-    gateway-embedded ICE clients; vanilla vs trickle ICE; ICE for user datagram protocol
-    (UDP) vs ICE for TCP; ICE for single-homed vs multi-homed host entities); and\r\n–
-    updates to keep alive support."
+  content: "Recommendation ITU-T H.248.50 contains a series of ITU-T H.248 packages that enable various network address translator (NAT) traversal techniques to be employed in order to facilitate media flow between networks or user equipment and network-side located media gateways. Any of these packages may be utilized in any order to gather and map addresses, as well as maintain connectivity with and through NATs.\r\nThis revision of Recommendation ITU-T H.248.50 adds clarifications and further capabilities, such as:\r\n– a new ITU-T H.248 session traversal utilities for NAT (STUN) consent freshness package;\r\n– package-independent ITU-T H.248 procedures for specific NAT traversal use cases;\r\n– interactive connectivity establishment (ICE) variants (full vs ICE lite; user equipment (UE)-embedded vs gateway-embedded ICE clients; vanilla vs trickle ICE; ICE for user datagram protocol (UDP) vs ICE for TCP; ICE for single-homed vs multi-homed host entities); and\r\n– updates to keep alive support."
 status:
   stage:
     content: Published

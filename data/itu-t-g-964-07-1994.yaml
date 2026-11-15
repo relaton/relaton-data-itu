@@ -53,27 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines a V-interface (V5.1) for the connection of
-    an Access Network (AN) to a Local Exchange (LE) for the support of the following
-    access types:\r\n– analogue telephone access;\r\n– ISDN basic access with a NT1
-    separate from the AN or integrated in the AN, based on Recommen-dations G.960
-    and I.430;\r\n– other analogue or digital accesses for semi-permanent connections
-    without associated outband signalling information, with flexible (provisioned)
-    information channel (bearer channel) allocation but without concentration capability
-    within the AN.\r\nThe electrical and functional interface specification uses the
-    2048 kbit/s parts of Recommendations G.703, G.704 and G.706.\r\nThe signalling
-    from the PSTN user port is converted into a stimulus protocol with a functional
-    part for the signalling path using layer 3 multiplexing for the information from
-    the different user ports.\r\nThe information from the ISDN D-channels is frame
-    relayed in the Access Network using the mechanisms defined in Recommendation Q.922.\r\nA
-    control protocol defined in this Recommendation is used for the exchange of the
-    individual port status and control functions required for the coordination with
-    the call control procedures in the Local Exchange.\r\nIn order to coordinate the
-    traffic demands in the various protocols, 1, 2 or 3 communication channels can
-    be provisioned to transport the various protocols and frame relayed information.
-    The data link layer for the protocols is defined on the basis of Recommendations
-    Q.920 and Q.921.\r\nInterface V5.1 is upgradable to V5.2 through re-provisioning
-    and by implementation of the additional functionality."
+  content: "This Recommendation defines a V-interface (V5.1) for the connection of an Access Network (AN) to a Local Exchange (LE) for the support of the following access types:\r\n– analogue telephone access;\r\n– ISDN basic access with a NT1 separate from the AN or integrated in the AN, based on Recommen-dations G.960 and I.430;\r\n– other analogue or digital accesses for semi-permanent connections without associated outband signalling information, with flexible (provisioned) information channel (bearer channel) allocation but without concentration capability within the AN.\r\nThe electrical and functional interface specification uses the 2048 kbit/s parts of Recommendations G.703, G.704 and G.706.\r\nThe signalling from the PSTN user port is converted into a stimulus protocol with a functional part for the signalling path using layer 3 multiplexing for the information from the different user ports.\r\nThe information from the ISDN D-channels is frame relayed in the Access Network using the mechanisms defined in Recommendation Q.922.\r\nA control protocol defined in this Recommendation is used for the exchange of the individual port status and control functions required for the coordination with the call control procedures in the Local Exchange.\r\nIn order to coordinate the traffic demands in the various protocols, 1, 2 or 3 communication channels can be provisioned to transport the various protocols and frame relayed information. The data link layer for the protocols is defined on the basis of Recommendations Q.920 and Q.921.\r\nInterface V5.1 is upgradable to V5.2 through re-provisioning and by implementation of the additional functionality."
 status:
   stage:
     content: Withdrawal
@@ -93,8 +73,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: V-Interfaces at the digital local exchange (LE) – V5.1 interface (based
-        on 2048 kbit/s) for the support of access network (AN)
+      content: V-Interfaces at the digital local exchange (LE) – V5.1 interface
+        (based on 2048 kbit/s) for the support of access network (AN)
     docidentifier:
     - content: G.964 (03/2001)
       type: ITU

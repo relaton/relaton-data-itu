@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines the Service Change Reasons that are used in
-    the core H.248.1 protocol. It lists the Service Change Reason code associated
-    with the Service Change Reason code name. It provides a definition of when the
-    Service Change Reason is to be used. It also provides an indication of what text
-    may be included in the Service Change extension to allow further interpretation
-    of the Service Change Reason. Clause 5 provides these details.This revision addresses
-    the following aspects:\r\n• Addition of five new Error Codes: 413, 449, 460, 522,
-    542\r\n• Clarifications for Error Codes: 430, 435\r\n• Removal of a Package-defined
-    Error Code: 540\r\n• Addition of three new Service Change Reasons: 918, 919, 920
-    NOTE ? This Recommendation has been renumbered. It was formerly known as ITU-T
-    Rec. H.248, Annex L."
+  content: "This Recommendation defines the Service Change Reasons that are used in the core H.248.1 protocol. It lists the Service Change Reason code associated with the Service Change Reason code name. It provides a definition of when the Service Change Reason is to be used. It also provides an indication of what text may be included in the Service Change extension to allow further interpretation of the Service Change Reason. Clause 5 provides these details.This revision addresses the following aspects:\r\n• Addition of five new Error Codes: 413, 449, 460, 522, 542\r\n• Clarifications for Error Codes: 430, 435\r\n• Removal of a Package-defined Error Code: 540\r\n• Addition of three new Service Change Reasons: 918, 919, 920 NOTE ? This Recommendation has been renumbered. It was formerly known as ITU-T Rec. H.248, Annex L."
 status:
   stage:
     content: Withdrawal

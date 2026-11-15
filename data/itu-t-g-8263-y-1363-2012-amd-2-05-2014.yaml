@@ -47,10 +47,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to Recommendation ITU-T G.8263/Y.1363 (2012) adds text to
-    Appendix I, \"Packet delay variation noise tolerance – testing methodology\",
-    which was previously marked as 'for further study'. It also replaces a sentence
-    in clause 7.1 and adds a note in clause 7.1.\r\n"
+  content: 'Amendment 2 to Recommendation ITU-T G.8263/Y.1363 (2012) adds text to
+    Appendix I, "Packet delay variation noise tolerance – testing methodology",
+    which was previously marked as ''for further study''. It also replaces a sentence
+    in clause 7.1 and adds a note in clause 7.1.
+    '
 status:
   stage:
     content: Withdrawal

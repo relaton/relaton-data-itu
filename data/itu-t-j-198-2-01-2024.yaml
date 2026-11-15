@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.198.2 aims to define the physical (PHY) layer specification
+  content: 'Recommendation ITU-T J.198.2 aims to define the physical (PHY) layer specification
     of a third-generation high performance network over coax (HiNoC 3.0) which provides
     10 Gbit/s data transmission over coaxial networks in the cable industry. The HiNoC
     network consists of a HiNoC bridge (HB) and HiNoC modems (HMs). The HiNoC protocol
@@ -60,7 +60,8 @@ abstract:
     This Recommendation contains descriptions for the signal transmission mechanism
     of the HiNoC 3.0 PHY layer, including frame structure, channel coding and modulation
     techniques. The HiNoC 3.0 protocol supports channel bonding which refers to the
-    scheduling of the MAC layer frames over multiple PHY layer channels.\r\n"
+    scheduling of the MAC layer frames over multiple PHY layer channels.
+    '
 status:
   stage:
     content: Published

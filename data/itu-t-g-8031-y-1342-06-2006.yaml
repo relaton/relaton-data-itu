@@ -52,11 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8031/Y.1342 describes the specifics of linear protection
-    switching for Ethernet VLAN signals. Included are details pertaining to ETH linear
-    protection characteristics, architectures, and the APS protocol. The protection
-    scheme considered in this Recommendation is:\r\n–  VLAN-based Ethernet subnetwork
-    connection linear protection with sublayer monitoring."
+  content: "Recommendation ITU-T G.8031/Y.1342 describes the specifics of linear protection switching for Ethernet VLAN signals. Included are details pertaining to ETH linear protection characteristics, architectures, and the APS protocol. The protection scheme considered in this Recommendation is:\r\n–  VLAN-based Ethernet subnetwork connection linear protection with sublayer monitoring."
 status:
   stage:
     content: Withdrawal

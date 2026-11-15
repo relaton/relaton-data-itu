@@ -53,42 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.4808 is intended to provide a solution framework
-    employing digital entity architecture to combat the use of counterfeit Internet
-    of things (IoT) devices worldwide.\r\nThere are challenges related to the use
-    and circulation of counterfeit devices in the market, including adverse consequences
-    for users, governments and the private sector.\r\nAs documented in the ITU-T Technical
-    Report on Counterfeit ICT equipment [b-Counterfeit ICT Equipment], there are a
-    lot of technical solutions which are widely used for combating counterfeit products
-    the world over. The report indicates that radio frequency identification (RFID)
-    tags are among technologies which are used for combating counterfeiting. While
-    this may be true, there are some difficulties associated with securing these systems
-    with regard to the access control exercised to write on the tags.\r\nThere are
-    solutions established for combating counterfeit devices for specific technologies
-    and/or industries which may not be applicable to all use cases. On the other hand,
-    there are solutions which may be applicable to all use cases, these solutions
-    are based on the ITU-T Recommendations such as ITU-T Y.4459 Digital entity architecture
-    framework for Internet of things interoperability and ITU-T X.1255 Framework for
-    discovery of identity management information.\r\nResolution 188 (Busan, 2014)
-    on combating counterfeit telecommunication/information and communication technology
-    devices recognized that Recommendation ITU-T X.1255, which is based on the digital
-    entity architecture, provides a framework for discovery of identity management
-    information.\r\nA digital entity architecture, as described in Recommendation
-    ITU-T Y.4459, defines a minimum set of needed architectural components and services
-    to provide a generic information and service interoperability. It will facilitate
-    the interoperability of identification, description, representation, access, storage
-    and security of Internet of things (IoT) devices. This architecture framework
-    encourages a common security and management interface across different IoT applications.\r\nDigital
-    entity architecture provides additional means of security (e.g., public key infrastructure)
-    features to authenticate the parties involved in the identifiers registration
-    process. Other industry approaches to combat counterfeiting are available. They
-    rely on commonly acknowledged identifiers including, but not limited to media
-    access control (MAC), international mobile equipment identity (IMEI), radio frequency
-    identification (RFID), etc.\r\nSystems based on digital entity architecture may
-    be considered as one category of candidate tools which allow vendors/industries
-    (not only ICT industry) to store their products' profile in digital form. Therefore,
-    Recommendation ITU-T Y.4808 can be used in different industries such as the information
-    communication technology (ICT), pharmaceutical, automotive and aviation industries."
+  content: "Recommendation ITU-T Y.4808 is intended to provide a solution framework employing digital entity architecture to combat the use of counterfeit Internet of things (IoT) devices worldwide.\r\nThere are challenges related to the use and circulation of counterfeit devices in the market, including adverse consequences for users, governments and the private sector.\r\nAs documented in the ITU-T Technical Report on Counterfeit ICT equipment [b-Counterfeit ICT Equipment], there are a lot of technical solutions which are widely used for combating counterfeit products the world over. The report indicates that radio frequency identification (RFID) tags are among technologies which are used for combating counterfeiting. While this may be true, there are some difficulties associated with securing these systems with regard to the access control exercised to write on the tags.\r\nThere are solutions established for combating counterfeit devices for specific technologies and/or industries which may not be applicable to all use cases. On the other hand, there are solutions which may be applicable to all use cases, these solutions are based on the ITU-T Recommendations such as ITU-T Y.4459 Digital entity architecture framework for Internet of things interoperability and ITU-T X.1255 Framework for discovery of identity management information.\r\nResolution 188 (Busan, 2014) on combating counterfeit telecommunication/information and communication technology devices recognized that Recommendation ITU-T X.1255, which is based on the digital entity architecture, provides a framework for discovery of identity management information.\r\nA digital entity architecture, as described in Recommendation ITU-T Y.4459, defines a minimum set of needed architectural components and services to provide a generic information and service interoperability. It will facilitate the interoperability of identification, description, representation, access, storage and security of Internet of things (IoT) devices. This architecture framework encourages a common security and management interface across different IoT applications.\r\nDigital entity architecture provides additional means of security (e.g., public key infrastructure) features to authenticate the parties involved in the identifiers registration process. Other industry approaches to combat counterfeiting are available. They rely on commonly acknowledged identifiers including, but not limited to media access control (MAC), international mobile equipment identity (IMEI), radio frequency identification (RFID), etc.\r\nSystems based on digital entity architecture may be considered as one category of candidate tools which allow vendors/industries (not only ICT industry) to store their products' profile in digital form. Therefore, Recommendation ITU-T Y.4808 can be used in different industries such as the information communication technology (ICT), pharmaceutical, automotive and aviation industries."
 status:
   stage:
     content: Published
@@ -108,7 +73,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -171,8 +137,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -192,7 +158,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -234,8 +200,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -245,7 +210,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -277,8 +243,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

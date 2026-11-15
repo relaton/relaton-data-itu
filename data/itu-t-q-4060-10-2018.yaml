@@ -53,22 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The architecture of the new networks is mostly based on a heterogeneous
-    structure. One of the key issues of such networks is the integration of various
-    network technologies into one IP environment.\r\n\r\nIn this regards, there is
-    a need to use a gateway (ITU-T Y.4000/Y.2060) which may be located between different
-    technological segments of the network. In this regards, the gateway will be used
-    as an intermediary point which transfers messages from one network segment to
-    another. In general, this gateway may be used as a point of traffic aggregation
-    among IoT devices to be used in different network’s segments.\r\n\r\nThis Recommendation
-    describes the testing methodology of the heterogeneous network gateway which is
-    to be used for communication among IoT devices. The tests will include the following,
-    but not limited to:\r\n\r\n•            Check the gateway to stress load (benchmarking)\r\n\r\n•
-    \           Check the gateway to the possibility of transmission of various types
-    and sizes of frames and (or) packages.\r\n\r\n•            Verification of the
-    joint conversions from different protocols and multiple interfaces\r\n\r\n•            Check
-    the gateway operation settings (CPU, RAM, etc.).\r\n\r\n•            Check the
-    network parameters (delay, data loss, etc.)\r\n"
+  content: "The architecture of the new networks is mostly based on a heterogeneous structure. One of the key issues of such networks is the integration of various network technologies into one IP environment.\r\n\r\nIn this regards, there is a need to use a gateway (ITU-T Y.4000/Y.2060) which may be located between different technological segments of the network. In this regards, the gateway will be used as an intermediary point which transfers messages from one network segment to another. In general, this gateway may be used as a point of traffic aggregation among IoT devices to be used in different network’s segments.\r\n\r\nThis Recommendation describes the testing methodology of the heterogeneous network gateway which is to be used for communication among IoT devices. The tests will include the following, but not limited to:\r\n\r\n•            Check the gateway to stress load (benchmarking)\r\n\r\n•            Check the gateway to the possibility of transmission of various types and sizes of frames and (or) packages.\r\n\r\n•            Verification of the joint conversions from different protocols and multiple interfaces\r\n\r\n•            Check the gateway operation settings (CPU, RAM, etc.).\r\n\r\n•            Check the network parameters (delay, data loss, etc.)\r\n"
 status:
   stage:
     content: Published
@@ -326,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -338,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

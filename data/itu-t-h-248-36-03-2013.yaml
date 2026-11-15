@@ -52,12 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.36 describes the Hanging Termination Detection
-    package which is used to determine potential information mismatch in the record
-    of Context and Termination identities between the media gateway controller and
-    the media gateway. It also offers guidance on the action to take once a potential
-    mismatch is detected.\r\nThis revision incorporates a clarification as to how
-    a media gateway notifies a media gateway controller of hanging terminations.\r\n"
+  content: "Recommendation ITU-T H.248.36 describes the Hanging Termination Detection package which is used to determine potential information mismatch in the record of Context and Termination identities between the media gateway controller and the media gateway. It also offers guidance on the action to take once a potential mismatch is detected.\r\nThis revision incorporates a clarification as to how a media gateway notifies a media gateway controller of hanging terminations.\r\n"
 status:
   stage:
     content: Published

@@ -52,23 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Digital audiovisual services are provided by a transmission system in
-    which the relevant signals are multiplexed onto a digital path using the frame
-    structure defined in Recommendation ITU-T H.221. In addition to the audio, video,
-    user data and telematic information, these signals include information for the
-    correct functioning of the system. The additional information has been named control
-    and indication (C&I) to reflect the fact that while some bits are genuinely for
-    \"control\", causing a state change somewhere else in the system, others provide
-    for indications to the users as to the functioning of the system. Recommendation
-    ITU-T H.230 concerns only those C&Is which must be transmission frame‑synchronous,
-    or otherwise requiring a rapid response.\r\n\r\nThis Recommendation details the
-    C&I related to video and audio; the means of transmitting numbers and characters;
-    C&I for maintenance purposes; for simple multipoint conferences not using protocol
-    in the MLP channel; for channel aggregation; and for the transfer of network addresses.
-    The code-point tables also indicate the circumstances under which the various
-    functions may be mandatory or optional.\r\n\r\nThis revised version of Recommendation
-    ITU-T H.230 introduces a number of clarifications and corrections to the previous
-    version, primarily in the definitions of C&I symbols."
+  content: "Digital audiovisual services are provided by a transmission system in which the relevant signals are multiplexed onto a digital path using the frame structure defined in Recommendation ITU-T H.221. In addition to the audio, video, user data and telematic information, these signals include information for the correct functioning of the system. The additional information has been named control and indication (C&I) to reflect the fact that while some bits are genuinely for \"control\", causing a state change somewhere else in the system, others provide for indications to the users as to the functioning of the system. Recommendation ITU-T H.230 concerns only those C&Is which must be transmission frame‑synchronous, or otherwise requiring a rapid response.\r\n\r\nThis Recommendation details the C&I related to video and audio; the means of transmitting numbers and characters; C&I for maintenance purposes; for simple multipoint conferences not using protocol in the MLP channel; for channel aggregation; and for the transfer of network addresses. The code-point tables also indicate the circumstances under which the various functions may be mandatory or optional.\r\n\r\nThis revised version of Recommendation ITU-T H.230 introduces a number of clarifications and corrections to the previous version, primarily in the definitions of C&I symbols."
 status:
   stage:
     content: Published

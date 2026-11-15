@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.1206 discusses multiple power supply interfaces
+  content: 'Recommendation ITU-T L.1206 discusses multiple power supply interfaces
     to information and communication technology (ICT) equipment operated by dual power
     input feeds with combinations of standardized −48 Volt direct current (DC) or
     alternating current (AC) sources, or DC source up to 400 Volt interfaces. Operational
     voltage and interface characteristics are detailed in ITU-T Recommendations and
     European Telecommunications Standards Institute (ETSI) relevant standards. This
     Recommendation also includes some details on the power architecture within the
-    ICT equipment between the ICT power interface and the ICT end load.\r\n"
+    ICT equipment between the ICT power interface and the ICT end load.
+    '
 status:
   stage:
     content: Published

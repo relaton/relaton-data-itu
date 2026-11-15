@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes Name Identification features for H.323 systems.
-    These features are:\r• Calling Party Name Presentation and Restriction.\r• Connected
-    Party Name Presentation and Restriction.\r• Alerting Party Name Presentation and
-    Restriction.\r• Busy Party Name Presentation and Restriction.Calling party name
-    information may be provided by the calling endpoint or by the gatekeeper using
-    the gatekeeper routed call model. Connected party name information, alerting party
-    name information, or busy party name information may be provided by the answering
-    (connected) party, alerting party, or busy party, respectively, or by the gatekeeper
-    using the gatekeeper routed call model."
+  content: "This Recommendation describes Name Identification features for H.323 systems. These features are:\r• Calling Party Name Presentation and Restriction.\r• Connected Party Name Presentation and Restriction.\r• Alerting Party Name Presentation and Restriction.\r• Busy Party Name Presentation and Restriction.Calling party name information may be provided by the calling endpoint or by the gatekeeper using the gatekeeper routed call model. Connected party name information, alerting party name information, or busy party name information may be provided by the answering (connected) party, alerting party, or busy party, respectively, or by the gatekeeper using the gatekeeper routed call model."
 status:
   stage:
     content: Withdrawal

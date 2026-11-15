@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.833.2 describes an extension of the methodology
+  content: 'Recommendation ITU-T P.833.2 describes an extension of the methodology
     for deriving equipment impairment factors from subjective listening-only tests.
     It is intended that it primarily be applied to determining the fullband equipment
     impairment factors Ie,FB, capturing the degradation introduced by fullband speech
     codecs. The resulting fullband equipment impairment factors derived by this methodology
     are intended to be used on the extended transmission rating scale underlying the
     Emodel as presented in clause 6.2 of Recommendation ITU-T G.107.2. They will reflect
-    the auditory impairments of the corresponding equipment in a listening-only mode.\r\n"
+    the auditory impairments of the corresponding equipment in a listening-only mode.
+    '
 status:
   stage:
     content: Published

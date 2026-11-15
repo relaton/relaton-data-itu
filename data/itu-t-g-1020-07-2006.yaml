@@ -53,32 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The transmission of speech and other voiceband applications over packet
-    networks brings with it new, sometimes unique, forms of quality degradation. There
-    are many existing definitions for packet network performance parameters, yet the
-    desire to control the quality of non-elastic isochronous applications requires
-    additional, complementary information. The purpose of this Recommendation is to
-    define packet network and terminal performance parameters that better reflect
-    the perceived quality of the target applications. It is largely focused on quality
-    impairments resulting from delay variation and packet loss which are peculiar
-    to IP and other packet-based technologies, and which do not appear in traditional
-    TDM networks. It discusses the interactions and trade-offs among these packet
-    impairments, and describes mechanisms such as de-jitter buffers and packet loss
-    concealment for reducing their effects on the quality of speech and other applications.
-    However, this Recommendation avoids overlap by making reference to existing definitions
-    wherever possible.\r\n\r\nThe parameters defined by this Recommendation extend
-    beyond the IP layer in many cases. End‑to‑end packet system (combination of end
-    terminals and network) parameters are also necessary to determine the speech/voiceband
-    quality. Clauses 5, 6 and 7 collect the parameter definitions for source terminals,
-    packet networks, and destination terminals, respectively. Overall parameters are
-    defined in clause 8. \r\n\r\nIn this version, the Recommendation adds formal definitions
-    for many of the voice metrics identified in RFC 3611, RTCP Extended Reports (RTCP-XR).\r\n\r\nAnnex
-    A defines the gateway-specific reference points and parameters. Annex B provides
-    information on packet loss distributions and packet loss models, and defines burst
-    packet loss parameters. Annex C specifies an adaptive de-jitter buffer emulator
-    and defines de-jitter buffer parameters.  Appendix I tabulates the RTCP-XR parameters,
-    along with the examination existing Recommendations and the final action, which
-    typically was the addition of a parameter in this Recommendation."
+  content: "The transmission of speech and other voiceband applications over packet networks brings with it new, sometimes unique, forms of quality degradation. There are many existing definitions for packet network performance parameters, yet the desire to control the quality of non-elastic isochronous applications requires additional, complementary information. The purpose of this Recommendation is to define packet network and terminal performance parameters that better reflect the perceived quality of the target applications. It is largely focused on quality impairments resulting from delay variation and packet loss which are peculiar to IP and other packet-based technologies, and which do not appear in traditional TDM networks. It discusses the interactions and trade-offs among these packet impairments, and describes mechanisms such as de-jitter buffers and packet loss concealment for reducing their effects on the quality of speech and other applications. However, this Recommendation avoids overlap by making reference to existing definitions wherever possible.\r\n\r\nThe parameters defined by this Recommendation extend beyond the IP layer in many cases. End‑to‑end packet system (combination of end terminals and network) parameters are also necessary to determine the speech/voiceband quality. Clauses 5, 6 and 7 collect the parameter definitions for source terminals, packet networks, and destination terminals, respectively. Overall parameters are defined in clause 8. \r\n\r\nIn this version, the Recommendation adds formal definitions for many of the voice metrics identified in RFC 3611, RTCP Extended Reports (RTCP-XR).\r\n\r\nAnnex A defines the gateway-specific reference points and parameters. Annex B provides information on packet loss distributions and packet loss models, and defines burst packet loss parameters. Annex C specifies an adaptive de-jitter buffer emulator and defines de-jitter buffer parameters.  Appendix I tabulates the RTCP-XR parameters, along with the examination existing Recommendations and the final action, which typically was the addition of a parameter in this Recommendation."
 status:
   stage:
     content: Published

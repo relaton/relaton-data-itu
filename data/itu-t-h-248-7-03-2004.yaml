@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation defines a generic announcement package for use with
-    the H.248.1 Gateway Control Protocol. The generic announcement package provides
-    a media gateway controller with the ability to control announcements in a media
-    gateway. Control is provided by the definition of announcement events (for example,
-    \"announcement completed\") and announcement signals (for example, \"play a specified
-    announcement\"). As defined in ITU-T Rec. H.248.1, a \"package\" is an extension
-    to H.248.1 that supports specific behaviour.The changes introduced by this new
-    edition are:\r• removal of superfluous information;\r• announcement playing clarification;\r•
-    correction of announcement package editorial error.NOTE - This Recommendation
-    has been renumbered. It was previously known as ITU-T Rec. H.248, Annex K."
+  content: "This Recommendation defines a generic announcement package for use with the H.248.1 Gateway Control Protocol. The generic announcement package provides a media gateway controller with the ability to control announcements in a media gateway. Control is provided by the definition of announcement events (for example, \"announcement completed\") and announcement signals (for example, \"play a specified announcement\"). As defined in ITU-T Rec. H.248.1, a \"package\" is an extension to H.248.1 that supports specific behaviour.The changes introduced by this new edition are:\r• removal of superfluous information;\r• announcement playing clarification;\r• correction of announcement package editorial error.NOTE - This Recommendation has been renumbered. It was previously known as ITU-T Rec. H.248, Annex K."
 status:
   stage:
     content: Published

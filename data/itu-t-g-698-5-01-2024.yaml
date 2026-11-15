@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.698.5 provides optical parameter values for physical
+  content: 'Recommendation ITU-T G.698.5 provides optical parameter values for physical
     layer interfaces of dense wavelength division multiplexing (DWDM) systems primarily
     intended for mobile fronthaul and metro applications in the O-band, optimized
     for 10-km and 20-km transmission distances. Applications are defined using optical
@@ -65,7 +65,8 @@ abstract:
     antenna site. A single bidirectional transmission fibre is used in the black link
     to connect the HEE to the TEE. This version of the Recommendation includes bidirectional
     single-fibre WDM applications at 25 Gbit/s per channel with a nominal optical
-    channel frequency spacing of 800 GHz.\r\n"
+    channel frequency spacing of 800 GHz.
+    '
 status:
   stage:
     content: Published

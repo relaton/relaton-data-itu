@@ -47,23 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8151 addresses management aspects of the multi-protocol
-    label switching (MPLS) transport profile (MPLS-TP) capable network element containing
-    transport functions of one or more of the layer networks of the MPLS-TP network.
-    The management of the MPLS-TP layer networks is separable from that of its client
-    layer networks so that the same means of management can be used regardless of
-    the client. The management functions for fault management, configuration management,
-    performance monitoring and security management are specified.\r\nThis Recommendation
-    aligns with the MPLS-TP architecture and requirements jointly developed by IETF
-    and ITU-T and provides the specification for managing MPLS-TP network elements
-    (NEs) that support the operations, administration, maintenance (OAM) protocol
-    neutral equipment functionality as defined in Recommendations ITUT G.8121/Y.1381,
-    G.8121.1/Y.1381.1 and G.8121.2/Y.1381.2.\r\nITU-T G.8151/Y.1374 Amendment 1 updated
-    the Administrative state requirements and Table 7-2.\r\nThe 2024 revision of this
-    Recommendation has updated LM related MIs in Table 8-1; OAM-related CoS MIs (or
-    Priority MIs) in Table 8-1, Table 8-2 and Table 8-3.2; addressed MIs that were
-    'For Further Study' in Tables 8-2 and 8-3.\r\nAmendment 1 updates Table 8-4 to
-    report the state of linear and ring protection protocol.\r\n"
+  content: "Recommendation ITU-T G.8151 addresses management aspects of the multi-protocol label switching (MPLS) transport profile (MPLS-TP) capable network element containing transport functions of one or more of the layer networks of the MPLS-TP network. The management of the MPLS-TP layer networks is separable from that of its client layer networks so that the same means of management can be used regardless of the client. The management functions for fault management, configuration management, performance monitoring and security management are specified.\r\nThis Recommendation aligns with the MPLS-TP architecture and requirements jointly developed by IETF and ITU-T and provides the specification for managing MPLS-TP network elements (NEs) that support the operations, administration, maintenance (OAM) protocol neutral equipment functionality as defined in Recommendations ITUT G.8121/Y.1381, G.8121.1/Y.1381.1 and G.8121.2/Y.1381.2.\r\nITU-T G.8151/Y.1374 Amendment 1 updated the Administrative state requirements and Table 7-2.\r\nThe 2024 revision of this Recommendation has updated LM related MIs in Table 8-1; OAM-related CoS MIs (or Priority MIs) in Table 8-1, Table 8-2 and Table 8-3.2; addressed MIs that were 'For Further Study' in Tables 8-2 and 8-3.\r\nAmendment 1 updates Table 8-4 to report the state of linear and ring protection protocol.\r\n"
 status:
   stage:
     content: Published

@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.4144 provides the signalling procedures and signalling
+  content: 'Recommendation ITU-T Q.4144 provides the signalling procedures and signalling
     requirements for cross-operator service orchestration in computing power networks
     (CPNs) based on the CPN functional architecture specified in Recommendation ITU-T
     Y.2501 and signalling architecture for CPN service orchestration in one operator
-    specified in Recommendation ITU-T Q.4142.\r\n"
+    specified in Recommendation ITU-T Q.4142.
+    '
 status:
   stage:
     content: Published
@@ -315,9 +316,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -327,8 +328,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

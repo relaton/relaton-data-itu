@@ -47,22 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 incorporates the following updates:\r\n1)Update FlexE in clause
-    6.2.3, Appendix I and Appendix J.\r\n2)Reporting PTP status via new TLV: update
-    Signalling message support in clauses 6.2.2 and 6.2.8, and adding new Annex L.\r\n3)Add
-    new clockMode specification in clause 6.2.9 and status dataset members in Table
-    A.1.\r\n4)Add new nodeClass specification in clause 6.2.10 and status dataset
-    members in Table A.1.\r\n5)Add more details on clockAccuracy and offsetScaledLogVariance
-    values in clause 6.3.5.\r\n6)Add more details on PTSF in clause 6.3.9.\r\n7)Add
-    Wait to Restore (WTR) in new clause 6.3.10, a note in Annex K, and dataset members
-    in Table A.5.\r\n8)Traceability rephrased in clause 6.4.\r\n9)Add holdover-within-specification/holdover-out-of-specification
-    capability, configuration and status dataset members in clause 6.4 and Table A.1.\r\n10)Increment
-    profileVersion and ProfileIdentifier in Annex A.\r\n11)Add \"optional\" tagging
-    for dataset members in Annex A.\r\n12)Add portDS.twoStepFlag in clause 6.2.5 and
-    Table A.5.\r\n13)Cleanup unused dataset members in Tables A.3 and A.5.\r\n14)Replace
-    FFS by new values for some dataset members in Table A.5.\r\n15)Add ProfileIdentifier
-    for transparent clocks in Table A.6.\r\n16)Insert three new tables, which impacts
-    the renumbering of following ones.\r\n"
+  content: "Amendment 2 incorporates the following updates:\r\n1)Update FlexE in clause 6.2.3, Appendix I and Appendix J.\r\n2)Reporting PTP status via new TLV: update Signalling message support in clauses 6.2.2 and 6.2.8, and adding new Annex L.\r\n3)Add new clockMode specification in clause 6.2.9 and status dataset members in Table A.1.\r\n4)Add new nodeClass specification in clause 6.2.10 and status dataset members in Table A.1.\r\n5)Add more details on clockAccuracy and offsetScaledLogVariance values in clause 6.3.5.\r\n6)Add more details on PTSF in clause 6.3.9.\r\n7)Add Wait to Restore (WTR) in new clause 6.3.10, a note in Annex K, and dataset members in Table A.5.\r\n8)Traceability rephrased in clause 6.4.\r\n9)Add holdover-within-specification/holdover-out-of-specification capability, configuration and status dataset members in clause 6.4 and Table A.1.\r\n10)Increment profileVersion and ProfileIdentifier in Annex A.\r\n11)Add \"optional\" tagging for dataset members in Annex A.\r\n12)Add portDS.twoStepFlag in clause 6.2.5 and Table A.5.\r\n13)Cleanup unused dataset members in Tables A.3 and A.5.\r\n14)Replace FFS by new values for some dataset members in Table A.5.\r\n15)Add ProfileIdentifier for transparent clocks in Table A.6.\r\n16)Insert three new tables, which impacts the renumbering of following ones.\r\n"
 status:
   stage:
     content: Withdrawal

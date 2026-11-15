@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Traditionally, each network provider and multimedia application service
-    provider collects its own status information independently. There is a lack of
-    an efficient way to share such information among them.\r\nRecommendation ITU-T
-    F.746.22 describes the functional architecture for unified status monitoring (USM)
-    systems, including functional entities, reference points and service control flows.
-    This architecture enables administrators to implement any monitoring system, providing
-    an efficient way to share network-level and application-level information between
-    network providers and multimedia application service providers. It can also share
-    status information among multiple USM systems and can further analyse status information
-    and generate status reports in response to requests from network providers and
-    application service providers.\r\n"
+  content: "Traditionally, each network provider and multimedia application service provider collects its own status information independently. There is a lack of an efficient way to share such information among them.\r\nRecommendation ITU-T F.746.22 describes the functional architecture for unified status monitoring (USM) systems, including functional entities, reference points and service control flows. This architecture enables administrators to implement any monitoring system, providing an efficient way to share network-level and application-level information between network providers and multimedia application service providers. It can also share status information among multiple USM systems and can further analyse status information and generate status reports in response to requests from network providers and application service providers.\r\n"
 status:
   stage:
     content: Published

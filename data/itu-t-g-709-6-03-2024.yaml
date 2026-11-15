@@ -50,11 +50,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709.6 specifies 400G and 800G FlexO Beyond 400G
+  content: 'Recommendation ITU-T G.709.6 specifies 400G and 800G FlexO Beyond 400G
     (B400G) long-reach interfaces. The Recommendation specifies the structure using
     forward error correction (FEC) codes with a higher coding gain suitable for longer
     reach applications, and references common elements from Recommendation ITU-T G.709.1
-    and FEC structures from Recommendation ITU-T G.709.3.\r\n"
+    and FEC structures from Recommendation ITU-T G.709.3.
+    '
 status:
   stage:
     content: Withdrawal
@@ -74,7 +75,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Flexible OTN B400G and B1T long reach interfaces
+      content: Flexible OTN B400G and B1T long-reach interfaces
     docidentifier:
     - content: G.709.6 (10/2026)
       type: ITU

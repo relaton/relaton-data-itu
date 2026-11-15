@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1102 describes the interface specifications for
+  content: 'Recommendation ITU-T J.1102 describes the interface specifications for
     IP-based switched digital video (SDV) using data over cable service interface
     specifications (DOCSIS) in a digital cable network. The cable broadcasting system
     has been changed to use resources efficiently and to transmit said resources in
@@ -61,7 +61,8 @@ abstract:
     to Recommendation ITU-T J.1101, Functional requirements for IP-based switched
     digital video using data over cable service interface specifications. These specifications
     are designed to maintain quality of service (QoS) while using bandwidth effectively
-    in a hybrid fiber/coaxial (HFC) network environment.\r\n"
+    in a hybrid fiber/coaxial (HFC) network environment.
+    '
 status:
   stage:
     content: Published

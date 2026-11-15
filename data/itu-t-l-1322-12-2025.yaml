@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.1322 specifies a quantitative evaluation framework
+  content: 'Recommendation ITU-T L.1322 specifies a quantitative evaluation framework
     for the thermal environment of data centres characterized by high heat-flux density,
     stringent environmental requirements, and refrigeration systems with year-round
     operation. The framework defines multi-level indicators: room-, row-, cabinet-,
     device-, and chip-level, covering airflow organization and cooling effectiveness.
     The framework supports identifying hot spots, optimizing airflow patterns, reporting
     safety levels, and quantifying energy use and savings potential, and it enables
-    comparison across data centres of different sizes, layouts, and airflow schemes.\r\n"
+    comparison across data centres of different sizes, layouts, and airflow schemes.
+    '
 status:
   stage:
     content: Published

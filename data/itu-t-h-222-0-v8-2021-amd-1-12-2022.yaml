@@ -55,16 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Rec. ITU-T H.222.0 | ISO/IEC 13818-1 was developed in 1994 to principally
-    support the combination and synchronization of video and audio coding methods
-    defined in ISO/IEC 13818 Part 2 (Rec. ITU-T H.262) and Part 3. It has since then
-    been extended to support additional video and audio coding specifications as well
-    as multiple kinds of metadata. \r\nAmendment 1 to ITU-T H.222.0 (2021) | ISO/IEC
-    13818-1:2022 extends the specification by defining how LCEVC (ISO/IEC 23094-2)
-    is carried over MPEG-2 systems. It also defines an additional descriptor signalling
-    the kind of media service and its usage. Further, it includes clarifications for
-    the specification of carriage of JPEG XS. \r\nAll of this is done in a way that
-    is compatible with the existing support for other codecs.\r\n"
+  content: "Rec. ITU-T H.222.0 | ISO/IEC 13818-1 was developed in 1994 to principally support the combination and synchronization of video and audio coding methods defined in ISO/IEC 13818 Part 2 (Rec. ITU-T H.262) and Part 3. It has since then been extended to support additional video and audio coding specifications as well as multiple kinds of metadata. \r\nAmendment 1 to ITU-T H.222.0 (2021) | ISO/IEC 13818-1:2022 extends the specification by defining how LCEVC (ISO/IEC 23094-2) is carried over MPEG-2 systems. It also defines an additional descriptor signalling the kind of media service and its usage. Further, it includes clarifications for the specification of carriage of JPEG XS. \r\nAll of this is done in a way that is compatible with the existing support for other codecs.\r\n"
 status:
   stage:
     content: Withdrawal

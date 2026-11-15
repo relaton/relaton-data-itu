@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.762 describes the high-level functionalities of
-    the lightweight interactive multimedia environment (LIME) for IPTV. LIME supports
-    functionalities in IPTV terminal devices to provide interactivity and a variety
-    of content such as audio, video, graphics and text. Expected services include
-    additional data such as text to enrich television programmes, and two-way portal
-    pages.\r\n\r\nThis Recommendation describes the profile called \"LIME-HTML\" of
-    W3C Recommendation XHTML 1.0, the profile called \"LIME-CSS\" of cascading style
-    sheets 1 (CSS1), and a part of CSS2, the profile of document object model (DOM)
-    called \"LIME-DOM\", and a script language called \"LIME-Script\" that is a subset
-    of ECMAScript but has functional extensions required for IPTV services. It describes
-    the use of IP-based protocols for transport of LIME and IPTV-related services.\r\n\r\nThis
-    revision includes the addition of explanatory text and definitions to enhance
-    readability and improve the understanding of the extended functions. Specifically,
-    the change of the string \"BML\" to \"LIME\" and the addition of explanations
-    of the browser pseudo-object methods were considered. These changes do not modify
-    any accepted functions nor introduce any new functionality."
+  content: "Recommendation ITU-T H.762 describes the high-level functionalities of the lightweight interactive multimedia environment (LIME) for IPTV. LIME supports functionalities in IPTV terminal devices to provide interactivity and a variety of content such as audio, video, graphics and text. Expected services include additional data such as text to enrich television programmes, and two-way portal pages.\r\n\r\nThis Recommendation describes the profile called \"LIME-HTML\" of W3C Recommendation XHTML 1.0, the profile called \"LIME-CSS\" of cascading style sheets 1 (CSS1), and a part of CSS2, the profile of document object model (DOM) called \"LIME-DOM\", and a script language called \"LIME-Script\" that is a subset of ECMAScript but has functional extensions required for IPTV services. It describes the use of IP-based protocols for transport of LIME and IPTV-related services.\r\n\r\nThis revision includes the addition of explanatory text and definitions to enhance readability and improve the understanding of the extended functions. Specifically, the change of the string \"BML\" to \"LIME\" and the addition of explanations of the browser pseudo-object methods were considered. These changes do not modify any accepted functions nor introduce any new functionality."
 status:
   stage:
     content: Published

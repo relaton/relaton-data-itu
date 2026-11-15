@@ -47,22 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.798 specifies both the components and the methodology
-    that should be used in order to specify the optical transport network (OTN) functionality
-    of network elements; it does not specify individual optical transport network
-    equipment. Amendment 1 contains text modifications and additions for: – moving
-    the ODUkP to Ethernet MAC layer and Ethernet Reconciliation sublayer adaptation
-    functions from ITU-T G.8021 to ITU-T G.798. – supporting the adaptation of ODUkP
-    to Ethernet Coding sublayer for 25 Gb/s, 200 Gb/s and 400 Gb/s Ethernet signals.
-    – alignment with ITU-T G.8023. – replacing Appendix VIII to align with ITU-T G.872
-    and ITU-T G.873.1 Amendment 2 contains text modifications and additions for: –
-    OTSi to OTU4 adaptation function with SC FEC. – OTSi to FlexO-1-SC adaptation
-    function. – alignment with ITU-T G.709.1. Amendment 3 contains text modifications
-    and additions for: – supporting 25 Gb/s and 50 Gb/s OTN interfaces.  – supporting
-    200 Gb/s and 400 Gb/s FlexO interfaces.  – supporting the adaptation of ODUkP
-    to Ethernet Coding sublayer for 50 Gb/s Ethernet signals. – supporting the adaptation
-    of ODUkP to SDI/1.5G SDI signals. – alignment with ITU-T G.709.1 and ITU-T G.709.3.
-    \r\n"
+  content: "Recommendation ITU-T G.798 specifies both the components and the methodology that should be used in order to specify the optical transport network (OTN) functionality of network elements; it does not specify individual optical transport network equipment. Amendment 1 contains text modifications and additions for: – moving the ODUkP to Ethernet MAC layer and Ethernet Reconciliation sublayer adaptation functions from ITU-T G.8021 to ITU-T G.798. – supporting the adaptation of ODUkP to Ethernet Coding sublayer for 25 Gb/s, 200 Gb/s and 400 Gb/s Ethernet signals. – alignment with ITU-T G.8023. – replacing Appendix VIII to align with ITU-T G.872 and ITU-T G.873.1 Amendment 2 contains text modifications and additions for: – OTSi to OTU4 adaptation function with SC FEC. – OTSi to FlexO-1-SC adaptation function. – alignment with ITU-T G.709.1. Amendment 3 contains text modifications and additions for: – supporting 25 Gb/s and 50 Gb/s OTN interfaces.  – supporting 200 Gb/s and 400 Gb/s FlexO interfaces.  – supporting the adaptation of ODUkP to Ethernet Coding sublayer for 50 Gb/s Ethernet signals. – supporting the adaptation of ODUkP to SDI/1.5G SDI signals. – alignment with ITU-T G.709.1 and ITU-T G.709.3. \r\n"
 status:
   stage:
     content: Withdrawal

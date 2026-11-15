@@ -53,26 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.21 specifies resistibility requirements and test
-    procedures for telecommunication equipment that is attached to or installed within
-    a customer's premises.\r\n\r\nOvervoltages or overcurrents covered by this Recommendation
-    include surges due to lightning on or near the line plant, short-term induction
-    from adjacent a.c. power lines or railway systems, earth potential rise due to
-    power faults, direct contact between telecommunication lines and power lines and
-    electrostatic discharges. The sources for overvoltages in internal lines are mainly
-    inductive coupling caused by lightning currents being conducted in nearby lightning
-    strokes or lightning currents being conducted in nearby conductors.\r\n\r\nMajor
-    changes compared with the 2008 version of this Recommendation include: \r\n\r\n•
-    \           updated references;\r\n\r\n•            added information on which
-    universal serial bus (USB) ports should be tested;\r\n\r\n•            added information
-    on when to add protection to untested ports;\r\n\r\n•            added test requirements
-    for external coaxial cable ports;\r\n\r\n•            added test requirements
-    for multiple conductor internal unshielded cable ports.\r\n\r\nMajor changes compared
-    with the 2011 version of this Recommendation include:\r\n\r\n•            added
-    test requirements for unshielded twisted pair (UTP) Ethernet;\r\n\r\n•            added
-    test requirements for shielded twisted pair (STP Ethernet;\r\n\r\n•            added
-    test requirements for power over Ethernet (PoE);\r\n\r\n•            added STP
-    shield testing.\r\n"
+  content: "Recommendation ITU-T K.21 specifies resistibility requirements and test procedures for telecommunication equipment that is attached to or installed within a customer's premises.\r\n\r\nOvervoltages or overcurrents covered by this Recommendation include surges due to lightning on or near the line plant, short-term induction from adjacent a.c. power lines or railway systems, earth potential rise due to power faults, direct contact between telecommunication lines and power lines and electrostatic discharges. The sources for overvoltages in internal lines are mainly inductive coupling caused by lightning currents being conducted in nearby lightning strokes or lightning currents being conducted in nearby conductors.\r\n\r\nMajor changes compared with the 2008 version of this Recommendation include: \r\n\r\n•            updated references;\r\n\r\n•            added information on which universal serial bus (USB) ports should be tested;\r\n\r\n•            added information on when to add protection to untested ports;\r\n\r\n•            added test requirements for external coaxial cable ports;\r\n\r\n•            added test requirements for multiple conductor internal unshielded cable ports.\r\n\r\nMajor changes compared with the 2011 version of this Recommendation include:\r\n\r\n•            added test requirements for unshielded twisted pair (UTP) Ethernet;\r\n\r\n•            added test requirements for shielded twisted pair (STP Ethernet;\r\n\r\n•            added test requirements for power over Ethernet (PoE);\r\n\r\n•            added STP shield testing.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -332,8 +313,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge testing
-        factors
+      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge
+        testing factors
     docidentifier:
     - content: K Suppl. 15 (09/2018)
       type: ITU
@@ -363,8 +344,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.21 – Rationale for setting resistibility requirements of telecommunication
-        equipment installed in customer premises against lightning
+      content: ITU-T K.21 – Rationale for setting resistibility requirements of
+        telecommunication equipment installed in customer premises against lightning
     docidentifier:
     - content: K Suppl. 21 (05/2021)
       type: ITU

@@ -52,11 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.18 describes a package to enable the media
-    gateway controller (MGC) to determine which profiles are supported on a media
-    gateway. It also allows the MGC to set the profiles that it shall use.\r\nThis
-    revision incorporates a correction to the error code number for \"Unsupported
-    or Unknown Profile\" to avoid duplication with Recommendation ITU-T H.248.26.\r\n"
+  content: "Recommendation ITU-T H.248.18 describes a package to enable the media gateway controller (MGC) to determine which profiles are supported on a media gateway. It also allows the MGC to set the profiles that it shall use.\r\nThis revision incorporates a correction to the error code number for \"Unsupported or Unknown Profile\" to avoid duplication with Recommendation ITU-T H.248.26.\r\n"
 status:
   stage:
     content: Published

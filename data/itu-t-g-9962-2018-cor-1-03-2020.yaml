@@ -47,14 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9962 specifies the physical and data link layer
-    management for the ITU T G.996x series home networking transceiver specifications.
-    It defines common management parameters and protocols for all ITU-T G.996x-series
-    Recommendations for the purpose of device configuration, status and performance
-    management, fault monitoring and diagnostics. It also provides management functionalities
-    to coordinate multiple domains. It includes support for LCMP communication through
-    the L1 and L6 interfaces.\r\nCorrigendum 1 corrects a figure on the encapsulation
-    of LCMP frames.\r\n"
+  content: "Recommendation ITU-T G.9962 specifies the physical and data link layer management for the ITU T G.996x series home networking transceiver specifications. It defines common management parameters and protocols for all ITU-T G.996x-series Recommendations for the purpose of device configuration, status and performance management, fault monitoring and diagnostics. It also provides management functionalities to coordinate multiple domains. It includes support for LCMP communication through the L1 and L6 interfaces.\r\nCorrigendum 1 corrects a figure on the encapsulation of LCMP frames.\r\n"
 status:
   stage:
     content: Withdrawal

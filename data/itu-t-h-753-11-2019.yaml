@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.753 defines the metadata element and format for
-    content distribution over an Internet protocol television (IPTV) terminal device
-    and describes metadata management functions of scene-based metadata (SBM), which
-    basically support the IPTV multimedia application frameworks that feature in the
-    ITU-T H.760 series of Recommendations.\r\n\r\nScene-based metadata is based on
-    ITU-T IPTV functional architecture and terminal devices defined in the ITU-T H.720-series
-    and on services defined in Recommendation ITU-T H.750.\r\n\r\nRecommendation ITU-T
-    H.753 also describes the web-based functions for scene-based metadata service
-    and the scene-based service workflow.\r\n"
+  content: "Recommendation ITU-T H.753 defines the metadata element and format for content distribution over an Internet protocol television (IPTV) terminal device and describes metadata management functions of scene-based metadata (SBM), which basically support the IPTV multimedia application frameworks that feature in the ITU-T H.760 series of Recommendations.\r\n\r\nScene-based metadata is based on ITU-T IPTV functional architecture and terminal devices defined in the ITU-T H.720-series and on services defined in Recommendation ITU-T H.750.\r\n\r\nRecommendation ITU-T H.753 also describes the web-based functions for scene-based metadata service and the scene-based service workflow.\r\n"
 status:
   stage:
     content: Published

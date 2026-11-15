@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.798 specifies both the components and the methodology
-    that should be used in order to specify the optical transport network (OTN) functionality
-    of network elements; it does not specify individual optical transport network
-    equipment.\r\nAmendment 4 to Recommendation ITU-T G.798 (2017) adds new and modified
-    atomic functions to align with the recent changes to Recommendations ITU-T G.709.1
-    and ITU-T G.709.3, and to align with Amendment 2 of Recommendation ITU-T G.709,
-    including the introduction of OTU0. It corrects a number of technical errors in
-    the FlexO-x/OTUCn_A, FlexO-x/OTUCni_A, OTU/ODU_A, and OTSi/OTUk-RS_A functions,
-    as well as in the description of some generic FlexO-related processes in clause
-    8.5.\r\n"
+  content: "Recommendation ITU-T G.798 specifies both the components and the methodology that should be used in order to specify the optical transport network (OTN) functionality of network elements; it does not specify individual optical transport network equipment.\r\nAmendment 4 to Recommendation ITU-T G.798 (2017) adds new and modified atomic functions to align with the recent changes to Recommendations ITU-T G.709.1 and ITU-T G.709.3, and to align with Amendment 2 of Recommendation ITU-T G.709, including the introduction of OTU0. It corrects a number of technical errors in the FlexO-x/OTUCn_A, FlexO-x/OTUCni_A, OTU/ODU_A, and OTSi/OTUk-RS_A functions, as well as in the description of some generic FlexO-related processes in clause 8.5.\r\n"
 status:
   stage:
     content: Withdrawal

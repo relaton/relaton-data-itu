@@ -52,27 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.996.2 specifies line testing for xDSL transceivers
-    in the form of single‑ended line testing (SELT), dual-ended line testing (DELT)
-    and metallic line testing (MELT).\r\n\r\nThis version of this Recommendation integrates
-    all the previous amendments and corrigenda with the 2009 version of Recommendation
-    ITU-T G.996.2.\r\n\r\nThis version of Recommendation ITU-T G.996.2 corrects or
-    adds the following functionality:\r\n\r\n–           Amendment 2 provides updates
-    to Annexes E and F, defining revised new measurement parameters for a MELT‑PMD
-    and a MELT-P.\r\n\r\n–           Amendment 3 updates Annex E defining accuracy
-    values for MELT-PMD and MELT-P (new functionality).\r\n\r\n–           Amendment
-    4 updates Annex E on the accuracy values for multi-component 4-element resistance
-    and 3-element capacitance parameters in MELT-PMD and on a definition on dealing
-    with the xDSL input capacitance during measurements.\r\n\r\n–           Amendment
-    5 provides updates to Annexes A and B, defining SELT operating in conjunction
-    with ITU-T G.9701 transceivers.\r\n\r\n–           Amendment 6 updates Annexes
-    A, E, and F, defining the following new functionalities: SELT‑PMD management,
-    MELT‑PMD management, report of negative capacitance values, pair identification
-    tone with timeout, report of reliability indicator for measurements, report of
-    time stamp, parallelism and polarity of far‑end signature detection, and CPE identification
-    capacitive.\r\n\r\n–           Corrigendum 1 fixes a number of inconsistencies.\r\n\r\n–
-    \          Fixes inconsistencies regarding accuracy requirements for MELT test
-    voltages.\r\n"
+  content: "Recommendation ITU-T G.996.2 specifies line testing for xDSL transceivers in the form of single‑ended line testing (SELT), dual-ended line testing (DELT) and metallic line testing (MELT).\r\n\r\nThis version of this Recommendation integrates all the previous amendments and corrigenda with the 2009 version of Recommendation ITU-T G.996.2.\r\n\r\nThis version of Recommendation ITU-T G.996.2 corrects or adds the following functionality:\r\n\r\n–           Amendment 2 provides updates to Annexes E and F, defining revised new measurement parameters for a MELT‑PMD and a MELT-P.\r\n\r\n–           Amendment 3 updates Annex E defining accuracy values for MELT-PMD and MELT-P (new functionality).\r\n\r\n–           Amendment 4 updates Annex E on the accuracy values for multi-component 4-element resistance and 3-element capacitance parameters in MELT-PMD and on a definition on dealing with the xDSL input capacitance during measurements.\r\n\r\n–           Amendment 5 provides updates to Annexes A and B, defining SELT operating in conjunction with ITU-T G.9701 transceivers.\r\n\r\n–           Amendment 6 updates Annexes A, E, and F, defining the following new functionalities: SELT‑PMD management, MELT‑PMD management, report of negative capacitance values, pair identification tone with timeout, report of reliability indicator for measurements, report of time stamp, parallelism and polarity of far‑end signature detection, and CPE identification capacitive.\r\n\r\n–           Corrigendum 1 fixes a number of inconsistencies.\r\n\r\n–           Fixes inconsistencies regarding accuracy requirements for MELT test voltages.\r\n"
 status:
   stage:
     content: Published

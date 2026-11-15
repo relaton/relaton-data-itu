@@ -52,33 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Echo has a major effect on voice quality in telecommunication networks.
-    The objectionable effect of echo results from a combination of reflections from
-    network components such as 2- to 4-wire converters, together with signal processing
-    and transmission delay. Echo may cause users difficulty in talking or listening
-    over a telephone connection. It may also affect the transmission of voiceband
-    data, fax, and text telephones.\r\nDigital network echo cancellers are designed
-    to eliminate echo for the user and to allow successful transmission of voiceband
-    data and fax. Recommendation ITU-T G.168 describes the characteristics of an echo
-    canceller, including the requirement for in-band tone disabling and other control
-    mechanisms. It also describes a number of laboratory tests that should be performed
-    on an echo canceller to assess its performance under conditions likely to be experienced
-    in the network.\r\nThis revision of ITU-T G.168 introduces new Annex E and Appendix
-    VIII, as well as corrections and clarifications to the previous edition of the
-    Recommendation.\r\nNew Annex E applies to embedded echo cancellers (EECs). Its
-    purpose is to define performance requirements for embedded echo cancellers, for
-    example where access to control signals such as h register freeze is not available.\r\nThe
-    various tests in the main body of ITU-T G.168 require external access to certain
-    echo canceller control signals so that the individual parts of an echo canceller
-    function can be tested in the laboratory. These control signals include h-register
-    freeze and NLP on/off. Access to 4-wire TDM ports is also required for injection
-    of test signals and to obtain the test results. Embedded echo cancellers often
-    have packet or 2-wire interfaces, thus placing additional limitations on testing.\r\nIn
-    its current form, this annex defines performance requirements for embedded echo
-    cancellers including a test set-up that may be used to perform tests.\r\nNew Appendix
-    VIII defines suggested test methodologies which may be used to test compliance
-    or partial compliance to Annex E.\r\nCorrigendum 1 corrects a reference to testing
-    methodologies specific to digital network echo cancellers (ITU-T P.831).\r\n"
+  content: "Echo has a major effect on voice quality in telecommunication networks. The objectionable effect of echo results from a combination of reflections from network components such as 2- to 4-wire converters, together with signal processing and transmission delay. Echo may cause users difficulty in talking or listening over a telephone connection. It may also affect the transmission of voiceband data, fax, and text telephones.\r\nDigital network echo cancellers are designed to eliminate echo for the user and to allow successful transmission of voiceband data and fax. Recommendation ITU-T G.168 describes the characteristics of an echo canceller, including the requirement for in-band tone disabling and other control mechanisms. It also describes a number of laboratory tests that should be performed on an echo canceller to assess its performance under conditions likely to be experienced in the network.\r\nThis revision of ITU-T G.168 introduces new Annex E and Appendix VIII, as well as corrections and clarifications to the previous edition of the Recommendation.\r\nNew Annex E applies to embedded echo cancellers (EECs). Its purpose is to define performance requirements for embedded echo cancellers, for example where access to control signals such as h register freeze is not available.\r\nThe various tests in the main body of ITU-T G.168 require external access to certain echo canceller control signals so that the individual parts of an echo canceller function can be tested in the laboratory. These control signals include h-register freeze and NLP on/off. Access to 4-wire TDM ports is also required for injection of test signals and to obtain the test results. Embedded echo cancellers often have packet or 2-wire interfaces, thus placing additional limitations on testing.\r\nIn its current form, this annex defines performance requirements for embedded echo cancellers including a test set-up that may be used to perform tests.\r\nNew Appendix VIII defines suggested test methodologies which may be used to test compliance or partial compliance to Annex E.\r\nCorrigendum 1 corrects a reference to testing methodologies specific to digital network echo cancellers (ITU-T P.831).\r\n"
 status:
   stage:
     content: Published

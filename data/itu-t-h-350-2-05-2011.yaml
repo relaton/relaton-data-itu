@@ -50,19 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes an LDAP schema to represent H.235 elements.
-    It is an auxiliary class related to ITU-T Rec. H.350 and derives much of its functionality
-    from that architecture. Implementors should review ITU-T Rec. H.350 in detail
-    before proceeding with this Recommendation. Its attributes include H.235 identity,
-    password and certificate elements. These elements can be downloaded to an endpoint
-    for automatic configuration or accessed by a gatekeeper for call signalling and
-    authentication.\r\n\r\nThe scope of this Recommendation does not include normative
-    methods for the use of the LDAP directory itself or the data it contains. The
-    purpose of the schema is not to represent all possible data elements in the H.235
-    protocol, but rather to represent the minimal set required to accomplish the design
-    goals enumerated in ITU-T Rec. H.350.\r\n\r\nThis revised version of H.350.2 introduces
-    several enhancements and clarifications to the previous version, primarily addition
-    of X.500 directories support."
+  content: "This Recommendation describes an LDAP schema to represent H.235 elements. It is an auxiliary class related to ITU-T Rec. H.350 and derives much of its functionality from that architecture. Implementors should review ITU-T Rec. H.350 in detail before proceeding with this Recommendation. Its attributes include H.235 identity, password and certificate elements. These elements can be downloaded to an endpoint for automatic configuration or accessed by a gatekeeper for call signalling and authentication.\r\n\r\nThe scope of this Recommendation does not include normative methods for the use of the LDAP directory itself or the data it contains. The purpose of the schema is not to represent all possible data elements in the H.235 protocol, but rather to represent the minimal set required to accomplish the design goals enumerated in ITU-T Rec. H.350.\r\n\r\nThis revised version of H.350.2 introduces several enhancements and clarifications to the previous version, primarily addition of X.500 directories support."
 status:
   stage:
     content: Published

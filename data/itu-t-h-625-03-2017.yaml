@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.625 defines the system architecture for network-based
-    speech-to-speech translation (S2ST) on the basis of Recommendation ITU-T F.745
-    and serves as a technical introduction to the subsequent definitions of detailed
-    system components and protocols. The scope of this Recommendation is to describe
-    the functional architecture and mechanisms of network‑based S2ST, interface protocols
-    between S2ST modules, and a workflow of the network-based S2ST system.\r\n\r\nThis
-    revision includes additional information to clarify that H.625 could be applicable
-    to both face-to-face communication and remote communication. The modality conversion
-    markup language (MCML) is also enhanced for adding more flexibility.\r\n"
+  content: "Recommendation ITU-T H.625 defines the system architecture for network-based speech-to-speech translation (S2ST) on the basis of Recommendation ITU-T F.745 and serves as a technical introduction to the subsequent definitions of detailed system components and protocols. The scope of this Recommendation is to describe the functional architecture and mechanisms of network‑based S2ST, interface protocols between S2ST modules, and a workflow of the network-based S2ST system.\r\n\r\nThis revision includes additional information to clarify that H.625 could be applicable to both face-to-face communication and remote communication. The modality conversion markup language (MCML) is also enhanced for adding more flexibility.\r\n"
 status:
   stage:
     content: Published

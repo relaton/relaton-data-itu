@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T M.3164.1 provides the requirements phase of the interface
+  content: 'Recommendation ITU-T M.3164.1 provides the requirements phase of the interface
     specification for on-site generic telecommunication smart maintenance at a protocol-neutral
     level. It describes the position of the relevant interface and specifies the high-level
     requirements for interface interaction, as well as the specification level use
-    cases for each requirement.\r\n"
+    cases for each requirement.
+    '
 status:
   stage:
     content: Published

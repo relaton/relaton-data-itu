@@ -52,23 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical
-    transport module of order n (OTM n) signals of the optical transport network,
-    in terms of:\r\n–\toptical transport hierarchy (OTH)\r\n–\tfunctionality of the
-    overhead in support of multi-wavelength optical networks\r\n–\tframe structures\r\n–\tbit
-    rates\r\n–\tformats for mapping client signals.\r\nThe first revision of this
-    Recommendation included the text of Amendment 1 (ODUk virtual concatenation, ODUk
-    multiplexing, backward IAE), extension of the physical interface specification,
-    ODUk APS/PCC signal definition and several editorial enhancements.\r\nThe second
-    revision of this Recommendation included the text of Amendments 1, 2 and 3, corrigenda
-    1 and 2, Erratum 1, the Implementers Guide (2005), support for an extended (unlimited)
-    set of constant bit rate client signals, a flexible ODUk, which can have any bit
-    rate and a bit-rate tolerance up to ±100 ppm, a client/server independent generic
-    mapping procedure to map a client signal into the payload of an OPUk, or to map
-    an ODUj signal into the payload of one or more tributary slots in an OPUk and
-    the ODUk delay measurement capability.\r\nThe third revision of this Recommendation
-    includes the text of Amendments 1 and 2, Corrigendum 1 and Erratum 1 to Recommendation
-    ITU-T G.709/Y.1331 (2009) and support for more client signals.\r\n"
+  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical transport module of order n (OTM n) signals of the optical transport network, in terms of:\r\n–\toptical transport hierarchy (OTH)\r\n–\tfunctionality of the overhead in support of multi-wavelength optical networks\r\n–\tframe structures\r\n–\tbit rates\r\n–\tformats for mapping client signals.\r\nThe first revision of this Recommendation included the text of Amendment 1 (ODUk virtual concatenation, ODUk multiplexing, backward IAE), extension of the physical interface specification, ODUk APS/PCC signal definition and several editorial enhancements.\r\nThe second revision of this Recommendation included the text of Amendments 1, 2 and 3, corrigenda 1 and 2, Erratum 1, the Implementers Guide (2005), support for an extended (unlimited) set of constant bit rate client signals, a flexible ODUk, which can have any bit rate and a bit-rate tolerance up to ±100 ppm, a client/server independent generic mapping procedure to map a client signal into the payload of an OPUk, or to map an ODUj signal into the payload of one or more tributary slots in an OPUk and the ODUk delay measurement capability.\r\nThe third revision of this Recommendation includes the text of Amendments 1 and 2, Corrigendum 1 and Erratum 1 to Recommendation ITU-T G.709/Y.1331 (2009) and support for more client signals.\r\n"
 status:
   stage:
     content: Withdrawal

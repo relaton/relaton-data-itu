@@ -53,32 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T L.1395 describes the generic monitoring and control
-    interface for infrastructure equipment. It follows a two-stage approach: \r\na)protocol-independent
-    information modelling;\r\nb)protocol-specific data modelling e.g., in YAML/JSON.
-    \r\nThe Recommendation applies to monitoring and control of infrastructure environment
-    i.e., power, cooling and building environment systems for telecommunication centres
-    and access network locations; also, the monitoring energy and environmental parameters
-    for information and communication technology (ICT) equipment in telecommunications
-    sites or data centre or customer premises are considered.\r\nInteroperability
-    of heterogeneous management interfaces and systems with multi-vendor equipment
-    is the key issue. The Recommendation gives a general approach from equipment to
-    management system.\r\nThe multi-part deliverable is composed of a generic core
-    part, described in this Recommendation, and several specific parts for equipment
-    category.\r\nThis Recommendation defines:\r\n•The site equipment maps and their
-    division in functional subsets e.g., DC system which introduces this multi-part
-    deliverable.\r\n•The generic set of exchanged information required at the interface
-    of equipment, which is instanced for each equipment subset in this multi-part
-    deliverable. \r\n•The minimum requirement for network architecture allowing some
-    compatibility with old existing interface and the mechanism to exchange data between
-    network elements.\r\n•The data interface protocol for remote or local site management
-    (machine to machine interface (MMI)) and human machine interface (HMI) for monitoring
-    and controlling.\r\n•Recommendations for a management network such as dependability,
-    data back-up, data coherence and synchronization throughout the management network,
-    response time, fault detection and partial service in case of failure.\r\n•The
-    measurement accuracy of power, energy and environmental parameters (PEE).\r\nAn
-    architecture for monitoring power, energy and environmental parameters (PEE) for
-    data originated by different types of site infrastructure equipment is defined.\r\n"
+  content: "Recommendation ITU-T L.1395 describes the generic monitoring and control interface for infrastructure equipment. It follows a two-stage approach: \r\na)protocol-independent information modelling;\r\nb)protocol-specific data modelling e.g., in YAML/JSON. \r\nThe Recommendation applies to monitoring and control of infrastructure environment i.e., power, cooling and building environment systems for telecommunication centres and access network locations; also, the monitoring energy and environmental parameters for information and communication technology (ICT) equipment in telecommunications sites or data centre or customer premises are considered.\r\nInteroperability of heterogeneous management interfaces and systems with multi-vendor equipment is the key issue. The Recommendation gives a general approach from equipment to management system.\r\nThe multi-part deliverable is composed of a generic core part, described in this Recommendation, and several specific parts for equipment category.\r\nThis Recommendation defines:\r\n•The site equipment maps and their division in functional subsets e.g., DC system which introduces this multi-part deliverable.\r\n•The generic set of exchanged information required at the interface of equipment, which is instanced for each equipment subset in this multi-part deliverable. \r\n•The minimum requirement for network architecture allowing some compatibility with old existing interface and the mechanism to exchange data between network elements.\r\n•The data interface protocol for remote or local site management (machine to machine interface (MMI)) and human machine interface (HMI) for monitoring and controlling.\r\n•Recommendations for a management network such as dependability, data back-up, data coherence and synchronization throughout the management network, response time, fault detection and partial service in case of failure.\r\n•The measurement accuracy of power, energy and environmental parameters (PEE).\r\nAn architecture for monitoring power, energy and environmental parameters (PEE) for data originated by different types of site infrastructure equipment is defined.\r\n"
 status:
   stage:
     content: Published

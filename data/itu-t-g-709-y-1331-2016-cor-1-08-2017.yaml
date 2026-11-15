@@ -47,21 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 1 to Recommendation ITU-T G.709/Y.1331 (2016) corrects the
-    following items:\r\n\r\n–           Delete references to virtual concatenation
-    (7, 15.9.1, 15.9.2.1, 15.9.2.2)\r\n\r\n–           Add a note to describe that
-    OSC signals designed prior to Edition 5.0 may not support the added OTSiA trail
-    and payload overhead (15.1.8)\r\n\r\n–           Change number of OPU3 Tributary
-    Slots necessary to carry an ODUflex(IB DDR) signal from “4” to “5” in Table 7-9
-    (7-4)\r\n\r\n–           Change the second instance of “OCh-FDI-P” to “OTSiA-FDI-P”
-    in the first paragraph of clause 16.3.1\r\n\r\n–           Add a new paragraph
-    to clause 16.3.2 that defines the OTSiA-FDI-O signal\r\n\r\n–           Change
-    “ODTUC.ts” into “ODTUCn.ts” in the third dash item in clause 20.4.1.1.\r\n\r\n–
-    \          Change “2M-byte word” to “16M-byte word” in the last paragraph of clause
-    20.4.3.1\r\n\r\n–           Change the description of “Inputs = C14, II, DI, CRC”
-    at the top left in Figure D.8  into “Inputs = C14, II, and DI for the 14 bit count”
-    plus “Inputs = C10, II, and DI for the 10-bit count”. Delete the text at the bottom
-    of the figure; this text is part of figure D.9. (annex D.3)\r\n"
+  content: "Corrigendum 1 to Recommendation ITU-T G.709/Y.1331 (2016) corrects the following items:\r\n\r\n–           Delete references to virtual concatenation (7, 15.9.1, 15.9.2.1, 15.9.2.2)\r\n\r\n–           Add a note to describe that OSC signals designed prior to Edition 5.0 may not support the added OTSiA trail and payload overhead (15.1.8)\r\n\r\n–           Change number of OPU3 Tributary Slots necessary to carry an ODUflex(IB DDR) signal from “4” to “5” in Table 7-9 (7-4)\r\n\r\n–           Change the second instance of “OCh-FDI-P” to “OTSiA-FDI-P” in the first paragraph of clause 16.3.1\r\n\r\n–           Add a new paragraph to clause 16.3.2 that defines the OTSiA-FDI-O signal\r\n\r\n–           Change “ODTUC.ts” into “ODTUCn.ts” in the third dash item in clause 20.4.1.1.\r\n\r\n–           Change “2M-byte word” to “16M-byte word” in the last paragraph of clause 20.4.3.1\r\n\r\n–           Change the description of “Inputs = C14, II, DI, CRC” at the top left in Figure D.8  into “Inputs = C14, II, and DI for the 14 bit count” plus “Inputs = C10, II, and DI for the 10-bit count”. Delete the text at the bottom of the figure; this text is part of figure D.9. (annex D.3)\r\n"
 status:
   stage:
     content: Withdrawal

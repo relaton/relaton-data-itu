@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "In service function chain (SFC), an ordered set of abstract service functions
+  content: 'In service function chain (SFC), an ordered set of abstract service functions
     are defined with ordering constraints that must be applied to packets and/or frames
     and/or flows selected as a result of classification and/or policy (Recommendation
-    ITUT X.1045). Recommendation ITU-T Y.3214 describes the SFC in fixed, mobile and
-    satellite convergence (FMSC) in IMT-2020 networks and beyond. It covers overview
+    ITUT X.1045). Recommendation ITU-T Y.3214 describes the SFC in fixed, mobile
+    and satellite convergence (FMSC) in IMT-2020 networks and beyond. It covers overview
     on SFC, requirements of SFC, SFC modification, network function enhancements for
-    SFC, and security considerations in FMSC.\r\n"
+    SFC, and security considerations in FMSC.
+    '
 status:
   stage:
     content: Published
@@ -89,7 +90,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -110,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

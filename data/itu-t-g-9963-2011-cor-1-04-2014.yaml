@@ -47,23 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 1 to Recommendation ITU-T G.9963 (2011) contains the following:\r\n1)\tRevision
-    of clause 4, \"Abbreviations\".\r\n2)\tRevision of the text for clause 7.1.2.3.2.7.2.3.1,
-    \"PROBE frame BMAT_ID (PRB_BMAT_ID)\".\r\n3)\tRevision of the text for clause
-    8.12.1, \"Channel estimation with ITU-T G.9963 transceivers using two spatial
-    streams\".\r\n4)\tRevision of the text for clause 8.12.1.1.1, \"Channel estimation
-    initiation\".\r\n5)\tRevision of the text for clause 8.12.1.1.3, \"Channel estimation
-    initiation confirmation\".\r\n6)\tRevision of the text for clause 8.12.1.2.1,
-    \"Channel estimation request\".\r\n7)\tRevision of the text for clause 8.12.1.3.2,
-    \"Partial BMAT update\".\r\n8)\tRevision of the text for clause 8.12.1.4, \"Channel
-    estimation using PROBE frames\".\r\n9)\tRevision of the text for clause 8.12.1.7.1,
-    \"Format of MCE_ProbeSlotAssign.req\".\r\n10)\tRevision of the text for clause
-    8.12.1.7.3, \"Format of MCE_ParamUpdate.req\".\r\n11)\tRevision of the text for
-    clause 8.12.1.7.5, \"Format of MCE_PartialBmatUpdate.req\".\r\n12)\tRevision of
-    the text for clause 8.12.1.7.12, \"Format of MCE_Initiation.req\".\r\n13)\tRevision
-    of the text for clause 8.12.1.7.14, \"Format of MCE_ProbeRequest.ind\".\r\n14)\tAddition
-    of text for new clause 8.19, \"Inter-bandplan interoperability\".\r\n15)\tAddition
-    of text for new clause 8.20, \"Version control and capabilities exchange\"."
+  content: "Corrigendum 1 to Recommendation ITU-T G.9963 (2011) contains the following:\r\n1)\tRevision of clause 4, \"Abbreviations\".\r\n2)\tRevision of the text for clause 7.1.2.3.2.7.2.3.1, \"PROBE frame BMAT_ID (PRB_BMAT_ID)\".\r\n3)\tRevision of the text for clause 8.12.1, \"Channel estimation with ITU-T G.9963 transceivers using two spatial streams\".\r\n4)\tRevision of the text for clause 8.12.1.1.1, \"Channel estimation initiation\".\r\n5)\tRevision of the text for clause 8.12.1.1.3, \"Channel estimation initiation confirmation\".\r\n6)\tRevision of the text for clause 8.12.1.2.1, \"Channel estimation request\".\r\n7)\tRevision of the text for clause 8.12.1.3.2, \"Partial BMAT update\".\r\n8)\tRevision of the text for clause 8.12.1.4, \"Channel estimation using PROBE frames\".\r\n9)\tRevision of the text for clause 8.12.1.7.1, \"Format of MCE_ProbeSlotAssign.req\".\r\n10)\tRevision of the text for clause 8.12.1.7.3, \"Format of MCE_ParamUpdate.req\".\r\n11)\tRevision of the text for clause 8.12.1.7.5, \"Format of MCE_PartialBmatUpdate.req\".\r\n12)\tRevision of the text for clause 8.12.1.7.12, \"Format of MCE_Initiation.req\".\r\n13)\tRevision of the text for clause 8.12.1.7.14, \"Format of MCE_ProbeRequest.ind\".\r\n14)\tAddition of text for new clause 8.19, \"Inter-bandplan interoperability\".\r\n15)\tAddition of text for new clause 8.20, \"Version control and capabilities exchange\"."
 status:
   stage:
     content: Withdrawal
@@ -83,8 +67,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wireline-based home networking transceivers – Multiple
-        input/multiple output specification
+      content: Unified high-speed wireline-based home networking transceivers –
+        Multiple input/multiple output specification
     docidentifier:
     - content: G.9963 (06/2023)
       type: ITU
@@ -102,8 +86,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Unified high-speed wireline-based home networking transceivers – Multiple
-        input/multiple output specification
+      content: Unified high-speed wireline-based home networking transceivers –
+        Multiple input/multiple output specification
     docidentifier:
     - content: G.9963 (11/2018)
       type: ITU

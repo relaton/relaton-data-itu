@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.4473 specifies the SensorThings application programming
-    interface (API) which provides an open standard-based and geospatial-enabled framework
-    to interconnect Internet of things (IoT) devices, data and applications over the
-    Web.\r\nThe SensorThings API is an open standard, and that means it is non-proprietary,
-    platform-independent. It builds on a rich set of proven-working and widely-adopted
-    open standards, such as the web protocols and the Open Geospatial Consortium (OGC)
-    sensor web enablement (SWE) standards, including the ISO/OGC observation and measurement
-    data model. The SensorThings API is extensible and can be applied to not only
-    simple but also complex use cases.\r\nThis Recommendation provides a standard
-    way to manage and retrieve observations and metadata from heterogeneous IoT sensor
-    systems. The SensorThings API uses representational state transfer (REST) principles,
-    an efficient JavaScript object notation (JSON) encoding, message queuing telemetry
-    transport (MQTT) protocol, flexible OASIS open data protocol (OData) and uniform
-    resource locator (URL) conventions."
+  content: "Recommendation ITU-T Y.4473 specifies the SensorThings application programming interface (API) which provides an open standard-based and geospatial-enabled framework to interconnect Internet of things (IoT) devices, data and applications over the Web.\r\nThe SensorThings API is an open standard, and that means it is non-proprietary, platform-independent. It builds on a rich set of proven-working and widely-adopted open standards, such as the web protocols and the Open Geospatial Consortium (OGC) sensor web enablement (SWE) standards, including the ISO/OGC observation and measurement data model. The SensorThings API is extensible and can be applied to not only simple but also complex use cases.\r\nThis Recommendation provides a standard way to manage and retrieve observations and metadata from heterogeneous IoT sensor systems. The SensorThings API uses representational state transfer (REST) principles, an efficient JavaScript object notation (JSON) encoding, message queuing telemetry transport (MQTT) protocol, flexible OASIS open data protocol (OData) and uniform resource locator (URL) conventions."
 status:
   stage:
     content: Published
@@ -96,7 +83,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city leaders
+      content: ITU-T Y.4000 series – Smart sustainable cities - A guide for city
+        leaders
     docidentifier:
     - content: Y Suppl. 32 (07/2020)
       type: ITU
@@ -159,8 +147,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000 series – Framework for home environment profiles and levels
-        of IoT systems
+      content: ITU-T Y.4000 series – Framework for home environment profiles and
+        levels of IoT systems
     docidentifier:
     - content: Y Suppl. 54 (04/2019)
       type: ITU
@@ -180,7 +168,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -233,8 +221,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -244,7 +231,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart agriculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things-based smart
+        agriculture
     docidentifier:
     - content: Y Suppl. 76 (09/2023)
       type: ITU
@@ -276,8 +264,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based smart
-        aquaculture
+      content: ITU-T Y.4000-series – Use cases of Internet of things (IoT)-based
+        smart aquaculture
     docidentifier:
     - content: Y Suppl. 85 (01/2025)
       type: ITU

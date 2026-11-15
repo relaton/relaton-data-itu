@@ -50,30 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.501 describes test signals that are applicable
-    for several purposes in telephony and other speech-based applications. Recommendation
-    ITU-T P.501 gives a wide variety of test signals starting with low complexity
-    test signals up to test signals with a high degree of complexity incorporating
-    many typical parameters of speech. Besides technical signals, such as sine waves
-    or noise, more speech-like signals are described.\r\nRecommendation ITU-T P.501
-    describes the principles of signal construction for each type of test signal.
-    Characteristic properties, such as power density spectra, probability density
-    functions or shaping filter responses, are shown.\r\nRecommendation ITU-T P.501
-    gives an overview of the typical application of the test signals described. This
-    overview is a guideline giving general application rules. The detailed description
-    of the application, however, should be found in the individual Recommendations
-    describing the measurement procedures for specific applications.\r\nIn order to
-    avoid problems in creating the test signals described, all these test signals
-    are freely available for download from the ITU-T test signals database.\r\nAnnex
-    A proposes two test signals [a pseudo noise sequence (PN-sequence) with a low
-    crest factor and a logarithmically distributed multi-sine wave] for the measurement
-    of terminal coupling loss (TCL).\r\nAnnex B provides speech files and noise sequences
-    to be used in combination with objective speech quality evaluation methods. This
-    speech material does not replace the speech material found in Supplement 23 to
-    the ITU T P-series Recommendations.\r\nAppendix I provides a description of the
-    processing applied to the speech signals in clause 7.3.\r\nThis Recommendation
-    includes an electronic attachment containing the set of freely available test
-    signals described in the Recommendation.\r\n"
+  content: "Recommendation ITU-T P.501 describes test signals that are applicable for several purposes in telephony and other speech-based applications. Recommendation ITU-T P.501 gives a wide variety of test signals starting with low complexity test signals up to test signals with a high degree of complexity incorporating many typical parameters of speech. Besides technical signals, such as sine waves or noise, more speech-like signals are described.\r\nRecommendation ITU-T P.501 describes the principles of signal construction for each type of test signal. Characteristic properties, such as power density spectra, probability density functions or shaping filter responses, are shown.\r\nRecommendation ITU-T P.501 gives an overview of the typical application of the test signals described. This overview is a guideline giving general application rules. The detailed description of the application, however, should be found in the individual Recommendations describing the measurement procedures for specific applications.\r\nIn order to avoid problems in creating the test signals described, all these test signals are freely available for download from the ITU-T test signals database.\r\nAnnex A proposes two test signals [a pseudo noise sequence (PN-sequence) with a low crest factor and a logarithmically distributed multi-sine wave] for the measurement of terminal coupling loss (TCL).\r\nAnnex B provides speech files and noise sequences to be used in combination with objective speech quality evaluation methods. This speech material does not replace the speech material found in Supplement 23 to the ITU T P-series Recommendations.\r\nAppendix I provides a description of the processing applied to the speech signals in clause 7.3.\r\nThis Recommendation includes an electronic attachment containing the set of freely available test signals described in the Recommendation.\r\n"
 status:
   stage:
     content: Withdrawal

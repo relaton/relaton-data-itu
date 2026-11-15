@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Continua Design Guidelines (CDG) defines a framework of underlying
-    standards and criteria required to ensure the interoperability of devices and
-    data used for personal connected health. It also contains design guidelines (DGs)
-    that further clarify the underlying standards or specifications by reducing options
-    or by adding missing features to improve interoperability. This specification
-    focuses on the following interfaces:\r\n–\tTAN-IF – Interface between touch area
-    network (TAN) health devices and application hosting devices (AHDs)\r\n–\tPAN-IF
-    – Interface between personal area network (PAN) health devices and AHDs\r\n–\tLAN-IF
-    – Interface between local area network (sensor-LAN) health devices and AHDs\r\n"
+  content: "The Continua Design Guidelines (CDG) defines a framework of underlying standards and criteria required to ensure the interoperability of devices and data used for personal connected health. It also contains design guidelines (DGs) that further clarify the underlying standards or specifications by reducing options or by adding missing features to improve interoperability. This specification focuses on the following interfaces:\r\n–\tTAN-IF – Interface between touch area network (TAN) health devices and application hosting devices (AHDs)\r\n–\tPAN-IF – Interface between personal area network (PAN) health devices and AHDs\r\n–\tLAN-IF – Interface between local area network (sensor-LAN) health devices and AHDs\r\n"
 status:
   stage:
     content: Withdrawal

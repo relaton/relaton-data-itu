@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.38 provides technical specifications and capability
+  content: 'Recommendation ITU-T F.748.38 provides technical specifications and capability
     requirements for artificial intelligence cloud platform. It specifies the capabilities
     of artificial intelligence cloud platforms from service providers in the following
     six aspects: resource management, model development, model deployment, high availability,
-    performance and platform security.\r\n"
+    performance and platform security.
+    '
 status:
   stage:
     content: Published

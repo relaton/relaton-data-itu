@@ -52,14 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9801 describes requirements and specifications
-    of Ethernet passive optical network (EPON) systems using the ONU management and
-    control interface (OMCI), which is called OMCI-EPON.\r\nOMCI-EPON is based on
-    IEEE 802.3 and IEEE 1904.1 for user data transport, and applies Annex C of Recommendation
-    ITU-T G.988 for its management. OMCI-EPON supports 1G-EPON, 10/1G\x1EEPON and
-    10/10G-EPON architectures defined in IEEE 802.3, and provides a mechanism that
-    enables coexistence with the existing PON systems using time division multiple
-    access (TDMA) technologies and/or wavelength blocking filter (WBF)."
+  content: "Recommendation ITU-T G.9801 describes requirements and specifications of Ethernet passive optical network (EPON) systems using the ONU management and control interface (OMCI), which is called OMCI-EPON.\r\nOMCI-EPON is based on IEEE 802.3 and IEEE 1904.1 for user data transport, and applies Annex C of Recommendation ITU-T G.988 for its management. OMCI-EPON supports 1G-EPON, 10/1G\x1eEPON and 10/10G-EPON architectures defined in IEEE 802.3, and provides a mechanism that enables coexistence with the existing PON systems using time division multiple access (TDMA) technologies and/or wavelength blocking filter (WBF)."
 status:
   stage:
     content: Published

@@ -52,14 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.7710 addresses the equipment management functions
-    (EMFs) inside a transport network element that are common to multiple technologies.
-    For example, common applications are described for date and time, fault management,
-    configuration management, account management, performance management and security
-    management. These applications result in the specification of common EMF functions
-    and their requirements.\r\nThis revision of this Recommendation updates the fault
-    management requirements to support alarm correlation and performance management
-    requirements to support the streaming of performance data."
+  content: "Recommendation ITU-T G.7710 addresses the equipment management functions (EMFs) inside a transport network element that are common to multiple technologies. For example, common applications are described for date and time, fault management, configuration management, account management, performance management and security management. These applications result in the specification of common EMF functions and their requirements.\r\nThis revision of this Recommendation updates the fault management requirements to support alarm correlation and performance management requirements to support the streaming of performance data."
 status:
   stage:
     content: Published

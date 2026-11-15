@@ -53,7 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1306 specifies the architecture and related components
+  content: 'Recommendation ITU-T J.1306 specifies the architecture and related components
     of audiovisual media based on microservice technologies. Recommendation ITU-T
     J.1306 fulfils the requirements in Recommendation ITU-T J.1305. This Recommendation
     applies to the design, development, construction, operation and maintenance of
@@ -76,7 +76,8 @@ abstract:
     that support production, broadcasting, transmission, distribution, interaction
     and other audiovisual media business. From the perspective of application integration,
     it stipulates the service orchestration capabilities and the means of application
-    assembly.\r\n"
+    assembly.
+    '
 status:
   stage:
     content: Published

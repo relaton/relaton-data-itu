@@ -47,33 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9804.2 specifies the common transmission convergence
-    (ComTC) layer of Higher Speed passive optical network (HSP) systems providing
-    optical access for residential, business, mobile backhaul and other applications.
-    This specification defines operation of HSP systems in a manner agnostic of transmission
-    rates, number of operating wavelength channels, and signal modulation. It is intended
-    to be applicable to systems implementing a subset of the specified range of features.\r\nAn
-    HSP system enables protocol flexibility to support higher performance physical
-    media dependent (PMD) interfaces without impacting the definition of the associated
-    ComTC layer. An HSP system does not require an implementation to support all possible
-    ComTC features. The intent is to provide the definition and behaviour of a ComTC
-    layer independent of line rate, number of wavelength channels, and signal modulation.
-    Actual systems would be based on features chosen for implementation and available
-    supporting technology.\r\nThe ComTC layer is the protocol layer of the HSP system
-    that is positioned between the PMD layer and service clients. It builds on the
-    ITU T G.987.3, ITU T G.9807.1, and ITU T G.989.3 Recommendations, with modifications
-    to support specific features, primarily rate flexibility, single and multiple
-    wavelength operation, and signal modulation.\r\nThis Recommendation forms an integral
-    part of the ITU-T G.hsp series of Recommendations (ITU T G.9804.1 and applicable
-    PMD Recommendations) that, together with the ONU management and control interface
-    (OMCI), Recommendation ITU-T G.988, specifies a set of access transmission systems.\r\nAmendment
-    1 includes the dedicated activation wavelength definition in clause 3, a description
-    on the processing sequence of the downstream physical synchronization block (PSBd)
-    generation, FEC encoding, and scrambling in clauses 6 and 10, collision resolution
-    condition update in clause 7, the definition of optional upstream FEC codes and
-    associated messages in clauses 10 and 11 and in Annex B, Burst_Profile PLOAM message
-    modifications in clause 11, Assign_ONU-ID/Collision_Feedback PLOAM message name
-    update in clause 11, golden vectors in Appendix IV, and typo corrections.\r\n"
+  content: "Recommendation ITU-T G.9804.2 specifies the common transmission convergence (ComTC) layer of Higher Speed passive optical network (HSP) systems providing optical access for residential, business, mobile backhaul and other applications. This specification defines operation of HSP systems in a manner agnostic of transmission rates, number of operating wavelength channels, and signal modulation. It is intended to be applicable to systems implementing a subset of the specified range of features.\r\nAn HSP system enables protocol flexibility to support higher performance physical media dependent (PMD) interfaces without impacting the definition of the associated ComTC layer. An HSP system does not require an implementation to support all possible ComTC features. The intent is to provide the definition and behaviour of a ComTC layer independent of line rate, number of wavelength channels, and signal modulation. Actual systems would be based on features chosen for implementation and available supporting technology.\r\nThe ComTC layer is the protocol layer of the HSP system that is positioned between the PMD layer and service clients. It builds on the ITU T G.987.3, ITU T G.9807.1, and ITU T G.989.3 Recommendations, with modifications to support specific features, primarily rate flexibility, single and multiple wavelength operation, and signal modulation.\r\nThis Recommendation forms an integral part of the ITU-T G.hsp series of Recommendations (ITU T G.9804.1 and applicable PMD Recommendations) that, together with the ONU management and control interface (OMCI), Recommendation ITU-T G.988, specifies a set of access transmission systems.\r\nAmendment 1 includes the dedicated activation wavelength definition in clause 3, a description on the processing sequence of the downstream physical synchronization block (PSBd) generation, FEC encoding, and scrambling in clauses 6 and 10, collision resolution condition update in clause 7, the definition of optional upstream FEC codes and associated messages in clauses 10 and 11 and in Annex B, Burst_Profile PLOAM message modifications in clause 11, Assign_ONU-ID/Collision_Feedback PLOAM message name update in clause 11, golden vectors in Appendix IV, and typo corrections.\r\n"
 status:
   stage:
     content: Published

@@ -47,20 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709.3/Y.1331.3 defines the flexible optical transport
-    network (OTN), known as FlexO, long-reach interfaces that support bonding (i.e.
-    grouping) of multiple of these interfaces such that an OTUCn (n ≥ 1) can be transferred
-    via one or more optical tributary signals (OTSi) over one or more physical interfaces.
-    The Recommendation specifies the frame structure for FlexO long reach interfaces
-    using forward error correction codes with a higher coding gain than used in the
-    FlexO short reach interfaces that are specified in Recommendation ITU-T G.709.1/Y.1331.1.\r\n\r\nAmendment
-    1 contains the following extensions to the first edition (06/2018) of the Recommendation:\r\n\r\n–
-    \          Enhancement of the FEC block alignment specification (11.3.1)\r\n\r\n–
-    \          Addition of 200G and 400G FlexO with concatenated FEC (7, 7.2, 11.3,
-    11.3.1, 11.3.2, 12, 13, 14, 15, Annex C, Annex D, Appendix I, Appendix II)\r\n\r\n–
-    \          Deletion of m and n and addition of Z conventions (5).\r\n\r\nNOTE
-    – 400G FlexO with CFEC frame definition was a collaborative effort with the OIF
-    400ZR project\r\n"
+  content: "Recommendation ITU-T G.709.3/Y.1331.3 defines the flexible optical transport network (OTN), known as FlexO, long-reach interfaces that support bonding (i.e. grouping) of multiple of these interfaces such that an OTUCn (n ≥ 1) can be transferred via one or more optical tributary signals (OTSi) over one or more physical interfaces. The Recommendation specifies the frame structure for FlexO long reach interfaces using forward error correction codes with a higher coding gain than used in the FlexO short reach interfaces that are specified in Recommendation ITU-T G.709.1/Y.1331.1.\r\n\r\nAmendment 1 contains the following extensions to the first edition (06/2018) of the Recommendation:\r\n\r\n–           Enhancement of the FEC block alignment specification (11.3.1)\r\n\r\n–           Addition of 200G and 400G FlexO with concatenated FEC (7, 7.2, 11.3, 11.3.1, 11.3.2, 12, 13, 14, 15, Annex C, Annex D, Appendix I, Appendix II)\r\n\r\n–           Deletion of m and n and addition of Z conventions (5).\r\n\r\nNOTE – 400G FlexO with CFEC frame definition was a collaborative effort with the OIF 400ZR project\r\n"
 status:
   stage:
     content: Withdrawal

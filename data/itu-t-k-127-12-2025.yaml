@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.127 specifies the immunity requirements for equipment
+  content: 'Recommendation ITU-T K.127 specifies the immunity requirements for equipment
     used in the telecom facilities where wireless local area network (WLAN) devices
     are used in close proximity. This Recommendation was established in order to avoid
     malfunctions of the equipment due to radio frequency (RF) signals from such devices.
     It contains requirements including test levels, test signals, test procedures
-    and test facilities.\r\n"
+    and test facilities.
+    '
 status:
   stage:
     content: Published

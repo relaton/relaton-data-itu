@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.32 specifies the requirements and architecture
+  content: 'Recommendation ITU-T F.748.32 specifies the requirements and architecture
     of artificial intelligence (AI)-based detection for multimedia messages, including
     the overall requirements, the functional architecture, detection strategy, detection
-    procedure, as well as some additional considerations.\r\n"
+    procedure, as well as some additional considerations.
+    '
 status:
   stage:
     content: Published

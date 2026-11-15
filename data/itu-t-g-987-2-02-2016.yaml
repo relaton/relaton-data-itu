@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.987.2 describes the physical layer requirements
-    and specifications for the XG-PON physical media dependent (PMD) layer.  Wavelength
-    enhancement bands are described in ITU-T Rec. G.987.1. The transmission convergence
-    (TC) layer is described in ITU-T Rec. G.987.3. The ONU management and control
-    interface (OMCI) specifications are described in ITU-T Rec. G.988. \r\n\r\nRecommendation
-    ITU-T G.987.2 describes a flexible optical fibre access network capable of supporting
-    the bandwidth requirements of business and residential services. The G.987 series
-    of standards allows for multiple upstream and downstream line rates.  This recommendation
-    currently defines one type of 10-Gigabit-capable passive optical network (XG-PON)
-    system with asymmetric nominal line rate of 9.95328 Gbit/s in the downstream direction
-    and 2.48832 Gbit/s in the upstream direction, hereinafter referred to as XG-PON1.\r\n\r\nThis
-    Recommendation describes a system that represents an evolutionary development
-    from the systems described in the ITU-T G.984 series. To the greatest extent possible,
-    this Recommendation maintains the requirements of Rec. ITU-T G.984.1 to ensure
-    maximal continuity with existing systems and optical fibre infrastructure."
+  content: "Recommendation ITU-T G.987.2 describes the physical layer requirements and specifications for the XG-PON physical media dependent (PMD) layer.  Wavelength enhancement bands are described in ITU-T Rec. G.987.1. The transmission convergence (TC) layer is described in ITU-T Rec. G.987.3. The ONU management and control interface (OMCI) specifications are described in ITU-T Rec. G.988. \r\n\r\nRecommendation ITU-T G.987.2 describes a flexible optical fibre access network capable of supporting the bandwidth requirements of business and residential services. The G.987 series of standards allows for multiple upstream and downstream line rates.  This recommendation currently defines one type of 10-Gigabit-capable passive optical network (XG-PON) system with asymmetric nominal line rate of 9.95328 Gbit/s in the downstream direction and 2.48832 Gbit/s in the upstream direction, hereinafter referred to as XG-PON1.\r\n\r\nThis Recommendation describes a system that represents an evolutionary development from the systems described in the ITU-T G.984 series. To the greatest extent possible, this Recommendation maintains the requirements of Rec. ITU-T G.984.1 to ensure maximal continuity with existing systems and optical fibre infrastructure."
 status:
   stage:
     content: Withdrawal

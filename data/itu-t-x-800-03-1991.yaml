@@ -55,18 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T X.800:\r\na)\tprovides a general description of security
-    services and related mechanisms, which may be provided by the Reference Model;
-    and\r\nb)\tdefines the positions within the Reference Model where the services
-    and mechanisms may be provided.\r\n\tThis Recommendation extends the field of
-    application of Recommendation X.200, to cover secure communications between open
-    systems.\r\n\tBasic security services and mechanisms and their appropriate placement
-    have been identified for all layers of the Reference Model. In addition, the architectural
-    relationships of the security services and mechanisms to the Reference Model have
-    been identified. Additional security measures may be needed in end systems, installations
-    and organizations. These measures apply in various application contexts. The definition
-    of security services needed to support such additional security measures is outside
-    the scope of the Recommendation.\r\n"
+  content: "Recommendation ITU-T X.800:\r\na)\tprovides a general description of security services and related mechanisms, which may be provided by the Reference Model; and\r\nb)\tdefines the positions within the Reference Model where the services and mechanisms may be provided.\r\n\tThis Recommendation extends the field of application of Recommendation X.200, to cover secure communications between open systems.\r\n\tBasic security services and mechanisms and their appropriate placement have been identified for all layers of the Reference Model. In addition, the architectural relationships of the security services and mechanisms to the Reference Model have been identified. Additional security measures may be needed in end systems, installations and organizations. These measures apply in various application contexts. The definition of security services needed to support such additional security measures is outside the scope of the Recommendation.\r\n"
 status:
   stage:
     content: Published

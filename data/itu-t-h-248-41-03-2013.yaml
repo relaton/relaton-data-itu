@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.41 defines certain parameters and mechanisms
-    for supporting the interconnection of a packet network with another network. It
-    is only applicable to the IP-based ITU T H.248 termination and provides such information
-    as the IP Realm Identifier used to indicate to which packet network the media
-    represented by the termination belongs.\r\nAmendment 1 to the first edition introduced
-    mechanisms that allow the media gateway controller to discover the IP realms that
-    are available at the media gateway at a certain time. It also introduced a length
-    limitation in the IP realm property.\r\nThis revision removes the package extension
-    in the IP Realm Availability package in order to resolve a property identity conflict.\r\n"
+  content: "Recommendation ITU-T H.248.41 defines certain parameters and mechanisms for supporting the interconnection of a packet network with another network. It is only applicable to the IP-based ITU T H.248 termination and provides such information as the IP Realm Identifier used to indicate to which packet network the media represented by the termination belongs.\r\nAmendment 1 to the first edition introduced mechanisms that allow the media gateway controller to discover the IP realms that are available at the media gateway at a certain time. It also introduced a length limitation in the IP realm property.\r\nThis revision removes the package extension in the IP Realm Availability package in order to resolve a property identity conflict.\r\n"
 status:
   stage:
     content: Withdrawal

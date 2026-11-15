@@ -53,24 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3066 establishes a framework for enhancing the
-    security of telecommunication networks against signalling-based attacks. It defines
-    principles, detection methods, and mitigation strategies applicable to both legacy
-    (e.g., SS7) and modern (e.g., Diameter, SIP, GTP) signalling protocols used across
-    networks.\r\nThe Recommendation provides a structured threat model that classifies
-    signalling attacks into four categories: simple single-request, single-protocol
-    multi-request, multi-protocol, and cross-generational attacks. It identifies critical
-    network assets at risk – such as subscriber location, international mobile subscriber
-    identity (IMSI), international mobile equipment identity (IMEI) and call/session
-    data – and specifies their exposure points within the network architecture.\r\nDesigned
-    for network operators, equipment vendors and security solution providers, this
-    Recommendation supports the implementation of robust, proactive defences at network
-    interconnection points and internal trust boundaries. It is particularly useful
-    for designing and operating signalling security gateways (SSGs), firewalls and
-    OAM systems to improve network resilience and protect subscriber privacy.\r\nNOTE
-    – This Recommendation does not cover protection against non-signalling cyberattacks,
-    end-to-end content encryption or cryptographic key management, which are addressed
-    in other standards.\r\n"
+  content: "Recommendation ITU-T Q.3066 establishes a framework for enhancing the security of telecommunication networks against signalling-based attacks. It defines principles, detection methods, and mitigation strategies applicable to both legacy (e.g., SS7) and modern (e.g., Diameter, SIP, GTP) signalling protocols used across networks.\r\nThe Recommendation provides a structured threat model that classifies signalling attacks into four categories: simple single-request, single-protocol multi-request, multi-protocol, and cross-generational attacks. It identifies critical network assets at risk – such as subscriber location, international mobile subscriber identity (IMSI), international mobile equipment identity (IMEI) and call/session data – and specifies their exposure points within the network architecture.\r\nDesigned for network operators, equipment vendors and security solution providers, this Recommendation supports the implementation of robust, proactive defences at network interconnection points and internal trust boundaries. It is particularly useful for designing and operating signalling security gateways (SSGs), firewalls and OAM systems to improve network resilience and protect subscriber privacy.\r\nNOTE – This Recommendation does not cover protection against non-signalling cyberattacks, end-to-end content encryption or cryptographic key management, which are addressed in other standards.\r\n"
 status:
   stage:
     content: Published
@@ -328,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -340,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

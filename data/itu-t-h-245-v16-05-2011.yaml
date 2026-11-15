@@ -52,26 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.245 specifies syntax and semantics of terminal
-    information messages as well as procedures to use them for in-band negotiation
-    at the start of or during communication. The messages cover receiving and transmitting
-    capabilities as well as mode preference from the receiving end, logical channel
-    signalling, and Control & Indication. Acknowledged signalling procedures are specified
-    to ensure reliable audiovisual and data communication.\r\n\r\nProducts claiming
-    compliance with Version 16 of ITU-T H.245 shall comply with all of the mandatory
-    requirements of this Recommendation. Version 16 products can be identified by
-    ITU-T H.245 TerminalCapabilitySet messages containing a protocolIdentifier value
-    of {ITU-T (0) recommendation (0) h (8) 245 version (0) 16}.\r\n\r\nRelative to
-    ITU-T H.245 Version 15 (2009-12), this version improves harmonization with SIP
-    by making the following changes:\r\n\r\n– allowing a new dynamic payload number
-    to be specified in the ITU-T H.245 OpenLogicalChannelAck message;\r\n– revising
-    clause B.3.2 to indicate that ITU-T H.323 systems should use the dynamic payload
-    type specified in the ITU-T H.245 OpenLogicalChannelAck message instead of the
-    dynamic payload type specified in the ITU-T H.245 o pen logical channel message;\r\n–
-    defining a similar mechanism for logical channels that use multiple payload types;
-    and\r\n– defining a new capability in a new annex, Annex T, that specifies that
-    an endpoint is capable of using the dynamic payload type replacement mechanisms
-    in the ITU-T H.245 OpenLogicalChannelAck message."
+  content: "Recommendation ITU-T H.245 specifies syntax and semantics of terminal information messages as well as procedures to use them for in-band negotiation at the start of or during communication. The messages cover receiving and transmitting capabilities as well as mode preference from the receiving end, logical channel signalling, and Control & Indication. Acknowledged signalling procedures are specified to ensure reliable audiovisual and data communication.\r\n\r\nProducts claiming compliance with Version 16 of ITU-T H.245 shall comply with all of the mandatory requirements of this Recommendation. Version 16 products can be identified by ITU-T H.245 TerminalCapabilitySet messages containing a protocolIdentifier value of {ITU-T (0) recommendation (0) h (8) 245 version (0) 16}.\r\n\r\nRelative to ITU-T H.245 Version 15 (2009-12), this version improves harmonization with SIP by making the following changes:\r\n\r\n– allowing a new dynamic payload number to be specified in the ITU-T H.245 OpenLogicalChannelAck message;\r\n– revising clause B.3.2 to indicate that ITU-T H.323 systems should use the dynamic payload type specified in the ITU-T H.245 OpenLogicalChannelAck message instead of the dynamic payload type specified in the ITU-T H.245 o pen logical channel message;\r\n– defining a similar mechanism for logical channels that use multiple payload types; and\r\n– defining a new capability in a new annex, Annex T, that specifies that an endpoint is capable of using the dynamic payload type replacement mechanisms in the ITU-T H.245 OpenLogicalChannelAck message."
 status:
   stage:
     content: Withdrawal

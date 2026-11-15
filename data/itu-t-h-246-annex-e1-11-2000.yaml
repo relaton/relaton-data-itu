@@ -52,30 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The purpose of this annex is to introduce the mechanisms to enable current
-    Mobile Subscribers to access mobile networks using an H.323 terminal and obtain
-    the same Mobile Services they get from a Public Land Mobile Network (PLMN) Mobile
-    Terminal.\r• PLMN mobile subscribers without an H323_UIM Terminal cannot use regular
-    H.323 terminals to access and use the services provided by PLMN mobile networks
-    with the same mobile phone number. Such services include Call Delivery with Caller
-    Identification, Call Origination, Call Termination, Message Waiting Notification,
-    Short Message Services, etc.\r• The solution is to define an Interworking function
-    (IWF) between the H.323 network and PLMN networks (such as ANSI-41, GSM and PDC
-    networks), defining the extension of H.323 terminal protocols and procedures to
-    allow the support of User Identification Module (UIM) or User Identification Information
-    for various PLMN mobile networks. \r• This annex does not require any changes
-    in the Public Land Mobile Networks. H.246 Annex E2 describes the interworking
-    between ANSI-41 Mobile Application Part (MAP of North American Signalling System
-    No.7) and H.225.0 Multimedia Call Control protocol. It specifies the necessary
-    mapping an interworking function would utilise to achieve connectivity and functionality
-    between an H.323 network and Public Land Mobile Network. H.246 Annexes E3 and
-    E4 cover the interworking functions between GSM Mobile Application Part (MAP of
-    ITU-T Signalling System), PDC Mobile Application Part (MAP of Japan Signalling
-    System No. 7) and H.225.0 Multimedia Call Control protocol. The interworking function
-    specifications between GSM, PDC and H.323 networks are for further study.This
-    annex requires H.323 and H.225.0 versions 4 or later. Version 4 products can be
-    identified by H.225.0 messages containing a protocolIdentifier = {itu-t (0) recommendation
-    (0) h (8) 2250 version (0) 4}."
+  content: "The purpose of this annex is to introduce the mechanisms to enable current Mobile Subscribers to access mobile networks using an H.323 terminal and obtain the same Mobile Services they get from a Public Land Mobile Network (PLMN) Mobile Terminal.\r• PLMN mobile subscribers without an H323_UIM Terminal cannot use regular H.323 terminals to access and use the services provided by PLMN mobile networks with the same mobile phone number. Such services include Call Delivery with Caller Identification, Call Origination, Call Termination, Message Waiting Notification, Short Message Services, etc.\r• The solution is to define an Interworking function (IWF) between the H.323 network and PLMN networks (such as ANSI-41, GSM and PDC networks), defining the extension of H.323 terminal protocols and procedures to allow the support of User Identification Module (UIM) or User Identification Information for various PLMN mobile networks. \r• This annex does not require any changes in the Public Land Mobile Networks. H.246 Annex E2 describes the interworking between ANSI-41 Mobile Application Part (MAP of North American Signalling System No.7) and H.225.0 Multimedia Call Control protocol. It specifies the necessary mapping an interworking function would utilise to achieve connectivity and functionality between an H.323 network and Public Land Mobile Network. H.246 Annexes E3 and E4 cover the interworking functions between GSM Mobile Application Part (MAP of ITU-T Signalling System), PDC Mobile Application Part (MAP of Japan Signalling System No. 7) and H.225.0 Multimedia Call Control protocol. The interworking function specifications between GSM, PDC and H.323 networks are for further study.This annex requires H.323 and H.225.0 versions 4 or later. Version 4 products can be identified by H.225.0 messages containing a protocolIdentifier = {itu-t (0) recommendation (0) h (8) 2250 version (0) 4}."
 status:
   stage:
     content: Withdrawal

@@ -47,24 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9711 specifies a multi-gigabit broadband access
-    technology that exploits the existing infrastructure of wire-pairs and coaxial
-    cable that were originally deployed for plain old telephone service (POTS) or
-    television (TV) services. Equipment implementing this Recommendation can be deployed
-    from fibre-fed distribution points (fibre to the distribution point, FTTdp) located
-    in close proximity to customer premises, or within buildings, including MDUs and
-    business facilities (fibre to the building). This Recommendation supports asymmetric
-    and symmetric transmission at an aggregate net data rate up to 8 Gbit/s on metallic
-    wires using spectrum up to 424 MHz, and provides functionalities for far-end crosstalk
-    (FEXT) and near-end crosstalk (NEXT) cancellation between multiple wire-pairs.\r\nAmendment
-    1 (2022) specifies or corrects:\r\n–\tDBR-PT and bidirectional DBR for facilating
-    the acceleration of DBR,\r\n–\tdiagnostics and monitoring of DTA,\r\n–\tdownstream
-    PSD objects common to all links in the P2MP group,\r\n–\tupstream frame configuration
-    request, and\r\n–\tsupport of DTFO in P2MP TDMA/FDMA.\r\nThe changes relative
-    to corrected items are with the following change bars.\r\nThe changes relative
-    to new material are with the following change bars.\r\nNOTE – Some changes relative
-    to new material texts further revised corresponding changes relative to corrected
-    items.\r\n"
+  content: "Recommendation ITU-T G.9711 specifies a multi-gigabit broadband access technology that exploits the existing infrastructure of wire-pairs and coaxial cable that were originally deployed for plain old telephone service (POTS) or television (TV) services. Equipment implementing this Recommendation can be deployed from fibre-fed distribution points (fibre to the distribution point, FTTdp) located in close proximity to customer premises, or within buildings, including MDUs and business facilities (fibre to the building). This Recommendation supports asymmetric and symmetric transmission at an aggregate net data rate up to 8 Gbit/s on metallic wires using spectrum up to 424 MHz, and provides functionalities for far-end crosstalk (FEXT) and near-end crosstalk (NEXT) cancellation between multiple wire-pairs.\r\nAmendment 1 (2022) specifies or corrects:\r\n–\tDBR-PT and bidirectional DBR for facilating the acceleration of DBR,\r\n–\tdiagnostics and monitoring of DTA,\r\n–\tdownstream PSD objects common to all links in the P2MP group,\r\n–\tupstream frame configuration request, and\r\n–\tsupport of DTFO in P2MP TDMA/FDMA.\r\nThe changes relative to corrected items are with the following change bars.\r\nThe changes relative to new material are with the following change bars.\r\nNOTE – Some changes relative to new material texts further revised corresponding changes relative to corrected items.\r\n"
 status:
   stage:
     content: Published

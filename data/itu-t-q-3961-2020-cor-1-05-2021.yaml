@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "If the quality of service (QoS) of the web-browsing service drops, Internet
-    service providers (ISPs) and Internet content providers (ICPs) would hope to be
-    able to immediately find the reasons, fix the faults and improve the web-browsing
-    service. To achieve the above aims, Recommendation ITU-T Q.3961 specifies parameters
-    for bottleneck evaluation of the web-browsing service. These parameters can be
-    divided into four groups: parameters in the application layer, parameters in the
-    transportation layer, parameters in the network layer and the characteristic parameters.
-    The relationship between these parameters is also introduced in this Recommendation.
-    This corrigendum modifies the definition of the term \"HTML object\" indicated
-    in clause 3.2.2. \r\n"
+  content: "If the quality of service (QoS) of the web-browsing service drops, Internet service providers (ISPs) and Internet content providers (ICPs) would hope to be able to immediately find the reasons, fix the faults and improve the web-browsing service. To achieve the above aims, Recommendation ITU-T Q.3961 specifies parameters for bottleneck evaluation of the web-browsing service. These parameters can be divided into four groups: parameters in the application layer, parameters in the transportation layer, parameters in the network layer and the characteristic parameters. The relationship between these parameters is also introduced in this Recommendation. This corrigendum modifies the definition of the term \"HTML object\" indicated in clause 3.2.2. \r\n"
 status:
   stage:
     content: Published
@@ -324,9 +315,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -336,8 +327,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

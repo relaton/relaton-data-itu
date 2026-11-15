@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Capability exposure provides functionalities for network functions to
+  content: 'Capability exposure provides functionalities for network functions to
     expose their capabilities to third parties (e.g., users or other operators). Fixed,
     mobile and satellite convergence (FMSC) is the capability that provides services
     and applications to end users regardless of the fixed, mobile or satellite access
     technologies. Recommendation ITU-T Y.3206 specifies the scenarios, requirements,
     reference points, network function enhancements, procedures and security considerations
-    of capability exposure for FMSC, in the context of IMT-2020 networks and beyond.\r\n"
+    of capability exposure for FMSC, in the context of IMT-2020 networks and beyond.
+    '
 status:
   stage:
     content: Published
@@ -89,7 +90,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -110,8 +111,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "To enable fast message exchange in peer-to-peer (P2P) networks for distributed
+  content: 'To enable fast message exchange in peer-to-peer (P2P) networks for distributed
     ledger technology (DLT)-based services, Recommendation ITU-T F.751.28 specifies
     a framework and functional modules for fast DLT message delivery in the DLT network.
     The functional modules include a DLT interface client module, a committee management
     module, a network monitoring and management module, a block data/control message
-    transmission module, and a consensus network module.\r\n"
+    transmission module, and a consensus network module.
+    '
 status:
   stage:
     content: Published

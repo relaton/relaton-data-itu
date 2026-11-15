@@ -52,15 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3606 specifies a mechanism for deep packet inspection
-    (DPI) applied to big data in the network context. The scope of Recommendation
-    ITU-T Y.3606 includes: an introduction to the differences between generic DPI
-    and big data DPI; an overview of big data processing procedures; the relationship
-    between DPI and big data-related technologies; a data classification mechanism
-    using DPI for big data in networks; a data pre-processing mechanism using DPI
-    for big data in networks; a coordination processing mechanism for DPI in the context
-    of big data in networks; and the interfaces between DPI and upper-layer big data-related
-    methods. \r\n"
+  content: "Recommendation ITU-T Y.3606 specifies a mechanism for deep packet inspection (DPI) applied to big data in the network context. The scope of Recommendation ITU-T Y.3606 includes: an introduction to the differences between generic DPI and big data DPI; an overview of big data processing procedures; the relationship between DPI and big data-related technologies; a data classification mechanism using DPI for big data in networks; a data pre-processing mechanism using DPI for big data in networks; a coordination processing mechanism for DPI in the context of big data in networks; and the interfaces between DPI and upper-layer big data-related methods. \r\n"
 status:
   stage:
     content: Published
@@ -80,7 +72,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3600-series – Big data and data handling standardization roadmap
+      content: ITU-T Y.3600-series – Big data and data handling standardization
+        roadmap
     docidentifier:
     - content: Y Suppl. 40 (11/2023)
       type: ITU
@@ -100,7 +93,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -131,8 +124,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

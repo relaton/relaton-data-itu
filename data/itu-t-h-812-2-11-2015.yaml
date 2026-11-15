@@ -53,36 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Continua Design Guidelines (CDG) define a framework of underlying
-    standards and criteria that are required to ensure the interoperability of devices
-    and data used for personal connected health. They also contain design guidelines
-    (DGs) that further clarify the underlying standards or specifications by reducing
-    options or by adding missing features to improve interoperability.\r\nPatient
-    reported outcomes measures (PROMs) are increasingly needed to improve the cost
-    effectiveness and quality of health services. Recommendation ITU-T H.812.2 defines
-    design guidelines for the Questionnaire certified device class (CDC), whose function
-    is to enable the interoperable exchange of PROMs (also known as questionnaires)
-    across the WAN-IF of the Continua end-to-end architecture.\r\nThe questionnaires
-    are represented according to the HL7 Implementation Guide (IG) for CDA R2 Questionnaire
-    Form Definition (QFD) document (HL7 CDA QFD). The QFD document captures the health
-    survey questions or question sets to be administered to a patient. The QFD document
-    enables the definition of questions for surveying the patient's perception on
-    their health and the impact that any treatments or adjustments to lifestyle have
-    had on their quality of life. QFD documents may carry a variety of clinical and
-    non-clinical questions and branching logic in order to present the patient with
-    a dynamic health survey for assessing health status including, but not limited
-    to, the patient's functional, cognitive and physiological characteristics. Authors
-    of the QFD documents may include information about disease management organizations,
-    primary care physicians, health and fitness coaches, chronic condition monitors,
-    post-acute and long-term care organizations.\r\nThe response to a questionnaire
-    is then represented according to the HL7 Implementation Guide (IG) for CDA R2
-    Questionnaire Response (QR) document (HL7 CDA QRD). Authors of the QR documents
-    may include the patients who are under the care of disease management organizations,
-    primary care physicians, health and fitness coaches, chronic condition monitors,
-    and post-acute and long-term care providers or their agents.\r\nFor the exchange
-    of QFD and QR documents, this Recommendation specifies and profiles the use of
-    the HL7 hData record format and OMG hData REST Binding for RLUS. For security,
-    this Recommendation further profiles the use of OAuth 2.0 and TLS v1.1.\r\n"
+  content: "The Continua Design Guidelines (CDG) define a framework of underlying standards and criteria that are required to ensure the interoperability of devices and data used for personal connected health. They also contain design guidelines (DGs) that further clarify the underlying standards or specifications by reducing options or by adding missing features to improve interoperability.\r\nPatient reported outcomes measures (PROMs) are increasingly needed to improve the cost effectiveness and quality of health services. Recommendation ITU-T H.812.2 defines design guidelines for the Questionnaire certified device class (CDC), whose function is to enable the interoperable exchange of PROMs (also known as questionnaires) across the WAN-IF of the Continua end-to-end architecture.\r\nThe questionnaires are represented according to the HL7 Implementation Guide (IG) for CDA R2 Questionnaire Form Definition (QFD) document (HL7 CDA QFD). The QFD document captures the health survey questions or question sets to be administered to a patient. The QFD document enables the definition of questions for surveying the patient's perception on their health and the impact that any treatments or adjustments to lifestyle have had on their quality of life. QFD documents may carry a variety of clinical and non-clinical questions and branching logic in order to present the patient with a dynamic health survey for assessing health status including, but not limited to, the patient's functional, cognitive and physiological characteristics. Authors of the QFD documents may include information about disease management organizations, primary care physicians, health and fitness coaches, chronic condition monitors, post-acute and long-term care organizations.\r\nThe response to a questionnaire is then represented according to the HL7 Implementation Guide (IG) for CDA R2 Questionnaire Response (QR) document (HL7 CDA QRD). Authors of the QR documents may include the patients who are under the care of disease management organizations, primary care physicians, health and fitness coaches, chronic condition monitors, and post-acute and long-term care providers or their agents.\r\nFor the exchange of QFD and QR documents, this Recommendation specifies and profiles the use of the HL7 hData record format and OMG hData REST Binding for RLUS. For security, this Recommendation further profiles the use of OAuth 2.0 and TLS v1.1.\r\n"
 status:
   stage:
     content: Withdrawal

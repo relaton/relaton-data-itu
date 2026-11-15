@@ -52,32 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "To achieve greater scalability, this Recommendation decomposes the H.323
-    Gateway function defined in ITU-T Rec. H.246 into functional subcomponents and
-    specifies the protocols these components use to communicate. This allows implementations
-    of H.323 gateways to be highly scalable and encourages leverage of widely deployed
-    Switched Circuit Network (SCN) capabilities such as SS7 switches. This also enables
-    H.323 gateways to be composed of components from multiple vendors distributed
-    across multiple physical platforms. The purpose of this Recommendation is to add
-    capabilities currently defined for H.323 systems and is intended to provide new
-    ways of performing operations already supported in H.323.\r\n\r\nThis Recommendation
-    includes several enhancements to ITU-T Rec. H.248.1 Version 2:\r\n-           capability
-    to define context properties via packages;\r\n-           an IEPS context property;\r\n-
-    \          a flag to indicate that the MG has OutOfService terminations to report
-    at registration time;\r\n-           new message segmentation package and procedures
-    for non-segmenting transports;\r\n-           refined package definition requirements
-    and a new package template;\r\n-           refined profile definition requirements
-    and a new profile template;\r\n-           addition of statistics on a stream
-    level;\r\n-           addition of a signal request identifier to differentiate
-    similar signals within a SignalList;\r\n-           addition of a base signal
-    parameter to indicate in which direction to play the signal;\r\n-           addition
-    of two new Topology types;\r\n-           addition of an intersignal delay timer
-    for signals in a SignalList;\r\n-           addition of a new ContextIDList construct
-    for command responses;\r\n-           addition of a TerminationIDList construct
-    for commands and responses;\r\n-           refined ServiceChange procedures;\r\n-
-    \          addition of a capability for the MGC to regulate the rate at which
-    it receives notifications;\r\n-           addition of the ability to add filter
-    conditions to audit requests."
+  content: "To achieve greater scalability, this Recommendation decomposes the H.323 Gateway function defined in ITU-T Rec. H.246 into functional subcomponents and specifies the protocols these components use to communicate. This allows implementations of H.323 gateways to be highly scalable and encourages leverage of widely deployed Switched Circuit Network (SCN) capabilities such as SS7 switches. This also enables H.323 gateways to be composed of components from multiple vendors distributed across multiple physical platforms. The purpose of this Recommendation is to add capabilities currently defined for H.323 systems and is intended to provide new ways of performing operations already supported in H.323.\r\n\r\nThis Recommendation includes several enhancements to ITU-T Rec. H.248.1 Version 2:\r\n-           capability to define context properties via packages;\r\n-           an IEPS context property;\r\n-           a flag to indicate that the MG has OutOfService terminations to report at registration time;\r\n-           new message segmentation package and procedures for non-segmenting transports;\r\n-           refined package definition requirements and a new package template;\r\n-           refined profile definition requirements and a new profile template;\r\n-           addition of statistics on a stream level;\r\n-           addition of a signal request identifier to differentiate similar signals within a SignalList;\r\n-           addition of a base signal parameter to indicate in which direction to play the signal;\r\n-           addition of two new Topology types;\r\n-           addition of an intersignal delay timer for signals in a SignalList;\r\n-           addition of a new ContextIDList construct for command responses;\r\n-           addition of a TerminationIDList construct for commands and responses;\r\n-           refined ServiceChange procedures;\r\n-           addition of a capability for the MGC to regulate the rate at which it receives notifications;\r\n-           addition of the ability to add filter conditions to audit requests."
 status:
   stage:
     content: Withdrawal

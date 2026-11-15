@@ -51,33 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.1050 describes an IP network model that can be
-    used for evaluating the performance of IP streams. The focus is on packet delay,
-    delay variation, and loss. IP streams from any type of network device can be evaluated
-    using this model.\r\n\r\nThe following are possible uses for Recommendation ITU-T
-    G.1050:\r\n\r\n•          simulation of real-world IP network impairments (packet
-    delay variation and packet loss characteristics);\r\n\r\n•          testing of
-    any type of IP stream(s) under simulated network conditions using pcap files.
-    The IP stream(s) can be evaluated using standard test cases or user-defined simulated
-    network conditions;\r\n\r\n•          testing of any type of IP stream using hardware
-    emulation of simulated network models using standard test cases or user-defined
-    simulated network conditions.\r\n\r\nThis revision of Recommendation ITU-T G.1050
-    replaces Recommendation ITU-T G.1050 (2007) in its entirety. Technical changes
-    from Recommendation ITU-T G.1050 (2007) include:\r\n\r\n1)         Revised ITU-T
-    G.1050 models the mechanisms that contribute to packet delay, jitter, and loss:
-    interfering streams, queue delays in network elements, and the characteristics
-    of specific access technologies. The intent is to provide more realism than the
-    earlier version. \r\n\r\n2)         ITU-T G.1050 (2007) defined a Gilbert-Elliott
-    mathematical model that fits a certain observed network behaviour but that was
-    not easily extended to other scenarios. The new approach is based on discrete
-    event simulation.\r\n\r\n3)         The \"likelihood of occurrence\" concept is
-    no longer applied to IP networks.\r\n\r\n4)         Revised ITU-T G.1050 is a
-    true bidirectional model.\r\n\r\n5)         Impairment levels are updated to keep
-    current with evolving IP networks.\r\n\r\n6)         The number of standard test
-    cases is greatly reduced.\r\n\r\n7)         Users can customize test cases to
-    fit their specific needs.\r\n\r\nThis Recommendation includes an electronic attachment
-    containing the discrete event simulator source code, input packet capture files
-    of interfering traffic, standard test cases and the simulator output."
+  content: "Recommendation ITU-T G.1050 describes an IP network model that can be used for evaluating the performance of IP streams. The focus is on packet delay, delay variation, and loss. IP streams from any type of network device can be evaluated using this model.\r\n\r\nThe following are possible uses for Recommendation ITU-T G.1050:\r\n\r\n•          simulation of real-world IP network impairments (packet delay variation and packet loss characteristics);\r\n\r\n•          testing of any type of IP stream(s) under simulated network conditions using pcap files. The IP stream(s) can be evaluated using standard test cases or user-defined simulated network conditions;\r\n\r\n•          testing of any type of IP stream using hardware emulation of simulated network models using standard test cases or user-defined simulated network conditions.\r\n\r\nThis revision of Recommendation ITU-T G.1050 replaces Recommendation ITU-T G.1050 (2007) in its entirety. Technical changes from Recommendation ITU-T G.1050 (2007) include:\r\n\r\n1)         Revised ITU-T G.1050 models the mechanisms that contribute to packet delay, jitter, and loss: interfering streams, queue delays in network elements, and the characteristics of specific access technologies. The intent is to provide more realism than the earlier version. \r\n\r\n2)         ITU-T G.1050 (2007) defined a Gilbert-Elliott mathematical model that fits a certain observed network behaviour but that was not easily extended to other scenarios. The new approach is based on discrete event simulation.\r\n\r\n3)         The \"likelihood of occurrence\" concept is no longer applied to IP networks.\r\n\r\n4)         Revised ITU-T G.1050 is a true bidirectional model.\r\n\r\n5)         Impairment levels are updated to keep current with evolving IP networks.\r\n\r\n6)         The number of standard test cases is greatly reduced.\r\n\r\n7)         Users can customize test cases to fit their specific needs.\r\n\r\nThis Recommendation includes an electronic attachment containing the discrete event simulator source code, input packet capture files of interfering traffic, standard test cases and the simulator output."
 status:
   stage:
     content: Withdrawal

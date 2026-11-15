@@ -53,36 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.2 defines packages that extend the applicability
-    of the ITU T H.248.1 Gateway Control Protocol Recommendation. Specifically, this
-    Recommendation describes packages for fax, text telephone, call type discrimination
-    and data call detection for use with the ITU T H.248.1 Gateway Control Protocol.
-    As defined in Recommendation ITU T H.248.1, a \"package\" is an extension to ITU
-    T H.248.1 that supports specific behaviour.\r\nThe packages are intended for control
-    over gateway functions for transport of facsimile or text conversation between
-    different network environments. Extensions can be made for other kinds of data
-    transport.\r\n•\tThe Call Type Discrimination package defines control and monitoring
-    of a line for the signalling protocols used in the beginning of a session of data
-    transmission for fax, text telephony or data. This package has been revised to
-    enable the MG to autonomously determine the call type to be supported.\r\n•\tThe
-    Text Telephone package defines control of a text telephone session in any of the
-    modes supported by the automoding text telephone Recommendation, ITU T V.18. \r\n•\tThe
-    Fax package defines control of a fax transmission.\r\n•\tThe Fax/Textphone/Modem
-    Tones Detection package defines control over a termination for detection of any
-    signals from a fax, text telephone or data modem during a connection in voice
-    mode.\r\n•\tThe Text Conversation package defines control over a real-time interactive
-    text conversation session using a universal presentation format and transferred
-    with a transport method from a multimedia protocol in any network environment.\r\n•\tThe
-    IP Fax package defines control over facsimile transmission in a packet network.\r\nAll
-    the packages have been editorially modified to align with the ITU T H.248.1 packages
-    template.\r\nAmendment 1 (2007) to the 2005 revision provides an enhancement to
-    the types of call that may be discriminated through in band signalling. It groups
-    existing call types into like types. It provides an explanation of when those
-    types are used. Several new call types are added to the Discriminated Call Type
-    event. The Call discrimination flows have been corrected with the correct events.\r\nThis
-    2013 revision incorporates a correction to the example call flow in Appendix I.\r\nNOTE
-    - This Recommendation has been renumbered. It was previously known as Recommendation
-    ITU T H.248, Annex F.\r\n"
+  content: "Recommendation ITU-T H.248.2 defines packages that extend the applicability of the ITU T H.248.1 Gateway Control Protocol Recommendation. Specifically, this Recommendation describes packages for fax, text telephone, call type discrimination and data call detection for use with the ITU T H.248.1 Gateway Control Protocol. As defined in Recommendation ITU T H.248.1, a \"package\" is an extension to ITU T H.248.1 that supports specific behaviour.\r\nThe packages are intended for control over gateway functions for transport of facsimile or text conversation between different network environments. Extensions can be made for other kinds of data transport.\r\n•\tThe Call Type Discrimination package defines control and monitoring of a line for the signalling protocols used in the beginning of a session of data transmission for fax, text telephony or data. This package has been revised to enable the MG to autonomously determine the call type to be supported.\r\n•\tThe Text Telephone package defines control of a text telephone session in any of the modes supported by the automoding text telephone Recommendation, ITU T V.18. \r\n•\tThe Fax package defines control of a fax transmission.\r\n•\tThe Fax/Textphone/Modem Tones Detection package defines control over a termination for detection of any signals from a fax, text telephone or data modem during a connection in voice mode.\r\n•\tThe Text Conversation package defines control over a real-time interactive text conversation session using a universal presentation format and transferred with a transport method from a multimedia protocol in any network environment.\r\n•\tThe IP Fax package defines control over facsimile transmission in a packet network.\r\nAll the packages have been editorially modified to align with the ITU T H.248.1 packages template.\r\nAmendment 1 (2007) to the 2005 revision provides an enhancement to the types of call that may be discriminated through in band signalling. It groups existing call types into like types. It provides an explanation of when those types are used. Several new call types are added to the Discriminated Call Type event. The Call discrimination flows have been corrected with the correct events.\r\nThis 2013 revision incorporates a correction to the example call flow in Appendix I.\r\nNOTE - This Recommendation has been renumbered. It was previously known as Recommendation ITU T H.248, Annex F.\r\n"
 status:
   stage:
     content: Published

@@ -52,12 +52,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Intelligent speech technologies, while required to be monitored periodically,
+  content: 'Intelligent speech technologies, while required to be monitored periodically,
     can greatly improve the efficiency of network operation and maintenance when applied
     to future networks. Recommendation ITU-T Q.4072 aims to specify monitoring parameters
     of intelligent speech applied in future networks. The monitoring parameters are
     classified into speech recognition parameters, speech generation parameters, natural
-    language processing parameters, system parameters, and performance parameters.\r\n"
+    language processing parameters, system parameters, and performance parameters.
+    '
 status:
   stage:
     content: Published
@@ -315,9 +316,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -327,8 +328,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

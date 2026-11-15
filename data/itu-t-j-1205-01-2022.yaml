@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1205 defines the hardware abstract layer application
-    programming interface (API) of a smart TV operating system (TVOS) to enable integrated
-    broadcast and broadband (IBB)-capable cable set-top box (STB) and TV to apply
-    to broadcasting services and IP-based interactive services provided by cable television
-    operators and third-party providers.\r\nThe TVOS hardware abstract layer (HAL)
-    consists of multiple hardware abstraction functional interface modules. These
-    modules implement abstraction and encapsulation of different hardware capabilities
-    and provide the upper-layer software with interfaces used to invoke the corresponding
-    hardware capabilities.\r\n"
+  content: "Recommendation ITU-T J.1205 defines the hardware abstract layer application programming interface (API) of a smart TV operating system (TVOS) to enable integrated broadcast and broadband (IBB)-capable cable set-top box (STB) and TV to apply to broadcasting services and IP-based interactive services provided by cable television operators and third-party providers.\r\nThe TVOS hardware abstract layer (HAL) consists of multiple hardware abstraction functional interface modules. These modules implement abstraction and encapsulation of different hardware capabilities and provide the upper-layer software with interfaces used to invoke the corresponding hardware capabilities.\r\n"
 status:
   stage:
     content: Published

@@ -53,14 +53,15 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "With the continuous development of Internet of things (IoT) technology,
+  content: 'With the continuous development of Internet of things (IoT) technology,
     the application of intelligent maintenance robots (IMRs) in the field of telecommunication
     smart maintenance (TSM) is increasing. Recommendation ITU-T M.3167.1 provides
     the requirements for the interface between the IMR-based smart patrol system (IbSPS)
     and the telecommunication smart maintenance system (TSMS) at a protocol-neutral
     level. It describes the position of the relevant interface and specifies the high-level
     requirements for interface interaction, as well as specification level use cases
-    for each requirement.\r\n"
+    for each requirement.
+    '
 status:
   stage:
     content: Published

@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.113 provides guidance regarding transmission impairments
+  content: 'Recommendation ITU-T G.113 provides guidance regarding transmission impairments
     introduced by digital speech processing systems. The information provided is for
     use in conjunction with the transmission planning approach described in Recommendations
     ITU-T G.107, ITU-T G.108 and ITUT G.109. The impairment factor method, used by
@@ -65,7 +65,8 @@ abstract:
     impairment parameters other than qdu and equipment impairment factor, and Appendix
     IV gives provisional planning values for the wideband equipment impairment factor
     and Appendix V gives provisional planning values for the fullband equipment impairment
-    factor.\r\n"
+    factor.
+    '
 status:
   stage:
     content: Published

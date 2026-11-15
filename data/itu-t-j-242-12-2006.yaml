@@ -54,14 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "ITU-T Recommendation J.242 specifies a method for a transmitting side
-    to reconstruct the received video sequence seen at a receiver using transmission
-    error information. The method can be used with an objective model for video quality
-    measurement to monitor the quality of the received sequence. It is suggested that
-    a standardized method should be used. The method in this Recommendation is applicable
-    in order to:\r• monitor the video quality of the received sequence seen at the
-    receiver, with a minimum consumption of additional bandwidth;\r• assess the real-time
-    video quality of the received video sequence by the transmitting side."
+  content: "ITU-T Recommendation J.242 specifies a method for a transmitting side to reconstruct the received video sequence seen at a receiver using transmission error information. The method can be used with an objective model for video quality measurement to monitor the quality of the received sequence. It is suggested that a standardized method should be used. The method in this Recommendation is applicable in order to:\r• monitor the video quality of the received sequence seen at the receiver, with a minimum consumption of additional bandwidth;\r• assess the real-time video quality of the received video sequence by the transmitting side."
 status:
   stage:
     content: Published

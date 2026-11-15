@@ -47,11 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Corrigendum 1 to Recommendation ITU-T G.997.2 (2015) includes:\r\n\r\n-
-    \         Clarification of the DPU-NB interface.\r\n\r\n-          An increase
-    of number of RFI bands from 16 to 32.\r\n\r\n-          Replace “short init” by
-    “fast init”.\r\n\r\n-          Fix a typographical error in Table 7-8.\r\n\r\n-
-    \         Add special value for FRA time parameters.\r\n\r\n-          Fix references.\r\n"
+  content: "Corrigendum 1 to Recommendation ITU-T G.997.2 (2015) includes:\r\n\r\n-          Clarification of the DPU-NB interface.\r\n\r\n-          An increase of number of RFI bands from 16 to 32.\r\n\r\n-          Replace “short init” by “fast init”.\r\n\r\n-          Fix a typographical error in Table 7-8.\r\n\r\n-          Add special value for FRA time parameters.\r\n\r\n-          Fix references.\r\n"
 status:
   stage:
     content: Withdrawal

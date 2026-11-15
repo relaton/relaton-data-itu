@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.241 defines the use of advanced video codecs, including
-    those based on Recommendation ITU-T H.264, in ITU-T H.300-series terminals, including
-    ITU-T H.310, ITU\x1ET H.320, ITU-T H.321, ITU-T H.322, ITU-T H.323 and ITU-T H.324
-    terminals. It also defines generic extended signalling for use with all video
-    codecs in the ITU-T H.300\x1Eseries terminals.\r\nThis revised version introduces
-    a number of enhancements and clarifications to the previous version. Clarification
-    concerns primarily the description on the signalling for ITU-T H.264 Annex G Scalable
-    Baseline and Scalable High Profiles, a procedure for selecting the operating point
-    of a scalable video coding (SVC) video stream, and the Capability Class of ITU-T
-    H.241 capabilities. This version incorporates clause 6.2.5 introduced in ITU-T
-    H.241 (2006) Amd. 1 (2008), allowing for the negotiation of particular video submodes
-    of ITU-T H.264 encoding. It also incorporates clause 8.3.2.14, defining a new
-    optional ITU-T H.264 capability parameter (MaxFPS), and Appendix II which contains
-    non-normative examples describing the use of clause 6.2.5. Clause 8.3.2.14 and
-    Appendix II were both introduced in ITU-T H.241 (2006) Amd. 2 (2009).\r\n"
+  content: "Recommendation ITU-T H.241 defines the use of advanced video codecs, including those based on Recommendation ITU-T H.264, in ITU-T H.300-series terminals, including ITU-T H.310, ITU\x1eT H.320, ITU-T H.321, ITU-T H.322, ITU-T H.323 and ITU-T H.324 terminals. It also defines generic extended signalling for use with all video codecs in the ITU-T H.300\x1eseries terminals.\r\nThis revised version introduces a number of enhancements and clarifications to the previous version. Clarification concerns primarily the description on the signalling for ITU-T H.264 Annex G Scalable Baseline and Scalable High Profiles, a procedure for selecting the operating point of a scalable video coding (SVC) video stream, and the Capability Class of ITU-T H.241 capabilities. This version incorporates clause 6.2.5 introduced in ITU-T H.241 (2006) Amd. 1 (2008), allowing for the negotiation of particular video submodes of ITU-T H.264 encoding. It also incorporates clause 8.3.2.14, defining a new optional ITU-T H.264 capability parameter (MaxFPS), and Appendix II which contains non-normative examples describing the use of clause 6.2.5. Clause 8.3.2.14 and Appendix II were both introduced in ITU-T H.241 (2006) Amd. 2 (2009).\r\n"
 status:
   stage:
     content: Published

@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9807.1 describes a 10-Gigabit-capable symmetric
-    passive optical network (XGS-PON) system in an optical access network for residential,
-    business, mobile backhaul and other applications. This system operates over a
-    point-to-multipoint optical access infrastructure at the nominal data rate of
-    10 Gbit/s both in the downstream and the upstream directions. This Recommendation
-    contains the common definitions, acronyms, abbreviations, conventions, general
-    requirements, physical media dependent layer requirements, and transmission convergence
-    layer requirements of the XGS-PON system. \r\nThis revision adds an annex specifying
-    out of band noise limits on XGS-PON optical network units (ONUs) to reduce the
-    impact on other systems coexisting on the same optical distribution network (ODN).\r\n"
+  content: "Recommendation ITU-T G.9807.1 describes a 10-Gigabit-capable symmetric passive optical network (XGS-PON) system in an optical access network for residential, business, mobile backhaul and other applications. This system operates over a point-to-multipoint optical access infrastructure at the nominal data rate of 10 Gbit/s both in the downstream and the upstream directions. This Recommendation contains the common definitions, acronyms, abbreviations, conventions, general requirements, physical media dependent layer requirements, and transmission convergence layer requirements of the XGS-PON system. \r\nThis revision adds an annex specifying out of band noise limits on XGS-PON optical network units (ONUs) to reduce the impact on other systems coexisting on the same optical distribution network (ODN).\r\n"
 status:
   stage:
     content: Published

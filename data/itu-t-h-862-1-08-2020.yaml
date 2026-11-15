@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.862.1 describes the data model for the sleep management
-    services. This Recommendation focuses on the structured model of data for expressing
-    data collected from sensors as information such as sleep time, sleep stage and
-    sleep goal, to be applied to sleep management services.\r\nIn many fields of human
-    factors including healthcare, sleep data can be obtained from a variety of sensors
-    such as electroencephalogram (EEG), electrocardiogram (ECG), pulse, motion and
-    sound. Sleep time and sleep quality can be calculated based on the data. A general
-    sleep management service that can handle multiple devices independently of the
-    raw data should be able to represent the quantity and quality of sleep. This can
-    be the sleep stage and its time."
+  content: "Recommendation ITU-T H.862.1 describes the data model for the sleep management services. This Recommendation focuses on the structured model of data for expressing data collected from sensors as information such as sleep time, sleep stage and sleep goal, to be applied to sleep management services.\r\nIn many fields of human factors including healthcare, sleep data can be obtained from a variety of sensors such as electroencephalogram (EEG), electrocardiogram (ECG), pulse, motion and sound. Sleep time and sleep quality can be calculated based on the data. A general sleep management service that can handle multiple devices independently of the raw data should be able to represent the quantity and quality of sleep. This can be the sleep stage and its time."
 status:
   stage:
     content: Published

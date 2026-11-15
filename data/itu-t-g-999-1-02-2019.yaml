@@ -53,10 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.999.1 defines a point-to-point interface between
-    the LINK layer device such as a network processor and a PHY device supporting
-    multiple DSL lines, such as VDSL2, ADSL2 and SHDSL.\r\n\r\nThis revision adds
-    support for 2.5 Gbit/s and 10 Gbit/s LINK/PHY physical interfaces."
+  content: "Recommendation ITU-T G.999.1 defines a point-to-point interface between the LINK layer device such as a network processor and a PHY device supporting multiple DSL lines, such as VDSL2, ADSL2 and SHDSL.\r\n\r\nThis revision adds support for 2.5 Gbit/s and 10 Gbit/s LINK/PHY physical interfaces."
 status:
   stage:
     content: Published

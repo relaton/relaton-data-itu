@@ -52,13 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.819 defines a set of services required to support
-    REST-based interfaces and along with Recommendation ITU-T X.785 composes a framework
-    for REST-based network management interfaces. It specifies protocol requirements,
-    and defines some network management-specific support services, which are notification
-    service, heartbeat service, and containment service. The JSON/YAML interface definitions
-    for the network management-specific support services are also provided.\r\nKeywords\r\nAI,
-    telecom operation management, 5G, energy saving\r\n"
+  content: "Recommendation ITU-T Q.819 defines a set of services required to support REST-based interfaces and along with Recommendation ITU-T X.785 composes a framework for REST-based network management interfaces. It specifies protocol requirements, and defines some network management-specific support services, which are notification service, heartbeat service, and containment service. The JSON/YAML interface definitions for the network management-specific support services are also provided.\r\nKeywords\r\nAI, telecom operation management, 5G, energy saving\r\n"
 status:
   stage:
     content: Published
@@ -316,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -328,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

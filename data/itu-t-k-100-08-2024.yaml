@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.100 provides information on measurement techniques
+  content: 'Recommendation ITU-T K.100 provides information on measurement techniques
     and procedures for assessing compliance with the general public electromagnetic
     field (EMF) exposure limits when a new base station (BS) is put into operation,
     taking into account effects of the environment and other relevant radio frequency
-    sources present in its surroundings.\r\n"
+    sources present in its surroundings.
+    '
 status:
   stage:
     content: Published

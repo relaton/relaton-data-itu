@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "To achieve greater scalability, this Recommendation decomposes the ITU-T
-    H.323 Gateway function defined in Recommendation ITU-T H.246 into functional subcomponents
-    and specifies the protocols these components use to communicate. This allows implementations
-    of ITU-T H.323 gateways to be highly scalable and encourages leverage of widely
-    deployed Switched Circuit Network (SCN) capabilities such as SS7 switches. This
-    also enables ITU-T H.323 gateways to be composed of components from multiple vendors
-    distributed across multiple physical platforms. The purpose of this Recommendation
-    is to add capabilities currently defined for ITU-T H.323 systems and is intended
-    to provide new ways of performing operations already supported in ITU-T H.323.\r\nThis
-    revision contains a number of clarifications on:\r\n–\tSignal behaviour on new
-    Streams; \r\n–\ttime based Statistics and their applicability to multi flow streams;\r\n–\tthe
-    impact of the Mode property on Statistics; \r\n–\tEvent behaviour with respect
-    to new Streams;\r\n–\tServiceChange version handling.\r\n"
+  content: "To achieve greater scalability, this Recommendation decomposes the ITU-T H.323 Gateway function defined in Recommendation ITU-T H.246 into functional subcomponents and specifies the protocols these components use to communicate. This allows implementations of ITU-T H.323 gateways to be highly scalable and encourages leverage of widely deployed Switched Circuit Network (SCN) capabilities such as SS7 switches. This also enables ITU-T H.323 gateways to be composed of components from multiple vendors distributed across multiple physical platforms. The purpose of this Recommendation is to add capabilities currently defined for ITU-T H.323 systems and is intended to provide new ways of performing operations already supported in ITU-T H.323.\r\nThis revision contains a number of clarifications on:\r\n–\tSignal behaviour on new Streams; \r\n–\ttime based Statistics and their applicability to multi flow streams;\r\n–\tthe impact of the Mode property on Statistics; \r\n–\tEvent behaviour with respect to new Streams;\r\n–\tServiceChange version handling.\r\n"
 status:
   stage:
     content: Published

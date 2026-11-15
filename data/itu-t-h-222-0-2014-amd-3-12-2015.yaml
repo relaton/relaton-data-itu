@@ -55,15 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This amendment to ITU-T H.222.0 (2014) | ISO/IEC 13818-1:2015 specifies
-    the carriage of \"Green metadata\" in MPEG-2 transport streams. The amendment
-    does not specify carriage in program streams. Green metadata component is specified
-    using a new stream_type and is associated with media component to optimize display
-    power consumption. Carriage of this metadata consists of a \"static\" part, which
-    applies to an entire program, as well as a \"dynamic\" part, which can change
-    for each media access unit. \"Static metadata\" is specified using a descriptor
-    in the program map table while \"dynamic metadata\" is specified using the private
-    table syntax.\r\n\r\n \r\n"
+  content: "This amendment to ITU-T H.222.0 (2014) | ISO/IEC 13818-1:2015 specifies the carriage of \"Green metadata\" in MPEG-2 transport streams. The amendment does not specify carriage in program streams. Green metadata component is specified using a new stream_type and is associated with media component to optimize display power consumption. Carriage of this metadata consists of a \"static\" part, which applies to an entire program, as well as a \"dynamic\" part, which can change for each media access unit. \"Static metadata\" is specified using a descriptor in the program map table while \"dynamic metadata\" is specified using the private table syntax.\r\n\r\n \r\n"
 status:
   stage:
     content: Withdrawal

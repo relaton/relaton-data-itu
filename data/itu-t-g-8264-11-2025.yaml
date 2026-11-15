@@ -52,23 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8264 outlines aspects of distribution of timing
-    information through packet networks and initially focuses on Ethernet networks.
-    A number of methods may be used to transfer frequency which may be physical-layer
-    based or protocol-layer based. This Recommendation provides information on architectural
-    aspects of timing flows in Ethernet networks which will form the basis for future
-    work related to time and phase transfer.\r\nThis Recommendation specifies the
-    synchronization status message (SSM) protocol and formats for use with synchronous
-    Ethernet. Adherence to the SSM formats specified in this Recommendation is required
-    in order to ensure interoperability between synchronous Ethernet equipment involved
-    in frequency transfer.\r\nThis revision of Recommendation ITU-T G.8264:\r\n•Moves
-    the contents of clauses 11.3.1.2 and 11.3.1.3 to Recommendation ITU-T G.781 and
-    adds a reference to Recommendation ITUT G.781.\r\n•Moves the contents of clause
-    11.6 to Recommendation ITU-T G.781 and adds a reference to Recommendation ITU-T
-    G.781.\r\n•Moves the contents of clause A.7 to Recommendation ITU-T G.781 and
-    adds a reference to Recommendation ITU-T G.781.\r\n•Replaces the reference of
-    IEEE 802.3 with Recommendation ITU-T G.8020.3.\r\n•Adds clarification in clause
-    11.1.1 on synchronization over link aggregation (LAG).\r\n"
+  content: "Recommendation ITU-T G.8264 outlines aspects of distribution of timing information through packet networks and initially focuses on Ethernet networks. A number of methods may be used to transfer frequency which may be physical-layer based or protocol-layer based. This Recommendation provides information on architectural aspects of timing flows in Ethernet networks which will form the basis for future work related to time and phase transfer.\r\nThis Recommendation specifies the synchronization status message (SSM) protocol and formats for use with synchronous Ethernet. Adherence to the SSM formats specified in this Recommendation is required in order to ensure interoperability between synchronous Ethernet equipment involved in frequency transfer.\r\nThis revision of Recommendation ITU-T G.8264:\r\n•Moves the contents of clauses 11.3.1.2 and 11.3.1.3 to Recommendation ITU-T G.781 and adds a reference to Recommendation ITUT G.781.\r\n•Moves the contents of clause 11.6 to Recommendation ITU-T G.781 and adds a reference to Recommendation ITU-T G.781.\r\n•Moves the contents of clause A.7 to Recommendation ITU-T G.781 and adds a reference to Recommendation ITU-T G.781.\r\n•Replaces the reference of IEEE 802.3 with Recommendation ITU-T G.8020.3.\r\n•Adds clarification in clause 11.1.1 on synchronization over link aggregation (LAG).\r\n"
 status:
   stage:
     content: Published

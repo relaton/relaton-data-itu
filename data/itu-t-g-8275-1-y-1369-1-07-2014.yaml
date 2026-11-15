@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275.1/Y.1369.1 contains the ITU-T precision time
+  content: 'Recommendation ITU-T G.8275.1/Y.1369.1 contains the ITU-T precision time
     protocol (PTP) profile for phase and time distribution with full timing support
     from the network. It provides the necessary details to utilize IEEE Std 1588™-2008
     in a manner consistent with the architecture described in Recommendation ITU T
-    G.8275/Y.1369.\r\n"
+    G.8275/Y.1369.
+    '
 status:
   stage:
     content: Withdrawal

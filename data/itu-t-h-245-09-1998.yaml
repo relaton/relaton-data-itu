@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies syntax and semantics of terminal information
-    messages as well as procedures to use them for in-band negotiation at the start
-    of or during communication. The messages cover receiving and transmitting capabilities
-    as well as mode preference from the receiving end, logical channel signalling,
-    and Control and Indication. Acknowledged signalling procedures are specified to
-    ensure reliable audiovisual and data communication.\r\nThis Recommendation covers
-    a wide range of applications, including storage/retrieval, messaging and distribution
-    services as well as conversational. It applies to, but is not limited to, multimedia
-    systems that use the multiplexes defined in Recommendations H.222.0, H.223 and
-    H.225.0. These different systems share the same syntax and semantics, and are
-    therefore bit-wise compatible. Some of the procedures are applicable to all systems,
-    while the others are more specific to particular systems.\r\nThe different systems
-    that make use of this Recommendation may specify the use of different transport
-    protocols. However, it is intended to be used with a reliable transport layer,
-    that is, one that provides guaranteed delivery of correct data."
+  content: "This Recommendation specifies syntax and semantics of terminal information messages as well as procedures to use them for in-band negotiation at the start of or during communication. The messages cover receiving and transmitting capabilities as well as mode preference from the receiving end, logical channel signalling, and Control and Indication. Acknowledged signalling procedures are specified to ensure reliable audiovisual and data communication.\r\nThis Recommendation covers a wide range of applications, including storage/retrieval, messaging and distribution services as well as conversational. It applies to, but is not limited to, multimedia systems that use the multiplexes defined in Recommendations H.222.0, H.223 and H.225.0. These different systems share the same syntax and semantics, and are therefore bit-wise compatible. Some of the procedures are applicable to all systems, while the others are more specific to particular systems.\r\nThe different systems that make use of this Recommendation may specify the use of different transport protocols. However, it is intended to be used with a reliable transport layer, that is, one that provides guaranteed delivery of correct data."
 status:
   stage:
     content: Withdrawal

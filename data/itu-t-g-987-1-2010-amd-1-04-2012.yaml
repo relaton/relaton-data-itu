@@ -47,11 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.987.1 (2010) includes:\r\n1)\ttext
-    describing the operation of XG-PON with IEEE 1588;\r\n2)\tuse cases for XG-PON
-    frequency and time-of-day synchronization; \r\n3)\ttransport of ESMC messages
-    over PON; and\r\n4)\tclarification of the reference optical configuration for
-    XG-PON coexistence through splitters.\r\n"
+  content: "Amendment 1 to Recommendation ITU-T G.987.1 (2010) includes:\r\n1)\ttext describing the operation of XG-PON with IEEE 1588;\r\n2)\tuse cases for XG-PON frequency and time-of-day synchronization; \r\n3)\ttransport of ESMC messages over PON; and\r\n4)\tclarification of the reference optical configuration for XG-PON coexistence through splitters.\r\n"
 status:
   stage:
     content: Withdrawal

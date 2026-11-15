@@ -47,25 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T P.1203.3 specifies the quality integration module
-    for Recommendation \r\nITU-T P.1203. The ITU-T P.1203 series of ITU-T Recommendations
-    specify modules for monitoring \r\nthe audio, video and audiovisual quality of
-    video services such as adaptive bit-rate video streaming. \r\nThe respective ITU-T
-    work item has formerly been referred to as P.NATS (parametric non-intrusive \r\nassessment
-    of TCP-based multimedia streaming quality). The ITU-T P.1203.3 part of \r\nRecommendation
-    ITU-T P.1203 can be applied to the monitoring of performance and quality of \r\nexperience
-    (QoE) of video services such as adaptive bit-rate video streaming. Besides stream-based
-    \r\ninput information, the ITU-T P.1203.3 quality integration module takes the
-    per-one-second video- and \r\naudio-quality scores calculated according to ITU-T
-    P.1203.1 and ITU-T P.1203.2, respectively, \r\nas input. \r\nOnly one quality
-    integration module is recommended for all four modes 0 to 3 of the Recommendation
-    \r\nITU-T P.1203 model series, unique across all modes. \r\nThis Recommendation
-    includes an electronic attachment containing the 20 trees described in \r\nclause
-    8.4.  \r\nThis revision to Recommendation ITU-T P.1203.3 (2007) replaces equation
-    (20) in clause 8.3. \r\nAmendment 1 introduces an adjustment of the audiovisual
-    quality of ITU-T P.1203.3 for the case of \r\nvery low audio quality and long
-    stalling events.  \r\nCorrigendum 1 introduces changes related to the qDirChangesLongest
-    parameter in clause 8.1.2.5, \r\nas well as equations 24 and 26. \r\n"
+  content: "Recommendation ITU-T P.1203.3 specifies the quality integration module for Recommendation \r\nITU-T P.1203. The ITU-T P.1203 series of ITU-T Recommendations specify modules for monitoring \r\nthe audio, video and audiovisual quality of video services such as adaptive bit-rate video streaming. \r\nThe respective ITU-T work item has formerly been referred to as P.NATS (parametric non-intrusive \r\nassessment of TCP-based multimedia streaming quality). The ITU-T P.1203.3 part of \r\nRecommendation ITU-T P.1203 can be applied to the monitoring of performance and quality of \r\nexperience (QoE) of video services such as adaptive bit-rate video streaming. Besides stream-based \r\ninput information, the ITU-T P.1203.3 quality integration module takes the per-one-second video- and \r\naudio-quality scores calculated according to ITU-T P.1203.1 and ITU-T P.1203.2, respectively, \r\nas input. \r\nOnly one quality integration module is recommended for all four modes 0 to 3 of the Recommendation \r\nITU-T P.1203 model series, unique across all modes. \r\nThis Recommendation includes an electronic attachment containing the 20 trees described in \r\nclause 8.4.  \r\nThis revision to Recommendation ITU-T P.1203.3 (2007) replaces equation (20) in clause 8.3. \r\nAmendment 1 introduces an adjustment of the audiovisual quality of ITU-T P.1203.3 for the case of \r\nvery low audio quality and long stalling events.  \r\nCorrigendum 1 introduces changes related to the qDirChangesLongest parameter in clause 8.1.2.5, \r\nas well as equations 24 and 26. \r\n"
 status:
   stage:
     content: Published

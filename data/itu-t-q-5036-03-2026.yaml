@@ -53,22 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.5036 specifies data management interfaces for a
-    public decision-making framework based on the intelligent edge computing architecture
-    described in Recommendation ITUT Q.5001. The framework supports AI-based decision-making
-    services by enabling secure and efficient data collection, governance, and management
-    interfaces from statistical data distributed across multiple stakeholders.\r\nThe
-    architectural framework comprises three layers; the interworking layer, the data
-    layer, and the service layer. These layers integrate functional blocks for data
-    collection, governance, and decision-making service management. Data layer APIs
-    support operations such as collection, retrieval, update, and deletion of statistical
-    data stored at the edge. Service layer APIs govern data and service operations
-    while enabling trustworthy and compliant public decision-making services.\r\nKey
-    functions defined in this Recommendation include data governance functions, data
-    collection functions, and decision-making service management functions. These
-    functions ensure metadata and quality management, systematic data collection from
-    heterogeneous sources, and the delivery of artificial intelligence (AI)-driven
-    decision-making services in a secure and compliant manner.\r\n"
+  content: "Recommendation ITU-T Q.5036 specifies data management interfaces for a public decision-making framework based on the intelligent edge computing architecture described in Recommendation ITUT Q.5001. The framework supports AI-based decision-making services by enabling secure and efficient data collection, governance, and management interfaces from statistical data distributed across multiple stakeholders.\r\nThe architectural framework comprises three layers; the interworking layer, the data layer, and the service layer. These layers integrate functional blocks for data collection, governance, and decision-making service management. Data layer APIs support operations such as collection, retrieval, update, and deletion of statistical data stored at the edge. Service layer APIs govern data and service operations while enabling trustworthy and compliant public decision-making services.\r\nKey functions defined in this Recommendation include data governance functions, data collection functions, and decision-making service management functions. These functions ensure metadata and quality management, systematic data collection from heterogeneous sources, and the delivery of artificial intelligence (AI)-driven decision-making services in a secure and compliant manner.\r\n"
 status:
   stage:
     content: Published
@@ -326,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -338,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

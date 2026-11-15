@@ -47,15 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.107.1 gives the algorithm for the wideband (WB)
-    version of the E-model as the common ITU‑T transmission rating model for planning
-    speech services that provide WB speech transmission (50-7000 Hz). This computational
-    model can be useful to transmission planners, to help ensure that users will be
-    satisfied with end-to-end transmission performance. The primary output of the
-    model is a scalar rating of transmission quality. A major feature of this model
-    is the use of transmission impairment factors that reflect the effects of different
-    types of degradations occurring on the entire transmission path, mouth-to-ear.\r\n\r\nCorrigendum
-    1 corrects Equation (7-6).\r\n"
+  content: "Recommendation ITU-T G.107.1 gives the algorithm for the wideband (WB) version of the E-model as the common ITU‑T transmission rating model for planning speech services that provide WB speech transmission (50-7000 Hz). This computational model can be useful to transmission planners, to help ensure that users will be satisfied with end-to-end transmission performance. The primary output of the model is a scalar rating of transmission quality. A major feature of this model is the use of transmission impairment factors that reflect the effects of different types of degradations occurring on the entire transmission path, mouth-to-ear.\r\n\r\nCorrigendum 1 corrects Equation (7-6).\r\n"
 status:
   stage:
     content: Published

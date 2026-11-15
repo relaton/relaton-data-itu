@@ -47,15 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical
-    transport network (OTN) interface signals of the optical transport network, in
-    terms of:\r\n–OTN hierarchy;\r\n–functionality of the overhead in support of multi-wavelength
-    optical networks;\r\n–frame structures;\r\n–bit rates;\r\n–formats for mapping
-    client signals.\r\nEdition 6.6 (Amendment 4) of this Recommendation adds parallel
-    logic equations and related text for fgTSOH CRC-4 and fgTSMxOH CRC-6 implementation,
-    multiplexing up to 4 E1 constant bit rate (CBR) clients to fgOPUflex(1), enhancements
-    to the description of mapping of VC-n client signals into fgOPUflex and fgGMP
-    processes, and some editorial corrections.\r\n"
+  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical transport network (OTN) interface signals of the optical transport network, in terms of:\r\n–OTN hierarchy;\r\n–functionality of the overhead in support of multi-wavelength optical networks;\r\n–frame structures;\r\n–bit rates;\r\n–formats for mapping client signals.\r\nEdition 6.6 (Amendment 4) of this Recommendation adds parallel logic equations and related text for fgTSOH CRC-4 and fgTSMxOH CRC-6 implementation, multiplexing up to 4 E1 constant bit rate (CBR) clients to fgOPUflex(1), enhancements to the description of mapping of VC-n client signals into fgOPUflex and fgGMP processes, and some editorial corrections.\r\n"
 status:
   stage:
     content: Published

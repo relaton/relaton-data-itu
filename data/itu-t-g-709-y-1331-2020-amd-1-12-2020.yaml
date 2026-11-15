@@ -47,16 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical
-    transport network (OTN) interface signals of the optical transport network, in
-    terms of: \r\n\r\n– OTN hierarchy \r\n\r\n– functionality of the overhead in support
-    of multi-wavelength optical networks \r\n\r\n– frame structures \r\n\r\n– bit
-    rates \r\n\r\n– formats for mapping client signals. \r\n\r\nEdition 6.1 of this
-    Recommendation includes the addition of tables with GCC bit rates, enhancements
-    to the description of OTUCn-M behaviour, addition of an appendix that describes
-    the implications on fault management for the case that the OTSiG (de)modulator
-    process and associated OTSiG-O|OCh-O_TT function are located in adjacent equipment,
-    and several typographical/editorial corrections. \r\n"
+  content: "Recommendation ITU-T G.709/Y.1331 defines the requirements for the optical transport network (OTN) interface signals of the optical transport network, in terms of: \r\n\r\n– OTN hierarchy \r\n\r\n– functionality of the overhead in support of multi-wavelength optical networks \r\n\r\n– frame structures \r\n\r\n– bit rates \r\n\r\n– formats for mapping client signals. \r\n\r\nEdition 6.1 of this Recommendation includes the addition of tables with GCC bit rates, enhancements to the description of OTUCn-M behaviour, addition of an appendix that describes the implications on fault management for the case that the OTSiG (de)modulator process and associated OTSiG-O|OCh-O_TT function are located in adjacent equipment, and several typographical/editorial corrections. \r\n"
 status:
   stage:
     content: Published

@@ -53,22 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8110.1/Y.1370.1 provides functional components,
-    based on Recommendation ITU T G.805, that allow the Multi Protocol Label Switching
-    Transport Profile (MPLS TP) to be modelled in a way that is consistent with the
-    description of other transport technologies defined by the ITU T, (e.g., the synchronous
-    digital hierarchy (SDH) and the optical transport network (OTN)), to simplify
-    integration with other transport technologies.\r\nThis Recommendation provides
-    a representation of the MPLS-TP technology using the methodologies that have been
-    used for other transport technologies (e.g., SDH, OTN and Ethernet).\r\nNOTE –
-    This ITU-T Recommendation is intended to be aligned with the IETF MPLS RFCs normatively
-    referenced by this Recommendation.\r\nIn this Recommendation the architecture
-    of MPLS-TP forwarding, operation, administration and maintenance (OAM), and network
-    survivability is modelled from a network-level viewpoint. The description of the
-    control plane and management plane aspects of MPLS-TP is outside the scope of
-    this Recommendation.\r\nThe functional components described in this Recommendation
-    also support the architecture for point-to-multipoint (p2mp) MPLS-TP label switched
-    paths (LSPs), in compliance with IETF RFC 5331 and IETF RFC 5332.\r\n"
+  content: "Recommendation ITU-T G.8110.1/Y.1370.1 provides functional components, based on Recommendation ITU T G.805, that allow the Multi Protocol Label Switching Transport Profile (MPLS TP) to be modelled in a way that is consistent with the description of other transport technologies defined by the ITU T, (e.g., the synchronous digital hierarchy (SDH) and the optical transport network (OTN)), to simplify integration with other transport technologies.\r\nThis Recommendation provides a representation of the MPLS-TP technology using the methodologies that have been used for other transport technologies (e.g., SDH, OTN and Ethernet).\r\nNOTE – This ITU-T Recommendation is intended to be aligned with the IETF MPLS RFCs normatively referenced by this Recommendation.\r\nIn this Recommendation the architecture of MPLS-TP forwarding, operation, administration and maintenance (OAM), and network survivability is modelled from a network-level viewpoint. The description of the control plane and management plane aspects of MPLS-TP is outside the scope of this Recommendation.\r\nThe functional components described in this Recommendation also support the architecture for point-to-multipoint (p2mp) MPLS-TP label switched paths (LSPs), in compliance with IETF RFC 5331 and IETF RFC 5332.\r\n"
 status:
   stage:
     content: Published

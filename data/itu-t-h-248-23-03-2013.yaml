@@ -52,11 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.23 defines two packages that provide enhanced
-    alerting and data transfer capabilities for Recommendation ITU-T H.248.1. \r\nThis
-    revision includes updated procedures that discuss how to handle race conditions
-    when the dwa signal is used. A clarification is added to the pattern parameter
-    as to what signal should be used.\r\n"
+  content: "Recommendation ITU-T H.248.23 defines two packages that provide enhanced alerting and data transfer capabilities for Recommendation ITU-T H.248.1. \r\nThis revision includes updated procedures that discuss how to handle race conditions when the dwa signal is used. A clarification is added to the pattern parameter as to what signal should be used.\r\n"
 status:
   stage:
     content: Published

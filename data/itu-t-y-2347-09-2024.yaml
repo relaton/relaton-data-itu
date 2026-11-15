@@ -53,13 +53,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.2347 provides the overview and scenarios of network
+  content: 'Recommendation ITU-T Y.2347 provides the overview and scenarios of network
     and cloud interworking of the next generation network evolution (NGNe) and specifies
     the general requirements and capabilities of the NGNe. The network and cloud interworking
     refers to the use of the network to connect user sites and cloud resource pools.
     Network and cloud interworking focuses on the coordination and connection between
     network and cloud, rather than the operation or management of scheduling in-cloud
-    resources.\r\n"
+    resources.
+    '
 status:
   stage:
     content: Published
@@ -100,8 +101,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in
-        next generation networks
+      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems
+        in next generation networks
     docidentifier:
     - content: Y Suppl. 6 (09/2008)
       type: ITU
@@ -121,8 +122,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and
-        consortia
+      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums
+        and consortia
     docidentifier:
     - content: Y Suppl. 8 (01/2010)
       type: ITU
@@ -218,7 +219,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -239,8 +240,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU
@@ -282,8 +282,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2300-series – Use cases of network resource sharing based on
-        distributed ledger technology for supporting large-scale deep learning models
+      content: ITU-T Y.2300-series – Use cases of network resource sharing based
+        on distributed ledger technology for supporting large-scale deep learning
+        models
     docidentifier:
     - content: Y Suppl. 94 (11/2025)
       type: ITU

@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "To provide better support for energy applications such as carbon emission
+  content: 'To provide better support for energy applications such as carbon emission
     and green certificates based on trustworthy energy metering data, Recommendation
     ITU-T F.751.18 specifies a framework for distributed ledger technology (DLT)-based
     energy metering data sharing and it provides functional modules of the DLT-based
-    energy metering data sharing platform.\r\n"
+    energy metering data sharing platform.
+    '
 status:
   stage:
     content: Published

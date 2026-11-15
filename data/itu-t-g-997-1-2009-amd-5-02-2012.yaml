@@ -47,10 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 5 to Recommendation ITU-T G.997.1 (2009) contains the following
-    additions:\r\n– New parameters for the control and reporting of the ATTNDR.\r\n–
-    New parameters for the reporting of the aggregate achievable net data rate.\r\n–
-    Modify MDOSPLIT to take into account the extension of MAXDELAYOCTET"
+  content: "Amendment 5 to Recommendation ITU-T G.997.1 (2009) contains the following additions:\r\n– New parameters for the control and reporting of the ATTNDR.\r\n– New parameters for the reporting of the aggregate achievable net data rate.\r\n– Modify MDOSPLIT to take into account the extension of MAXDELAYOCTET"
 status:
   stage:
     content: Withdrawal

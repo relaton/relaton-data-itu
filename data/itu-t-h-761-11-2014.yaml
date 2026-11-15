@@ -50,14 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.761 gives the specification of the nested context
-    language (NCL) and of an NCL presentation environment called Ginga-NCL to provide
-    interoperability and harmonization among Internet protocol television (IPTV) multimedia
-    application frameworks.\r\nNCL is a declarative glue language that holds media
-    object presentations synchronized in time and space, no matter the types of the
-    media objects. Ginga-NCL is an NCL presentation engine built as a component of
-    a digital television (DTV) middleware. \r\nThis Recommendation includes an electronic
-    attachment containing NCL 3.1 module schemas used in the enhanced DTV profile.\r\n"
+  content: "Recommendation ITU-T H.761 gives the specification of the nested context language (NCL) and of an NCL presentation environment called Ginga-NCL to provide interoperability and harmonization among Internet protocol television (IPTV) multimedia application frameworks.\r\nNCL is a declarative glue language that holds media object presentations synchronized in time and space, no matter the types of the media objects. Ginga-NCL is an NCL presentation engine built as a component of a digital television (DTV) middleware. \r\nThis Recommendation includes an electronic attachment containing NCL 3.1 module schemas used in the enhanced DTV profile.\r\n"
 status:
   stage:
     content: Published

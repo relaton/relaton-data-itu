@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.798.3 specifies both the components and the methodology
+  content: 'Recommendation ITU-T G.798.3 specifies both the components and the methodology
     that should be used to specify the optical transport network (OTN) functionality
     of network elements related to the optical transmission unit (OTU) and optical
     data unit (ODU) layers; it does not specify individual optical transport network
-    equipment.\r\n"
+    equipment.
+    '
 status:
   stage:
     content: Published

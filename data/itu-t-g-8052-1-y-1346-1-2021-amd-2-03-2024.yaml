@@ -47,10 +47,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to Recommendation ITU-T G.8052.1/Y.1346.1 (2021) updates the
+  content: 'Amendment 2 to Recommendation ITU-T G.8052.1/Y.1346.1 (2021) updates the
     UML model to support PM threshold profiling, configuration of degrade defect detection,
     bandwidth notification and CSF OAM functions and to clarify the behaviour of the
-    measurement jobs.\r\n"
+    measurement jobs.
+    '
 status:
   stage:
     content: Withdrawal

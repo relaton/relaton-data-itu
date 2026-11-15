@@ -53,18 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies resistibility requirements and test procedures
-    for telecommunication equipment which is installed in a Telecommunication Centre.Overvoltages
-    or overcurrents covered by this Recommendation include surges due to lightning
-    on or near the line plant, short-term induction from adjacent a.c. power lines
-    or railway systems, earth potential rise due to power faults, direct contacts
-    between telecommunication lines and power lines and electrostatic discharges.
-    The sources for overvoltages in internal lines, between equipment/racks, are mainly
-    inductive coupling caused by lightning currents being conducted in nearby lightning
-    strokes or lightning currents being conducted in nearby conductors.Major changes
-    compared with the 2000 version of this Recommendation include:\r• replacing the
-    longitudinal test with a port to earth test;\r• the introduction of an external
-    port to port test;\r• adding the internal port requirements from ITU-T Rec. K.41."
+  content: "This Recommendation specifies resistibility requirements and test procedures for telecommunication equipment which is installed in a Telecommunication Centre.Overvoltages or overcurrents covered by this Recommendation include surges due to lightning on or near the line plant, short-term induction from adjacent a.c. power lines or railway systems, earth potential rise due to power faults, direct contacts between telecommunication lines and power lines and electrostatic discharges. The sources for overvoltages in internal lines, between equipment/racks, are mainly inductive coupling caused by lightning currents being conducted in nearby lightning strokes or lightning currents being conducted in nearby conductors.Major changes compared with the 2000 version of this Recommendation include:\r• replacing the longitudinal test with a port to earth test;\r• the introduction of an external port to port test;\r• adding the internal port requirements from ITU-T Rec. K.41."
 status:
   stage:
     content: Withdrawal
@@ -357,8 +346,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge testing
-        factors
+      content: ITU-T K.20, K.21 and K.44 – Internal DC powering interface surge
+        testing factors
     docidentifier:
     - content: K Suppl. 15 (09/2018)
       type: ITU
@@ -388,8 +377,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.20 – Rationale for setting resistibility requirements of telecommunication
-        equipment installed in a telecommunication centre against lightning
+      content: ITU-T K.20 – Rationale for setting resistibility requirements of
+        telecommunication equipment installed in a telecommunication centre against
+        lightning
     docidentifier:
     - content: K Suppl. 24 (07/2022)
       type: ITU

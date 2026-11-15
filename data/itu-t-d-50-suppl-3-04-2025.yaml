@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Supplement 3 to Recommendation ITU-T D.50 provides a set of methods or
+  content: 'Supplement 3 to Recommendation ITU-T D.50 provides a set of methods or
     guidelines aiming to reduce the cost of international Internet connectivity (IIC)
     within the framework of the Central African Backbone (CAB) project, implemented
-    by the Economic and Monetary Community of Central Africa (CEMAC).\r\n"
+    by the Economic and Monetary Community of Central Africa (CEMAC).
+    '
 status:
   stage:
     content: Published
@@ -118,8 +119,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: New Appendix I – General considerations for charging criteria and options
-        for international Internet connectivity
+      content: New Appendix I – General considerations for charging criteria and
+        options for international Internet connectivity
     docidentifier:
     - content: D.50 (2000) Amd. 1 (06/2004)
       type: ITU

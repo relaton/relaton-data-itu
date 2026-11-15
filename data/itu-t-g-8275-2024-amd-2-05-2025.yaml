@@ -47,12 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITUT G.8275 describes the architecture and requirements
-    for packet-based time and phase distribution in telecom networks. The architecture
-    described is mainly applicable to the use of IEEE 1588. Details necessary to utilize
-    IEEE 1588 in a manner consistent with the architecture are defined in other Recommendations.\r\nAmendment
-    2 incorporates the following updates:\r\n1)Updates Annex F for performance monitoring.\r\n2)Updates
-    Appendix XIII for precision time protocol (PTP) security.\r\n"
+  content: "Recommendation ITUT G.8275 describes the architecture and requirements for packet-based time and phase distribution in telecom networks. The architecture described is mainly applicable to the use of IEEE 1588. Details necessary to utilize IEEE 1588 in a manner consistent with the architecture are defined in other Recommendations.\r\nAmendment 2 incorporates the following updates:\r\n1)Updates Annex F for performance monitoring.\r\n2)Updates Appendix XIII for precision time protocol (PTP) security.\r\n"
 status:
   stage:
     content: Withdrawal

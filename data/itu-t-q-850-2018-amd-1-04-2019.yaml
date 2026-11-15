@@ -47,17 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.850 defines the format, encoding and semantics
-    of cause in­formation elements/parameters and the usage of the location field,
-    in the Digital Subscriber Signalling System No. 1 and the Signalling System No.
-    7 ISDN User Part. Many cause values are applicable to both DSS 1 and SS No. 7
-    ISUP and this Recommendation specifies the use of each cause value in other Recommendations.\r\n\r\nAmendment
-    1 incorporates modifications that had been involuntarily omitted during the approval
-    of revised Recommendation ITU-T Q.850 in 2018. Amendment 1 and Addendum 1, issued
-    in 2001 and 2000 respectively, had not been incorporated in the final text of
-    the Recommendation.\r\n\r\nThis amendment:\r\n\r\n–           Adds a reference
-    to clause 2\r\n\r\n–           Adds case values to Table 1\r\n\r\n–           Adds
-    clauses 6.2.7.1.10 bis and 6.2.7.1.18 bis"
+  content: "Recommendation ITU-T Q.850 defines the format, encoding and semantics of cause in­formation elements/parameters and the usage of the location field, in the Digital Subscriber Signalling System No. 1 and the Signalling System No. 7 ISDN User Part. Many cause values are applicable to both DSS 1 and SS No. 7 ISUP and this Recommendation specifies the use of each cause value in other Recommendations.\r\n\r\nAmendment 1 incorporates modifications that had been involuntarily omitted during the approval of revised Recommendation ITU-T Q.850 in 2018. Amendment 1 and Addendum 1, issued in 2001 and 2000 respectively, had not been incorporated in the final text of the Recommendation.\r\n\r\nThis amendment:\r\n\r\n–           Adds a reference to clause 2\r\n\r\n–           Adds case values to Table 1\r\n\r\n–           Adds clauses 6.2.7.1.10 bis and 6.2.7.1.18 bis"
 status:
   stage:
     content: Published
@@ -364,9 +354,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -376,8 +366,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

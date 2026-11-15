@@ -52,18 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITUT G.872 describes the functional architecture of the
-    optical transport network (OTN) using the modelling methodology described in Recommendations
-    ITUT G.800, ITUT G.805 and ITUT G.807. OTN functionality is described from a network
-    level viewpoint, considering the characteristic information of OTN clients, client/server
-    layer associations, networking topology, layer network functionality and optical
-    media network structure, which provide multiplexing, routing and supervision of
-    digital clients. The digital layers of the OTN use the frame formats defined in
-    ITUT G.709. The media portion of the network is described in terms of media constructs,
-    media elements and optical signal maintenance entities.\r\nRevision 6.0 adds description
-    of fine grain OTN (fgOTN). The description of a flexible optical transport network
-    (FlexO) is enhanced to reflect additional functionality in the 2024 series of
-    ITUT G.709.x Recommendations.\r\n"
+  content: "Recommendation ITUT G.872 describes the functional architecture of the optical transport network (OTN) using the modelling methodology described in Recommendations ITUT G.800, ITUT G.805 and ITUT G.807. OTN functionality is described from a network level viewpoint, considering the characteristic information of OTN clients, client/server layer associations, networking topology, layer network functionality and optical media network structure, which provide multiplexing, routing and supervision of digital clients. The digital layers of the OTN use the frame formats defined in ITUT G.709. The media portion of the network is described in terms of media constructs, media elements and optical signal maintenance entities.\r\nRevision 6.0 adds description of fine grain OTN (fgOTN). The description of a flexible optical transport network (FlexO) is enhanced to reflect additional functionality in the 2024 series of ITUT G.709.x Recommendations.\r\n"
 status:
   stage:
     content: Published

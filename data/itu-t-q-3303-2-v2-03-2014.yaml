@@ -5,8 +5,8 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: 'Resource control protocol No. 3 – Protocol at the interface between a
-    policy decision physical entity (PD-PE) and a policy enforcement physical entity
+  content: 'Resource control protocol No. 3 – Protocol at the interface between
+    a policy decision physical entity (PD-PE) and a policy enforcement physical entity
     (PE-PE) (Rw interface): ITU-T H.248 alternative version 2'
   type: main
 source:
@@ -54,25 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.3303.2 specifies the resource control protocol
-    No. 3 (rcp3) ITU-T H.248 profile used at the Rw interface, i.e., between the policy
-    decision physical entity (PD-PE) and the policy enforcement physical entity (PE-PE)
-    in the resource and admission control functional block.\r\nThis protocol profile
-    allows the final admission policy decisions to be installed (either push or pull
-    mode) to a PE-PE from a PD-PE, supports resource control for both fixed and mobile
-    networks and supports the network address and port translation (NAPT) control
-    and network address translation (NAT) traversal at the PE-PEs as needed. It satisfies
-    the requirements for information flows across the Rw reference point as specified
-    in clause 8.2 of Recommendation ITU-T Y.2111. It is also used to control the PE-PE
-    in transport devices, including quality of service (QoS) resource control (e.g., packet
-    marking, filtering and policing) and gate control.\r\nThis version of the Recommendation
-    improves the published version 1 in 2007 and adds additional features to satisfy
-    the full requirements as defined in Recommendation ITU-T Y.2111, based on the
-    developments and progresses of both ITU-T Y.2111 and ITU-T H.248 protocols. New
-    functional packages as well as their procedures are introduced in this version
-    such as \"hanging termination detection\", \"statistics conditional reporting\",
-    \"IP realm availability\" and \"Pull mode\". Meanwhile, a number of changes are
-    made to refine the profile definitions and the details."
+  content: "Recommendation ITU-T Q.3303.2 specifies the resource control protocol No. 3 (rcp3) ITU-T H.248 profile used at the Rw interface, i.e., between the policy decision physical entity (PD-PE) and the policy enforcement physical entity (PE-PE) in the resource and admission control functional block.\r\nThis protocol profile allows the final admission policy decisions to be installed (either push or pull mode) to a PE-PE from a PD-PE, supports resource control for both fixed and mobile networks and supports the network address and port translation (NAPT) control and network address translation (NAT) traversal at the PE-PEs as needed. It satisfies the requirements for information flows across the Rw reference point as specified in clause 8.2 of Recommendation ITU-T Y.2111. It is also used to control the PE-PE in transport devices, including quality of service (QoS) resource control (e.g., packet marking, filtering and policing) and gate control.\r\nThis version of the Recommendation improves the published version 1 in 2007 and adds additional features to satisfy the full requirements as defined in Recommendation ITU-T Y.2111, based on the developments and progresses of both ITU-T Y.2111 and ITU-T H.248 protocols. New functional packages as well as their procedures are introduced in this version such as \"hanging termination detection\", \"statistics conditional reporting\", \"IP realm availability\" and \"Pull mode\". Meanwhile, a number of changes are made to refine the profile definitions and the details."
 status:
   stage:
     content: Published
@@ -342,9 +324,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -354,8 +336,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

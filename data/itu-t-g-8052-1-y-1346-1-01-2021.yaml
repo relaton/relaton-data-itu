@@ -53,24 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8052.1/Y.1346 specifies the management information
-    model and data models for Ethernet transport network element (NE) to support specific
-    interface protocols and specific management control (MC) functions. The information
-    model is interface protocol neutral and specified using the unified modelling
-    language (UML). The information model of this Recommendation is derived through
-    pruning and refactoring from Recommendation ITU-T G.7711/Y.1702 core information
-    model and Recommendation [ITU-T G.8052/Y.1346] foundation Ethernet transport NE
-    information model. The data models are interface protocol specific and translated
-    from the information model with the assistance of automated translation tooling.
-    The specific data models considered in this Recommendation include, but are not
-    limited to, YANG data models. The specific MC functions covered by this Recommendation
-    are the ITU-T defined Ethernet operation, administration, and maintenance (OAM)
-    functions, with the set of op codes assigned to the ITU-T and the corresponding
-    OAM protocol data units (PDU) and behaviours specified in Recommendation ITU-T
-    G.8013/Y.1731 and the equipment characteristics in ITU-T G.8021/Y.1341. These
-    OAM functions complement the IEEE 802.1 defined connectivity fault management
-    (CFM) functions; and the YANG module defined in this Recommendation augments the
-    IEEE 802.1Q CFM YANG module. \r\n"
+  content: "Recommendation ITU-T G.8052.1/Y.1346 specifies the management information model and data models for Ethernet transport network element (NE) to support specific interface protocols and specific management control (MC) functions. The information model is interface protocol neutral and specified using the unified modelling language (UML). The information model of this Recommendation is derived through pruning and refactoring from Recommendation ITU-T G.7711/Y.1702 core information model and Recommendation [ITU-T G.8052/Y.1346] foundation Ethernet transport NE information model. The data models are interface protocol specific and translated from the information model with the assistance of automated translation tooling. The specific data models considered in this Recommendation include, but are not limited to, YANG data models. The specific MC functions covered by this Recommendation are the ITU-T defined Ethernet operation, administration, and maintenance (OAM) functions, with the set of op codes assigned to the ITU-T and the corresponding OAM protocol data units (PDU) and behaviours specified in Recommendation ITU-T G.8013/Y.1731 and the equipment characteristics in ITU-T G.8021/Y.1341. These OAM functions complement the IEEE 802.1 defined connectivity fault management (CFM) functions; and the YANG module defined in this Recommendation augments the IEEE 802.1Q CFM YANG module. \r\n"
 status:
   stage:
     content: Withdrawal

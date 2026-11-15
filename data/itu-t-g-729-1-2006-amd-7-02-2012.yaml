@@ -50,14 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "New Annex F introduced by Ammendment 7 of ITU-T G.729.1 describes the
-    voice activity detector (VAD) to be used together with the DTX/CNG scheme of Annex
-    C to provide the complete functionality of an ITU-T G.729.1 discontinuous transmission
-    system. Since the VAD algorithm described in Annex F is the same as in ITU-T G.720.1
-    Annex A, this annex makes reference to ITU‑T G.720.1 Annex A for the parts of
-    the description that are identical to the original Recommendation.\r\nThe ANSI
-    C source code in the electronic attachment to this text is an integral part of
-    Annex F.\r\n"
+  content: "New Annex F introduced by Ammendment 7 of ITU-T G.729.1 describes the voice activity detector (VAD) to be used together with the DTX/CNG scheme of Annex C to provide the complete functionality of an ITU-T G.729.1 discontinuous transmission system. Since the VAD algorithm described in Annex F is the same as in ITU-T G.720.1 Annex A, this annex makes reference to ITU‑T G.720.1 Annex A for the parts of the description that are identical to the original Recommendation.\r\nThe ANSI C source code in the electronic attachment to this text is an integral part of Annex F.\r\n"
 status:
   stage:
     content: Published

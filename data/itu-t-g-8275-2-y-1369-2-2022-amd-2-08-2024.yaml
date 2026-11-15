@@ -47,19 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 provides the following updates:\r\n•Added text to clause 6.3.2
-    on the use of twoStepFlag in [IEEE 1588-2008] vs. [IEEE 15882019] based implementations.\r\n•Added
-    clause 6.7.12 on \"wait-to-restore time\" and portDS.wtrState.\r\n•Added \"portDS.twoStepFlag\"
-    to Table A.5.\r\n•Replaced the word \"synchronizing\" with \"locked\" in Annex
-    F.\r\n•Replaced \"timeTransmitter\" with \"Telecom-Grandmaster\" in Appendix V.\r\n•\"Data
-    set comparison algorithm\" with references to [IEEE 1588] on defaultDS.timeReceiverOnly,
-    portDS.timeTransmitterOnly, and portDS.notTimeTransmitter.\r\n•Added a note to
-    \"Table 3 – Applicable clockClass values\" on T-BC-A holdover\r\n•Added performance
-    monitoring Annex F of [ITU-T G.8275] as an optional feature of this profile\r\n•Clarified
-    defaultDS.deviceType with a note added to Table A.1\r\n•Revised terminology based
-    on inclusive language\r\n•Added clause 6.10 on \"Dataset member for PTP clockMode\".\r\n•Added
-    clause 6.11 on \"Dataset member for PTP nodeClass\".\r\n•Added new data set members
-    and deleted not used data set members in Annex A.2.\r\n"
+  content: "Amendment 2 provides the following updates:\r\n•Added text to clause 6.3.2 on the use of twoStepFlag in [IEEE 1588-2008] vs. [IEEE 15882019] based implementations.\r\n•Added clause 6.7.12 on \"wait-to-restore time\" and portDS.wtrState.\r\n•Added \"portDS.twoStepFlag\" to Table A.5.\r\n•Replaced the word \"synchronizing\" with \"locked\" in Annex F.\r\n•Replaced \"timeTransmitter\" with \"Telecom-Grandmaster\" in Appendix V.\r\n•\"Data set comparison algorithm\" with references to [IEEE 1588] on defaultDS.timeReceiverOnly, portDS.timeTransmitterOnly, and portDS.notTimeTransmitter.\r\n•Added a note to \"Table 3 – Applicable clockClass values\" on T-BC-A holdover\r\n•Added performance monitoring Annex F of [ITU-T G.8275] as an optional feature of this profile\r\n•Clarified defaultDS.deviceType with a note added to Table A.1\r\n•Revised terminology based on inclusive language\r\n•Added clause 6.10 on \"Dataset member for PTP clockMode\".\r\n•Added clause 6.11 on \"Dataset member for PTP nodeClass\".\r\n•Added new data set members and deleted not used data set members in Annex A.2.\r\n"
 status:
   stage:
     content: Withdrawal

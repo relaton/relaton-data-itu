@@ -53,55 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes Asymmetrical Digital Subscriber Line (ADSL)
-    transceivers on a metallic twisted pair that allows high speed data transmission
-    between the network operator end (ATU C) and the customer end (ATU R), using extended
-    bandwidth. This Recommendation defines a variety of frame bearers in conjunction
-    with one of two other services or without underlying service, dependent on the
-    environment:\r\n1)\tADSL transmission simultaneously on the same pair with voiceband
-    service;\r\n2)\tADSL transmission simultaneously on the same pair with ISDN (see
-    Appendix I or II/G.961 [1]) services;\r\n3)\tADSL transmission without underlying
-    service, optimized for deployment with ADSL over voiceband service in the same
-    binder cable.\r\nADSL transmission on the same pair with voiceband services and
-    operating in an environment with TCM ISDN (see Appendix III/G.961 [1]) services
-    in an adjacent pair, is for further study.\r\nADSL transmission without underlying
-    service, optimized for deployment with ADSL over ISDN service in the same binder
-    cable, is for further study.\r\nADSL transmission with extended upstream bandwidth,
-    simultaneously on the same pair with voiceband service, is for further study.\r\nThis
-    Recommendation specifies the physical layer characteristics of the extended bandwidth
-    Asymmetrical Digital Subscriber Line (ADSL) interface to metallic loops. As compared
-    to the ADSL2 transceiver defined in ITU T Rec. G.992.3 [5], the operating modes
-    use double the downstream bandwidth. When operating on the same pair with voice
-    band services, an additional operating mode is defined, also using the double
-    upstream bandwidth.\r\nThis Recommendation has been written to help ensure the
-    proper interfacing and interworking of ADSL transmission units at the customer
-    end (ATU R) and at the network operator end (ATU C) and also to define the transport
-    capability of the units. Proper operation shall be ensured when these two units
-    are manufactured and provided independently. A single twisted pair of telephone
-    wires is used to connect the ATU C to the ATU R. The ADSL transmission units must
-    deal with a variety of wire pair characteristics and typical impairments (e.g.,
-    crosstalk and noise).\r\nAn extended bandwidth ADSL transmission unit (ADSL2+
-    transceiver) can simultaneously convey all of the following: a number of downstream
-    frame bearers, a number of upstream frame bearers, a baseband POTS/ISDN duplex
-    channel, and ADSL line overhead for framing, error control, operations, and maintenance.
-    Systems support a net data rate ranging up to a minimum of 16 Mbit/s downstream
-    and 800 kbit/s upstream. Support of net data rates above 16 Mbit/s downstream
-    and support of net data rates above 800 kbit/s upstream are optional.\r\nThis
-    Recommendation includes mandatory requirements, recommendations and options; these
-    are designated by the words shall\", \"should\" and \"may\" respectively. The
-    word \"will\" is used only to designate events that take place under some defined
-    set of circumstances. This Recommendation is written as a delta Recommendation
-    relative to ITU T Rec. G.992.3. For the clauses which have been changed, this
-    Recommendation contains complete replacement text (unless explicitly indicated).
-    For the clauses which have not been changed, this Recommendation contains only
-    the clause heading, with reference to ITU T Rec. G.992.3.\r\nThis Recommendation
-    defines several optional capabilities and features:\r\n–\ttransport of STM and/or
-    ATM and/or packets;\r\n–\ttransport of a network timing reference;\r\n–\tmultiple
-    latency paths;\r\n–\tmultiple frame bearers;\r\n–\tshort initialization procedure;\r\n–\tdynamic
-    rate repartitioning;\r\n–\tseamless rate adaptation.\r\nIt is the intention of
-    this Recommendation to provide, by negotiation during initialization, for U interface
-    compatibility and interoperability between transceivers complying with this Recommendation
-    and between transceivers that include different combinations of options."
+  content: "This Recommendation describes Asymmetrical Digital Subscriber Line (ADSL) transceivers on a metallic twisted pair that allows high speed data transmission between the network operator end (ATU C) and the customer end (ATU R), using extended bandwidth. This Recommendation defines a variety of frame bearers in conjunction with one of two other services or without underlying service, dependent on the environment:\r\n1)\tADSL transmission simultaneously on the same pair with voiceband service;\r\n2)\tADSL transmission simultaneously on the same pair with ISDN (see Appendix I or II/G.961 [1]) services;\r\n3)\tADSL transmission without underlying service, optimized for deployment with ADSL over voiceband service in the same binder cable.\r\nADSL transmission on the same pair with voiceband services and operating in an environment with TCM ISDN (see Appendix III/G.961 [1]) services in an adjacent pair, is for further study.\r\nADSL transmission without underlying service, optimized for deployment with ADSL over ISDN service in the same binder cable, is for further study.\r\nADSL transmission with extended upstream bandwidth, simultaneously on the same pair with voiceband service, is for further study.\r\nThis Recommendation specifies the physical layer characteristics of the extended bandwidth Asymmetrical Digital Subscriber Line (ADSL) interface to metallic loops. As compared to the ADSL2 transceiver defined in ITU T Rec. G.992.3 [5], the operating modes use double the downstream bandwidth. When operating on the same pair with voice band services, an additional operating mode is defined, also using the double upstream bandwidth.\r\nThis Recommendation has been written to help ensure the proper interfacing and interworking of ADSL transmission units at the customer end (ATU R) and at the network operator end (ATU C) and also to define the transport capability of the units. Proper operation shall be ensured when these two units are manufactured and provided independently. A single twisted pair of telephone wires is used to connect the ATU C to the ATU R. The ADSL transmission units must deal with a variety of wire pair characteristics and typical impairments (e.g., crosstalk and noise).\r\nAn extended bandwidth ADSL transmission unit (ADSL2+ transceiver) can simultaneously convey all of the following: a number of downstream frame bearers, a number of upstream frame bearers, a baseband POTS/ISDN duplex channel, and ADSL line overhead for framing, error control, operations, and maintenance. Systems support a net data rate ranging up to a minimum of 16 Mbit/s downstream and 800 kbit/s upstream. Support of net data rates above 16 Mbit/s downstream and support of net data rates above 800 kbit/s upstream are optional.\r\nThis Recommendation includes mandatory requirements, recommendations and options; these are designated by the words shall\", \"should\" and \"may\" respectively. The word \"will\" is used only to designate events that take place under some defined set of circumstances. This Recommendation is written as a delta Recommendation relative to ITU T Rec. G.992.3. For the clauses which have been changed, this Recommendation contains complete replacement text (unless explicitly indicated). For the clauses which have not been changed, this Recommendation contains only the clause heading, with reference to ITU T Rec. G.992.3.\r\nThis Recommendation defines several optional capabilities and features:\r\n–\ttransport of STM and/or ATM and/or packets;\r\n–\ttransport of a network timing reference;\r\n–\tmultiple latency paths;\r\n–\tmultiple frame bearers;\r\n–\tshort initialization procedure;\r\n–\tdynamic rate repartitioning;\r\n–\tseamless rate adaptation.\r\nIt is the intention of this Recommendation to provide, by negotiation during initialization, for U interface compatibility and interoperability between transceivers complying with this Recommendation and between transceivers that include different combinations of options."
 status:
   stage:
     content: Withdrawal
@@ -184,8 +136,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Asymmetric digital subscriber line (ADSL) transceivers – Extended bandwidth
-        ADSL2 (ADSL2plus)
+      content: Asymmetric digital subscriber line (ADSL) transceivers – Extended
+        bandwidth ADSL2 (ADSL2plus)
     docidentifier:
     - content: G.992.5 (01/2005)
       type: ITU

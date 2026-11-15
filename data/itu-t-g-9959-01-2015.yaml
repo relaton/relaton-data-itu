@@ -53,12 +53,13 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9959 specifies the physical (PHY), medium access
+  content: 'Recommendation ITU-T G.9959 specifies the physical (PHY), medium access
     control (MAC), segmentation and reassembly (SAR), and logical link control (LLC)
     layers for short range narrow‑band digital radiocommunication transceivers (TRXs).
     This Recommendation contains the non-radio (frequency) related aspects of the
     radiocommunication TRX. Sub 1 GHz TRXs claiming compliance with this specification
-    shall also comply with Annex A of this Recommendation.\r\n"
+    shall also comply with Annex A of this Recommendation.
+    '
 status:
   stage:
     content: Published
@@ -86,8 +87,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Short range narrow-band digital radiocommunication transceivers – PHY
-        and MAC layer specifications
+      content: Short range narrow-band digital radiocommunication transceivers –
+        PHY and MAC layer specifications
     docidentifier:
     - content: G.9959 (02/2012)
       type: ITU

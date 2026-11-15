@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation describes the procedures and the signalling protocol
-    for the Call Offering supplementary service in H.323 (Packet Based Multimedia
-    Communications Systems) networks.\r\nThe Call Offer supplementary service (SS-CO)
-    enables a calling user A, encountering a busy destination user B, to \"camp-on\"
-    to the busy user. This means that the call is indicated to user B and kept in
-    a waiting state until user B reacts to the indication, rather than being released
-    due to the busy condition.\r\n\r\nThis Recommendation makes use of the \"Generic
-    functional protocol for the support of supplementary services in H.323\" as defined
-    in ITU-T H.450.1.\r\n\r\nThe support of ITU-T H.450.6 Call Waiting Supplementary
-    Service for H.323 is required for SS-CO.\r\n\r\nThis Recommendation requires H.323
-    version 2 (1998) or later. Version 2 products can be identified by H.225.0 messages
-    containing a protocolIdentifier= {itu-t (0) recommendation (0) h (8) 2250 version
-    (0) 2} and H.245 messages containing a protocolIdentifier= {itu-t (0) recommendation
-    (0) h (8) 245 version (0) x}, where \"x\" is 3 or higher.\r\n\r\nThe procedures
-    and the signalling protocol of this Recommendation are derived from the Call Offering
-    supplementary service specified in ISO/IEC 14841 and ISO/IEC 14843. "
+  content: "This Recommendation describes the procedures and the signalling protocol for the Call Offering supplementary service in H.323 (Packet Based Multimedia Communications Systems) networks.\r\nThe Call Offer supplementary service (SS-CO) enables a calling user A, encountering a busy destination user B, to \"camp-on\" to the busy user. This means that the call is indicated to user B and kept in a waiting state until user B reacts to the indication, rather than being released due to the busy condition.\r\n\r\nThis Recommendation makes use of the \"Generic functional protocol for the support of supplementary services in H.323\" as defined in ITU-T H.450.1.\r\n\r\nThe support of ITU-T H.450.6 Call Waiting Supplementary Service for H.323 is required for SS-CO.\r\n\r\nThis Recommendation requires H.323 version 2 (1998) or later. Version 2 products can be identified by H.225.0 messages containing a protocolIdentifier= {itu-t (0) recommendation (0) h (8) 2250 version (0) 2} and H.245 messages containing a protocolIdentifier= {itu-t (0) recommendation (0) h (8) 245 version (0) x}, where \"x\" is 3 or higher.\r\n\r\nThe procedures and the signalling protocol of this Recommendation are derived from the Call Offering supplementary service specified in ISO/IEC 14841 and ISO/IEC 14843. "
 status:
   stage:
     content: Published

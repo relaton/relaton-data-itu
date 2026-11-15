@@ -47,13 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.997.2 (2015) includes:\r\n\r\n-
-    \         New managed objects to support the test parameters of Amendment 1 to
-    Recommendation ITU-T G.9701 (2014).\r\n\r\n-          New managed objects to support
-    the low power modes of Amendment 1 to Recommendation ITU-T G.9701 (2014).\r\n\r\n-
-    \         Correct the valid range of DELAYMAXds/us.\r\n\r\n-          Clarify
-    the generation of near-end failure.\r\n\r\n-          Fix several editorial typographical
-    error.\r\n"
+  content: "Amendment 1 to Recommendation ITU-T G.997.2 (2015) includes:\r\n\r\n-          New managed objects to support the test parameters of Amendment 1 to Recommendation ITU-T G.9701 (2014).\r\n\r\n-          New managed objects to support the low power modes of Amendment 1 to Recommendation ITU-T G.9701 (2014).\r\n\r\n-          Correct the valid range of DELAYMAXds/us.\r\n\r\n-          Clarify the generation of near-end failure.\r\n\r\n-          Fix several editorial typographical error.\r\n"
 status:
   stage:
     content: Withdrawal

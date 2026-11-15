@@ -47,11 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 1 to Recommendation ITU-T G.997.1 (2012) contains the following
-    additions and changes:\r\n- \tAdditional parameter for the reporting of the actually
-    used AELE method.\r\n- \tChanges for the control of the INP of ROC.\r\n- \tAdd
-    support for changes to PSD masks of ITU-T G.993.2 Annex B.\r\n- \tAdd line status
-    parameters for ITU-T G.993.5.\r\n"
+  content: "Amendment 1 to Recommendation ITU-T G.997.1 (2012) contains the following additions and changes:\r\n- \tAdditional parameter for the reporting of the actually used AELE method.\r\n- \tChanges for the control of the INP of ROC.\r\n- \tAdd support for changes to PSD masks of ITU-T G.993.2 Annex B.\r\n- \tAdd line status parameters for ITU-T G.993.5.\r\n"
 status:
   stage:
     content: Withdrawal

@@ -52,22 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8152 contains the protocol neutral unified modelling
-    language (UML) model for multi-protocol label switching–transport profile (MPLS-TP)
-    network element (NE) management.\r\nThis Recommendation provides a representation
-    of the MPLS-TP technology using the methodologies that have been used for other
-    transport technologies (e.g., synchronous digital hierarchy, optical transport
-    network and Ethernet).\r\nThe 2018 revision of this Recommendation up-versions
-    the UML model tool to Papyrus v3.2.0 and the profile to v0.2.13, updates the model
-    to add the maintenance entity group end point (MEP) proactive measurement management
-    information (MI), MEP configuration MI and maintenance entity group intermediate
-    point (MIP) configuration MI, adds the Spec model for MPLS-TP model, replaces
-    the G.8152NetworkElement and MT_NE with MT_ConstraintDomain, and MT_SubnetworkProtectionGroup
-    specifies the FcSwitch, and MT_CrossConnection specifies the ForwardingConstruct.\r\nEdition
-    3.0 of this Recommendation updates the MPLS-TP model to prune and refactor the
-    TTP, CTP, Connectivity, Auxiliary MEP and MIP object classes from the G.7711 core
-    model object classes, and up-versions the modelling tool to Eclipse 2020-06 (4.16)
-    and Papyrus 4.8.\r\n"
+  content: "Recommendation ITU-T G.8152 contains the protocol neutral unified modelling language (UML) model for multi-protocol label switching–transport profile (MPLS-TP) network element (NE) management.\r\nThis Recommendation provides a representation of the MPLS-TP technology using the methodologies that have been used for other transport technologies (e.g., synchronous digital hierarchy, optical transport network and Ethernet).\r\nThe 2018 revision of this Recommendation up-versions the UML model tool to Papyrus v3.2.0 and the profile to v0.2.13, updates the model to add the maintenance entity group end point (MEP) proactive measurement management information (MI), MEP configuration MI and maintenance entity group intermediate point (MIP) configuration MI, adds the Spec model for MPLS-TP model, replaces the G.8152NetworkElement and MT_NE with MT_ConstraintDomain, and MT_SubnetworkProtectionGroup specifies the FcSwitch, and MT_CrossConnection specifies the ForwardingConstruct.\r\nEdition 3.0 of this Recommendation updates the MPLS-TP model to prune and refactor the TTP, CTP, Connectivity, Auxiliary MEP and MIP object classes from the G.7711 core model object classes, and up-versions the modelling tool to Eclipse 2020-06 (4.16) and Papyrus 4.8.\r\n"
 status:
   stage:
     content: Published
@@ -95,8 +80,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Protocol-neutral management information model for the MPLS-TP network
-        element"
+      content: " Protocol-neutral management information model for the MPLS-TP network element"
     docidentifier:
     - content: G.8152/Y.1375 (12/2018)
       type: ITU
@@ -106,8 +90,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Protocol-neutral management information model for the MPLS-TP network
-        element"
+      content: " Protocol-neutral management information model for the MPLS-TP network element"
     docidentifier:
     - content: G.8152/Y.1375 (12/2016)
       type: ITU

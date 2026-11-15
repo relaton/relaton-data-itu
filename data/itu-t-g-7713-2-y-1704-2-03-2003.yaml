@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation meets the requirements of ITU-T Rec. G.7713/Y.1704
-    and is functionally similar to ITU-T Recs G.7713.1/Y.1704.1 and G.7713.3/Y.1704.3.
-    This Recommendation covers the areas associated with the signalling aspects of
-    automatic switched transport network (ASTN). Specifically it provides the signalling
-    protocol based on the GMPLS RSVP-TE. This Recommendation focuses on the UNI and
-    E-NNI interface specification. While these protocol specifications are generally
-    applicable to the I-NNI as well, the I-NNI interface specification is for further
-    study. This Recommendation encompasses support for Soft Permanent Connection (SPC)
-    services. This version also includes support for Switched Connection (SC) services
-    for intra-carrier application. As such, name translation/directory services and
-    call capability sets are not included. This signalling protocol is used for the
-    communications of call controller, connection controller and link resource manager.
-    Areas covered include:\r\n–\tmessage specifications;\r\n–\tattribute specifications;\r\n–\tsignal
-    flows.\r\nThis Recommendation does not cover any aspects related to routing, or
-    automatic discovery.\r\n"
+  content: "This Recommendation meets the requirements of ITU-T Rec. G.7713/Y.1704 and is functionally similar to ITU-T Recs G.7713.1/Y.1704.1 and G.7713.3/Y.1704.3. This Recommendation covers the areas associated with the signalling aspects of automatic switched transport network (ASTN). Specifically it provides the signalling protocol based on the GMPLS RSVP-TE. This Recommendation focuses on the UNI and E-NNI interface specification. While these protocol specifications are generally applicable to the I-NNI as well, the I-NNI interface specification is for further study. This Recommendation encompasses support for Soft Permanent Connection (SPC) services. This version also includes support for Switched Connection (SC) services for intra-carrier application. As such, name translation/directory services and call capability sets are not included. This signalling protocol is used for the communications of call controller, connection controller and link resource manager. Areas covered include:\r\n–\tmessage specifications;\r\n–\tattribute specifications;\r\n–\tsignal flows.\r\nThis Recommendation does not cover any aspects related to routing, or automatic discovery.\r\n"
 status:
   stage:
     content: Published

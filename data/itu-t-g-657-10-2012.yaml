@@ -53,32 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Worldwide, technologies for broadband access networks are advancing rapidly.
-    Among these, the technology applying single-mode fibre provides for a high-capacity
-    transmission medium which can answer the growing demand for broadband services.
-    \r\nThe experience with the installation and operation of single-mode fibre and
-    cable-based networks is huge, and Recommendation ITU-T G.652 which describes its
-    characteristics has been adapted to this experience. Nevertheless, the specific
-    use in an optical access network puts different demands on the fibre and cable
-    which impacts its optimal performance characteristics. Differences with respect
-    to the use in the general transport network are mainly due to the high density
-    network of distribution and drop cables in the access network. The limited space
-    and the many manipulations ask for operator-friendly fibre performance and low
-    bending sensitivity. In addition, the cabling in the crowded telecom offices where
-    space is a limiting factor has to be improved accordingly.\r\nIt is the aim of
-    Recommendation ITU-T G.657 to support this optimization by recommending strongly
-    improved bending performance compared with the existing ITU-T G.652 single-mode
-    fibre and cables. This is done by means of two categories of single-mode fibres,
-    one of which, category A, is fully compliant with the ITU-T G.652 single-mode
-    fibres and can be deployed throughout the access network. The other, category
-    B, is not necessarily compliant with Recommendation ITU T G.652 but is capable
-    of low values of macrobending losses at very low bend radii and is intended for
-    use inside buildings or near buildings (e.g., outside building riser cabling).
-    These category B fibres are system compatible with ITU-T G.657.A (and ITU-T G.652.D)
-    fibres in access networks.\r\nThis third edition of Recommendation ITU-T G.657
-    includes several modifications in particular concerning category B fibres. Also
-    the new Appendix I (agreed in 2010 and published as Amendment 1 (06/2010)) has
-    been introduced with revisions.\r\n"
+  content: "Worldwide, technologies for broadband access networks are advancing rapidly. Among these, the technology applying single-mode fibre provides for a high-capacity transmission medium which can answer the growing demand for broadband services. \r\nThe experience with the installation and operation of single-mode fibre and cable-based networks is huge, and Recommendation ITU-T G.652 which describes its characteristics has been adapted to this experience. Nevertheless, the specific use in an optical access network puts different demands on the fibre and cable which impacts its optimal performance characteristics. Differences with respect to the use in the general transport network are mainly due to the high density network of distribution and drop cables in the access network. The limited space and the many manipulations ask for operator-friendly fibre performance and low bending sensitivity. In addition, the cabling in the crowded telecom offices where space is a limiting factor has to be improved accordingly.\r\nIt is the aim of Recommendation ITU-T G.657 to support this optimization by recommending strongly improved bending performance compared with the existing ITU-T G.652 single-mode fibre and cables. This is done by means of two categories of single-mode fibres, one of which, category A, is fully compliant with the ITU-T G.652 single-mode fibres and can be deployed throughout the access network. The other, category B, is not necessarily compliant with Recommendation ITU T G.652 but is capable of low values of macrobending losses at very low bend radii and is intended for use inside buildings or near buildings (e.g., outside building riser cabling). These category B fibres are system compatible with ITU-T G.657.A (and ITU-T G.652.D) fibres in access networks.\r\nThis third edition of Recommendation ITU-T G.657 includes several modifications in particular concerning category B fibres. Also the new Appendix I (agreed in 2010 and published as Amendment 1 (06/2010)) has been introduced with revisions.\r\n"
 status:
   stage:
     content: Withdrawal
@@ -120,8 +95,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Revised Appendix I – Lifetime expectation in case of small radius bending
-        of single-mode fibre
+      content: Revised Appendix I – Lifetime expectation in case of small radius
+        bending of single-mode fibre
     docidentifier:
     - content: G.657 (2009) Amd. 1 (06/2010)
       type: ITU

@@ -52,14 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.61 defines ITU-T H.248 packages for network
-    level statistics for the Internet Protocol. The IP layer octets count statistics
-    package is used to support explicit octet count statistics on the Internet Protocol
-    layer. The IP layer packets count statistics package is used to support explicit
-    packet count statistics on the Internet Protocol layer. The IP traffic flow of
-    an IP based ITU-T H.248 stream or termination may be either IPv4 or IPv6.\r\nThis
-    revision incorporates a clarification that the flow identifier is not limited
-    to TCP/UDP.\r\n"
+  content: "Recommendation ITU-T H.248.61 defines ITU-T H.248 packages for network level statistics for the Internet Protocol. The IP layer octets count statistics package is used to support explicit octet count statistics on the Internet Protocol layer. The IP layer packets count statistics package is used to support explicit packet count statistics on the Internet Protocol layer. The IP traffic flow of an IP based ITU-T H.248 stream or termination may be either IPv4 or IPv6.\r\nThis revision incorporates a clarification that the flow identifier is not limited to TCP/UDP.\r\n"
 status:
   stage:
     content: Published

@@ -53,9 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1291 specifies the requirements and functions of
+  content: 'Recommendation ITU-T J.1291 specifies the requirements and functions of
     the audio and video interfaces of cable set-top boxes to ensure full compatibility
-    between cable set-top boxes and TVs/monitors with the same interfaces.\r\n"
+    between cable set-top boxes and TVs/monitors with the same interfaces.
+    '
 status:
   stage:
     content: Published

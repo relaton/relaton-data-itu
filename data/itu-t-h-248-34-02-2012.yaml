@@ -52,17 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.248.34 describes a stimulus analogue line package
-    that defines new ITU‑T H.248 events, signals and parameters derived from the V5
-    PSTN protocol defined in Recommendation ITU-T G.964.\r\nTo assist both vendors
-    and operators in migrating V5 local exchange and access network nodes to a next
-    generation network (NGN) media gateway (MG) and media gateway controller (MGC)
-    architecture, the package provides guidelines for mapping the V5 PSTN protocol
-    to the \"stimulus analogue line\" package, other ITU-T H.248 packages and the
-    ITU-T H.248.1 protocol.\r\n\r\nThis revision clarifies dialling method indications,
-    implements a syntactical correction of steady state signal \"reversed polarity\"
-    (see Table 6) and corrects the V5 digit-signal information element mapping (Table
-    I.2)."
+  content: "Recommendation ITU-T H.248.34 describes a stimulus analogue line package that defines new ITU‑T H.248 events, signals and parameters derived from the V5 PSTN protocol defined in Recommendation ITU-T G.964.\r\nTo assist both vendors and operators in migrating V5 local exchange and access network nodes to a next generation network (NGN) media gateway (MG) and media gateway controller (MGC) architecture, the package provides guidelines for mapping the V5 PSTN protocol to the \"stimulus analogue line\" package, other ITU-T H.248 packages and the ITU-T H.248.1 protocol.\r\n\r\nThis revision clarifies dialling method indications, implements a syntactical correction of steady state signal \"reversed polarity\" (see Table 6) and corrects the V5 digit-signal information element mapping (Table I.2)."
 status:
   stage:
     content: Published

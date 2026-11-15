@@ -52,19 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Media service providers for different service technologies have always
-    developed independently in order to satisfy the requirements of their platform.
-    This creates various different verticals, which leads to significant drawbacks
-    and inefficiencies in terms of development. Media service providers using cloud
-    capability have to deal with specific signalling flows for providing media service
-    using an interface, which will significantly increase the complexity for the provider
-    to use different cloud infra providers. Therefore, there is a strong necessity
-    for requirements and architecture for a standard signalling convergence of different
-    cloud infra providers in future media services.\r\n\r\nRecommendation ITU-T Q.5002
-    specifies the signalling requirements and architecture for media service entity
-    attachment. This Recommendation mainly describes high level signalling requirements
-    and specific requirements for media infra layer, media service layer, application
-    programming interface (API) layer and orchestration layer.\r\n"
+  content: "Media service providers for different service technologies have always developed independently in order to satisfy the requirements of their platform. This creates various different verticals, which leads to significant drawbacks and inefficiencies in terms of development. Media service providers using cloud capability have to deal with specific signalling flows for providing media service using an interface, which will significantly increase the complexity for the provider to use different cloud infra providers. Therefore, there is a strong necessity for requirements and architecture for a standard signalling convergence of different cloud infra providers in future media services.\r\n\r\nRecommendation ITU-T Q.5002 specifies the signalling requirements and architecture for media service entity attachment. This Recommendation mainly describes high level signalling requirements and specific requirements for media infra layer, media service layer, application programming interface (API) layer and orchestration layer.\r\n"
 status:
   stage:
     content: Published
@@ -322,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -334,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

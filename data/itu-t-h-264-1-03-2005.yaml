@@ -55,22 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation specifies tests designed to verify whether bitstreams
-    and decoders meet the normative requirements specified in ITU-T Rec. H.264 | ISO/IEC
-    14496-10:\r\n• An encoder can claim conformance to ITU-T Rec. H.264 | ISO/IEC
-    14496-10 if the bitstreams that it generates are conforming bitstreams.\r\n• A
-    decoder can claim conformance to a specified profile and level of ITU-T Rec. H.264
-    if it can properly decode all bitstreams obeying constraints specified in ITU-T
-    Rec. H.264 | ISO/IEC 14496-10.The tests specified in this Recommendation provide
-    methods for (non-exhaustive) testing of whether encoders and decoders meet these
-    requirements. This twin text with ISO/IEC has been jointly developed in the context
-    of JVT and has been submitted to the ISO/IEC JTC 1/SC 29/WG 11 (MPEG) as ISO/IEC
-    14496-4:2002/Amendment 6 (2005 E) and ISO/IEC 14496-4:2004/Amendment 9.Corrigendum
-    1 to H.264.1 (09/2005), which has been integrated into this edition of ITU-T Rec.
-    H.264.1, provides improved synchronization with the technically-aligned twin text
-    in ISO/IEC, removes some errors, and adds tests for some required features that
-    were not tested in the previous version.The conformance bitstreams identified
-    in H.264.1 are available as an electronic attachment to this Recommendation."
+  content: "This Recommendation specifies tests designed to verify whether bitstreams and decoders meet the normative requirements specified in ITU-T Rec. H.264 | ISO/IEC 14496-10:\r\n• An encoder can claim conformance to ITU-T Rec. H.264 | ISO/IEC 14496-10 if the bitstreams that it generates are conforming bitstreams.\r\n• A decoder can claim conformance to a specified profile and level of ITU-T Rec. H.264 if it can properly decode all bitstreams obeying constraints specified in ITU-T Rec. H.264 | ISO/IEC 14496-10.The tests specified in this Recommendation provide methods for (non-exhaustive) testing of whether encoders and decoders meet these requirements. This twin text with ISO/IEC has been jointly developed in the context of JVT and has been submitted to the ISO/IEC JTC 1/SC 29/WG 11 (MPEG) as ISO/IEC 14496-4:2002/Amendment 6 (2005 E) and ISO/IEC 14496-4:2004/Amendment 9.Corrigendum 1 to H.264.1 (09/2005), which has been integrated into this edition of ITU-T Rec. H.264.1, provides improved synchronization with the technically-aligned twin text in ISO/IEC, removes some errors, and adds tests for some required features that were not tested in the previous version.The conformance bitstreams identified in H.264.1 are available as an electronic attachment to this Recommendation."
 status:
   stage:
     content: Withdrawal

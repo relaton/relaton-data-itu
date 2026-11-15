@@ -54,22 +54,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The IP multimedia subsystem (IMS) became one of the popular technical
-    solutions which operators use to migrate from circuit switching networks to packet
-    switching networks. Initially the IMS platform was created at the request of mobile
-    operators, but nowadays fixed operators are also actively implementing the IMS
-    platform.\r\n\r\nFurthermore, the regulations of some countries/regions demand
-    operators to continue providing the set of services that were available over the
-    former circuit switching technologies (e.g., signalling system 7, intelligent
-    networks, etc.).\r\n\r\nThere are different implementations of the SIP-IMS protocols.
-    Operators expressed their interest in establishing the universal requirements
-    that end-user equipment and network equipment should meet.\r\n\r\nThe version
-    number, v.1, indicates that this is version one of Recommendation ITU-T Q.3403,
-    and that it relates to Release 10 of the relevant 3GPP/ETSI standard.\r\n\r\nThis
-    Recommendation endorses ETSI TS 124 229 V10.20.0 (2015-07) “IP multimedia call
-    control protocol based on Session Initiation Protocol (SIP) and Session Description
-    Protocol (SDP); Stage 3”. It contains requirements for establishing the basic
-    call using the IMS platform at the user and network sides.\r\n"
+  content: "The IP multimedia subsystem (IMS) became one of the popular technical solutions which operators use to migrate from circuit switching networks to packet switching networks. Initially the IMS platform was created at the request of mobile operators, but nowadays fixed operators are also actively implementing the IMS platform.\r\n\r\nFurthermore, the regulations of some countries/regions demand operators to continue providing the set of services that were available over the former circuit switching technologies (e.g., signalling system 7, intelligent networks, etc.).\r\n\r\nThere are different implementations of the SIP-IMS protocols. Operators expressed their interest in establishing the universal requirements that end-user equipment and network equipment should meet.\r\n\r\nThe version number, v.1, indicates that this is version one of Recommendation ITU-T Q.3403, and that it relates to Release 10 of the relevant 3GPP/ETSI standard.\r\n\r\nThis Recommendation endorses ETSI TS 124 229 V10.20.0 (2015-07) “IP multimedia call control protocol based on Session Initiation Protocol (SIP) and Session Description Protocol (SDP); Stage 3”. It contains requirements for establishing the basic call using the IMS platform at the user and network sides.\r\n"
 status:
   stage:
     content: Published
@@ -327,9 +312,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -339,8 +324,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

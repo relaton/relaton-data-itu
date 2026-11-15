@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU T Z.170 defines a documentation of TTCN-3 source code
-    using special documentation comments. The source code documentation can then be
-    produced automatically from the TTCN-3 core language, e.g., in the form of hypertext
-    web pages.\r\nThe first revision of the Recommendation contains amendments (the
-    @priority and @requirement tags), clarifications (e.g., on whitespace and newline
-    characters), corrigenda and editorial corrections.\r\nThis second revision of
-    the Recommendation contains amendments, clarifications, corrigenda and editorial
-    corrections.\r\nThis Recommendation is technically aligned with ETSI ES 201 873-10
-    V4.4.1 (2012).\r\n"
+  content: "Recommendation ITU T Z.170 defines a documentation of TTCN-3 source code using special documentation comments. The source code documentation can then be produced automatically from the TTCN-3 core language, e.g., in the form of hypertext web pages.\r\nThe first revision of the Recommendation contains amendments (the @priority and @requirement tags), clarifications (e.g., on whitespace and newline characters), corrigenda and editorial corrections.\r\nThis second revision of the Recommendation contains amendments, clarifications, corrigenda and editorial corrections.\r\nThis Recommendation is technically aligned with ETSI ES 201 873-10 V4.4.1 (2012).\r\n"
 status:
   stage:
     content: Withdrawal
@@ -125,8 +117,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU System
-        Design Languages'
+      content: 'ITU-T Z.100-series – Supplement on SDL+ methodology: Use of ITU
+        System Design Languages'
     docidentifier:
     - content: Z Suppl. 1 (04/2015)
       type: ITU

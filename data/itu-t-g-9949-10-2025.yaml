@@ -53,9 +53,10 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9949 specifies the management control interface
+  content: 'Recommendation ITU-T G.9949 specifies the management control interface
     of wireless local area network (WLAN) for in-premises networks. It covers the
-    WMCI channel, protocol, message format, procedures and detailed messages.\r\n"
+    WMCI channel, protocol, message format, procedures and detailed messages.
+    '
 status:
   stage:
     content: Published

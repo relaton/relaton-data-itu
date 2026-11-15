@@ -52,21 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "This Recommendation discusses how H.248 Streams may be grouped according
-    to a particular semantic and how they are aggregated or de-aggregated internally
-    in the Context for the execution of H.248 control actions. It defines a H.248
-    package that allows an explicit grouping semantic to be assigned to a group of
-    streams. It also introduces the concept and support for a new type of H.248 Stream,
-    the “aggregation stream”, the “deaggregation stream” and the “component stream”,
-    to be used only in combination with stream grouping.\r\n\r\nThe ability to group
-    streams and to provide an explicit semantic allows the media gateway controller
-    to control the processing of multiple streams. The concept of aggregation allows
-    Signals, Events, Statistics and Topology to be applied to an aggregation stream
-    with benefits including for example: the ability to report cumulative Statistics
-    rather than multiple individual statistics or report a single Event rather multiple
-    events on the component streams. The concept of deaggregation allows a better
-    handle of multiple streams that share the same transport, for example with regards
-    to the different time dynamics of the transport layer and the upper layer streams."
+  content: "This Recommendation discusses how H.248 Streams may be grouped according to a particular semantic and how they are aggregated or de-aggregated internally in the Context for the execution of H.248 control actions. It defines a H.248 package that allows an explicit grouping semantic to be assigned to a group of streams. It also introduces the concept and support for a new type of H.248 Stream, the “aggregation stream”, the “deaggregation stream” and the “component stream”, to be used only in combination with stream grouping.\r\n\r\nThe ability to group streams and to provide an explicit semantic allows the media gateway controller to control the processing of multiple streams. The concept of aggregation allows Signals, Events, Statistics and Topology to be applied to an aggregation stream with benefits including for example: the ability to report cumulative Statistics rather than multiple individual statistics or report a single Event rather multiple events on the component streams. The concept of deaggregation allows a better handle of multiple streams that share the same transport, for example with regards to the different time dynamics of the transport layer and the upper layer streams."
 status:
   stage:
     content: Published

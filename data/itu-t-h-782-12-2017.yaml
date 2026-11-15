@@ -52,13 +52,14 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T H.782 specifies the data elements and structures
+  content: 'Recommendation ITU-T H.782 specifies the data elements and structures
     of the metadata for digital signage services. The metadata describes information
     for contents, terminal devices, play logs, playlist schedule, screelayout, etc.
     The metadata is handled by a digital signage server, a digital signage client,
     a content delivery server, and a content delivery client. It also specifies general
     information flows to describe how the metadata are used in the digital signage
-    services.\r\n"
+    services.
+    '
 status:
   stage:
     content: Withdrawal

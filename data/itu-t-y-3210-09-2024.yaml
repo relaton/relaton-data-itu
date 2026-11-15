@@ -53,11 +53,12 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3210 aims to describe the framework of distributed
+  content: 'Recommendation ITU-T Y.3210 aims to describe the framework of distributed
     ledger technology (DLT) for fixed, mobile and satellite convergence (FMSC) in
     IMT-2020 networks and beyond. This Recommendation specifies the overview, requirements,
     framework and information flows of distributed ledger technology for fixed, mobile
-    and satellite convergence (FMSC).\r\n"
+    and satellite convergence (FMSC).
+    '
 status:
   stage:
     content: Published
@@ -87,7 +88,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -108,8 +109,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

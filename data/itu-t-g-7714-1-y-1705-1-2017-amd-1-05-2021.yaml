@@ -47,20 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.7714.1/Y.1705.1 describes the methods, procedures
-    and transport plane \r\nmechanisms for discovering layer adjacency according to
-    the requirements of Recommendation \r\nITU-T G.7714/Y.1705. Layer adjacency discovery
-    describes the process of discovering link \r\nconnection end-point relationships
-    and verifying their connectivity. Two alternative methods are \r\ndescribed: one
-    using a test set in the client layer, the other using in-band overhead in the
-    server layer. \r\nAdditional actions that may be required for obtaining physical
-    media adjacency discovery, transport \r\nentity capability exchange, etc., will
-    be addressed in future Recommendations. \r\n\r\nRecommendation ITU-T G.7714.1/Y.1705.1
-    (2017) includes: \r\n1) support for transport networks other than synchronous
-    digital hierarchy (SDH) and optical \r\ntransport network (OTN), specifically
-    Ethernet (ETH); and \r\n2) errata updates. \r\nAmendment 1 clarifies: \r\n– In
-    clauses 6.1 and VI.4.2 Case B, that the ODU TCM sublayer to be used for discovery
-    is not \r\nrestricted to TCM6 only. "
+  content: "Recommendation ITU-T G.7714.1/Y.1705.1 describes the methods, procedures and transport plane \r\nmechanisms for discovering layer adjacency according to the requirements of Recommendation \r\nITU-T G.7714/Y.1705. Layer adjacency discovery describes the process of discovering link \r\nconnection end-point relationships and verifying their connectivity. Two alternative methods are \r\ndescribed: one using a test set in the client layer, the other using in-band overhead in the server layer. \r\nAdditional actions that may be required for obtaining physical media adjacency discovery, transport \r\nentity capability exchange, etc., will be addressed in future Recommendations. \r\n\r\nRecommendation ITU-T G.7714.1/Y.1705.1 (2017) includes: \r\n1) support for transport networks other than synchronous digital hierarchy (SDH) and optical \r\ntransport network (OTN), specifically Ethernet (ETH); and \r\n2) errata updates. \r\nAmendment 1 clarifies: \r\n– In clauses 6.1 and VI.4.2 Case B, that the ODU TCM sublayer to be used for discovery is not \r\nrestricted to TCM6 only. "
 status:
   stage:
     content: Published

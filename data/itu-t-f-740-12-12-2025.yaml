@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.740.12 outlines the metadata framework for a cultural
-    relics and artworks tracing system (CRATS) based on distributed ledger technology
-    (DLT). CRATS aims to enhance the traceability, security and transparency of cultural
-    relics and artworks (CRA) throughout their lifecycle. The framework consists of
-    three core components: the universally recognized digital identity (URDI) component,
-    the multidimensional description (MD) component, and the full lifecycle record
-    (FLR) component. These components collectively support the recording of events
-    throughout a CRA object's lifecycle, such as provenance tracking, inventory management,
-    insurance management, market monitoring, etc., ensuring all associated data for
-    CRA is archived in an immutable, timestamped evidence chain.\r\nThis Recommendation
-    is applicable to cultural institutions, digital platforms, and related entities
-    engaged in the registration, management, or monitoring of cultural relics and
-    artworks (CRA) using a distributed ledger technology (DLT) based tracing system.\r\nImplementation-specific
-    details such as blockchain platform configuration, cryptographic algorithms, consensus
-    mechanisms, or user-interface designs are outside the scope of this Recommendation.\r\n"
+  content: "Recommendation ITU-T F.740.12 outlines the metadata framework for a cultural relics and artworks tracing system (CRATS) based on distributed ledger technology (DLT). CRATS aims to enhance the traceability, security and transparency of cultural relics and artworks (CRA) throughout their lifecycle. The framework consists of three core components: the universally recognized digital identity (URDI) component, the multidimensional description (MD) component, and the full lifecycle record (FLR) component. These components collectively support the recording of events throughout a CRA object's lifecycle, such as provenance tracking, inventory management, insurance management, market monitoring, etc., ensuring all associated data for CRA is archived in an immutable, timestamped evidence chain.\r\nThis Recommendation is applicable to cultural institutions, digital platforms, and related entities engaged in the registration, management, or monitoring of cultural relics and artworks (CRA) using a distributed ledger technology (DLT) based tracing system.\r\nImplementation-specific details such as blockchain platform configuration, cryptographic algorithms, consensus mechanisms, or user-interface designs are outside the scope of this Recommendation.\r\n"
 status:
   stage:
     content: Published

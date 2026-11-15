@@ -53,15 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.45 specifies resistibility requirements and test
-    procedures for telecommunication equipment installed between telecommunication
-    centres and between a telecommunication centre and the customer's premises.\r\n\r\nOvervoltages
-    or overcurrents covered by this Recommendation include surges due to lightning
-    on or near the line plant, short-term induction from adjacent AC power lines or
-    railway systems, earth potential rise due to power faults, direct contact between
-    telecommunication lines and power lines and electrostatic discharges.\r\n\r\nChanges
-    compared with Recommendation ITU-T K.45 (2018) include:\r\n\r\n•            A
-    DC insulation resistance test;\r\n\r\n•            a special requirements annex."
+  content: "Recommendation ITU-T K.45 specifies resistibility requirements and test procedures for telecommunication equipment installed between telecommunication centres and between a telecommunication centre and the customer's premises.\r\n\r\nOvervoltages or overcurrents covered by this Recommendation include surges due to lightning on or near the line plant, short-term induction from adjacent AC power lines or railway systems, earth potential rise due to power faults, direct contact between telecommunication lines and power lines and electrostatic discharges.\r\n\r\nChanges compared with Recommendation ITU-T K.45 (2018) include:\r\n\r\n•            A DC insulation resistance test;\r\n\r\n•            a special requirements annex."
 status:
   stage:
     content: Withdrawal
@@ -283,8 +275,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T K.45 – Rationale for setting resistibility requirements of telecommunication
-        equipment installed in the access and trunk networks against lightning
+      content: ITU-T K.45 – Rationale for setting resistibility requirements of
+        telecommunication equipment installed in the access and trunk networks against
+        lightning
     docidentifier:
     - content: K Suppl. 22 (05/2021)
       type: ITU

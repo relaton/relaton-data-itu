@@ -50,21 +50,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.709.3/Y.1331.3 defines the flexible optical transport
-    network (OTN), known as FlexO, long-reach interfaces that support bonding (i.e.,
-    grouping) of multiple of these interfaces such that one or more client signals
-    (e.g., one or more OTUCn (n ≥ 1)) can be transferred via one or more optical tributary
-    signals (OTSi) over one or more physical interfaces. The Recommendation specifies
-    the frame structure for FlexO long reach interfaces using forward error correction
-    codes with a higher coding gain than used in the FlexO short reach interfaces
-    that are specified in Recommendation ITU-T G.709.1/Y.1331.1 and multiplexing of
-    OTUCn client signals into the payload of a FlexO group. \r\n\r\nEdition 2 contains
-    the following extensions to Edition 1.1: \r\n\r\n– Addition of 100G, 200G and
-    400G FlexO with OFEC (16, Annexes D, E, G, Appendices III, IV, V, bibliography)
-    \r\n\r\n– Addition of 100G FlexO with concatenated FEC (15.4.1, 15.5.4) \r\n\r\n–
-    Addition of multiplexing of OTUCn client signals into the payload of a FlexO group
-    (Annex F). \r\n\r\nThis Recommendation includes an electronic attachment with
-    the worksheets specified in Appendix IV. \r\n"
+  content: "Recommendation ITU-T G.709.3/Y.1331.3 defines the flexible optical transport network (OTN), known as FlexO, long-reach interfaces that support bonding (i.e., grouping) of multiple of these interfaces such that one or more client signals (e.g., one or more OTUCn (n ≥ 1)) can be transferred via one or more optical tributary signals (OTSi) over one or more physical interfaces. The Recommendation specifies the frame structure for FlexO long reach interfaces using forward error correction codes with a higher coding gain than used in the FlexO short reach interfaces that are specified in Recommendation ITU-T G.709.1/Y.1331.1 and multiplexing of OTUCn client signals into the payload of a FlexO group. \r\n\r\nEdition 2 contains the following extensions to Edition 1.1: \r\n\r\n– Addition of 100G, 200G and 400G FlexO with OFEC (16, Annexes D, E, G, Appendices III, IV, V, bibliography) \r\n\r\n– Addition of 100G FlexO with concatenated FEC (15.4.1, 15.5.4) \r\n\r\n– Addition of multiplexing of OTUCn client signals into the payload of a FlexO group (Annex F). \r\n\r\nThis Recommendation includes an electronic attachment with the worksheets specified in Appendix IV. \r\n"
 status:
   stage:
     content: Withdrawal

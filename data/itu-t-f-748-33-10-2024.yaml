@@ -52,7 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.748.33 provides a benchmark framework, metrics,
+  content: 'Recommendation ITU-T F.748.33 provides a benchmark framework, metrics,
     requirements for testing datasets and evaluation process of image-based re-identification
     (Re-ID) algorithms. Image-based ReID is a critical task in machine vision systems
     with a wide range of applications in video surveillance system, intelligent transportation,
@@ -62,7 +62,8 @@ abstract:
     scenarios. The existing evaluation method which mainly rely on pre-prepared open-source
     datasets cannot reflect the real performance of the algorithms in practical applications.
     It is crucial to have a unified, systematic, and fair evaluation method to comprehensively
-    compare and analyse the diverse algorithms performance for both academia and industry.\r\n"
+    compare and analyse the diverse algorithms performance for both academia and industry.
+    '
 status:
   stage:
     content: Published

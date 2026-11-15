@@ -53,13 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Q.4067 specifies the process and signalling requirements
-    for virtualized network function (VNF) lifecycle management in a testing environment
-    by architecturally adding the testing platform in the network functions virtualization
-    (NFV) framework. The signalling focuses on the interface between the VNF instantiation
-    functional component in a testing platform and the network functions virtualization
-    orchestrator (NFVO) functional component in management and orchestration (MANO).
-    \r\n"
+  content: "Recommendation ITU-T Q.4067 specifies the process and signalling requirements for virtualized network function (VNF) lifecycle management in a testing environment by architecturally adding the testing platform in the network functions virtualization (NFV) framework. The signalling focuses on the interface between the VNF instantiation functional component in a testing platform and the network functions virtualization orchestrator (NFVO) functional component in management and orchestration (MANO). \r\n"
 status:
   stage:
     content: Published
@@ -317,9 +311,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -329,8 +323,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

@@ -52,16 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.MC-PCM describes policy control mechanism in multi-connection.
-    The recommendation also covers scenarios, requirements, solutions, information
-    flows.\r\n\r\nMulti-connection architecture is designed in heterogeneous networks,
-    it has the ability to provide MUEs and network the functionality to maintain more
-    than one access network connection simultaneously. It controls policies, flows
-    and quality of service, etc.\r\n\r\nPolicy control is useful or even necessary
-    for multi-connection. Policy control determines how to use multiple access network
-    connections, there can be several policies in multi-connection, such as QoS policy,
-    service transfer policy, etc. ITU-T Y.MC-PCM provides a coordination mechanism
-    to ensure that all policies can work together in a coherent manner for multi-connection.\r\n"
+  content: "Recommendation ITU-T Y.MC-PCM describes policy control mechanism in multi-connection. The recommendation also covers scenarios, requirements, solutions, information flows.\r\n\r\nMulti-connection architecture is designed in heterogeneous networks, it has the ability to provide MUEs and network the functionality to maintain more than one access network connection simultaneously. It controls policies, flows and quality of service, etc.\r\n\r\nPolicy control is useful or even necessary for multi-connection. Policy control determines how to use multiple access network connections, there can be several policies in multi-connection, such as QoS policy, service transfer policy, etc. ITU-T Y.MC-PCM provides a coordination mechanism to ensure that all policies can work together in a coherent manner for multi-connection.\r\n"
 status:
   stage:
     content: Published
@@ -102,8 +93,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems in
-        next generation networks
+      content: ITU-T Y.2000-series – Supplement on the use of DSL-based systems
+        in next generation networks
     docidentifier:
     - content: Y Suppl. 6 (09/2008)
       type: ITU
@@ -123,8 +114,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums and
-        consortia
+      content: ITU-T Y.2000-series – Supplement on a survey of global ICT forums
+        and consortia
     docidentifier:
     - content: Y Suppl. 8 (01/2010)
       type: ITU
@@ -220,7 +211,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -241,8 +232,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

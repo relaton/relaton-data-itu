@@ -52,10 +52,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.641 provides optical interface specifications for
+  content: 'Recommendation ITU-T G.641 provides optical interface specifications for
     free-space optics (FSO) applications, primarily intended for mobile backhaul with
     short reach. Applications are defined using optical interface parameters. This
-    Recommendation specifies both the FSO interface and the fibre interface.\r\n"
+    Recommendation specifies both the FSO interface and the fibre interface.
+    '
 status:
   stage:
     content: Published

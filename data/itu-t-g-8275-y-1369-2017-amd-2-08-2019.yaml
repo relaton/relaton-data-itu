@@ -47,13 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8275/Y.1369 describes the architecture and requirements
-    for packet‑based time and phase distribution in telecom networks. The architecture
-    described is mainly applicable to the use of IEEE 1588. Details necessary to utilize
-    IEEE 1588 in a manner consistent with the architecture are defined in other Recommendations.\r\n\r\nAmendment
-    2 provides the following updates:\r\n\r\n−           Adds a profile translation
-    to Appendix III\r\n\r\n−           Adds a functional model for cnPRTC to Appendix
-    VI"
+  content: "Recommendation ITU-T G.8275/Y.1369 describes the architecture and requirements for packet‑based time and phase distribution in telecom networks. The architecture described is mainly applicable to the use of IEEE 1588. Details necessary to utilize IEEE 1588 in a manner consistent with the architecture are defined in other Recommendations.\r\n\r\nAmendment 2 provides the following updates:\r\n\r\n−           Adds a profile translation to Appendix III\r\n\r\n−           Adds a functional model for cnPRTC to Appendix VI"
 status:
   stage:
     content: Withdrawal

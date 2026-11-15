@@ -52,11 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.8272/Y.1367 specifies the requirements for primary
-    reference time clocks (PRTCs) suitable for time, phase and frequency synchronization
-    in packet networks. It defines the error allowed at the time output of the PRTC.\r\n\r\nThese
-    requirements apply under the normal environmental conditions specified for the
-    equipment.\r\n"
+  content: "Recommendation ITU-T G.8272/Y.1367 specifies the requirements for primary reference time clocks (PRTCs) suitable for time, phase and frequency synchronization in packet networks. It defines the error allowed at the time output of the PRTC.\r\n\r\nThese requirements apply under the normal environmental conditions specified for the equipment.\r\n"
 status:
   stage:
     content: Withdrawal

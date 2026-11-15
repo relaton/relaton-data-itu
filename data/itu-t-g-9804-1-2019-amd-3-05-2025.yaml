@@ -47,10 +47,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 3 to Recommendation ITU-T G.9804.1 includes additional requirements
+  content: 'Amendment 3 to Recommendation ITU-T G.9804.1 includes additional requirements
     for higher speed passive optical networks (PONs), including complementary for
     25/50G dual-rate combinations in the upstream direction, deprecation of 12.5 Gbit/s
-    upstream rate requirement and the addition of industrial PON scenario.\r\n"
+    upstream rate requirement and the addition of industrial PON scenario.
+    '
 status:
   stage:
     content: Published

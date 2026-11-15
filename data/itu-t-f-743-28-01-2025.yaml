@@ -53,21 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "An intelligent inspection system is helpful for assisting humans in inspection
-    work, offering advantages such as high efficiency and low operation and maintenance
-    (O&M) costs. It is widely used in scenarios such as the inspection of power stations,
-    substations and transmission lines. However, there are challenges with the inspection
-    data transmitted to the cloud, such as the huge volumes, high complexity, long
-    storage cycles and high computing frequency. Additionally, many substations and
-    transmission lines are located in remote areas, where network connections are
-    often poor, and the ability to properly inspect in harsh environments needs to
-    be taken into consideration. An intelligent inspection system based on cloud-edge-device
-    collaboration could address these challenges.\r\nRecommendation ITU-T F.743.28
-    specifies a functional framework, requirements and use cases for an intelligent
-    inspection system based on cloud-edge-device collaboration in smart grids. It
-    provides guidance for the utilization and selection of the right inspection system
-    for a specific application. It can also supply a new collaboration paradigm to
-    existing standards in smart grids.\r\n"
+  content: "An intelligent inspection system is helpful for assisting humans in inspection work, offering advantages such as high efficiency and low operation and maintenance (O&M) costs. It is widely used in scenarios such as the inspection of power stations, substations and transmission lines. However, there are challenges with the inspection data transmitted to the cloud, such as the huge volumes, high complexity, long storage cycles and high computing frequency. Additionally, many substations and transmission lines are located in remote areas, where network connections are often poor, and the ability to properly inspect in harsh environments needs to be taken into consideration. An intelligent inspection system based on cloud-edge-device collaboration could address these challenges.\r\nRecommendation ITU-T F.743.28 specifies a functional framework, requirements and use cases for an intelligent inspection system based on cloud-edge-device collaboration in smart grids. It provides guidance for the utilization and selection of the right inspection system for a specific application. It can also supply a new collaboration paradigm to existing standards in smart grids.\r\n"
 status:
   stage:
     content: Published

@@ -52,23 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "The Internet of things (IoT), defined in Recommendation ITU-T Y.2060,
-    currently plays an important role for telecommunication and information technologies.
-    It is one of the global infrastructures for the information society, delivering
-    advanced services by interconnecting things based on existing and evolving interoperable
-    information and communication technologies.\r\nCurrently, methods of remote testing
-    of network equipment are actively used. During testing, special attention is paid
-    to the quality of service parameters (delays, losses, jitter, bandwidth etc.);
-    however, in relation to the specifics of the IoT devices, it is most appropriate
-    to control the parameters for the optimum functioning of end devices. IoT devices,
-    as an example, have battery power and monitoring of their operation parameters
-    will allow timely adjustments to the algorithms of their functioning in order
-    to extend the battery life.\r\nThe use of probes will allow the addressing of
-    important parameters of the IoT devices and conducting remote testing of various
-    parameters of the IoT devices, such as: power consumption, memory and processor
-    operation and open interfaces. The description of the test specifications for
-    remote testing using probes will allow the development of a unified approach for
-    conducting appropriate testing of IoT devices.\r\n"
+  content: "The Internet of things (IoT), defined in Recommendation ITU-T Y.2060, currently plays an important role for telecommunication and information technologies. It is one of the global infrastructures for the information society, delivering advanced services by interconnecting things based on existing and evolving interoperable information and communication technologies.\r\nCurrently, methods of remote testing of network equipment are actively used. During testing, special attention is paid to the quality of service parameters (delays, losses, jitter, bandwidth etc.); however, in relation to the specifics of the IoT devices, it is most appropriate to control the parameters for the optimum functioning of end devices. IoT devices, as an example, have battery power and monitoring of their operation parameters will allow timely adjustments to the algorithms of their functioning in order to extend the battery life.\r\nThe use of probes will allow the addressing of important parameters of the IoT devices and conducting remote testing of various parameters of the IoT devices, such as: power consumption, memory and processor operation and open interfaces. The description of the test specifications for remote testing using probes will allow the development of a unified approach for conducting appropriate testing of IoT devices.\r\n"
 status:
   stage:
     content: Published
@@ -326,9 +310,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
-        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
-        of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital
+        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
+        – Support of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -338,8 +322,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework for
-        an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework
+        for an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

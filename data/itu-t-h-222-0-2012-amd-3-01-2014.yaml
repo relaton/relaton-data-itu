@@ -55,14 +55,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 3 to Recommendation ITU-T H.222.0 (2012) | ISO/IEC 13818-1:2013
-    specifies the transport of ITU-T H.265 | ISO/IEC 23008\x1E2 high efficiency video
-    coding (HEVC) bit-streams over MPEG-2 transport streams as defined in the Recommendation.
-    This amendment does not include extensions for carriage of HEVC in program streams.\r\nNew
-    stream types are specified to allow for the identification of elementary streams
-    containing HEVC as a video codec. HEVC-specific descriptors are added to signal
-    HEVC-specific properties such as profile and level. The amendment supports layered
-    transport in case the HEVC bitstream contains more than one temporal sub-layer."
+  content: "Amendment 3 to Recommendation ITU-T H.222.0 (2012) | ISO/IEC 13818-1:2013 specifies the transport of ITU-T H.265 | ISO/IEC 23008\x1e2 high efficiency video coding (HEVC) bit-streams over MPEG-2 transport streams as defined in the Recommendation. This amendment does not include extensions for carriage of HEVC in program streams.\r\nNew stream types are specified to allow for the identification of elementary streams containing HEVC as a video codec. HEVC-specific descriptors are added to signal HEVC-specific properties such as profile and level. The amendment supports layered transport in case the HEVC bitstream contains more than one temporal sub-layer."
 status:
   stage:
     content: Withdrawal

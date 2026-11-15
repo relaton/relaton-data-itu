@@ -53,20 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T G.9802.2 describes a wavelength routed optical distribution
-    network (WRODN) based wavelength division multiplexed passive optical network
-    (WDM PON).\r\nThis Recommendation, as part of the multiple-wavelength passive
-    optical network (MW-PON) ITUT G.9802 series Recommendations, specifies a PON system
-    utilizing a wavelength multiplexer in the optical distribution network (ODN).\r\nThe
-    specifications of both the physical media dependent (PMD) and transmission convergence
-    (TC) layers of WR-ODN based WDM PON are captured in this Recommendation.\r\nThe
-    PMD layer specification includes aspects such as the reference logical architecture,
-    wavelength plan, optical path loss, transmitter and receiver specifications, compatible
-    ODN, etc.\r\nThe TC layer specification includes the details of the forward error
-    correction (FEC) code, implementation methods of the management channel, management
-    functions, a set of processes and messages, etc. to provide similar operation
-    experience as legacy PON systems, e.g., silent start and capability to map a local
-    physical layer operation, administration and maintenance (PLOAM) channel.\r\n"
+  content: "Recommendation ITU-T G.9802.2 describes a wavelength routed optical distribution network (WRODN) based wavelength division multiplexed passive optical network (WDM PON).\r\nThis Recommendation, as part of the multiple-wavelength passive optical network (MW-PON) ITUT G.9802 series Recommendations, specifies a PON system utilizing a wavelength multiplexer in the optical distribution network (ODN).\r\nThe specifications of both the physical media dependent (PMD) and transmission convergence (TC) layers of WR-ODN based WDM PON are captured in this Recommendation.\r\nThe PMD layer specification includes aspects such as the reference logical architecture, wavelength plan, optical path loss, transmitter and receiver specifications, compatible ODN, etc.\r\nThe TC layer specification includes the details of the forward error correction (FEC) code, implementation methods of the management channel, management functions, a set of processes and messages, etc. to provide similar operation experience as legacy PON systems, e.g., silent start and capability to map a local physical layer operation, administration and maintenance (PLOAM) channel.\r\n"
 status:
   stage:
     content: Published

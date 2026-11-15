@@ -53,20 +53,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T Y.3325 describes the requirements for a reference
-    model of such interactions including interface and metadata. After the IMT-2020
-    technology and network virtualization technology spread, the appearance of emerging
-    services such as multimedia services (high resolution, AR, VR, etc.) and IoT is
-    expected. Since huge amount of traffic of these new coming services will be incurred
-    to the network, the importance of network flexibility and stability will increase.
-    Network operators intend to improve network operations such as provisioning, resource
-    control, failure detection and recovery, and so on. Automatic network management
-    supported by recent AI technologies called AI-based networks will play an essential
-    role in such an era. \r\nOn the other hand, a service provider needs to manage
-    service dynamically based on service and network status for better quality of
-    service (QoS). In order for service providers to use the information managed by
-    AI-based networks effectively, a common interface between a system of service
-    providers over AI-based networks and AI-based networks is required.\r\n"
+  content: "Recommendation ITU-T Y.3325 describes the requirements for a reference model of such interactions including interface and metadata. After the IMT-2020 technology and network virtualization technology spread, the appearance of emerging services such as multimedia services (high resolution, AR, VR, etc.) and IoT is expected. Since huge amount of traffic of these new coming services will be incurred to the network, the importance of network flexibility and stability will increase. Network operators intend to improve network operations such as provisioning, resource control, failure detection and recovery, and so on. Automatic network management supported by recent AI technologies called AI-based networks will play an essential role in such an era. \r\nOn the other hand, a service provider needs to manage service dynamically based on service and network status for better quality of service (QoS). In order for service providers to use the information managed by AI-based networks effectively, a common interface between a system of service providers over AI-based networks and AI-based networks is required.\r\n"
 status:
   stage:
     content: Published
@@ -96,7 +83,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Supplement 59 to ITU-T Y-series Recommendations - IMT-2020 and beyond
+      content: Supplement 59 to ITU-T Y-series Recommendations – IMT-2020 and beyond
         standardization roadmap
     docidentifier:
     - content: Y Suppl. 59 (10/2026)
@@ -117,8 +104,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: " Web-based data model for Internet of things and smart city systems
-        and services"
+      content: " Web-based data model for Internet of things and smart city systems and services"
     docidentifier:
     - content: Y Suppl. 69 (05/2021)
       type: ITU

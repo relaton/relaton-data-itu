@@ -51,21 +51,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.70 defines techniques which may be used by telecommunication
-    operators to evaluate the cumulative (total) exposure ratio in the vicinity of
-    transmitting antennas and to identify the main source of radiation. It offers
-    guidance on mitigation methods which allow reduction of radiation level in order
-    to comply with exposure limits. It also provides guidance on procedures necessary
-    in the environment (on site) in which, in most cases, there is a simultaneous
-    exposure to multiple frequencies from many different sources. Radiating sources
-    may belong to many operators and may represent different radiocommunication services
-    (e.g., cellular systems, trunking systems, broadcasting, radio relays, wireless
-    access, etc.). \r\n\r\nAppendix I includes an electronic attachment with distinct
-    32-bit and 64-bit versions of the EMF estimator software. As Microsoft Access
-    32-bit and 64-bit versions cannot be served by the same software package, two
-    versions of this software are proposed. Furthermore, two separate install procedures
-    are required in order to run this software depending on the Microsoft Access version
-    installed on the user PC.  \r\n"
+  content: "Recommendation ITU-T K.70 defines techniques which may be used by telecommunication operators to evaluate the cumulative (total) exposure ratio in the vicinity of transmitting antennas and to identify the main source of radiation. It offers guidance on mitigation methods which allow reduction of radiation level in order to comply with exposure limits. It also provides guidance on procedures necessary in the environment (on site) in which, in most cases, there is a simultaneous exposure to multiple frequencies from many different sources. Radiating sources may belong to many operators and may represent different radiocommunication services (e.g., cellular systems, trunking systems, broadcasting, radio relays, wireless access, etc.). \r\n\r\nAppendix I includes an electronic attachment with distinct 32-bit and 64-bit versions of the EMF estimator software. As Microsoft Access 32-bit and 64-bit versions cannot be served by the same software package, two versions of this software are proposed. Furthermore, two separate install procedures are required in order to run this software depending on the Microsoft Access version installed on the user PC.  \r\n"
 status:
   stage:
     content: Published

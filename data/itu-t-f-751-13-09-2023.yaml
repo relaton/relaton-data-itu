@@ -53,10 +53,11 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T F.751.13 specifies the framework and requirements
+  content: 'Recommendation ITU-T F.751.13 specifies the framework and requirements
     for the distributed power trading (DPT) system based on distributed ledger technology
     (DLT). The framework includes the infrastructure layer, the interface layer and
-    the application layer.\r\n"
+    the application layer.
+    '
 status:
   stage:
     content: Published

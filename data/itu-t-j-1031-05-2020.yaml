@@ -52,14 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T J.1031 specifies requirements for the two-way downloadable
-    conditional access system (DCAS) for bidirectional networks. A two-way DCAS protects
-    broadcast content/services and controls consumer entitlements in the same way
-    as what traditional conditional access (CA) systems do, and enables a two-way
-    terminal device, such as a set-top-box (STB), to adapt to a new CA system by downloading
-    and installing the new CA system's client software without changing hardware.
-    In particular, a two-way DCAS can work in bidirectional cable TV networks and
-    other bidirectional networks such as broadband cable networks. \r\n"
+  content: "Recommendation ITU-T J.1031 specifies requirements for the two-way downloadable conditional access system (DCAS) for bidirectional networks. A two-way DCAS protects broadcast content/services and controls consumer entitlements in the same way as what traditional conditional access (CA) systems do, and enables a two-way terminal device, such as a set-top-box (STB), to adapt to a new CA system by downloading and installing the new CA system's client software without changing hardware. In particular, a two-way DCAS can work in bidirectional cable TV networks and other bidirectional networks such as broadband cable networks. \r\n"
 status:
   stage:
     content: Published

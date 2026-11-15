@@ -52,20 +52,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Recommendation ITU-T K.147 covers common one, two and four pair link implementations,
-    their configurations, how surges are coupled into a system and what surge mitigation
-    measures are used. Following this overview, the rationale for different surge
-    and power fault test circuit approaches and when they are specified is given.\r\nNetworked
-    equipment can be subject to overvoltage and overcurrent transients. Both data
-    and any powering services should be resistant to the expected environmental transients.
-    Where equipment has multiple independent ports, such as central hubs, switches,
-    or repeaters, then testing is required for inter-port resistibility.\r\nResistibility
-    testing needs to identify lightning transients coupled into a network by magnetic
-    induction, earth potential rise, resistive coupling and transient coupling by
-    a voltage-limiting operation of surge protective functions or flashover. Voltage
-    limitation may convert common-mode surges into differential-mode surges in the
-    signal path. It is also possible for alternating current mains power faults to
-    couple into the network, which can necessitate the use of overcurrent protection.\r\n"
+  content: "Recommendation ITU-T K.147 covers common one, two and four pair link implementations, their configurations, how surges are coupled into a system and what surge mitigation measures are used. Following this overview, the rationale for different surge and power fault test circuit approaches and when they are specified is given.\r\nNetworked equipment can be subject to overvoltage and overcurrent transients. Both data and any powering services should be resistant to the expected environmental transients. Where equipment has multiple independent ports, such as central hubs, switches, or repeaters, then testing is required for inter-port resistibility.\r\nResistibility testing needs to identify lightning transients coupled into a network by magnetic induction, earth potential rise, resistive coupling and transient coupling by a voltage-limiting operation of surge protective functions or flashover. Voltage limitation may convert common-mode surges into differential-mode surges in the signal path. It is also possible for alternating current mains power faults to couple into the network, which can necessitate the use of overcurrent protection.\r\n"
 status:
   stage:
     content: Withdrawal

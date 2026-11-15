@@ -47,13 +47,7 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: "Amendment 2 to Recommendation ITU-T G.993.2 (2011) covers the following
-    functionalities:\r\n1.\tElectrical length estimation method (corrigendum).\r\n2.\tINPMIN
-    ROC (corrigendum).\r\n3.\tAccuracy of test parameters (adding functionality).\r\n4.\tINM
-    facility (corrigendum).\r\n5.\tO SIGNATURE field for Upstream FDPS descriptor
-    (new functionality).\r\n6.\tSRA after SOS (corrigendum).\r\n7.\tAnnex B (Region
-    B – Europe) (corrigendum and adding functionality).\r\n8.\tAnnex Y with optional
-    \"pilot sequence length multiple of 4\" (corrigendum) and optional FDPS (new functionality)."
+  content: "Amendment 2 to Recommendation ITU-T G.993.2 (2011) covers the following functionalities:\r\n1.\tElectrical length estimation method (corrigendum).\r\n2.\tINPMIN ROC (corrigendum).\r\n3.\tAccuracy of test parameters (adding functionality).\r\n4.\tINM facility (corrigendum).\r\n5.\tO SIGNATURE field for Upstream FDPS descriptor (new functionality).\r\n6.\tSRA after SOS (corrigendum).\r\n7.\tAnnex B (Region B – Europe) (corrigendum and adding functionality).\r\n8.\tAnnex Y with optional \"pilot sequence length multiple of 4\" (corrigendum) and optional FDPS (new functionality)."
 status:
   stage:
     content: Withdrawal
