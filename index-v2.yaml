@@ -58075,6 +58075,14 @@
     _type: pubid:itu:recommendation
     sector: R
     series: P
+    number: '2108'
+    parts:
+    - '2'
+  :file: data/itu-r-p-2108-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: P
     number: '2109'
     parts:
     - '0'
@@ -60620,6 +60628,14 @@
     - '0'
   :file: data/itu-r-sm-2151-0.yaml
 - :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: SM
+    number: '2151'
+    parts:
+    - '1'
+  :file: data/itu-r-sm-2151-1.yaml
+- :id:
     _type: pubid:itu:report
     sector: R
     series: S
@@ -60635,14 +60651,6 @@
     parts:
     - '1'
   :file: data/report-itu-r-s-2151-1.yaml
-- :id:
-    _type: pubid:itu:recommendation
-    sector: R
-    series: SM
-    number: '2151'
-    parts:
-    - '1'
-  :file: data/itu-r-sm-2151-1.yaml
 - :id:
     _type: pubid:itu:recommendation
     sector: R
@@ -61574,6 +61582,12 @@
     parts:
     - '2'
   :file: data/report-itu-r-sm-2179-2.yaml
+- :id:
+    _type: pubid:itu:recommendation
+    sector: R
+    series: S
+    number: '2179'
+  :file: data/itu-r-s-2179.yaml
 - :id:
     _type: pubid:itu:question
     sector: R
