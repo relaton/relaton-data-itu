@@ -4,13 +4,14 @@
 #
 # Both sectors share a single flat data/ folder, distinguished by filename prefix
 # (relaton-cli's `relaton index --flavor itu` scans <repo>/data recursively):
-#   data/itu-r-*, data/report-itu-r-*
+#   data/itu-r-*, data/report-itu-r-*, data/resolution-itu-r-*
 #            ITU-R Recommendations, Reports, Questions, Resolutions and Handbooks,
 #            crawled from the /pub + /rec pages ITU still renders server-side
 #            (relaton #112) after it decommissioned the RunSearch bulk-enumeration
 #            endpoint the original ITU-R crawler paged through (relaton#75). A
-#            Report's docid leads with "Report " (relaton #110), which is why the
-#            sector needs two prefixes.
+#            Report's docid leads with "Report " (relaton #110) and a
+#            Resolution's with "Resolution " (relaton#402), which is why the
+#            sector needs three prefixes.
 #   data/itu-t-*  ITU-T Recommendations (+ supplements/amendments/corrigenda),
 #            harvested from the searchRecs index (issue relaton-itu#80).
 #
@@ -47,7 +48,8 @@
 #
 # The FIRST run against a pre-#110 dataset must be full — a top_up would add every
 # Report a second time under its new `Report …` name, beside the old-named copy.
-# .guard_report_seed refuses such a run before it spends the hours.
+# .guard_report_seed refuses such a run before it spends the hours. The same holds
+# for Resolutions against a pre-relaton#402 dataset: .guard_resolution_seed.
 #
 # RELATON_ITU_DELAY (default 1.0) is the politeness contract. Since #117 it is the
 # minimum gap between request STARTS, shared by the whole ITU-R worker pool
@@ -87,14 +89,16 @@ module ItuCrawler
   # `relaton index --flavor itu` (which scans <repo>/data) sees them. The globs let
   # the crawler re-derive / wipe one sector without touching the other.
   DATA = "data"
-  # Both ITU-R spellings. A Report's docid leads with "Report " (relaton #110),
-  # so `Report ITU-R BT.2020-1` sanitizes to data/report-itu-r-bt-2020-1.yaml —
-  # outside a data/itu-r-* glob. Left as one glob it would miss every Report
-  # twice over: the full-run wipe would leave ~1,000 stale Report files behind,
-  # and a top-up's `index_files` would drop their rows while `git add -A data`
-  # still stages the files — publishing a corpus and an index that disagree, with
-  # no guard firing.
-  DATA_R_GLOB = "data/{itu-r,report-itu-r}-*.yaml"
+  # All three ITU-R spellings. A Report's docid leads with "Report " (relaton
+  # #110), so `Report ITU-R BT.2020-1` sanitizes to
+  # data/report-itu-r-bt-2020-1.yaml; a Resolution's leads with "Resolution "
+  # (relaton#402), so `Resolution ITU-R 1-9` sanitizes to
+  # data/resolution-itu-r-1-9.yaml. Both are outside a data/itu-r-* glob. A
+  # narrower glob would miss those files twice over: the full-run wipe would leave
+  # them behind as stale files, and a top-up's `index_files` would drop their rows
+  # while `git add -A data` still stages the files — publishing a corpus and an
+  # index that disagree, with no guard firing.
+  DATA_R_GLOB = "data/{itu-r,report-itu-r,resolution-itu-r}-*.yaml"
   DATA_T_GLOB = "data/itu-t-*.yaml"
 
   # Crawl modes accepted on the command line — deliberately the same two spellings
@@ -237,6 +241,30 @@ module ItuCrawler
           "(`ruby crawler.rb full`, ~3.5 h) — only a full run retires the old names."
   end
 
+  # Refuse a top-up onto a pre-relaton#402 dataset — the twin of
+  # .guard_report_seed, for Resolutions.
+  #
+  # Before relaton#402 a Resolution was filed as series R of the Recommendations
+  # (data/itu-r-r-1-9.yaml, docid "ITU-R R.1-9"); it is now
+  # data/resolution-itu-r-1-9.yaml, docid "Resolution ITU-R 1-9". A top-up tests
+  # File.exist? on the NEW name, so every Resolution looks missing and is written
+  # again beside its old-named copy, which only a full run removes.
+  #
+  # `itu-r-r-*` present with `resolution-itu-r-*` empty IS the pre-#402 signature.
+  # KEEP THIS after the seed lands, for the same reason as .guard_report_seed.
+  def guard_resolution_seed
+    return if full?
+    return if Dir["data/itu-r-r-*.yaml"].empty?
+    return unless Dir["data/resolution-itu-r-*.yaml"].empty?
+
+    abort "top-up refused: #{Dir['data/itu-r-r-*.yaml'].size} data/itu-r-r-* files and no " \
+          "data/resolution-itu-r-* — a pre-relaton#402 dataset, where Resolutions are still " \
+          "filed under their old names. A top-up would re-fetch every Resolution under its " \
+          "new `Resolution ITU-R …` name and write it beside the old-named copy, with no " \
+          "guard firing. Seed the dataset with one full crawl " \
+          "(`ruby crawler.rb full`, ~3.5 h) — only a full run retires the old names."
+  end
+
   # Guard against silently republishing a truncated index. The searchRecs
   # producer returns `json["Data"] || []`, so any ITU API drift that still yields
   # HTTP 200 + parseable JSON without a populated "Data" key harvests **zero**
@@ -276,7 +304,8 @@ module ItuCrawler
   def guard_itur_harvest
     now = classify_r(Dir[DATA_R_GLOB])
     had = classify_r(committed_files("data/itu-r-*.yaml") +
-                     committed_files("data/report-itu-r-*.yaml"))
+                     committed_files("data/report-itu-r-*.yaml") +
+                     committed_files("data/resolution-itu-r-*.yaml"))
 
     had.each do |family, before|
       after = now[family].to_i
@@ -299,9 +328,14 @@ module ItuCrawler
   # a full-looking index, because DataFetcher#harvest_family rescues per family
   # and DataMergeR writes only at series end.
   #
-  # Filename is the only cheap discriminator. The index cannot help: an ITU-R
-  # Resolution serializes as `pubid:itu:recommendation` with `series: R`, so
-  # `_type` does not separate the families either.
+  # Filename is the only cheap discriminator. The index cannot help: before
+  # relaton#402 an ITU-R Resolution serialized as `pubid:itu:recommendation` with
+  # `series: R`, so `_type` did not separate the families.
+  #
+  # Both Resolution spellings are one :resolution family. The first full run after
+  # relaton#402 wipes every committed itu-r-r-* and writes resolution-itu-r-*; if
+  # the two were counted apart, that rename would read as a 245 -> 0 collapse and
+  # abort the very run that repairs the dataset.
   #
   # Handbooks land in :question (`itu-r-43-hdb-2013.yaml` leads with a digit).
   # That is harmless: ~63 edition-keyed handbook files against ~789 Questions is
@@ -311,7 +345,8 @@ module ItuCrawler
       base = File.basename(f)
       h[case base
          when /\Areport-itu-r-/ then :report       # Report ITU-R … (relaton #110)
-         when /\Aitu-r-r-/ then :resolution        # series "R" is Resolutions only
+         when /\Aresolution-itu-r-/ then :resolution # Resolution ITU-R … (relaton#402)
+         when /\Aitu-r-r-/ then :resolution        # pre-#402 name: series "R"
          when /\Aitu-r-\d/ then :question          # + the preserved handbooks
          else :recommendation
          end] += 1
@@ -379,11 +414,12 @@ module ItuCrawler
       warn("warning: `git add` failed (not a git repo?); files were still written")
   end
 
-  # guard_report_seed runs FIRST, before the harvest: it is a precondition on the
-  # dataset the harvest READS, not a verdict on what it produced, and the state it
-  # rejects takes ~3.5 h to discover any other way. It could not be moved after the
-  # harvest even if time were free — by then the duplicate Reports are written and
-  # indexed, and the collapse guards would wave the run through.
+  # guard_report_seed and guard_resolution_seed run FIRST, before the harvest: they
+  # are preconditions on the dataset the harvest READS, not verdicts on what it
+  # produced, and the states they reject take ~3.5 h to discover any other way.
+  # They could not be moved after the harvest even if time were free — by then the
+  # duplicate Reports or Resolutions are written and indexed, and the collapse
+  # guards would wave the run through.
   #
   # The rest keep their order. write_zip runs before the guards so index-v2.yaml
   # (saved by the fetcher) and index-v2.zip can never be left out of sync by an
@@ -391,6 +427,7 @@ module ItuCrawler
   # non-zero exit fails the workflow's fetch step before its commit.
   def run
     guard_report_seed
+    guard_resolution_seed
     harvest
     write_zip
     guard_itut_harvest

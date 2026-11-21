@@ -132,12 +132,13 @@ RSpec.describe ItuCrawler do
 
     # The ITU-R records are no longer preserved: ITU is the sole author of them,
     # which is the point of crawling it at all. Both spellings must go — a Report
-    # is data/report-itu-r-* (relaton #110).
-    it "wipes both sectors, both ITU-R spellings, on a full run" do
+    # is data/report-itu-r-* (relaton #110), a Resolution
+    # data/resolution-itu-r-* (relaton#402).
+    it "wipes both sectors, every ITU-R spelling, on a full run" do
       ENV.delete "RELATON_ITU_MODE"
       in_tmp_repo do
         touch "itu-r-bo-600-1.yaml", "report-itu-r-bt-2020-1.yaml",
-              "itu-t-a-1-10-2000.yaml"
+              "resolution-itu-r-1-9.yaml", "itu-t-a-1-10-2000.yaml"
         described_class.harvest
 
         expect(Dir["data/*.yaml"]).to be_empty
@@ -152,12 +153,12 @@ RSpec.describe ItuCrawler do
       ENV["RELATON_ITU_MODE"] = "top_up"
       in_tmp_repo do
         touch "itu-r-bo-600-1.yaml", "report-itu-r-bt-2020-1.yaml",
-              "itu-t-a-1-10-2000.yaml"
+              "resolution-itu-r-1-9.yaml", "itu-t-a-1-10-2000.yaml"
         described_class.harvest
 
         expect(Dir["data/*.yaml"].map { |f| File.basename f })
           .to contain_exactly("itu-r-bo-600-1.yaml", "report-itu-r-bt-2020-1.yaml",
-                              "itu-t-a-1-10-2000.yaml")
+                              "resolution-itu-r-1-9.yaml", "itu-t-a-1-10-2000.yaml")
       end
     end
 
@@ -190,6 +191,20 @@ RSpec.describe ItuCrawler do
       end
     end
 
+    # A Resolution is filed outside data/itu-r-* since relaton#402. If the glob
+    # missed it, a top-up would drop its index row while `git add -A data` still
+    # stages the file.
+    it "takes every ITU-R spelling in the ITU-R glob" do
+      in_tmp_repo do
+        touch "itu-r-bo-600-1.yaml", "report-itu-r-bt-2020-1.yaml",
+              "resolution-itu-r-1-9.yaml", "itu-t-a-1-10-2000.yaml"
+
+        expect(Dir[ItuCrawler::DATA_R_GLOB].map { |f| File.basename f })
+          .to contain_exactly("itu-r-bo-600-1.yaml", "report-itu-r-bt-2020-1.yaml",
+                              "resolution-itu-r-1-9.yaml")
+      end
+    end
+
     # The same hazard on the ITU-T side since relaton #117: DataFetcher#top_up_rows
     # drops every row of a family with no new edition, so a quiet day harvests a
     # handful of families and would otherwise publish an index of only those —
@@ -212,10 +227,11 @@ RSpec.describe ItuCrawler do
                                           data/itu-r-bo-600-1.yaml
                                           data/report-itu-r-bt-2020-1.yaml
                                           data/itu-r-r-1-1993.yaml
+                                          data/resolution-itu-r-1-9.yaml
                                           data/itu-r-202-2-2002.yaml
                                           data/itu-r-43-hdb-2013.yaml
                                         ]))
-        .to eq(recommendation: 1, report: 1, resolution: 1, question: 2)
+        .to eq(recommendation: 1, report: 1, resolution: 2, question: 2)
     end
   end
 
@@ -264,6 +280,44 @@ RSpec.describe ItuCrawler do
     end
   end
 
+  describe ".guard_resolution_seed" do
+    # The state relaton#402 leaves this repo in: 245 data/itu-r-r-*, zero
+    # data/resolution-itu-r-*. A top-up here writes every Resolution a second time
+    # under its new name, beside the old copy.
+    it "aborts a top-up onto a pre-relaton#402 dataset" do
+      ENV["RELATON_ITU_MODE"] = "top_up"
+      in_tmp_repo do
+        touch "itu-r-bo-600-1.yaml", "report-itu-r-bt-2020-1.yaml", "itu-r-r-1-1993.yaml"
+        expect { described_class.guard_resolution_seed }
+          .to raise_error(SystemExit).and output(/pre-relaton#402/).to_stderr
+      end
+    end
+
+    it "does not fire on a full run, which is what repairs the dataset" do
+      ENV.delete "RELATON_ITU_MODE"
+      in_tmp_repo do
+        touch "itu-r-r-1-1993.yaml"
+        expect { described_class.guard_resolution_seed }.not_to raise_error
+      end
+    end
+
+    it "does not fire when no old-named Resolution is on disk" do
+      ENV["RELATON_ITU_MODE"] = "top_up"
+      in_tmp_repo do
+        touch "itu-r-bo-600-1.yaml", "report-itu-r-bt-2020-1.yaml"
+        expect { described_class.guard_resolution_seed }.not_to raise_error
+      end
+    end
+
+    it "does not fire once the Resolution rebuild has landed" do
+      ENV["RELATON_ITU_MODE"] = "top_up"
+      in_tmp_repo do
+        touch "itu-r-r-1-1993.yaml", "resolution-itu-r-1-9.yaml"
+        expect { described_class.guard_resolution_seed }.not_to raise_error
+      end
+    end
+  end
+
   describe ".guard_itur_harvest" do
     it "passes when the corpus is intact" do
       in_tmp_repo do
@@ -303,6 +357,32 @@ RSpec.describe ItuCrawler do
         expect { described_class.guard_itur_harvest }.not_to raise_error
       end
     end
+
+    # The first full run after relaton#402: the wipe removes every itu-r-r-* and
+    # the crawl writes them back as resolution-itu-r-*. Both names are the one
+    # :resolution family, or this run reads as a 245 -> 0 collapse and aborts.
+    it "does not fire on the Resolution rename" do
+      in_tmp_repo do
+        commit(*Array.new(100) { |i| "itu-r-bo-#{i}.yaml" },
+               *Array.new(245) { |i| "itu-r-r-#{i}.yaml" })
+        FileUtils.rm_f Dir["data/itu-r-r-*.yaml"]
+        touch(*Array.new(245) { |i| "resolution-itu-r-#{i}.yaml" })
+
+        expect { described_class.guard_itur_harvest }.not_to raise_error
+      end
+    end
+
+    # And once the new names are committed, losing them is a collapse.
+    it "aborts when committed new-named Resolutions collapse" do
+      in_tmp_repo do
+        commit(*Array.new(100) { |i| "itu-r-bo-#{i}.yaml" },
+               *Array.new(20) { |i| "resolution-itu-r-#{i}.yaml" })
+        FileUtils.rm_f Dir["data/resolution-itu-r-*.yaml"]
+
+        expect { described_class.guard_itur_harvest }
+          .to raise_error(SystemExit).and output(/resolution/).to_stderr
+      end
+    end
   end
 
   # rubyzip is not in the Gemfile. It comes from relaton, which sets its version.
@@ -333,6 +413,17 @@ RSpec.describe ItuCrawler do
       ENV["RELATON_ITU_MODE"] = "top_up"
       in_tmp_repo do
         touch "itu-r-bo-600-1.yaml"
+        allow(described_class).to receive(:harvest)
+
+        expect { described_class.run }.to raise_error(SystemExit)
+        expect(described_class).not_to have_received(:harvest)
+      end
+    end
+
+    it "aborts a bad Resolution seed before the harvest" do
+      ENV["RELATON_ITU_MODE"] = "top_up"
+      in_tmp_repo do
+        touch "itu-r-bo-600-1.yaml", "report-itu-r-bt-2020-1.yaml", "itu-r-r-1-1993.yaml"
         allow(described_class).to receive(:harvest)
 
         expect { described_class.run }.to raise_error(SystemExit)

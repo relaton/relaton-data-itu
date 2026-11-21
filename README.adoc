@@ -6,17 +6,18 @@ by Relaton-ITU. It supersedes the ITU-R-only
 https://github.com/relaton/relaton-data-itu-r[relaton-data-itu-r] repository.
 
 Data is stored in Relaton YAML format in a single flat `data/` folder, with the
-two sectors distinguished by filename prefix (`data/itu-r-*` and
-`data/report-itu-r-*` vs `data/itu-t-*`). A single top-level `data/` is what
+two sectors distinguished by filename prefix (`data/itu-r-*`,
+`data/report-itu-r-*` and `data/resolution-itu-r-*` vs `data/itu-t-*`). A single top-level `data/` is what
 `relaton index --flavor itu` scans, matching every other `relaton-data-*`
 repository:
 
-* `data/itu-r-*`, `data/report-itu-r-*` — ITU-R Recommendations, Reports,
+* `data/itu-r-*`, `data/report-itu-r-*`, `data/resolution-itu-r-*` — ITU-R Recommendations, Reports,
   Questions, Resolutions and Handbooks. ITU decommissioned the `RunSearch`
   bulk-enumeration endpoint this corpus was originally migrated with, so it is
   *crawled from the `/pub` + `/rec` pages ITU still renders* (relaton#112).
-  Reports carry their own identity — a docid leading with `Report ` (relaton#110)
-  — which is why the sector needs two filename prefixes.
+  Reports and Resolutions carry their own identity — a docid leading with
+  `Report ` (relaton#110) or `Resolution ` (relaton#402, for example
+  `Resolution ITU-R 1-9`) — which is why the sector needs three filename prefixes.
 * `data/itu-t-*` — ITU-T Recommendations (and supplements/amendments/corrigenda).
   Harvested from the ITU-T recommendation index
   (`mws/api/recommendations/searchRecs`, issue relaton-itu#80).
@@ -60,7 +61,9 @@ selects how much of the corpus a run re-derives. Both sectors honour it:
 The first run against a dataset that predates relaton#110 must be `full`: a
 `top_up` would add every Report a second time under its new `Report …` name,
 beside the old-named copy. The crawler refuses such a run before it starts
-(`.guard_report_seed`), and only a full run retires the old names.
+(`.guard_report_seed`), and only a full run retires the old names. The same
+holds for a dataset that predates relaton#402, where Resolutions are still filed
+as `data/itu-r-r-*`: the crawler refuses a `top_up` (`.guard_resolution_seed`).
 
 `RELATON_ITU_DELAY` (default `1.0`) is the politeness pause. It is the minimum gap
 between request _starts_, shared by the ITU-R worker pool
