@@ -62,15 +62,15 @@ abstract:
     The service is available between one single caller and one single provider.The
     partitioning of subnetworks and links is not addressed in this community.Enterprise
     community actions covered by this specification:    • create access group;    •
-    delete access group;    • create link;    • delete link;    • create
-    link end;    • delete link end;    • create subnetwork;    • delete subnetwork;    •
-    create topological link;    • delete topological link;    • create topological
-    link end;    • delete topological link end;    • report access group creation;    •
-    report access group deletion;    • report link creation;    • report link
-    deletion;    • report link end creation;    • report link end deletion;    •
-    report subnetwork creation;    • report subnetwork deletion;    • report
-    topological link creation;    • report topological link deletion;    • report
-    topological link end creation;    • report topological link end deletion.'
+    delete access group;    • create link;    • delete link;    • create link end;    •
+    delete link end;    • create subnetwork;    • delete subnetwork;    • create
+    topological link;    • delete topological link;    • create topological link
+    end;    • delete topological link end;    • report access group creation;    •
+    report access group deletion;    • report link creation;    • report link deletion;    •
+    report link end creation;    • report link end deletion;    • report subnetwork
+    creation;    • report subnetwork deletion;    • report topological link creation;    •
+    report topological link deletion;    • report topological link end creation;    •
+    report topological link end deletion.'
 status:
   stage:
     content: Published

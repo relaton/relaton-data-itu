@@ -52,9 +52,9 @@ script:
 abstract:
 - language: en
   script: Latn
-  content: Recommendation ITU‑T Y.3602 describes a model and operations for big
-    data provenance. Also, this Recommendation provides the functional requirements
-    for big data service provider (BDSP) to manage big data provenance. The reliability
+  content: Recommendation ITU‑T Y.3602 describes a model and operations for big data
+    provenance. Also, this Recommendation provides the functional requirements for
+    big data service provider (BDSP) to manage big data provenance. The reliability
     of data is an important factor in determining the reliability of the analysis
     result. Data provenance aims to ensure the reliability of data by providing transparency
     of the historical path of the data. In a big data environment, complex data processing
@@ -89,8 +89,7 @@ relation:
     title:
     - language: en
       script: Latn
-      content: ITU-T Y.3600-series – Big data and data handling standardization
-        roadmap
+      content: ITU-T Y.3600-series – Big data and data handling standardization roadmap
     docidentifier:
     - content: Y Suppl. 40 (11/2023)
       type: ITU

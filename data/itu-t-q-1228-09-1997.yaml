@@ -68,15 +68,15 @@ abstract:
     protocol support for the Call Unrelated Service Function (CUSF) to Service Control
     Function (SCF) to support non-call related interactions between users and the
     SCF;    • additional details on services assumed from lower layers and generic
-    interface security;    • validated SDLs for SSF-related procedure handling
-    based upon Z.100 object-oriented Specification and Description language.Within
-    the Q.122x Recommendation series, Recommendation Q.1228 describes the protocol
-    realizing the Q.1224 distribution of Q.1223 Global Functional Plane functionality
-    in a service and vendor/implementation independent manner, as constrained by the
-    capabilities of the embedded base of evolvable network technology. This provides
-    the flexibility to allocate distributed functionality into multiple physical network
-    configurations, as described in Recommendation Q.1225, and to evolve IN from IN
-    CS-2 to some future CS-N.'
+    interface security;    • validated SDLs for SSF-related procedure handling based
+    upon Z.100 object-oriented Specification and Description language.Within the Q.122x
+    Recommendation series, Recommendation Q.1228 describes the protocol realizing
+    the Q.1224 distribution of Q.1223 Global Functional Plane functionality in a service
+    and vendor/implementation independent manner, as constrained by the capabilities
+    of the embedded base of evolvable network technology. This provides the flexibility
+    to allocate distributed functionality into multiple physical network configurations,
+    as described in Recommendation Q.1225, and to evolve IN from IN CS-2 to some future
+    CS-N.'
 status:
   stage:
     content: Published
@@ -334,9 +334,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital
-        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
-        – Support of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
+        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
+        of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -346,8 +346,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework
-        for an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework for
+        an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU

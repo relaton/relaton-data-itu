@@ -61,14 +61,13 @@ abstract:
     better cell coverage, spectrum efficiency and other valuable features of the cellular
     networks. However,  there is still a need to specify a procedure which may switch
     between two algorithms used for D2D communication according to the cell status,
-    as follows: ‒ communication algorithm which is used in a stable condition of
-    the cell, ‒ communication algorithm which is used in the situation when the
-    serving base station (BS) becomes unavailable at certain periods of time. This
-    procedure should be based on an energy efficient intra-cell clustering and the
-    procedure should be able to reuse frequency between clusters. The key advantage
-    of the procedure is the reducing of the signalling overhead. Recommendation ITU-T
-    Q.5022 describes a D2D communication procedure to be used as a part of the IMT-2020
-    control plane. '
+    as follows: ‒ communication algorithm which is used in a stable condition of the
+    cell, ‒ communication algorithm which is used in the situation when the serving
+    base station (BS) becomes unavailable at certain periods of time. This procedure
+    should be based on an energy efficient intra-cell clustering and the procedure
+    should be able to reuse frequency between clusters. The key advantage of the procedure
+    is the reducing of the signalling overhead. Recommendation ITU-T Q.5022 describes
+    a D2D communication procedure to be used as a part of the IMT-2020 control plane. '
 status:
   stage:
     content: Published
@@ -326,9 +325,9 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Broadband integrated services digital network (B-ISDN) – Digital
-        subscriber signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP)
-        – Support of services over IP-based networks
+      content: Broadband integrated services digital network (B-ISDN) – Digital subscriber
+        signalling system No. 2 (DSS2) and signalling system No. 7 (B-ISUP) – Support
+        of services over IP-based networks
     docidentifier:
     - content: Q Suppl. 26 (12/1999)
       type: ITU
@@ -338,8 +337,8 @@ relation:
     title:
     - language: en
       script: Latn
-      content: Technical Report – Overview of Signalling and Protocol Framework
-        for an Emerging Environment (SPFEE)
+      content: Technical Report – Overview of Signalling and Protocol Framework for
+        an Emerging Environment (SPFEE)
     docidentifier:
     - content: Q Suppl. 27 (12/1999)
       type: ITU
